@@ -1,0 +1,4403 @@
+{
+  "letters": 176251,
+  "pages": 85,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 6
+    },
+    "company_name": "archTIS Limited",
+    "major_industry": "Technology",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 14,
+          "title": "Cipherpoint Technology Acquisition & FY22 Overview",
+          "data": [
+            {
+              "key": "Acquisition Announcement",
+              "value": "As announced on 20 September 2021, archTIS acquired business technology assets, customers, and employees from Cipherpoint Limited and its subsidiaries."
+            },
+            {
+              "key": "Acquisition Details",
+              "value": "Acquisition included intellectual property for ‘cp.Protect’ (an advanced SharePoint on-premises data encryption solution) and ‘cp.Discover’ (a data discovery and classification platform), along with new customer relationships (e.g., DHL, Bank of Finland, Arthur J. Gallagher) and key technology partners (NTT Singapore and NTT DATA Deutschland)."
+            },
+            {
+              "key": "Acquisition Price",
+              "value": "$1.4M initial cash consideration with an additional $0.1M settled on 31 March 2022."
+            },
+            {
+              "key": "Related Innovation",
+              "value": "Introduction of a new NC Protect watermarking feature to support CUI Designator labelling to meet US Defence, CMMC 2.0, NIST and ITAR compliance requirements."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 20,
+          "title": "DIRECTORS’ REPORT – Dividends and Business Combinations",
+          "data": [
+            {
+              "key": "Dividends",
+              "value": "No dividends were paid during the financial year."
+            },
+            {
+              "key": "Acquisition Announcement Date",
+              "value": "20 September 2021"
+            },
+            {
+              "key": "Acquirer",
+              "value": "archTIS Limited"
+            },
+            {
+              "key": "Acquisition Details",
+              "value": "Acquired certain business assets, customers, and employees connected with the software division of Cipherpoint Limited and its subsidiaries as disclosed in note 12 Business Combinations."
+            },
+            {
+              "key": "Acquired Assets",
+              "value": "Includes intellectual property of ‘cp.Protect’ (advanced SharePoint on-premise data encryption solution) and ‘cp.Discover’ (data discovery and classification platform)."
+            },
+            {
+              "key": "Other Matters",
+              "value": "No other significant changes in the state of affairs; subsequent matters and COVID-19 impacts were discussed without affecting future operations significantly."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 40,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2022 – SIGNIFICANT ACCOUNTING POLICIES",
+          "data": [
+            {
+              "key": "Fair value measurement",
+              "value": "Describes the methodology for measuring assets and liabilities at fair value, including the use of observable inputs and classification into three levels."
+            },
+            {
+              "key": "Issued capital",
+              "value": "Ordinary shares are classified as equity; incremental costs attributable to new share issues are shown as a deduction from proceeds."
+            },
+            {
+              "key": "Dividends",
+              "value": "Dividends are recognized when declared during the financial year, rather than at the discretion of the company."
+            },
+            {
+              "key": "Business combinations",
+              "value": "The acquisition method is used for accounting for business combinations, including measurement of non-controlling interest, treatment of acquisition costs, and recognition of contingent considerations."
+            },
+            {
+              "key": "Earnings per share",
+              "value": "Details on calculation of basic and diluted earnings per share, including adjustments for bonus shares and after-tax effects of potential ordinary shares."
+            },
+            {
+              "key": "Goods and Services Tax (GST)",
+              "value": "Explains the treatment of GST in revenues, expenses, assets, receivables and payables, and cash flow presentation."
+            },
+            {
+              "key": "New Accounting Standards",
+              "value": "Discloses the entity’s approach to new or amended accounting standards and interpretations that are not yet mandatory or have been early adopted."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 48,
+          "title": "Note 12. Intangible assets (continued)",
+          "data": [
+            {
+              "key": "Acquisition Target",
+              "value": "Software division of Cipherpoint Limited"
+            },
+            {
+              "key": "Customer Contracts Valuation Method",
+              "value": "Multi-period excess earnings method"
+            },
+            {
+              "key": "Customer Contracts Assumptions",
+              "value": "Churn of 21%, Price attrition of 5% per annum, Maintenance and support costs factored in"
+            },
+            {
+              "key": "Discount Rate for Customer Contracts",
+              "value": "18%"
+            },
+            {
+              "key": "Customer Contracts Amortisation Period",
+              "value": "3 years"
+            },
+            {
+              "key": "Software Valuation Method",
+              "value": "Relief from royalty method"
+            },
+            {
+              "key": "Software Assumptions",
+              "value": "Sales from forecast model, 5 years of data, Royalty rate of 18.8%"
+            },
+            {
+              "key": "Software Discount Rate",
+              "value": "18%"
+            },
+            {
+              "key": "Software Amortisation Period",
+              "value": "3 years (useful life)"
+            },
+            {
+              "key": "Goodwill",
+              "value": "Calculated as the difference between the fair value of the purchase consideration and the fair value of the net assets acquired; subject to annual impairment test"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 50,
+          "title": "Intangible Assets and Goodwill Statement 2021 / Note 12. Intangible assets (continued)",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Intangible Assets and Goodwill Statement 2021"
+            },
+            {
+              "key": "Category 1",
+              "value": "Cost"
+            },
+            {
+              "key": "Opening Balance - Internally Generated Software",
+              "value": "5925324"
+            },
+            {
+              "key": "Opening Balance - Development In Progress",
+              "value": "3052760"
+            },
+            {
+              "key": "Opening Balance - Customer Contracts",
+              "value": "0"
+            },
+            {
+              "key": "Opening Balance - Software",
+              "value": "0"
+            },
+            {
+              "key": "Opening Balance - Goodwill",
+              "value": "0"
+            },
+            {
+              "key": "Opening Balance - Total",
+              "value": "8978084"
+            },
+            {
+              "key": "Closing Balance - Internally Generated Software",
+              "value": "5925324"
+            },
+            {
+              "key": "Closing Balance - Development In Progress",
+              "value": "3271719"
+            },
+            {
+              "key": "Closing Balance - Customer Contracts",
+              "value": "1719475"
+            },
+            {
+              "key": "Closing Balance - Software",
+              "value": "6373926"
+            },
+            {
+              "key": "Closing Balance - Goodwill",
+              "value": "2789524"
+            },
+            {
+              "key": "Closing Balance - Total",
+              "value": "20079968"
+            },
+            {
+              "key": "Category 2",
+              "value": "Accumulated Amortisation"
+            },
+            {
+              "key": "Opening Balance - Internally Generated Software (Amortisation)",
+              "value": "-1342808"
+            },
+            {
+              "key": "Opening Balance - Total (Amortisation)",
+              "value": "-1342808"
+            },
+            {
+              "key": "Closing Balance - Internally Generated Software (Amortisation)",
+              "value": "-2527873"
+            },
+            {
+              "key": "Closing Balance - Customer Contracts (Amortisation)",
+              "value": "-171947"
+            },
+            {
+              "key": "Closing Balance - Software (Amortisation)",
+              "value": "-637393"
+            },
+            {
+              "key": "Closing Balance - Total (Amortisation)",
+              "value": "-3337213"
+            },
+            {
+              "key": "Category 3",
+              "value": "Deferred R&D Tax Incentive"
+            },
+            {
+              "key": "Opening Balance - Internally Generated Software (R&D Tax)",
+              "value": "-1819315"
+            },
+            {
+              "key": "Opening Balance - Development In Progress (R&D Tax)",
+              "value": "-1554509"
+            },
+            {
+              "key": "Opening Balance - Total (R&D Tax)",
+              "value": "-3373824"
+            },
+            {
+              "key": "Closing Balance - Internally Generated Software (R&D Tax)",
+              "value": "-1344303"
+            },
+            {
+              "key": "Closing Balance - Development In Progress (R&D Tax)",
+              "value": "-1650235"
+            },
+            {
+              "key": "Closing Balance - Total (R&D Tax)",
+              "value": "-2994538"
+            },
+            {
+              "key": "Category 4",
+              "value": "Net Book Value"
+            },
+            {
+              "key": "Net Book Value - Internally Generated Software",
+              "value": "2053148"
+            },
+            {
+              "key": "Net Book Value - Development In Progress",
+              "value": "1621484"
+            },
+            {
+              "key": "Net Book Value - Customer Contracts",
+              "value": "1547528"
+            },
+            {
+              "key": "Net Book Value - Software",
+              "value": "5736533"
+            },
+            {
+              "key": "Net Book Value - Goodwill",
+              "value": "2789524"
+            },
+            {
+              "key": "Net Book Value - Total",
+              "value": "13748217"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents the movement of intangible assets and goodwill for 2021. The total assets increased significantly from $8.98M to $20.08M, primarily due to business combinations ($10.81M). Key components include internally generated software, development in progress, customer contracts, software, and goodwill. After accounting for accumulated amortisation ($3.34M) and deferred R&D tax incentives ($2.99M), the net book value at 30 June 2021 was $13.75M. Software represents the largest component at $5.74M net book value, followed by goodwill at $2.79M."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 66,
+          "title": "Note 35. Business combinations / Business Acquisition Statement",
+          "data": [
+            {
+              "key": "Acquisition Date",
+              "value": "20 September 2021"
+            },
+            {
+              "key": "Acquirer",
+              "value": "archTIS Limited"
+            },
+            {
+              "key": "Target",
+              "value": "Cipherpoint Limited (software division)"
+            },
+            {
+              "key": "Consideration",
+              "value": "$1,507,264"
+            },
+            {
+              "key": "Acquired Assets",
+              "value": "Business assets, customers, employees, and intellectual property including ‘cp.Protect’ (a SharePoint on-premises data encryption solution) and ‘cp.Discover’ (data discovery and classification platform)"
+            },
+            {
+              "key": "Revenue Contribution (20 Sep 2021 to 30 Jun 2022)",
+              "value": "$244,691 with breakeven after tax"
+            },
+            {
+              "key": "Projected Full Year Contribution (if acquired on 1 Jul 2021)",
+              "value": "$325,525 with breakeven after tax"
+            },
+            {
+              "key": "Finalization Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Table - Intangible Assets (Software)",
+              "value": "1,555,359"
+            },
+            {
+              "key": "Table - Intangible Assets (Customer Relationships)",
+              "value": "167,904"
+            },
+            {
+              "key": "Table - Deferred Tax Liability",
+              "value": "(41,976)"
+            },
+            {
+              "key": "Table - Deferred Revenue",
+              "value": "(219,809)"
+            },
+            {
+              "key": "Table - Net Assets Acquired",
+              "value": "1,507,264"
+            },
+            {
+              "key": "Table - Acquisition-date Fair Value of Total Consideration Transferred",
+              "value": "1,507,264"
+            },
+            {
+              "key": "Table - Cash Paid / Net Cash Used",
+              "value": "1,507,264"
+            },
+            {
+              "key": "Summary",
+              "value": "The table shows a breakdown of assets acquired and liabilities assumed in the business acquisition transaction, leading to a final consideration of $1,507,264."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 67,
+          "title": "Business combinations (continued)",
+          "data": [
+            {
+              "key": "Notes Date",
+              "value": "30 JUNE 2022"
+            },
+            {
+              "key": "Note Number",
+              "value": "35"
+            },
+            {
+              "key": "Acquirer",
+              "value": "archTIS Limited"
+            },
+            {
+              "key": "Target",
+              "value": "Nucleus Cyber Inc"
+            },
+            {
+              "key": "Acquisition Date",
+              "value": "23 December 2020"
+            },
+            {
+              "key": "Cash and cash equivalents",
+              "value": "331060"
+            },
+            {
+              "key": "Trade receivables",
+              "value": "13597"
+            },
+            {
+              "key": "Prepayments",
+              "value": "15117"
+            },
+            {
+              "key": "Other debtors",
+              "value": "500"
+            },
+            {
+              "key": "R&D refund receivable",
+              "value": "235329"
+            },
+            {
+              "key": "Deferred tax asset",
+              "value": "106903"
+            },
+            {
+              "key": "Intangible assets - software",
+              "value": "6318174"
+            },
+            {
+              "key": "Intangible assets - customer relationships",
+              "value": "1704435"
+            },
+            {
+              "key": "Deferred tax liability",
+              "value": "-1831562"
+            },
+            {
+              "key": "Trade payables and accruals",
+              "value": "-648089"
+            },
+            {
+              "key": "Deferred revenue",
+              "value": "-792402"
+            },
+            {
+              "key": "Other current liabilities",
+              "value": "-173773"
+            },
+            {
+              "key": "Employee benefits",
+              "value": "-42176"
+            },
+            {
+              "key": "Convertible notes",
+              "value": "-266765"
+            },
+            {
+              "key": "Loans & finance",
+              "value": "-203223"
+            },
+            {
+              "key": "Goodwill",
+              "value": "2789524"
+            },
+            {
+              "key": "Total consideration",
+              "value": "7556649"
+            },
+            {
+              "key": "Cash paid",
+              "value": "5097849"
+            },
+            {
+              "key": "Issued share capital",
+              "value": "2458800"
+            },
+            {
+              "key": "Acquisition costs expensed",
+              "value": "51604"
+            },
+            {
+              "key": "Net cash used",
+              "value": "-331060"
+            },
+            {
+              "key": "Summary",
+              "value": "The table details the purchase price allocation for the acquisition, highlighting major items such as intangible assets (software and customer relationships), goodwill, and the split of total consideration between cash and share capital, with a net cash impact of -331,060."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 71,
+          "title": "Business Combination Audit Procedures & Key Audit Matters",
+          "data": [
+            {
+              "key": "Transaction Details",
+              "value": "During the year, archTIS completed a company acquisition. Management determined this acquisition to be a business combination under AASB 3 Business Combinations."
+            },
+            {
+              "key": "Equity Consideration",
+              "value": "The agreement involved the issue of equity consideration."
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "Procedures included obtaining the share purchase agreement and related documents, and confirming that the transaction met the definition of a business combination under AASB 3 rather than an asset acquisition."
+            },
+            {
+              "key": "Reference",
+              "value": "Refer to Note 34 in the financial statements."
+            },
+            {
+              "key": "Key Audit Matters",
+              "value": "Key audit matters are those issues deemed most significant in the audit of the financial report, addressed in the context of the overall audit without a separate opinion."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 76,
+          "title": "Shareholding Distribution",
+          "data": [
+            {
+              "key": "Shares Range",
+              "value": "1 to 1,000"
+            },
+            {
+              "key": "Holders",
+              "value": "-"
+            },
+            {
+              "key": "Units",
+              "value": "-"
+            },
+            {
+              "key": "%",
+              "value": "-"
+            },
+            {
+              "key": "Shares Range",
+              "value": "1,001 to 5,000"
+            },
+            {
+              "key": "Holders",
+              "value": "-"
+            },
+            {
+              "key": "Units",
+              "value": "-"
+            },
+            {
+              "key": "%",
+              "value": "-"
+            },
+            {
+              "key": "Shares Range",
+              "value": "5,001 to 10,000"
+            },
+            {
+              "key": "Holders",
+              "value": "-"
+            },
+            {
+              "key": "Units",
+              "value": "-"
+            },
+            {
+              "key": "%",
+              "value": "-"
+            },
+            {
+              "key": "Shares Range",
+              "value": "10,001 to 100,000"
+            },
+            {
+              "key": "Holders",
+              "value": "-"
+            },
+            {
+              "key": "Units",
+              "value": "-"
+            },
+            {
+              "key": "%",
+              "value": "-"
+            },
+            {
+              "key": "Shares Range",
+              "value": "100,001 and over"
+            },
+            {
+              "key": "Holders",
+              "value": "1"
+            },
+            {
+              "key": "Units",
+              "value": "420,000"
+            },
+            {
+              "key": "%",
+              "value": "100%"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 76,
+          "title": "Additional Securities Information",
+          "data": [
+            {
+              "key": "Shares Range",
+              "value": "1 to 1,000"
+            },
+            {
+              "key": "Count",
+              "value": "-"
+            },
+            {
+              "key": "Value",
+              "value": "-"
+            },
+            {
+              "key": "Percentage",
+              "value": "-"
+            },
+            {
+              "key": "Shares Range",
+              "value": "1,001 to 5,000"
+            },
+            {
+              "key": "Count",
+              "value": "-"
+            },
+            {
+              "key": "Value",
+              "value": "-"
+            },
+            {
+              "key": "Percentage",
+              "value": "-"
+            },
+            {
+              "key": "Shares Range",
+              "value": "5,001 to 10,000"
+            },
+            {
+              "key": "Count",
+              "value": "-"
+            },
+            {
+              "key": "Value",
+              "value": "-"
+            },
+            {
+              "key": "Percentage",
+              "value": "-"
+            },
+            {
+              "key": "Shares Range",
+              "value": "10,001 to 100,000"
+            },
+            {
+              "key": "Count",
+              "value": "-"
+            },
+            {
+              "key": "Value",
+              "value": "-"
+            },
+            {
+              "key": "Percentage",
+              "value": "-"
+            },
+            {
+              "key": "Shares Range",
+              "value": "100,001 and over"
+            },
+            {
+              "key": "Count",
+              "value": "1"
+            },
+            {
+              "key": "Value",
+              "value": "800,000"
+            },
+            {
+              "key": "Percentage",
+              "value": "100%"
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 6,
+          "title": "CORPORATE DIRECTORY & LEADERSHIP INFORMATION",
+          "data": [
+            {
+              "key": "Directors",
+              "value": "Miles Jakeman AM, Daniel Lai, Leanne Graham"
+            },
+            {
+              "key": "Joint Company Secretaries",
+              "value": "Erlyn Dale, Winton Willesee"
+            },
+            {
+              "key": "Registered Office",
+              "value": "Level 3, archTIS House, 10 National Circuit, Barton ACT 2600; Phone: (02) 6162 2783"
+            },
+            {
+              "key": "Principal Place of Business",
+              "value": "Level 3, archTIS House, 10 National Circuit, Barton ACT 2600"
+            },
+            {
+              "key": "Share Registries",
+              "value": "Automic, Level 5, 191 St Georges Terrace, Perth, WA 6000; Link Market Services (Employee Incentive Plan Register), 10 Eagle Street, Brisbane, QLD 4000"
+            },
+            {
+              "key": "Auditor",
+              "value": "RSM Australia Partners, Equinox Building 4, Level 2, 70 Kent Street, Deakin, ACT 2600"
+            },
+            {
+              "key": "Stock Exchange Listing",
+              "value": "archTIS Limited shares are listed on ASX: AR9, OTCQB: ARHLF"
+            },
+            {
+              "key": "Website",
+              "value": "www.archtis.com"
+            },
+            {
+              "key": "Annual Report",
+              "value": "2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 10,
+          "title": "EXECUTIVE LEADERSHIP",
+          "data": [
+            {
+              "key": "DANIEL LAI",
+              "value": "CEO and Managing Director of archTIS. Extensive industry experience in delivering outcomes for government and commercial organisations, expertise in implementing organisational change and restructuring to address evolving business challenges."
+            },
+            {
+              "key": "KURT MUEFFELMANN",
+              "value": "Global COO & US President of archTIS. Brings over 25 years of technology leadership, experienced in scaling go to market strategies, previously served as CEO and General Manager in multiple technology companies with a track record of growth and successful exits."
+            },
+            {
+              "key": "KYLIE SHEATHER",
+              "value": "Chief Financial Officer of archTIS with extensive SaaS industry experience. Held senior financial roles including TechnologyOne Director of Finance and Business Partnering, and previous roles in listed companies ensuring strong project management and change management."
+            },
+            {
+              "key": "THOMAS MYERSCOUGH",
+              "value": "Chief Technology Officer of archTIS. Responsible for managing technical strategy, service management, and key technology partnerships. Brings over 30 years of IT industry experience including significant federal government technology projects."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 11,
+          "title": "Leadership Profiles and Executive Biographies",
+          "data": [
+            {
+              "key": "LEIGH ROWLAND - CHIEF ENGINEER",
+              "value": "As Chief Engineer of archTIS, Leigh Rowland drives the evolution of the company’s technology, expanding NC Protect’s protection from on-premises SharePoint to cloud collaboration platforms such as SharePoint Online, Microsoft 365, Microsoft Teams, Nutanix, and Exchange emails. He began his career at Xerox and played key roles at startups including Cyxtera, Cryptzone (acquired by Cyxtera), and Create!form International. He holds a Bachelor of Science (Hons) in Mathematics from the University of York."
+            },
+            {
+              "key": "IRENA MROZ - CHIEF MARKETING OFFICER",
+              "value": "Irena Mroz is responsible for defining archTIS's branding, demand generation, and public relations. With more than 20 years of B2B marketing expertise, she leads the company's marketing strategy and communications programs. Her background includes senior marketing roles at cybersecurity startups and positions at companies such as Nucleus Cyber, Infocyte, Bottomline Technologies, and Create!form International. She holds a Bachelor of Science in Mass Communications from Boston University’s College of Communication."
+            },
+            {
+              "key": "BILL BELCHER - VICE PRESIDENT OF GLOBAL SALES",
+              "value": "Bill Belcher brings over 30 years of experience building sales teams, reseller channels, and system integrator relationships. He is responsible for the company's global sales teams with a focus on expanding the use of archTIS NC Protect and Kojensi solutions across defense and civilian agencies. His career includes roles at Boldon James, GE, Micromuse, and Spirent Communications. He holds a BA in Economics and Political Science and a Master of Public Administration with a concentration in organizational development from The American University."
+            },
+            {
+              "key": "MATTHEW KLUKEN - VICE PRESIDENT & GENERAL MANAGER ASIA PACIFIC",
+              "value": "Matt Kluken has 27 years of experience in the Information and Communication Technologies industry, having worked in sales, marketing, technical, and customer experience roles with companies such as Gartner, NetApp, CA Technologies, and Oracle. As VP & General Manager Asia Pacific, he focuses on building archTIS’s presence with global defense, intelligence, federal and state governments, and the defense industry, while expanding the partner ecosystem in the region."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 17,
+          "title": "Directors’ Report – archTIS Limited",
+          "data": [
+            {
+              "key": "Directors",
+              "value": "Miles Jakeman, Daniel Lai, Leanne Graham"
+            },
+            {
+              "key": "Miles Jakeman Profile",
+              "value": "Specialist in business strategy, leadership, high performance team development, and risk management. Former CEO and technology business founder with extensive experience in guiding companies in global markets. Co-founded and served as Managing Director of The Citadel Group Limited, growing the company from a start-up to an ASX-listed entity with over 300 staff and a market capitalisation exceeding $400M, later sold for $503M."
+            },
+            {
+              "key": "Educational Qualifications",
+              "value": "Bachelor of Science (Hons), Graduate Diploma in Asian Studies, PhD in Asian Studies, and a second PhD in Business Leadership."
+            },
+            {
+              "key": "Professional Credentials",
+              "value": "Fellow of the Australian Institute of Company Directors (AICD); completed AICD Diploma of International Company Directors and Mastering the Boardroom Advanced Diploma; appointed as a Member of the Order of Australia (AM)."
+            },
+            {
+              "key": "Share and Option Interests",
+              "value": "1,634,545 ordinary shares and 1,360,000 unlisted options."
+            },
+            {
+              "key": "Other Directorships",
+              "value": "Current: GetBusy plc (AIM:GetB), Fifth Domain Pty Ltd; Former: Manteena Security Australia Pty Ltd (resigned 20 August 2021), The Shepherd Centre Charity (resigned 22 March 2022)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 19,
+          "title": "Directors’ Report and Corporate Governance Overview",
+          "data": [
+            {
+              "key": "Board Meeting Attendance",
+              "value": "Miles Jakeman and Daniel Lai attended 12 out of 12 meetings, whereas Leanne Graham attended only 1 out of 12 meetings (8.33% attendance rate)"
+            },
+            {
+              "key": "Board Committees",
+              "value": "The Directors determined that the Group’s operations are not of sufficient magnitude to require separate Board Committees, with the Board assuming those roles."
+            },
+            {
+              "key": "Company Secretary",
+              "value": "The role is held jointly by Winton Willesee and Erlyn Dawson, both experienced professionals in corporate governance and capital markets."
+            },
+            {
+              "key": "Principal Activities",
+              "value": "Activities include sales of secure information management and collaboration software, integration of technologies into solutions, and consulting services."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 18,
+          "title": "Directors’ Report – Executive Compensation and Directorships",
+          "data": [
+            {
+              "key": "Director Name",
+              "value": "Daniel Lai"
+            },
+            {
+              "key": "Role",
+              "value": "Founding member; developed the business to achieve recognition by the Australian and United States Departments of Defence; experienced in implementing organisational change"
+            },
+            {
+              "key": "Interest in Shares and Options",
+              "value": "9,595,991 ordinary shares, 7,246 listed options, 612,245 performance rights"
+            },
+            {
+              "key": "Other Current Directorships",
+              "value": "None"
+            },
+            {
+              "key": "Former Directorships (last 3 years)",
+              "value": "None"
+            },
+            {
+              "key": "Director Name",
+              "value": "Leanne Graham"
+            },
+            {
+              "key": "Role",
+              "value": "Non-Executive Director; with over 30 years in the software sector; assisted technology companies with SaaS expertise; awarded the New Zealand Order of Merit in 2018 for services to the software industry"
+            },
+            {
+              "key": "Interest in Shares and Options",
+              "value": "773,474 ordinary shares, 6,612 listed options, 750,000 unlisted options"
+            },
+            {
+              "key": "Other Current Directorships",
+              "value": "Non-Executive Director of Bill Identity Limited and Bridge SaaS Limited"
+            },
+            {
+              "key": "Former Directorships (last 3 years)",
+              "value": "Douugh Limited (resigned 29 July 2022), Executive Chairman of Health House International Limited (formerly Velpic Limited) (resigned 19 March 2021), Non-Executive Director of AppsVillage (resigned 10 June 2020)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 21,
+          "title": "Directors’ Report: Indemnity, Insurance and Share Options",
+          "data": [
+            {
+              "key": "Environmental Regulation",
+              "value": "The Group is not subject to any significant environmental regulation under Australian Commonwealth or State law."
+            },
+            {
+              "key": "Indemnity and Insurance of Officers",
+              "value": "Directors and executives have been indemnified for costs incurred in their roles, with an insurance contract in place that covers such liabilities (details and premium amount undisclosed due to contractual prohibition)."
+            },
+            {
+              "key": "Legal Proceedings",
+              "value": "No person has applied to the Court under section 237 of the Corporations Act 2001 for proceedings on behalf of the Group."
+            },
+            {
+              "key": "Share Options",
+              "value": "Details of unissued ordinary shares under option (stock option plans) are provided, including class codes, grant dates, expiry dates, exercise prices, and number of options granted."
+            },
+            {
+              "key": "Share Options Table Summary",
+              "value": "The table lists multiple option grants from October 2017 to December 2021, with exercise prices ranging from $0.100 to $0.350 and option quantities varying from 250,000 to over 10 million."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 22,
+          "title": "DIRECTORS’ REPORT REMUNERATION REPORT (audited)",
+          "data": [
+            {
+              "key": "Purpose",
+              "value": "Details the key management personnel remuneration arrangements for the Group in accordance with section 300A of the Corporations Act 2001 and its Regulations."
+            },
+            {
+              "key": "Remuneration Philosophy",
+              "value": "Attract, motivate and retain high-performance and high-quality personnel, with remuneration for directors and executives not directly linked to Group performance. Annual fixed remuneration with incentive components based on agreed KPIs."
+            },
+            {
+              "key": "Executive Remuneration Components",
+              "value": "Consists of base pay and non-monetary benefits, short-term performance incentives, share-based payments, and other remuneration such as superannuation and long service leave."
+            },
+            {
+              "key": "Non-Executive Director Remuneration",
+              "value": "Fees and payments reflect role responsibilities, are reviewed annually by the Board, and subject to ASX listing rules. Maximum annual aggregate remuneration approved by shareholders is $500,000 per annum."
+            },
+            {
+              "key": "Governance",
+              "value": "Separate remuneration structures for non-executive and executive directors following best corporate governance practices."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 23,
+          "title": "Directors’ Report Remuneration Report (AUDITED) - Executive Remuneration",
+          "data": [
+            {
+              "key": "Fixed Remuneration",
+              "value": "Fixed remuneration, consisting of base salary, superannuation and non-monetary benefits, is reviewed annually based on individual, business unit, and Group performance as well as market comparisons. Executives may receive these in cash or non-cash forms such as motor vehicle benefits."
+            },
+            {
+              "key": "Short-term Incentives (STI) Program",
+              "value": "The STI program is designed to align business unit targets with executive performance hurdles, with payments granted based on achievement of specific annual targets and KPIs."
+            },
+            {
+              "key": "Long-term Incentives (LTI) Program",
+              "value": "The LTI program includes long service leave and share-based payments, where securities are awarded over a three-year period and are based on measures such as increase in shareholders’ value relative to the market and competitors."
+            },
+            {
+              "key": "Key Management Personnel Overview",
+              "value": "The remuneration report details the remuneration of key management personnel of the Group. The personnel include the Chairman, Managing Director & CEO, Non-executive Director, and Global Chief Operations Officer."
+            },
+            {
+              "key": "Management Table Data",
+              "value": "Table 'Directors and Key Management Personnel': Miles Jakeman AM (Chairman), Daniel Lai (Managing Director & Chief Executive Officer), Leanne Graham (Non-executive Director), Kurt Mueffelmann (Global Chief Operations Officer)."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 24,
+          "title": "Directors’ Report Remuneration Report (AUDITED) (CONTINUED) - Directors and Key Management Personnel",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Directors and Key Management Personnel"
+            },
+            {
+              "key": "Directors",
+              "value": "Miles Jakeman AM (Chairman); Leanne Graham (Non-executive Director); Stephen Smith (Non-executive Director, until resignation on 31 July 2020); Wayne Zekulich (Non-executive Director, until resignation on 31 July 2020); Bruce Talbot (Non-executive Director, until resignation on 31 July 2020)"
+            },
+            {
+              "key": "Summary",
+              "value": "The table lists the board of directors with positions and notes on tenure. Three of the non-executive directors resigned on 31 July 2020, leaving Miles Jakeman AM and Leanne Graham as continuing members. The Key Management Personnel section did not list additional entries in this table."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 24,
+          "title": "Directors’ Report Remuneration Report (AUDITED) (CONTINUED) - Key Management Personnel Leadership Changes",
+          "data": [
+            {
+              "key": "Table Summary",
+              "value": "The table provides details regarding executive leadership changes. Kurt Mueffelmann was appointed as Global Chief Operations Officer on 23 December 2020. A CFO transition occurred in 2021 with James Palmer resigning on 28 May 2021 and Kylie Sheather commencing as CFO on 29 April 2021."
+            },
+            {
+              "key": "Key Management Personnel",
+              "value": "Kurt Mueffelmann (Global Chief Operations Officer), James Palmer (Chief Financial Officer until resignation on 28 May 2021), Kylie Sheather (Chief Financial Officer, commenced on 29 April 2021)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 25,
+          "title": "Executive Compensation Table",
+          "data": [
+            {
+              "key": "Report Title",
+              "value": "DIRECTORS’ REPORT REMUNERATION REPORT (AUDITED) (CONTINUED)"
+            },
+            {
+              "key": "Table Title",
+              "value": "Executive Compensation Table"
+            },
+            {
+              "key": "Categories",
+              "value": "Non-Executive Directors; Executive Directors; Key Management Personnel"
+            },
+            {
+              "key": "Key Observations",
+              "value": "Executive Directors and Key Management Personnel receive significantly higher total compensation than Non-Executive Directors. Non-Executive Directors primarily receive fees rather than salaries. The highest paid individual is Daniel Lai (Executive Director) with a total compensation of $392,611. Performance percentages for executives range from 30-40%, while ASA percentages are higher for Non-Executive Directors (31-33%) compared to executives (4-5%)."
+            },
+            {
+              "key": "Currency",
+              "value": "AUD"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 26,
+          "title": "DIRECTORS’ REPORT REMUNERATION REPORT (AUDITED) (CONTINUED)",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Daniel Lai"
+            },
+            {
+              "key": "Title",
+              "value": "Chief Executive Officer"
+            },
+            {
+              "key": "Agreement commenced",
+              "value": "29 June 2018"
+            },
+            {
+              "key": "Term of agreement",
+              "value": "No fixed term. Six-month termination period."
+            },
+            {
+              "key": "Remuneration",
+              "value": "$330,000 per year including statutory superannuation"
+            },
+            {
+              "key": "Annual bonus",
+              "value": "Annual cash bonus based on KPIs set by the Board"
+            },
+            {
+              "key": "Equity incentives",
+              "value": "Long-term equity incentives as determined by the Board"
+            },
+            {
+              "key": "Name",
+              "value": "Kylie Sheather"
+            },
+            {
+              "key": "Title",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Agreement commenced",
+              "value": "24 May 2021"
+            },
+            {
+              "key": "Term of agreement",
+              "value": "No fixed term. Four-week termination period."
+            },
+            {
+              "key": "Remuneration",
+              "value": "$250,000 per year plus statutory superannuation"
+            },
+            {
+              "key": "Variation compensation",
+              "value": "Additional 50% of base salary based on targets (comprised of cash and longer-term equity incentives)"
+            },
+            {
+              "key": "Name",
+              "value": "Kurt Mueffelmann"
+            },
+            {
+              "key": "Title",
+              "value": "Senior Vice President of Sales and Chief Operating Officer of archTIS and President of US Operations"
+            },
+            {
+              "key": "Agreement commenced",
+              "value": "23 December 2020"
+            },
+            {
+              "key": "Term of agreement",
+              "value": "Annual term, renewed automatically unless notice is given at least 30 days prior to renewal. In event of termination without cause or resignation for good reason, continuation benefits apply."
+            },
+            {
+              "key": "Remuneration",
+              "value": "US$250,000 per year"
+            },
+            {
+              "key": "Annual bonus",
+              "value": "20% of base salary based on KPIs set by the Board"
+            },
+            {
+              "key": "Equity incentives",
+              "value": "Long-term equity incentives as determined by the Board"
+            },
+            {
+              "key": "Insurance benefits",
+              "value": "Up to 12 months of continued insurance benefits upon termination without cause or resignation for good reason"
+            },
+            {
+              "key": "Additional note",
+              "value": "Key management personnel have no entitlement to termination payments in the event of removal for misconduct."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 27,
+          "title": "Directors’ Report Remuneration Report – Share-based Compensation Options",
+          "data": [
+            {
+              "key": "Report Title",
+              "value": "DIRECTORS’ REPORT REMUNERATION REPORT (AUDITED) (CONTINUED)"
+            },
+            {
+              "key": "Compensation Type",
+              "value": "Share-based compensation options granted to non-executive directors as part of their remuneration packages."
+            },
+            {
+              "key": "Option Identifier",
+              "value": "AR9012"
+            },
+            {
+              "key": "Exercise Terms",
+              "value": "Options are exercisable from their vesting date. If the holder ceases to be a director, vested options lapse six months after cessation. Options carry no dividend or voting rights."
+            },
+            {
+              "key": "Common Exercise Price",
+              "value": "$0.316"
+            },
+            {
+              "key": "Common Fair Value",
+              "value": "$0.097"
+            },
+            {
+              "key": "Table Summary",
+              "value": "Two unnamed grants totaling 666,667 units and three grants for Leanne Graham of 250,000 units each, all granted on 24 Nov 21 with expiry on 24 Nov 25 and varying vesting dates (24 Nov 22, 24 Nov 23, 24 Nov 24)."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 28,
+          "title": "Directors’ Report Remuneration Report (AUDITED) (CONTINUED) - Share-based Compensation",
+          "data": [
+            {
+              "key": "AR9012 Class Share Holdings",
+              "value": "This table presents the share holdings for company personnel during the financial year. It lists data for Non-Executive Directors, Executive Directors, and Key Management Personnel. Key details include: Miles Jakeman AM held 1,634,545 shares throughout the period; Daniel Lai (Executive Director) had an opening balance of 9,574,252 shares, received an addition of 21,739 shares, and ended with 9,595,991 shares; Kurt Mueffelmann (Key Management Personnel) started with 17,772,859 shares, added 130,435 shares, and closed at 17,903,294 shares; Kylie Sheather maintained a zero balance. The summary notes that Kurt Mueffelmann holds the largest position."
+            },
+            {
+              "key": "AR9012 Class Share/Option Movements",
+              "value": "This table details the movements in options and performance rights over ordinary shares for various personnel under the AR9012 Class. Highlights include: Miles Jakeman AM began with 360,000 units, was granted 1,000,000 and closed at 1,360,000; Leanne Graham (Non-Executive Director) was granted 750,000 with a minor adjustment (6,612 units expired/forfeited) to close at 756,612; Daniel Lai (Executive Director) received a grant of 612,245 with a forfeiture of 7,249 to finish with 619,491; Kurt Mueffelmann (Key Management Personnel) was granted 695,389 with 43,478 adjustments, closing at 783,867; Kylie Sheather (Key Management Personnel) was granted 522,794 with no forfeitures. Additionally, a note confirms that 612,245 Performance Rights were issued to Daniel Lai under the Company’s Employee Incentive Plan."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 58,
+          "title": "Note 23. Share-based payments",
+          "data": [
+            {
+              "key": "Plan description",
+              "value": "Under the long-term incentive plan, performance rights are granted to participants, entitling them to ordinary shares if specific financial performance hurdles (growth in revenue, annual recurring revenue, and containment of operating costs) are met, and provided the holder remains employed until vesting."
+            },
+            {
+              "key": "Performance conditions",
+              "value": "Performance rights for the 2022 financial year are subject to financial performance conditions, with challenging yet achievable metrics focused on sales growth and shareholder wealth creation."
+            },
+            {
+              "key": "Vesting period",
+              "value": "The long-term incentive plan operates over a three-year period. Vesting occurs in two stages: 50% on 15 December 2022 and the balance on 15 June 2023, provided performance milestones are met."
+            },
+            {
+              "key": "Expiry",
+              "value": "The Incentive Performance Rights expire on 24 November 2023."
+            },
+            {
+              "key": "Expense recognition",
+              "value": "The grant date fair value is recognized as an employee benefits expense over the vesting period, with adjustments based on the actual number of performance rights meeting the service and performance conditions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 58,
+          "title": "Performance Rights Vesting Conditions",
+          "data": [
+            {
+              "key": "Revenue - Less than 75% of target",
+              "value": "0% vesting"
+            },
+            {
+              "key": "Revenue - Between 75% and 100% of target",
+              "value": "Straight line vesting between 0% and 40%"
+            },
+            {
+              "key": "Revenue - Greater than 100% of target",
+              "value": "40% vesting"
+            },
+            {
+              "key": "Annual Recurring Revenue - Less than 75% of target",
+              "value": "0% vesting"
+            },
+            {
+              "key": "Annual Recurring Revenue - Between 75% and 100% of target",
+              "value": "Straight line vesting between 0% and 40%"
+            },
+            {
+              "key": "Annual Recurring Revenue - Greater than 100% of target",
+              "value": "40% vesting"
+            },
+            {
+              "key": "Operating Costs - Greater than 125% of target",
+              "value": "0% vesting"
+            },
+            {
+              "key": "Operating Costs - Between 100% and 125% of target",
+              "value": "Straight line vesting between 0% and 20%"
+            },
+            {
+              "key": "Operating Costs - Less than 100% of target",
+              "value": "20% vesting"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 59,
+          "title": "Share-based Payments and Options Movement (Note 23)",
+          "data": [
+            {
+              "key": "Document Date",
+              "value": "30 JUNE 2022"
+            },
+            {
+              "key": "Note Title",
+              "value": "Note 23. Share-based payments (continued)"
+            },
+            {
+              "key": "Employee Performance Rights Grant",
+              "value": "3,048,170 performance rights granted under the Employee Incentive Plan at a weighted average fair value of $0.24 (2021: nil)"
+            },
+            {
+              "key": "Directors' Options Grant",
+              "value": "1,750,000 options granted to directors at a weighted average fair value of $0.097 (2021: nil)"
+            },
+            {
+              "key": "Employee Benefits Recognised",
+              "value": "$137,509 for share-based payment transactions (2021: $7,687)"
+            },
+            {
+              "key": "Table Title",
+              "value": "Options and Performance Rights Movement Schedule"
+            },
+            {
+              "key": "Table Details Summary",
+              "value": "Detailed overview of stock options and performance rights movements during the financial year, including new issue of AR9O listed options (10,044,257 units) and movements for other option series such as AR901."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 73,
+          "title": "Report on the Remuneration Report and Auditor's Opinion",
+          "data": [
+            {
+              "key": "Remuneration Report Scope",
+              "value": "Audited Remuneration Report included in pages 20 to 26 of the directors' report for the year ended 30 June 2022"
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "In our opinion, the Remuneration Report of archTIS Limited. for the year ended 30 June 2022 complies with section 300A of the Corporations Act 2001"
+            },
+            {
+              "key": "Directors' Responsibility",
+              "value": "The directors are responsible for the preparation and presentation of the Remuneration Report in accordance with section 300A of the Corporations Act 2001"
+            },
+            {
+              "key": "Auditor Responsibility",
+              "value": "Express an opinion on the Remuneration Report based on an audit conducted in accordance with Australian Auditing Standards"
+            },
+            {
+              "key": "Auditing Standards Reference",
+              "value": "Australian Auditing Standards; further details available at http://www.auasb.gov.au/auditors_responsibilities/ar2.pdf"
+            },
+            {
+              "key": "Auditor",
+              "value": "RSM AUSTRALIA PARTNERS"
+            },
+            {
+              "key": "Auditor Signature",
+              "value": "C J HUME Partner"
+            },
+            {
+              "key": "Audit Date",
+              "value": "24th August 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 77,
+          "title": "Shareholding Distribution Analysis",
+          "data": [
+            {
+              "key": "Shares Range",
+              "value": "1 to 1,000"
+            },
+            {
+              "key": "Holders",
+              "value": "-"
+            },
+            {
+              "key": "Units",
+              "value": "-"
+            },
+            {
+              "key": "%",
+              "value": "-"
+            },
+            {
+              "key": "Shares Range",
+              "value": "1,001 to 5,000"
+            },
+            {
+              "key": "Holders",
+              "value": "-"
+            },
+            {
+              "key": "Units",
+              "value": "-"
+            },
+            {
+              "key": "%",
+              "value": "-"
+            },
+            {
+              "key": "Shares Range",
+              "value": "5,001 to 10,000"
+            },
+            {
+              "key": "Holders",
+              "value": "-"
+            },
+            {
+              "key": "Units",
+              "value": "-"
+            },
+            {
+              "key": "%",
+              "value": "-"
+            },
+            {
+              "key": "Shares Range",
+              "value": "10,001 to 100,000"
+            },
+            {
+              "key": "Holders",
+              "value": "2"
+            },
+            {
+              "key": "Units",
+              "value": "130,000"
+            },
+            {
+              "key": "%",
+              "value": "10%"
+            },
+            {
+              "key": "Shares Range",
+              "value": "100,001 and over"
+            },
+            {
+              "key": "Holders",
+              "value": "2"
+            },
+            {
+              "key": "Units",
+              "value": "1,200,000"
+            },
+            {
+              "key": "%",
+              "value": "90%"
+            },
+            {
+              "key": "Shares Range",
+              "value": ""
+            },
+            {
+              "key": "Holders",
+              "value": "4"
+            },
+            {
+              "key": "Units",
+              "value": "1,330,000"
+            },
+            {
+              "key": "%",
+              "value": "100%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 77,
+          "title": "Unlisted Options Holders and Counts",
+          "data": [
+            {
+              "key": "range",
+              "value": "1 to 1,000"
+            },
+            {
+              "key": "count",
+              "value": "-"
+            },
+            {
+              "key": "value",
+              "value": "-"
+            },
+            {
+              "key": "percentage",
+              "value": "-"
+            },
+            {
+              "key": "range",
+              "value": "1,001 to 5,000"
+            },
+            {
+              "key": "count",
+              "value": "-"
+            },
+            {
+              "key": "value",
+              "value": "-"
+            },
+            {
+              "key": "percentage",
+              "value": "-"
+            },
+            {
+              "key": "range",
+              "value": "5,001 to 10,000"
+            },
+            {
+              "key": "count",
+              "value": "-"
+            },
+            {
+              "key": "value",
+              "value": "-"
+            },
+            {
+              "key": "percentage",
+              "value": "-"
+            },
+            {
+              "key": "range",
+              "value": "10,001 to 100,000"
+            },
+            {
+              "key": "count",
+              "value": "-"
+            },
+            {
+              "key": "value",
+              "value": "-"
+            },
+            {
+              "key": "percentage",
+              "value": "-"
+            },
+            {
+              "key": "range",
+              "value": "100,001 and over"
+            },
+            {
+              "key": "count",
+              "value": "1"
+            },
+            {
+              "key": "value",
+              "value": "250,000!"
+            },
+            {
+              "key": "percentage",
+              "value": "100%"
+            },
+            {
+              "key": "range",
+              "value": ""
+            },
+            {
+              "key": "count",
+              "value": "1"
+            },
+            {
+              "key": "value",
+              "value": "250,000"
+            },
+            {
+              "key": "percentage",
+              "value": "100%"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 38,
+          "title": "NOTE 1. SIGNIFICANT ACCOUNTING POLICIES",
+          "data": [
+            {
+              "key": "Right-of-use assets depreciation",
+              "value": "Depreciated on a straight-line basis over the unexpired lease term or the asset's estimated useful life, whichever is shorter. If ownership is expected at lease end, depreciation is over the estimated useful life."
+            },
+            {
+              "key": "Short-term and low-value leases",
+              "value": "The entity does not recognise right-of-use assets or lease liabilities for leases of 12 months or less and for low-value assets; lease payments are expensed as incurred."
+            },
+            {
+              "key": "Lease liabilities measurement",
+              "value": "Initial recognition at the present value of lease payments discounted using the interest rate implicit in the lease or the entity's incremental borrowing rate; subsequently measured at amortised cost with remeasurement adjustments."
+            },
+            {
+              "key": "Capitalised development costs",
+              "value": "Amortised systematically over the project’s useful life, matching the future economic benefits."
+            },
+            {
+              "key": "Research and Development Tax Incentive (RDTI)",
+              "value": "A 43.5% refundable tax offset on eligible R&D expenditure, recognised as government grants over the periods in which related expenses are incurred, with portions related to capitalised development deducted from related non-current assets."
+            },
+            {
+              "key": "Customer contracts",
+              "value": "Amortised on a straight-line basis over their finite life, typically between 3 to 5 years."
+            },
+            {
+              "key": "Software costs",
+              "value": "Deferred and amortised on a straight-line basis over an expected benefit period of 3 to 5 years."
+            },
+            {
+              "key": "Intangible assets and Patents/Trademarks",
+              "value": "Finite life intangible assets are measured at cost less amortisation and impairment; indefinite life intangibles are not amortised but are tested annually for impairment. Patents and trademarks are amortised over 10 years."
+            },
+            {
+              "key": "Goodwill and Impairment",
+              "value": "Goodwill is not amortised but tested annually for impairment. Other non-financial assets are reviewed for impairment when indications arise, with losses recognised when carrying amounts exceed recoverable amounts."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 4,
+          "title": "ANNUAL REPORT 2022 – Product Overview",
+          "data": [
+            {
+              "key": "Tagline",
+              "value": "TRUSTED TO SAFEGUARD THE WORLD’S MOST SENSITIVE INFORMATION"
+            },
+            {
+              "key": "Product Description",
+              "value": "archTIS’ products apply and enforce dynamic, policy-driven access, usage and sharing controls that leverage both user and data attributes to ensure your users and partners access, share and collaborate on sensitive, classified and top secret information, securely."
+            },
+            {
+              "key": "Report Reference",
+              "value": "ANNUAL REPORT 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 8,
+          "title": "CEO Letter and Kojensi V2.0 Product Launch",
+          "data": [
+            {
+              "key": "Product",
+              "value": "Kojensi V2.0"
+            },
+            {
+              "key": "New Features",
+              "value": "Added several new features to address global tightening of Defence Export Controls compliance requirements, including ITAR."
+            },
+            {
+              "key": "Launch Target",
+              "value": "Kojensi to be launched in the U.S. in FY23."
+            },
+            {
+              "key": "FY22 Achievements",
+              "value": "Marked as a milestone period with quiet achievements including the awarding of a $7.0M contract with Defence, endorsement by the Australian Department of Defence, and winning 8 Gold Product Awards in the Cybersecurity Excellence Awards."
+            },
+            {
+              "key": "Market Expansion",
+              "value": "Strategy includes leveraging domestic successes to expand into overseas Defence markets such as the US and EMEA."
+            },
+            {
+              "key": "R&D Investment",
+              "value": "Significant investment made in FY22 to prepare Kojensi for overseas market launch."
+            },
+            {
+              "key": "Strategic Focus",
+              "value": "Expansion of licensing revenues, improving Annual Recurring Revenue (ARR) and margin profile while capitalizing on network effects from strategic channel partner alliances with companies like Microsoft and Thales."
+            },
+            {
+              "key": "CEO",
+              "value": "Daniel Lai"
+            },
+            {
+              "key": "Report Date",
+              "value": "24 AUGUST 2022"
+            },
+            {
+              "key": "Document Type",
+              "value": "Annual Report 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 13,
+          "title": "Kojensi Enterprise v2.0 and NC Protect Launch Announcements",
+          "data": [
+            {
+              "key": "Company",
+              "value": "archTIS"
+            },
+            {
+              "key": "Milestones",
+              "value": "Achieved significant milestones during FY22 through focus on product innovation and channel collaboration"
+            },
+            {
+              "key": "Product Launch 1",
+              "value": "Kojensi Enterprise v2.0"
+            },
+            {
+              "key": "Product 1 Description",
+              "value": "Military-grade multi-level security document collaboration management platform designed for government, Defence, industry, and higher education institutions; released in the Australian marketplace"
+            },
+            {
+              "key": "Acquisition Announcement",
+              "value": "Acquisition of Tranche 1 of the ICT 2284 OneDefence Data Program announced by the Australian Assistant Minister of Defence, as part of a KPMG-led consortium"
+            },
+            {
+              "key": "Product Launch 2",
+              "value": "NC Protect for Microsoft 365"
+            },
+            {
+              "key": "Product 2 Description",
+              "value": "Now available in Microsoft Azure Marketplace and Azure Government Marketplace, enhancing integration with the Microsoft suite and providing scalable, reliable deployment options"
+            },
+            {
+              "key": "Additional Feature",
+              "value": "New Controlled Unclassified Information (CUI) designator labelling capability for US Defence requirements"
+            },
+            {
+              "key": "Consortium Partnership",
+              "value": "Participation in a KPMG-led systems integration consortium for Defence with discussions on final terms underway"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 15,
+          "title": "NCPROTECT™ Dynamic Access & Data Protection for Microsoft 365 Apps & File Shares",
+          "data": [
+            {
+              "key": "Product Name",
+              "value": "NCPROTECT™"
+            },
+            {
+              "key": "Description",
+              "value": "Dynamic Access & Data Protection for Microsoft 365 Apps & File Shares; Secures sensitive & classified information."
+            },
+            {
+              "key": "Features",
+              "value": "Discover, classify and secure sensitive information; Share sensitive and classified files securely; Prevent data loss, misuse and human error; Accredited secure document collaboration; Audit and report for compliance; Enforce zero trust with attribute-based access control (ABAC)"
+            },
+            {
+              "key": "Report",
+              "value": "ANNUAL REPORT 2022"
+            },
+            {
+              "key": "Company",
+              "value": "ARCHTIS LIMITED"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 46,
+          "title": "Notes to the Financial Statements – Capitalised Commissions & Property, Plant & Equipment",
+          "data": [
+            {
+              "key": "Capitalised Commissions (Note 10)",
+              "value": "2022: 92,789; 2021: not recorded"
+            },
+            {
+              "key": "Property, Plant & Equipment – Computer Equipment (Note 11)",
+              "value": "2022: $374,057 with accumulated depreciation of $305,334; 2021: $359,223 with accumulated depreciation of $267,451"
+            },
+            {
+              "key": "Property, Plant & Equipment – Office Equipment (Component 1)",
+              "value": "2022: $136,307 with accumulated depreciation of $113,995; 2021: $124,492 with accumulated depreciation of $108,355"
+            },
+            {
+              "key": "Property, Plant & Equipment – Office Equipment (Component 2)",
+              "value": "2022: 22,312; 2021: 16,137"
+            },
+            {
+              "key": "Property, Plant & Equipment – Office Equipment (Component 3)",
+              "value": "2022: 91,035; 2021: 107,909"
+            },
+            {
+              "key": "Equipment Balance and Movements",
+              "value": "Period details: Starting balance at 1 July 2020 Total: 39,356; Additions: 103,775; Depreciation: (35,222); Balance at 30 June 2021: 107,909; Next cycle - Additions: 26,649; Depreciation: (43,523); Final balance at 30 June 2022: 91,035"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 47,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Note Reference",
+              "value": "Note 12. Intangible assets"
+            },
+            {
+              "key": "Capitalisation Policy",
+              "value": "Product design and development expenses that create future benefits and meet certain criteria are capitalised as intangible assets, which are then amortised over the estimated useful life of the asset."
+            },
+            {
+              "key": "Acquisition Details",
+              "value": "As part of the acquisition of the software division of Cipherpoint Limited on 20 September 2021, computer software and customer contracts were recognised."
+            },
+            {
+              "key": "Internally-Generated Software",
+              "value": "Development costs qualify for capitalisation if technical feasibility is demonstrated, future economic benefits are probable, and costs can be reliably measured. Such assets are amortised on a straight-line basis over their useful life, for example, a software development asset with a useful life of five years."
+            },
+            {
+              "key": "Research vs Development Costs",
+              "value": "Research phase expenditure is expensed as incurred, while development costs are capitalised only when future economic benefits can be reliably measured and technical feasibility is proven. Costs incurred post-launch or to enhance existing products are expensed, reflected under R&D expense."
+            },
+            {
+              "key": "Impairment Review",
+              "value": "The carrying value of intangibles is reviewed for impairment whenever events suggest that the asset's recoverability may be in doubt."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 72,
+          "title": "Audit Report: Intangible Assets – Capitalisation and Impairment Assessment",
+          "data": [
+            {
+              "key": "Capitalisation Policies",
+              "value": "Evaluation of the appropriateness of capitalisation policies as per AASB 138, including the decision to capitalise or expense costs."
+            },
+            {
+              "key": "Amortisation and Asset Life Review",
+              "value": "Assessment of the annual asset life, impairment reviews, and the calculation of amortisation based on management’s judgements."
+            },
+            {
+              "key": "Impairment Testing",
+              "value": "Examination of impairment assessments under AASB 136, including evaluation of expected future economic benefits attributable to intangible assets."
+            },
+            {
+              "key": "Audit Procedures and Disclosures",
+              "value": "Procedures included testing samples of capitalised costs and reviewing relevant disclosures noted in Notes 1(q), 1(r), 2, and 12."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "Financial Performance Metrics",
+          "data": [
+            {
+              "key": "Revenues from ordinary activities",
+              "value": "$4,638,696"
+            },
+            {
+              "key": "Loss from ordinary activities after tax attributable to members",
+              "value": "-$9,445,288"
+            },
+            {
+              "key": "Net loss for the period attributable to members",
+              "value": "-$9,445,288"
+            },
+            {
+              "key": "Dividends",
+              "value": "None"
+            },
+            {
+              "key": "Record date for determining entitlements to a dividend",
+              "value": "Not applicable"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 3,
+          "title": "Annual Report Cover Page",
+          "data": [
+            {
+              "key": "description",
+              "value": "This page appears to be an annual report cover featuring a design/technology-focused stock photo or marketing image. The image shows part of a workspace with futuristic digital interface elements, glowing circular icons representing global connectivity and device interfaces, and technical blueprints in the background. There is partial text reading 'solution' along with a modern teal/turquoise color scheme on a dark background. Additional text on the page includes company details: 'ARCHTIS LIMITED | AR9 | ACN 123 098 671' and 'ANNUAL REPORT 2022'."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Summary",
+              "value": "This table appears to be a table of contents or index from an annual report for Archtis Limited. It lists various sections of the report including corporate communications (LETTER FROM THE CEO, CORPORATE DIRECTORY LETTER FROM THE CHAIRMAN), leadership overview (EXECUTIVE LEADERSHIP), and key financial statements such as the LOSS AND OTHER COMPREHENSIVE INCOME CONSOLIDATED STATEMENT OF FINANCIAL POSITION, CONSOLIDATED STATEMENT OF CHANGES IN EQUITY, CONSOLIDATED STATEMENT OF CASH FLOWS, NOTES TO THE FINANCIAL STATEMENTS, as well as audit-related declarations and reports."
+            },
+            {
+              "key": "Report Title",
+              "value": "ANNUAL REPORT 2022"
+            },
+            {
+              "key": "Company",
+              "value": "Archtis Limited"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 7,
+          "title": "Letter from the Chairman",
+          "data": [
+            {
+              "key": "Company",
+              "value": "archTIS Limited (ASX:AR9)"
+            },
+            {
+              "key": "Document Date",
+              "value": "24 AUGUST 2022"
+            },
+            {
+              "key": "Total Revenue FY22",
+              "value": "$4.64M"
+            },
+            {
+              "key": "Gross Profit FY22",
+              "value": "$3.2M"
+            },
+            {
+              "key": "Guidance FY23 Revenue Increase",
+              "value": "60%"
+            },
+            {
+              "key": "Expected FY23 Cash Receipts",
+              "value": "$9.5M"
+            },
+            {
+              "key": "New Defence Deal Revenue",
+              "value": "$5.0M"
+            },
+            {
+              "key": "New Defence Deal Cash Proceeds",
+              "value": "$7.0M"
+            },
+            {
+              "key": "Capital Raise",
+              "value": "$6.9M"
+            },
+            {
+              "key": "US Public Market Quoting",
+              "value": "Completed on the OTCQB"
+            },
+            {
+              "key": "Merger Integration",
+              "value": "Completed integration of Nucleus Cyber and acquired Cipherpoint technology assets, customers, staff and global operations"
+            },
+            {
+              "key": "Largest Deal",
+              "value": "Circa $7.0M deal with the Australian Department of Defence in Q4 FY22"
+            },
+            {
+              "key": "Target Gross Margin",
+              "value": "70%"
+            },
+            {
+              "key": "Monthly Cash Burn Target",
+              "value": "Halved during FY23"
+            },
+            {
+              "key": "Header Design",
+              "value": "Corporate header image featuring 'LETTER FROM THE CHAIRMAN' in teal typography with geometric hexagonal patterns in gray and teal on a dark background; subtitle 'DR MILES JAKEMAN AM'"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 9,
+          "title": "Highlights Infographic and FY23 Outlook",
+          "data": [
+            {
+              "key": "Largest deal",
+              "value": "$7M - Largest deal in Company history signed with Australian Department of Defence"
+            },
+            {
+              "key": "Licensing revenue growth",
+              "value": "+126% (With annual recurring revenue +70%)"
+            },
+            {
+              "key": "Gross margin",
+              "value": "70.5%"
+            },
+            {
+              "key": "Cash position",
+              "value": "$6.6M - Strong cash position as at 30 June 2022 with additional $2M collected post Q4 period"
+            },
+            {
+              "key": "Operating expenses",
+              "value": "3 quarters - Consistent operating expenses across prior 3 quarters"
+            },
+            {
+              "key": "FY23 outlook",
+              "value": "60% annual revenue growth and $9.5M of cash receipts"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 12,
+          "title": "FY22 Overview & Financial Performance",
+          "data": [
+            {
+              "key": "FY",
+              "value": "FY22"
+            },
+            {
+              "key": "Major Contract",
+              "value": "$7.0M contract secured in June with the Australian Department of Defence for enhanced licensing of Kojensi"
+            },
+            {
+              "key": "Licensing Revenue",
+              "value": "$2.6M (up 126% compared to the prior year)"
+            },
+            {
+              "key": "Annual Recurring Revenue (ARR)",
+              "value": "$3.3M at year-end (up 66% from the previous year)"
+            },
+            {
+              "key": "Gross Operating Margin",
+              "value": "70.5%"
+            },
+            {
+              "key": "Operating Expenses",
+              "value": "$10.3M (excluding capitalisation for the year)"
+            },
+            {
+              "key": "Available Cash",
+              "value": "$6.6M at 30 June 2022"
+            },
+            {
+              "key": "Post-Year Cash Receipts",
+              "value": "$2.0M collected from customers after the financial year end"
+            },
+            {
+              "key": "Chart Overview",
+              "value": "Licensing Revenue vs ARR chart (2019-2022) displaying significant growth, with ARR growing at a slightly faster rate than Licensing Revenue"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 16,
+          "title": "DIRECTORS’ REPORT",
+          "data": [
+            {
+              "key": "Group Composition",
+              "value": "archTIS Limited (the ‘company’ or ‘parent entity’) and its controlled entities"
+            },
+            {
+              "key": "Reporting Period",
+              "value": "Year ended 30 June 2022 (FY2022)"
+            },
+            {
+              "key": "Report Type",
+              "value": "Directors’ Report accompanying financial statements"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 30,
+          "title": "FINANCIAL STATEMENTS ANNUAL REPORT 2022",
+          "data": [
+            {
+              "key": "background_image",
+              "value": "Corporate document decorative background featuring a teal/turquoise gradient with a hexagonal molecular/honeycomb pattern in the upper right corner."
+            },
+            {
+              "key": "vertical_text",
+              "value": "The left side includes vertical text reading 'for personal use only'."
+            },
+            {
+              "key": "design_element",
+              "value": "Dark gray diagonal section at the bottom."
+            },
+            {
+              "key": "report_section",
+              "value": "This page belongs to the financial statements section of the Annual Report 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 31,
+          "title": "Income Statement",
+          "data": [
+            {
+              "key": "Statement Title",
+              "value": "CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME FOR THE YEAR ENDED 30 JUNE 2022"
+            },
+            {
+              "key": "Statement Period",
+              "value": "Year Ended 30 June 2022"
+            },
+            {
+              "key": "Revenue Cost of sales",
+              "value": "Period1: 4,638,696 (1,367,411); Period2: 4,626,879 (1,543,500)"
+            },
+            {
+              "key": "Gross profit",
+              "value": "Period1: 3,271,285; Period2: 3,083,379"
+            },
+            {
+              "key": "Other income",
+              "value": "No data provided"
+            },
+            {
+              "key": "Sales and marketing",
+              "value": "Period1: 1,226,002 (4,916,772); Period2: 1,637,165 (1,734,591)"
+            },
+            {
+              "key": "General administration",
+              "value": "Period1: (9,218,746); Period2: (6,320,344)"
+            },
+            {
+              "key": "Loss before income tax",
+              "value": "Period1: (9,638,231); Period2: (3,334,391)"
+            },
+            {
+              "key": "Income tax (expense) / benefit",
+              "value": "Period1: 192,943; Period2: 342,989"
+            },
+            {
+              "key": "Other comprehensive income",
+              "value": "Period1: (9,445,288); Period2: (2,991,402)"
+            },
+            {
+              "key": "Basic earnings per share",
+              "value": "Period1: (3.76); Period2: (1.48)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Balance Sheet - Consolidated Statement of Financial Position",
+          "data": [
+            {
+              "key": "Report Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Total Current Assets (Current)",
+              "value": "11063760"
+            },
+            {
+              "key": "Total Non-Current Assets (Current)",
+              "value": "15830976"
+            },
+            {
+              "key": "Total Assets (Summary)",
+              "value": "26894736"
+            },
+            {
+              "key": "Total Current Liabilities (Current)",
+              "value": "4059202"
+            },
+            {
+              "key": "Total Liabilities (Summary)",
+              "value": "7691429"
+            },
+            {
+              "key": "Issued Capital (Current)",
+              "value": "41099800"
+            },
+            {
+              "key": "Issued Capital (Previous)",
+              "value": "32636977"
+            },
+            {
+              "key": "Retained Profits/Accumulated Losses (Current)",
+              "value": "-23144507"
+            },
+            {
+              "key": "Retained Profits/Accumulated Losses (Previous)",
+              "value": "-13699219"
+            },
+            {
+              "key": "Total Equity / Net Assets (Summary)",
+              "value": "19203307"
+            },
+            {
+              "key": "Cash and Cash Equivalents (Current)",
+              "value": "6520536"
+            },
+            {
+              "key": "Cash and Cash Equivalents (Previous)",
+              "value": "12739159"
+            },
+            {
+              "key": "Trade and Other Receivables (Current)",
+              "value": "2481598"
+            },
+            {
+              "key": "Other Current Assets (Current)",
+              "value": "2061626"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Reporting Period End Date",
+              "value": "30 JUNE 2022"
+            },
+            {
+              "key": "Statement Title",
+              "value": "Consolidated Statement of Cash Flows"
+            },
+            {
+              "key": "Operating Activities - Net Cash Flow",
+              "value": "-10,569,520 (current period) ; -464,681 (previous period)"
+            },
+            {
+              "key": "Investing Activities - Net Cash Flow",
+              "value": "-1,784,360 (current period) ; 227,285 (previous period)"
+            },
+            {
+              "key": "Financing Activities - Net Cash Flow",
+              "value": "6,143,432 (current period) ; 10,564,168 (previous period)"
+            },
+            {
+              "key": "Cash Position Changes",
+              "value": "Net change in cash: -6,210,448 (current period) ; 10,326,772 (previous period)"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents a cash flow statement comparing two periods. The company experienced a significant change in cash position, moving from a net decrease of $6.2M in the current period to a net increase of $10.3M in the previous period. Operating activities showed increased cash outflow, while financing activities generated substantial inflows primarily through the issuance of shares. Investing activities shifted from an outflow to an inflow between the periods."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Reporting Period",
+              "value": "Year Ended 30 June 2022"
+            },
+            {
+              "key": "Going Concern Basis",
+              "value": "The financial statements have been prepared on a going concern basis, assuming continuity of normal business activities and realization of assets in the normal course."
+            },
+            {
+              "key": "Group Loss After Tax",
+              "value": "$9,445,288 (2021: $2,991,402)"
+            },
+            {
+              "key": "Net Operating Cash Outflows",
+              "value": "$10,569,520 (2021: $464,681)"
+            },
+            {
+              "key": "Capital Raising",
+              "value": "Successful capital raising of $6.9 million completed on 23 December 2021"
+            },
+            {
+              "key": "Cash at Bank",
+              "value": "$6.5 million as at 30 June 2022, with an additional $2 million collected in July 2022"
+            },
+            {
+              "key": "Basis of Preparation",
+              "value": "Prepared under Australian Accounting Standards and International Financial Reporting Standards using the historical cost convention, except for certain fair value recognitions."
+            },
+            {
+              "key": "Consolidation Principles",
+              "value": "The consolidated financial statements include all subsidiaries controlled by archTIS Limited; intercompany transactions and unrealised gains/losses are eliminated."
+            },
+            {
+              "key": "Foreign Currency",
+              "value": "The financial statements are presented in Australian dollars (AUD)"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Foreign Currency Translation",
+              "value": "Monetary assets and liabilities in foreign currencies are translated at financial year-end exchange rates. Foreign operations’ assets and liabilities are translated into Australian dollars using the reporting date rates, while revenues and expenses use average exchange rates. Resulting foreign exchange differences are recognized in other comprehensive income through the foreign currency reserve, which is reclassified to profit or loss upon disposal of the foreign operation or net investment."
+            },
+            {
+              "key": "Revenue Recognition",
+              "value": "Revenues from consulting services, sale of solution services, and software are recognized as performance obligations are satisfied. The process includes identifying the contract, performance obligations, determining the transaction price (including variable consideration like discounts, rebates, and potential bonuses), allocating the price to each obligation, and recognizing revenue over time or at a point in time as services are rendered."
+            },
+            {
+              "key": "Income Tax",
+              "value": "Income tax expense or benefit is based on taxable income for the period adjusted by changes in deferred tax assets and liabilities resulting from temporary differences, unused tax losses, and prior period adjustments."
+            },
+            {
+              "key": "Deferred Tax",
+              "value": "Deferred tax assets and liabilities are recognized for temporary differences at enacted or substantively enacted rates. They are reviewed each reporting date and adjusted if future taxable profits are unlikely, with special treatment provided for items like goodwill and interests in subsidiaries or joint ventures. The tax consolidation for archTIS Limited and its wholly-owned Australian subsidiaries is also addressed."
+            },
+            {
+              "key": "Interest",
+              "value": "Interest revenue is recognized as it accrues using the effective interest rate method, which calculates amortized cost and allocates interest income over the relevant period."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Significant Accounting Policies",
+              "value": "Discussion on the classification of current and non-current assets and liabilities, including criteria for current assets/liabilities, treatment of cash and cash equivalents (including bank overdrafts), derecognition of financial assets, impairment allowance for financial assets, and measurement of Property, Plant and Equipment, including depreciation (straight-line basis), derecognition, and treatment of revaluation surplus."
+            },
+            {
+              "key": "Lease Terms Schedule Table",
+              "value": "Table titled 'Lease Terms Schedule' showing leasehold improvements for office furniture & equipment and computer equipment with lease terms ranging from 2-4 years. The table summarizes lease terms applicable to items included in the property, plant and equipment or lease schedules."
+            },
+            {
+              "key": "Additional Disclosures",
+              "value": "Notes on review of residual values, useful lives and depreciation methods at each reporting date, derecognition of items upon disposal or when no future economic benefit exists, and details on recognition and measurement of right-of-use assets and other financial assets."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS – SIGNIFICANT ACCOUNTING POLICIES",
+          "data": [
+            {
+              "key": "Borrowings",
+              "value": "Loans and borrowings are initially recognised at the fair value of the consideration received, net of transaction costs, and subsequently measured at amortised cost using the effective interest method."
+            },
+            {
+              "key": "Finance Costs",
+              "value": "Finance costs related to qualifying assets are capitalised, while all other finance costs are expensed as incurred."
+            },
+            {
+              "key": "Provisions",
+              "value": "Provisions are recognised when there is a present legal or constructive obligation from a past event, provided settlement is probable and can be reliably estimated. Discounting is applied if the time value of money is material."
+            },
+            {
+              "key": "Employee Benefits – Short-term",
+              "value": "Wages, salaries, and benefits expected to settle within 12 months are measured at expected settlement amounts."
+            },
+            {
+              "key": "Employee Benefits – Long-term",
+              "value": "Long-term benefits (annual and long service leave not settled within 12 months) are measured at the present value of expected future payments using the projected unit credit method, with future payments discounted at market yields."
+            },
+            {
+              "key": "Share-based Payments",
+              "value": "Both equity-settled and cash-settled share-based transactions are measured at fair value using the Binomial option pricing model, with expenses recognised over the vesting period. Adjustments are made for modifications and market conditions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "Revenue and Other Income Statement",
+          "data": [
+            {
+              "key": "Revenue from contracts with customers - Licensing",
+              "value": "2,609,554"
+            },
+            {
+              "key": "Services",
+              "value": "2,029,142"
+            },
+            {
+              "key": "Total Revenue",
+              "value": "4,638,696"
+            },
+            {
+              "key": "Government grants",
+              "value": "1,224,227"
+            },
+            {
+              "key": "Interest income",
+              "value": "1,775"
+            },
+            {
+              "key": "Other income",
+              "value": "N/A"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Total Employee Benefits 2022",
+              "value": "4,747,640"
+            },
+            {
+              "key": "Total Depreciation and Amortisation 2022",
+              "value": "3,779,380"
+            },
+            {
+              "key": "Payments to Contractors 2022",
+              "value": "2,597,076"
+            },
+            {
+              "key": "Hosting Charges 2022",
+              "value": "198,255"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Note 6. Income tax expense",
+          "data": [
+            {
+              "key": "Income tax expense (2022)",
+              "value": ""
+            },
+            {
+              "key": "Income tax expense (2021)",
+              "value": ""
+            },
+            {
+              "key": "Deferred tax (2022)",
+              "value": "(169,009)"
+            },
+            {
+              "key": "Deferred tax (2021)",
+              "value": "(390,784)"
+            },
+            {
+              "key": "Deferred tax not recognised (2022)",
+              "value": "(23,934)"
+            },
+            {
+              "key": "Deferred tax not recognised (2021)",
+              "value": "47,795"
+            },
+            {
+              "key": "Deferred tax derecognised (2022)",
+              "value": "-"
+            },
+            {
+              "key": "Deferred tax derecognised (2021)",
+              "value": "-"
+            },
+            {
+              "key": "Deferred tax on tax losses not recognised (2022)",
+              "value": "-"
+            },
+            {
+              "key": "Deferred tax on tax losses not recognised (2021)",
+              "value": "-"
+            },
+            {
+              "key": "Income tax expense / (income) (2022)",
+              "value": "(192,943)"
+            },
+            {
+              "key": "Income tax expense / (income) (2021)",
+              "value": "(342,989)"
+            },
+            {
+              "key": "Loss before income tax (2022)",
+              "value": "(9,638,231)"
+            },
+            {
+              "key": "Loss before income tax (2021)",
+              "value": "(3,334,391)"
+            },
+            {
+              "key": "Tax at the statutory rate of 25% - Australia (2022)",
+              "value": "(1,989,828)"
+            },
+            {
+              "key": "Tax at the statutory rate of 25% - Australia (2021)",
+              "value": "(509,822)"
+            },
+            {
+              "key": "Tax at the statutory rate of 21% - USA (2022)",
+              "value": "(257,690)"
+            },
+            {
+              "key": "Tax at the statutory rate of 21% - USA (2021)",
+              "value": "(315,180)"
+            },
+            {
+              "key": "Tax at the statutory rate of 19% - UK (2022)",
+              "value": "(82,613)"
+            },
+            {
+              "key": "Tax at the statutory rate of 19% - UK (2021)",
+              "value": "-"
+            },
+            {
+              "key": "Entertainment expenses (2022)",
+              "value": "2,508"
+            },
+            {
+              "key": "Entertainment expenses (2021)",
+              "value": "2,220"
+            },
+            {
+              "key": "Share-based payments (2022)",
+              "value": "34,377"
+            },
+            {
+              "key": "Share-based payments (2021)",
+              "value": "1,999"
+            },
+            {
+              "key": "Research & development expenditure (2022)",
+              "value": "225,826"
+            },
+            {
+              "key": "Research & development expenditure (2021)",
+              "value": "649,398"
+            },
+            {
+              "key": "Intangible amortisation - internally generated (2022)",
+              "value": "354,274"
+            },
+            {
+              "key": "Intangible amortisation - internally generated (2021)",
+              "value": "184,614"
+            },
+            {
+              "key": "Income from Covid-19 economic incentives (2022)",
+              "value": "(7,500)"
+            },
+            {
+              "key": "Income from Covid-19 economic incentives (2021)",
+              "value": "-"
+            },
+            {
+              "key": "Income from research & development incentives (2022)",
+              "value": "(253,573)"
+            },
+            {
+              "key": "Income from research & development incentives (2021)",
+              "value": "(280,613)"
+            },
+            {
+              "key": "Other (2022)",
+              "value": "588"
+            },
+            {
+              "key": "Other (2021)",
+              "value": "-"
+            },
+            {
+              "key": "Sub-total (2022)",
+              "value": "356,500"
+            },
+            {
+              "key": "Sub-total (2021)",
+              "value": "529,809"
+            },
+            {
+              "key": "Current year deferred tax not recognised (2022)",
+              "value": "1,532,311"
+            },
+            {
+              "key": "Current year deferred tax not recognised (2021)",
+              "value": "(47,795)"
+            },
+            {
+              "key": "Deferred tax asset derecognised (2022)",
+              "value": "248,377"
+            },
+            {
+              "key": "Net deferred tax asset",
+              "value": "$4,579,983 ($4,215,148 relating to tax losses) has not been recognised due to uncertainty in utilising temporary differences for taxable profit while claiming refundable R&D tax offset."
+            },
+            {
+              "key": "Summary",
+              "value": "Significant increase in loss before income tax (from $(3,334,391) in 2021 to $(9,638,231) in 2022), decrease in total income tax expense/income (from $(342,989) to (192,943)), substantial increase in current year deferred tax not recognised (from $(47,795) to $1,532,311), and a marked decrease in Research & development expenditure (from $649,398 to $225,826)."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Notes to the Financial Statements - 30 June 2022",
+          "data": [
+            {
+              "key": "Cash and cash equivalents",
+              "value": "Table 'Cash and cash equivalents' shows that 'Cash at bank' decreased from 12,739,159 in 2021 to 6,520,536 in 2022 – approximately a 49% reduction in cash holdings."
+            },
+            {
+              "key": "Trade and other receivables",
+              "value": "The table presents data on expected credit losses and receivables. It reports an allowance for expected credit losses of 2,472,815 for the earlier period with other receivables detailed in two rows, suggesting a significant percentage increase (around 331%) in expected credit losses."
+            },
+            {
+              "key": "Aging Analysis of Carrying Amounts and Expected Credit Losses",
+              "value": "The aging table for 2022 indicates that the majority of the carrying amount (2,017,358) is not yet due, with smaller amounts overdue in different time buckets. The total carrying amount is 2,472,815 with no allowances recorded across all periods."
+            },
+            {
+              "key": "Other Current Assets",
+              "value": "The table for 'Other current assets' includes items such as Prepayments & deposits, Accrued income (newly recorded for 2022), Research & development tax incentive, and Capitalised commissions. Notably, R&D tax incentive increased from 1,434,753 in 2021 to 1,602,810 in 2022, and the overall total increased by roughly 16.9%."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Note 12. Intangible assets (continued) - Intangible Assets and Goodwill Statement",
+          "data": [
+            {
+              "key": "Reporting Date",
+              "value": "30 JUNE 2022"
+            },
+            {
+              "key": "Opening Balance Total",
+              "value": "20079968"
+            },
+            {
+              "key": "Closing Balance Total",
+              "value": "25326998"
+            },
+            {
+              "key": "Net Book Value",
+              "value": "14695423"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents the movement of intangible assets and goodwill for the period ending June 30, 2022. The total net book value is $14,695,423. Notable changes include significant additions to development in progress and increased amortization across software assets. The company maintains a substantial goodwill balance of $2,789,524 with no impairment, while software represents the largest component at $6,117,155. Additionally, a deferred R&D tax incentive reduced the overall asset value by $3,583,058 at period end."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Note 12. Intangible assets (continued) - 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Carrying amount of goodwill and intangible assets allocated to two Cash Generating Units (CGUs)"
+            },
+            {
+              "key": "Assumptions: discount_rate",
+              "value": "20.1% pre-tax"
+            },
+            {
+              "key": "Assumptions: projection_period",
+              "value": "5-year"
+            },
+            {
+              "key": "Assumptions: revenue_growth",
+              "value": "Based on current sales pipeline and partnerships"
+            },
+            {
+              "key": "Assumptions: sales_estimate",
+              "value": "65% of total current sales pipeline"
+            },
+            {
+              "key": "Assumptions: retention_rate (licensing)",
+              "value": "90%"
+            },
+            {
+              "key": "Assumptions: retention_rate (services)",
+              "value": "50%"
+            },
+            {
+              "key": "Assumptions: operating_costs_increase",
+              "value": "4-20% per annum"
+            },
+            {
+              "key": "Assumptions: terminal_growth_rate",
+              "value": "3%"
+            },
+            {
+              "key": "Development in Progress (NC_Protect)",
+              "value": "516754"
+            },
+            {
+              "key": "Development in Progress (Kojensi)",
+              "value": "1592243"
+            },
+            {
+              "key": "Development in Progress (TOTAL)",
+              "value": "2108997"
+            },
+            {
+              "key": "IGS (NC_Protect)",
+              "value": "0"
+            },
+            {
+              "key": "IGS (Kojensi)",
+              "value": "2341339"
+            },
+            {
+              "key": "IGS (TOTAL)",
+              "value": "2341339"
+            },
+            {
+              "key": "Customer Contracts (NC_Protect)",
+              "value": "1338407"
+            },
+            {
+              "key": "Customer Contracts (Kojensi)",
+              "value": "0"
+            },
+            {
+              "key": "Customer Contracts (TOTAL)",
+              "value": "1338407"
+            },
+            {
+              "key": "Software (NC_Protect)",
+              "value": "6117156"
+            },
+            {
+              "key": "Software (Kojensi)",
+              "value": "0"
+            },
+            {
+              "key": "Software (TOTAL)",
+              "value": "6117156"
+            },
+            {
+              "key": "Goodwill (NC_Protect)",
+              "value": "2789524"
+            },
+            {
+              "key": "Goodwill (Kojensi)",
+              "value": "0"
+            },
+            {
+              "key": "Goodwill (TOTAL)",
+              "value": "2789524"
+            },
+            {
+              "key": "Total (NC_Protect)",
+              "value": "10761841"
+            },
+            {
+              "key": "Total (Kojensi)",
+              "value": "3933582"
+            },
+            {
+              "key": "Total (TOTAL)",
+              "value": "14695423"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Notes to the Financial Statements",
+          "data": [
+            {
+              "key": "Balance as at 1 July 2021",
+              "value": "1,052,957"
+            },
+            {
+              "key": "Balance as at 1 July 2022",
+              "value": "1,092,021"
+            },
+            {
+              "key": "Additions 2022",
+              "value": "51,066"
+            },
+            {
+              "key": "Adjustments to lease arrangement 2021",
+              "value": "203,538"
+            },
+            {
+              "key": "Depreciation 2022",
+              "value": "(191,358)"
+            },
+            {
+              "key": "Balance as at 30 June 2021",
+              "value": "1,092,021"
+            },
+            {
+              "key": "Balance as at 30 June 2022",
+              "value": "951,729"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Payables Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Trade payables 2021",
+              "value": "633,716"
+            },
+            {
+              "key": "Trade payables 2022",
+              "value": "491,352"
+            },
+            {
+              "key": "Other payables 2021",
+              "value": "370,786"
+            },
+            {
+              "key": "Other payables 2022",
+              "value": "252,576"
+            },
+            {
+              "key": "Total payables 2021",
+              "value": "1,004,502"
+            },
+            {
+              "key": "Total payables 2022",
+              "value": "743,928"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Employee Leave Liabilities Comparison",
+          "data": [
+            {
+              "key": "Liability for annual leave 2021",
+              "value": "201,302"
+            },
+            {
+              "key": "Liability for annual leave 2022",
+              "value": "389,453"
+            },
+            {
+              "key": "Liability for long service leave 2021",
+              "value": "64,639"
+            },
+            {
+              "key": "Liability for long service leave 2022",
+              "value": "143,843"
+            },
+            {
+              "key": "Subtotal Current 2021",
+              "value": "265,941"
+            },
+            {
+              "key": "Subtotal Current 2022",
+              "value": "533,296"
+            },
+            {
+              "key": "Liability for long service leave Non-current 2021",
+              "value": "57,697"
+            },
+            {
+              "key": "Liability for long service leave Non-current 2022",
+              "value": "104,987"
+            },
+            {
+              "key": "Subtotal Non-current 2021",
+              "value": "57,697"
+            },
+            {
+              "key": "Subtotal Non-current 2022",
+              "value": "104,987"
+            },
+            {
+              "key": "Total 2021",
+              "value": "323,638"
+            },
+            {
+              "key": "Total 2022",
+              "value": "638,283"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Notes to the Financial Statements 30 June 2022",
+          "data": [
+            {
+              "key": "Accrued expenses",
+              "value": "549,362"
+            },
+            {
+              "key": "Deferred revenue",
+              "value": "1,740,168"
+            },
+            {
+              "key": "Total",
+              "value": "2,289,530"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Provisions Consolidated",
+          "data": [
+            {
+              "key": "Current Total",
+              "value": "277,845"
+            },
+            {
+              "key": "Non-current Total",
+              "value": "76,990"
+            },
+            {
+              "key": "Total",
+              "value": "354,835"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Deferred Tax Assets and Liabilities Movement",
+          "data": [
+            {
+              "key": "Tax losses - Opening Balance",
+              "value": "263,781"
+            },
+            {
+              "key": "Tax losses - Credited/Charged",
+              "value": "(263,781)"
+            },
+            {
+              "key": "Tax losses - Balance on Acquisition",
+              "value": "-"
+            },
+            {
+              "key": "Tax losses - Changes in Tax Rates",
+              "value": "-"
+            },
+            {
+              "key": "Tax losses - Closing Balance",
+              "value": "-"
+            },
+            {
+              "key": "Intangible assets - Opening Balance",
+              "value": "(1,662,952)"
+            },
+            {
+              "key": "Intangible assets - Credited/Charged",
+              "value": "480,206"
+            },
+            {
+              "key": "Intangible assets - Balance on Acquisition",
+              "value": "(41,976)"
+            },
+            {
+              "key": "Intangible assets - Changes in Tax Rates",
+              "value": "-"
+            },
+            {
+              "key": "Intangible assets - Closing Balance",
+              "value": "(1,224,722)"
+            },
+            {
+              "key": "Net deferred tax asset/(liability) - Opening Balance",
+              "value": "(1,399,171)"
+            },
+            {
+              "key": "Net deferred tax asset/(liability) - Credited/Charged",
+              "value": "216,425"
+            },
+            {
+              "key": "Net deferred tax asset/(liability) - Balance on Acquisition",
+              "value": "(41,976)"
+            },
+            {
+              "key": "Net deferred tax asset/(liability) - Changes in Tax Rates",
+              "value": "-"
+            },
+            {
+              "key": "Net deferred tax asset/(liability) - Closing Balance",
+              "value": "(1,224,722)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS 30 JUNE 2022 - Note 22. Reserves",
+          "data": [
+            {
+              "key": "Share-based payments reserve (2022)",
+              "value": "856,894"
+            },
+            {
+              "key": "Foreign currency reserve (2022)",
+              "value": "391,120"
+            },
+            {
+              "key": "Total reserve (2022)",
+              "value": "1,248,014"
+            },
+            {
+              "key": "Share-based payments reserve (FY 2021)",
+              "value": "719,384"
+            },
+            {
+              "key": "Foreign currency reserve (FY 2021)",
+              "value": "(11,724)"
+            },
+            {
+              "key": "Total reserve (FY 2021)",
+              "value": "707,660"
+            },
+            {
+              "key": "Reserves movement summary",
+              "value": "The data indicates that the share-based payments reserve increased in 2022 relative to FY 2021, while the foreign currency component moved from a negative position in 2021 to a positive figure in 2022, resulting in an overall higher total reserve."
+            },
+            {
+              "key": "Additional context",
+              "value": "The tables also display historical movements of these reserves from July 2020 to June 2022, reflecting adjustments from share-based payment transactions and exchange differences from foreign operations translation."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 60,
+          "title": "Notes to the Financial Statements - Retained Losses, Dividends, and Risk Management",
+          "data": [
+            {
+              "key": "Note 24 - Retained Profits/(Accumulated Losses)",
+              "value": "Retained losses at the beginning of the financial year and loss after income tax expense for the year are detailed. For 2022, the losses were (13,699,219) and (9,445,288) respectively, compared to (10,707,817) and (2,991,402) in 2021. Retained losses at the end of the financial year increased from (13,699,219) in 2021 to (23,144,507) in 2022, signaling a deteriorating financial position."
+            },
+            {
+              "key": "Note 25 - Dividends",
+              "value": "No dividends were paid or declared during the year. Franking credits available based on a 26% tax rate remained constant at $15,549 for both 2021 and 2022."
+            },
+            {
+              "key": "Note 26 - Financial Instruments & Risk Management",
+              "value": "The Group outlines its exposure to various financial risks including market risk, foreign exchange risk, price risk, interest rate risk, and credit risk. Risk management practices include sensitivity and ageing analyses and are carried out under policies approved by the Board."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 61,
+          "title": "Notes to the Financial Statements",
+          "data": [
+            {
+              "key": "Retained losses at beginning (2022)",
+              "value": "(13,699,219)"
+            },
+            {
+              "key": "Retained losses at beginning (2021)",
+              "value": "(10,707,817)"
+            },
+            {
+              "key": "Loss after income tax expense (2022)",
+              "value": "(9,445,288)"
+            },
+            {
+              "key": "Loss after income tax expense (2021)",
+              "value": "(2,991,402)"
+            },
+            {
+              "key": "Retained losses at end of financial year (2022)",
+              "value": "(23,144,507)"
+            },
+            {
+              "key": "Retained losses at end of financial year (2021)",
+              "value": "(13,699,219)"
+            },
+            {
+              "key": "Dividends",
+              "value": "No dividends were paid or declared during the year"
+            },
+            {
+              "key": "Employee Benefits - Short term employee benefits (2022)",
+              "value": "1,047,157"
+            },
+            {
+              "key": "Employee Benefits - Short term employee benefits (2021)",
+              "value": "850,625"
+            },
+            {
+              "key": "Employee Benefits - Post-employment benefits (2022)",
+              "value": "64,389"
+            },
+            {
+              "key": "Employee Benefits - Post-employment benefits (2021)",
+              "value": "36,037"
+            },
+            {
+              "key": "Employee Benefits - Long term benefits (2022)",
+              "value": "5,000"
+            },
+            {
+              "key": "Employee Benefits - Long term benefits (2021)",
+              "value": "5,763"
+            },
+            {
+              "key": "Employee Benefits - Share-based payments (2022)",
+              "value": "137,510"
+            },
+            {
+              "key": "Employee Benefits - Share-based payments (2021)",
+              "value": "7,687"
+            },
+            {
+              "key": "Employee Benefits - Total (2022)",
+              "value": "1,254,056"
+            },
+            {
+              "key": "Employee Benefits - Total (2021)",
+              "value": "900,112"
+            },
+            {
+              "key": "Audit services fee (2022)",
+              "value": "140,535"
+            },
+            {
+              "key": "Audit services fee (2021)",
+              "value": "89,150"
+            },
+            {
+              "key": "Review of deferred consideration fee",
+              "value": "6,000 (both years)"
+            },
+            {
+              "key": "Tax advice fee (2022)",
+              "value": "7,500"
+            },
+            {
+              "key": "Tax advice fee (2021)",
+              "value": "2,625"
+            },
+            {
+              "key": "R&D tax grant fees (2022)",
+              "value": "Components: 61,800; 75,300; 215,835"
+            },
+            {
+              "key": "R&D tax grant fees (2021)",
+              "value": "Components: 29,716; 38,341; 127,491"
+            },
+            {
+              "key": "Risk Management - Credit risk",
+              "value": "Trade receivables are written off when there is no reasonable expectation of recovery; lifetime expected loss allowance based on historical collection rates and forward-looking information is applied"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Notes to the Financial Statements – Operating Lease Commitments",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Lease commitments - operating"
+            },
+            {
+              "key": "Table Summary",
+              "value": "The table discloses operating lease commitments for 2022. It is broken down into two periods: Within one year ($24,585) and One to five years ($30,731) with a Total of $55,316. No data is provided for 2021. These represent committed future lease obligations that are not yet recognised as liabilities."
+            },
+            {
+              "key": "Additional Note",
+              "value": "Related commentary indicates that operating lease commitments include contracted amounts for office and computer equipment under non-cancellable leases expiring within one to five years."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Notes to the Financial Statements – Related Party Transactions and Subsidiary Loans",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Related Party Transactions and Subsidiary Loans"
+            },
+            {
+              "key": "Table Summary",
+              "value": "The table compares related party transactions and subsidiary loans for 2022 and 2021. Notable figures for 2022 include: Payment for Corporate Advisor services ($420,000), Loan to archTIS US, Inc. ($2,357,161), Loan to Nucleus Cyber Pty Ltd ($(88,115) indicating a negative adjustment), Loan to archTIS UK Limited ($422,482), and Loan to archTIS EU GmbH ($51,825) with a Total of $2,743,353. In 2021, the corresponding amounts were significantly lower, with a Total of $1,864,421."
+            },
+            {
+              "key": "Terms",
+              "value": "All transactions were conducted on normal commercial terms at market rates."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Statement of profit or loss and other comprehensive income and Statement of financial position",
+          "data": [
+            {
+              "key": "Loss after income tax 2022",
+              "value": "-8026687"
+            },
+            {
+              "key": "Loss after income tax 2021",
+              "value": "-1960855"
+            },
+            {
+              "key": "Total comprehensive income 2022",
+              "value": "-8026687"
+            },
+            {
+              "key": "Total comprehensive income 2021",
+              "value": "-1960855"
+            },
+            {
+              "key": "Total current assets 2022",
+              "value": "10268947"
+            },
+            {
+              "key": "Total current assets 2021",
+              "value": "14630802"
+            },
+            {
+              "key": "Total assets 2022",
+              "value": "27420056"
+            },
+            {
+              "key": "Total assets 2021",
+              "value": "29517633"
+            },
+            {
+              "key": "Total current liabilities 2022",
+              "value": "3632987"
+            },
+            {
+              "key": "Total current liabilities 2021",
+              "value": "4024576"
+            },
+            {
+              "key": "Total liabilities 2022",
+              "value": "6003374"
+            },
+            {
+              "key": "Total liabilities 2021",
+              "value": "8828687"
+            },
+            {
+              "key": "Net assets 2022",
+              "value": "21416682"
+            },
+            {
+              "key": "Net assets 2021",
+              "value": "20688946"
+            },
+            {
+              "key": "Issued capital 2022",
+              "value": "41099800"
+            },
+            {
+              "key": "Issued capital 2021",
+              "value": "32636977"
+            },
+            {
+              "key": "Reserves 2022",
+              "value": "1012241"
+            },
+            {
+              "key": "Reserves 2021",
+              "value": "720642"
+            },
+            {
+              "key": "Retained profits/(accumulated losses) 2022",
+              "value": "-20695359"
+            },
+            {
+              "key": "Retained profits/(accumulated losses) 2021",
+              "value": "-12668673"
+            },
+            {
+              "key": "Total equity 2022",
+              "value": "21416682"
+            },
+            {
+              "key": "Total equity 2021",
+              "value": "20688946"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "archTIS Group Subsidiary Ownership Percentages",
+          "data": [
+            {
+              "key": "archTIS Solutions Pty Limited (Australia) 2021",
+              "value": "100%"
+            },
+            {
+              "key": "archTIS Services Pty Limited (Australia) 2021",
+              "value": "100%"
+            },
+            {
+              "key": "archTIS EU s.r.o (Czech Republic) 2022",
+              "value": "100%"
+            },
+            {
+              "key": "archTIS EU s.r.o (Czech Republic) 2021",
+              "value": "100%"
+            },
+            {
+              "key": "archTIS US, Inc. (US) 2022",
+              "value": "100%"
+            },
+            {
+              "key": "archTIS US, Inc. (US) 2021",
+              "value": "100%"
+            },
+            {
+              "key": "Nucleus Cyber Pty Ltd (Australia) 2022",
+              "value": "100%"
+            },
+            {
+              "key": "Nucleus Cyber Pty Ltd (Australia) 2021",
+              "value": "100%"
+            },
+            {
+              "key": "archTIS UK Limited (UK) 2022",
+              "value": "100%"
+            },
+            {
+              "key": "archTIS EU GmbH (Germany) 2022",
+              "value": "100%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 64,
+          "title": "Statement of Cash Flows from Operating Activities",
+          "data": [
+            {
+              "key": "Date",
+              "value": "30 JUNE 2022"
+            },
+            {
+              "key": "Note Title",
+              "value": "Note 33. Reconciliation of profit after income tax expense to net cash from operating activities"
+            },
+            {
+              "key": "Loss after income tax expense (2022)",
+              "value": "-9445288"
+            },
+            {
+              "key": "Loss after income tax expense (2021)",
+              "value": "-2991402"
+            },
+            {
+              "key": "Depreciation and amortisation (2022)",
+              "value": "3779380"
+            },
+            {
+              "key": "Depreciation and amortisation (2021)",
+              "value": "1724507"
+            },
+            {
+              "key": "AASB 16 renegotiation of Canberra head office property lease (2022)",
+              "value": "0"
+            },
+            {
+              "key": "AASB 16 renegotiation of Canberra head office property lease (2021)",
+              "value": "-478850"
+            },
+            {
+              "key": "Share-based payments (2022)",
+              "value": "137509"
+            },
+            {
+              "key": "Share-based payments (2021)",
+              "value": "36336"
+            },
+            {
+              "key": "Interest on lease liabilities (2022)",
+              "value": "64584"
+            },
+            {
+              "key": "Interest on lease liabilities (2021)",
+              "value": "61123"
+            },
+            {
+              "key": "Foreign exchange differences (2022)",
+              "value": "36145"
+            },
+            {
+              "key": "(Increase)/decrease in trade and other receivables (2022)",
+              "value": "-1854889"
+            },
+            {
+              "key": "(Increase)/decrease in trade and other receivables (2021)",
+              "value": "-501121"
+            },
+            {
+              "key": "(Increase)/decrease in accrued revenue (2022)",
+              "value": "-143778"
+            },
+            {
+              "key": "(Increase)/decrease in accrued revenue (2021)",
+              "value": "73142"
+            },
+            {
+              "key": "(Increase)/decrease in prepayments (2022)",
+              "value": "-19935"
+            },
+            {
+              "key": "(Increase)/decrease in prepayments (2021)",
+              "value": "-97030"
+            },
+            {
+              "key": "(Increase)/decrease in research and development assets (2022)",
+              "value": "-2192798"
+            },
+            {
+              "key": "(Increase)/decrease in research and development assets (2021)",
+              "value": "-197108"
+            },
+            {
+              "key": "(Increase)/decrease in other assets (2022)",
+              "value": "-69018"
+            },
+            {
+              "key": "(Increase)/decrease in other assets (2021)",
+              "value": "-95921"
+            },
+            {
+              "key": "(Increase)/decrease in R&D tax incentive receivable (2022)",
+              "value": "-168057"
+            },
+            {
+              "key": "(Increase)/decrease in R&D tax incentive receivable (2021)",
+              "value": "-313416"
+            },
+            {
+              "key": "(Increase)/decrease in deferred tax assets (2022)",
+              "value": "287866"
+            },
+            {
+              "key": "(Increase)/decrease in deferred tax assets (2021)",
+              "value": "0"
+            },
+            {
+              "key": "Increase/(decrease) in trade and other payables (2022)",
+              "value": "-333148"
+            },
+            {
+              "key": "Increase/(decrease) in trade and other payables (2021)",
+              "value": "-288259"
+            },
+            {
+              "key": "Increase/(decrease) in accrued expenses (2022)",
+              "value": "213539"
+            },
+            {
+              "key": "Increase/(decrease) in accrued expenses (2021)",
+              "value": "0"
+            },
+            {
+              "key": "Increase/(decrease) in income taxes payable (2022)",
+              "value": "0"
+            },
+            {
+              "key": "Increase/(decrease) in income taxes payable (2021)",
+              "value": "-342989"
+            },
+            {
+              "key": "Increase/(decrease) in employee benefits (2022)",
+              "value": "314645"
+            },
+            {
+              "key": "Increase/(decrease) in employee benefits (2021)",
+              "value": "33976"
+            },
+            {
+              "key": "Increase/(decrease) in provisions (2022)",
+              "value": "179142"
+            },
+            {
+              "key": "Increase/(decrease) in provisions (2021)",
+              "value": "0"
+            },
+            {
+              "key": "Increase/(decrease) in deferred revenue (2022)",
+              "value": "-733377"
+            },
+            {
+              "key": "Increase/(decrease) in deferred revenue (2021)",
+              "value": "2912331"
+            },
+            {
+              "key": "Increase/(decrease) in deferred tax liabilities (2022)",
+              "value": "-632042"
+            },
+            {
+              "key": "Increase/(decrease) in deferred tax liabilities (2021)",
+              "value": "0"
+            },
+            {
+              "key": "Net cash from operating activities (2022)",
+              "value": "-10569520"
+            },
+            {
+              "key": "Net cash from operating activities (2021)",
+              "value": "-464681"
+            },
+            {
+              "key": "Overall Summary",
+              "value": "The table presents a cash flow statement for operating activities comparing 2021 and 2022. It shows a significant deterioration in net cash from operating activities and increased losses in 2022, alongside notable changes in working capital items including depreciation, deferred revenue, and other accruals."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 65,
+          "title": "Note 34. Earnings per share",
+          "data": [
+            {
+              "key": "Loss after income tax attributable to the owners (current)",
+              "value": "-9445288"
+            },
+            {
+              "key": "Loss after income tax attributable to the owners (previous)",
+              "value": "-2991402"
+            },
+            {
+              "key": "Weighted average number of ordinary shares used in calculating basic (current)",
+              "value": "251476896"
+            },
+            {
+              "key": "Weighted average number of ordinary shares used in calculating basic (previous)",
+              "value": "201737877"
+            },
+            {
+              "key": "Options (current)",
+              "value": "10676212"
+            },
+            {
+              "key": "Options (previous)",
+              "value": "11668791"
+            },
+            {
+              "key": "Performance rights (current)",
+              "value": "1820551"
+            },
+            {
+              "key": "Performance rights (previous)",
+              "value": "0"
+            },
+            {
+              "key": "Weighted average number of ordinary shares used in calculating diluted earnings per share (current)",
+              "value": "263973659"
+            },
+            {
+              "key": "Weighted average number of ordinary shares used in calculating diluted earnings per share (previous)",
+              "value": "213406668"
+            },
+            {
+              "key": "Basic earnings per share (cents) (current)",
+              "value": "-3.76"
+            },
+            {
+              "key": "Basic earnings per share (cents) (previous)",
+              "value": "-1.48"
+            },
+            {
+              "key": "Diluted earnings per share (cents) (current)",
+              "value": "-3.58"
+            },
+            {
+              "key": "Diluted earnings per share (cents) (previous)",
+              "value": "-1.40"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 68,
+          "title": "Directors’ Declaration 30 June 2022",
+          "data": [
+            {
+              "key": "Document Type",
+              "value": "Directors’ Declaration"
+            },
+            {
+              "key": "Reporting Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Compliance",
+              "value": "The attached financial statements and notes comply with the Corporations Act 2001, the Accounting Standards, the Corporations Regulations 2001, and other mandatory professional reporting requirements."
+            },
+            {
+              "key": "IFRS Compliance",
+              "value": "The financial statements and notes comply with International Financial Reporting Standards as issued by the International Accounting Standards Board (see note 1)."
+            },
+            {
+              "key": "True and Fair View",
+              "value": "The declaration addresses whether the financial statements give a true and fair view of the Group's financial position as at 30 June 2022 and its performance for the financial year ended on that date."
+            },
+            {
+              "key": "Debt Payment Assurance",
+              "value": "There are reasonable grounds to believe that the company will be able to pay its debts as and when they become due and payable."
+            },
+            {
+              "key": "Legal References",
+              "value": "Corporations Act 2001 (including sections 295A and 295(5)(a)), Accounting Standards, Corporations Regulations 2001."
+            },
+            {
+              "key": "Signatory",
+              "value": "Miles Jakeman AM, Chairman"
+            },
+            {
+              "key": "Signatory Date",
+              "value": "24 August 2022"
+            },
+            {
+              "key": "Location",
+              "value": "Canberra"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 70,
+          "title": "INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF archTIS LIMITED",
+          "data": [
+            {
+              "key": "Company",
+              "value": "archTIS Limited"
+            },
+            {
+              "key": "Report Components",
+              "value": "Consolidated statement of financial position, consolidated statement of profit and loss and other comprehensive income, consolidated statement of changes in equity, consolidated statement of cash flow, and accompanying notes"
+            },
+            {
+              "key": "Financial Position Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Compliance",
+              "value": "Corporations Act 2001, Australian Accounting Standards, and Corporations Regulations 2001"
+            },
+            {
+              "key": "Audit Standard",
+              "value": "Australian Auditing Standards"
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "The financial report provides a true and fair view of the Group's financial position and performance"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 84,
+          "title": "ARCHTIS LIMITED ANNUAL REPORT 2022",
+          "data": [
+            {
+              "key": "Company",
+              "value": "ARCHTIS LIMITED"
+            },
+            {
+              "key": "AR Number",
+              "value": "AR9"
+            },
+            {
+              "key": "ACN",
+              "value": "123 098 671"
+            },
+            {
+              "key": "Report Type",
+              "value": "ANNUAL REPORT"
+            },
+            {
+              "key": "Report Year",
+              "value": "2022"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "dividend_policy",
+          "page": 2,
+          "title": "Dividend Reinvestment Plan (Item 8)",
+          "data": [
+            {
+              "key": "No dividend reinvestment plan",
+              "value": "There was no dividend reinvestment plan in operation which occurred during the financial year."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 2,
+          "title": "Net Tangible Assets per Security (Item 9)",
+          "data": [
+            {
+              "key": "2021",
+              "value": "$0.026"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 2,
+          "title": "Details of Entities over which Control has been Gained or Lost during the Period (Item 10)",
+          "data": [
+            {
+              "key": "entity",
+              "value": "archTIS EU GmbH"
+            },
+            {
+              "key": "date",
+              "value": "26 November 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 2,
+          "title": "Details of archTIS Subsidiaries (Item 10)",
+          "data": [
+            {
+              "key": "archTIS Solutions Pty Limited",
+              "value": "1 July 2022"
+            },
+            {
+              "key": "archTIS Services Pty Limited",
+              "value": "1 July 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 2,
+          "title": "Details of Significant Information Relating to the Entity’s Financial Performance and Financial Position (Item 12)",
+          "data": [
+            {
+              "key": "refer to audited financial statements",
+              "value": "Refer to the audited financial statements in the attached 2022 Annual Report."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 2,
+          "title": "Commentary on Results for the Period (Item 14)",
+          "data": [
+            {
+              "key": "refer to audited 2022 Annual Report",
+              "value": "Refer to the audited 2022 Annual Report attached for further information."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 2,
+          "title": "Audit of the Financial Report (Items 15 to 17)",
+          "data": [
+            {
+              "key": "audit status",
+              "value": "The attached 2022 Annual Report has been audited."
+            },
+            {
+              "key": "listing rule compliance",
+              "value": "All documents comprise the information required by listing rule 4.3A."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_share_buyback_plans": {
+      "value": true,
+      "elements": [
+        {
+          "type": "share_buyback",
+          "page": 81,
+          "title": "SHAREHOLDER INFORMATION",
+          "data": [
+            {
+              "key": "Shareholder Information Date",
+              "value": "1 AUGUST 2022"
+            },
+            {
+              "key": "Shareholder Information Date",
+              "value": "30 JUNE 2022"
+            },
+            {
+              "key": "Name",
+              "value": "SG Hiscock & Company Limited"
+            },
+            {
+              "key": "Holder of",
+              "value": "13,709,182 fully paid ordinary shares"
+            },
+            {
+              "key": "Notice Received",
+              "value": "3 December 2020"
+            },
+            {
+              "key": "Restricted Securities",
+              "value": "AR9E24 escrowed until 24 December 2022"
+            },
+            {
+              "key": "On market buy-back",
+              "value": "There is currently no on market buy back in place."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 33,
+          "title": "Consolidated Statement of Changes in Equity for the Year Ended 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Balance at 1 July 2021",
+              "value": "Issued capital: 32636977; Reserves: 707660; Retained profits: -13699219; Total equity: 19645418"
+            },
+            {
+              "key": "Total comprehensive income for the year",
+              "value": "Retained profits: -9445288; Total equity: -9445288"
+            },
+            {
+              "key": "Issue of share capital",
+              "value": "Issued capital: 9127755; Note: 21"
+            },
+            {
+              "key": "Capital raise fees",
+              "value": "Issued capital: -664930; Note: 21"
+            },
+            {
+              "key": "Foreign exchange reserve",
+              "value": "Reserves: 402844; Note: 22"
+            },
+            {
+              "key": "Share-based payments",
+              "value": "Reserves: 137510; Note: 22"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "Issued capital: 41099800; Reserves: 1248014; Retained profits: -23144507; Total equity: 19203307; Note: 21,22"
+            },
+            {
+              "key": "Summary",
+              "value": "The statement details the changes in the company's capital structure over the period: an increase in issued capital through new share issues, accumulated losses reflected in retained profits, and positive adjustments in reserves from foreign exchange movements and share-based payments. Despite the new capital, total equity experienced a slight decrease, primarily due to the year's losses."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 54,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS 30 JUNE 2022 – Note 21. Issued Capital",
+          "data": [
+            {
+              "key": "Issued Capital – Balance recognised on acquisition",
+              "value": "Two sets of figures are provided, one showing a negative balance (–41,976) and another positive figure (107,847) with subsequent adjustments."
+            },
+            {
+              "key": "Issued Capital – Changes in Tax Rates",
+              "value": "Adjustments due to changes in tax rates are indicated as (1,045) and (1,237), with a total impact of (2,282)."
+            },
+            {
+              "key": "Issued Capital – Closing Balance",
+              "value": "Multiple closing balances are reported: one set at (1,224,722) and another set showing figures 263,781, (1,662,952) and (1,399,171), reflecting the reconciliation on issuance related to acquisitions."
+            },
+            {
+              "key": "Additional Context",
+              "value": "The note is part of a series of financial statement notes that include related tables on lease liabilities, deferred revenue, and deferred tax, but the focus here is on the capital structure changes regarding issued capital."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 56,
+          "title": "Issued Capital / Ordinary Shares Movement Summary",
+          "data": [
+            {
+              "key": "Note Title",
+              "value": "Issued Capital - Ordinary Shares"
+            },
+            {
+              "key": "Financial Statement Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Table Title",
+              "value": "Ordinary Shares Movement Summary"
+            },
+            {
+              "key": "2022 Total Shares",
+              "value": "263,803,207"
+            },
+            {
+              "key": "2022 Total Value",
+              "value": "41,099,800"
+            },
+            {
+              "key": "2021 Total Shares",
+              "value": "226,845,057"
+            },
+            {
+              "key": "2021 Total Value",
+              "value": "32,636,977"
+            },
+            {
+              "key": "Movement 1",
+              "value": "Balance on 30-Jun-20: 162,312,898 shares, value 15,564,392"
+            },
+            {
+              "key": "Movement 2",
+              "value": "Issue of shares on 03-Sep-20: 2,709,089 shares at issue price 0.0550, value 149,000"
+            },
+            {
+              "key": "Movement 3",
+              "value": "Issue of shares on 18-Nov-20: 24,454,542 shares at issue price 0.3300, value 8,399,999"
+            },
+            {
+              "key": "Movement 4",
+              "value": "Issue of shares on 24-Dec-20: 16,183,648 shares at issue price 0.3146, value 5,091,450"
+            },
+            {
+              "key": "Share Buy-back",
+              "value": "There is no current on-market share buy-back"
+            },
+            {
+              "key": "Capital Risk Management",
+              "value": "Group aims to manage capital prudently by maintaining an optimum capital structure, balancing total equity with net debt and considering measures like dividend adjustments, new share issues, and asset sales."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 74,
+          "title": "SHAREHOLDER INFORMATION",
+          "data": [
+            {
+              "key": "Applicable Date",
+              "value": "1 August 2022"
+            },
+            {
+              "key": "Comparison Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Exchange Listing",
+              "value": "Listed on the Australian Securities Exchange under ASX codes AR9 (Fully Paid Ordinary Shares) and AR9O (Listed Options)"
+            },
+            {
+              "key": "Voting Rights",
+              "value": "Each member may vote in person or by proxy/attorney; on meetings, one vote per ordinary share held on polls; no voting rights for Options or Performance Rights"
+            },
+            {
+              "key": "Share Distribution Table",
+              "value": "There are 4,543 total shareholders holding 259,729,759 shares, with distribution ranges: '1 to 1,000' (151 holders, 76,400 shares, 0.03%), '1,001 to 5,000' (1,760 holders, 4,816,773 shares, 1.85%), '5,001 to 10,000' (746 holders, 5,814,545 shares, 2.24%), '10,001 to 100,000' (1,553 holders, 51,451,243 shares, 19.81%), '100,001 and over' (333 holders, 197,570,798 shares, 76.07%), totaling 100.00%"
+            },
+            {
+              "key": "Unmarketable Parcels",
+              "value": "1,201 holders of parcels (less than $500) holding 2,065,516 ordinary shares; closing share price of $0.17 as at 1 August 2022"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 75,
+          "title": "SHAREHOLDER INFORMATION & Capital Structure Details",
+          "data": [
+            {
+              "key": "Shareholder Information Dates",
+              "value": "1 August 2022 and 30 June 2022"
+            },
+            {
+              "key": "Ordinary Shares Description",
+              "value": "Fully Paid Ordinary Shares, Escrowed for 24 months until 24 December 2022"
+            },
+            {
+              "key": "Key Holder",
+              "value": "All securities in this class are held by Kurt Mueffelmann – 4,073,448 shares (100% concentration)"
+            },
+            {
+              "key": "Table 1 Summary",
+              "value": "One holder in '100,001 and over' range holding 4,073,448 shares, with no holders in lower ranges"
+            },
+            {
+              "key": "Listed Options Information",
+              "value": "AR9O Listed Options exercisable at $0.35 on or before 23 December 2023"
+            },
+            {
+              "key": "Table 2 Summary",
+              "value": "Distribution of options/units: Total of 116 holders and 10,044,257 units; 18 holders (81.52%) own over 100,001 units; additional breakdown by ranges provided"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 78,
+          "title": "Shareholder Information and Share Distribution Analysis",
+          "data": [
+            {
+              "key": "Report Dates",
+              "value": "1 AUGUST 2022 and 30 JUNE 2022"
+            },
+            {
+              "key": "Share Distribution - Table 1",
+              "value": "One shareholder holds 360,000 units representing 100% ownership; indicates highly concentrated shareholding."
+            },
+            {
+              "key": "Holder (Table 1)",
+              "value": "Miles Gareth Jakeman"
+            },
+            {
+              "key": "Unlisted Options AR9O8",
+              "value": "Exercisable at $0.20 on or before 13 February 2023"
+            },
+            {
+              "key": "Share Distribution - Table 2",
+              "value": "One entry showing an amount of 500,000 in the highest range (100,001 and over) representing 100% share distribution"
+            },
+            {
+              "key": "Holder (Table 2)",
+              "value": "Mr Christopher Jordan Shopov & Mr Christopher James Shopov <Helter Skelter A/C>"
+            },
+            {
+              "key": "Unlisted Options AR9O9",
+              "value": "Exercisable at $0.10 on or before 1 July 2023"
+            },
+            {
+              "key": "Report Title",
+              "value": "ANNUAL REPORT 2022"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 79,
+          "title": "SHAREHOLDER INFORMATION",
+          "data": [
+            {
+              "key": "Options Details",
+              "value": "Unlisted Options exercisable at $0.316 on or before 24 November 2025"
+            },
+            {
+              "key": "Shareholding Distribution Analysis",
+              "value": "Table shows that 1,750,000 units (100%) fall into the '100,001 and over' category, indicating a highly concentrated ownership."
+            },
+            {
+              "key": "Value Distribution Analysis",
+              "value": "A second table indicates a single entry in the highest range with a value of 612,245, representing 100% of the total."
+            },
+            {
+              "key": "Major Securities Holders",
+              "value": "Holders with more than 20%: Miles Gareth Jakeman – 1,000,000 options; Cloud Rainmakers Limited – 750,000 options; Performance Rights – AR9PR01"
+            },
+            {
+              "key": "Class Holder",
+              "value": "All the securities in this class are held by Daniel Chun Leung Lai"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 80,
+          "title": "SHAREHOLDER INFORMATION – Employee Performance Rights & Substantial Shareholders",
+          "data": [
+            {
+              "key": "Performance Rights – AR9PR02 (Employee Performance Rights) Table Summary",
+              "value": "Holdings distribution: '1 to 1,000', '1,001 to 5,000', '5,001 to 10,000' ranges show no holders; '10,001 to 100,000' has 3 holders with 202,844 units (14.09%); '100,001 and over' has 5 holders with 1,237,283 units (85.91%), totaling 8 holders with 1,440,127 units."
+            },
+            {
+              "key": "Performance Rights – AR9PR03 (Employee Restricted Stock Units) Table Summary",
+              "value": "Distribution analysis shows activity only in the '100,001 and over' range with 2 entries accounting for 995,798 units (100% of total)."
+            },
+            {
+              "key": "Substantial Shareholders",
+              "value": "Substantial shareholder noted: Kurt Mueffelmann holds 17,772,859 fully paid ordinary shares (Notice received: 2 August 2021)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 82,
+          "title": "Top 20 Holders of Ordinary Shares",
+          "data": [
+            {
+              "key": "Shareholder Information Dates",
+              "value": "1 August 2022; 30 June 2022"
+            },
+            {
+              "key": "Table Title",
+              "value": "Top 20 Holders of Ordinary Shares"
+            },
+            {
+              "key": "Largest Shareholder",
+              "value": "HSBC CUSTODY NOMINEES (AUSTRALIA) LIMITED - 17,738,637 shares (6.72%)"
+            },
+            {
+              "key": "Second Largest Shareholder",
+              "value": "KURT MUEFFELMANN - 12,908,058 shares (4.89%) (held via Citicorp Nominees Pty Limited as custodian)"
+            },
+            {
+              "key": "Summary",
+              "value": "The top 20 shareholders collectively hold 41.36% of all ordinary shares. Institutional investors and nominees feature prominently based on the table data, with individual percentages ranging from 0.56% to 6.72%."
+            },
+            {
+              "key": "Total Remaining Holders Balance",
+              "value": "154,696,663 shares (58.64%)"
+            },
+            {
+              "key": "Additional Note",
+              "value": "Citicorp Nominees Pty Limited holds 4,995,236 shares as a custodian for Kurt Mueffelmann"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 83,
+          "title": "Top 20 Holders of Listed Options",
+          "data": [
+            {
+              "key": "Largest Holder",
+              "value": "WASHINGTON H SOUL PATTINSON & COMPANY: 2,173,913 shares (21.64%)"
+            },
+            {
+              "key": "Second Largest Holder",
+              "value": "BRIO CAPITAL MASTER FUND LTD: 1,449,275 shares (14.43%)"
+            },
+            {
+              "key": "Third Holder",
+              "value": "HSBC CUSTODY NOMINEES (AUSTRALIA LIMITED): 724,638 shares (7.21%)"
+            },
+            {
+              "key": "Fourth Holder",
+              "value": "J P MORGAN NOMINEES AUSTRALIA PTY LIMITED: 724,638 shares (7.21%)"
+            },
+            {
+              "key": "Fifth Holder",
+              "value": "MR SPENCER SHERWOOD: 368,650 shares (3.67%)"
+            },
+            {
+              "key": "Sixth Holder",
+              "value": "MR JAMES HANKIN: 352,993 shares (3.51%)"
+            },
+            {
+              "key": "Seventh Holder",
+              "value": "MR JAMES HANKIN: 344,927 shares (3.43%)"
+            },
+            {
+              "key": "Eighth Holder",
+              "value": "CS THIRD NOMINEES PTY LIMITED: 289,855 shares (2.89%)"
+            },
+            {
+              "key": "Ninth Holder",
+              "value": "MR PAUL CLIVE CHAMBERS & MISS KATRINA LOUSIE CHAMBERS: 250,000 shares (2.49%)"
+            },
+            {
+              "key": "Tenth Holder",
+              "value": "MISS JESSICA ANN BAGGS: 250,000 shares (2.49%)"
+            },
+            {
+              "key": "Table Summary",
+              "value": "The top 20 holders collectively own 88.92% (8,931,151 shares) of the listed options, with significant concentration among the top four holders controlling over 50% of the total options."
+            },
+            {
+              "key": "Options Terms",
+              "value": "Options exercisable at $0.35 on or before 23 December 2023"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": false,
+      "elements": []
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 41,
+          "title": "Notes to the Financial Statements for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "The preparation of the financial statements requires management to make judgements, estimates and assumptions that affect the reported amounts."
+            },
+            {
+              "key": "Judgements and Estimates",
+              "value": "The judgements, estimates and assumptions that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities are discussed."
+            },
+            {
+              "key": "Share-based Payments",
+              "value": "Equity-settled transactions measured by fair value of equity instruments at grant date using the Binomial model."
+            },
+            {
+              "key": "Intangible Assets",
+              "value": "Tests for impairment of finite life and indefinite life intangible assets annually or more frequently if events indicate."
+            },
+            {
+              "key": "Impairment Assessments",
+              "value": "Evaluates conditions specific to non-financial assets other than goodwill and tests for impairment."
+            },
+            {
+              "key": "Tax Law Judgement",
+              "value": "Significant judgement required in determining the provision for income tax based on anticipated tax audit issues."
+            },
+            {
+              "key": "Deferred Tax Assets",
+              "value": "Recognised for deductible temporary differences only if it is probable that future taxable amounts will be available."
+            },
+            {
+              "key": "Employee Benefits Provision",
+              "value": "Liabilities for employee benefits expected to be settled more than 12 months are recognised at present value."
+            },
+            {
+              "key": "Lease Make Good Provision",
+              "value": "Future restoration costs for leased premises are provisioned based on future cost estimates."
+            },
+            {
+              "key": "COVID-19 Impacts",
+              "value": "Consideration of impacts of the pandemic on the consolidated entity's operations."
+            },
+            {
+              "key": "Business Combinations",
+              "value": "Initial accounting for business combinations is provisional with fair value estimations."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 29,
+          "title": "DIRECTORS’ REPORT – Auditor Independence and Non-Audit Services Disclosure",
+          "data": [
+            {
+              "key": "Auditor",
+              "value": "RSM Australia Partners (RSM)"
+            },
+            {
+              "key": "Regulatory Reference",
+              "value": "Section 327 and 307C of the Corporations Act 2001"
+            },
+            {
+              "key": "Non-Audit Services Note",
+              "value": "Note 28 to the financial statements"
+            },
+            {
+              "key": "Auditor Independence Assurance",
+              "value": "Directors confirm that all non-audit services reviewed and approved do not compromise auditor independence per APES 110 Code of Ethics"
+            },
+            {
+              "key": "Indemnity and Insurance",
+              "value": "No indemnity or insurance premium paid/arranged for the auditor or any related entity during the financial year"
+            },
+            {
+              "key": "Rounding Policy",
+              "value": "Amounts rounded off to the nearest dollar per Corporations Instrument 2016/191"
+            },
+            {
+              "key": "Corporate Governance",
+              "value": "2022 Corporate Governance Statement available at https://www.archtis.com/archtis-asx-ar9-investor-relations/"
+            },
+            {
+              "key": "Auditor Independence Declaration",
+              "value": "Included on page 67"
+            },
+            {
+              "key": "Report Authorization",
+              "value": "This report is made per a directors’ resolution under section 298(2)(a) of the Corporations Act 2001"
+            },
+            {
+              "key": "Chairman and Signatory",
+              "value": "Miles Jakeman AM, Chairman; signed on 24 August 2022 in Canberra, ACT"
+            },
+            {
+              "key": "Report Title",
+              "value": "ANNUAL REPORT 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 69,
+          "title": "AUDITOR’S INDEPENDENCE DECLARATION",
+          "data": [
+            {
+              "key": "Audited Entity",
+              "value": "archTIS Limited and its controlled entities"
+            },
+            {
+              "key": "Audit Period",
+              "value": "Year ended 30 June 2022"
+            },
+            {
+              "key": "Declaration",
+              "value": "I declare that, to the best of my knowledge and belief, there have been no contraventions of the auditor independence requirements of the Corporations Act 2001 and any applicable code of professional conduct in relation to the audit."
+            },
+            {
+              "key": "Auditing Firm",
+              "value": "RSM AUSTRALIA PARTNERS"
+            },
+            {
+              "key": "Auditor",
+              "value": "C J HUME, Partner"
+            },
+            {
+              "key": "Declaration Date",
+              "value": "24th August 2022"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 223,
+    "EUR": 2,
+    "AUD": 94,
+    "INR": 1
+  },
+  "sha1": "c06d5ad4b6408fec26675d30b37a6042c007095a"
+}

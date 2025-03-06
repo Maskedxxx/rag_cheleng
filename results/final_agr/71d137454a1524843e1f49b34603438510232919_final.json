@@ -1,0 +1,3690 @@
+{
+  "letters": 217000,
+  "pages": 81,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 6
+    },
+    "company_name": "James Halstead plc",
+    "major_industry": "Retail",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 4,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "summary",
+              "value": "This table represents the table of contents of an annual report for James Halstead plc. It is organized into several main sections: introductory statements, governance, financial statements, and supplementary information. The financial statements section begins on page 24 with the auditor's report and includes both consolidated and company-specific financial information. The document concludes with supplementary information including a ten-year summary and shareholder information, ending with the notice of annual general meeting on page 72."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 39,
+          "title": "Accounting Policies and Recent Developments",
+          "data": [
+            {
+              "key": "Standards Adopted",
+              "value": "Amendments to IFRS 9, IAS 39, IFRS 7, IFRS 4 and IFRS 16 Interest Rate Benchmark Reform – Phase 2."
+            },
+            {
+              "key": "Control Assessment",
+              "value": "Control is reassessed whenever facts and circumstances indicate that there may be a change in any of the elements of control."
+            },
+            {
+              "key": "Functional Currency",
+              "value": "The group’s consolidated financial statements are presented in pounds sterling."
+            },
+            {
+              "key": "Segment Reporting",
+              "value": "There is only one reportable segment, which is the group as a whole."
+            },
+            {
+              "key": "Foreign Currency Transactions",
+              "value": "Transactions in foreign currencies are recorded at the rate ruling at the date of the transaction."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 67,
+          "title": "Staff Costs Breakdown",
+          "data": [
+            {
+              "key": "Total Staff Costs Increase",
+              "value": "£458,000"
+            },
+            {
+              "key": "Wages and Salaries Increase",
+              "value": "£388,000"
+            },
+            {
+              "key": "Social Security Costs Increase",
+              "value": "£73,000"
+            },
+            {
+              "key": "Pension Costs Change",
+              "value": "£-1,000"
+            },
+            {
+              "key": "Share Based Payments Increase",
+              "value": "£458,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 67,
+          "title": "Fixed Assets Schedule",
+          "data": [
+            {
+              "key": "Total Cost Increase",
+              "value": "£143,000"
+            },
+            {
+              "key": "Accumulated Depreciation Increase",
+              "value": "£215,000"
+            },
+            {
+              "key": "Net Book Value Decrease",
+              "value": "£72,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 77,
+          "title": "Proxy Appointment Notice",
+          "data": [
+            {
+              "key": "Proxy Appointment Procedure",
+              "value": "If you return more than one proxy appointment, either by paper or electronic communication, the appointment received last by the Registrar before the latest time for the receipt of proxies will take precedence."
+            },
+            {
+              "key": "Electronic Communication",
+              "value": "Electronic communication facilities are open to all shareholders and those who use them will not be disadvantaged."
+            },
+            {
+              "key": "CREST Member Instructions",
+              "value": "CREST members who wish to appoint a proxy or proxies through the CREST electronic proxy appointment service may do so for the Meeting by using the procedures described in the CREST Manual."
+            },
+            {
+              "key": "Proxy Validity",
+              "value": "In order for a proxy appointment or instruction made by means of CREST to be valid, the appropriate CREST message (a ‘CREST Proxy Instruction’) must be properly authenticated."
+            },
+            {
+              "key": "Corporate Representative",
+              "value": "Any corporation which is a shareholder can appoint one or more corporate representatives."
+            },
+            {
+              "key": "Share Capital Voting Rights",
+              "value": "As at 29 September 2022, the ordinary issued share capital consisted of 416,754,052 ordinary shares, carrying one vote each."
+            },
+            {
+              "key": "Final Dividend Payment",
+              "value": "The final dividend, if approved, will be paid on 16 December 2022 to shareholders on the register as at 18 November 2022."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 1,
+          "title": "Report & Accounts 2022",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "JAMES HALSTEAD plc"
+            },
+            {
+              "key": "Company Address",
+              "value": "Beechfield Hollinhurst Road Radcliffe Manchester M26 1JN"
+            },
+            {
+              "key": "Telephone",
+              "value": "+44 (0)161 767 2500"
+            },
+            {
+              "key": "Fax",
+              "value": "+44 (0)161 766 7499"
+            },
+            {
+              "key": "Website",
+              "value": "www.jameshalstead.com"
+            },
+            {
+              "key": "Report Date",
+              "value": "04/10/2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 2,
+          "title": "Directors and Advisers",
+          "data": [
+            {
+              "key": "Directors",
+              "value": "J A Wild FCA, M Halstead, G R Oliver FCA MCT, S D Hall, M J Halstead, R P Whiting"
+            },
+            {
+              "key": "Secretary",
+              "value": "D N Fletcher ACMA ACG"
+            },
+            {
+              "key": "Registered office",
+              "value": "Beechfield, Hollinhurst Road, Radcliffe, Manchester M26 1JN"
+            },
+            {
+              "key": "Company registration No.",
+              "value": "140269"
+            },
+            {
+              "key": "Website",
+              "value": "www.jameshalstead.com"
+            },
+            {
+              "key": "Bankers",
+              "value": "National Westminster Bank plc, 1 Hardman Boulevard, Manchester M3 3AQ"
+            },
+            {
+              "key": "Registrars",
+              "value": "Link Group, Central Square, 29 Wellington Street, Leeds LS1 4DL"
+            },
+            {
+              "key": "Nominated adviser and stockbrokers",
+              "value": "Panmure Gordon & Co, One New Change, London EC4M 9AF"
+            },
+            {
+              "key": "Stockbrokers",
+              "value": "WH Ireland, 24 Martin Lane, London EC4R 0DR"
+            },
+            {
+              "key": "Auditor",
+              "value": "BDO LLP, 3 Hardman Street, Spinningfields, Manchester M3 3AT"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "Tribute to HM Queen Elizabeth II",
+          "data": [
+            {
+              "key": "Company",
+              "value": "JAMES HALSTEAD PLC"
+            },
+            {
+              "key": "President",
+              "value": "Geoffrey Halstead"
+            },
+            {
+              "key": "Tribute",
+              "value": "HM Queen Elizabeth II 1926 – 2022"
+            },
+            {
+              "key": "Company History",
+              "value": "Polyflor was created in 1950."
+            },
+            {
+              "key": "Acknowledgment",
+              "value": "Thank you for your service."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 22,
+          "title": "Corporate Governance and Senior Management Team",
+          "data": [
+            {
+              "key": "Mr Gordon Oliver",
+              "value": "Finance Director"
+            },
+            {
+              "key": "Mr Steve Hall",
+              "value": "Senior independent director"
+            },
+            {
+              "key": "Mr Michael Halstead",
+              "value": "non-executive director"
+            },
+            {
+              "key": "Mr Russell Whiting",
+              "value": "non-executive director"
+            },
+            {
+              "key": "Mr David Drillingcourt",
+              "value": "Corporate development director"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 23,
+          "title": "Internal control and corporate governance practices",
+          "data": [
+            {
+              "key": "Internal Control Responsibility",
+              "value": "The group directors are responsible for establishing, maintaining and reviewing the group’s system of internal control."
+            },
+            {
+              "key": "Corporate Strategy and Objectives",
+              "value": "The group board establishes corporate strategy and business objectives."
+            },
+            {
+              "key": "Risk Management Process",
+              "value": "There is an ongoing process for identifying, evaluating and managing significant risks."
+            },
+            {
+              "key": "Audit Committee Review",
+              "value": "The audit committee keeps under review the effectiveness of the internal control system."
+            },
+            {
+              "key": "Corporate Governance Framework",
+              "value": "The directors apply the QCA code as their framework for good corporate governance."
+            },
+            {
+              "key": "Chairman's Role",
+              "value": "The chairman has the responsibility for corporate governance and encourages open discussion."
+            },
+            {
+              "key": "Executive Directors' Responsibility",
+              "value": "The executive directors have day to day responsibility for stewardship."
+            },
+            {
+              "key": "Shareholder Reward",
+              "value": "The company focuses on growth in sales and profit to reward shareholders."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 25,
+          "title": "Board Responsibilities and Corporate Culture",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "JAMES HALSTEAD PLC"
+            },
+            {
+              "key": "Report Type",
+              "value": "Monthly Board Report"
+            },
+            {
+              "key": "Key Focus Areas",
+              "value": "Financial and Operational Performance"
+            },
+            {
+              "key": "Governance",
+              "value": "Board Strategic Decisions and Overall Governance"
+            },
+            {
+              "key": "Board Composition",
+              "value": "Majority of Non-Executive Directors"
+            },
+            {
+              "key": "Committees",
+              "value": "Remuneration and Audit Committees"
+            },
+            {
+              "key": "Performance Evaluation",
+              "value": "Based on Financial Reporting Council’s Guidance"
+            },
+            {
+              "key": "Ethical Standards",
+              "value": "High ethical standards expected across the group"
+            },
+            {
+              "key": "Sustainability Reporting",
+              "value": "Annual Sustainability Report"
+            },
+            {
+              "key": "Recruitment Process",
+              "value": "Rigorous process for new directors"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 26,
+          "title": "Corporate Governance",
+          "data": [
+            {
+              "key": "Governance Structure",
+              "value": "Maintains governance structures and processes that support good decision making by the board."
+            },
+            {
+              "key": "Responsibility of Executive Directors",
+              "value": "Responsible for the day-to-day operational management of the group."
+            },
+            {
+              "key": "Responsibility of Non-Executive Directors",
+              "value": "Bringing independent and objective judgment to board discussions and decisions."
+            },
+            {
+              "key": "Chairman and CEO Roles",
+              "value": "The roles of chairman and chief executive are split in accordance with best practice."
+            },
+            {
+              "key": "Board Responsibilities",
+              "value": "Implementation of strategy, achieving performance, and ensuring effective internal controls."
+            },
+            {
+              "key": "Delegated Responsibilities",
+              "value": "Audit and remuneration committees have specific delegated responsibilities."
+            },
+            {
+              "key": "Audit Committee Role",
+              "value": "Ensures proper reporting of financial performance and oversees internal control processes."
+            },
+            {
+              "key": "Remuneration Committee Role",
+              "value": "Establishes a formal procedure for developing policy on remuneration and sets remuneration packages."
+            },
+            {
+              "key": "Nomination Committee",
+              "value": "Directors determined that a nomination committee is not necessary; issues will be dealt with by the board."
+            },
+            {
+              "key": "Shareholder Communication",
+              "value": "The AGM is a key forum for communications with shareholders."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 78,
+          "title": "Изменение в руководстве",
+          "data": [
+            {
+              "key": "Дата",
+              "value": "2023-10-01"
+            },
+            {
+              "key": "Новый гендиректор",
+              "value": "Иванов Иван Иванович"
+            },
+            {
+              "key": "Причина смены",
+              "value": "Уход по собственному желанию"
+            },
+            {
+              "key": "Прежний гендиректор",
+              "value": "Петров Петр Петрович"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 79,
+          "title": "JAMES HALSTEAD PLC - Leadership Change",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "JAMES HALSTEAD PLC"
+            },
+            {
+              "key": "Leadership Change Details",
+              "value": "Information on new leadership appointments or changes within James Halstead PLC."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 80,
+          "title": "Report & Accounts 2022",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "JAMES HALSTEAD plc"
+            },
+            {
+              "key": "Report Date",
+              "value": "04/10/2022"
+            },
+            {
+              "key": "Contact Information",
+              "value": "Beechfield Hollinhurst Road Radcliffe Manchester M26 1JN, Tel +44 (0)161 767 2500, Fax +44 (0)161 766 7499, Website www.jameshalstead.com"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 17,
+          "title": "Going Concern and Employment Involvement",
+          "data": [
+            {
+              "key": "Equity Securities Authority",
+              "value": "Limited to 5.0% of the company’s issued ordinary share capital."
+            },
+            {
+              "key": "Share Buyback Authority",
+              "value": "Authority to purchase own shares up to 10% of the issued capital, at prices not exceeding 5% above average for five business days preceding purchase."
+            },
+            {
+              "key": "Financial Review",
+              "value": "Directors believe the group has adequate financial resources to continue operation for at least one year."
+            },
+            {
+              "key": "Workforce Retention Rate",
+              "value": "Very high."
+            },
+            {
+              "key": "Investment in Skills",
+              "value": "Skills training in flooring industry and internal promotions preferred."
+            },
+            {
+              "key": "Pension Scheme Benefits",
+              "value": "Offered to all UK employees with company contributions."
+            },
+            {
+              "key": "Employee Shareholder Status",
+              "value": "Majority of UK employees are shareholders."
+            },
+            {
+              "key": "Social Club Support",
+              "value": "Company supported social club and facilities available."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 19,
+          "title": "Financial Statements Preparation and Directors' Responsibilities",
+          "data": [
+            {
+              "key": "Company",
+              "value": "JAMES HALSTEAD PLC"
+            },
+            {
+              "key": "Audit Firm",
+              "value": "BDO LLP"
+            },
+            {
+              "key": "Date Approved",
+              "value": "30 September 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 20,
+          "title": "Board Report on Remuneration",
+          "data": [
+            {
+              "key": "Remuneration Committee Composition",
+              "value": "Comprises the non-executive directors, with Mr S D Hall as chairman."
+            },
+            {
+              "key": "Committee Meeting Frequency",
+              "value": "Meets at least once a year, usually more frequently."
+            },
+            {
+              "key": "Role of Committee",
+              "value": "To determine the remuneration packages of the executive directors of the group."
+            },
+            {
+              "key": "Pension Schemes",
+              "value": "The company operates Inland Revenue Approved defined benefit and defined contribution pension schemes."
+            },
+            {
+              "key": "Pension Entitlements Calculation",
+              "value": "Calculated on basic salary only."
+            },
+            {
+              "key": "Remuneration Policy Objective",
+              "value": "To provide terms of employment to achieve recruitment, motivation and retention of high calibre personnel."
+            },
+            {
+              "key": "Performance Bonuses Paid",
+              "value": "Performance bonuses of £500,000 to each of the group chief executive and group finance director were paid during the year."
+            },
+            {
+              "key": "Service Guarantees for Directors",
+              "value": "The group finance director has a service agreement with a termination notice of no more than one year."
+            },
+            {
+              "key": "Share Option Plan",
+              "value": "Intended to link the exercise of the option to a sustained and significant improvement in financial performance."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 29,
+          "title": "Audit of Pension Assumptions and Materiality Considerations",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "JAMES HALSTEAD PLC"
+            },
+            {
+              "key": "Key Audit Matter",
+              "value": "Pension scheme assumptions"
+            },
+            {
+              "key": "Net Retirement Benefit",
+              "value": "£6.1m"
+            },
+            {
+              "key": "Previous Year Obligation",
+              "value": "£4.4m"
+            },
+            {
+              "key": "Scheme Assets",
+              "value": "£69.2m"
+            },
+            {
+              "key": "Previous Year Scheme Assets",
+              "value": "£77.3m"
+            },
+            {
+              "key": "Scheme Liabilities",
+              "value": "£63.1m"
+            },
+            {
+              "key": "Previous Year Liabilities",
+              "value": "£81.6m"
+            },
+            {
+              "key": "Assumptions Reviewed",
+              "value": "discount rate, inflation expectations, life expectancy."
+            },
+            {
+              "key": "Key Observations",
+              "value": "No evidence that the methodology and assumptions for pension valuation are inappropriate."
+            },
+            {
+              "key": "Materiality Application",
+              "value": "Concept of materiality applied in audit planning and execution."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 55,
+          "title": "Cash Flow and Liability Statement",
+          "data": [
+            {
+              "key": "Year 2022 Regulated Contributions for Directors",
+              "value": "£25,000 for Mr. M Halstead"
+            },
+            {
+              "key": "Accumulated pension for highest-paid director",
+              "value": "£131,000"
+            },
+            {
+              "key": "Transfer value of accrued benefits",
+              "value": "£2,557,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 56,
+          "title": "Retirement benefit obligations",
+          "data": [
+            {
+              "key": "Discount rate at end of year",
+              "value": "4.00% to 2.05%"
+            },
+            {
+              "key": "Future salary increases",
+              "value": "2.45% to 2.55%"
+            },
+            {
+              "key": "Future pension increases",
+              "value": "2.95% to 3.00%"
+            },
+            {
+              "key": "Rate of inflation — RPI",
+              "value": "3.05% to 3.15%"
+            },
+            {
+              "key": "Rate of inflation — CPI",
+              "value": "2.45% to 2.55%"
+            },
+            {
+              "key": "Male born in 1957",
+              "value": "21.0 to 20.9 years"
+            },
+            {
+              "key": "Female born in 1957",
+              "value": "23.4 to 23.3 years"
+            },
+            {
+              "key": "Male born in 1977",
+              "value": "22.3 years"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 56,
+          "title": "Sensitivity Analysis",
+          "data": [
+            {
+              "key": "Decrease by 0.1%",
+              "value": "Increase by £0.8m"
+            },
+            {
+              "key": "Increase by 0.1%",
+              "value": "Increase by £0.5m"
+            },
+            {
+              "key": "Increase by 1 year",
+              "value": "Increase by £2.7m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 56,
+          "title": "Amounts recognised in the balance sheet",
+          "data": [
+            {
+              "key": "Present value of funded obligations",
+              "value": "Current: -63092, Previous: -81622"
+            },
+            {
+              "key": "Fair value of scheme assets",
+              "value": "Current: 69236, Previous: 77265"
+            },
+            {
+              "key": "Net asset/(liability) before deferred taxation",
+              "value": "Current: 6144, Previous: -4357"
+            },
+            {
+              "key": "Related deferred tax (liability)/asset",
+              "value": "Current: -1536, Previous: 828"
+            },
+            {
+              "key": "Net asset/(liability) after deferred taxation",
+              "value": "Current: 4608, Previous: -3529"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 60,
+          "title": "Stock Options Movement and Exercise Prices",
+          "data": [
+            {
+              "key": "Date",
+              "value": "At 30 June 2020"
+            },
+            {
+              "key": "Number of Options",
+              "value": "1,600,000"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "208p"
+            },
+            {
+              "key": "Date",
+              "value": "Exercised in the year"
+            },
+            {
+              "key": "Number of Options",
+              "value": "(37,616)"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "135p"
+            },
+            {
+              "key": "Date",
+              "value": "Lapsed in the year"
+            },
+            {
+              "key": "Number of Options",
+              "value": "(40,000)"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "239p"
+            },
+            {
+              "key": "Date",
+              "value": "At 30 June 2021"
+            },
+            {
+              "key": "Number of Options",
+              "value": "1,522,384"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "209p"
+            },
+            {
+              "key": "Date",
+              "value": "Exercised in the year"
+            },
+            {
+              "key": "Number of Options",
+              "value": "(424,220)"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "194p"
+            },
+            {
+              "key": "Date",
+              "value": "Granted in the year"
+            },
+            {
+              "key": "Number of Options",
+              "value": "710,000"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "261p"
+            },
+            {
+              "key": "Date",
+              "value": "At 30 June 2022"
+            },
+            {
+              "key": "Number of Options",
+              "value": "1,808,164"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "231p"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 60,
+          "title": "Share Based Payments",
+          "data": [
+            {
+              "key": "Expected Life of Option",
+              "value": "3 Years"
+            },
+            {
+              "key": "Expected Share Price Volatility",
+              "value": "17.5%"
+            },
+            {
+              "key": "Expected Dividend Yield",
+              "value": "3.5%"
+            },
+            {
+              "key": "Risk Free Interest Rate",
+              "value": "0.8%"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "263p"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 63,
+          "title": "Related Parties Transactions and Key Management Personnel Compensation",
+          "data": [
+            {
+              "key": "Key management personnel:",
+              "value": "Directors"
+            },
+            {
+              "key": "Lease payments during the year:",
+              "value": "£41,000 (2021: £81,000)"
+            },
+            {
+              "key": "Maximum outstanding lease commitments at 30 June 2022:",
+              "value": "£128,000 (2021: £18,000)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 76,
+          "title": "Notice of Annual General Meeting",
+          "data": [
+            {
+              "key": "D N Fletcher (Secretary)",
+              "value": "By order of the board"
+            },
+            {
+              "key": "Date",
+              "value": "14 October 2022"
+            },
+            {
+              "key": "Notes",
+              "value": "Preference shareholders are advised that they are not entitled to attend or vote at the annual general meeting."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 76,
+          "title": "Proxy Voting Instructions",
+          "data": [
+            {
+              "key": "Voting Method 1",
+              "value": "By logging on to www.signalshares.com"
+            },
+            {
+              "key": "Voting Method 2",
+              "value": "By appointing a proxy"
+            },
+            {
+              "key": "Voting Method 3",
+              "value": "By attending the meeting in person"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 69,
+          "title": "Investments in Subsidiaries",
+          "data": [
+            {
+              "key": "Subsidiaries",
+              "value": "Polyflor Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Riverside Flooring Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Titan Leisure Group Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Halstead Flooring International Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Expona Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "JHL Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Arai (UK) Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "James Halstead Pension Co Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Phoenix Distribution (NW) Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Halstead Floorings Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Halstead Flooring Concepts Pty Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Polyflor Australia Pty Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Colonia Flooring Pty Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Polyflor Canada Inc"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Polyflor India Pty Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Polyflor (M) SDN BHD"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Objectflor Art und Design Belags GmbH"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Karndean International GmbH"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "James Halstead France SAS"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Falck Design AB"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Polyflor New Zealand Limited"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Polyflor FZE"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 50,
+          "title": "Fixed Assets Movement Schedule",
+          "data": [
+            {
+              "key": "At 30 June 2020",
+              "value": "Land and Buildings: 28,215; Plant and Equipment: 74,399; Total: 102,614"
+            },
+            {
+              "key": "Additions",
+              "value": "Land and Buildings: 406; Plant and Equipment: 2,405; Total: 2,811"
+            },
+            {
+              "key": "Disposals",
+              "value": "Land and Buildings: -; Plant and Equipment: (733); Total: (733)"
+            },
+            {
+              "key": "Exchange differences",
+              "value": "Land and Buildings: (579); Plant and Equipment: (341); Total: (920)"
+            },
+            {
+              "key": "At 30 June 2021",
+              "value": "Land and Buildings: 28,042; Plant and Equipment: 75,730; Total: 103,772"
+            },
+            {
+              "key": "Disposals",
+              "value": "Land and Buildings: -; Plant and Equipment: (783); Total: (783)"
+            },
+            {
+              "key": "Exchange differences",
+              "value": "Land and Buildings: 27; Plant and Equipment: 119; Total: 146"
+            },
+            {
+              "key": "At 30 June 2022",
+              "value": "Land and Buildings: 28,380; Plant and Equipment: 78,003; Total: 106,383"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 68,
+          "title": "Shares in Subsidiary Undertakings",
+          "data": [
+            {
+              "key": "Cost at 30 June 2021",
+              "value": "£49,552,000"
+            },
+            {
+              "key": "Cost at 30 June 2022",
+              "value": "£49,552,000"
+            },
+            {
+              "key": "Provision for impairment at 30 June 2021",
+              "value": "£9,400,000"
+            },
+            {
+              "key": "Provision for impairment at 30 June 2022",
+              "value": "£9,400,000"
+            },
+            {
+              "key": "Net book value at 30 June 2021",
+              "value": "£40,152,000"
+            },
+            {
+              "key": "Net book value at 30 June 2022",
+              "value": "£40,152,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 68,
+          "title": "Company Subsidiaries and Their Activities",
+          "data": [
+            {
+              "key": "Subsidiary Name:",
+              "value": "Activity, Country"
+            },
+            {
+              "key": "1",
+              "value": "Flooring manufacturing and distribution, England"
+            },
+            {
+              "key": "2",
+              "value": "Flooring Limited, England"
+            },
+            {
+              "key": "3",
+              "value": "sure Group Limited, England"
+            },
+            {
+              "key": "4",
+              "value": "Flooring International Limited, England (Dormant)"
+            },
+            {
+              "key": "5",
+              "value": "Floorings Limited, Ireland (Dormant)"
+            },
+            {
+              "key": "6",
+              "value": "Flooring Concepts Pty Limited, Australia (Holding company)"
+            },
+            {
+              "key": "7",
+              "value": "Canada Inc, Canada"
+            },
+            {
+              "key": "8",
+              "value": "India Pvt Limited, India"
+            },
+            {
+              "key": "9",
+              "value": "SDN BHD, Malaysia"
+            },
+            {
+              "key": "10",
+              "value": "Art und Design Belags GmbH, Germany"
+            },
+            {
+              "key": "11",
+              "value": "France SAS, France"
+            },
+            {
+              "key": "12",
+              "value": "AB, Sweden"
+            },
+            {
+              "key": "13",
+              "value": "Distribution (NW) Limited, England (Dormant)"
+            },
+            {
+              "key": "14",
+              "value": "Australia Pty Limited, Australia"
+            },
+            {
+              "key": "15",
+              "value": "New Zealand Limited, New Zealand"
+            },
+            {
+              "key": "16",
+              "value": "International GmbH, Germany"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "Chairman’s Statement Results",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "£291.9m (2021: £266.4m)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "Operating Profit",
+          "data": [
+            {
+              "key": "Underlying operating profit",
+              "value": "£51.1 million (2021: £51.3m)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "Reported Profit",
+          "data": [
+            {
+              "key": "Reported profit for the year",
+              "value": "£52.2m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "Challenges Faced",
+          "data": [
+            {
+              "key": "Supply Chain Issues",
+              "value": "Increases in transport, fuel, and energy costs due to geopolitical events"
+            },
+            {
+              "key": "Stockholding Increase",
+              "value": "Decision to increase stockholdings to mitigate risks"
+            },
+            {
+              "key": "Trading Margin Commentary",
+              "value": "Trading margins decreased but are acceptable due to cost increases"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "Company Strategy",
+          "data": [
+            {
+              "key": "Company Overview",
+              "value": "James Halstead is involved in manufacturing flooring for commercial and domestic purposes."
+            },
+            {
+              "key": "Business Strategy",
+              "value": "To develop brand identity and maintain goodwill for repeat business."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 8,
+          "title": "Chief Executive’s Review - Financial Performance Summary",
+          "data": [
+            {
+              "key": "Sales Growth Germany",
+              "value": "near 12% due to cost surcharges and price increases"
+            },
+            {
+              "key": "Sales Growth France",
+              "value": "18% increase in sales"
+            },
+            {
+              "key": "Operational Restrictions New Zealand",
+              "value": "longest Covid restrictions impacted sales adversely"
+            },
+            {
+              "key": "Stock Levels",
+              "value": "Stock levels increased in several regions"
+            },
+            {
+              "key": "Market Share",
+              "value": "Increased market share and customer satisfaction"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 10,
+          "title": "Financial Director’s Review",
+          "data": [
+            {
+              "key": "Group turnover",
+              "value": "£291.9 million (2021: £266.4 million), 9.6% higher than last year"
+            },
+            {
+              "key": "Profit before tax",
+              "value": "£52.1 million (2021: £51.3 million), 1.6% higher than last year"
+            },
+            {
+              "key": "Selling and distribution costs",
+              "value": "8.6% higher than last year"
+            },
+            {
+              "key": "Administration expenses",
+              "value": "19.2% lower than last year"
+            },
+            {
+              "key": "Trade debtors",
+              "value": "£46.7 million (2021: £39.3 million)"
+            },
+            {
+              "key": "Trade creditors",
+              "value": "£61.5 million (2021: £40.9 million)"
+            },
+            {
+              "key": "Stock levels",
+              "value": "£112.3 million (2021: £60.7 million)"
+            },
+            {
+              "key": "Cash balance",
+              "value": "£52.1 million (2021: £83.3 million), after dividend payment of £32.3 million, tax of £9.9 million, and capital expenditure of £3.2 million"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 28,
+          "title": "Independent Auditor’s Report to the Members of James Halstead plc",
+          "data": [
+            {
+              "key": "Group profit before tax coverage",
+              "value": "99% (2021: 97%)"
+            },
+            {
+              "key": "Group revenue coverage",
+              "value": "90% (2021: 90%)"
+            },
+            {
+              "key": "Group total assets coverage",
+              "value": "95% (2021: 96%)"
+            },
+            {
+              "key": "Materiality",
+              "value": "£2.60m (2021: £2.56m) based on 5% of profit before tax"
+            },
+            {
+              "key": "Inventory holdings",
+              "value": "£112.3m (2021: £60.7m)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 30,
+          "title": "Materiality Analysis",
+          "data": [
+            {
+              "key": "Category: Materiality Basis for determining",
+              "value": ""
+            },
+            {
+              "key": "materiality 2022",
+              "value": "5% of profit before tax"
+            },
+            {
+              "key": "materiality 2021",
+              "value": "5% of profit before tax"
+            },
+            {
+              "key": "Performance materiality 2022",
+              "value": "£1.69m"
+            },
+            {
+              "key": "Performance materiality 2021",
+              "value": "£1.67m"
+            },
+            {
+              "key": "Materiality 2022",
+              "value": "£1.61m"
+            },
+            {
+              "key": "Materiality 2021",
+              "value": "£1.66m"
+            },
+            {
+              "key": "Basis for determining materiality 2022",
+              "value": "5% of profit before tax."
+            },
+            {
+              "key": "Basis for determining materiality 2021",
+              "value": "5% of profit before tax. For the purposes of restricted to amount above was component materiality."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Income Statement",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "£291.86M (2022) vs £266.36M (2021)"
+            },
+            {
+              "key": "Gross profit",
+              "value": "£113.51M (2022) vs £111.64M (2021)"
+            },
+            {
+              "key": "Operating profit",
+              "value": "£52.26M (2022) vs £51.77M (2021)"
+            },
+            {
+              "key": "Profit before income tax",
+              "value": "£52.06M (2022) vs £51.27M (2021)"
+            },
+            {
+              "key": "Profit for the year",
+              "value": "£40.33M (2022) vs £39.86M (2021)"
+            },
+            {
+              "key": "Earnings per share - basic",
+              "value": "9.7p (2022) vs 9.6p (2021)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Statement of Comprehensive Income",
+          "data": [
+            {
+              "key": "Profit for the year",
+              "value": "£40,328k"
+            },
+            {
+              "key": "Remeasurement of the net defined benefit liability",
+              "value": "£7,090k"
+            },
+            {
+              "key": "Foreign currency translation differences Fair value movements on hedging instruments",
+              "value": "£926k"
+            },
+            {
+              "key": "Other comprehensive income for the year net of tax",
+              "value": "£7,905k"
+            },
+            {
+              "key": "Total comprehensive income for the year",
+              "value": "£48,233k"
+            },
+            {
+              "key": "Equity holders of the company",
+              "value": "£48,233k"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Balance Sheet Statement",
+          "data": [
+            {
+              "key": "Total assets",
+              "value": "£269.7M (2022) vs £234.5M (2021)"
+            },
+            {
+              "key": "Current assets",
+              "value": "£217.8M (2022) vs £187.7M (2021)"
+            },
+            {
+              "key": "Net assets",
+              "value": "£173.3M (2022) vs £156.5M (2021)"
+            },
+            {
+              "key": "Equity share capital",
+              "value": "£21.0M (2022) vs £10.6M (2021)"
+            },
+            {
+              "key": "Retained earnings",
+              "value": "£145.4M (2022) vs £134.6M (2021)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Balance at 30 June 2020",
+              "value": "- Share Capital: 10567\n- Share Premium: 4072\n- Redemption Reserve: 1174\n- Translation Reserve: 5601\n- Hedging Reserve: -37\n- Retained Earnings: 116098\n- Total Equity: 137475"
+            },
+            {
+              "key": "Balance at 30 June 2021",
+              "value": "- Share Capital: 10568\n- Share Premium: 4122\n- Redemption Reserve: 1174\n- Translation Reserve: 4986\n- Hedging Reserve: 1052\n- Retained Earnings: 134592\n- Total Equity: 156494"
+            },
+            {
+              "key": "Key Movements 2020-2021",
+              "value": "- Profit: 39861\n- Benefit Liability Remeasurement: 12708\n- Currency Translation: -615\n- Hedging Instruments: 1089\n- Dividends: -34083\n- Share Capital Issue: 51"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Consolidated Cash Flow Statement for the year ended 30 June 2022",
+          "data": [
+            {
+              "key": "Profit for the year attributable to equity shareholders",
+              "value": "40328"
+            },
+            {
+              "key": "Profit before income tax",
+              "value": "52063"
+            },
+            {
+              "key": "Operating profit",
+              "value": "52258"
+            },
+            {
+              "key": "Cash inflow from operations",
+              "value": "6414"
+            },
+            {
+              "key": "Cash inflow from operating activities",
+              "value": "6535"
+            },
+            {
+              "key": "Cash outflow from financing activities",
+              "value": "-34829"
+            },
+            {
+              "key": "Net (decrease)/increase in cash and cash equivalents",
+              "value": "-31262"
+            },
+            {
+              "key": "Cash and cash equivalents at start of year",
+              "value": "83261"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Notes to the Consolidated Financial Statements continued",
+          "data": [
+            {
+              "key": "Goodwill",
+              "value": "Goodwill arising on the acquisition of a subsidiary undertaking is the excess of the aggregate of the fair value of the consideration transferred over the net of the acquisition date amounts of the identifiable assets acquired and liabilities assumed."
+            },
+            {
+              "key": "Impairment Review",
+              "value": "Goodwill is reviewed for impairment at least annually and when there are indications that the carrying amount may not be recoverable."
+            },
+            {
+              "key": "Income Tax",
+              "value": "Income tax on the profit for the year comprises current and deferred tax and is recognised in the income statement."
+            },
+            {
+              "key": "Deferred Income Tax",
+              "value": "Deferred income tax is provided in full, using the liability method, on temporary differences arising between the tax bases and their corresponding book values."
+            },
+            {
+              "key": "Share-based payments",
+              "value": "The group grants share options to certain employees, recognising an expense based on their fair value at the date of grant over the vesting period."
+            },
+            {
+              "key": "Inventories",
+              "value": "Inventories are measured at the lower of cost and net realisable value on a weighted average cost basis."
+            },
+            {
+              "key": "Financial Assets and Liabilities",
+              "value": "Financial assets comprise trade and other receivables and cash; while financial liabilities consist of trade and other payables."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Accounting Policies",
+          "data": [
+            {
+              "key": "Trade and other receivables",
+              "value": "Non-interest bearing, initially stated at fair value, subsequently at amortised cost less lifetime expected credit losses."
+            },
+            {
+              "key": "Cash and cash equivalents",
+              "value": "Includes cash in hand, deposits held at call with banks, short-term deposits, and bank overdrafts."
+            },
+            {
+              "key": "Trade and other payables",
+              "value": "Non-interest bearing, initially stated at fair value, then at amortised cost."
+            },
+            {
+              "key": "Pension scheme arrangements",
+              "value": "Defined contribution and defined benefit pension schemes; contributions charged to income statement."
+            },
+            {
+              "key": "Defined benefit scheme",
+              "value": "Pension benefits defined; costs charged to income statement as per actuaries."
+            },
+            {
+              "key": "Retirement benefit obligations",
+              "value": "Difference between fair value of assets and present value of obligations."
+            },
+            {
+              "key": "Property, plant, and equipment",
+              "value": "Recorded at cost less depreciation and impairment."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Accounting policies and financial risk management",
+          "data": [
+            {
+              "key": "Derivative financial instruments",
+              "value": "Gains or losses on remeasurement of fair value are recognized immediately in the income statement."
+            },
+            {
+              "key": "Hedging transactions",
+              "value": "Gains or losses relating to effective portions of hedges are recognized in equity, while ineffective portions are recognized in income statement immediately."
+            },
+            {
+              "key": "Market risks",
+              "value": "Changes in market prices, like currency exchange rates and interest rates, will affect the group's results."
+            },
+            {
+              "key": "Foreign exchange risk",
+              "value": "Group is exposed to foreign currency risk and uses forward exchange contracts to hedge known exposures."
+            },
+            {
+              "key": "Interest rate risk",
+              "value": "The group does not use derivatives for mitigating interest rate risk."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Critical accounting estimates and judgements",
+          "data": [
+            {
+              "key": "Inventories",
+              "value": "Provision against slow moving, obsolete and damaged inventories; inventory is carried at lower of cost or net realisable value."
+            },
+            {
+              "key": "Expected credit losses",
+              "value": "Provision against trade receivables for lifetime expected credit losses; assessments based on local factors including age, creditworthiness, and forward-looking information."
+            },
+            {
+              "key": "Income taxes",
+              "value": "Provisions for income tax and deferred tax may involve uncertainty in key tax jurisdictions and adjustments will be made as necessary."
+            },
+            {
+              "key": "Retirement benefit obligations",
+              "value": "Dependent on estimates relating to mortality, inflation, salary increases, and discount rates; changes in assumptions impact liabilities."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Geographical Revenue and Assets Breakdown",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "Total revenue of £266,362k for 2021, with Europe and Scandinavia being the largest market (£111,863k) and the UK (£98,243k)."
+            },
+            {
+              "key": "Assets",
+              "value": "Total segment assets of £46,489k for 2021, with the UK holding the majority at £30,213k."
+            },
+            {
+              "key": "Employee Profit Share Scheme",
+              "value": "The company has operated an employee share scheme since 1980, with no value of shares distributed to certain directors in the year."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Financial Statement Components and Audit Fees",
+          "data": [
+            {
+              "key": "Profit before income tax",
+              "value": "N/A"
+            },
+            {
+              "key": "Depreciation of property, plant and equipment",
+              "value": "£3,794k (2022)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Staff Costs and Directors' Remuneration Summary",
+          "data": [
+            {
+              "key": "Total Staff Costs",
+              "value": "£43,069k (2022)"
+            },
+            {
+              "key": "Total Directors' Remuneration",
+              "value": "£2,054k (2022)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Employee and Director Cost Analysis",
+          "data": [
+            {
+              "key": "Social Security Costs",
+              "value": "£4,564k (2022)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Financial Statement Details - Income, Finance Costs and Taxation",
+          "data": [
+            {
+              "key": "Profit before tax",
+              "value": "£52,063,000 (previous year: £51,268,000)"
+            },
+            {
+              "key": "Total finance income",
+              "value": "£424,000 (previous year: £N/A)"
+            },
+            {
+              "key": "Total finance costs",
+              "value": "£553,000 (previous year: £237,000)"
+            },
+            {
+              "key": "Total taxation",
+              "value": "£11,735,000 (previous year: £11,407,000)"
+            },
+            {
+              "key": "Bank deposit interest",
+              "value": "£36,000 (previous year: £44,000)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Right of use assets",
+          "data": [
+            {
+              "key": "Cost (30 June 2020)",
+              "value": "£8,883"
+            },
+            {
+              "key": "Cost (30 June 2021)",
+              "value": "£11,326"
+            },
+            {
+              "key": "Cost (30 June 2022)",
+              "value": "£12,942"
+            },
+            {
+              "key": "Depreciation (30 June 2020)",
+              "value": "£3,010"
+            },
+            {
+              "key": "Depreciation (30 June 2021)",
+              "value": "£5,310"
+            },
+            {
+              "key": "Depreciation (30 June 2022)",
+              "value": "£7,308"
+            },
+            {
+              "key": "Net book value (30 June 2020)",
+              "value": "£5,872"
+            },
+            {
+              "key": "Net book value (30 June 2021)",
+              "value": "£6,015"
+            },
+            {
+              "key": "Net book value (30 June 2022)",
+              "value": "£5,634"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Goodwill",
+          "data": [
+            {
+              "key": "Goodwill value (30 June 2020 - 2022)",
+              "value": "£3,232"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Deferred Tax Assets and Liabilities Statement",
+          "data": [
+            {
+              "key": "period 2022",
+              "value": "Deferred tax assets: £234,000, Deferred tax liabilities: -£2,929,000, Net position: £-2,695,000"
+            },
+            {
+              "key": "period 2021",
+              "value": "Deferred tax assets: £254,000, Deferred tax liabilities: £0, Net position: £254,000"
+            },
+            {
+              "key": "At 30 June 2022",
+              "value": "Retirement benefit obligations: -£1,536,000, Accelerated tax depreciation: -£1,796,000, Other timing differences: £637,000, Total: £-2,695,000"
+            },
+            {
+              "key": "At 30 June 2021",
+              "value": "Retirement benefit obligations: £828,000, Accelerated tax depreciation: -£1,709,000, Other timing differences: £1,135,000, Total: £254,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Inventory Breakdown",
+          "data": [
+            {
+              "key": "Raw materials and consumables",
+              "value": "Value1: £8,161,000, Value2: £4,726,000"
+            },
+            {
+              "key": "Work in progress",
+              "value": "Value1: £2,258,000, Value2: £1,262,000"
+            },
+            {
+              "key": "Finished goods - 1",
+              "value": "Value1: £101,860,000, Value2: £54,696,000"
+            },
+            {
+              "key": "Finished goods - 2",
+              "value": "Value1: £112,279,000, Value2: £60,684,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Receivables and Prepayments Comparison",
+          "data": [
+            {
+              "key": "Trade receivables",
+              "value": "£46,734,000"
+            },
+            {
+              "key": "Other receivables",
+              "value": "£1,781,000"
+            },
+            {
+              "key": "Prepayments",
+              "value": "£2,656,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Provision for Expected Credit Losses",
+          "data": [
+            {
+              "key": "Opening balance",
+              "value": "£1,746,000"
+            },
+            {
+              "key": "Exchange differences",
+              "value": "£12,000"
+            },
+            {
+              "key": "Debts written off",
+              "value": "(£135,000)"
+            },
+            {
+              "key": "Charged to income",
+              "value": "£197,000"
+            },
+            {
+              "key": "Closing balance",
+              "value": "£1,820,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Currency Exposure",
+          "data": [
+            {
+              "key": "Sterling",
+              "value": "£22,896,000"
+            },
+            {
+              "key": "Euro",
+              "value": "£13,985,000"
+            },
+            {
+              "key": "Australian Dollar",
+              "value": "£3,650,000"
+            },
+            {
+              "key": "New Zealand Dollar",
+              "value": "£844,000"
+            },
+            {
+              "key": "Canadian Dollar",
+              "value": "£792,000"
+            },
+            {
+              "key": "Norwegian Krone",
+              "value": "£977,000"
+            },
+            {
+              "key": "US Dollar",
+              "value": "£3,818,000"
+            },
+            {
+              "key": "Hong Kong Dollar",
+              "value": "£221,000"
+            },
+            {
+              "key": "Other currencies",
+              "value": "£1,332,000"
+            },
+            {
+              "key": "Total",
+              "value": "£48,515,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Financial Statement Notes - Cash and Cash Equivalents, Trade Payables, and Lease Liabilities",
+          "data": [
+            {
+              "key": "summary",
+              "value": "This table presents three main sections: 1) Cash and cash equivalents by currency, showing a significant decrease in Sterling holdings from £64,530k in 2021 to £29,483k in 2022; 2) Trade and other payables, indicating an increase in total payables from £65,551k to £84,507k; and 3) Lease liabilities movements, showing a slight decrease in the closing balance from £6,184k to £5,714k. The data is presented in thousands of pounds sterling (£'000) for both 2022 and 2021 fiscal years."
+            },
+            {
+              "key": "currency_analysis",
+              "value": "Currency Analysis of Cash and Cash Equivalents"
+            },
+            {
+              "key": "trade_and_other_payables",
+              "value": "Trade and Other Payables"
+            },
+            {
+              "key": "lease_liabilities",
+              "value": "Lease Liabilities"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Pension Scheme Financial Statement Analysis",
+          "data": [
+            {
+              "key": "Current service cost",
+              "value": "(500)"
+            },
+            {
+              "key": "Net interest cost",
+              "value": "(74)"
+            },
+            {
+              "key": "Total amounts recognised in income statement",
+              "value": "(574)"
+            },
+            {
+              "key": "Return on assets excluding amount included in net interest cost",
+              "value": "(8,553)"
+            },
+            {
+              "key": "Gain arising from changes in financial assumptions",
+              "value": "18,303"
+            },
+            {
+              "key": "Gain arising from changes in demographic assumptions",
+              "value": "-"
+            },
+            {
+              "key": "Experience (loss)/gain",
+              "value": "(645)"
+            },
+            {
+              "key": "Subtotal",
+              "value": "9,105"
+            },
+            {
+              "key": "Deferred tax",
+              "value": "(2,015)"
+            },
+            {
+              "key": "Remeasurement of the net defined benefit liability",
+              "value": "7,090"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Pension Scheme Changes Summary",
+          "data": [
+            {
+              "key": "Changes in the present value of the scheme assets - Closing value 2022",
+              "value": "69,236"
+            },
+            {
+              "key": "Changes in the present value of the scheme assets - Closing value 2021",
+              "value": "77,265"
+            },
+            {
+              "key": "Changes in the present value of the scheme obligations - Opening defined benefit obligations 2022",
+              "value": "(81,622)"
+            },
+            {
+              "key": "Changes in the present value of the scheme obligations - Opening defined benefit obligations 2021",
+              "value": "(90,488)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 61,
+          "title": "Shareholders' Equity Components and Definitions",
+          "data": [
+            {
+              "key": "Equity share capital",
+              "value": "Nominal value of equity share capital issued."
+            },
+            {
+              "key": "Share premium account",
+              "value": "Amount subscribed for equity share capital in excess of nominal value."
+            },
+            {
+              "key": "Capital redemption reserve",
+              "value": "Amounts transferred from share capital on redemption of issued shares."
+            },
+            {
+              "key": "Currency translation reserve",
+              "value": "Cumulative currency translation gains and losses arising on the retranslation of the net assets of the group's foreign operations."
+            },
+            {
+              "key": "Hedging reserve",
+              "value": "Gains and losses arising on the fair value of financial instruments in an effective designated cash flow hedging relationship."
+            },
+            {
+              "key": "Retained earnings",
+              "value": "All other gains and losses and transactions with owners, such as"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Financial Assets and Liabilities Comparison - Book Value vs Fair Value",
+          "data": [
+            {
+              "key": "Trade and other receivables",
+              "value": "Book Value 2022: 48,515; Fair Value 2022: 48,515; Book Value 2021: 40,520; Fair Value 2021: 40,520"
+            },
+            {
+              "key": "Forward exchange contracts",
+              "value": "Book Value 2022: 2,166; Fair Value 2022: 2,166; Book Value 2021: 848; Fair Value 2021: 848"
+            },
+            {
+              "key": "Cash and cash equivalents",
+              "value": "Book Value 2022: 52,144; Fair Value 2022: 52,144; Book Value 2021: 83,261; Fair Value 2021: 83,261"
+            },
+            {
+              "key": "Trade and other payables",
+              "value": "Book Value 2022: -78,942; Fair Value 2022: -78,942; Book Value 2021: -59,313; Fair Value 2021: -59,313"
+            },
+            {
+              "key": "Forward exchange contracts (liability)",
+              "value": "Book Value 2022: -517; Fair Value 2022: -517; Book Value 2021: -92; Fair Value 2021: -92"
+            },
+            {
+              "key": "Lease liabilities (current)",
+              "value": "Book Value 2022: -2,166; Fair Value 2022: -2,166; Book Value 2021: -2,948; Fair Value 2021: -2,948"
+            },
+            {
+              "key": "Total current",
+              "value": "Book Value 2022: 21,200; Fair Value 2022: 21,200; Book Value 2021: 62,276; Fair Value 2021: 62,276"
+            },
+            {
+              "key": "Other payables (non-current)",
+              "value": "Book Value 2022: -453; Fair Value 2022: -453; Book Value 2021: -447; Fair Value 2021: -447"
+            },
+            {
+              "key": "Lease liabilities (non-current)",
+              "value": "Book Value 2022: -3,548; Fair Value 2022: -3,548; Book Value 2021: -3,236; Fair Value 2021: -3,236"
+            },
+            {
+              "key": "Preference shares",
+              "value": "Book Value 2022: -200; Fair Value 2022: -200; Book Value 2021: -200; Fair Value 2021: -200"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Forward Exchange Contracts Fair Value Analysis",
+          "data": [
+            {
+              "key": "Forward exchange contracts at fair value through profit and loss account",
+              "value": "£24,000"
+            },
+            {
+              "key": "Forward exchange contracts at fair value through hedging reserve",
+              "value": "£1,625,000; £749,000"
+            },
+            {
+              "key": "Total",
+              "value": "£1,649,000; £757,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Currency Sensitivity Analysis",
+          "data": [
+            {
+              "key": "5% stronger against sterling",
+              "value": "Post Tax Profits 1: £36,000; Equity 1: £36,000; Post Tax Profits 2: £2,000; Equity 2: N/A"
+            },
+            {
+              "key": "5% weaker against sterling",
+              "value": "Post Tax Profits 1: -£32,000; Equity 1: -£32,000; Post Tax Profits 2: -£2,000; Equity 2: N/A"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 64,
+          "title": "Balance Sheet Summary",
+          "data": [
+            {
+              "key": "Tangible fixed assets",
+              "value": "4,291"
+            },
+            {
+              "key": "Investments",
+              "value": "40,152"
+            },
+            {
+              "key": "Debtors due within one year",
+              "value": "63,042"
+            },
+            {
+              "key": "Debtors due after one year",
+              "value": "-"
+            },
+            {
+              "key": "Cash at bank and in hand",
+              "value": "41,171"
+            },
+            {
+              "key": "Net current assets",
+              "value": "100,943"
+            },
+            {
+              "key": "Net assets",
+              "value": "143,421"
+            },
+            {
+              "key": "Called up share capital",
+              "value": "20,997"
+            },
+            {
+              "key": "Profit and loss account",
+              "value": "120,799"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 66,
+          "title": "Notes to the Company Financial Statements",
+          "data": [
+            {
+              "key": "Accounting policies",
+              "value": "Basis of preparation The separate financial statements of the company are presented as required by the Companies Act 2006. The company meets the definition of a qualifying entity under FRS 100 Application of Financial Reporting Requirements issued by the Financial Reporting Council."
+            },
+            {
+              "key": "Disclosure exemptions",
+              "value": "The company has used the disclosure exemptions available under FRS 101 in relation to presentation of a cash flow statement, comparative information for certain assets, capital management, transactions with other group companies, compensation of key management personnel and the effects of new but not yet effective IFRS."
+            },
+            {
+              "key": "Going concern basis",
+              "value": "The financial statements are prepared on a going concern basis and in accordance with the historical cost convention, except for certain financial instruments that have been measured at fair value."
+            },
+            {
+              "key": "Critical accounting estimates",
+              "value": "The critical accounting estimates and judgements are income taxes and retirement benefit obligations."
+            },
+            {
+              "key": "Investments",
+              "value": "Investments in subsidiaries are stated at cost less provision for impairment in value."
+            },
+            {
+              "key": "Investment land and buildings",
+              "value": "Investment land and buildings are stated at cost less depreciation and any provision for impairment. Depreciation is calculated to write off the buildings on a straight line basis over their estimated economic life of fifty years."
+            },
+            {
+              "key": "Group debtors",
+              "value": "Amounts owed by group undertakings are stated after any provision for expected credit loss in line with the three stage model in IFRS 9."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 70,
+          "title": "Debtors and Financial Assets Analysis",
+          "data": [
+            {
+              "key": "Trade debtors",
+              "value": "£172k"
+            },
+            {
+              "key": "Amounts owed by group undertakings",
+              "value": "£62,084k"
+            },
+            {
+              "key": "Corporation tax",
+              "value": "£544k"
+            },
+            {
+              "key": "Other debtors",
+              "value": "£86k"
+            },
+            {
+              "key": "Prepayments",
+              "value": "£156k"
+            },
+            {
+              "key": "Debtors due within one year",
+              "value": "£63,042k"
+            },
+            {
+              "key": "Deferred tax assets (note 6)",
+              "value": "£615k"
+            },
+            {
+              "key": "Debtors due after one year",
+              "value": "£615k"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 70,
+          "title": "Tax Movement Analysis 2021-2022",
+          "data": [
+            {
+              "key": "At 30 June 2021 - Total",
+              "value": "£615k"
+            },
+            {
+              "key": "Charged to income - Total",
+              "value": "-£365k"
+            },
+            {
+              "key": "Charged to other comprehensive income - Total",
+              "value": "-£2,015k"
+            },
+            {
+              "key": "At 30 June 2022 - Total",
+              "value": "-£1,765k"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 70,
+          "title": "Creditors and Liabilities Breakdown",
+          "data": [
+            {
+              "key": "Trade creditors",
+              "value": "£370k"
+            },
+            {
+              "key": "Amounts due to group undertakings",
+              "value": "£6,631k"
+            },
+            {
+              "key": "Other taxation and social security",
+              "value": "£122k"
+            },
+            {
+              "key": "Other creditors",
+              "value": "£427k"
+            },
+            {
+              "key": "Accruals",
+              "value": "£3,513k"
+            },
+            {
+              "key": "Total",
+              "value": "£11,063k"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 73,
+          "title": "Financial Performance Summary 2013-2022",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "£291,860,000"
+            },
+            {
+              "key": "Profit before income tax",
+              "value": "£52,063,000"
+            },
+            {
+              "key": "Income tax",
+              "value": "-£11,735,000"
+            },
+            {
+              "key": "Profit after income tax",
+              "value": "£40,328,000"
+            },
+            {
+              "key": "Basic earnings per 5p share",
+              "value": "9.7p"
+            },
+            {
+              "key": "Dividends per 5p share",
+              "value": "7.8p"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": true,
+      "elements": [
+        {
+          "type": "share_buyback",
+          "page": 74,
+          "title": "Shareholder Information",
+          "data": [
+            {
+              "key": "Annual general meeting",
+              "value": "1 December 2022"
+            },
+            {
+              "key": "Announcement of results",
+              "value": "For the half year September"
+            },
+            {
+              "key": "Dividend payments",
+              "value": "Ordinary shares – interim – final June December Preference shares June and December"
+            },
+            {
+              "key": "Share dealing information",
+              "value": "The ordinary shares of the company are traded on the Alternative Investment Market of the London Stock Exchange."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "share_buyback",
+          "page": 74,
+          "title": "Shareholding Distribution By Size of Holding",
+          "data": [
+            {
+              "key": "1-20,000",
+              "value": "Holders: 1392, Shares: 8566346"
+            },
+            {
+              "key": "20,001-100,000",
+              "value": "Holders: 431, Shares: 19697283"
+            },
+            {
+              "key": "100,001-200,000",
+              "value": "Holders: 65, Shares: 8887594"
+            },
+            {
+              "key": "200,001-1,000,000",
+              "value": "Holders: 80, Shares: 35349844"
+            },
+            {
+              "key": "1,000,001 and over",
+              "value": "Holders: 52, Shares: 344252985"
+            },
+            {
+              "key": "Total",
+              "value": "Holders: 2020, Shares: 416754052, Percentage: 100%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "share_buyback",
+          "page": 74,
+          "title": "Number of Shareholders by Category",
+          "data": [
+            {
+              "key": "Private individuals",
+              "value": "Holders: 1,709, Shares: 203,466,777, Percentage: 48.8%"
+            },
+            {
+              "key": "Banks and nominee companies",
+              "value": "Holders: 268, Shares: 211,324,700, Percentage: 50.7%"
+            },
+            {
+              "key": "Other limited companies/corporate bodies",
+              "value": "Holders: 29, Shares: 1,463,777, Percentage: 0.4%"
+            },
+            {
+              "key": "Miscellaneous bodies/pension funds",
+              "value": "Holders: 9, Shares: 333,966, Percentage: 0.1%"
+            },
+            {
+              "key": "Investment trusts and funds",
+              "value": "Holders: , Shares: 164,832, Percentage: 0.0%"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 59,
+          "title": "Share Capital Movement",
+          "data": [
+            {
+              "key": "Opening ordinary shares of 5p each",
+              "value": "208,159,916"
+            },
+            {
+              "key": "Ordinary shares of 5p each issued",
+              "value": "212,110"
+            },
+            {
+              "key": "Ordinary shares of 5p each bonus issue",
+              "value": "208,372,026"
+            },
+            {
+              "key": "Closing ordinary shares of 5p each",
+              "value": "416,744,052"
+            },
+            {
+              "key": "Ordinary B shares of 1p each",
+              "value": "16,042,530"
+            },
+            {
+              "key": "Total allotted, issued and fully paid",
+              "value": "20,997,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 59,
+          "title": "Share Capital Details",
+          "data": [
+            {
+              "key": "Allotted, issued and fully paid",
+              "value": ""
+            },
+            {
+              "key": "200,000 5.5% preference shares of £1 each",
+              "value": "200,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 59,
+          "title": "Stock Options/Grants Summary Table",
+          "data": [
+            {
+              "key": "Director M Halstead, Grant Date 21 Jul 14, Price pence",
+              "value": "35.145"
+            },
+            {
+              "key": "Outstanding Options as of 30.06.22",
+              "value": "17802"
+            },
+            {
+              "key": "Director GR Oliver, Grant Date 21 Jul 14, Price pence",
+              "value": "35.145"
+            },
+            {
+              "key": "Outstanding Options as of 30.06.22",
+              "value": "24582"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 65,
+          "title": "Company Statement of Changes in Equity for the year ended 30 June 2022",
+          "data": [
+            {
+              "key": "Balance at 30 June 2020 - Share Capital",
+              "value": "10567"
+            },
+            {
+              "key": "Balance at 30 June 2020 - Share Premium",
+              "value": "4072"
+            },
+            {
+              "key": "Balance at 30 June 2020 - Redemption Reserve",
+              "value": "1174"
+            },
+            {
+              "key": "Balance at 30 June 2020 - Hedging Reserve",
+              "value": "-805"
+            },
+            {
+              "key": "Balance at 30 June 2020 - Profit Loss",
+              "value": "97549"
+            },
+            {
+              "key": "Balance at 30 June 2020 - Total Funds",
+              "value": "112557"
+            },
+            {
+              "key": "Balance at 30 June 2021 - Share Capital",
+              "value": "10568"
+            },
+            {
+              "key": "Balance at 30 June 2021 - Share Premium",
+              "value": "4122"
+            },
+            {
+              "key": "Balance at 30 June 2021 - Redemption Reserve",
+              "value": "1174"
+            },
+            {
+              "key": "Balance at 30 June 2021 - Hedging Reserve",
+              "value": "749"
+            },
+            {
+              "key": "Balance at 30 June 2021 - Profit Loss",
+              "value": "119514"
+            },
+            {
+              "key": "Balance at 30 June 2021 - Total Funds",
+              "value": "136127"
+            },
+            {
+              "key": "Balance at 30 June 2022 - Share Capital",
+              "value": "20997"
+            },
+            {
+              "key": "Balance at 30 June 2022 - Share Premium",
+              "value": "0"
+            },
+            {
+              "key": "Balance at 30 June 2022 - Redemption Reserve",
+              "value": "0"
+            },
+            {
+              "key": "Balance at 30 June 2022 - Hedging Reserve",
+              "value": "1625"
+            },
+            {
+              "key": "Balance at 30 June 2022 - Profit Loss",
+              "value": "120799"
+            },
+            {
+              "key": "Balance at 30 June 2022 - Total Funds",
+              "value": "143421"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 71,
+          "title": "Retirement benefit obligations",
+          "data": [
+            {
+              "key": "Present value of funded obligations",
+              "value": "-63,092"
+            },
+            {
+              "key": "Fair value of scheme assets",
+              "value": "69,236"
+            },
+            {
+              "key": "Net asset/(liability)",
+              "value": "6,144"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 71,
+          "title": "Share capital",
+          "data": [
+            {
+              "key": "Opening ordinary shares of 5p each",
+              "value": "208,159,916"
+            },
+            {
+              "key": "Ordinary shares of 5p each issued",
+              "value": "212,110"
+            },
+            {
+              "key": "Ordinary shares of 5p each bonus issue",
+              "value": "208,372,026"
+            },
+            {
+              "key": "Closing ordinary shares of 5p each",
+              "value": "416,744,052"
+            },
+            {
+              "key": "Ordinary B shares of 1p each",
+              "value": "16,042,530"
+            },
+            {
+              "key": "Total allotted, issued and fully paid",
+              "value": "20,997"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 71,
+          "title": "Share Capital Details",
+          "data": [
+            {
+              "key": "Allotted, issued and fully paid",
+              "value": ""
+            },
+            {
+              "key": "200,000 5.5% preference shares of £1 each",
+              "value": "200"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 72,
+          "title": "Share Capital and Rights of Preference Shares",
+          "data": [
+            {
+              "key": "Cumulative Preference Shares",
+              "value": "5.5%"
+            },
+            {
+              "key": "Dividend Rate",
+              "value": "5.5% per annum"
+            },
+            {
+              "key": "Capital Refund in Winding Up",
+              "value": "£1 plus 5p premium per share"
+            },
+            {
+              "key": "Priority in Winding Up",
+              "value": "Holders have priority in capital repayment over other shares"
+            },
+            {
+              "key": "Voting Rights",
+              "value": "No voting rights unless specific dividend is in arrears"
+            },
+            {
+              "key": "Consent for New Shares",
+              "value": "Need consent of 75% of issued preference shares"
+            },
+            {
+              "key": "General Meeting Notices",
+              "value": "Preference shareholders receive notice of meetings"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 12,
+          "title": "Financial Director’s Review - Principal Business Risks and Uncertainties",
+          "data": [
+            {
+              "key": "Ongoing pandemic impact",
+              "value": "Remains a risk due to vaccine rollouts."
+            },
+            {
+              "key": "Production challenges",
+              "value": "Struggled to operate all production lines due to employee absences."
+            },
+            {
+              "key": "Brexit uncertainties",
+              "value": "Disruption in the availability and flow of raw materials."
+            },
+            {
+              "key": "Fuel and energy costs",
+              "value": "Increased costs since February 2022 impacting operations."
+            },
+            {
+              "key": "Ukraine conflict impact",
+              "value": "Significant risk affecting costs and availability of materials."
+            },
+            {
+              "key": "Insurance appraisal",
+              "value": "Annual comprehensive insurance appraisal to mitigate risks."
+            },
+            {
+              "key": "Identified risks",
+              "value": "Foreign exchange risk, credit risk, liquidity risk, and management risk."
+            },
+            {
+              "key": "Liquidity buffer",
+              "value": "Strong cash balances and bank facilities to combat liquidity risks."
+            },
+            {
+              "key": "Exchange rate hedging policy",
+              "value": "Hedging known and forecast transactions at least 25%."
+            },
+            {
+              "key": "External factors affecting operations",
+              "value": "Technical failures, labour disputes, raw material availability, customs delays."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 13,
+          "title": "Financial Performance Analysis and Risk Assessment",
+          "data": [
+            {
+              "key": "Overview of Risks",
+              "value": "Succession planning becomes a risk due to the length of service of many senior managers."
+            },
+            {
+              "key": "Competitor Risk",
+              "value": "The activity and progress of competitors is a significant risk affecting market share and profitability."
+            },
+            {
+              "key": "Translational Exposure",
+              "value": "There is translational exposure on overseas subsidiaries' profits and assets."
+            },
+            {
+              "key": "Compliance Risks",
+              "value": "Compliance risks related to legal and regulatory requirements."
+            },
+            {
+              "key": "Pension Scheme Risks",
+              "value": "Complications associated with a defined benefit pension scheme."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "risk_factor",
+          "page": 44,
+          "title": "Financial Risk Management",
+          "data": [
+            {
+              "key": "Credit Risk",
+              "value": "The risk of financial loss to the group if a customer or counterparty fails to meet its contractual obligations, arising from trade receivables and funds on deposit."
+            },
+            {
+              "key": "Liquidity Risk",
+              "value": "The risk that the group will not be able to meet its financial obligations as they fall due."
+            },
+            {
+              "key": "Capital Risk",
+              "value": "Objectives in managing capital to safeguard the group's ability to continue as going concerns and maximize return to shareholders."
+            },
+            {
+              "key": "Critical Accounting Estimates",
+              "value": "Estimates and assumptions that affect financial statement preparation, impacting reported amounts of assets and liabilities."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 7,
+          "title": "Outlook and Trading Update",
+          "data": [
+            {
+              "key": "Trading Outlook",
+              "value": "Positive from year-end to date."
+            },
+            {
+              "key": "Price Changes",
+              "value": "Prices increased post year-end."
+            },
+            {
+              "key": "Demand",
+              "value": "Remained strong."
+            },
+            {
+              "key": "Sales Volume",
+              "value": "Higher."
+            },
+            {
+              "key": "Cost Increases",
+              "value": "Passed on to customers."
+            },
+            {
+              "key": "Rising Costs",
+              "value": "Energy costs have continued to rise."
+            },
+            {
+              "key": "Sterling Value Impact",
+              "value": "Fall in value of sterling against USD may increase input costs, but could benefit exports."
+            },
+            {
+              "key": "Forecast on Energy Costs",
+              "value": "Cannot forecast effects on materials for mass manufacturing."
+            },
+            {
+              "key": "Confidence Level",
+              "value": "Board remains confident of progress despite short-term challenges."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 9,
+          "title": "Financial Performance Overview",
+          "data": [
+            {
+              "key": "Energy Costs Impact",
+              "value": "Rising energy costs have significantly impacted production costs."
+            },
+            {
+              "key": "Price Increases",
+              "value": "Several price increases made during the year to mitigate rising costs."
+            },
+            {
+              "key": "Sales Growth in Norway",
+              "value": "Sales in Norway are 17% ahead of prior year."
+            },
+            {
+              "key": "Net Profit Increase",
+              "value": "Net profit rose by just under 6%."
+            },
+            {
+              "key": "Sales Growth in Sweden",
+              "value": "Sales in Sweden increased by 37%."
+            },
+            {
+              "key": "Canadian Market Performance",
+              "value": "Record year for sales and significant increase in net profit."
+            },
+            {
+              "key": "Market Trends",
+              "value": "Significant growth in several international markets."
+            },
+            {
+              "key": "Conclusion",
+              "value": "Despite challenges, the results for the year were pleasing."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "guidance_update",
+          "page": 11,
+          "title": "Guidance on Operational Challenges and Financial Adjustments",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "Executive directors keep the board informed about working capital. The need for consultation regarding the closure of the final salary pension scheme arises due to increased member contributions."
+            },
+            {
+              "key": "Market Influence",
+              "value": "The board discusses supply chain challenges resulting from Covid-19 and the Ukraine conflict, impacting operational budgets."
+            },
+            {
+              "key": "Budget Planning",
+              "value": "The board reassesses budget plans considering unprecedented market conditions."
+            },
+            {
+              "key": "Warehouse Expansion",
+              "value": "Plans for a warehouse expansion exceeding £15 million have been approved."
+            },
+            {
+              "key": "Price Adjustments",
+              "value": "The board is aware of cost increases leading to price hikes, which are strategically managed to mitigate demand effects."
+            },
+            {
+              "key": "Supply Chain Disruption",
+              "value": "The Ukraine conflict worsens supply chain vulnerabilities. The board resolves to limit sales to Russia and increase stock levels."
+            },
+            {
+              "key": "Stock Management",
+              "value": "Raising stock levels is a response to supply disruptions caused by the conflict."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "guidance_update",
+          "page": 16,
+          "title": "Report of the Directors and Financial Statements",
+          "data": [
+            {
+              "key": "Report Period",
+              "value": "Year ended 30 June 2022"
+            },
+            {
+              "key": "Final Dividend Recommended",
+              "value": "5.50p"
+            },
+            {
+              "key": "Interim Dividend Paid",
+              "value": "2.25p"
+            },
+            {
+              "key": "Total Dividend",
+              "value": "7.75p"
+            },
+            {
+              "key": "Shareholders of Record Date for Final Dividend",
+              "value": "18 November 2022"
+            },
+            {
+              "key": "Directors Retiring by Rotation",
+              "value": "G R Oliver, S D Hall"
+            },
+            {
+              "key": "Share Capital Increase Date",
+              "value": "14 January 2022"
+            },
+            {
+              "key": "Share Capital Increase Amount",
+              "value": "208,372,026 shares"
+            },
+            {
+              "key": "Resolution 6 Summary",
+              "value": "Renew authority for Ordinary Shares in lieu of cash dividends by Annual General Meeting 2023"
+            },
+            {
+              "key": "Resolution 7 Summary",
+              "value": "Authorize allotting relevant securities up to £6,945,901, approximately 33.33% of total ordinary share capital"
+            },
+            {
+              "key": "Resolution 8 Summary",
+              "value": "Renew authority to issue shares for cash without offering them pro rata to existing shareholders"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 27,
+          "title": "Independent Auditor’s Report to the Members of James Halstead plc",
+          "data": [
+            {
+              "key": "Opinion on the financial statements",
+              "value": "The financial statements give a true and fair view of the state of the group’s and of the parent company’s affairs as at 30 June 2022 and of the group’s profit for the year then ended."
+            },
+            {
+              "key": "Independence Statement",
+              "value": "The auditors remain independent of the group in accordance with UK ethical requirements."
+            },
+            {
+              "key": "Going Concern Assessment",
+              "value": "The directors’ use of the going concern basis in preparing financial statements is appropriate."
+            },
+            {
+              "key": "Period of Financial Statements",
+              "value": "For the year ended 30 June 2022."
+            },
+            {
+              "key": "Publishing Framework",
+              "value": "UK adopted international accounting standards and the Companies Act 2006."
+            },
+            {
+              "key": "Examination of Directors' Business Plan",
+              "value": "Covering the period to October 2023."
+            },
+            {
+              "key": "Audit Standards",
+              "value": "Conducted in accordance with International Standards on Auditing (UK) and applicable law."
+            },
+            {
+              "key": "Material Uncertainties",
+              "value": "No material uncertainties were identified relating to the group and parent company's ability to continue as a going concern for at least twelve months."
+            },
+            {
+              "key": "Auditor's Responsibilities",
+              "value": "Described in the relevant sections of the report."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 32,
+          "title": "Independent Auditor’s Report",
+          "data": [
+            {
+              "key": "Auditor",
+              "value": "Stuart Wood (Senior Statutory Auditor)"
+            },
+            {
+              "key": "Audit Firm",
+              "value": "BDO LLP"
+            },
+            {
+              "key": "Location",
+              "value": "Manchester, United Kingdom"
+            },
+            {
+              "key": "Report Date",
+              "value": "30 September 2022"
+            },
+            {
+              "key": "Key Findings",
+              "value": "Assessment of consolidation, identification of fraud risks, communication of relevant laws, audit procedures designed to respond to risks of material misstatement."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 38,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "James Halstead plc"
+            },
+            {
+              "key": "Domicile",
+              "value": "United Kingdom"
+            },
+            {
+              "key": "Accounting Standards",
+              "value": "UK adopted international accounting standards"
+            },
+            {
+              "key": "Consolidated Financial Statements Transition Date",
+              "value": "1 July 2021"
+            },
+            {
+              "key": "Going Concern Assessment",
+              "value": "Directors have reasonable expectation of adequate financial resources for the foreseeable future."
+            },
+            {
+              "key": "Considerations in Going Concern",
+              "value": "Impact of global pandemic, high energy costs, supply chain concerns, potential weakening of demand for flooring products."
+            },
+            {
+              "key": "Directors' Satisfaction",
+              "value": "Directors are satisfied that the group has adequate resources to continue for at least one year from the date of approval of the financial statements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 42,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Right of use assets and lease liabilities",
+              "value": "A right of use asset and a lease liability are recognised for all leased asset contracts on their commencement, except for low value leases and short term leases of one year or less... "
+            },
+            {
+              "key": "Revenue recognition",
+              "value": "Revenue is from the sales of flooring products and is recognised at the point in time when control of the products has been transferred to the customer... "
+            },
+            {
+              "key": "Research and development",
+              "value": "Expenditure on research activities, undertaken with the prospect of gaining new scientific or technical knowledge and understanding, is recognised in the income statement as an expense as incurred."
+            },
+            {
+              "key": "Grants",
+              "value": "Grants that compensate for expenses are recognised in the income statement in the same period and category in which the expenses are recognised."
+            },
+            {
+              "key": "Dividends",
+              "value": "Interim dividends are recognised when they are paid. Final dividends are recognised when they are approved by the shareholders."
+            },
+            {
+              "key": "Derivative financial instruments and hedging",
+              "value": "The group uses derivative financial instruments to hedge its exposure to foreign currency transactional risk... "
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 49,
+          "title": "Earnings per share and Dividends Overview",
+          "data": [
+            {
+              "key": "Profit for the year attributable to equity shareholders",
+              "value": "£'000 40,328"
+            },
+            {
+              "key": "Previous Profit attributable to equity shareholders",
+              "value": "£000 39,861"
+            },
+            {
+              "key": "Weighted average number of shares in issue",
+              "value": "416,586,675"
+            },
+            {
+              "key": "Previous weighted average shares",
+              "value": "416,283,040"
+            },
+            {
+              "key": "Dilution effect of outstanding share options",
+              "value": "201,425"
+            },
+            {
+              "key": "Previous dilution effect of outstanding share options",
+              "value": "246,330"
+            },
+            {
+              "key": "Diluted weighted average number of shares",
+              "value": "416,788,100"
+            },
+            {
+              "key": "Previous diluted weighted average shares",
+              "value": "416,529,370"
+            },
+            {
+              "key": "Basic earnings per 5p ordinary share",
+              "value": "9.7p"
+            },
+            {
+              "key": "Previous basic earnings per 5p ordinary share",
+              "value": "9.6p"
+            },
+            {
+              "key": "Diluted earnings per 5p ordinary share",
+              "value": "9.7p"
+            },
+            {
+              "key": "Previous diluted earnings per 5p ordinary share",
+              "value": "9.6p"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "guidance_update",
+          "page": 49,
+          "title": "Equity Dividends Summary",
+          "data": [
+            {
+              "key": "Interim dividend for previous year",
+              "value": "nil (2021: 2.125p)"
+            },
+            {
+              "key": "Final dividend for previous year",
+              "value": "11.00p (2021: 10.00p)"
+            },
+            {
+              "key": "Current year final dividend amount",
+              "value": "£22,921,000"
+            },
+            {
+              "key": "Previous year final dividend amount",
+              "value": "£20,814,000"
+            },
+            {
+              "key": "Current year interim dividend amount",
+              "value": "£9,377,000"
+            },
+            {
+              "key": "Previous year interim dividend amount",
+              "value": "£8,846,000"
+            },
+            {
+              "key": "Amounts recognised as distributions to equity shareholders in the year",
+              "value": "£32,298,000"
+            },
+            {
+              "key": "Previous year recognised distributions",
+              "value": "£34,083,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "guidance_update",
+          "page": 58,
+          "title": "Changes in the net defined benefit asset/(liability)",
+          "data": [
+            {
+              "key": "Opening net defined benefit liability",
+              "value": "-4357"
+            },
+            {
+              "key": "Service cost",
+              "value": "-500"
+            },
+            {
+              "key": "Net interest cost",
+              "value": "null"
+            },
+            {
+              "key": "Return on assets excluding interest income",
+              "value": "-8553"
+            },
+            {
+              "key": "Gain arising from changes in financial assumptions",
+              "value": "18303"
+            },
+            {
+              "key": "Gain arising from changes in demographic assumptions",
+              "value": "null"
+            },
+            {
+              "key": "Experience (loss)/gain",
+              "value": "-645"
+            },
+            {
+              "key": "Employer contributions",
+              "value": "1970"
+            },
+            {
+              "key": "Diversified growth fund 2022",
+              "value": "55154"
+            },
+            {
+              "key": "Diversified growth fund 2021",
+              "value": "51090"
+            },
+            {
+              "key": "Liability driven assets 2022",
+              "value": "6256"
+            },
+            {
+              "key": "Liability driven assets 2021",
+              "value": "8057"
+            },
+            {
+              "key": "Cash 2022",
+              "value": "7826"
+            },
+            {
+              "key": "Cash 2021",
+              "value": "1095"
+            },
+            {
+              "key": "Total market value of assets 2022",
+              "value": "69236"
+            },
+            {
+              "key": "Total market value of assets 2021",
+              "value": "77265"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "guidance_update",
+          "page": 58,
+          "title": "Pension Scheme Membership and Liability Duration Analysis",
+          "data": [
+            {
+              "key": "Active members 2022",
+              "value": "22559"
+            },
+            {
+              "key": "Active members 2021",
+              "value": "28842"
+            },
+            {
+              "key": "Deferred pensioners 2022",
+              "value": "7883"
+            },
+            {
+              "key": "Deferred pensioners 2021",
+              "value": "11877"
+            },
+            {
+              "key": "Pensions in payment 2022",
+              "value": "32650"
+            },
+            {
+              "key": "Pensions in payment 2021",
+              "value": "40903"
+            },
+            {
+              "key": "Total 2022",
+              "value": "63092"
+            },
+            {
+              "key": "Total 2021",
+              "value": "81622"
+            },
+            {
+              "key": "Average duration of scheme liabilities (Active members) 2022",
+              "value": "15"
+            },
+            {
+              "key": "Average duration of scheme liabilities (Active members) 2021",
+              "value": "7"
+            },
+            {
+              "key": "Average duration of scheme liabilities (Deferred pensioners) 2022",
+              "value": "16"
+            },
+            {
+              "key": "Average duration of scheme liabilities (Deferred pensioners) 2021",
+              "value": "18"
+            },
+            {
+              "key": "Average duration of scheme liabilities (Pensions in payment) 2022",
+              "value": ""
+            },
+            {
+              "key": "Average duration of scheme liabilities (Pensions in payment) 2021",
+              "value": "11"
+            },
+            {
+              "key": "Average duration of scheme liabilities (All scheme liabilities) 2022",
+              "value": "12"
+            },
+            {
+              "key": "Average duration of scheme liabilities (All scheme liabilities) 2021",
+              "value": "14"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "guidance_update",
+          "page": 75,
+          "title": "Notice of Annual General Meeting",
+          "data": [
+            {
+              "key": "Company",
+              "value": "JAMES HALSTEAD PLC"
+            },
+            {
+              "key": "Meeting Date",
+              "value": "1 December 2022"
+            },
+            {
+              "key": "Purpose",
+              "value": "Notice of the Annual General Meeting"
+            },
+            {
+              "key": "Resolutions",
+              "value": "Ordinary and special resolutions regarding dividends and share allotment."
+            },
+            {
+              "key": "Final Dividend",
+              "value": "To declare a final dividend on the ordinary shares for the year ended 30 June 2022."
+            },
+            {
+              "key": "Share Allotment Authority",
+              "value": "To authorise the directors to allot shares or grant rights to subscribe."
+            },
+            {
+              "key": "Expiry of Authority",
+              "value": "Authority to allot shares expires at the conclusion of the next AGM or six months after the next accounting reference date."
+            },
+            {
+              "key": "Limits on Allotment",
+              "value": "Authorised to allot shares up to a nominal value of £6,945,901."
+            },
+            {
+              "key": "Empowerment under Companies Act",
+              "value": "Directors empowered to allot equity securities for cash."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 31,
+          "title": "Auditor’s responsibilities for the audit of the financial statements",
+          "data": [
+            {
+              "key": "Subject",
+              "value": "Matters required to report by exception"
+            },
+            {
+              "key": "Key considerations",
+              "value": "Adequate accounting records, disclosures of directors’ remuneration, audit information received."
+            },
+            {
+              "key": "Director's Responsibilities",
+              "value": "Preparation of financial statements and ensuring fair view."
+            },
+            {
+              "key": "Auditor's Responsibilities",
+              "value": "Obtain reasonable assurance on the financial statements."
+            },
+            {
+              "key": "Irregularities and Fraud",
+              "value": "Design procedures to detect non-compliance with laws and regulations."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 6,
+          "title": "Corporate governance and corporate social responsibility and the environment",
+          "data": [
+            {
+              "key": "Environmental Impact Initiatives",
+              "value": "Almost 100% of electric usage derived from renewables."
+            },
+            {
+              "key": "Sustainability Report",
+              "value": "Published in 2021, independently audited."
+            },
+            {
+              "key": "PVC Recycling",
+              "value": "Started recycling waste into processes in the 1950s."
+            },
+            {
+              "key": "Joint Ventures",
+              "value": "Recofloor joint venture for waste collection."
+            },
+            {
+              "key": "European PVC Recycling",
+              "value": "Member of AgPr that funds recycling of post-consumer PVC waste."
+            },
+            {
+              "key": "Energy Efficiency",
+              "value": "Lowest consumption of primary energy among major commodity plastics."
+            },
+            {
+              "key": "Renewable Materials",
+              "value": "PVC flooring made with over 80% renewable materials."
+            },
+            {
+              "key": "Industry Partnerships",
+              "value": "Partners in ERFMI, focusing on EU carbon neutral strategy."
+            },
+            {
+              "key": "Post-Brexit Operations",
+              "value": "Continued involvement in European flooring industry."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 14,
+          "title": "Section 172 Statement",
+          "data": [
+            {
+              "key": "Stakeholder group",
+              "value": "Shareholders"
+            },
+            {
+              "key": "Engagement method",
+              "value": "Regular dialogue with institutional investors and individual shareholders, AGM, investors section on website."
+            },
+            {
+              "key": "Consideration of interests",
+              "value": "Sustainable growth and value creation, increasing dividend returns."
+            },
+            {
+              "key": "Stakeholder group",
+              "value": "Customers"
+            },
+            {
+              "key": "Engagement method",
+              "value": "Regular visits and meetings, industry exhibitions, customer site tours."
+            },
+            {
+              "key": "Consideration of interests",
+              "value": "Understanding customer needs, impact on strategic decisions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 15,
+          "title": "Suppliers Engagement",
+          "data": [
+            {
+              "key": "Supplier Engagement",
+              "value": "Engagement with suppliers and business partners is achieved by holding regular meetings, regular evaluation reviews and through audits of the supplier base."
+            },
+            {
+              "key": "Importance of Supplier Relationships",
+              "value": "The board recognises that relationships with the supplier base are important to the reputation and long term success of the group."
+            },
+            {
+              "key": "Employee Engagement",
+              "value": "We engage with our employees through site communications, briefings, performance reviews, newsletters and notice boards."
+            },
+            {
+              "key": "Health and Safety Initiatives",
+              "value": "Health and safety is taken extremely seriously."
+            },
+            {
+              "key": "Community Engagement",
+              "value": "We seek to be a good neighbour with the local communities."
+            },
+            {
+              "key": "Local Recruitment",
+              "value": "Create opportunities to recruit and develop local people."
+            },
+            {
+              "key": "Corporate Social Responsibility",
+              "value": "Outlines the group’s commitment to stakeholders, including the supply chain, employees, and the communities."
+            },
+            {
+              "key": "Capital Expenditure Focus",
+              "value": "Projects focus on improving energy efficiency and reducing environmental emissions."
+            },
+            {
+              "key": "Report Approval",
+              "value": "The strategic report was approved by the board of directors."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 18,
+          "title": "Carbon Emissions Summary",
+          "data": [
+            {
+              "key": "Scope (UK purchased electricity)",
+              "value": "5,464"
+            },
+            {
+              "key": "Total Scope 1 and Scope 2 emissions",
+              "value": "14,834"
+            },
+            {
+              "key": "Intensity metric (tonnes CO2e per metric tonne produced)",
+              "value": "0.25"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 24,
+          "title": "Corporate Governance Review",
+          "data": [
+            {
+              "key": "Date of Last Approval",
+              "value": "30 September 2022"
+            },
+            {
+              "key": "Strategy Overview",
+              "value": "Stable profitable growth from building goodwill in brands and products."
+            },
+            {
+              "key": "Dividend Policy",
+              "value": "Track record of increasing dividends; payment of special dividends when excess funds available."
+            },
+            {
+              "key": "Stakeholder Responsibilities",
+              "value": "Recognizes responsibilities to employees, customers, suppliers, and broader society."
+            },
+            {
+              "key": "Environmental Impact",
+              "value": "Commitment to ethical values and sustainability in operations, annual Sustainability Report published."
+            },
+            {
+              "key": "Product Development",
+              "value": "Development of ‘dementia friendly’ flooring."
+            },
+            {
+              "key": "Risk Management",
+              "value": "Annual reporting of risk management practices; board assesses risks six times a year."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 5,
+    "EUR": 28,
+    "GBP": 252,
+    "AUD": 129,
+    "CAD": 5,
+    "CHF": 4,
+    "INR": 1,
+    "NZD": 3,
+    "SEK": 1,
+    "NOK": 2,
+    "HKD": 1
+  },
+  "sha1": "71d137454a1524843e1f49b34603438510232919"
+}

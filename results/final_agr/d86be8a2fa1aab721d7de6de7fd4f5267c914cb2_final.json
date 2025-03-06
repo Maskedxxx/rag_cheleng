@@ -1,0 +1,4463 @@
+{
+  "letters": 288113,
+  "pages": 97,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "SWISS WATER DECAFFEINATED COFFEE INC.",
+    "major_industry": "Food & Beverage",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "2022 Annual Report",
+          "data": [
+            {
+              "key": "company_name",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "report_type",
+              "value": "Annual Report"
+            },
+            {
+              "key": "year",
+              "value": "2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 8,
+          "title": "Outlook and Financial Performance Summary",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Swiss Water Decaffeinated Coffee Inc."
+            },
+            {
+              "key": "Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Financial Performance Summary",
+              "value": "Strong financial performance with sustained volume growth in 2022."
+            },
+            {
+              "key": "Sales Growth North America",
+              "value": "19%"
+            },
+            {
+              "key": "Sales Growth Asia-Pacific",
+              "value": "10%"
+            },
+            {
+              "key": "Production Capacity Utilization Rate",
+              "value": "Regularly exceeded 80%"
+            },
+            {
+              "key": "Inflation Risks",
+              "value": "Inflationary pressures and rising interest rates are concerns for customer demand."
+            },
+            {
+              "key": "Operational Capacity",
+              "value": "Operating production lines 24/7."
+            },
+            {
+              "key": "Investment in Production Lines",
+              "value": "Invested in new production line in Delta."
+            },
+            {
+              "key": "Lease Status Burnaby Site",
+              "value": "Lease will not be extended beyond June 2023."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 11,
+          "title": "Management Discussion and Analysis",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "Reporting Period",
+              "value": "For the year ended December 31, 2022"
+            },
+            {
+              "key": "New Production Facility",
+              "value": "Initiated production from new processing facility in Delta, BC in Q3 2020."
+            },
+            {
+              "key": "Efficiency Projects",
+              "value": "Completed efficiency enhancement project in Q2 2018 and expanded capacity in 2016."
+            },
+            {
+              "key": "Construction of Second Production Line",
+              "value": "Commenced in 2021."
+            },
+            {
+              "key": "Consumer Branding",
+              "value": "Successful establishment of the brand as a leading chemical free processor."
+            },
+            {
+              "key": "Customer Base",
+              "value": "Established customer base across North America and internationally."
+            },
+            {
+              "key": "Distribution Channels",
+              "value": "Sold through key distribution channels including roaster retailers and coffee importers."
+            },
+            {
+              "key": "Capital Raised",
+              "value": "Raised capital in 2015, 2016, 2018, 2019, and 2022 for production lines."
+            },
+            {
+              "key": "Management Expertise",
+              "value": "Highly regarded management team with substantial experience."
+            },
+            {
+              "key": "Sustainability",
+              "value": "100% chemical free process with a focus on sustainability and environmental responsibility."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 12,
+          "title": "SWISS WATER DECAFFEINATED COFFEE INC. Management Discussion and Analysis",
+          "data": [
+            {
+              "key": "processing_volumes",
+              "value": "Our decaffeination facility generates fixed operating costs that are incurred regardless of coffee processed volume."
+            },
+            {
+              "key": "product_quality",
+              "value": "We operate under FSSC 22000, which manages food safety, HACCP, and quality assurance programs."
+            },
+            {
+              "key": "employee_safety",
+              "value": "We track employee safety metrics by department, aiming to reduce injuries."
+            },
+            {
+              "key": "coffee_futures_prices",
+              "value": "We manage exposure to changes in NY’C futures price through a commodity hedging program."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 14,
+          "title": "Currency Exchange Rate Chart",
+          "data": [
+            {
+              "key": "date",
+              "value": "2020-12-31"
+            },
+            {
+              "key": "value",
+              "value": "1.27"
+            },
+            {
+              "key": "date",
+              "value": "2021-05-31"
+            },
+            {
+              "key": "value",
+              "value": "1.21"
+            },
+            {
+              "key": "date",
+              "value": "2021-12-31"
+            },
+            {
+              "key": "value",
+              "value": "1.28"
+            },
+            {
+              "key": "date",
+              "value": "2022-06-30"
+            },
+            {
+              "key": "value",
+              "value": "1.29"
+            },
+            {
+              "key": "date",
+              "value": "2022-09-30"
+            },
+            {
+              "key": "value",
+              "value": "1.37"
+            },
+            {
+              "key": "date",
+              "value": "2022-12-31"
+            },
+            {
+              "key": "value",
+              "value": "1.36"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 16,
+          "title": "Management Discussion and Analysis",
+          "data": [
+            {
+              "key": "Gross Profit Q4 2022",
+              "value": "$5.8 million"
+            },
+            {
+              "key": "Gross Profit Full Year 2022",
+              "value": "$26.1 million"
+            },
+            {
+              "key": "Gross Profit Increase Q4 2022",
+              "value": "31% ($1.4 million)"
+            },
+            {
+              "key": "Gross Profit Increase Full Year 2022",
+              "value": "48% ($8.5 million)"
+            },
+            {
+              "key": "Administration Expenses Q4 2022",
+              "value": "$1.8 million"
+            },
+            {
+              "key": "Administration Expenses Full Year 2022",
+              "value": "$8.9 million"
+            },
+            {
+              "key": "Admin Expense Decrease Q4 2022",
+              "value": "14% ($0.3 million)"
+            },
+            {
+              "key": "Admin Expense Increase Full Year 2022",
+              "value": "19% ($1.4 million)"
+            },
+            {
+              "key": "Sales and Marketing Expenses Q4 2022",
+              "value": "$1.2 million"
+            },
+            {
+              "key": "Sales and Marketing Expenses Full Year 2022",
+              "value": "$3.8 million"
+            },
+            {
+              "key": "Sales and Marketing Increase Q4 2022",
+              "value": "47% ($0.4 million)"
+            },
+            {
+              "key": "Sales and Marketing Increase Full Year 2022",
+              "value": "10% ($0.3 million)"
+            },
+            {
+              "key": "Loss on Risk Management Q4 2022",
+              "value": "$0.1 million"
+            },
+            {
+              "key": "Loss on Risk Management Full Year 2022",
+              "value": "$1.6 million"
+            },
+            {
+              "key": "Loss Decrease Q4 2022",
+              "value": "$0.2 million"
+            },
+            {
+              "key": "Loss Decrease Full Year 2022",
+              "value": "$1.2 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 21,
+          "title": "Management Discussion and Analysis for the year ended December 31, 2022",
+          "data": [
+            {
+              "key": "Net cash used in operating activities",
+              "value": "$0.7 million (quarter), $1.0 million (year) 2022"
+            },
+            {
+              "key": "Net cash used in operating activities (2021)",
+              "value": "$6.5 million (quarter), $6.4 million (year) 2021"
+            },
+            {
+              "key": "Net cash used in investing activities",
+              "value": "$7.3 million (quarter), $24.6 million (year) 2022"
+            },
+            {
+              "key": "Net cash used in investing activities (2021)",
+              "value": "$3.0 million (quarter), $13.7 million (year) 2021"
+            },
+            {
+              "key": "Proceeds from financing activities",
+              "value": "$8.9 million (quarter), $25.2 million (year) 2022"
+            },
+            {
+              "key": "Proceeds from financing activities (2021)",
+              "value": "$11.6 million (quarter), $21.6 million (year) 2021"
+            },
+            {
+              "key": "Incremental capital availability from expanded credit facilities",
+              "value": "$33.25 million"
+            },
+            {
+              "key": "Financing expenditures incurred",
+              "value": "$0.8 million"
+            },
+            {
+              "key": "Inventory increase",
+              "value": "$24.9 million or 71% between December 31, 2021, and December 31, 2022"
+            },
+            {
+              "key": "Hedge accounting impact on inventory",
+              "value": "Reduction of $7.4 million as at December 31, 2022"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 38,
+          "title": "Independent Auditor’s Report",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Swiss Water Decaffeinated Coffee Inc."
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "The accompanying consolidated financial statements present fairly, in all material respects, the financial position of Swiss Water Decaffeinated Coffee Inc. and its subsidiaries."
+            },
+            {
+              "key": "Years Audited",
+              "value": "2022 and 2021"
+            },
+            {
+              "key": "Auditing Standards",
+              "value": "International Financial Reporting Standards"
+            },
+            {
+              "key": "Auditor",
+              "value": "PricewaterhouseCoopers LLP"
+            },
+            {
+              "key": "Location",
+              "value": "Vancouver, British Columbia, Canada"
+            },
+            {
+              "key": "Key Audit Matters",
+              "value": "Matters that were of most significance in the audit of the consolidated financial statements for the year ended December 31, 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 47,
+          "title": "Nature of Business and Basis of Preparation",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "Incorporation",
+              "value": "Canada Business Corporations Act"
+            },
+            {
+              "key": "Listing",
+              "value": "Toronto Stock Exchange under the symbol ‘SWP’"
+            },
+            {
+              "key": "Head Office Location",
+              "value": "7750 Beedie Way, Delta, British Columbia, V4G 0A5, Canada"
+            },
+            {
+              "key": "Primary Activity",
+              "value": "Decaffeination of green coffee without the use of chemicals"
+            },
+            {
+              "key": "Process",
+              "value": "SWISS WATER® Process"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Seaforth Supply Chain Solutions Inc., Swiss Water Decaffeinated Coffee Company USA, Inc., Swiss Water Decaffeinated Coffee Europe SARL."
+            },
+            {
+              "key": "Consolidated Financial Statements Approval Date",
+              "value": "March 14, 2023"
+            },
+            {
+              "key": "Financial Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Reporting Standards",
+              "value": "International Financial Reporting Standards (IFRS)"
+            },
+            {
+              "key": "Presentation Currency",
+              "value": "Canadian dollars"
+            },
+            {
+              "key": "Basis of Measurement",
+              "value": "Historical cost"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 62,
+          "title": "Employee Benefits and Management Judgments",
+          "data": [
+            {
+              "key": "Employee benefits liabilities",
+              "value": "Recognized for wages, salaries, and benefits expected to be settled within 12 months."
+            },
+            {
+              "key": "Retirement savings plan",
+              "value": "Company contributes percentage of earnings into RRSP administered by an independent entity."
+            },
+            {
+              "key": "Pension insurance plans contributions",
+              "value": "Recognized as employee benefit expenses when due."
+            },
+            {
+              "key": "Earnings per share calculation",
+              "value": "Basic EPS is calculated by dividing income or loss by the weighted average number of common shares."
+            },
+            {
+              "key": "Judgments in accounting policies",
+              "value": "Management uses judgment in selecting accounting policies and determining assumptions."
+            },
+            {
+              "key": "Useful lives of depreciable assets",
+              "value": "Estimated useful life of machinery reduced due to changes in production line."
+            },
+            {
+              "key": "Provision for asset retirement obligations",
+              "value": "Estimates performed to determine restoration cost provision."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 66,
+          "title": "Fixed Assets Schedule",
+          "data": [
+            {
+              "key": "Total Assets Increase",
+              "value": "$28,227"
+            },
+            {
+              "key": "Depreciation Charge",
+              "value": "$4,630"
+            },
+            {
+              "key": "Net Book Value",
+              "value": "$110,694"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 69,
+          "title": "Cost and Amortization Schedule 2021",
+          "data": [
+            {
+              "key": "Cost",
+              "value": "Balance January 1, 2021"
+            },
+            {
+              "key": "PPT",
+              "value": "3,246 $"
+            },
+            {
+              "key": "Brand",
+              "value": "1,000 $"
+            },
+            {
+              "key": "Total",
+              "value": "4,246"
+            },
+            {
+              "key": "Cost",
+              "value": "Balance December 31, 2021"
+            },
+            {
+              "key": "PPT",
+              "value": "3,246 $"
+            },
+            {
+              "key": "Brand",
+              "value": "1,000 $"
+            },
+            {
+              "key": "Total",
+              "value": "4,246"
+            },
+            {
+              "key": "Cost",
+              "value": "Amortization"
+            },
+            {
+              "key": "PPT",
+              "value": ""
+            },
+            {
+              "key": "Brand",
+              "value": ""
+            },
+            {
+              "key": "Total",
+              "value": ""
+            },
+            {
+              "key": "Cost",
+              "value": "Balance January 1, 2021"
+            },
+            {
+              "key": "PPT",
+              "value": "(2,650) $"
+            },
+            {
+              "key": "Brand",
+              "value": "(956) $"
+            },
+            {
+              "key": "Total",
+              "value": "(3,606)"
+            },
+            {
+              "key": "Cost",
+              "value": "Amortization (246) (19) (265)"
+            },
+            {
+              "key": "PPT",
+              "value": ""
+            },
+            {
+              "key": "Brand",
+              "value": ""
+            },
+            {
+              "key": "Total",
+              "value": ""
+            },
+            {
+              "key": "Cost",
+              "value": "Balance December 31, 2021"
+            },
+            {
+              "key": "PPT",
+              "value": "(2,896) $"
+            },
+            {
+              "key": "Brand",
+              "value": "(975) $"
+            },
+            {
+              "key": "Total",
+              "value": "(3,871)"
+            },
+            {
+              "key": "Cost",
+              "value": "Balance at December 31, 2021"
+            },
+            {
+              "key": "PPT",
+              "value": "350 $"
+            },
+            {
+              "key": "Brand",
+              "value": "25 $"
+            },
+            {
+              "key": "Total",
+              "value": "375"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 69,
+          "title": "Accounts Payable and Accrued Liabilities",
+          "data": [
+            {
+              "key": "item",
+              "value": "Accounts payable"
+            },
+            {
+              "key": "note",
+              "value": "s"
+            },
+            {
+              "key": "value1",
+              "value": "27,043"
+            },
+            {
+              "key": "value2",
+              "value": "8,602"
+            },
+            {
+              "key": "item",
+              "value": "Accrued liabilities"
+            },
+            {
+              "key": "note",
+              "value": ""
+            },
+            {
+              "key": "value1",
+              "value": "8,186"
+            },
+            {
+              "key": "value2",
+              "value": "6,658"
+            },
+            {
+              "key": "item",
+              "value": "Income tax payable"
+            },
+            {
+              "key": "note",
+              "value": ""
+            },
+            {
+              "key": "value1",
+              "value": "142"
+            },
+            {
+              "key": "value2",
+              "value": "149"
+            },
+            {
+              "key": "item",
+              "value": "Income tax payable"
+            },
+            {
+              "key": "note",
+              "value": "S"
+            },
+            {
+              "key": "value1",
+              "value": "35,371"
+            },
+            {
+              "key": "value2",
+              "value": "15,409"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 69,
+          "title": "Borrowings and Construction Loans Summary",
+          "data": [
+            {
+              "key": "description",
+              "value": "Construction loans with BDC and FCC Debenture with warrants with MRC Credit facility"
+            },
+            {
+              "key": "note",
+              "value": "Note 12.1"
+            },
+            {
+              "key": "amount",
+              "value": "44,131"
+            },
+            {
+              "key": "currency",
+              "value": "$"
+            },
+            {
+              "key": "previous_amount",
+              "value": "30,655"
+            },
+            {
+              "key": "description",
+              "value": "Construction loans with BDC and FCC Debenture with warrants with MRC Credit facility"
+            },
+            {
+              "key": "note",
+              "value": "Note 12.2"
+            },
+            {
+              "key": "amount",
+              "value": "13,477"
+            },
+            {
+              "key": "currency",
+              "value": "$"
+            },
+            {
+              "key": "previous_amount",
+              "value": "12,890"
+            },
+            {
+              "key": "description",
+              "value": "Construction loans with BDC and FCC Debenture with warrants with MRC Credit facility"
+            },
+            {
+              "key": "note",
+              "value": "Note 12.3"
+            },
+            {
+              "key": "amount",
+              "value": "38,146"
+            },
+            {
+              "key": "currency",
+              "value": "$"
+            },
+            {
+              "key": "previous_amount",
+              "value": "23,307"
+            },
+            {
+              "key": "description",
+              "value": "Borrowings, total"
+            },
+            {
+              "key": "amount",
+              "value": "95,754"
+            },
+            {
+              "key": "currency",
+              "value": "$"
+            },
+            {
+              "key": "previous_amount",
+              "value": "66,852"
+            },
+            {
+              "key": "description",
+              "value": "Construction loans interest"
+            },
+            {
+              "key": "note",
+              "value": "Note 12.1"
+            },
+            {
+              "key": "amount",
+              "value": "-191"
+            },
+            {
+              "key": "previous_amount",
+              "value": "-109"
+            },
+            {
+              "key": "description",
+              "value": "Credit facility"
+            },
+            {
+              "key": "note",
+              "value": "Note 12.3"
+            },
+            {
+              "key": "amount",
+              "value": "0"
+            },
+            {
+              "key": "previous_amount",
+              "value": "-23,307"
+            },
+            {
+              "key": "description",
+              "value": "Borrowings, current"
+            },
+            {
+              "key": "amount",
+              "value": "-191"
+            },
+            {
+              "key": "currency",
+              "value": "$"
+            },
+            {
+              "key": "previous_amount",
+              "value": "-23,416"
+            },
+            {
+              "key": "description",
+              "value": "Borrowings, non-current"
+            },
+            {
+              "key": "amount",
+              "value": "95,563"
+            },
+            {
+              "key": "currency",
+              "value": "$"
+            },
+            {
+              "key": "previous_amount",
+              "value": "43,436"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 78,
+          "title": "Balance Sheet Movements Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Balance, open (2021)",
+              "value": "$9,800"
+            },
+            {
+              "key": "Balance, open (2022)",
+              "value": "$23,307"
+            },
+            {
+              "key": "Advances (2021)",
+              "value": "$16,500"
+            },
+            {
+              "key": "Advances (2022)",
+              "value": "$15,100"
+            },
+            {
+              "key": "Repayments (2021)",
+              "value": "-$3,500"
+            },
+            {
+              "key": "Repayments (2022)",
+              "value": "-$1,500"
+            },
+            {
+              "key": "Fees and interest charged (2021)",
+              "value": "$391"
+            },
+            {
+              "key": "Fees and interest charged (2022)",
+              "value": "$1,402"
+            },
+            {
+              "key": "Financing transaction costs (2021)",
+              "value": "-$15"
+            },
+            {
+              "key": "Financing transaction costs (2022)",
+              "value": "-$268"
+            },
+            {
+              "key": "Amortized financing transaction costs (2021)",
+              "value": "$131"
+            },
+            {
+              "key": "Amortized financing transaction costs (2022)",
+              "value": "$105"
+            },
+            {
+              "key": "Balance, end (2021)",
+              "value": "$23,307"
+            },
+            {
+              "key": "Balance, end (2022)",
+              "value": "$38,146"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 78,
+          "title": "Borrowing Base Availability Comparison",
+          "data": [
+            {
+              "key": "Gross borrowing base availability (2021)",
+              "value": "$25,912"
+            },
+            {
+              "key": "Gross borrowing base availability (2022)",
+              "value": "$45,000"
+            },
+            {
+              "key": "Advances, repayments, fees and interest from inception (2021)",
+              "value": "-$23,412"
+            },
+            {
+              "key": "Advances, repayments, fees and interest from inception (2022)",
+              "value": "-$38,414"
+            },
+            {
+              "key": "Outstanding letter of credit and security lien bond (2021)",
+              "value": "-$300"
+            },
+            {
+              "key": "Outstanding letter of credit and security lien bond (2022)",
+              "value": "-$837"
+            },
+            {
+              "key": "Interests and fees accrued (2021)",
+              "value": "$47"
+            },
+            {
+              "key": "Interests and fees accrued (2022)",
+              "value": "$212"
+            },
+            {
+              "key": "Total (2021)",
+              "value": "$2,247"
+            },
+            {
+              "key": "Total (2022)",
+              "value": "$5,961"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 82,
+          "title": "Financial Statements Overview",
+          "data": [
+            {
+              "key": "Current Lease Liability Balance (2022)",
+              "value": "$19,927"
+            },
+            {
+              "key": "Previous Lease Liability Balance (2021)",
+              "value": "$21,719"
+            },
+            {
+              "key": "Finance Expense (2022)",
+              "value": "$1,033"
+            },
+            {
+              "key": "Finance Expense (2021)",
+              "value": "$1,120"
+            },
+            {
+              "key": "Lease Cash Payments (2022)",
+              "value": "$(2,776)"
+            },
+            {
+              "key": "Foreign Exchange Impact (2022)",
+              "value": "$(49)"
+            },
+            {
+              "key": "Minimum Lease Payments Due Within 1 Year",
+              "value": "$2,618"
+            },
+            {
+              "key": "Minimum Lease Payments Due Within 1-5 Years",
+              "value": "$9,533"
+            },
+            {
+              "key": "Minimum Lease Payments Due After 5 Years",
+              "value": "$746"
+            },
+            {
+              "key": "Total Minimum Lease Payments",
+              "value": "$12,897"
+            },
+            {
+              "key": "Asset Retirement Obligation Total Estimated Cash Flows",
+              "value": "$6.2 million"
+            },
+            {
+              "key": "ARO Balance End (2022)",
+              "value": "$4,180"
+            },
+            {
+              "key": "ARO Balance Non-Current (2022)",
+              "value": "$2,846"
+            },
+            {
+              "key": "Common Shares Issued and Outstanding (2022)",
+              "value": "9,165,815"
+            },
+            {
+              "key": "Preferred Shares Issued (2022)",
+              "value": "nil"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Weighted average number of RSUs and Warrants",
+          "data": [
+            {
+              "key": "Weighted average number of RSUs granted",
+              "value": "442511"
+            },
+            {
+              "key": "Weighted average number of Warrants issued",
+              "value": "2250000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Changes in Non-Cash Working Capital",
+          "data": [
+            {
+              "key": "Accounts receivable 2022",
+              "value": "-6722"
+            },
+            {
+              "key": "Accounts receivable 2021",
+              "value": "1239"
+            },
+            {
+              "key": "Inventories 2022",
+              "value": "-36091"
+            },
+            {
+              "key": "Inventories 2021",
+              "value": "-13361"
+            },
+            {
+              "key": "Other assets and liabilities 2022",
+              "value": "57"
+            },
+            {
+              "key": "Other assets and liabilities 2021",
+              "value": "-682"
+            },
+            {
+              "key": "Prepaid expenses and other receivables 2022",
+              "value": "-163"
+            },
+            {
+              "key": "Prepaid expenses and other receivables 2021",
+              "value": "-87"
+            },
+            {
+              "key": "Accounts payable and accrued liabilities 2022",
+              "value": "16681"
+            },
+            {
+              "key": "Accounts payable and accrued liabilities 2021",
+              "value": "2363"
+            },
+            {
+              "key": "Payments for asset retirement obligation 2022",
+              "value": "-164"
+            },
+            {
+              "key": "Payments for asset retirement obligation 2021",
+              "value": "0"
+            },
+            {
+              "key": "Derivative assets, liabilities and hedged firm commitments at fair value through profit and loss 2022",
+              "value": "11796"
+            },
+            {
+              "key": "Derivative assets, liabilities and hedged firm commitments at fair value through profit and loss 2021",
+              "value": "-6304"
+            },
+            {
+              "key": "Total 2022",
+              "value": "-14606"
+            },
+            {
+              "key": "Total 2021",
+              "value": "-16832"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 89,
+          "title": "Consolidated Financial Statements Notes",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Debt Restructuring",
+              "value": "Renegotiated debenture with warrants"
+            },
+            {
+              "key": "Gain on Extinguishment of Debt",
+              "value": "$0.6 million"
+            },
+            {
+              "key": "Prior Year Comparison",
+              "value": "2021 debt restructuring value of $1.2 million"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 91,
+          "title": "Fair Value Hedge Accounting Details for Coffee Futures",
+          "data": [
+            {
+              "key": "Carrying amount of hedging instruments Fair value (Coffee futures)",
+              "value": "16,267"
+            },
+            {
+              "key": "Derivative Assets",
+              "value": "3,288"
+            },
+            {
+              "key": "Nominal amount of hedged item (in '000 lbs)",
+              "value": "10,045"
+            },
+            {
+              "key": "Assets",
+              "value": "1,056"
+            },
+            {
+              "key": "Liabilities",
+              "value": "8,014"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 95,
+          "title": "Financial Performance Overview",
+          "data": [
+            {
+              "key": "Total Financial Assets 2022",
+              "value": "$7,341"
+            },
+            {
+              "key": "Total Financial Liabilities 2022",
+              "value": "$85,594"
+            },
+            {
+              "key": "Major Financial Liabilities",
+              "value": "Construction loans: $44,131, Credit facility: $38,146"
+            },
+            {
+              "key": "Change in Total Financial Assets",
+              "value": "Decrease from $9,165 in 2021 to $7,341 in 2022"
+            },
+            {
+              "key": "Standby Letters of Credit",
+              "value": "$0.3 million and $0.5 million"
+            },
+            {
+              "key": "Purchase Commitments",
+              "value": "Green coffee: $34.6 million, Equipment purchases: $5.1 million"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 96,
+          "title": "Swiss Water Decaffeinated Coffee Inc.",
+          "data": [
+            {
+              "key": "Website",
+              "value": "www.Swisswater.com"
+            },
+            {
+              "key": "Investor Relations",
+              "value": "https://investor.Swisswater.com"
+            },
+            {
+              "key": "Stock Exchange",
+              "value": "TSX: SWP"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 6,
+          "title": "Justin Jacobs Appointment to Board of Directors",
+          "data": [
+            {
+              "key": "date",
+              "value": "November 7, 2022"
+            },
+            {
+              "key": "name",
+              "value": "Justin Jacobs"
+            },
+            {
+              "key": "position",
+              "value": "Managing Director of Mill Road Capital LLC"
+            },
+            {
+              "key": "background",
+              "value": "Joined Mill Road at its founding in 2005, previously worked at LiveWire Capital and The Blackstone Group."
+            },
+            {
+              "key": "other_directorships",
+              "value": "Director at numerous public and private companies including PRT Growing Services Ltd."
+            },
+            {
+              "key": "shareholding",
+              "value": "Holds 608,500 shares of Swiss Water, representing approximately 6.6% of outstanding shares."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": true,
+      "elements": [
+        {
+          "type": "layoff",
+          "page": 86,
+          "title": "Employee Benefits Comparison",
+          "data": [
+            {
+              "key": "Short-term benefits (2022)",
+              "value": "2,260"
+            },
+            {
+              "key": "Short-term benefits (2021)",
+              "value": "2,388"
+            },
+            {
+              "key": "Long-term benefits (2022)",
+              "value": "348"
+            },
+            {
+              "key": "Long-term benefits (2021)",
+              "value": "571"
+            },
+            {
+              "key": "Post-employment benefits (2022)",
+              "value": "249"
+            },
+            {
+              "key": "Post-employment benefits (2021)",
+              "value": "230"
+            },
+            {
+              "key": "Total benefits (2022)",
+              "value": "2,857"
+            },
+            {
+              "key": "Total benefits (2021)",
+              "value": "3,189"
+            }
+          ],
+          "currency": "CAD"
+        }
+      ]
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 24,
+          "title": "Debenture with Warrants / Convertible Debenture with Mill Road Capital",
+          "data": [
+            {
+              "key": "Amended Senior Facility funding",
+              "value": "Completing the second production line in Delta with lenders funding 50% of the additional $12.0 million."
+            },
+            {
+              "key": "Senior Debt Covenant Compliance",
+              "value": "In compliance with all covenants as of December 31, 2022."
+            },
+            {
+              "key": "Convertible Debenture Amendment",
+              "value": "The convertible debenture agreement with Mill Road was amended to a new structure with higher interest rates and extended maturity."
+            },
+            {
+              "key": "Loss on extinguishment of debt",
+              "value": "Recognized a loss of $1.4 million for the year ended December 31, 2021 due to substantial changes in agreement terms."
+            },
+            {
+              "key": "Warrants Valuation",
+              "value": "Valued at $2.5 million using the Black Scholes model."
+            },
+            {
+              "key": "New terms of debenture agreement as of November 22, 2022",
+              "value": "Expanded on senior debt covenants and allowed prepayment rights."
+            },
+            {
+              "key": "Change in maturity date of warrants",
+              "value": "Extended from October 31, 2024 to April 30, 2026."
+            },
+            {
+              "key": "Gain on extinguishment of debt for 2022",
+              "value": "Recognized $0.5 million gain on extinguishment of debt and included financing transaction costs of $0.2 million."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 35,
+          "title": "Management Discussion and Analysis",
+          "data": [
+            {
+              "key": "Company",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "Event",
+              "value": "Vesting of RSUs"
+            },
+            {
+              "key": "Date",
+              "value": "February 25, 2023"
+            },
+            {
+              "key": "Total RSUs Vested",
+              "value": "111,140"
+            },
+            {
+              "key": "RSUs Converted to Shares",
+              "value": "47,140"
+            },
+            {
+              "key": "Plan",
+              "value": "2011 Restricted Share Unit Plan (as amended on June 25, 2019 and May 9, 2022)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 59,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Total Common Shares Issued",
+              "value": "Recorded at the value of proceeds received"
+            },
+            {
+              "key": "Repurchase of Shares",
+              "value": "Repurchases are removed from equity and no gain or loss is recognized"
+            },
+            {
+              "key": "Warrants Issues",
+              "value": "Each warrant allows the holder to obtain one share in exchange for cash at a price determined at issuance"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 60,
+          "title": "Share-Based Compensation Policies",
+          "data": [
+            {
+              "key": "Description",
+              "value": "The Company has a restricted share unit (RSU) plan for certain officers and employees and a deferred share unit (DSU) plan for non-employee directors."
+            },
+            {
+              "key": "RSU Valuation",
+              "value": "Measured at the fair value of the Company’s common shares as at the grant date using a volume weighted average share price."
+            },
+            {
+              "key": "Vesting",
+              "value": "The fair value is charged to income over the vesting period based on the estimate of the number of RSUs that will vest."
+            },
+            {
+              "key": "Cash-Settled Compensation",
+              "value": "Recognized as a long-term liability, measured at the fair value using a volume weighted average share price."
+            },
+            {
+              "key": "Revision of Estimates",
+              "value": "The Company revises estimates based on subsequent information indicating vesting differences."
+            },
+            {
+              "key": "Impact on Financials",
+              "value": "Changes in estimates recognized in income or expense, corresponding adjustments to reserves and liabilities."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 73,
+          "title": "Debenture Balance Movement Statement",
+          "data": [
+            {
+              "key": "Balance, open",
+              "value": "12,890 $"
+            },
+            {
+              "key": "Interest charged for convertible debenture",
+              "value": "-"
+            },
+            {
+              "key": "Interest paid on convertible debenture",
+              "value": "-"
+            },
+            {
+              "key": "July 20, 2021 convertible debenture",
+              "value": "12,890"
+            },
+            {
+              "key": "Extinguishment of liability component of convertible debt",
+              "value": "-"
+            },
+            {
+              "key": "",
+              "value": "12,890"
+            },
+            {
+              "key": "Liability component of debenture with warrants, July 20, 2021",
+              "value": "-"
+            },
+            {
+              "key": "Remeasurement of liability component of debenture with warrants",
+              "value": "(307)"
+            },
+            {
+              "key": "Interest charged for debenture with warrants",
+              "value": "2,261"
+            },
+            {
+              "key": "Interest paid on debenture with warrants",
+              "value": "(1,367)"
+            },
+            {
+              "key": "Balance, end",
+              "value": "13,477 $"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 75,
+          "title": "Debenture with Warrants Financial Comparison",
+          "data": [
+            {
+              "key": "Principal amount with accrued interest Initial unamortized bond discount",
+              "value": "15,305 (1,942)"
+            },
+            {
+              "key": "Liability component of debenture with warrants",
+              "value": "13,363"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 75,
+          "title": "Movement of Embedded Options in Debentures and Warrants",
+          "data": [
+            {
+              "key": "Balance, open s",
+              "value": "352"
+            },
+            {
+              "key": "Initial recognition of embedded option in debenture with warrants",
+              "value": "1,942"
+            },
+            {
+              "key": "Change in fair value of embedded option in debenture with warrants",
+              "value": "(513)"
+            },
+            {
+              "key": "Change in fair value of embedded option in convertible debenture",
+              "value": "48"
+            },
+            {
+              "key": "Extinguishment of embedded option in convertible debenture",
+              "value": "(400)"
+            },
+            {
+              "key": "Balance, end s",
+              "value": "1,429"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 76,
+          "title": "Share Price and Option Valuation Parameters",
+          "data": [
+            {
+              "key": "Share price",
+              "value": "2.31 $"
+            },
+            {
+              "key": "Exercise price",
+              "value": "3.33 S$"
+            },
+            {
+              "key": "Option life",
+              "value": "3.33 years"
+            },
+            {
+              "key": "Volatility",
+              "value": "49%"
+            },
+            {
+              "key": "Risk-free interest rate",
+              "value": "4.07%"
+            },
+            {
+              "key": "Dividend yield",
+              "value": "0.00%"
+            },
+            {
+              "key": "Fair value of embedded option",
+              "value": "1,429 $"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 76,
+          "title": "Valuation on July 20, 2021",
+          "data": [
+            {
+              "key": "Share price",
+              "value": "iS 3.33"
+            },
+            {
+              "key": "Exercise price",
+              "value": "iS 8.25"
+            },
+            {
+              "key": "Option life",
+              "value": "2.23 years"
+            },
+            {
+              "key": "Volatility",
+              "value": "51%"
+            },
+            {
+              "key": "Risk-free interest rate",
+              "value": "0.46%"
+            },
+            {
+              "key": "Dividend yield",
+              "value": "0.00%"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 83,
+          "title": "Warrant Value Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Warrant value 2022",
+              "value": "iS"
+            },
+            {
+              "key": "Warrant value 2021",
+              "value": "2,468"
+            },
+            {
+              "key": "Warrant transaction costs 2022",
+              "value": ""
+            },
+            {
+              "key": "Warrant transaction costs 2021",
+              "value": "(29)"
+            },
+            {
+              "key": "Warrant deferred tax 2022",
+              "value": ""
+            },
+            {
+              "key": "Warrant deferred tax 2021",
+              "value": "(666)"
+            },
+            {
+              "key": "Net total 2021",
+              "value": "1,773"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 83,
+          "title": "Warrant Valuation Parameters",
+          "data": [
+            {
+              "key": "Share price",
+              "value": "iS 3.33"
+            },
+            {
+              "key": "Exercise price/Option life",
+              "value": "iS 3.33 3.28 years"
+            },
+            {
+              "key": "Volatility",
+              "value": "46%"
+            },
+            {
+              "key": "Risk-free interest rate",
+              "value": "0.38%"
+            },
+            {
+              "key": "Dividend yield",
+              "value": "0.00%"
+            },
+            {
+              "key": "Fair value of warrants at inception",
+              "value": "iS 2,468"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 84,
+          "title": "RSU Activity and Details Summary",
+          "data": [
+            {
+              "key": "Balance at January 1, 2021",
+              "value": "306850"
+            },
+            {
+              "key": "Share price",
+              "value": "2.88"
+            },
+            {
+              "key": "Remaining vesting period",
+              "value": "1.26"
+            },
+            {
+              "key": "RSUs granted",
+              "value": "87000"
+            },
+            {
+              "key": "RSUs granted - performance",
+              "value": "158300"
+            },
+            {
+              "key": "RSUs cash-settled",
+              "value": "-45792"
+            },
+            {
+              "key": "RSUs exercised",
+              "value": "-50893"
+            },
+            {
+              "key": "RSUs forfeited",
+              "value": "-15718"
+            },
+            {
+              "key": "Balance at December 31, 2021",
+              "value": "439747"
+            },
+            {
+              "key": "Balance at January 1, 2022",
+              "value": "439747"
+            },
+            {
+              "key": "RSUs granted",
+              "value": "63000"
+            },
+            {
+              "key": "RSUs granted - performance",
+              "value": "158300"
+            },
+            {
+              "key": "RSUs cash-settled",
+              "value": "-50164"
+            },
+            {
+              "key": "RSUs exercised",
+              "value": "-36142"
+            },
+            {
+              "key": "Balance at December 31, 2022",
+              "value": "574741"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 85,
+          "title": "Deferred Share Units",
+          "data": [
+            {
+              "key": "Balance at January 1, 2021",
+              "value": "171318"
+            },
+            {
+              "key": "DSUs issued",
+              "value": "82356"
+            },
+            {
+              "key": "DSUs redeemed",
+              "value": "-153813"
+            },
+            {
+              "key": "Balance at December 31, 2021",
+              "value": "99861"
+            },
+            {
+              "key": "Balance at January 1, 2022",
+              "value": "99861"
+            },
+            {
+              "key": "DSUs issued",
+              "value": "85590"
+            },
+            {
+              "key": "Balance at December 31, 2022",
+              "value": "185451"
+            }
+          ],
+          "currency": "CAD"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 4,
+          "title": "Financial Results Summary",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "$44.0 million"
+            },
+            {
+              "key": "Gross Profit",
+              "value": "$5.8 million"
+            },
+            {
+              "key": "Operating income",
+              "value": "$2.8 million"
+            },
+            {
+              "key": "Net income (loss)",
+              "value": "-$254K"
+            },
+            {
+              "key": "Adjusted EBITDA",
+              "value": "$16.7 million"
+            },
+            {
+              "key": "Net income (loss) per share — basic",
+              "value": "-$0.03"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 9,
+          "title": "Delta Expansion Project Overview",
+          "data": [
+            {
+              "key": "Project Name",
+              "value": "Delta Expansion Project"
+            },
+            {
+              "key": "Location",
+              "value": "Delta, BC"
+            },
+            {
+              "key": "Preliminary Cost Estimate",
+              "value": "$45.0 million"
+            },
+            {
+              "key": "Commissioning Costs",
+              "value": "$2.0 million"
+            },
+            {
+              "key": "Final Project Cost Estimate",
+              "value": "$53.0 million"
+            },
+            {
+              "key": "Completion Date",
+              "value": "Third quarter of 2023"
+            },
+            {
+              "key": "Current Production Capacity Increase",
+              "value": "40% greater"
+            },
+            {
+              "key": "Initial Cost of Exit Plan",
+              "value": "$1.5 million"
+            },
+            {
+              "key": "Risk Factor for Exit Plan Cost",
+              "value": "20%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 10,
+          "title": "Management Discussion and Analysis",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Capital Allocation Details",
+              "value": "$12.0 million of incremental senior-term financing for capital expansions"
+            },
+            {
+              "key": "Purpose of Capital",
+              "value": "Finance for second production line in Delta, British Columbia"
+            },
+            {
+              "key": "Amended Debt Covenant",
+              "value": "$123.25 million"
+            },
+            {
+              "key": "Business Overview",
+              "value": "Premium green coffee decaffeinator located in Burnaby and Delta, BC."
+            },
+            {
+              "key": "Decaffeination Process",
+              "value": "Swiss Water® Process, certified organic."
+            },
+            {
+              "key": "Seaforth Subsidiary",
+              "value": "Provides green coffee logistics services."
+            },
+            {
+              "key": "Share Trading Symbol",
+              "value": "SWP"
+            },
+            {
+              "key": "Shares Issued and Outstanding",
+              "value": "9,165,815"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 22,
+          "title": "SWISS WATER DECAFFEINATED COFFEE INC. Management Discussion and Analysis",
+          "data": [
+            {
+              "key": "Accounts Receivable Increase",
+              "value": "$6.7 million or 47% increase between December 31, 2021 and December 31, 2022."
+            },
+            {
+              "key": "Credit Facility with Canadian Bank",
+              "value": "Credit facility increased from $30.0 million to $45.0 million effective November 22, 2022."
+            },
+            {
+              "key": "Borrowing Base",
+              "value": "Defined as Swiss Water’s eligible inventories and accounts receivable, among other things."
+            },
+            {
+              "key": "EDC Credit Facility",
+              "value": "Agreement for borrowings up to $6.25 million effective November 22, 2022."
+            },
+            {
+              "key": "Interest Expenses",
+              "value": "Incurred $1.4 million interest expense as of December 31, 2022."
+            },
+            {
+              "key": "Compliance with Bank Covenants",
+              "value": "As of December 31, 2022, Swiss Water was in compliance with all covenants."
+            },
+            {
+              "key": "Revolving Credit Facility Terms",
+              "value": "Allows for multiple interest rate options and can be borrowed, repaid, and re-borrowed."
+            },
+            {
+              "key": "Foreign Exchange and Commodity Futures Contract",
+              "value": "US$8.0 million facility to enter into various transactions with the bank."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 23,
+          "title": "Management Discussion and Analysis",
+          "data": [
+            {
+              "key": "Security and guarantees",
+              "value": "held by the lender of the Credit Facility."
+            },
+            {
+              "key": "EDC Credit facility termination conditions",
+              "value": "(i) demand by the lender of the Credit Facility for repayment, (ii) the first anniversary of the effective date, (iii) the maturity date under the Credit Facility."
+            },
+            {
+              "key": "Total loan amount for Term Loan initially",
+              "value": "$20.0 million."
+            },
+            {
+              "key": "Increased total loan amount after financing transaction",
+              "value": "$45.0 million."
+            },
+            {
+              "key": "Outstanding debt to BDC and FCC after closing transaction",
+              "value": "$10 million."
+            },
+            {
+              "key": "Outstanding construction loan amount",
+              "value": "$38.3 million."
+            },
+            {
+              "key": "Existing senior debt facility amount after the amendment",
+              "value": "$57.0 million."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 25,
+          "title": "Contractual Obligations and Debt Commitments (In $000s) (unaudited)",
+          "data": [
+            {
+              "key": "Long-term debt",
+              "value": "$59,979,000"
+            },
+            {
+              "key": "Financing leases",
+              "value": "$12,897,000"
+            },
+            {
+              "key": "Credit facility",
+              "value": "$38,414,000"
+            },
+            {
+              "key": "Purchase obligations",
+              "value": "$39,667,000"
+            },
+            {
+              "key": "Total contractual obligations",
+              "value": "$150,957,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 29,
+          "title": "Management Discussion and Analysis for Swiss Water Decaffeinated Coffee Inc.",
+          "data": [
+            {
+              "key": "weighted_average_borrowing_rate",
+              "value": "4.92%"
+            },
+            {
+              "key": "impairment_loss",
+              "value": "$2.5 million"
+            },
+            {
+              "key": "estimate_of_asset_retirement_obligation",
+              "value": "$6.2 million"
+            },
+            {
+              "key": "leaving_lease_expiry_date",
+              "value": "June 2023"
+            },
+            {
+              "key": "expiry_after_renewal_date",
+              "value": "2038"
+            },
+            {
+              "key": "cost_of_relocation",
+              "value": "$1.5 million"
+            },
+            {
+              "key": "cost_of_removal_equipment",
+              "value": "$4.7 million"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 43,
+          "title": "Consolidated Statements of Financial Position",
+          "data": [
+            {
+              "key": "Total Assets",
+              "value": "219,039"
+            },
+            {
+              "key": "Total Liabilities",
+              "value": "164,133"
+            },
+            {
+              "key": "Total Equity",
+              "value": "54,906"
+            },
+            {
+              "key": "Cash",
+              "value": "3,761"
+            },
+            {
+              "key": "Accounts receivable",
+              "value": "20,732"
+            },
+            {
+              "key": "Inventories",
+              "value": "60,248"
+            },
+            {
+              "key": "Property, plant and equipment",
+              "value": "128,123"
+            },
+            {
+              "key": "Borrowings (non-current)",
+              "value": "95,563"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 50,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Company",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Property, Plant and Equipment",
+              "value": "Leased facilities for production, offices, and warehouse."
+            },
+            {
+              "key": "Acquisition Cost",
+              "value": "Costs include expenditures for acquisition, interest on lease liability, and depreciation."
+            },
+            {
+              "key": "Depreciation Method",
+              "value": "Straight-line basis"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 56,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Company",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "Financial Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Key Points",
+              "value": "- Discussion on hedge accounting and its effects on financial statements."
+            },
+            {
+              "key": "Lease Accounting",
+              "value": "Adoption of IFRS 16 - Leases."
+            },
+            {
+              "key": "Fair Value Hierarchy",
+              "value": "Details on the classification and measurement of financial instruments."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 57,
+          "title": "Lease Policy and Right-of-Use Assets Accounting",
+          "data": [
+            {
+              "key": "Lease Inception Assessment",
+              "value": "The Company assesses whether a contract conveys the right to control the use of an identified asset."
+            },
+            {
+              "key": "Lease Components",
+              "value": "The Company has determined that contracts for its offices, warehouses, and select equipment contain a lease."
+            },
+            {
+              "key": "Right-of-Use Assets",
+              "value": "Presented in ‘Property, plant and equipment’ and related liabilities in ‘Lease liabilities’."
+            },
+            {
+              "key": "Lease Liability Measurement",
+              "value": "Initially measured at the present value of the lease payments not paid at the commencement date."
+            },
+            {
+              "key": "Lease Payments Included",
+              "value": "Fixed payments, variable lease payments based on an index, amounts under a residual value guarantee, exercise price under purchase option."
+            },
+            {
+              "key": "Discount Rate",
+              "value": "Generally, the Company uses its incremental borrowing rate as the discount rate."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 67,
+          "title": "Impairment to plant and equipment",
+          "data": [
+            {
+              "key": "Description",
+              "value": "The company identified indicators of impairment in accordance with IAS 36, recognizing a $2.5 million impairment loss on plant and equipment."
+            },
+            {
+              "key": "Impairment loss",
+              "value": "$2.5 million"
+            },
+            {
+              "key": "Allocated to machinery and equipment",
+              "value": "$2.2 million"
+            },
+            {
+              "key": "Allocated to leasehold improvements",
+              "value": "$0.3 million"
+            },
+            {
+              "key": "Right-of-use assets depreciation expense for 2022",
+              "value": "$1.9 million"
+            },
+            {
+              "key": "Right-of-use assets depreciation expense for 2021",
+              "value": "$1.9 million"
+            },
+            {
+              "key": "Administrative expenses for right-of-use assets",
+              "value": "$0.2 million"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 68,
+          "title": "Fixed Assets Movement Schedule 2022",
+          "data": [
+            {
+              "key": "Balance at January 1, 2022 (Total)",
+              "value": "$25,944"
+            },
+            {
+              "key": "Disposals (Total)",
+              "value": "-$166"
+            },
+            {
+              "key": "Balance at December 31, 2022 (Total)",
+              "value": "$25,778"
+            },
+            {
+              "key": "Balance at January 1, 2022 (Accumulated depreciation) (Total)",
+              "value": "-$6,315"
+            },
+            {
+              "key": "Depreciation (Total)",
+              "value": "-$2,148"
+            },
+            {
+              "key": "Disposals (Total)",
+              "value": "$125"
+            },
+            {
+              "key": "Balance at December 31, 2022 (Final) (Total)",
+              "value": "$17,429"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 68,
+          "title": "Intangible Assets Amortization Summary",
+          "data": [
+            {
+              "key": "Balance January 1, 2022 (Total)",
+              "value": "$4,246"
+            },
+            {
+              "key": "Balance December 31, 2022 (Total)",
+              "value": "$4,246"
+            },
+            {
+              "key": "Balance January 1, 2022 (Accumulated amortization) (Total)",
+              "value": "-$3,871"
+            },
+            {
+              "key": "Amortization (Total)",
+              "value": "-$265"
+            },
+            {
+              "key": "Balance December 31, 2022 (Accumulated amortization) (Total)",
+              "value": "-$4,136"
+            },
+            {
+              "key": "Balance at December 31, 2022 (Final) (Total)",
+              "value": "$110"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 70,
+          "title": "Construction Loans with BDC and FCC",
+          "data": [
+            {
+              "key": "Construction loans interest, current",
+              "value": "$191"
+            },
+            {
+              "key": "Construction loan with BDC, non-current, fixed 4.45%",
+              "value": "$22,173"
+            },
+            {
+              "key": "Construction loan with FCC, non-current, fixed 4.38%",
+              "value": "$10,000"
+            },
+            {
+              "key": "Construction loan with FCC, non-current, variable 4.04%",
+              "value": "$12,285"
+            },
+            {
+              "key": "Financing costs",
+              "value": "-$518"
+            },
+            {
+              "key": "Total",
+              "value": "$44,131"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 71,
+          "title": "Construction Loans and Borrowing Capacity Summary",
+          "data": [
+            {
+              "key": "Gross borrowing capacity available (current period)",
+              "value": "$57,000"
+            },
+            {
+              "key": "Gross borrowing capacity available (previous period)",
+              "value": "$45,000"
+            },
+            {
+              "key": "Available borrowing (current period)",
+              "value": "$12,869"
+            },
+            {
+              "key": "Available borrowing (previous period)",
+              "value": "$14,345"
+            },
+            {
+              "key": "Construction loan, BDC, fixed interest rate",
+              "value": "4.45%"
+            },
+            {
+              "key": "Construction loan, FCC, fixed interest rate",
+              "value": "4.38%"
+            },
+            {
+              "key": "Interest incurred on BDC loans (current period)",
+              "value": "$0.8 million"
+            },
+            {
+              "key": "Interest incurred on FCC loans (current period)",
+              "value": "$0.8 million"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 77,
+          "title": "Credit Facility - Agreements and transaction costs",
+          "data": [
+            {
+              "key": "Credit Facility",
+              "value": ""
+            },
+            {
+              "key": "Currency",
+              "value": "$"
+            },
+            {
+              "key": "38,414 S$",
+              "value": "38,146 $"
+            },
+            {
+              "key": "23,412",
+              "value": "23,307"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 81,
+          "title": "Lease Liabilities Summary",
+          "data": [
+            {
+              "key": "Lease liabilities, current",
+              "value": "1671"
+            },
+            {
+              "key": "Lease liabilities, non-current",
+              "value": "18256"
+            },
+            {
+              "key": "Total",
+              "value": "19927"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 87,
+          "title": "Accounts Receivable and Payable Balances",
+          "data": [
+            {
+              "key": "Accounts receivable",
+              "value": "$35.38"
+            },
+            {
+              "key": "Accounts payable",
+              "value": "$2,170.02"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 87,
+          "title": "Basic and Diluted Earnings Per Share",
+          "data": [
+            {
+              "key": "Net income (S)",
+              "value": "2,387"
+            },
+            {
+              "key": "Net income ($)",
+              "value": "496"
+            },
+            {
+              "key": "Weighted average number of shares (basic)",
+              "value": "9,158,161"
+            },
+            {
+              "key": "Weighted average number of shares (diluted)",
+              "value": "9,122,283"
+            },
+            {
+              "key": "Basic earnings per share (S)",
+              "value": "0.26"
+            },
+            {
+              "key": "Diluted earnings per share (S$)",
+              "value": "0.05"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "Management Discussion and Analysis",
+          "data": [
+            {
+              "key": "Net Income (Q4, 2022)",
+              "value": "Loss of $0.3 million"
+            },
+            {
+              "key": "Net Income (Full Year, 2022)",
+              "value": "Income of $2.4 million"
+            },
+            {
+              "key": "Adjusted EBITDA (Q4, 2022)",
+              "value": "$3.1 million"
+            },
+            {
+              "key": "Adjusted EBITDA (Full Year, 2022)",
+              "value": "$16.7 million"
+            },
+            {
+              "key": "Total Sales Volume Increase (2022)",
+              "value": "15% compared to 2021"
+            },
+            {
+              "key": "Sales to US Customers Increase (Q4, 2022)",
+              "value": "$11.9 million"
+            },
+            {
+              "key": "Sales to US Customers Increase (Full Year, 2022)",
+              "value": "$32.1 million"
+            },
+            {
+              "key": "Sales to Canadian Customers Increase (Q4, 2022)",
+              "value": "$3.4 million"
+            },
+            {
+              "key": "Sales to Canadian Customers Increase (Full Year, 2022)",
+              "value": "$7.1 million"
+            },
+            {
+              "key": "Sales to International Customers Increase (Full Year, 2022)",
+              "value": "$12.7 million (39% increase)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 7,
+          "title": "Financial Performance Metrics (unaudited)",
+          "data": [
+            {
+              "key": "Operating income (2022)",
+              "value": "$13,381M"
+            },
+            {
+              "key": "Operating income (2021)",
+              "value": "$6,686M"
+            },
+            {
+              "key": "Adjusted EBITDA (2022)",
+              "value": "$16,659M"
+            },
+            {
+              "key": "Adjusted EBITDA (2021)",
+              "value": "$10,533M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 7,
+          "title": "Financial Performance Metrics Comparison (In $000s) (unaudited)",
+          "data": [
+            {
+              "key": "Adjusted EBITDA (Q1 2022)",
+              "value": "$3,087k"
+            },
+            {
+              "key": "Adjusted EBITDA (Q1 2021)",
+              "value": "$2,111k"
+            },
+            {
+              "key": "Adjusted EBITDA (Full Year 2022)",
+              "value": "$16,659k"
+            },
+            {
+              "key": "Adjusted EBITDA (Full Year 2021)",
+              "value": "$10,533k"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 13,
+          "title": "Management Discussion and Analysis",
+          "data": [
+            {
+              "key": "Revenue Impact",
+              "value": "The rise and fall of the NY’C affects our volume of shipments, revenues, cost of sales, and working capital requirements."
+            },
+            {
+              "key": "2019 NY’C Average",
+              "value": "US$1.77/lb compared to US$2.20/lb in Q4 2021."
+            },
+            {
+              "key": "2022 NY’C Average",
+              "value": "US$2.13/lb compared to US$1.68/lb in 2021."
+            },
+            {
+              "key": "Exchange Rate Impact",
+              "value": "Exposure to changes in US$/C$ exchange rates affects profitability and cash generation."
+            },
+            {
+              "key": "Upward Trend Consumption",
+              "value": "In upward trending markets, customers consume inventories rather than build them."
+            },
+            {
+              "key": "Downward Trend Consumption",
+              "value": "When the NY’C declines, customers tend to add inventories."
+            },
+            {
+              "key": "Volatility of NY’C",
+              "value": "The NY’C has experienced volatility, with an average of US$2.13/lb in 2022."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 15,
+          "title": "Revenue Breakdown by Segment",
+          "data": [
+            {
+              "key": "Total Revenue FY 2022",
+              "value": "$176.9 million"
+            },
+            {
+              "key": "Total Revenue FY 2021",
+              "value": "$125.1 million"
+            },
+            {
+              "key": "Increase in Total Revenue",
+              "value": "41.5%"
+            },
+            {
+              "key": "Green Revenue Q4 2022",
+              "value": "$32.25 million"
+            },
+            {
+              "key": "Green Revenue Q4 2021",
+              "value": "$24.44 million"
+            },
+            {
+              "key": "Increase in Green Revenue",
+              "value": "32%"
+            },
+            {
+              "key": "Distribution Revenue Q4 2022",
+              "value": "$3.35 million"
+            },
+            {
+              "key": "Distribution Revenue Q4 2021",
+              "value": "$2.29 million"
+            },
+            {
+              "key": "Increase in Distribution Revenue",
+              "value": "46%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 17,
+          "title": "Finance Expenses and Income Analysis",
+          "data": [
+            {
+              "key": "Net finance expense for Q4 2022",
+              "value": "$1.4 million"
+            },
+            {
+              "key": "Net finance expense for year 2022",
+              "value": "$5.1 million"
+            },
+            {
+              "key": "Increase in finance expense compared to 2021 for Q4",
+              "value": "$0.3 million (26%)"
+            },
+            {
+              "key": "Increase in finance expense compared to 2021 for year",
+              "value": "$1.1 million (29%)"
+            },
+            {
+              "key": "Amended convertible debenture effective date",
+              "value": "July 20, 2021"
+            },
+            {
+              "key": "Effective interest rate of the new agreement",
+              "value": "16.2%"
+            },
+            {
+              "key": "Contractual interest rate of the new agreement",
+              "value": "9%"
+            },
+            {
+              "key": "Additional interest on the debenture",
+              "value": "1.5% calculated quarterly"
+            },
+            {
+              "key": "Loss on foreign exchange for Q4 2022",
+              "value": "$0.3 million"
+            },
+            {
+              "key": "Loss on foreign exchange for year 2022",
+              "value": "$2.2 million"
+            },
+            {
+              "key": "Average exchange rate 2022",
+              "value": "C$1.30"
+            },
+            {
+              "key": "Average exchange rate 2021",
+              "value": "C$1.25"
+            },
+            {
+              "key": "Fair value of embedded option",
+              "value": "Revalued using Black Scholes Option Pricing Model"
+            },
+            {
+              "key": "Loss on embedded option in 2021",
+              "value": "$0.05 million"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 18,
+          "title": "Management Discussion and Analysis",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "Financial Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Gain from Revaluation of Derivative Liability",
+              "value": "$0.5 million"
+            },
+            {
+              "key": "Loss on Extinguishment of Convertible Debenture",
+              "value": "$1.4 million"
+            },
+            {
+              "key": "Recognition of Gain on Extinguishment of Debenture with Warrants",
+              "value": "$0.6 million"
+            },
+            {
+              "key": "Salvage of Equipment Determination",
+              "value": "Partial salvage identified for future use."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 19,
+          "title": "Financial Results Summary (In 000s except for shares and per share data)",
+          "data": [
+            {
+              "key": "Basic and diluted earnings per share",
+              "value": ""
+            },
+            {
+              "key": "Net income (loss) attributable to shareholders",
+              "value": "Q4 2022: -254, Q4 2021: 241, Full Year 2022: 2387, Full Year 2021: 496"
+            },
+            {
+              "key": "Weighted average number of shares",
+              "value": "Q4 2022: 9165815, Q4 2021: 9129673, Full Year 2022: 9158161, Full Year 2021: 9122283"
+            },
+            {
+              "key": "Earnings per share",
+              "value": "Q4 2022: -0.03, Q4 2021: 0.03, Full Year 2022: 0.26, Full Year 2021: 0.05"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 20,
+          "title": "Quarterly Financial Results",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "The 8-quarter average revenue is $37,751,000 with a peak revenue of $48,368,000 in Q2 2022 before declining."
+            },
+            {
+              "key": "Gross Profit",
+              "value": "8-quarter average gross profit is $5,462, with a peak of $7,952 in Q2 2022."
+            },
+            {
+              "key": "Operating income",
+              "value": "8-quarter average operating income is $2,508, with a peak of $4,416 in Q2 2022."
+            },
+            {
+              "key": "Adjusted EBITDA",
+              "value": "8-quarter average adjusted EBITDA is $3,398, peaking at $5,335,000 in Q2 2022."
+            },
+            {
+              "key": "Net income (loss)",
+              "value": "Company experienced net losses in Q3 and Q4 2022 (-$204,000 and -$254,000 respectively)."
+            },
+            {
+              "key": "Net income (loss) - basic per share",
+              "value": "The 8-quarter average is $0.04, with some quarters reporting losses."
+            },
+            {
+              "key": "Net income (loss) - diluted per share",
+              "value": "Similar to basic per share, indicating consistent trends."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 20,
+          "title": "Financial Summary",
+          "data": [
+            {
+              "key": "Total assets",
+              "value": "Total assets increased from $139,233 in 2020 to $219,039 in 2022."
+            },
+            {
+              "key": "Total non-current liabilities",
+              "value": "Liabilities increased from $70,262 in 2020 to $123,405 in 2022."
+            },
+            {
+              "key": "Revenue",
+              "value": "Revenue grew significantly from $97,571 in 2020 to $176,935 in 2022."
+            },
+            {
+              "key": "Net income",
+              "value": "Net income fluctuated, recovering to $2,387 in 2022 after dropping to $496 in 2021."
+            },
+            {
+              "key": "Adjusted EBITDA",
+              "value": "Adjusted EBITDA increased steadily to $16,659 in 2022."
+            },
+            {
+              "key": "Dividends paid",
+              "value": "No dividends paid in 2021-2022."
+            },
+            {
+              "key": "Net income per share (basic)",
+              "value": "Increased from $0.32 in 2020 to $0.26 in 2022."
+            },
+            {
+              "key": "Adjusted EBITDA per share (basic)",
+              "value": "Showed consistent growth from $0.78 in 2020 to $1.82 in 2022."
+            },
+            {
+              "key": "Net income per share (diluted)",
+              "value": "Consistent growth from $0.25 in 2020 to $0.26 in 2022."
+            },
+            {
+              "key": "Adjusted EBITDA per share (diluted)",
+              "value": "Increased from $0.65 in 2020 to $1.82 in 2022."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 30,
+          "title": "Management Discussion and Analysis",
+          "data": [
+            {
+              "key": "Tax loss carryforwards",
+              "value": "$19.8 million"
+            },
+            {
+              "key": "Recognition of embedded option in debenture",
+              "value": "$1.4 million"
+            },
+            {
+              "key": "Gain from embedded option",
+              "value": "$0.5 million"
+            },
+            {
+              "key": "Share price as of December 31, 2022",
+              "value": "$2.31"
+            },
+            {
+              "key": "Share price as of November 22, 2022",
+              "value": "$2.70"
+            },
+            {
+              "key": "Exercise price",
+              "value": "$3.33"
+            },
+            {
+              "key": "Option life",
+              "value": "3.33 years"
+            },
+            {
+              "key": "Volatility",
+              "value": "49%"
+            },
+            {
+              "key": "Risk-free interest rate",
+              "value": "4.07%"
+            },
+            {
+              "key": "Dividend yield",
+              "value": "0.00%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Purchase Hedges and Financial Instruments Overview",
+          "data": [
+            {
+              "key": "Purchase Hedges Description",
+              "value": "Forward contracts to buy US$ for green coffee inventory sold at fixed C$ price."
+            },
+            {
+              "key": "Hedge Accounting",
+              "value": "Gains/losses on hedges deferred until inventory sold."
+            },
+            {
+              "key": "Financial Instruments Classification",
+              "value": "Financial assets measured at fair value or at amortized cost."
+            },
+            {
+              "key": "Commodity Price Risk",
+              "value": "Risk that inventory fair value fluctuates due to commodity prices."
+            },
+            {
+              "key": "Futures Contracts",
+              "value": "Swiss Water utilizes futures contracts for coffee to manage commodity price exposure."
+            },
+            {
+              "key": "Notional Value of Futures Contracts",
+              "value": "Contracts to buy 16.8 million lbs valued at US$27.1 million and contracts to sell 26.8 million lbs valued at US$43.4 million."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Consolidated Financial Statements for the Year Ended December 31, 2022",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "Report Type",
+              "value": "Consolidated Financial Statements"
+            },
+            {
+              "key": "Fiscal Year End Date",
+              "value": "December 31, 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Key Audit Matter and Other Information",
+          "data": [
+            {
+              "key": "Hedged Instruments Total",
+              "value": "$1.0 million"
+            },
+            {
+              "key": "Assets",
+              "value": "$0.1 million"
+            },
+            {
+              "key": "Liabilities",
+              "value": "$1.1 million"
+            },
+            {
+              "key": "Cash Flow Hedge Reserve",
+              "value": "($1.0) million"
+            },
+            {
+              "key": "Audit Complexity",
+              "value": "Key audit matter due to extensive audit procedures required for hedge accounting"
+            },
+            {
+              "key": "Specialized Knowledge",
+              "value": "Professionals with specialized skills assisted in procedures"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Income Statement",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "176935"
+            },
+            {
+              "key": "Previous Revenue",
+              "value": "125076"
+            },
+            {
+              "key": "Gross profit",
+              "value": "26088"
+            },
+            {
+              "key": "Previous Gross profit",
+              "value": "17611"
+            },
+            {
+              "key": "Administration expenses",
+              "value": "-8900"
+            },
+            {
+              "key": "Previous Administration expenses",
+              "value": "-7462"
+            },
+            {
+              "key": "Sales and marketing expenses",
+              "value": "-3807"
+            },
+            {
+              "key": "Previous Sales and marketing expenses",
+              "value": "-3463"
+            },
+            {
+              "key": "Total operating expenses",
+              "value": "-12707"
+            },
+            {
+              "key": "Previous Total operating expenses",
+              "value": "-10925"
+            },
+            {
+              "key": "Operating income",
+              "value": "13381"
+            },
+            {
+              "key": "Previous Operating income",
+              "value": "6686"
+            },
+            {
+              "key": "Total non-operating or other",
+              "value": "-10175"
+            },
+            {
+              "key": "Previous Total non-operating or other",
+              "value": "-5681"
+            },
+            {
+              "key": "Income before tax",
+              "value": "3206"
+            },
+            {
+              "key": "Previous Income before tax",
+              "value": "1005"
+            },
+            {
+              "key": "Net income",
+              "value": "2387"
+            },
+            {
+              "key": "Previous Net income",
+              "value": "496"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Comprehensive Income Statement",
+          "data": [
+            {
+              "key": "Net income",
+              "value": "2,387"
+            },
+            {
+              "key": "Derivatives designated as cash flow hedges - currency risk hedges on USS future revenue",
+              "value": "-2,283"
+            },
+            {
+              "key": "Currency risk hedges on USS future revenue, recognized in revenue",
+              "value": "150"
+            },
+            {
+              "key": "Other comprehensive (loss) income related to hedging activities",
+              "value": "-2,133"
+            },
+            {
+              "key": "Tax recovery (expense) on other comprehensive income relating to hedging activities",
+              "value": "566"
+            },
+            {
+              "key": "Cumulative translation adjustment",
+              "value": "38"
+            },
+            {
+              "key": "Other comprehensive (loss) income, net of tax",
+              "value": "-1,529"
+            },
+            {
+              "key": "Net (loss) income and other comprehensive (loss) income",
+              "value": "858"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Balance at December 31, 2020",
+              "value": "Total equity: 52994, Shares: 9078780"
+            },
+            {
+              "key": "Balance at December 31, 2021",
+              "value": "Total equity: 55595, Shares: 9129673"
+            },
+            {
+              "key": "Balance at December 31, 2022",
+              "value": "Total equity: 54906, Shares: 9165815"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Operating activities",
+              "value": "Net income: 2387, Depreciation and amortization: 7018, Share-based compensation expense: 415, Unrealized loss on risk management activities: 44, (Gain) loss on fair value of embedded option: -513, (Gain) loss on extinguishment of debt: -583, Finance income: -509, Finance expense: 5567, Impairment of plant and equipment: 2470, Income tax expense: 819, Other: -153, Change in non-cash working capital: -14606, Net cash used in operating activities: -1042"
+            },
+            {
+              "key": "Investing activities",
+              "value": "Additions to plant and equipment: -25966, Recovery of costs related to equipment: 1361, Net cash used in investing activities: -24605"
+            },
+            {
+              "key": "Financing activities",
+              "value": "Payment of lease liabilities: -1742, Proceeds from credit facility: 15100, Repayments of credit facility: -1500, Proceeds from construction loans: 13690, Transaction costs related to debt financing activities: -390, Net cash generated from financing activities: 25158"
+            },
+            {
+              "key": "Cash Position",
+              "value": "(Decrease) increase in cash and cash equivalents: -489, Cash and cash equivalents, beginning of the year: 4250, Cash and cash equivalents, end of the year: 3761"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Segment Reporting and Foreign Currency Transactions",
+          "data": [
+            {
+              "key": "Company",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "Functional Currency",
+              "value": "Canadian Dollar"
+            },
+            {
+              "key": "Foreign Currency Transactions",
+              "value": "Monetary assets and liabilities denominated in foreign currencies are translated to Canadian dollars at the exchange rate prevailing at the reporting date."
+            },
+            {
+              "key": "Geographical Segments",
+              "value": "Sales are primarily generated in a single business segment of decaffeination of green coffee beans."
+            },
+            {
+              "key": "Foreign Operations Translation",
+              "value": "Assets and liabilities for consolidated statements are translated at the closing rate at the date of financial position."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Company",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "Year_Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Overview",
+              "value": "Financial assets recognition and measurement details concerning the derecognition of financial assets, subsequent measurement of debt instruments, and impairment methodology."
+            },
+            {
+              "key": "Measurement_Categories",
+              "value": "1. Amortized cost 2. Fair Value through Other Comprehensive Income (FVOCI) 3. Fair Value through Profit or Loss (FVPL)"
+            },
+            {
+              "key": "Key_Accounting_Standards",
+              "value": "IFRS 9"
+            },
+            {
+              "key": "Impairment_Methodology",
+              "value": "Simplified approach for accounts receivable to recognize expected lifetime credit losses."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "SWISS WATER DECAFFEINATED COFFEE INC. Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Fiscal Year",
+              "value": "2022"
+            },
+            {
+              "key": "Reporting Currency",
+              "value": "Canadian dollars"
+            },
+            {
+              "key": "Derivatives Description",
+              "value": "Initially recognized at fair value, subsequently remeasured to fair value"
+            },
+            {
+              "key": "Hedge Types",
+              "value": "Fair value hedges, Cash flow hedges, Net investment hedges"
+            },
+            {
+              "key": "Hedge Accounting",
+              "value": "Effective portion recognized until related cash flows affect profit or loss"
+            },
+            {
+              "key": "Risk Management Policies",
+              "value": "Foreign Exchange Risk Management Policy, Commodity Price Risk Management Policy"
+            },
+            {
+              "key": "Hedged Items",
+              "value": "Derivative financial instruments designated as hedging instruments"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Document Title",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "Fiscal Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Currency Used",
+              "value": "Canadian Dollars"
+            },
+            {
+              "key": "Summary of Lease Accounting",
+              "value": "The Company has elected not to recognize right-of-use assets and lease liabilities for short-term leases of machinery and leases of low-value assets. Lease payments are recognized as an expense on a straight-line basis. Depreciation charge for right-of-use assets and interest expense on lease liabilities is reported in the consolidated income statement. Principal repayments of lease liabilities are listed under financing activities."
+            },
+            {
+              "key": "Current and Deferred Income Taxes Summary",
+              "value": "Income tax expense comprises current and deferred tax. It is recognized in the consolidated statement of income and comprehensive income, except for items recognized in other comprehensive income or directly in equity. The current income tax charge is based on tax laws in effect at the reporting date."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 61,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "SWISS WATER DECAFFEINATED COFFEE INC."
+            },
+            {
+              "key": "Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Revenue Recognition",
+              "value": "Revenue is recognized when the Company transfers control over products and services to the customer."
+            },
+            {
+              "key": "Primary Sources of Revenue",
+              "value": "Proceeds from sales of decaffeinated coffee and decaffeination services."
+            },
+            {
+              "key": "Revenue Disaggregation",
+              "value": "Customer’s geographic region and major products/services."
+            },
+            {
+              "key": "Decaffeinated Coffee Sales",
+              "value": "Revenue charged for decaffeinated coffee is recognized when control is obtained by the customer."
+            },
+            {
+              "key": "Decaffeination Services",
+              "value": "Revenue charged for decaffeination of customer-owned coffee is recognized over time."
+            },
+            {
+              "key": "Distribution Revenue",
+              "value": "Shipping, handling, and warehousing charges billed to customers, recognized over time."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 65,
+          "title": "Financial Derivatives and Contracts Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Net Coffee futures contracts (2022)",
+              "value": "3288"
+            },
+            {
+              "key": "Net Coffee futures contracts (2021)",
+              "value": "3458"
+            },
+            {
+              "key": "Net US Dollar forward contracts, current (2022)",
+              "value": "455"
+            },
+            {
+              "key": "Net US Dollar forward contracts, current (2021)",
+              "value": "187"
+            },
+            {
+              "key": "US Dollar forward contracts, long-term (2022)",
+              "value": "-285"
+            },
+            {
+              "key": "US Dollar forward contracts, long-term (2021)",
+              "value": "0"
+            },
+            {
+              "key": "Borrowings embedded option (2022)",
+              "value": "-1429"
+            },
+            {
+              "key": "Borrowings embedded option (2021)",
+              "value": "0"
+            },
+            {
+              "key": "Total (2022)",
+              "value": "2029"
+            },
+            {
+              "key": "Total (2021)",
+              "value": "3645"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 65,
+          "title": "Dollar Forward Positions",
+          "data": [
+            {
+              "key": "Dollar forward position (2022)",
+              "value": "-1005"
+            },
+            {
+              "key": "Dollar forward position (2021)",
+              "value": "1128"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 65,
+          "title": "Property, plant and equipment comparison",
+          "data": [
+            {
+              "key": "Property, plant and equipment (2022)",
+              "value": "110694 S$"
+            },
+            {
+              "key": "Property, plant and equipment (2021)",
+              "value": "87036 S$"
+            },
+            {
+              "key": "Right-of-use assets (2022)",
+              "value": "17429 S$"
+            },
+            {
+              "key": "Right-of-use assets (2021)",
+              "value": "19618 S$"
+            },
+            {
+              "key": "Total Property, plant and Equipment (2022)",
+              "value": "128123 S$"
+            },
+            {
+              "key": "Total Property, plant and Equipment (2021)",
+              "value": "106654 S$"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 74,
+          "title": "December Professional fees",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Extinguishment of liability component of the convertible debenture"
+            },
+            {
+              "key": "December 31, 2022",
+              "value": "0"
+            },
+            {
+              "key": "December 31, 2021",
+              "value": "-1568"
+            },
+            {
+              "key": "Description",
+              "value": "Extinguishment of derivative embedded in convertible debenture"
+            },
+            {
+              "key": "December 31, 2022",
+              "value": "0"
+            },
+            {
+              "key": "December 31, 2021",
+              "value": "400"
+            },
+            {
+              "key": "Description",
+              "value": "Extinguishment of equity component of debenture with warrants"
+            },
+            {
+              "key": "December 31, 2022",
+              "value": "2439"
+            },
+            {
+              "key": "December 31, 2021",
+              "value": "0"
+            },
+            {
+              "key": "Description",
+              "value": "Extinguishment of liability component of debenture with warrants"
+            },
+            {
+              "key": "December 31, 2022",
+              "value": "-1634"
+            },
+            {
+              "key": "December 31, 2021",
+              "value": "0"
+            },
+            {
+              "key": "Description",
+              "value": "Total"
+            },
+            {
+              "key": "December 31, 2022",
+              "value": "583"
+            },
+            {
+              "key": "December 31, 2021",
+              "value": "-1381"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 79,
+          "title": "Consolidated Financial Statements Highlights",
+          "data": [
+            {
+              "key": "Current income tax expense",
+              "value": "$36"
+            },
+            {
+              "key": "Deferred tax expense",
+              "value": "$783"
+            },
+            {
+              "key": "Total income tax expense",
+              "value": "$819"
+            },
+            {
+              "key": "Comparison Period (2021) Total income tax expense",
+              "value": "$509"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 90,
+          "title": "Non-current assets (excluding deferred taxes)",
+          "data": [
+            {
+              "key": "region",
+              "value": "Canada"
+            },
+            {
+              "key": "symbol",
+              "value": "S"
+            },
+            {
+              "key": "value1",
+              "value": "128,341 $"
+            },
+            {
+              "key": "value2",
+              "value": "107,676"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 90,
+          "title": "Revenue",
+          "data": [
+            {
+              "key": "region",
+              "value": "Canada"
+            },
+            {
+              "key": "currency",
+              "value": "S"
+            },
+            {
+              "key": "value1",
+              "value": "45400"
+            },
+            {
+              "key": "currency2",
+              "value": "$"
+            },
+            {
+              "key": "value2",
+              "value": "38325"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 90,
+          "title": "Impairment of plant and equipment",
+          "data": [
+            {
+              "key": "impairment_value",
+              "value": "$2.5 million"
+            },
+            {
+              "key": "location",
+              "value": "Canada"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 90,
+          "title": "Financial Risk Management",
+          "data": [
+            {
+              "key": "risk_exposure",
+              "value": "Commodity, foreign exchange, interest rates, credit liquidity and other risks"
+            },
+            {
+              "key": "risk_management_program",
+              "value": "Focus on coffee prices and foreign exchange rates"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 92,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Hedging Instrument",
+              "value": "Cashflow hedge Nominal amount of hedging instruments"
+            },
+            {
+              "key": "Currency (1)",
+              "value": "s"
+            },
+            {
+              "key": "Amount (1)",
+              "value": "40,205"
+            },
+            {
+              "key": "Currency (2)",
+              "value": "$"
+            },
+            {
+              "key": "Amount (2)",
+              "value": "27,289"
+            },
+            {
+              "key": "Line items in the statement of financial position",
+              "value": "Derivative Assets Derivative Liabilities Changes in fair value used for calculating hedge ineffectiveness"
+            },
+            {
+              "key": "Currency (1)",
+              "value": "iS"
+            },
+            {
+              "key": "Amount (1)",
+              "value": "67 1,072 -"
+            },
+            {
+              "key": "Currency (2)",
+              "value": "$"
+            },
+            {
+              "key": "Amount (2)",
+              "value": "1,192 63 -"
+            },
+            {
+              "key": "Accumulated amount of fair value hedge adjustment",
+              "value": "on hedged item included in the carrying amount"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 92,
+          "title": "Cashflow Hedge Details",
+          "data": [
+            {
+              "key": "Nominal amount of hedged item (in USS'000)",
+              "value": "40,205 $"
+            },
+            {
+              "key": "Line items in the statement of financial position",
+              "value": "Accumulated other comprehensive income"
+            },
+            {
+              "key": "Assets",
+              "value": "S"
+            },
+            {
+              "key": "Liabilities",
+              "value": ""
+            },
+            {
+              "key": "Changes in fair value for hedge ineffectiveness",
+              "value": "-"
+            },
+            {
+              "key": "Cashflow hedge reserve",
+              "value": "(1,005) 1,128"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 92,
+          "title": "Fair Value Hedge Details",
+          "data": [
+            {
+              "key": "Nominal amount of hedging instruments (in US$'000)",
+              "value": "7,124"
+            },
+            {
+              "key": "Derivative Assets",
+              "value": "138"
+            },
+            {
+              "key": "Derivative Liabilities",
+              "value": "50"
+            },
+            {
+              "key": "Nominal amount of hedged item (in US$'000)",
+              "value": "7,124"
+            },
+            {
+              "key": "Assets",
+              "value": "0"
+            },
+            {
+              "key": "Liabilities",
+              "value": "244"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 64,
+          "title": "Capital Management and Accounts Receivable",
+          "data": [
+            {
+              "key": "Company's Capital Structure",
+              "value": "The Company considers its capital structure to include shareholders’ equity and indebtedness."
+            },
+            {
+              "key": "Management Strategies",
+              "value": "To maintain or adjust the capital structure, the Company may from time-to-time issue common shares, preferred shares, issue additional debt, adjust its capital spending, modify its dividend policy, and/or dispose of certain assets."
+            },
+            {
+              "key": "Dividend Policy",
+              "value": "The dividend policy of Swiss Water is subject to the discretion of the Board of Directors."
+            },
+            {
+              "key": "Expected Credit Losses",
+              "value": "As at December 31, 2022, the expected credit losses provision is $0.1 million."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 64,
+          "title": "Inventory Breakdown",
+          "data": [
+            {
+              "key": "Raw materials",
+              "value": "$38,177"
+            },
+            {
+              "key": "Finished goods",
+              "value": "$28,517"
+            },
+            {
+              "key": "Carbon",
+              "value": "$496"
+            },
+            {
+              "key": "Packaging",
+              "value": "$490"
+            },
+            {
+              "key": "Hedge accounting component (negative)",
+              "value": "($7,432)"
+            },
+            {
+              "key": "Hedge accounting component (positive)",
+              "value": "S$60,248"
+            },
+            {
+              "key": "Summary",
+              "value": "This table appears to be an inventory or stock breakdown showing different categories of materials and their associated values across two periods. The table includes a hedge accounting component that shows both negative and positive values."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 72,
+          "title": "Debt Instruments Summary and Amendments",
+          "data": [
+            {
+              "key": "Principal amount due to MRC, 9%+1.5%",
+              "value": "15,000 $"
+            },
+            {
+              "key": "Liability component, unamortized bond discount",
+              "value": "(1,853)"
+            },
+            {
+              "key": "Accrued interest",
+              "value": "330"
+            },
+            {
+              "key": "Total liability amount",
+              "value": "13,477 $"
+            },
+            {
+              "key": "Liability amount for previous year",
+              "value": "12,890"
+            },
+            {
+              "key": "Summary",
+              "value": "This table appears to be a financial statement showing details of a debt instrument with MRC. The principal amount is $15,000 with an interest rate of 9%+1.5%. There is an unamortized bond discount of $(1,853) to $(2,212), and accrued interest ranging from $102 to $330. The total liability amounts to $13,477 in one period and $12,890 in another, suggesting this is a comparative period presentation."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 94,
+          "title": "Accounts Payable and Contractual Cash Flows",
+          "data": [
+            {
+              "key": "Other liabilities",
+              "value": "762"
+            },
+            {
+              "key": "Lease liabilities",
+              "value": "19927"
+            },
+            {
+              "key": "Credit facility",
+              "value": "38146"
+            },
+            {
+              "key": "Construction loans and interest",
+              "value": "44131"
+            },
+            {
+              "key": "Debenture with warrants",
+              "value": "13477"
+            },
+            {
+              "key": "Total",
+              "value": "143486"
+            }
+          ],
+          "currency": "CAD"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 26,
+          "title": "SWISS WATER DECAFFEINATED COFFEE INC. Management Discussion and Analysis",
+          "data": [
+            {
+              "key": "Risks and uncertainties",
+              "value": "Cash from operations may fluctuate with the performance of the business, which can be susceptible to a number of risks. These risks may include, but are not limited to, foreign exchange fluctuations, labour relations, coffee prices, the availability of coffee, competition from existing chemical and other natural or chemical free coffee decaffeinators, competition from new entrants, environmental and regulatory risks, customer concentration, commodity futures losses, ability to maintain organic certification, risks related to information technology, dependence on key personnel, product liability, uncollectable debts, liquidity risk and timing and costs of capital projects."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 27,
+          "title": "Risk Factors Related to Business Operations",
+          "data": [
+            {
+              "key": "Risk Factors",
+              "value": "Decommissioning of facilities, ability to raise funds, availability of labor force, inflation, changes in interest rates, global pandemics, economic downturns."
+            },
+            {
+              "key": "Impact of Conflict in Ukraine",
+              "value": "Demand for products, delays in transportation, increase in costs, potential shifts in customer supply sources."
+            },
+            {
+              "key": "Environmental Risks",
+              "value": "Risks related to air, water, waste and land affecting operations."
+            },
+            {
+              "key": "Coffee Supply Risks",
+              "value": "Environmental conditions affecting the supply and quality of green coffee."
+            },
+            {
+              "key": "Mitigation Strategies",
+              "value": "Maintaining supplier diversity, keeping inventory, developing coffee blends."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 28,
+          "title": "Risk Factors Related to Environmental Regulations and Natural Disasters",
+          "data": [
+            {
+              "key": "Risk of Major Earthquake and Flooding",
+              "value": "High risk of major earthquake and flooding in Vancouver could materially impact operations."
+            },
+            {
+              "key": "Commodity Price Risk Management",
+              "value": "Mitigated through commodity price risk management policy."
+            },
+            {
+              "key": "Environmental Compliance",
+              "value": "Subject to environmental laws; compliance monitored routinely."
+            },
+            {
+              "key": "Increased Costs Expectation",
+              "value": "Expecting increased costs for energy and water consumption."
+            },
+            {
+              "key": "Unknown Environmental Risks",
+              "value": "Potential unknown environmental impacts related to business."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 32,
+          "title": "Hedge Accounting and Risk Management Policies",
+          "data": [
+            {
+              "key": "Commodity price risk hedges",
+              "value": "Hedges on coffee purchase commitments and coffee inventory."
+            },
+            {
+              "key": "Currency risk hedges",
+              "value": "Hedges related to US$ denominated future process revenues."
+            },
+            {
+              "key": "Risk management policy details",
+              "value": "Implemented to manage unpredictability in coffee commodity prices and foreign exchange rates."
+            },
+            {
+              "key": "Hedge accounting treatment",
+              "value": "Gains and losses are recorded until the coffee is sold and matched to sales."
+            },
+            {
+              "key": "Forward contracts",
+              "value": "Used to hedge foreign exchange cash flow variability of expected US$ processing fee revenue."
+            },
+            {
+              "key": "Cash flow hedging",
+              "value": "Higher percentage of expected future revenues is hedged in the immediate 12-month period than in the 13 to 60-month period."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 55,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Hedging Instruments",
+              "value": "Derivative financial instruments designated as hedging instruments for risk management."
+            },
+            {
+              "key": "Commodity Price Risk Hedges",
+              "value": "Relates to purchase commitments and inventory hedges; includes monitoring amounts of purchase commitments and inventory."
+            },
+            {
+              "key": "Currency Risk Hedges",
+              "value": "Forward contracts to hedge foreign exchange cash flow variability on US$ revenue."
+            },
+            {
+              "key": "C$ and US$ Exchange Rate",
+              "value": "Mitigation strategies for the exposure to changing margins from fluctuations."
+            }
+          ],
+          "currency": "CAD"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 3,
+          "title": "Management Discussion and Analysis",
+          "data": [
+            {
+              "key": "MD&A Date",
+              "value": "March 16, 2023"
+            },
+            {
+              "key": "Fiscal Year End",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Currency",
+              "value": "Canadian dollars"
+            },
+            {
+              "key": "Risks and Uncertainties",
+              "value": "Risks related to processing volumes and sales growth, operating results, supply of coffee, utility supplies, commodity price risks, technology, competition, foreign exchange rates, interest rate risks, construction timing, inflation, costs and financing of capital projects, economic conditions."
+            },
+            {
+              "key": "Forward-Looking Statements Statements",
+              "value": "Expectations on future success, financial results, dividends, market opportunities, commodity pricing."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 34,
+          "title": "Management Discussion and Analysis Overview",
+          "data": [
+            {
+              "key": "Fiscal Year",
+              "value": "2022"
+            },
+            {
+              "key": "Net Income Risk Examples",
+              "value": "Estimated gain of $0.2 million from currency fluctuations"
+            },
+            {
+              "key": "Foreign Currency Contracts",
+              "value": "Buy US$7.1 million, Sell US$54.8 million"
+            },
+            {
+              "key": "Hedging Instruments",
+              "value": "Nil in forward contracts to buy US dollars"
+            },
+            {
+              "key": "CEO and CFO Assessment",
+              "value": "Effective internal control over financial reporting"
+            },
+            {
+              "key": "Evaluation Framework",
+              "value": "COSO 2013"
+            },
+            {
+              "key": "Disclosure Controls Effectiveness",
+              "value": "Effective as of December 31, 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 39,
+          "title": "Key audit matter: Application of hedge accounting for derivative financial instruments",
+          "data": [
+            {
+              "key": "Risk Management Objective and Strategy",
+              "value": "The Company uses derivative financial instruments and applies hedge accounting to manage and hedge commodity price risks and foreign currency risks."
+            },
+            {
+              "key": "Designated as Hedging Instruments",
+              "value": "Derivative financial instruments are designated as hedging instruments."
+            },
+            {
+              "key": "Change in Fair Value",
+              "value": "Changes in fair value of designated coffee inventory and hedged firm commitments are managed to cope with risk of commodity price changes."
+            },
+            {
+              "key": "Hedged Items",
+              "value": "Designated purchase commitments are hedged items in a fair value hedge relationship for foreign exchange changes."
+            },
+            {
+              "key": "Hedging Instruments Value",
+              "value": "Hedging instruments designated in a fair value relationship amounted to $3.3 million (derivative assets: $3.4 million, derivative liabilities: $0.1 million) as at December 31, 2022."
+            },
+            {
+              "key": "Hedge Relationship",
+              "value": "Gains/losses on the hedging instruments impact the consolidated statement of income."
+            },
+            {
+              "key": "Testing Procedures",
+              "value": "Procedures included assessing hedge documentation, testing operating effectiveness, evaluating hedge effectiveness, and confirming underlying hedging instruments."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 41,
+          "title": "Responsibilities of management and those charged with governance for the consolidated financial statements",
+          "data": [
+            {
+              "key": "responsibility",
+              "value": "Management is responsible for the preparation and fair presentation of the consolidated financial statements in accordance with IFRS."
+            },
+            {
+              "key": "internal_control",
+              "value": "Management is responsible for internal control to enable preparation of financial statements free from material misstatement."
+            },
+            {
+              "key": "going_concern",
+              "value": "Management must assess the Company’s ability to continue as a going concern."
+            },
+            {
+              "key": "auditor_objective",
+              "value": "To obtain reasonable assurance about whether the financial statements are free from material misstatement."
+            },
+            {
+              "key": "audit_risks",
+              "value": "Identify and assess risks of material misstatement, design audit procedures responsive to those risks."
+            },
+            {
+              "key": "professional_judgment",
+              "value": "Exercise professional judgment and maintain professional skepticism during the audit."
+            },
+            {
+              "key": "internal_control_evaluation",
+              "value": "Understand internal control relevant to the audit but not express an opinion on its effectiveness."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 42,
+          "title": "Going Concern Assessment and Audit Opinion",
+          "data": [
+            {
+              "key": "Going Concern",
+              "value": "Management's use of the going concern basis of accounting."
+            },
+            {
+              "key": "Material Uncertainty",
+              "value": "Existence of any material uncertainty related to events affecting going concern."
+            },
+            {
+              "key": "Audit Evidence",
+              "value": "Conclusion based on audit evidence obtained."
+            },
+            {
+              "key": "Presentation of Financial Statements",
+              "value": "Evaluation of overall presentation, structure and content."
+            },
+            {
+              "key": "Governance Communication",
+              "value": "Communication with those charged with governance."
+            },
+            {
+              "key": "Key Audit Matters",
+              "value": "Determination of significant matters in the audit."
+            },
+            {
+              "key": "Engagement Partner",
+              "value": "Robert Coard"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 48,
+          "title": "New and amended standards adopted by the Company",
+          "data": [
+            {
+              "key": "IFRS 1 amendment",
+              "value": "Allows a subsidiary adopting IFRS later than its parent to measure cumulative translation differences using amounts reported by the parent."
+            },
+            {
+              "key": "IFRS 3 amendments",
+              "value": "Replaced references to the 2001 Conceptual Framework; added exceptions for certain liabilities."
+            },
+            {
+              "key": "IFRS 9 amendment",
+              "value": "Addresses which fees should be included in the 10% test for derecognition of financial liability."
+            },
+            {
+              "key": "IFRS 16 amendment",
+              "value": "Removed illustration of payments from lessor related to leasehold improvements."
+            },
+            {
+              "key": "IAS 16 amendments",
+              "value": "Prohibits deducting proceeds from selling items while preparing asset for intended use."
+            },
+            {
+              "key": "IAS 37 amendments",
+              "value": "Clarifies costs to fulfil a contract and impairment recognition."
+            },
+            {
+              "key": "Accounting standards effective after Jan 1, 2023",
+              "value": "No anticipated material impact; includes amendments to IFRS 1, IAS 1, IAS 8, IAS 12."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 51,
+          "title": "Asset Useful Life Schedule",
+          "data": [
+            {
+              "key": "Asset Type",
+              "value": "Production machinery and equipment"
+            },
+            {
+              "key": "Useful Life",
+              "value": "35 years"
+            },
+            {
+              "key": "Asset Type",
+              "value": "Machinery & equipment"
+            },
+            {
+              "key": "Useful Life",
+              "value": "years"
+            },
+            {
+              "key": "Asset Type",
+              "value": "Computer equipment"
+            },
+            {
+              "key": "Useful Life",
+              "value": "years"
+            },
+            {
+              "key": "Asset Type",
+              "value": "Furniture and fixtures"
+            },
+            {
+              "key": "Useful Life",
+              "value": "years"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 52,
+          "title": "SWISS WATER DECAFFEINATED COFFEE INC. Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Financial year ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Measurement category for financial assets",
+              "value": "Fair value through profit and loss"
+            },
+            {
+              "key": "Classification of financial assets",
+              "value": "Measured at fair value or amortized cost"
+            },
+            {
+              "key": "Fair value classification for cash",
+              "value": "Recorded through interest income"
+            },
+            {
+              "key": "Classification for accounts receivable",
+              "value": "Measured at amortized cost"
+            },
+            {
+              "key": "Financial liabilities classification",
+              "value": "Measured at amortized cost"
+            },
+            {
+              "key": "Adoption of hedge accounting implications",
+              "value": "Gains/losses on risk management activities and on hedged items"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 63,
+          "title": "Income taxes and leasing provisions estimates",
+          "data": [
+            {
+              "key": "Provision recognition basis",
+              "value": "Best estimate of the consideration required to settle present obligation"
+            },
+            {
+              "key": "Income tax computation method",
+              "value": "Liability method for deferred income taxes"
+            },
+            {
+              "key": "Leases classification assumption",
+              "value": "Operating and finance leases classification based on management estimates"
+            },
+            {
+              "key": "Impact of management estimates",
+              "value": "Carrying amounts of assets and deferred tax assets and liabilities"
+            },
+            {
+              "key": "Interest rate estimation for debentures",
+              "value": "Management estimates fair value based on similar instruments without warrants"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 80,
+          "title": "Tax Reconciliation Statement",
+          "data": [
+            {
+              "key": "Income before tax (2022)",
+              "value": "$3,206"
+            },
+            {
+              "key": "Income before tax (2021)",
+              "value": "$1,005"
+            },
+            {
+              "key": "Income tax calculated at applicable tax rates (2022)",
+              "value": "$866"
+            },
+            {
+              "key": "Income tax calculated at applicable tax rates (2021)",
+              "value": "$271"
+            },
+            {
+              "key": "Non-deductible expenses (2022)",
+              "value": "-$43"
+            },
+            {
+              "key": "Non-deductible expenses (2021)",
+              "value": "$247"
+            },
+            {
+              "key": "Income tax expense (2022)",
+              "value": "$819"
+            },
+            {
+              "key": "Income tax expense (2021)",
+              "value": "$509"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 80,
+          "title": "Balance Sheet Movements 2021-2022",
+          "data": [
+            {
+              "key": "Balance at January 1, 2021 - goodwill and intangibles",
+              "value": "$684"
+            },
+            {
+              "key": "Balance at January 1, 2021 - financing property",
+              "value": "-$16,709"
+            },
+            {
+              "key": "Balance at January 1, 2021 - plant and equipment",
+              "value": "$111"
+            },
+            {
+              "key": "Balance at January 1, 2021 - lease liability",
+              "value": "$382"
+            },
+            {
+              "key": "Balance at January 1, 2021 - share-based compensation",
+              "value": "$200"
+            },
+            {
+              "key": "Balance at January 1, 2021 - derivatives liability",
+              "value": "-$751"
+            },
+            {
+              "key": "Balance at January 1, 2021 - tax losses",
+              "value": "$5,692"
+            },
+            {
+              "key": "Balance at December 31, 2022 - goodwill and intangibles",
+              "value": "$703"
+            },
+            {
+              "key": "Balance at December 31, 2022 - financing property",
+              "value": "-$18,623"
+            },
+            {
+              "key": "Balance at December 31, 2022 - tax losses",
+              "value": "$5,343"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 80,
+          "title": "Other liabilities comparison",
+          "data": [
+            {
+              "key": "Other liabilities current (2022)",
+              "value": "$554"
+            },
+            {
+              "key": "Other liabilities current (2021)",
+              "value": "$426"
+            },
+            {
+              "key": "Other liabilities non-current (2022)",
+              "value": "$208"
+            },
+            {
+              "key": "Other liabilities non-current (2021)",
+              "value": "$146"
+            },
+            {
+              "key": "Total liabilities (2022)",
+              "value": "$762"
+            },
+            {
+              "key": "Total liabilities (2021)",
+              "value": "$572"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 93,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Hedging instruments designated as of December 31, 2022",
+              "value": "nil in forward contracts to buy US dollars"
+            },
+            {
+              "key": "Nominal amount of hedging instruments (2021)",
+              "value": "US$1,048,000"
+            },
+            {
+              "key": "Derivative Assets (2021)",
+              "value": "17"
+            },
+            {
+              "key": "Liabilities (2021)",
+              "value": "28"
+            },
+            {
+              "key": "Revenues from three major customers (2022)",
+              "value": "$56.6 million"
+            },
+            {
+              "key": "Percentage of total revenues from three major customers (2022)",
+              "value": "32%"
+            },
+            {
+              "key": "Percentage of total accounts receivable from three major customers (2022)",
+              "value": "50%"
+            },
+            {
+              "key": "Interest rate risk impact on income with 1% increase in Canadian Prime Rate",
+              "value": "$0.5 million decrease to income before taxes"
+            }
+          ],
+          "currency": "CAD"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 31,
+          "title": "Changes in Accounting Standards",
+          "data": [
+            {
+              "key": "Amendments to IFRS 1",
+              "value": "Exemption for subsidiary adopting IFRS after parent to measure cumulative translation differences using parent’s transition amounts."
+            },
+            {
+              "key": "Amendments to IFRS 3",
+              "value": "References updated to 2018 Conceptual Framework for Financial Reporting, new exception for certain liabilities."
+            },
+            {
+              "key": "Amendments to IFRS 9",
+              "value": "Clarification on fees included in the 10% test for derecognition of financial liability."
+            },
+            {
+              "key": "Amendments to IFRS 16",
+              "value": "Removed illustrative example regarding leasehold improvements."
+            },
+            {
+              "key": "Amendments to IAS 16",
+              "value": "Prohibits deduction of proceeds from selling items produced while preparing asset for intended use."
+            },
+            {
+              "key": "Amendments to IAS 37",
+              "value": "Clarification on costs to fulfil a contract and impairment losses on assets used for contract fulfillment."
+            },
+            {
+              "key": "Future standards after Jan 1, 2023",
+              "value": "No material impact anticipated from amendments to IFRS 1, IAS 1, and IAS 8."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 422,
+    "EUR": 9,
+    "AUD": 75,
+    "CAD": 58,
+    "ZAR": 1
+  },
+  "sha1": "d86be8a2fa1aab721d7de6de7fd4f5267c914cb2"
+}

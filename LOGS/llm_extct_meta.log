@@ -1,0 +1,11 @@
+2025-03-05 18:47:23,663 - INFO - Batch job dummy_batch_id status: completed
+2025-03-05 18:47:23,664 - INFO - Batch job completed, downloading results
+2025-03-05 18:47:23,664 - INFO - Results for dummy.pdf saved in /var/folders/4x/bdr52w7s5r9b7h4p4ch3nnkc0000gn/T/tmpmfwrfnp6/dummy_metadata.json
+2025-03-05 18:47:23,664 - INFO - Batch info removed
+2025-03-05 18:47:23,664 - INFO - Preparing batch file for PDF documents
+2025-03-05 18:47:23,664 - INFO - Preparing context for 2 pages
+2025-03-05 18:47:23,665 - INFO - Batch file created: batch_requests.jsonl with 2 requests
+2025-03-05 18:47:23,665 - INFO - Preparing context for 2 pages
+2025-03-05 18:47:23,665 - INFO - Submitting batch job to OpenAI API
+2025-03-05 18:47:23,666 - INFO - Batch job created: dummy_batch_id
+2025-03-05 18:47:23,666 - INFO - Batch info saved to /var/folders/4x/bdr52w7s5r9b7h4p4ch3nnkc0000gn/T/tmpslmngfey/batch_info.json

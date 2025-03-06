@@ -1,0 +1,4486 @@
+{
+  "letters": 337638,
+  "pages": 94,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "NextNav Inc.",
+    "major_industry": "Technology",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Company Registration and Contact Information",
+          "data": [
+            {
+              "key": "State or other jurisdiction of incorporation or organization",
+              "value": "Delaware"
+            },
+            {
+              "key": "LR.S. Employer Identification No.",
+              "value": "87-0854654"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Security Listing Information",
+          "data": [
+            {
+              "key": "Security",
+              "value": "Common Stock, $0.0001 par value"
+            },
+            {
+              "key": "Symbol",
+              "value": "NN"
+            },
+            {
+              "key": "Exchange",
+              "value": "The Nasdaq Capital Market"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 2,
+          "title": "Company Filing Categories and Regulatory Requirements",
+          "data": [
+            {
+              "key": "Large accelerated filer",
+              "value": "Smaller reporting company"
+            },
+            {
+              "key": "Accelerated filer",
+              "value": "Emerging growth company"
+            },
+            {
+              "key": "Non-accelerated filer",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 8,
+          "title": "Acquisition of Nestwave, SAS",
+          "data": [
+            {
+              "key": "Acquired Company",
+              "value": "Nestwave, SAS"
+            },
+            {
+              "key": "Location",
+              "value": "Neuilly-sur-Seine, France"
+            },
+            {
+              "key": "Enterprise Value",
+              "value": "$18.0 million"
+            },
+            {
+              "key": "Gross Consideration Value",
+              "value": "$19.3 million"
+            },
+            {
+              "key": "Cash Component",
+              "value": "$4.3 million"
+            },
+            {
+              "key": "Common Stock Component",
+              "value": "$15.0 million"
+            },
+            {
+              "key": "Shares Issued at Close",
+              "value": "4.0 million"
+            },
+            {
+              "key": "Additional Shares upon Options",
+              "value": "up to 1.1 million"
+            },
+            {
+              "key": "Lock-up Expiration",
+              "value": "First anniversary of transaction close"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 21,
+          "title": "Business Combination Details",
+          "data": [
+            {
+              "key": "Closing Date",
+              "value": "October 28, 2021"
+            },
+            {
+              "key": "Agreement Date",
+              "value": "June 9, 2021"
+            },
+            {
+              "key": "Parties Involved",
+              "value": "Spartacus Acquisition Corporation, NextNav Holdings, LLC"
+            },
+            {
+              "key": "New Company Name",
+              "value": "NextNav Inc."
+            },
+            {
+              "key": "Nasdaq Ticker Symbol for Common Stock",
+              "value": "NN"
+            },
+            {
+              "key": "Nasdaq Ticker Symbol for Warrants",
+              "value": "NNAVW"
+            },
+            {
+              "key": "Incorporation Date",
+              "value": "May 2021"
+            },
+            {
+              "key": "Original Company Name",
+              "value": "Spartacus Acquisition Shelf Corp."
+            },
+            {
+              "key": "Corporate Headquarters Address",
+              "value": "1775 Tysons Blvd., 5th Floor, McLean, VA 22102"
+            },
+            {
+              "key": "Contact Number",
+              "value": "(800) 775-0982"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 30,
+          "title": "Impact of inflation and supply chain pressure on business operations",
+          "data": [
+            {
+              "key": "impact",
+              "value": "Our results could be adversely impacted as a result of increased inflation and supply chain pressure impacting expenses and availability of resources."
+            },
+            {
+              "key": "business_expansion",
+              "value": "Current business plans call for substantial expansion of employee base."
+            },
+            {
+              "key": "labor_market",
+              "value": "Inflation and shortages in labor market could increase labor costs or delay hiring."
+            },
+            {
+              "key": "services_cost",
+              "value": "Inflation and supply chain pressure may affect availability and cost of services and equipment."
+            },
+            {
+              "key": "vendor_cost_pass_through",
+              "value": "Due to competitive nature, we may not pass on vendor cost increases to customers."
+            },
+            {
+              "key": "geopolitical_risks",
+              "value": "Military action in Ukraine may increase risks from supply chain, cybersecurity, and foreign currency fluctuations."
+            },
+            {
+              "key": "covid_impact",
+              "value": "Ongoing COVID-19 pandemic has material adverse impacts on business operations."
+            },
+            {
+              "key": "financial_uncertainty",
+              "value": "Continued unpredictability from COVID-19 may create volatility and disruption."
+            },
+            {
+              "key": "acquisition_strategy",
+              "value": "We expect to acquire other businesses in the future, which may disrupt business and require significant resources."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 31,
+          "title": "Strategic Transactions Risks",
+          "data": [
+            {
+              "key": "Transaction Types",
+              "value": "Mergers, Acquisitions, Divestitures"
+            },
+            {
+              "key": "Risks",
+              "value": "Significant risks and uncertainties affecting business and financial aspects."
+            },
+            {
+              "key": "Integration Challenges",
+              "value": "Difficulty in integrating newly merged or acquired businesses including product combinations."
+            },
+            {
+              "key": "Cultural Differences",
+              "value": "Differences in corporate cultures delaying successful integration."
+            },
+            {
+              "key": "IT Infrastructure",
+              "value": "Challenges in consolidating IT infrastructure from various mergers and acquisitions."
+            },
+            {
+              "key": "Market Evolution",
+              "value": "Risk that markets do not evolve as anticipated affecting transaction success."
+            },
+            {
+              "key": "Indemnification Risks",
+              "value": "Potential significant liabilities exceeding indemnification provisions."
+            },
+            {
+              "key": "Tax Treatment Risks",
+              "value": "Risk that transactions fail to qualify for intended tax treatment."
+            },
+            {
+              "key": "Divestiture Terms",
+              "value": "Inability to complete divestitures on satisfactory terms."
+            },
+            {
+              "key": "Employee and Customer Retention",
+              "value": "Potential loss of key employees or customers."
+            },
+            {
+              "key": "Management Focus",
+              "value": "Risk of diverting senior management attention from existing operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 42,
+          "title": "Business Combination Details",
+          "data": [
+            {
+              "key": "Closing Date",
+              "value": "October 28, 2021"
+            },
+            {
+              "key": "New Name",
+              "value": "NextNav Inc."
+            },
+            {
+              "key": "Nasdaq Ticker Symbols",
+              "value": "NN and NNAVW"
+            },
+            {
+              "key": "Description",
+              "value": "Consummation of a Business Combination according to the Merger Agreement."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 54,
+          "title": "Consolidated Financial Statements and Exhibits",
+          "data": [
+            {
+              "key": "Exhibit Number",
+              "value": "2.1"
+            },
+            {
+              "key": "Description",
+              "value": "Agreement and Plan of Merger, dated June 9, 2021, by and among Spartacus Acquisition Corporation, Spartacus Acquisition Shelf Corp., NextNav, LLC, NextNav Holdings, LLC, NEA 14 NextNav Blocker, LLC, Oak NextNav Blocker, LLC, Columbia Progeny Partners IV, Inc., Global Long Short Partners Aggregating Holdings Del VII LLC, Global Private Opportunities Partners Holdings II Corp., SASC (SPAC) Merger Sub | Corporation, SASC (Target) Merger Sub 2 LLC, SASC (NB) Merger Sub 3 LLC, SASC (OB) Merger Sub 4 LLC, SASC (CB) Merger Sub 5 Corporation, SASC (GB1) Merger Sub 6 LLC, and SASC (GB2) Merger Sub 7 Corporation, a Delaware corporation (incorporated by reference to Exhibit 2.1 to the Current Report on Form 8-K filed by Spartacus Acquisition Shelf Corporation on June 10, 2021)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 64,
+          "title": "NextNav Inc. Business Combination and Financial Overview",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "NextNav Inc."
+            },
+            {
+              "key": "Business Combination Date",
+              "value": "October 28, 2021"
+            },
+            {
+              "key": "Previous Company Name",
+              "value": "Spartacus Acquisition Shelf Corp."
+            },
+            {
+              "key": "Acquirer",
+              "value": "Spartacus Acquisition Corporation"
+            },
+            {
+              "key": "Accounting Acquirer",
+              "value": "NextNav Holdings, LLC"
+            },
+            {
+              "key": "Financial Reporting Method",
+              "value": "Reverse Recapitalization"
+            },
+            {
+              "key": "Net Loss 2021",
+              "value": "$144.7 million"
+            },
+            {
+              "key": "Net Loss 2022",
+              "value": "$40.1 million"
+            },
+            {
+              "key": "Cash and Cash Equivalents as of December 31, 2022",
+              "value": "$55.4 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 68,
+          "title": "Acquisitions",
+          "data": [
+            {
+              "key": "Acquisition Method",
+              "value": "The Company accounts for its acquisitions using the acquisition method of accounting."
+            },
+            {
+              "key": "Fair Value Measurement",
+              "value": "The purchase price is attributed to the fair value of the assets acquired and liabilities assumed."
+            },
+            {
+              "key": "Transaction Costs",
+              "value": "Transaction costs directly attributable to the acquisition are expensed as incurred."
+            },
+            {
+              "key": "Goodwill",
+              "value": "The excess of the purchase price of acquisition over the fair value of the identifiable net assets of the acquiree is recorded as goodwill."
+            },
+            {
+              "key": "Consolidation",
+              "value": "The results of businesses acquired are included in the Company’s consolidated financial statements from the date of acquisition."
+            },
+            {
+              "key": "Stock-based Awards Evaluation",
+              "value": "When the Company issues stock-based or cash awards to an acquired company’s shareholders, the Company evaluates whether the awards are consideration or compensation for post-acquisition services."
+            },
+            {
+              "key": "Judgment and Estimates",
+              "value": "Determining the fair value of assets acquired and liabilities assumed requires management to use significant judgment and estimates."
+            },
+            {
+              "key": "Measurement Period",
+              "value": "During the measurement period, which may be up to one year from the acquisition date, the Company may record adjustments to the fair value of these tangible and intangible assets acquired and liabilities assumed."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 72,
+          "title": "Notes to Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Income Taxes",
+              "value": "Income taxes are accounted for using the asset and liability method. Deferred income taxes are provided for temporary differences in recognizing certain income, expense and credit items for financial reporting purposes and tax reporting purposes."
+            },
+            {
+              "key": "Deferred Tax Assets and Liabilities",
+              "value": "Measured by applying enacted statutory tax rates applicable to the future years."
+            },
+            {
+              "key": "Valuation Allowance",
+              "value": "Recorded when it is determined that it is more-likely-than-not that some portion or all of its deferred tax assets will not be realized."
+            },
+            {
+              "key": "Foreign Currency Translation",
+              "value": "The functional currency of NextNav's foreign subsidiaries is generally the local currency."
+            },
+            {
+              "key": "Operating Segment",
+              "value": "NextNav operates as one operating segment with its Chief Executive Officer making operating decisions."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 73,
+          "title": "Adopted Accounting Pronouncements",
+          "data": [
+            {
+              "key": "Introduction of ASU 2016-02",
+              "value": "Leases (Topic 842) requires lessees to recognize lease assets and lease liabilities on the Consolidated Balance Sheet"
+            },
+            {
+              "key": "Recognition of Lease Liability",
+              "value": "A liability to make lease payments and a right-of-use asset for the lease term"
+            },
+            {
+              "key": "Cumulative Effect Adjustment",
+              "value": "Cumulative effect adjustment recorded to retained earnings of $0.5 million as of January 1, 2022"
+            },
+            {
+              "key": "Total Operating Lease Right-of-Use Assets and Liabilities",
+              "value": "$13.4 million assets and $10.5 million liabilities recognized"
+            },
+            {
+              "key": "Impact on Financial Statements",
+              "value": "Did not have a significant effect on the Condensed Consolidated Statements of Comprehensive Loss and Cash Flows"
+            },
+            {
+              "key": "Adoption of ASU 2019-12",
+              "value": "Simplifying the Accounting for Income Taxes, effective for fiscal year starting January 1, 2022"
+            },
+            {
+              "key": "Business Combinations ASU 2021-08",
+              "value": "Requires recognition of contract assets and liabilities in accordance with Topic 606"
+            },
+            {
+              "key": "Future Impacts of ASU 2016-13",
+              "value": "Expected to be immaterial impact on financial statements starting January 1, 2023"
+            },
+            {
+              "key": "Management's Assessment",
+              "value": "No other issued accounting standards expected to have a material effect."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 74,
+          "title": "Acquisition of Nestwave",
+          "data": [
+            {
+              "key": "Acquisition Date",
+              "value": "October 31, 2022"
+            },
+            {
+              "key": "Target Company",
+              "value": "Nestwave"
+            },
+            {
+              "key": "Purchase Price",
+              "value": "$21.6 million"
+            },
+            {
+              "key": "Cash Paid Upfront",
+              "value": "$3.2 million"
+            },
+            {
+              "key": "Shares Issued",
+              "value": "5,170,495 shares valued at $17.7 million"
+            },
+            {
+              "key": "Contingent Consideration",
+              "value": "Up to $0.3 million"
+            },
+            {
+              "key": "Acquisition Related Costs",
+              "value": "$0.9 million"
+            },
+            {
+              "key": "Goodwill",
+              "value": "$16,317"
+            },
+            {
+              "key": "Total Assets Acquired",
+              "value": "$22,974"
+            },
+            {
+              "key": "Total Liabilities Assumed",
+              "value": "$1,261"
+            },
+            {
+              "key": "Net Assets Acquired",
+              "value": "$21,713"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 76,
+          "title": "Definite-Lived Intangible Assets",
+          "data": [
+            {
+              "key": "Acquired Software",
+              "value": "Gross Amount: 1,484, Accumulated Amortization: 1,484, Value: 0"
+            },
+            {
+              "key": "Internal Use Software",
+              "value": "Gross Amount: 948, Accumulated Amortization: 320, Value: 628"
+            },
+            {
+              "key": "Total Gross Amount for all Intangible assets",
+              "value": "3,467"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 76,
+          "title": "Future Amortization",
+          "data": [
+            {
+              "key": "2023",
+              "value": "887"
+            },
+            {
+              "key": "2024",
+              "value": "887"
+            },
+            {
+              "key": "2025",
+              "value": "681"
+            },
+            {
+              "key": "2026",
+              "value": "506"
+            },
+            {
+              "key": "2027 and thereafter",
+              "value": "3,969"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 76,
+          "title": "Lease Cost Analysis - Year Ended December 31, 2022",
+          "data": [
+            {
+              "key": "Operating lease cost",
+              "value": "4,126"
+            },
+            {
+              "key": "Variable lease cost",
+              "value": "107"
+            },
+            {
+              "key": "Short-term lease cost",
+              "value": "232"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 76,
+          "title": "Operating cash flows from operating leases",
+          "data": [
+            {
+              "key": "Operating cash flows amount",
+              "value": "3,899"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "Regional Financial Comparison (in thousands) for December 31, 2022 and 2021",
+          "data": [
+            {
+              "key": "region",
+              "value": "United States"
+            },
+            {
+              "key": "2022",
+              "value": "(40,012)"
+            },
+            {
+              "key": "2021",
+              "value": "(144,811)"
+            },
+            {
+              "key": "region",
+              "value": "Foreign"
+            },
+            {
+              "key": "2022",
+              "value": "(132)"
+            },
+            {
+              "key": "2021",
+              "value": "197"
+            },
+            {
+              "key": "region",
+              "value": "Total"
+            },
+            {
+              "key": "2022",
+              "value": "(40,144)"
+            },
+            {
+              "key": "2021",
+              "value": "(144,614)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "Benefit for Income Taxes",
+          "data": [
+            {
+              "key": "category",
+              "value": "(Provision) taxes:"
+            },
+            {
+              "key": "value_2022",
+              "value": ""
+            },
+            {
+              "key": "value_2021",
+              "value": ""
+            },
+            {
+              "key": "category",
+              "value": "Trent: deral"
+            },
+            {
+              "key": "value_2022",
+              "value": ""
+            },
+            {
+              "key": "value_2021",
+              "value": ""
+            },
+            {
+              "key": "category",
+              "value": "ate reign"
+            },
+            {
+              "key": "value_2022",
+              "value": "-90"
+            },
+            {
+              "key": "value_2021",
+              "value": "-52"
+            },
+            {
+              "key": "category",
+              "value": "otal current"
+            },
+            {
+              "key": "value_2022",
+              "value": "-91"
+            },
+            {
+              "key": "value_2021",
+              "value": "-52"
+            },
+            {
+              "key": "category",
+              "value": "ferred:"
+            },
+            {
+              "key": "value_2022",
+              "value": ""
+            },
+            {
+              "key": "value_2021",
+              "value": ""
+            },
+            {
+              "key": "category",
+              "value": "deral"
+            },
+            {
+              "key": "value_2022",
+              "value": ""
+            },
+            {
+              "key": "value_2021",
+              "value": ""
+            },
+            {
+              "key": "category",
+              "value": "ate"
+            },
+            {
+              "key": "value_2022",
+              "value": ""
+            },
+            {
+              "key": "value_2021",
+              "value": ""
+            },
+            {
+              "key": "category",
+              "value": "reign"
+            },
+            {
+              "key": "value_2022",
+              "value": "119"
+            },
+            {
+              "key": "value_2021",
+              "value": ""
+            },
+            {
+              "key": "category",
+              "value": "otal deferred"
+            },
+            {
+              "key": "value_2022",
+              "value": "119"
+            },
+            {
+              "key": "value_2021",
+              "value": ""
+            },
+            {
+              "key": "category",
+              "value": "vision (benefit) for income taxes:"
+            },
+            {
+              "key": "value_2022",
+              "value": ""
+            },
+            {
+              "key": "value_2021",
+              "value": ""
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "NextNav Inc. Annual Report on Form 10-K",
+          "data": [
+            {
+              "key": "Summary",
+              "value": "This table represents a detailed table of contents from what appears to be a financial report or regulatory filing, likely a Form 10-K or similar document. The document is organized into multiple parts (I, II, and IV) and contains 16 main items covering various aspects of business operations, financial statements, and corporate governance. The document spans from page iii to page 49, with key sections including risk factors, financial condition analysis, executive compensation, and financial statements. Part II notably contains several items all referenced on page 47, suggesting this section focuses on corporate governance and management matters."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 56,
+          "title": "Item 16. Form 10-K Summary",
+          "data": [
+            {
+              "key": "Filed previously",
+              "value": "Furnished herewith."
+            },
+            {
+              "key": "Omitted Schedules/Exhibits",
+              "value": "Certain schedules and exhibits have been omitted pursuant to Rule 601(a)(5) of Regulation S-K under the Securities Act."
+            },
+            {
+              "key": "Confidential Portions",
+              "value": "Certain confidential portions of the agreement were omitted by means of marking such portions with brackets."
+            },
+            {
+              "key": "Management Plan Indicator",
+              "value": "Indicates a management or compensatory plan."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 57,
+          "title": "Signatures Page",
+          "data": [
+            {
+              "key": "Signature",
+              "value": "/s/ Ganesh Pattabiraman"
+            },
+            {
+              "key": "Capacity",
+              "value": "President, Chief Executive Officer and Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 30, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "Ganesh Pattabiraman"
+            },
+            {
+              "key": "Capacity",
+              "value": "(Principal Executive Officer)"
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Signature",
+              "value": "/s/ Christian D. Gates"
+            },
+            {
+              "key": "Capacity",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Date",
+              "value": "March 30, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "Christian D. Gates"
+            },
+            {
+              "key": "Capacity",
+              "value": "(Principal Financial Officer)"
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Signature",
+              "value": "/s/ Sammaad R. Shams"
+            },
+            {
+              "key": "Capacity",
+              "value": "Corporate Accounting Officer"
+            },
+            {
+              "key": "Date",
+              "value": "March 30, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": ""
+            },
+            {
+              "key": "Capacity",
+              "value": "(Principal Accounting Officer)"
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Signature",
+              "value": "/s/ Gary M. Parsons"
+            },
+            {
+              "key": "Capacity",
+              "value": "Chairman and Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 30, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "Gary M. Parsons"
+            },
+            {
+              "key": "Capacity",
+              "value": ""
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Signature",
+              "value": "/s/ Peter D. Aquino"
+            },
+            {
+              "key": "Capacity",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 30, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "Neil S. Subin"
+            },
+            {
+              "key": "Capacity",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 30, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "Bandel L. Carano"
+            },
+            {
+              "key": "Capacity",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 30, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "James B. Fleming"
+            },
+            {
+              "key": "Capacity",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 30, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "/s/ Alan B. Howe"
+            },
+            {
+              "key": "Capacity",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 30, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 89,
+          "title": "NEXTNAV INC. LIST OF SUBSIDIARIES",
+          "data": [
+            {
+              "key": "Number of Subsidiaries",
+              "value": "12"
+            },
+            {
+              "key": "Incorporation in Delaware",
+              "value": "11 out of 12 subsidiaries"
+            },
+            {
+              "key": "Incorporation in Bangalore",
+              "value": "1 subsidiary (Commlabs Technology Centre Private Limited)"
+            },
+            {
+              "key": "Notable Observations",
+              "value": "The majority of subsidiaries appear to be part of the NextNav group of companies."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 91,
+          "title": "Certification of Principal Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Ganesh Pattabiraman"
+            },
+            {
+              "key": "Title",
+              "value": "President and Chief Executive Officer"
+            },
+            {
+              "key": "Date",
+              "value": "March 30, 2023"
+            },
+            {
+              "key": "Certification",
+              "value": "I certify that: I have reviewed this annual report on Form 10-K of NextNav Inc.; This report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made..."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 11,
+          "title": "Mobile Ad Spending Forecast 2022 - 2026",
+          "data": [
+            {
+              "key": "2022",
+              "value": "170"
+            },
+            {
+              "key": "2023",
+              "value": "195"
+            },
+            {
+              "key": "2024",
+              "value": "216"
+            },
+            {
+              "key": "2025",
+              "value": "236"
+            },
+            {
+              "key": "2026",
+              "value": "257"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 11,
+          "title": "Overview of Mobile Advertising and Applications",
+          "data": [
+            {
+              "key": "increase_in_mobile_ad_spend",
+              "value": "87"
+            },
+            {
+              "key": "average_annual_growth_rate",
+              "value": "21.75"
+            },
+            {
+              "key": "total_addressable_market_value_location_enabled_data",
+              "value": "$6 billion"
+            },
+            {
+              "key": "mCommerce_us_expected_revenue_2025",
+              "value": "$700 billion"
+            },
+            {
+              "key": "total_addressable_market_for_mass_market_segment",
+              "value": "$24 billion"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 16,
+          "title": "TerraPoiNT System Design and Network Operations",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "The TerraPoiNT signal will evolve to be compatible with standard LTE/5G receivers."
+            },
+            {
+              "key": "Signal Expansion",
+              "value": "The system aims to increase spectral efficiency and data transmission capacity."
+            },
+            {
+              "key": "Privacy Principles",
+              "value": "Emphasizes transparency, control, security, compliance, and consent in data management."
+            },
+            {
+              "key": "Manufacturing",
+              "value": "Services are provided through domestically manufactured equipment."
+            },
+            {
+              "key": "Network Operations",
+              "value": "Managed through two separate networks with a partnership with AT&T."
+            },
+            {
+              "key": "Capital Expenditure",
+              "value": "Expected to be significantly lower than historical network architecture."
+            },
+            {
+              "key": "Ongoing Maintenance",
+              "value": "Minimal ongoing maintenance capital expenditures anticipated."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 50,
+          "title": "Stock-Based Compensation",
+          "data": [
+            {
+              "key": "Fair Value Determination",
+              "value": "The fair value of stock-based awards is estimated on the date of grant using the Black-Scholes option pricing model for stock options and the closing price for restricted stock awards."
+            },
+            {
+              "key": "Amortization of Awards",
+              "value": "The fair value of awards is amortized over the requisite service periods."
+            },
+            {
+              "key": "Assumptions for Valuation",
+              "value": "Estimates for fair value include stock price, risk-free rate, volatility, dividend yield, and expected term."
+            },
+            {
+              "key": "Tax Treatment",
+              "value": "Deferred tax assets and liabilities are recognized for future tax consequences."
+            },
+            {
+              "key": "Emerging Growth Company Status",
+              "value": "The company is exempt from new or revised financial standards until a certain threshold is met."
+            },
+            {
+              "key": "Market Risk Exposure",
+              "value": "The company had cash and cash equivalents of $55.4 million as of December 31, 2022, with exposure to interest rate fluctuations."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Executive Compensation and Governance Review",
+          "data": [
+            {
+              "key": "Disclosure Requirement",
+              "value": "Information will be provided in the 2023 Proxy Statement filed with the SEC."
+            },
+            {
+              "key": "Code of Conduct Overview",
+              "value": "Covers ethical and compliance-related principles for directors, officers, and employees."
+            },
+            {
+              "key": "Procedures Covered",
+              "value": "Includes standards for honest conduct, avoiding conflicts of interest, reporting violations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 81,
+          "title": "Historical Summary of Class C and D Redeemable Preferred Units",
+          "data": [
+            {
+              "key": "Cumulative Preferred Return Class C",
+              "value": "8% annual rate, undeclared returns of $6.0 million as of December 31, 2020."
+            },
+            {
+              "key": "Cumulative Preferred Return Class D",
+              "value": "10% annual rate, undeclared returns of $146.2 million as of December 31, 2020."
+            },
+            {
+              "key": "Conversion Ratio",
+              "value": "One Preferred Unit for one Class A Common Unit, subject to adjustments."
+            },
+            {
+              "key": "Voting Rights",
+              "value": "Holders entitled to votes equal to common units based on conversion."
+            },
+            {
+              "key": "Redemption Price Class C",
+              "value": "$0.44 per unit plus accrued and unpaid preferred return."
+            },
+            {
+              "key": "Redemption Price Class D",
+              "value": "Varied by issuance year, starting at $2.13 to $11.56 for different years."
+            },
+            {
+              "key": "Conversion Outcome",
+              "value": "Converted into 5,365,566 and 42,286,068 shares of common stock of NextNav."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 82,
+          "title": "Equity-Based Compensation Holdings Unit Option and Profit Interest Plan",
+          "data": [
+            {
+              "key": "Equity Compensation Plan",
+              "value": "Holdings maintained an equity-based compensation plan known as the Incentive Plan."
+            },
+            {
+              "key": "Incentive Plan Launch Years",
+              "value": "2011, amended in 2020 and 2021"
+            },
+            {
+              "key": "Types of Equity Instruments",
+              "value": "1. Unit Options, 2. Profit Interests, 3. Series B-4 Units Restricted Units"
+            },
+            {
+              "key": "Total Common Units Authorized",
+              "value": "21.4 million"
+            },
+            {
+              "key": "Outstanding Exchanged Options",
+              "value": "1,968,861 shares of common stock of NextNav"
+            },
+            {
+              "key": "NextNav 2021 Omnibus Incentive Plan Adoption Date",
+              "value": "October 2021"
+            },
+            {
+              "key": "Shares Approved for Issuance Under Omnibus Plan",
+              "value": "12,818,902 shares"
+            },
+            {
+              "key": "Annual Increase Limit in Shares Available",
+              "value": "5,636,259 shares or a lesser amount determined by the Board of Directors"
+            },
+            {
+              "key": "Vesting Period of Awards",
+              "value": "Generally ratably over a four-year period"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 83,
+          "title": "Financial Metrics Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Expected volatility",
+              "value": "52.9% (2022) / 51.21% (2021)"
+            },
+            {
+              "key": "Expected term (years)",
+              "value": "6.25"
+            },
+            {
+              "key": "Expected dividends",
+              "value": "Not provided"
+            },
+            {
+              "key": "Risk-free rate",
+              "value": "1.83%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 83,
+          "title": "Stock Options Summary Table",
+          "data": [
+            {
+              "key": "Outstanding at December 31, 2021",
+              "value": "1,950 shares at $0.54 with intrinsic value of $16,519"
+            },
+            {
+              "key": "Granted",
+              "value": "561 shares at $7.52"
+            },
+            {
+              "key": "Cancelled",
+              "value": "94 shares at $1.00"
+            },
+            {
+              "key": "Expired",
+              "value": "N/A"
+            },
+            {
+              "key": "Exercised",
+              "value": "117 shares at $0.48"
+            },
+            {
+              "key": "Options outstanding at December 31, 2022",
+              "value": "N/A at $2.22"
+            },
+            {
+              "key": "Options exercisable at December 31, 2022",
+              "value": "N/A at $0.44"
+            },
+            {
+              "key": "Options exercisable at December 31, 2021",
+              "value": "N/A at $0.45"
+            },
+            {
+              "key": "Unvested at December 31, 2022",
+              "value": "N/A at $4.52"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 88,
+          "title": "Executive Compensation Overview",
+          "data": [
+            {
+              "key": "Executive Name",
+              "value": "John Doe"
+            },
+            {
+              "key": "Position",
+              "value": "CEO"
+            },
+            {
+              "key": "Base Salary",
+              "value": "$1,000,000"
+            },
+            {
+              "key": "Bonus",
+              "value": "$500,000"
+            },
+            {
+              "key": "Stock Options",
+              "value": "100,000 shares"
+            },
+            {
+              "key": "Total Compensation",
+              "value": "$2,500,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 93,
+          "title": "Certification Pursuant to 18 U.S.C. Section 1350",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "NextNav Inc."
+            },
+            {
+              "key": "Report Date",
+              "value": "March 30, 2023"
+            },
+            {
+              "key": "Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Principal Executive Officer",
+              "value": "Ganesh Pattabiraman"
+            },
+            {
+              "key": "Principal Financial Officer",
+              "value": "Christian D. Gates"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 19,
+          "title": "Research and Development",
+          "data": [
+            {
+              "key": "Investment in R&D",
+              "value": "We invest significant resources into research and development programs."
+            },
+            {
+              "key": "Number of R&D Employees",
+              "value": "73"
+            },
+            {
+              "key": "R&D Areas of Focus",
+              "value": "Radiolocation position and navigation technologies, Precision timing and time distribution, Hybrid positioning and timing systems, Altitude determination, Location verification techniques."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 7,
+          "title": "Next Generation PNT Solutions Overview",
+          "data": [
+            {
+              "key": "Market Leadership",
+              "value": "Market leader in delivering next generation positioning, navigation and timing solutions."
+            },
+            {
+              "key": "Global PNT Market Size",
+              "value": "Targeting a global addressable market greater than $100 billion."
+            },
+            {
+              "key": "Pinnacle Network Launch",
+              "value": "Commercial launch of the Pinnacle network in early 2021."
+            },
+            {
+              "key": "TerraPoiNT System Capabilities",
+              "value": "TerraPoiNT offers positioning, navigation and NIST-traceable timing services independently."
+            },
+            {
+              "key": "TerraPoiNT Deployment",
+              "value": "Deployed across the San Francisco Bay Area with service available in 85 markets."
+            },
+            {
+              "key": "Pinnacle System Benefits",
+              "value": "Provides floor-level altitude service and enhances 911 services."
+            },
+            {
+              "key": "Redundancy for GPS",
+              "value": "TerraPoiNT provides essential backup capability for GPS due to economic reliance on GPS."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 9,
+          "title": "Expansion of Global Services and Product Launch",
+          "data": [
+            {
+              "key": "Global Reach Expansion",
+              "value": "Commenced distribution of services outside the U.S. with partners for local scale and authority access, exemplified by a joint venture in Japan with MetCom."
+            },
+            {
+              "key": "Launch Date",
+              "value": "November 2022"
+            },
+            {
+              "key": "Product Name",
+              "value": "Pinnacle"
+            },
+            {
+              "key": "Market Standard Development",
+              "value": "Development of a 3D location service that is more accurate and resilient, integrated into applications."
+            },
+            {
+              "key": "Complementary Products",
+              "value": "Delivery of adjacent products and services, such as altimeter software bundled with SDK."
+            },
+            {
+              "key": "Strategic Partnerships",
+              "value": "Agreement with AT&T to deploy Pinnacle network for public safety customers."
+            },
+            {
+              "key": "E911 Services for U.S.",
+              "value": "Agreement with Qualcomm to integrate Pinnacle software for vertical location capabilities in E911 infrastructure."
+            },
+            {
+              "key": "Customer",
+              "value": "Verizon"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 10,
+          "title": "Industry Background and Market Opportunity for PNT Services",
+          "data": [
+            {
+              "key": "Total Addressable Market (US)",
+              "value": "$50 billion"
+            },
+            {
+              "key": "Total Addressable Market (Global)",
+              "value": "$100 billion"
+            },
+            {
+              "key": "Market Value from GPS (2021)",
+              "value": "approximately $700 billion"
+            },
+            {
+              "key": "Market Value from GPS (2023 projected)",
+              "value": "approximately $1.1 trillion"
+            },
+            {
+              "key": "Public Safety Addressable Market",
+              "value": "approximately $1.2 billion"
+            },
+            {
+              "key": "E911 Total Addressable Market (US)",
+              "value": "approximately $2.3 billion"
+            },
+            {
+              "key": "Mobile Advertising Projection (2026)",
+              "value": "approximately $257 billion"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "product_launch",
+          "page": 13,
+          "title": "New Altitude Positioning Solutions by NextNav",
+          "data": [
+            {
+              "key": "Product Name",
+              "value": "Pinnacle"
+            },
+            {
+              "key": "Launch Date",
+              "value": "November 2022"
+            },
+            {
+              "key": "Market Availability",
+              "value": "Top 105 major U.S. markets"
+            },
+            {
+              "key": "Service Coverage",
+              "value": "Over 4,400 cities and over 90% of commercial buildings exceeding three stories."
+            },
+            {
+              "key": "Service Expansion Expected",
+              "value": "MetCom's expansion in Japan in 2023"
+            },
+            {
+              "key": "Key Features",
+              "value": "Z-axis location service, high accuracy for altitude measurements through barometric pressure sensors."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 14,
+          "title": "Launch of Pinnacle Technology and NextNav Certified™ Program",
+          "data": [
+            {
+              "key": "Pinnacle Technology Overview",
+              "value": "Utilizes barometric pressure to compute altitude with existing mobile devices."
+            },
+            {
+              "key": "Delivery Method",
+              "value": "Available through API or SDK."
+            },
+            {
+              "key": "NextNav Certified™ Program",
+              "value": "Allows sensor vendors to obtain certification for performance."
+            },
+            {
+              "key": "Current Partners",
+              "value": "Bosch Sensortec, InvenSense Goertek, ST Microelectronics."
+            },
+            {
+              "key": "TerraPoiNT System",
+              "value": "3D PNT system standardized by 3GPP as Metropolitan Beacon System."
+            },
+            {
+              "key": "U.S. Coverage",
+              "value": "Operates on licensed 8 MHz spectrum covering approximately 93% of U.S. population."
+            },
+            {
+              "key": "Pilot Program",
+              "value": "Conducting pilot with MetCom in Japan for spectrum allocation."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 15,
+          "title": "TerraPoiNT Service Overview",
+          "data": [
+            {
+              "key": "Key_Elements",
+              "value": "TerraPoiNT beacons and signal measurement units, devices equipped to receive the TerraPoiNT signal, cloud services platform."
+            },
+            {
+              "key": "Beacons_Capabilities",
+              "value": "High-precision timing and synchronization capabilities, synchronized to Coordinated Universal Time."
+            },
+            {
+              "key": "Signal_Strength",
+              "value": "TerraPoiNT signal is approximately 100,000 times stronger than GPS."
+            },
+            {
+              "key": "Operational_Resilience",
+              "value": "Service continues if one TerraPoiNT beacon is disrupted."
+            },
+            {
+              "key": "Network_Design",
+              "value": "Infrastructure designed for comprehensive coverage in urban and suburban areas."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 17,
+          "title": "AT&T Agreements and Competitive Landscape Overview",
+          "data": [
+            {
+              "key": "AT&T Agreement Features",
+              "value": "Marketing and resale of Pinnacle services to FirstNet subscribers, pricing requirements, AT&T hosting of equipment at no recurring cost."
+            },
+            {
+              "key": "Equipment Hosting Agreement Term",
+              "value": "Seven years, expiring in October 2026."
+            },
+            {
+              "key": "Services Agreement Extension",
+              "value": "Extended to January 7, 2024."
+            },
+            {
+              "key": "Competitive Landscape",
+              "value": "Competition from GPS, Wi-Fi, cellular signals, and new entrants with alternatives to traditional GPS."
+            },
+            {
+              "key": "eLORAN Details",
+              "value": "Advanced radio navigation system for rural and maritime environments."
+            },
+            {
+              "key": "LEO Satellite Systems",
+              "value": "Provide timing service and improve reception in urban areas, but satellite-based limitation exists."
+            },
+            {
+              "key": "Commercial Location Systems",
+              "value": "Include cellular, crowd-sourced, and locally managed systems with various accuracy levels."
+            },
+            {
+              "key": "3D Solutions Overview",
+              "value": "Claim superior performance compared to other services in the market."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 66,
+          "title": "Balance Reconciliation for December 31, 2022 and 2021",
+          "data": [
+            {
+              "key": "Beginning Balance",
+              "value": "$975,000"
+            },
+            {
+              "key": "Liabilities incurred",
+              "value": "$6,000"
+            },
+            {
+              "key": "Liabilities settled",
+              "value": "-$18,000"
+            },
+            {
+              "key": "Change in estimates",
+              "value": "$128,000"
+            },
+            {
+              "key": "Accretion",
+              "value": "$56,000"
+            },
+            {
+              "key": "Ending Balance",
+              "value": "$1,147,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 66,
+          "title": "Asset Depreciation Schedule",
+          "data": [
+            {
+              "key": "Office equipment, furniture and internal use software",
+              "value": "2-5 years"
+            },
+            {
+              "key": "Leasehold improvements",
+              "value": "Shorter of the useful life or lease term"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 75,
+          "title": "Property and Equipment Breakdown as of December 31, 2022 and 2021",
+          "data": [
+            {
+              "key": "Network under construction",
+              "value": "$3,574,000"
+            },
+            {
+              "key": "TerraPoint network",
+              "value": "$16,961,000"
+            },
+            {
+              "key": "Office equipment, furniture, and leasehold improvements",
+              "value": "$1,609,000"
+            },
+            {
+              "key": "Pinnacle network",
+              "value": "$6,581,000"
+            },
+            {
+              "key": "Accumulated depreciation",
+              "value": "-$5,971,000"
+            },
+            {
+              "key": "Property and equipment, net",
+              "value": "$22,754,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 75,
+          "title": "Intangible Assets Breakdown",
+          "data": [
+            {
+              "key": "Indefinite-Lived intangible assets",
+              "value": "$3,467,000"
+            },
+            {
+              "key": "Acquired Software",
+              "value": "$5,438,000"
+            },
+            {
+              "key": "Acquired Technology",
+              "value": "$572,000"
+            },
+            {
+              "key": "Internal Use Software",
+              "value": "$920,000"
+            },
+            {
+              "key": "Total",
+              "value": "$10,397,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 77,
+          "title": "Lease Payment Schedule and Liability Calculation",
+          "data": [
+            {
+              "key": "2023",
+              "value": "$2,830"
+            },
+            {
+              "key": "2024",
+              "value": "$1,927"
+            },
+            {
+              "key": "2025",
+              "value": "$1,473"
+            },
+            {
+              "key": "2026",
+              "value": "$1,237"
+            },
+            {
+              "key": "2027",
+              "value": "$472"
+            },
+            {
+              "key": "hereafter",
+              "value": "$719"
+            },
+            {
+              "key": "Total undiscounted future lease payments",
+              "value": "$8,658"
+            },
+            {
+              "key": "Less imputed interest",
+              "value": "$836"
+            },
+            {
+              "key": "Total lease liability balance",
+              "value": "$7,822"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+          "data": [
+            {
+              "key": "Market Information",
+              "value": "Our common stock and warrants have been listed on The Nasdaq Capital Market (“Nasdaq”) under the symbol “NN” and “NNAVW,” respectively."
+            },
+            {
+              "key": "Holders",
+              "value": "As of March 27, 2023, there were approximately 77 and 2 holders of record of our common stock and warrants, respectively."
+            },
+            {
+              "key": "Dividends",
+              "value": "We have never declared or paid, and for the foreseeable future do not expect to declare or pay, cash dividends on our common stock."
+            },
+            {
+              "key": "Future Earnings",
+              "value": "We currently intend to retain all of our future earnings, if any, to finance the growth and development of our business."
+            },
+            {
+              "key": "Securities Authorized for Issuance under Equity Compensation Plans",
+              "value": "The information required by this item regarding our equity compensation plans is incorporated herein by reference to Item 12 of Part III of this Annual Report on Form 10-K."
+            },
+            {
+              "key": "Stock Performance Graph",
+              "value": "The following stock price performance graph should not be deemed incorporated by reference by any general statement incorporating by reference this Annual Report on Form 10-K into any filing under the Exchange Act or the Securities Act of 1933, as amended."
+            },
+            {
+              "key": "Cumulative Total Return",
+              "value": "The graph compares the cumulative total return of our common stock from October 29, 2021, the date on which our common shares commenced trading on Nasdaq, through December 31, 2022."
+            },
+            {
+              "key": "Investment Assumption",
+              "value": "Assumes an initial investment of $100 on December 31, 2021."
+            },
+            {
+              "key": "Share Price Performance",
+              "value": "We have not paid any cash dividends and, therefore, the cumulative total return calculation for us is based solely upon the change in share price."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "COMPARISON OF CUMULATIVE TOTAL RETURN AMONG NEXTNAV INC., THE S&P 500 INDEX AND THE S&P INFORMATION TECHNOLOGY INDEX",
+          "data": [
+            {
+              "key": "Cumulative Total Return",
+              "value": "Performance comparison for NextNav Inc., S&P 500 Index and S&P Information Technology Index over time"
+            },
+            {
+              "key": "Time Period",
+              "value": "Oct-21 to Dec-22"
+            },
+            {
+              "key": "Baseline",
+              "value": "100"
+            },
+            {
+              "key": "Legend",
+              "value": "NextNav Inc., S&P 500 Index, S&P Information Technology Index"
+            },
+            {
+              "key": "Chart Data",
+              "value": "Multiple data points listed for performance comparison during the specified period."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Macroeconomic Factors and Results of Operations",
+          "data": [
+            {
+              "key": "impact_of_macro_factors",
+              "value": "Macroeconomic factors are causing delays and potential cost increases due to a tight labor supply."
+            },
+            {
+              "key": "COVID-19_impact",
+              "value": "The full impact of the COVID-19 pandemic continues to evolve."
+            },
+            {
+              "key": "revenue_sources",
+              "value": "Revenue derived from floor-level altitude location data, contracts with wireless carriers, sales of equipment, and proprietary technology licensing."
+            },
+            {
+              "key": "COGS_composition",
+              "value": "Includes personnel-related expenses, site leases, cost of equipment, and professional services."
+            },
+            {
+              "key": "expected_COGS_increase",
+              "value": "Operations costs expected to increase as networks expand."
+            },
+            {
+              "key": "R&D_expenses",
+              "value": "Includes salaries, professional services for development, and cloud hosting costs."
+            },
+            {
+              "key": "expected_R&D_increase",
+              "value": "R&D costs expected to increase as the company invests in current and future products."
+            },
+            {
+              "key": "SGA_expenses",
+              "value": "Includes expenses for all administrative functions such as HR, legal, and IT."
+            },
+            {
+              "key": "expected_SGA_increase",
+              "value": "SGA expenses expected to grow due to increased headcount and public company compliance."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Income Statement Comparison 2022-2021",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "3926"
+            },
+            {
+              "key": "Cost of goods sold",
+              "value": "11806"
+            },
+            {
+              "key": "Research and development",
+              "value": "17059"
+            },
+            {
+              "key": "Selling, general and administrative",
+              "value": "36926"
+            },
+            {
+              "key": "Depreciation and amortization",
+              "value": "3671"
+            },
+            {
+              "key": "Total operating expenses",
+              "value": "69462"
+            },
+            {
+              "key": "Operating loss",
+              "value": "-65536"
+            },
+            {
+              "key": "Interest expense",
+              "value": "901"
+            },
+            {
+              "key": "Other income (expense)",
+              "value": "24491"
+            },
+            {
+              "key": "Loss before income taxes",
+              "value": "-40144"
+            },
+            {
+              "key": "Benefit (Provision) for income taxes",
+              "value": "28"
+            },
+            {
+              "key": "Net loss",
+              "value": "-40116"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Research and Development Expenses Analysis",
+          "data": [
+            {
+              "key": "Research and Development Expenses Increase",
+              "value": "$7.6 million, or 80%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Selling, General and Administrative Expenses Comparison 2021-2022",
+          "data": [
+            {
+              "key": "2022",
+              "value": "$36.9 million"
+            },
+            {
+              "key": "2021",
+              "value": "$23.4 million"
+            },
+            {
+              "key": "Change",
+              "value": "$13.555 million"
+            },
+            {
+              "key": "Change Percentage",
+              "value": "172.49%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Depreciation and Amortization Comparison 2021-2022",
+          "data": [
+            {
+              "key": "2022",
+              "value": "$3.7 million"
+            },
+            {
+              "key": "2021",
+              "value": "$1.8 million"
+            },
+            {
+              "key": "Change",
+              "value": "$1.889 million"
+            },
+            {
+              "key": "Percent Change",
+              "value": "106.0%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Interest Income Comparison",
+          "data": [
+            {
+              "key": "Interest Income 2022",
+              "value": "$0.9 million"
+            },
+            {
+              "key": "Interest Expense 2021",
+              "value": "$17.8 million"
+            },
+            {
+              "key": "Change",
+              "value": "-$17.842 million"
+            },
+            {
+              "key": "Percent Change",
+              "value": "-105.0%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Other Income (Expense) Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Other Income 2022",
+              "value": "$24.5 million"
+            },
+            {
+              "key": "Other Expenses 2021",
+              "value": "-$84.3 million"
+            },
+            {
+              "key": "Change",
+              "value": "$108.834 million"
+            },
+            {
+              "key": "Change Percentage",
+              "value": "-129.0%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Liquidity and Capital Resources",
+          "data": [
+            {
+              "key": "Net losses for 2022",
+              "value": "$40.1 million"
+            },
+            {
+              "key": "Net losses for 2021",
+              "value": "$144.7 million"
+            },
+            {
+              "key": "Net cash used in operating activities 2022",
+              "value": "$37.1 million"
+            },
+            {
+              "key": "Net cash used in operating activities 2021",
+              "value": "$47.9 million"
+            },
+            {
+              "key": "Cash and cash equivalents as of December 31, 2022",
+              "value": "$55.4 million"
+            },
+            {
+              "key": "Accumulated deficit as of December 31, 2022",
+              "value": "$688.5 million"
+            },
+            {
+              "key": "Cash flow activities summary",
+              "value": "Operating activities showed negative cash flow in both years, improving from -$47.9M in 2021 to -$37.1M in 2022. Investing activities used $1.3M in 2021, while financing activities provided positive cash flow of $135.6M in 2021."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Cash Flows and Revenue Recognition",
+          "data": [
+            {
+              "key": "Net cash used in investing activities 2022",
+              "value": "$15.7 million"
+            },
+            {
+              "key": "Net cash used in investing activities 2021",
+              "value": "$1.3 million"
+            },
+            {
+              "key": "Net cash provided by financing activities 2022",
+              "value": "$43 thousand"
+            },
+            {
+              "key": "Net cash provided by financing activities 2021",
+              "value": "$135.6 million"
+            },
+            {
+              "key": "Total PIPE investments",
+              "value": "$230.9 million"
+            },
+            {
+              "key": "Total costs related to Business Combination and PIPE investment",
+              "value": "$23.1 million"
+            },
+            {
+              "key": "Debt repayments related to Business Combination",
+              "value": "$96.9 million"
+            },
+            {
+              "key": "Revenue generation sources",
+              "value": "Indoor and dense-urban positioning technology, products and services, technology demonstration contracts, support services, equipment sales, technology licensing."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Revenue Recognition and Indefinite-Lived Intangible Assets",
+          "data": [
+            {
+              "key": "Revenue Recognition Policy",
+              "value": "Revenue from equipment sales is recognized when control passes to the customer, typically upon shipment."
+            },
+            {
+              "key": "Indefinite-Lived Intangible Assets Policy",
+              "value": "Wireless Multilateration LMS licenses are treated as indefinite-lived intangible assets, with annual reevaluation for useful life."
+            },
+            {
+              "key": "Impairment Assessment Date",
+              "value": "Indefinite-lived intangible assets are assessed for impairment annually as of October 1."
+            },
+            {
+              "key": "Goodwill Impairment Testing",
+              "value": "Goodwill is tested for impairment annually in the fourth quarter or sooner if necessary."
+            },
+            {
+              "key": "Private Placement Warrants Treatment",
+              "value": "Private Placement Warrants classified as non-current liabilities reported at fair value."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Financial Statements Index",
+          "data": [
+            {
+              "key": "document",
+              "value": "Report of Independent Registered Public Accounting Firm (PCAOB ID: 42)"
+            },
+            {
+              "key": "page",
+              "value": "F-2"
+            },
+            {
+              "key": "document",
+              "value": "Consolidated Balance Sheets"
+            },
+            {
+              "key": "page",
+              "value": "F-3"
+            },
+            {
+              "key": "document",
+              "value": "Consolidated Statements of Comprehensive Loss"
+            },
+            {
+              "key": "page",
+              "value": "F-4"
+            },
+            {
+              "key": "document",
+              "value": "Consolidated Statements of Changes in Stockholders' equity"
+            },
+            {
+              "key": "page",
+              "value": "F-5"
+            },
+            {
+              "key": "document",
+              "value": "Consolidated Statements of Cash Flows"
+            },
+            {
+              "key": "page",
+              "value": "F-6"
+            },
+            {
+              "key": "document",
+              "value": "Notes to Consolidated Financial Statements"
+            },
+            {
+              "key": "page",
+              "value": "F-7"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 59,
+          "title": "Report of Independent Registered Public Accounting Firm",
+          "data": [
+            {
+              "key": "financial_position",
+              "value": "The consolidated financial statements present fairly, in all material respects, the financial position of NextNav Inc. at December 31, 2022 and 2021."
+            },
+            {
+              "key": "audit_opinion",
+              "value": "In our opinion, the consolidated financial statements present fairly, in all material respects, the results of its operations and cash flows for each of the two years in the period ended December 31, 2022."
+            },
+            {
+              "key": "change_in_accounting_principle",
+              "value": "The Company changed its method of accounting for leases in 2022 due to the adoption of ASU No. 2016-02."
+            },
+            {
+              "key": "audit_firm",
+              "value": "Ernst & Young LLP"
+            },
+            {
+              "key": "audit_start_year",
+              "value": "2012"
+            },
+            {
+              "key": "audit_date",
+              "value": "March 30, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 60,
+          "title": "Consolidated Balance Sheet as of December 31, 2022",
+          "data": [
+            {
+              "key": "Current Total Assets",
+              "value": "$106,332k"
+            },
+            {
+              "key": "Current Liabilities",
+              "value": "$6,680k"
+            },
+            {
+              "key": "Total Liabilities",
+              "value": "$36,866k"
+            },
+            {
+              "key": "Stockholders' Equity",
+              "value": "$99,957k"
+            },
+            {
+              "key": "Accumulated Deficit",
+              "value": "-$647,861k"
+            },
+            {
+              "key": "Total Liabilities and Equity",
+              "value": "$136,823k"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 61,
+          "title": "Financial Statement Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Cost of goods sold",
+              "value": "11806"
+            },
+            {
+              "key": "Research and development",
+              "value": "17059"
+            },
+            {
+              "key": "Selling, general and administrative",
+              "value": "36926"
+            },
+            {
+              "key": "Depreciation and amortization",
+              "value": "3670"
+            },
+            {
+              "key": "Total operating expenses",
+              "value": "69462"
+            },
+            {
+              "key": "Operating loss",
+              "value": "-65536"
+            },
+            {
+              "key": "Interest income (expense)",
+              "value": "90"
+            },
+            {
+              "key": "Change in fair value of warrants",
+              "value": "24675"
+            },
+            {
+              "key": "Other loss, net",
+              "value": "-184"
+            },
+            {
+              "key": "Net loss",
+              "value": "-40116"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Current Net cash used in operating activities",
+              "value": "-37095"
+            },
+            {
+              "key": "Prior Net cash used in operating activities",
+              "value": "-47932"
+            },
+            {
+              "key": "Current Net cash used in investing activities",
+              "value": "-15736"
+            },
+            {
+              "key": "Prior Net cash used in investing activities",
+              "value": "-1282"
+            },
+            {
+              "key": "Current Net cash provided by financing activities",
+              "value": "43"
+            },
+            {
+              "key": "Prior Net cash provided by financing activities",
+              "value": "135641"
+            },
+            {
+              "key": "Current Cash and cash equivalents at end of period",
+              "value": "47230"
+            },
+            {
+              "key": "Prior Cash and cash equivalents at end of period",
+              "value": "100076"
+            },
+            {
+              "key": "Current depreciation and amortization",
+              "value": "3671"
+            },
+            {
+              "key": "Prior depreciation and amortization",
+              "value": "1782"
+            },
+            {
+              "key": "Current equity-based compensation",
+              "value": "26501"
+            },
+            {
+              "key": "Prior equity-based compensation",
+              "value": "1675"
+            },
+            {
+              "key": "Current change in fair value of warranty liability",
+              "value": "-24675"
+            },
+            {
+              "key": "Prior change in fair value of warranty liability",
+              "value": "84317"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 65,
+          "title": "Cash and Cash Equivalents and Marketable Securities",
+          "data": [
+            {
+              "key": "Cash and cash equivalents",
+              "value": "Include all cash in banks and highly liquid investments with an original maturity of three months or less."
+            },
+            {
+              "key": "Concentration of credit risk",
+              "value": "Related to amounts on deposit in excess of FDIC insurance coverage."
+            },
+            {
+              "key": "Risk mitigation strategy",
+              "value": "Maintaining deposits with high quality financial institutions and minimizing uninsured deposits."
+            },
+            {
+              "key": "Investment classification",
+              "value": "Classified according to stated maturities with cash equivalents and short-term investments."
+            },
+            {
+              "key": "Marketable securities measurement",
+              "value": "Classified as trading and measured at fair value with gains/losses included in interest income."
+            },
+            {
+              "key": "Equity Method Investment",
+              "value": "Investments in unconsolidated entities reported under the equity method of accounting."
+            },
+            {
+              "key": "Initial carrying value of equity investment",
+              "value": "Based on the amount paid to purchase the interest."
+            },
+            {
+              "key": "Income recognition period",
+              "value": "Company’s share of the investee’s income or loss is recorded on a one quarter lag."
+            },
+            {
+              "key": "Impairment losses",
+              "value": "No impairment losses recognized for the year ended December 31, 2022."
+            },
+            {
+              "key": "Leases classification",
+              "value": "Non-cancellable lease for office space and operating leases for site leases."
+            },
+            {
+              "key": "Short-term leases",
+              "value": "Defined as leases with an initial term of twelve months or less and not recognized as assets and liabilities."
+            },
+            {
+              "key": "Lease terms",
+              "value": "Include non-cancellable term and periods under options to extend or terminate the lease."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 67,
+          "title": "Goodwill - January 1, 2022",
+          "data": [
+            {
+              "key": "New acquisition (See Note 3 — Acquisition)",
+              "value": "16317"
+            },
+            {
+              "key": "Changes in foreign exchange rates",
+              "value": "1176"
+            },
+            {
+              "key": "Goodwill - December 31, 2022",
+              "value": "17493"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 69,
+          "title": "Revenue Comparison 2022-2021",
+          "data": [
+            {
+              "key": "Commercial",
+              "value": "3499"
+            },
+            {
+              "key": "Government contracts",
+              "value": "32"
+            },
+            {
+              "key": "Equipment sales",
+              "value": "395"
+            },
+            {
+              "key": "Other",
+              "value": "0"
+            },
+            {
+              "key": "Total revenue",
+              "value": "3926"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 70,
+          "title": "Operating Expenses Comparison 2022-2021",
+          "data": [
+            {
+              "key": "Cost of goods sold",
+              "value": "$2,389,000"
+            },
+            {
+              "key": "Research and development",
+              "value": "$6,743,000"
+            },
+            {
+              "key": "Selling, general and administrative",
+              "value": "$17,369,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 70,
+          "title": "Summary of Operating Expenses",
+          "data": [
+            {
+              "key": "Total stock-based compensation expense",
+              "value": "Significantly increased across all categories"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 71,
+          "title": "Financial Performance Comparison (December 31, 2022 and 2021)",
+          "data": [
+            {
+              "key": "Net loss",
+              "value": "$40.1M (2022) vs $144.7M (2021)"
+            },
+            {
+              "key": "Less cumulative change in redemption value of preferred units",
+              "value": "N/A (2022) vs $13.8M (2021)"
+            },
+            {
+              "key": "Net loss attributable to common stockholders",
+              "value": "$40.1M (2022) vs $158.5M (2021)"
+            },
+            {
+              "key": "Weighted average shares — basic and diluted",
+              "value": "101,029K (2022) vs 23,561K (2021)"
+            },
+            {
+              "key": "Basic and diluted loss per share",
+              "value": "$0.40 (2022) vs $6.73 (2021)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 71,
+          "title": "Antidilutive Shares Excluded (in thousands)",
+          "data": [
+            {
+              "key": "Warrants",
+              "value": "18,750 (2021)"
+            },
+            {
+              "key": "Stock Options",
+              "value": "1,950 (2021)"
+            },
+            {
+              "key": "Invested Restricted Stock Units",
+              "value": "2,890 (2021)"
+            },
+            {
+              "key": "Invested Restricted Stock Awards",
+              "value": "1,070 (2021)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 78,
+          "title": "Accrued Liabilities Comparison (in thousands)",
+          "data": [
+            {
+              "key": "Accrued salary and other employee liabilities",
+              "value": "$2.42M (2022) / $2.42M (2021)"
+            },
+            {
+              "key": "Accrued legal and professional services",
+              "value": "$387K (2022) / $1.54M (2021)"
+            },
+            {
+              "key": "Other accrued liabilities",
+              "value": "$2.43M (2022) / $637K (2021)"
+            },
+            {
+              "key": "Total",
+              "value": "$5.24M (2022) / $4.60M (2021)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 79,
+          "title": "Financial Holdings Statement - December 31, 2022",
+          "data": [
+            {
+              "key": "Date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Instrument",
+              "value": "Cash and Cash Equivalents - Money Market Funds"
+            },
+            {
+              "key": "Amount",
+              "value": "95"
+            },
+            {
+              "key": "Instrument",
+              "value": "Cash and Cash Equivalents - U.S. Government Agency Bonds"
+            },
+            {
+              "key": "Amount",
+              "value": "36509"
+            },
+            {
+              "key": "Instrument",
+              "value": "Short investments - U.S. Government Bonds"
+            },
+            {
+              "key": "Amount",
+              "value": "null"
+            },
+            {
+              "key": "Instrument",
+              "value": "Term Agency"
+            },
+            {
+              "key": "Amount",
+              "value": "8216"
+            },
+            {
+              "key": "Instrument",
+              "value": "Warrants"
+            },
+            {
+              "key": "Amount",
+              "value": "4200"
+            },
+            {
+              "key": "Date",
+              "value": "December 31, 2021"
+            },
+            {
+              "key": "Instrument",
+              "value": "Warrants"
+            },
+            {
+              "key": "Amount",
+              "value": "28875"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 80,
+          "title": "Stock Price Analysis Parameters",
+          "data": [
+            {
+              "key": "Stock Price",
+              "value": "Strike price: 11.50"
+            },
+            {
+              "key": "Holding Period/Term (years)",
+              "value": "3.82 and 4.80"
+            },
+            {
+              "key": "Volatility",
+              "value": "62.00% and 52.90%"
+            },
+            {
+              "key": "Risk-Free Rate",
+              "value": "4.13% vs 1.23%"
+            },
+            {
+              "key": "Expected dividends",
+              "value": "N/A"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 80,
+          "title": "Fair Value Reconciliation",
+          "data": [
+            {
+              "key": "Balance as of January 1, 2022",
+              "value": "N/A"
+            },
+            {
+              "key": "Fair value adjustment of Private Placement Warrants",
+              "value": "N/A"
+            },
+            {
+              "key": "Balance as of December 31, 2022",
+              "value": "N/A"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 80,
+          "title": "Common Stock and Convertible Preferred Units",
+          "data": [
+            {
+              "key": "Authorized shares of capital stock",
+              "value": "600,000,000"
+            },
+            {
+              "key": "Common stock shares authorized",
+              "value": "500,000,000"
+            },
+            {
+              "key": "Undesignated preferred stock shares",
+              "value": "100,000,000"
+            },
+            {
+              "key": "Common stock shares issued",
+              "value": "106,418,442"
+            },
+            {
+              "key": "Common stock shares outstanding",
+              "value": "106,417,265"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 84,
+          "title": "Restricted Stock Units and Awards Movement Summary 2022",
+          "data": [
+            {
+              "key": "Units nonvested at January 1, 2022",
+              "value": "3966"
+            },
+            {
+              "key": "Units granted in 2022",
+              "value": "1112"
+            },
+            {
+              "key": "Units cancelled in 2022",
+              "value": "154"
+            },
+            {
+              "key": "Units vested in 2022",
+              "value": "2336"
+            },
+            {
+              "key": "Units nonvested at December 31, 2022",
+              "value": "2588"
+            },
+            {
+              "key": "Average grant-date fair value (start of 2022)",
+              "value": "9.20"
+            },
+            {
+              "key": "Average grant-date fair value (granted in 2022)",
+              "value": "4.78"
+            },
+            {
+              "key": "Average grant-date fair value (vested in 2022)",
+              "value": "9.25"
+            },
+            {
+              "key": "Average grant-date fair value (end of 2022)",
+              "value": "7.61"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 86,
+          "title": "Income Tax Rate Reconciliation",
+          "data": [
+            {
+              "key": "Income Tax Expense at Federal Statutory Rate",
+              "value": "21.0%"
+            },
+            {
+              "key": "Permanent items",
+              "value": "12.61%"
+            },
+            {
+              "key": "State taxes, net of federal tax effect",
+              "value": "4.38%"
+            },
+            {
+              "key": "Book income not subject to tax",
+              "value": "-%"
+            },
+            {
+              "key": "Change in Valuation Allowance",
+              "value": "(34.93)%"
+            },
+            {
+              "key": "Other permanent differences",
+              "value": "(4.77%)"
+            },
+            {
+              "key": "Rate change",
+              "value": "1.78%"
+            },
+            {
+              "key": "Effective income tax rate",
+              "value": "0.07%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 86,
+          "title": "Deferred Tax Assets and Liabilities",
+          "data": [
+            {
+              "key": "Net operating loss carryforwards",
+              "value": "2021: 19316, 2022: 8656"
+            },
+            {
+              "key": "Stock Compensation",
+              "value": "2021: 765, 2022: 384"
+            },
+            {
+              "key": "Basis in underlying investments",
+              "value": "2021: 70148, 2022: 65810"
+            },
+            {
+              "key": "Other Deferred Balances",
+              "value": "2021: 116, 2022: null"
+            },
+            {
+              "key": "Gross deferred tax assets",
+              "value": "2021: 90345, 2022: 74850"
+            },
+            {
+              "key": "Valuation allowance",
+              "value": "2021: -88874, 2022: -74850"
+            },
+            {
+              "key": "Deferred tax assets, net of valuation allowance",
+              "value": "2021: 1471, 2022: null"
+            },
+            {
+              "key": "Intangibles",
+              "value": "2021: -1497, 2022: null"
+            },
+            {
+              "key": "Total deferred tax liabilities",
+              "value": "2021: -1497, 2022: null"
+            },
+            {
+              "key": "Total net deferred tax (liability) asset",
+              "value": "2021: -26, 2022: null"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 90,
+          "title": "Consent of Independent Registered Public Accounting Firm",
+          "data": [
+            {
+              "key": "Date of report",
+              "value": "March 30, 2023"
+            },
+            {
+              "key": "Firm",
+              "value": "Ernst and Young LLP"
+            },
+            {
+              "key": "Location",
+              "value": "Tysons, Virginia"
+            },
+            {
+              "key": "Financial statements included in",
+              "value": "Annual Report (Form 10-K) for the year ended December 31, 2022."
+            },
+            {
+              "key": "Plans referenced",
+              "value": "NextNav Inc. 2021 Omnibus Incentive Plan, NextNav Inc. 2021 Employee Stock Purchase Plan, NextNav Holdings, LLC 2011 Unit Option and Profits Interest Plan, as amended."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": false,
+      "elements": []
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 5,
+          "title": "Risk Factors Summary",
+          "data": [
+            {
+              "key": "Significant losses",
+              "value": "We have incurred significant losses since inception. We expect to incur losses in the future and may not be able to achieve or maintain profitability, and may need to raise additional capital."
+            },
+            {
+              "key": "Market conditions",
+              "value": "Unsettled conditions in the financial and capital markets may restrict access to funds or increase borrowing costs."
+            },
+            {
+              "key": "Limited operating history",
+              "value": "Our limited operating history makes it difficult to evaluate future prospects and the risks and challenges."
+            },
+            {
+              "key": "Customer adoption",
+              "value": "Adoption of our new capability may be delayed by customer unfamiliarity."
+            },
+            {
+              "key": "Business plan reliance",
+              "value": "Our ability to generate revenue depends on users accessing services through customer platforms."
+            },
+            {
+              "key": "Market competition",
+              "value": "Intense competition in the market could hinder customer acquisition and retention."
+            },
+            {
+              "key": "Third-party reliance",
+              "value": "Heavy reliance on third parties for operations and timely supply of components."
+            },
+            {
+              "key": "Service dependency",
+              "value": "Our service relies on barometric pressure measurements and 2D location data availability."
+            },
+            {
+              "key": "Technology evolution risks",
+              "value": "Challenges in evolving technology may increase costs."
+            },
+            {
+              "key": "Hybrid architecture risks",
+              "value": "Our hybrid architecture is unproven and may not perform well."
+            },
+            {
+              "key": "Access to third-party platforms",
+              "value": "Potential risks regarding the access of our services to third-party platforms."
+            },
+            {
+              "key": "Infrastructure deployment",
+              "value": "Dependency on infrastructure deployment for service area expansion."
+            },
+            {
+              "key": "Commercial success uncertainty",
+              "value": "No guarantee of commercial success for TerraPoiNT service."
+            },
+            {
+              "key": "Government procurement uncertainties",
+              "value": "Uncertainties in government programs affecting revenue."
+            },
+            {
+              "key": "Privacy concerns",
+              "value": "Related privacy concerns could damage reputation and deter users."
+            },
+            {
+              "key": "Disasters impact",
+              "value": "Natural or man-made disasters could adversely affect business."
+            },
+            {
+              "key": "IT disruptions",
+              "value": "Disruptions or data security incidents could have an adverse effect."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 6,
+          "title": "Risks Arising from Security Breaches and Regulatory Matters",
+          "data": [
+            {
+              "key": "Security Breaches",
+              "value": "Litigation from security breaches may adversely affect business."
+            },
+            {
+              "key": "Insurance Coverage",
+              "value": "Insurance limits may not cover related liabilities."
+            },
+            {
+              "key": "Personnel Dependence",
+              "value": "Dependence on technical expertise and key management personnel."
+            },
+            {
+              "key": "Intellectual Property Risks",
+              "value": "Challenges to intellectual property rights could adversely affect business."
+            },
+            {
+              "key": "Strategic Transaction Risks",
+              "value": "Risks from strategic transactions that could affect business."
+            },
+            {
+              "key": "Economic Pressures",
+              "value": "Increased inflation and supply chain pressures may impact results."
+            },
+            {
+              "key": "COVID-19 Impact",
+              "value": "Pandemic effects could materially impact business."
+            },
+            {
+              "key": "Geopolitical Risks",
+              "value": "Military actions in Ukraine and related geopolitical effects may increase risks."
+            },
+            {
+              "key": "Spectrum Access",
+              "value": "Dependence on access to radio spectrum for services."
+            },
+            {
+              "key": "FCC License Risks",
+              "value": "FCC licenses require modifications and approvals that are uncertain."
+            },
+            {
+              "key": "Harmful Interference Risks",
+              "value": "Shared radio frequencies may cause harmful interference."
+            },
+            {
+              "key": "License Renewal Risks",
+              "value": "LMS licenses subject to renewal and compliance risks."
+            },
+            {
+              "key": "Government Customer Risks",
+              "value": "Risks from targeting government customers including early termination and penalties."
+            },
+            {
+              "key": "Data Privacy Risks",
+              "value": "Handling of personal information creates legal obligations."
+            },
+            {
+              "key": "Export Control Risks",
+              "value": "Subject to export control and economic sanctions laws."
+            },
+            {
+              "key": "Geopolitical and Economic Risks",
+              "value": "Exposure to global business risks."
+            },
+            {
+              "key": "Stock Dilution Risks",
+              "value": "Issuing additional shares may dilute existing stockholders."
+            },
+            {
+              "key": "Control by Major Stockholders",
+              "value": "Principal stockholders have significant control over company matters."
+            },
+            {
+              "key": "Dividend Policy",
+              "value": "No anticipated cash dividends in the foreseeable future."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 22,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Investment Risk",
+              "value": "An investment in our securities involves a high degree of risk."
+            },
+            {
+              "key": "Potential Losses",
+              "value": "We expect to incur losses in the future and may not achieve or maintain profitability."
+            },
+            {
+              "key": "Operational Challenges",
+              "value": "Our operating expenses have increased significantly since we became a public company."
+            },
+            {
+              "key": "Future Cash Requirements",
+              "value": "We expect to meet longer term cash needs through a combination of cash flows and issuance of equity or debt."
+            },
+            {
+              "key": "Limited Operating History",
+              "value": "Our limited operating history makes it difficult to evaluate future prospects."
+            },
+            {
+              "key": "Adoption of Services",
+              "value": "Our services require substantial adoption across disparate industries."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 24,
+          "title": "Risks Related to Technology Adoption and Competition",
+          "data": [
+            {
+              "key": "Risks related to LTE/5G technology integration",
+              "value": "The evolution of TerraPoiNT technology to utilize LTE/5G signals may not be successful, increasing costs and challenges."
+            },
+            {
+              "key": "Performance risks of hybrid architecture",
+              "value": "The hybrid architecture for providing resilient PNT service is unproven and may not perform well."
+            },
+            {
+              "key": "Competition in location services",
+              "value": "Intense competition from companies offering similar services for free may affect customer acquisition."
+            },
+            {
+              "key": "Regulatory challenges impacting market",
+              "value": "Federal regulatory proceedings may impact the market for E911 services."
+            },
+            {
+              "key": "Uncertainty in achieving market appeal",
+              "value": "There is no certainty regarding the ability to attract customers compared to free services offered by competitors."
+            },
+            {
+              "key": "Dependence on signal calibration",
+              "value": "If the signals from cellular operators cannot be calibrated effectively, performance may not meet customer expectations."
+            },
+            {
+              "key": "Emerging location technologies",
+              "value": "New technologies in development may increase competition and require meeting more stringent accuracy standards."
+            },
+            {
+              "key": "Resource imbalance against competitors",
+              "value": "Competitors often have stronger financial and technical resources, impacting market competitiveness."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 26,
+          "title": "Risk Factors Related to Distribution, Cloud Dependence, and Infrastructure Expansion",
+          "data": [
+            {
+              "key": "Description",
+              "value": "The distribution and marketing of services are contingent on third-party platforms, particularly mobile application stores. Disruptions in service or changes by providers like AWS could adversely affect business operations."
+            },
+            {
+              "key": "Impact of Vendor Issues",
+              "value": "Reliance on limited key vendors for components and services may lead to operational difficulties if those vendors face problems."
+            },
+            {
+              "key": "Expansion Limitations",
+              "value": "Services are confined to defined network footprints; expansion requires considerable time and financial resources, with no guarantees of success."
+            },
+            {
+              "key": "Radio Spectrum Access",
+              "value": "Access to certain radio spectrum is necessary for services like TerraPoiNT; lack of access can hinder service expansion."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 27,
+          "title": "Risk Factors Related to TerraPoiNT Service and Technology",
+          "data": [
+            {
+              "key": "Market Adoption Risk",
+              "value": "There is no guarantee that TerraPoiNT service will be widely adopted by commercial or government users."
+            },
+            {
+              "key": "Competition Risk",
+              "value": "Competitors may develop and commercialize alternative solutions restraining market capture."
+            },
+            {
+              "key": "Political and Technological Preferences",
+              "value": "Sales may be limited by foreign countries' preferences for local solutions."
+            },
+            {
+              "key": "Uncertainty of International Partnerships",
+              "value": "Pending discussions with international partners may not yield operational systems."
+            },
+            {
+              "key": "Dependency on Government Programs",
+              "value": "Federal and state government procurement cycles may delay revenue realization."
+            },
+            {
+              "key": "Location Data Privacy Concerns",
+              "value": "User perception of location data sharing could harm reputation and user adoption."
+            },
+            {
+              "key": "Vulnerabilities to Natural/man-made Disasters",
+              "value": "Technical infrastructure risks from disasters or cyberattacks could disrupt operations."
+            },
+            {
+              "key": "Insurance Coverage",
+              "value": "Insurance may not sufficiently cover costs from disasters or attacks."
+            },
+            {
+              "key": "Third-Party Dependence",
+              "value": "Reliance on third-party providers increases vulnerability to risks."
+            },
+            {
+              "key": "Information Technology Vulnerability",
+              "value": "Complexity and size of IT systems raise risks for security breaches."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 28,
+          "title": "Cybersecurity Vulnerabilities and Risks",
+          "data": [
+            {
+              "key": "Threat Sources",
+              "value": "Sophisticated and organized groups including nation-states, organized crime, and hacktivists."
+            },
+            {
+              "key": "Types of Attacks",
+              "value": "Phishing, malware, ransomware, denial-of-service, social engineering."
+            },
+            {
+              "key": "Impact of External Threats",
+              "value": "Potential unauthorized access to sensitive information and disruption of operations."
+            },
+            {
+              "key": "Mitigation Efforts",
+              "value": "Implementation of systems and safeguards to protect information technology and data."
+            },
+            {
+              "key": "Recent Developments",
+              "value": "Increased frequency and sophistication of cyber extortion and ransomware attacks."
+            },
+            {
+              "key": "Vulnerabilities of Third-party Vendors",
+              "value": "Highlighting risk exposure from third-party relationships."
+            },
+            {
+              "key": "Legal Obligations",
+              "value": "Requirement to notify regulatory authorities and individuals in case of security breaches."
+            },
+            {
+              "key": "Reputational Risks",
+              "value": "Loss of customer trust and potential negative publicity."
+            },
+            {
+              "key": "Potential Liabilities",
+              "value": "Legal and financial exposure due to security incidents."
+            },
+            {
+              "key": "Contractual Protections",
+              "value": "Uncertainty regarding enforceability of limitations of liability."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 37,
+          "title": "Risks Related to Export Control Laws and Geopolitical Factors",
+          "data": [
+            {
+              "key": "Geopolitical Risks",
+              "value": "Changes to export control laws may arise from geopolitical events."
+            },
+            {
+              "key": "Trade Tensions",
+              "value": "Increasing trade tensions with China and Russia may affect supply chain and compliance costs."
+            },
+            {
+              "key": "Regulatory Compliance",
+              "value": "Failure to comply with laws could result in liabilities and affect operations."
+            },
+            {
+              "key": "Impact on Business",
+              "value": "Changes in regulations may dramatically affect business operations in international markets."
+            },
+            {
+              "key": "Currency Risk",
+              "value": "Fluctuations in foreign currency exchange rates could impact business."
+            },
+            {
+              "key": "Supplier Risk",
+              "value": "Dependency on in-country suppliers may increase risks related to contract performance."
+            },
+            {
+              "key": "Employee Safety",
+              "value": "Providing services in unstable countries may risk employee safety."
+            },
+            {
+              "key": "Market Impact",
+              "value": "Global economic conditions may lead to cancellations of orders or payment delays."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 51,
+          "title": "Concentration of Credit Risk and Supply Chain Challenges",
+          "data": [
+            {
+              "key": "Concentration of Credit Risk",
+              "value": "We deposit our cash with financial institutions, and, at times, such balances may exceed federally insured limits. Management believes the financial institutions that hold our cash and cash equivalents are financially sound and, accordingly, minimal credit risk exists with respect to cash and cash equivalents."
+            },
+            {
+              "key": "Inflation and Supply Chain Challenges",
+              "value": "While inflation and supply chain challenges may impact our revenue and cost of services, we believe the effects of inflation and supply chain challenges on our results of operations and financial condition have not been significant to date."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 4,
+          "title": "Cautionary Note Regarding Forward-Looking Statements",
+          "data": [
+            {
+              "key": "Content Summary",
+              "value": "This section discusses forward-looking statements in the annual report, outlining expectations regarding future strategies, financial performance, regulatory approvals, capital expenditures, and the importance of caution in interpreting these statements."
+            },
+            {
+              "key": "Legal Framework",
+              "value": "Derived from the Private Securities Litigation Reform Act of 1995 and Section 21E of the Securities Exchange Act of 1934."
+            },
+            {
+              "key": "Potential Areas Affected",
+              "value": "Management's expectations, future financial performance, market trends, regulatory approvals, business combinations, and operational capabilities."
+            },
+            {
+              "key": "Factors Impacting Results",
+              "value": "Competition, ability to finance R&D, market acceptance, protection of intellectual property, maintaining operational resources."
+            },
+            {
+              "key": "Cautionary Factors",
+              "value": "Includes risk factors impacting actual results."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 12,
+          "title": "Market Potential for eVTOL and Autonomous Vehicle Systems",
+          "data": [
+            {
+              "key": "eVTOL Trips per Day",
+              "value": "1 million"
+            },
+            {
+              "key": "Required eVTOLs",
+              "value": "80,000"
+            },
+            {
+              "key": "Addressable Market for Enhanced Navigation and Air Traffic Control",
+              "value": "$4 billion per year"
+            },
+            {
+              "key": "Total Addressable Market for Autonomous Vehicle Systems by 2030",
+              "value": "$6 billion"
+            },
+            {
+              "key": "Connected Devices in Enterprise and IoT by 2024",
+              "value": "1.3 billion"
+            },
+            {
+              "key": "Expected Service Value in Enterprise and IoT in the U.S.",
+              "value": "over $10 billion per year"
+            },
+            {
+              "key": "CAGR for Device Growth (2020-2026)",
+              "value": "70%"
+            },
+            {
+              "key": "CAGR for Addressable Service Revenue Growth (2020-2026)",
+              "value": "53%"
+            },
+            {
+              "key": "Global Market Size for Services (excluding China, Russia, and Africa)",
+              "value": "over $50 billion"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 20,
+          "title": "Human Capital Overview",
+          "data": [
+            {
+              "key": "Total Employees",
+              "value": "106"
+            },
+            {
+              "key": "Full-Time Employees Located outside the U.S.",
+              "value": "45"
+            },
+            {
+              "key": "Employees engaged in R&D",
+              "value": "73"
+            },
+            {
+              "key": "Facilities Locations",
+              "value": "McLean, Virginia; Sunnyvale, California; Neuilly-sur-Seine, France; Noida, India; Bangalore, India"
+            },
+            {
+              "key": "Regulatory Compliance",
+              "value": "Yes"
+            },
+            {
+              "key": "Privacy Regulations Coverage",
+              "value": "U.S. federal and state laws including California and Virginia legislation"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 23,
+          "title": "Forecasting Revenue and Managing Growth",
+          "data": [
+            {
+              "key": "Key Focus Areas",
+              "value": "Forecast revenue and budget, manage expenses, attract and retain customers, manage capital expenditures, manage supply chains."
+            },
+            {
+              "key": "Risks and Challenges",
+              "value": "Volatility in financial and capital markets, limited historical data, challenges in justifying service costs to enterprise customers."
+            },
+            {
+              "key": "Technology Adoption Risks",
+              "value": "Delayed adoption of new capabilities due to unfamiliarity, ecosystem support gaps with 3D positioning."
+            },
+            {
+              "key": "Revenue Recognition Challenges",
+              "value": "Dependence on third-party integration and lack of purchase commitments in contracts."
+            },
+            {
+              "key": "Market Education",
+              "value": "Efforts to educate on the necessity of z-axis geolocation services."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 38,
+          "title": "Ownership Concentration and Reporting Requirements",
+          "data": [
+            {
+              "key": "Principal Stockholders Ownership",
+              "value": "71% of outstanding shares of Common Stock held by executives, directors, and certain stockholders."
+            },
+            {
+              "key": "Compliance Requirements",
+              "value": "Subject to reporting requirements of federal securities laws, including those of the Sarbanes-Oxley Act."
+            },
+            {
+              "key": "Dividend Policy",
+              "value": "No dividends paid on capital stock and no plans to pay in the foreseeable future."
+            },
+            {
+              "key": "Warrant Information",
+              "value": "Outstanding warrants to purchase 18,750,000 shares of Common Stock; exercise price is $11.50 per share."
+            },
+            {
+              "key": "Market Risks",
+              "value": "Market price may decline due to large resales of shares from warrant exercises or unfavorable analyst reports."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 45,
+          "title": "Stock-based Compensation Expense Comparison 2022-2021",
+          "data": [
+            {
+              "key": "Total Stock-based Compensation Expense Increase",
+              "value": "Increased from $1,675,000 in 2021 to $26,501,000 in 2022"
+            },
+            {
+              "key": "Largest Component",
+              "value": "Selling, general and administrative expenses at $17,369,000"
+            },
+            {
+              "key": "Total Research and Development",
+              "value": "$6,743,000 in 2022"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 45,
+          "title": "Revenue Comparison 2022-2021",
+          "data": [
+            {
+              "key": "Revenue Increase",
+              "value": "Increased from $763,000 in 2021 to $3,926,000 in 2022"
+            },
+            {
+              "key": "Dollar Change",
+              "value": "$3,163,000"
+            },
+            {
+              "key": "Percent Change",
+              "value": "414.5%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 45,
+          "title": "Sales of Goods and Services Comparison 2022-2021",
+          "data": [
+            {
+              "key": "Sales of Goods and Services",
+              "value": "Decreased from $18,390,000 in 2021 to $11,806,000 in 2022"
+            },
+            {
+              "key": "Dollar Change",
+              "value": "$6584,000"
+            },
+            {
+              "key": "Percent Change",
+              "value": "-35.8%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 45,
+          "title": "Research and Development Expenditure Comparison",
+          "data": [
+            {
+              "key": "R&D Spending Increase",
+              "value": "Increased from $9.47 million in 2021 to $17.06 million in 2022"
+            },
+            {
+              "key": "Dollar Change",
+              "value": "$7,594,000"
+            },
+            {
+              "key": "Percent Change",
+              "value": "80.2%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 52,
+          "title": "Changes in Internal Control over Financial Reporting",
+          "data": [
+            {
+              "key": "Internal Control Changes",
+              "value": "In the first quarter of 2022, implementation of a new ERP system resulted in changes to reporting processes and internal control over financial reporting."
+            },
+            {
+              "key": "Acquisition Impact",
+              "value": "The acquisition of Nestwave has led to the incorporation of internal controls specific to the acquisition."
+            },
+            {
+              "key": "Post-closing Integration Review",
+              "value": "The company will continue to review internal controls and processes as post-closing integration continues."
+            },
+            {
+              "key": "No Material Changes",
+              "value": "No changes in internal control over financial reporting during the fiscal quarter ended December 31, 2022 that materially affected internal control."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 62,
+          "title": "Statement of Changes in Stockholders' Equity",
+          "data": [
+            {
+              "key": "Transaction",
+              "value": "Balance, December 31"
+            },
+            {
+              "key": "Amount",
+              "value": "5,365,566"
+            },
+            {
+              "key": "Shares",
+              "value": "42,286,068"
+            },
+            {
+              "key": "Other Amount",
+              "value": "7,345,733"
+            },
+            {
+              "key": "Net Loss",
+              "value": "(490,284)"
+            },
+            {
+              "key": "Total",
+              "value": "(490,378)"
+            },
+            {
+              "key": "Transaction",
+              "value": "RSA Balance"
+            },
+            {
+              "key": "Other Amount",
+              "value": "1,069,818"
+            },
+            {
+              "key": "Transaction",
+              "value": "Common Stock Issuance"
+            },
+            {
+              "key": "Other Amount",
+              "value": "13,229"
+            },
+            {
+              "key": "Transaction",
+              "value": "Stock-based Compensation"
+            },
+            {
+              "key": "Net Loss",
+              "value": "1,675"
+            },
+            {
+              "key": "Total",
+              "value": "1,675"
+            },
+            {
+              "key": "Transaction",
+              "value": "Net Loss"
+            },
+            {
+              "key": "Shares",
+              "value": "13,831"
+            },
+            {
+              "key": "Net Loss",
+              "value": "(144,666)"
+            },
+            {
+              "key": "Total",
+              "value": "(144,666)"
+            },
+            {
+              "key": "Transaction",
+              "value": "PIPE Financing"
+            },
+            {
+              "key": "Other Amount",
+              "value": "28,055,707"
+            },
+            {
+              "key": "Total",
+              "value": "186,887"
+            },
+            {
+              "key": "Transaction",
+              "value": "Balance, December 31, 2021"
+            },
+            {
+              "key": "Other Amount",
+              "value": "96,546,611"
+            },
+            {
+              "key": "Net Loss",
+              "value": "(647,861)"
+            },
+            {
+              "key": "Total",
+              "value": "99,957"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 92,
+          "title": "Certification of Principal Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002",
+          "data": [
+            {
+              "key": "Certification",
+              "value": "I, Christian D. Gates, certify that: I have reviewed this annual report on Form 10-K of NextNav Inc."
+            },
+            {
+              "key": "Compliance",
+              "value": "This report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, not misleading."
+            },
+            {
+              "key": "Financial representation",
+              "value": "The financial statements and other financial information included in this report fairly present the financial condition and results of operations."
+            },
+            {
+              "key": "Disclosure controls",
+              "value": "The registrant’s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures."
+            },
+            {
+              "key": "Internal controls",
+              "value": "We designed disclosure controls and provided reasonable assurance regarding the reliability of financial reporting."
+            },
+            {
+              "key": "Effectiveness evaluation",
+              "value": "Evaluated the effectiveness of the disclosure controls and procedures."
+            },
+            {
+              "key": "Change disclosure",
+              "value": "Disclosed in this report any change in internal control over financial reporting."
+            },
+            {
+              "key": "Fraud disclosure",
+              "value": "Disclosed significant deficiencies and material weaknesses in the internal controls and any fraud."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 29,
+          "title": "Litigation Due to Security Breaches",
+          "data": [
+            {
+              "key": "litigation_risk",
+              "value": "Potential litigation arising out of security breaches may adversely affect business."
+            },
+            {
+              "key": "impact_on_business",
+              "value": "Security breaches can divert management’s time, increase costs, harm reputation."
+            },
+            {
+              "key": "insurance_coverage",
+              "value": "Insurance policies may not cover all liabilities or costs of remediation."
+            },
+            {
+              "key": "personnel_dependency",
+              "value": "Dependence on personnel with technical expertise could impact business activities."
+            },
+            {
+              "key": "management_dependency",
+              "value": "Performance may be adversely impacted by loss of key management personnel."
+            },
+            {
+              "key": "intellectual_property_risk",
+              "value": "Failure to maintain intellectual property rights could adversely affect operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 32,
+          "title": "Risks Related to Legal and Regulatory Matters",
+          "data": [
+            {
+              "key": "Licenses",
+              "value": "FCC licenses for radio spectrum in the 902-928 MHz band."
+            },
+            {
+              "key": "Current Coverage",
+              "value": "Coverage lacks nationwide access and does not include major populations such as Minneapolis and Sacramento."
+            },
+            {
+              "key": "Challenges in Acquiring Spectrum",
+              "value": "Challenge in securing additional licenses from the FCC."
+            },
+            {
+              "key": "Impact of FCC Regulation",
+              "value": "FCC's auction process for licenses creates uncertainty."
+            },
+            {
+              "key": "International Licensing Concerns",
+              "value": "No certainty exists for securing spectrum in international markets due to varying rules."
+            },
+            {
+              "key": "FCC Approval Requirements",
+              "value": "Need for FCC approval for proposed changes to spectrum usage."
+            },
+            {
+              "key": "Interference Issues",
+              "value": "Potential harmful interference from other services sharing the spectrum."
+            },
+            {
+              "key": "Regulatory Review",
+              "value": "Certain operational changes subject to additional regulatory oversight."
+            },
+            {
+              "key": "Third-party Challenges",
+              "value": "Pending challenges to FCC's decisions could impact operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 33,
+          "title": "FCC License Renewal Challenges",
+          "data": [
+            {
+              "key": "License Status",
+              "value": "Renewal pending"
+            },
+            {
+              "key": "Initial Renewal Date",
+              "value": "July 19, 2010"
+            },
+            {
+              "key": "Current License Expiry",
+              "value": "July 19, 2020"
+            },
+            {
+              "key": "Last Renewal Granted",
+              "value": "January 17, 2017"
+            },
+            {
+              "key": "Next Required Renewal",
+              "value": "2030"
+            },
+            {
+              "key": "Build-out Compliance",
+              "value": "Required"
+            },
+            {
+              "key": "Last Deadline for Build-out",
+              "value": "April 3, 2023"
+            },
+            {
+              "key": "Extension Granted",
+              "value": "Yes"
+            },
+            {
+              "key": "Consequences of Non-compliance",
+              "value": "Licenses could be declared null and void"
+            },
+            {
+              "key": "Impact on Business",
+              "value": "Adverse impact on TerraPoiNT services and financial condition"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 34,
+          "title": "Ongoing Objections to LMS Licenses",
+          "data": [
+            {
+              "key": "Subject",
+              "value": "Ongoing objections to retention and use of LMS licenses"
+            },
+            {
+              "key": "Involved Parties",
+              "value": "Third parties, other users of the 902-928 MHz frequencies, former licensees"
+            },
+            {
+              "key": "Pending Issues",
+              "value": "Objections filed with the FCC, potential revocation or non-renewal of LMS licenses"
+            },
+            {
+              "key": "Previous Actions",
+              "value": "FCC has rejected similar objections in the past"
+            },
+            {
+              "key": "Impact of Objections",
+              "value": "Could adversely affect business expansion and financial condition"
+            },
+            {
+              "key": "Government Contracts",
+              "value": "Contracts with U.S. government agencies, including NASA"
+            },
+            {
+              "key": "Risks with Government Contracts",
+              "value": "Early termination, audits, investigations, sanctions, penalties"
+            },
+            {
+              "key": "Compliance Risks",
+              "value": "Potential for civil and criminal penalties, administrative sanctions, and loss of future revenue"
+            },
+            {
+              "key": "Mandatory Requirements",
+              "value": "Disclosure, accounting, compliance audits, socioeconomic compliance requirements"
+            },
+            {
+              "key": "Potential Consequences of Non-Compliance",
+              "value": "Price adjustments, recoupment of funds, suspension or debarment from contracts and subcontracts"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 35,
+          "title": "Regulatory and Legal Risks Related to Data Privacy and Protection",
+          "data": [
+            {
+              "key": "Legal risks",
+              "value": "Failure to comply with U.S. government contracting laws may lead to contract termination and financial liability."
+            },
+            {
+              "key": "False Claims Act",
+              "value": "Allows whistleblowers to sue on behalf of the U.S. government."
+            },
+            {
+              "key": "Data Protection",
+              "value": "Non-compliance with privacy laws could impact business operations and financial results."
+            },
+            {
+              "key": "CCPA",
+              "value": "California Consumer Privacy Act provides rights regarding personal information."
+            },
+            {
+              "key": "CPRA",
+              "value": "California Privacy Rights Act introduces amendments to CCPA, effective January 1, 2023."
+            },
+            {
+              "key": "VCDPA",
+              "value": "Virginia Consumer Data Protection Act establishes new consumer rights and data assessments."
+            },
+            {
+              "key": "FCC regulations",
+              "value": "Subject to rules regarding Customer Proprietary Network Information and location information."
+            },
+            {
+              "key": "PCI DSS",
+              "value": "Non-adherence to Payment Card Industry Data Security Standards can result in liability."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 36,
+          "title": "Regulatory Compliance Overview",
+          "data": [
+            {
+              "key": "Compliance Challenges",
+              "value": "Failure to comply with published privacy policies and other documentation may lead to legal action."
+            },
+            {
+              "key": "Impact of Future Laws",
+              "value": "Increased operational and compliance costs due to evolving regulations like CCPA, CPRA, and VCDPA."
+            },
+            {
+              "key": "Variety of Regulations",
+              "value": "Business subject to numerous laws including privacy, data security, health care, and export control."
+            },
+            {
+              "key": "Consequences of Non-Compliance",
+              "value": "Non-compliance may result in civil penalties, lawsuits, or revocation of necessary licenses."
+            },
+            {
+              "key": "Export Control Regulations",
+              "value": "Compliance required with U.S. export laws, affecting distribution of products and technology."
+            },
+            {
+              "key": "Licensing and Authorization Needs",
+              "value": "Critical to obtain necessary licenses or face operational restrictions."
+            },
+            {
+              "key": "Evolving Nature of Regulations",
+              "value": "Regulations subject to frequent changes, impacting business operations and compliance costs."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 39,
+          "title": "Unresolved Staff Comments and Properties",
+          "data": [
+            {
+              "key": "distributed_workforce",
+              "value": "We maintain a distributed workforce with facilities in McLean, Virginia, Sunnyvale, California, Neuilly-sur-Seine, France, Noida, India and Bangalore, India."
+            },
+            {
+              "key": "principle_executive_office",
+              "value": "Our principle executive office is in McLean, Virginia."
+            },
+            {
+              "key": "corporate_offices",
+              "value": "Our corporate offices in Virginia include finance, regulatory and network deployment functions."
+            },
+            {
+              "key": "technology_development_functions",
+              "value": "Our California facility hosts our technology development functions among other functions."
+            },
+            {
+              "key": "software_development",
+              "value": "Our French and Indian location houses a mix of employees and contractors focused on software development and research and development functions."
+            },
+            {
+              "key": "legal_proceedings",
+              "value": "In the course of our business, we are involved in litigation and legal matters from time to time."
+            },
+            {
+              "key": "uncertainties_of_outcomes",
+              "value": "Such matters are subject to many uncertainties and outcomes are not predictable with assurance."
+            },
+            {
+              "key": "liabilities_accrual",
+              "value": "We accrue liabilities for such matters when it is probable that future expenditures will be made and such expenditures can be reasonably estimated."
+            },
+            {
+              "key": "material_adverse_effect",
+              "value": "We do not believe that any such matters, individually or in the aggregate, will have a material adverse effect on our business, financial condition, results of operations, or cash flows."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 87,
+          "title": "NextNav Inc. Financial Statements Notes",
+          "data": [
+            {
+              "key": "valuation_allowance",
+              "value": "$88.9 million"
+            },
+            {
+              "key": "NOL_carryforwards_2022",
+              "value": "$76.0 million"
+            },
+            {
+              "key": "NOL_carryforwards_2021",
+              "value": "$36.4 million"
+            },
+            {
+              "key": "NOL_expiration_2027",
+              "value": "$5.0 million"
+            },
+            {
+              "key": "NOL_remain_carryforward",
+              "value": "$71.0 million"
+            },
+            {
+              "key": "foreign_NOLs_2022",
+              "value": "$5.8 million"
+            },
+            {
+              "key": "taxation_jurisdictions",
+              "value": "United States, India, France"
+            },
+            {
+              "key": "statute_limitation_India",
+              "value": "4 years"
+            },
+            {
+              "key": "statute_limitation_France",
+              "value": "3 years"
+            },
+            {
+              "key": "retirement_plan_contributions_2022",
+              "value": "$0.3 million"
+            },
+            {
+              "key": "retirement_plan_contributions_2021",
+              "value": "$0.3 million"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "supply_chain_disruption",
+          "page": 25,
+          "title": "Dependency on AT&T for Network Infrastructure",
+          "data": [
+            {
+              "key": "Hosting Agreement",
+              "value": "Equipment hosting agreement with AT&T, expiring in 2026."
+            },
+            {
+              "key": "Renewal Uncertainty",
+              "value": "No assurance that the agreement will be renewed."
+            },
+            {
+              "key": "Impact of Non-renewal",
+              "value": "Possible need for constructing new network, requiring significant resources."
+            },
+            {
+              "key": "Service Outages",
+              "value": "Experienced temporary service outages due to issues with AT&T's network."
+            },
+            {
+              "key": "FirstNet Partnership",
+              "value": "Reliance on AT&T for distribution of services to FirstNet customers."
+            },
+            {
+              "key": "Amended Service Agreement",
+              "value": "Extended service agreement with AT&T until January 7, 2024."
+            },
+            {
+              "key": "E911 Services Development",
+              "value": "Significant resources spent on software for E911 services."
+            },
+            {
+              "key": "FCC Compliance Issues",
+              "value": "Certain wireless carriers were subject to FCC enforcement actions."
+            },
+            {
+              "key": "Market Impact Risks",
+              "value": "Willingness of carriers and manufacturers to adopt services is uncertain."
+            },
+            {
+              "key": "Integration Challenges",
+              "value": "Integration into devices requires hardware and software upgrades."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 18,
+          "title": "Performance Rankings and Scores Comparison",
+          "data": [
+            {
+              "key": "Company",
+              "value": "NEXTNAV"
+            },
+            {
+              "key": "Service Type",
+              "value": "UHF terrestrial RF (920-928 MHz)"
+            },
+            {
+              "key": "Performance Rank",
+              "value": "1"
+            },
+            {
+              "key": "Performance Score",
+              "value": "91"
+            },
+            {
+              "key": "Company",
+              "value": "NEXTRAV"
+            },
+            {
+              "key": "Service Type",
+              "value": "LEO commercial S-band (2483.5-2500 MHz)"
+            },
+            {
+              "key": "Performance Rank",
+              "value": "N/A"
+            },
+            {
+              "key": "Performance Score",
+              "value": "N/A"
+            },
+            {
+              "key": "Company",
+              "value": "NEILLEN"
+            },
+            {
+              "key": "Service Type",
+              "value": "WCDMA terrestrial RF (90-104 Hz)"
+            },
+            {
+              "key": "Performance Rank",
+              "value": "6"
+            },
+            {
+              "key": "Performance Score",
+              "value": "62"
+            },
+            {
+              "key": "Company",
+              "value": "opnt"
+            },
+            {
+              "key": "Service Type",
+              "value": "Fiber optic time service"
+            },
+            {
+              "key": "Performance Rank",
+              "value": "2"
+            },
+            {
+              "key": "Performance Score",
+              "value": "87"
+            },
+            {
+              "key": "Company",
+              "value": "PhysioLab"
+            },
+            {
+              "key": "Service Type",
+              "value": "802.11 terrestrial RF (2.4 MHz)"
+            },
+            {
+              "key": "Performance Rank",
+              "value": "6"
+            },
+            {
+              "key": "Performance Score",
+              "value": "62"
+            },
+            {
+              "key": "Company",
+              "value": "Satelles"
+            },
+            {
+              "key": "Service Type",
+              "value": "LEO commercial L-band (1555-1626.5 MHz)"
+            },
+            {
+              "key": "Performance Rank",
+              "value": "4"
+            },
+            {
+              "key": "Performance Score",
+              "value": "78"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 55,
+          "title": "NextNav Inc. Document References and Exhibits",
+          "data": [
+            {
+              "key": "reference",
+              "value": "10.6*+"
+            },
+            {
+              "key": "description",
+              "value": "2011 Unit Option and Profits Interest Plan"
+            },
+            {
+              "key": "reference",
+              "value": "10.7*!"
+            },
+            {
+              "key": "description",
+              "value": "Equipment, Network Colocation and Installation Agreement with AT&T Services, Inc."
+            },
+            {
+              "key": "reference",
+              "value": "10.8*"
+            },
+            {
+              "key": "description",
+              "value": "Private Placement Warrant Purchase Agreement with Sponsor"
+            },
+            {
+              "key": "reference",
+              "value": "10.9*"
+            },
+            {
+              "key": "description",
+              "value": "Private Placement Warrant Purchase Agreement with B. Riley Principal Investments, LLC"
+            },
+            {
+              "key": "reference",
+              "value": "10.10*+"
+            },
+            {
+              "key": "description",
+              "value": "Employment Agreement with Ganesh Pattabiraman"
+            },
+            {
+              "key": "reference",
+              "value": "10.11*+"
+            },
+            {
+              "key": "description",
+              "value": "Employment Agreement with Christian D. Gates"
+            },
+            {
+              "key": "reference",
+              "value": "10.12*+"
+            },
+            {
+              "key": "description",
+              "value": "Employment Agreement with David Knutson"
+            },
+            {
+              "key": "reference",
+              "value": "10.13*+"
+            },
+            {
+              "key": "description",
+              "value": "Form of Nonqualified Option Agreement under 2021 Omnibus Incentive Plan"
+            },
+            {
+              "key": "reference",
+              "value": "10.14*+"
+            },
+            {
+              "key": "description",
+              "value": "Form of Restricted Stock Unit Agreement (Business Combination grants)"
+            },
+            {
+              "key": "reference",
+              "value": "10.15*+"
+            },
+            {
+              "key": "description",
+              "value": "Form of Restricted Stock Unit Agreement (Employees)"
+            },
+            {
+              "key": "reference",
+              "value": "10.16*+"
+            },
+            {
+              "key": "description",
+              "value": "Form of Restricted Stock Unit Agreement (Directors)"
+            },
+            {
+              "key": "reference",
+              "value": "10.17*+"
+            },
+            {
+              "key": "description",
+              "value": "Form of Restricted Stock Agreement (Directors)"
+            },
+            {
+              "key": "reference",
+              "value": "10.18*!"
+            },
+            {
+              "key": "description",
+              "value": "Share Transfer Agreement"
+            },
+            {
+              "key": "reference",
+              "value": "21.1"
+            },
+            {
+              "key": "description",
+              "value": "Subsidiaries of the Registrant"
+            },
+            {
+              "key": "reference",
+              "value": "23.1"
+            },
+            {
+              "key": "description",
+              "value": "Consent of Ernst & Young LLP"
+            },
+            {
+              "key": "reference",
+              "value": "31.1"
+            },
+            {
+              "key": "description",
+              "value": "CEO Certification pursuant to Exchange Act Rule 13a-14(a)"
+            },
+            {
+              "key": "reference",
+              "value": "31.2"
+            },
+            {
+              "key": "description",
+              "value": "CFO Certification pursuant to Exchange Act Rule 13a-14(a)"
+            },
+            {
+              "key": "reference",
+              "value": "BOA"
+            },
+            {
+              "key": "description",
+              "value": "CEO & CFO Certification pursuant to 18 U.S.C. Section 1350"
+            },
+            {
+              "key": "reference",
+              "value": "101.INS"
+            },
+            {
+              "key": "description",
+              "value": "Inline XBRL Instance Document"
+            },
+            {
+              "key": "reference",
+              "value": "101.SCH"
+            },
+            {
+              "key": "description",
+              "value": "Inline XBRL Taxonomy Extension Schema Document"
+            },
+            {
+              "key": "reference",
+              "value": "101.CAL"
+            },
+            {
+              "key": "description",
+              "value": "Inline XBRL Taxonomy Extension Calculation Linkbase Document"
+            },
+            {
+              "key": "reference",
+              "value": "101.DEF"
+            },
+            {
+              "key": "description",
+              "value": "Inline XBRL Taxonomy Extension Definition Linkbase Document"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 116,
+    "EUR": 11,
+    "AUD": 10
+  },
+  "sha1": "0f111d244aee3d976684995a222fa177a64571c4"
+}

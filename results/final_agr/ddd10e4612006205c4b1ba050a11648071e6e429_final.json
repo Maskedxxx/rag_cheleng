@@ -1,0 +1,3707 @@
+{
+  "letters": 181097,
+  "pages": 69,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "Brave Bison Group plc",
+    "major_industry": "Media & Entertainment",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 26,
+          "title": "Directors' Report Overview",
+          "data": [
+            {
+              "key": "financial_results",
+              "value": "Revenue for the year was £31.7 million, a 46% increase from £21.6 million in the year ended 31 December 2021."
+            },
+            {
+              "key": "dividend_policy",
+              "value": "The Directors do not recommend a dividend at 31 December 2022 (31 December 2021: £nil)."
+            },
+            {
+              "key": "political_donations",
+              "value": "The Group made no political donations (2021: £nil)."
+            },
+            {
+              "key": "charitable_donations",
+              "value": "The Group made no charitable donations (2021: £nil)."
+            },
+            {
+              "key": "principal_activity",
+              "value": "The principal activity of the Group and Company is that of a digital media publisher and provider of digital advertising and technology services."
+            },
+            {
+              "key": "going_concern",
+              "value": "The consolidated financial statements have been prepared on the going concern basis."
+            },
+            {
+              "key": "auditors",
+              "value": "Moore Kingston Smith LLP will be proposed for reappointment at the forthcoming Annual General Meeting."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 30,
+          "title": "INDEPENDENT AUDITOR’S REPORT TO THE MEMBERS OF BRAVE BISON GROUP PLC",
+          "data": [
+            {
+              "key": "Audit Year Ended",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "Financial Statements Scope",
+              "value": "Consolidated Income Statement, Consolidated Statement of Comprehensive Income, Consolidated Statement of Financial Position, Consolidated Statement of Cash Flows, Consolidated Statement of Changes in Equity, Company Balance Sheet, Company Statement of Changes in Equity and notes to the financial statements"
+            },
+            {
+              "key": "Financial Reporting Framework",
+              "value": "UK adopted International Accounting Standards and United Kingdom Accounting Standards"
+            },
+            {
+              "key": "Opinion",
+              "value": "The financial statements give a true and fair view of the state of the group’s and of the parent company’s affairs as at 31 December 2022 and of the group’s profit for the year then ended."
+            },
+            {
+              "key": "Key Audit Matters",
+              "value": "Significant assessed risks of material misstatement, audit strategy, allocation of resources in the audit."
+            },
+            {
+              "key": "Independence",
+              "value": "Independent of the group and the parent company in accordance with the ethical requirements relevant to the audit."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 32,
+          "title": "INDEPENDENT AUDITOR’S REPORT - ACQUISITION ACCOUNTING",
+          "data": [
+            {
+              "key": "Acquisition of Best Response Media Limited",
+              "value": "The directors assessed the applicable accounting treatment of the acquisition."
+            },
+            {
+              "key": "Significant Risk Identification",
+              "value": "Accounting for the acquisition identified as significant risk."
+            },
+            {
+              "key": "Key Audit Procedures",
+              "value": "Included assessment of management’s entries and goodwill calculation."
+            },
+            {
+              "key": "Management Assertions",
+              "value": "Critically assessed management's assertions regarding fair value and intangible assets."
+            },
+            {
+              "key": "Performance of Audit Work",
+              "value": "Included specific audit procedures for material accuracy and compliance."
+            },
+            {
+              "key": "Conclusion on Acquisition Accounting",
+              "value": "Acquisition accounting correctly applied under IFRS 3."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 32,
+          "title": "IMPAIRMENT OF INVESTMENTS",
+          "data": [
+            {
+              "key": "Carrying Value of Investments",
+              "value": "£18.022m in subsidiaries."
+            },
+            {
+              "key": "Impairment Assessment Process",
+              "value": "Complex process including cash flow forecasts."
+            },
+            {
+              "key": "Audit Work Inclusion",
+              "value": "Included evaluating management's forecasts and assumptions."
+            },
+            {
+              "key": "Conclusion on Investments",
+              "value": "Carrying value not materially misstated; impairment assessment appropriate."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 46,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS CONTINUED",
+          "data": [
+            {
+              "key": "Critical accounting judgements",
+              "value": "Discussion on key estimates and judgements including valuation of intangible assets, impairment assessments, trade receivables’ recovery, revenue treatment, and deferred taxation."
+            },
+            {
+              "key": "Intangible assets and impairment",
+              "value": "Intangible assets acquired in business combinations are measured at fair value using expert valuations, involving assumptions on future cash flows and discount rates, with estimated useful lives driving amortisation."
+            },
+            {
+              "key": "Trade receivables’ recovery",
+              "value": "Identifies a minor balance over one year old judged as recoverable due to an offsetting trade payable balance with the same counterparty."
+            },
+            {
+              "key": "Treatment of revenue as agent or principal",
+              "value": "Determination involves assessing control of goods or services, inventory risk, and price discretion based on significant contracts."
+            },
+            {
+              "key": "Deferred taxation",
+              "value": "Deferred tax assets from tax loss carryforwards are recognised only when future taxable profits are probable."
+            },
+            {
+              "key": "Greenlight acquisition and purchase price allocation",
+              "value": "The purchase price allocation was fully assessed within the one year IFRS 3 measurement period, with acquired intangibles identified and valued relating to the Greenlight trade name and customer relationships."
+            },
+            {
+              "key": "Best Response Media acquisition and purchase price allocation",
+              "value": "Provisionally assessed at interim valuation; excess of consideration over fair value allocated to goodwill pending a full valuation exercise within the IFRS 3 measurement period."
+            },
+            {
+              "key": "Estimates – Share based payment charges",
+              "value": "Valuation uses the Black-Scholes method with assumptions on exchange rate volatility, risk-free rate, share price volatility, and a typical expected life of 4 years."
+            },
+            {
+              "key": "Bad debt provision",
+              "value": "Provisions are made based on historical experience for receivables with doubtful recoverability, acknowledging subjectivity in determining the required level."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 60,
+          "title": "Financial Obligations Comparison 2021-2022 (in £000's)",
+          "data": [
+            {
+              "key": "Amounts owed to Tangent Marketing Services Limited",
+              "value": "£17,000"
+            },
+            {
+              "key": "Amounts owed by Tangent Marketing Services Limited",
+              "value": "£68,000"
+            },
+            {
+              "key": "Amounts owed by Printed Group Limited",
+              "value": "£20,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 60,
+          "title": "Reconciliation of liabilities arising from financing activities",
+          "data": [
+            {
+              "key": "At 31 December 2021: Bank loans > 1year",
+              "value": "£308,000"
+            },
+            {
+              "key": "At 31 December 2021: Bank loans < 1 year",
+              "value": "£108,000"
+            },
+            {
+              "key": "At 31 December 2021: Total",
+              "value": "£1,438,000"
+            },
+            {
+              "key": "Cashflows: Bank loans > 1year",
+              "value": "-£109,000"
+            },
+            {
+              "key": "Cashflows: Bank loans < 1 year",
+              "value": "£1,000"
+            },
+            {
+              "key": "Cashflows: Total",
+              "value": "-£737,000"
+            },
+            {
+              "key": "At 31 December 2022: Bank loans > 1year",
+              "value": "£199,000"
+            },
+            {
+              "key": "At 31 December 2022: Bank loans < 1 year",
+              "value": "£109,000"
+            },
+            {
+              "key": "At 31 December 2022: Total",
+              "value": "£701,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 60,
+          "title": "Fair Value Adjustments for Acquisitions",
+          "data": [
+            {
+              "key": "Goodwill: Interim Valuation",
+              "value": "£5,686,000"
+            },
+            {
+              "key": "Goodwill: Fair Value Adjustments",
+              "value": "-£1,140,000"
+            },
+            {
+              "key": "Goodwill: Fair Value",
+              "value": "£4,546,000"
+            },
+            {
+              "key": "Brands: Fair Value Adjustments",
+              "value": "£346,000"
+            },
+            {
+              "key": "Customer relationships: Fair Value Adjustments",
+              "value": "£1,155,000"
+            },
+            {
+              "key": "Tangible Assets: Interim Valuation",
+              "value": "£755,000"
+            },
+            {
+              "key": "Trade and other receivables: Interim Valuation",
+              "value": "£3,576,000"
+            },
+            {
+              "key": "Cash and cash equivalents: Interim Valuation",
+              "value": "£785,000"
+            },
+            {
+              "key": "Current Liabilities: Interim Valuation",
+              "value": "-£3,679,000"
+            },
+            {
+              "key": "Non-current liabilities: Interim Valuation",
+              "value": "-£722,000"
+            },
+            {
+              "key": "Deferred tax: Fair Value Adjustments",
+              "value": "-£361,000"
+            },
+            {
+              "key": "Total: Interim Valuation",
+              "value": "£6,534,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 61,
+          "title": "Acquisition and Fair Value Assessment for Best Response Media Limited and Social Chain Limited",
+          "data": [
+            {
+              "key": "Acquisition Date",
+              "value": "28 April 2022"
+            },
+            {
+              "key": "Target Entity",
+              "value": "Best Response Media Limited"
+            },
+            {
+              "key": "Transaction Details",
+              "value": "The Group acquired the entire issued share capital of Best Response Media Limited. Acquisition consideration was financed by existing cash balances."
+            },
+            {
+              "key": "Revised Fair Value Assessment",
+              "value": "Fair value assessments with adjustments for Goodwill, Brands, Customer relationships, Trade and other receivables, Cash and cash equivalents, Current Liabilities, and Deferred tax have been provided."
+            },
+            {
+              "key": "Book to Fair Value Reconciliation",
+              "value": "A table provided reconciliation for Goodwill, Tangible Assets, Trade and other receivables, Cash and cash equivalents, and Current Liabilities, with total net value of 1,174 units."
+            },
+            {
+              "key": "Consideration Payment Breakdown",
+              "value": "Includes Initial cash consideration (962), Completion accounts adjustment (37), and Deferred cash consideration (175) totaling 1,174 units."
+            },
+            {
+              "key": "Valuation Methodology",
+              "value": "Interim fair value adjustment as per IFRS3; un-estimated intangible assets allocated to Goodwill with possibility for future separate recognition."
+            },
+            {
+              "key": "Post Balance Sheet Event",
+              "value": "On 3 February 2023, acquisition of Social Chain Limited was announced with an initial consideration of £7.7m, partially funded via an oversubscribed vendor placing raising £4.75m."
+            },
+            {
+              "key": "Additional Impact",
+              "value": "Best Response Media Limited contributed £0.5m in revenue and £0.2m loss for the period; hypothetical full-year impact would have been Group revenues of £32m and profit of £1.9m."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 7,
+          "title": "Appointment of Gordon Brough as Non-Executive Director",
+          "data": [
+            {
+              "key": "name",
+              "value": "Gordon Brough"
+            },
+            {
+              "key": "position",
+              "value": "Non-Executive Director"
+            },
+            {
+              "key": "experience",
+              "value": "Extensive experience in UK public companies, former General Counsel at Aberdeen Asset Management plc."
+            },
+            {
+              "key": "impact",
+              "value": "Crucial to the business in acquisitions and corporate profile."
+            },
+            {
+              "key": "statement",
+              "value": "Commitment to developing Brave Bison's board in line with modern governance standards."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 10,
+          "title": "SECTION 172 STATEMENT",
+          "data": [
+            {
+              "key": "Statement Date",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "Directors Responsibilities",
+              "value": "Promote the success of the Group for the benefit of its members"
+            },
+            {
+              "key": "Stakeholders Engagement",
+              "value": "Directors engage with key stakeholders such as employees, shareholders, and suppliers."
+            },
+            {
+              "key": "Employees Policy",
+              "value": "Equal opportunities employer, committed to diversity and inclusion."
+            },
+            {
+              "key": "Shareholder Communication",
+              "value": "Open and transparent communications with all shareholder groups."
+            },
+            {
+              "key": "Customer Service Policy",
+              "value": "Dedicated employees provide updates through regular business reviews."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 17,
+          "title": "Board of Directors",
+          "data": [
+            {
+              "key": "Комитет по вознаграждению",
+              "value": "Отчет о вознаграждении"
+            },
+            {
+              "key": "Комитет по аудиту и рискам",
+              "value": "Отчет о контроле рисков"
+            },
+            {
+              "key": "Ответственности директоров",
+              "value": "Заявление об ответственности директоров"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 18,
+          "title": "Leadership Overview",
+          "data": [
+            {
+              "key": "Executive Chairman",
+              "value": "OLIVER GREEN"
+            },
+            {
+              "key": "Background",
+              "value": "Oli is Executive Chairman of Brave Bison and has worked in digital marketing and technology for the past 10 years."
+            },
+            {
+              "key": "Prior Experience",
+              "value": "Oli was Managing Director of Tangent, a Top 100 Technology agency and worked with clients such as Amazon, SAP, LVMH and Sky."
+            },
+            {
+              "key": "Recognition",
+              "value": "Listed in Campaign magazine’s annual #MediaWeek 30 Under 30 for 2020."
+            },
+            {
+              "key": "Education",
+              "value": "Degree from University College London (UCL)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 18,
+          "title": "Leadership Overview",
+          "data": [
+            {
+              "key": "Chief Growth Officer",
+              "value": "THEODORE GREEN"
+            },
+            {
+              "key": "Background",
+              "value": "Theo is Chief Growth Officer of Brave Bison and is experienced in digital media, advertising, acquisitions and corporate finance."
+            },
+            {
+              "key": "Prior Experience",
+              "value": "Worked at Tangent, a Top 100 technology agency and was an Associate at Brockton Capital."
+            },
+            {
+              "key": "Assets under Management",
+              "value": "Brockton Capital had assets under management of over $3bn."
+            },
+            {
+              "key": "Education",
+              "value": "Degree from Imperial College London."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 18,
+          "title": "Leadership Overview",
+          "data": [
+            {
+              "key": "Chief Financial Officer",
+              "value": "PHILIPPA NORRIDGE"
+            },
+            {
+              "key": "Background",
+              "value": "Philippa is Chief Financial Officer and Company Secretary of Brave Bison with 19 years of experience in the media and marketing services sector."
+            },
+            {
+              "key": "Prior Experience",
+              "value": "Finance Director of Tangent and senior finance roles at several marketing services firms."
+            },
+            {
+              "key": "Chartered Accountant",
+              "value": "Qualified with Moore Kingston Smith."
+            },
+            {
+              "key": "Education",
+              "value": "Degree from the University of Oxford."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 19,
+          "title": "Leadership Information for Non-Executive Directors",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Matthew Law"
+            },
+            {
+              "key": "Position",
+              "value": "Non-Executive Director"
+            },
+            {
+              "key": "Experience",
+              "value": "25 years in marketing and advertising with a focus on emerging digital technology"
+            },
+            {
+              "key": "Current Roles",
+              "value": "Founding partner at Move78, partner at Outlier Ventures"
+            },
+            {
+              "key": "Notable Clients",
+              "value": "Guardian, BBC, Vodafone, HSBC, Nike, Unilever, Pernod Ricard, Sainsbury's"
+            },
+            {
+              "key": "Name",
+              "value": "Gordon Brough"
+            },
+            {
+              "key": "Position",
+              "value": "Non-Executive Director"
+            },
+            {
+              "key": "Experience",
+              "value": "Over 20 years with public companies and legal affairs"
+            },
+            {
+              "key": "Current Roles",
+              "value": "General Counsel at AssetCo"
+            },
+            {
+              "key": "Former Roles",
+              "value": "General Counsel at CQS and Aberdeen Asset Management plc"
+            },
+            {
+              "key": "Education",
+              "value": "LLB (Hons) and Diploma in Legal Practice from University of Dundee"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 20,
+          "title": "Statement of Corporate Governance",
+          "data": [
+            {
+              "key": "Board Composition",
+              "value": "The Board comprises three Executive Directors and two Non-Executive Directors."
+            },
+            {
+              "key": "Independent Directors",
+              "value": "Matthew Law and Gordon Brough are considered to be independent."
+            },
+            {
+              "key": "Executive Chairman",
+              "value": "The Group does not have an independent Chairman as the Executive Chairman has significant shareholding."
+            },
+            {
+              "key": "Current Structure Review",
+              "value": "The Board recognizes the requirement to split the roles of Chairman and CEO and will keep this under review."
+            },
+            {
+              "key": "Board Meeting Frequency",
+              "value": "The Board aims to convene 6 times a year, with additional meetings as required."
+            },
+            {
+              "key": "Board Attendance Summary",
+              "value": "Most directors attended all 8 board meetings, except Gordon Brough who attended 7."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 21,
+          "title": "Appointments to the Board and Re-election",
+          "data": [
+            {
+              "key": "Requirements for Directors",
+              "value": "Directors hold office until the first annual general meeting and must seek re-election every three years."
+            },
+            {
+              "key": "Board Responsibilities",
+              "value": "Overall management of the Group, formulation and approval of long-term objectives and strategy, oversight of Group operations."
+            },
+            {
+              "key": "Audit & Risk Committee Composition",
+              "value": "Comprises two Non-Executive Directors, Gordon Brough (Committee Chair) and Matthew Law."
+            },
+            {
+              "key": "Remuneration Committee Composition",
+              "value": "Comprises Matthew Law (Committee Chair) and Gordon Brough."
+            },
+            {
+              "key": "Committees' Roles",
+              "value": "Audit & Risk Committee oversees financial reports, fraud risk review, and auditor relationships; Remuneration Committee manages remuneration aspects of Executive Directors."
+            },
+            {
+              "key": "Engagement with Shareholders",
+              "value": "Board communicates with Shareholders through annual reports, results announcements, and meetings."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 23,
+          "title": "Audit & Risk Committee Report",
+          "data": [
+            {
+              "key": "Chair",
+              "value": "Gordon Brough"
+            },
+            {
+              "key": "Committee Members",
+              "value": "Matthew Law, Gordon Brough"
+            },
+            {
+              "key": "External Auditor",
+              "value": "Moore Kingston Smith LLP"
+            },
+            {
+              "key": "Audit Fees (Non-Audit Services)",
+              "value": "£10k"
+            },
+            {
+              "key": "Previous Audit Fees (Non-Audit Services)",
+              "value": "£5k"
+            },
+            {
+              "key": "Meeting Dates",
+              "value": "Twice during the year ended 31 December 2022"
+            },
+            {
+              "key": "Reserve for Internal Audit",
+              "value": "No current requirement for separate internal audit function"
+            },
+            {
+              "key": "Report Date",
+              "value": "26 April 2023"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "leadership_change",
+          "page": 27,
+          "title": "Major Shareholders Structure",
+          "data": [
+            {
+              "key": "Shareholder",
+              "value": "Oliver Green and Theodore Green*"
+            },
+            {
+              "key": "Number of Shares",
+              "value": "241468473"
+            },
+            {
+              "key": "% Share Capital",
+              "value": "22.34"
+            },
+            {
+              "key": "Shareholder",
+              "value": "CIP Merchant Capital"
+            },
+            {
+              "key": "Number of Shares",
+              "value": "166694144"
+            },
+            {
+              "key": "% Share Capital",
+              "value": "15.42"
+            },
+            {
+              "key": "Shareholder",
+              "value": "Lombard Odier"
+            },
+            {
+              "key": "Number of Shares",
+              "value": "129593240"
+            },
+            {
+              "key": "% Share Capital",
+              "value": "11.99"
+            },
+            {
+              "key": "Shareholder",
+              "value": "James DeLeon**"
+            },
+            {
+              "key": "Number of Shares",
+              "value": "97132017"
+            },
+            {
+              "key": "% Share Capital",
+              "value": "8.99"
+            },
+            {
+              "key": "Shareholder",
+              "value": "Simon Davies"
+            },
+            {
+              "key": "Number of Shares",
+              "value": "65643814"
+            },
+            {
+              "key": "% Share Capital",
+              "value": "6.07"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 27,
+          "title": "Statement of Directors’ Responsibilities",
+          "data": [
+            {
+              "key": "Roles of Directors",
+              "value": "Responsible for preparing the Annual Report and financial statements in accordance with applicable law and regulations."
+            },
+            {
+              "key": "Preparation Standards",
+              "value": "UK adopted International Accounting Standards"
+            },
+            {
+              "key": "Accounting Policies",
+              "value": "Select suitable accounting policies and apply them consistently."
+            },
+            {
+              "key": "Record Keeping",
+              "value": "Keeping adequate accounting records."
+            },
+            {
+              "key": "Fraud Prevention",
+              "value": "Taking reasonable steps for the prevention and detection of fraud."
+            },
+            {
+              "key": "Directors' Confirmation",
+              "value": "No relevant audit information of which the auditor is unaware."
+            },
+            {
+              "key": "Report Date",
+              "value": "26 April 2022"
+            },
+            {
+              "key": "Signatory",
+              "value": "Oliver Green, Executive Chairman, Brave Bison Group plc"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 67,
+          "title": "COMPANY INFORMATION AND ADVISERS",
+          "data": [
+            {
+              "key": "Board of Directors",
+              "value": "Oliver Green; Philippa Norridge; Matthew Law; Theodore Green; Gordon Brough (appointed 11 July 2022)"
+            },
+            {
+              "key": "Company Secretary",
+              "value": "Philippa Norridge"
+            },
+            {
+              "key": "Registered Office",
+              "value": "The Varnish Works, 3 Bravingtons Walk, London, N1 9AJ"
+            },
+            {
+              "key": "Company Number",
+              "value": "08754680"
+            },
+            {
+              "key": "Auditors",
+              "value": "Moore Kingston Smith LLP, 6th Floor 9 Appold Street, London, EC2A 2AP; Memery Crystal LLP, 165 Fleet Street, London, EC4A 2DY"
+            },
+            {
+              "key": "Solicitors",
+              "value": "Memery Crystal LLP, 165 Fleet Street, London, EC4A 2DY"
+            },
+            {
+              "key": "Nominated Adviser and Broker",
+              "value": "Cenkos Securities Plc, 6.7.8 Tokenhouse Yard, London, EC2R 7AS"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 24,
+          "title": "Remuneration Committee Report",
+          "data": [
+            {
+              "key": "Year Ended",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "Total Compensation (All Directors)",
+              "value": "£453,000"
+            },
+            {
+              "key": "Executive Directors' Total Salary",
+              "value": "£372,000"
+            },
+            {
+              "key": "Executive Directors' Total Bonuses",
+              "value": "£25,000"
+            },
+            {
+              "key": "Executive Directors' Total Pension Contributions",
+              "value": "£46,000"
+            },
+            {
+              "key": "Highest Compensation (Executive)",
+              "value": "Philippa Norridge - £189,000"
+            },
+            {
+              "key": "Director Contracts",
+              "value": "All Executive Directors have service contracts."
+            },
+            {
+              "key": "Notice Periods (Oliver & Theodore Green)",
+              "value": "12 months"
+            },
+            {
+              "key": "Notice Period (Philippa Norridge)",
+              "value": "6 months"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 25,
+          "title": "Director’s Interests and Share Awards",
+          "data": [
+            {
+              "key": "Director",
+              "value": "Oliver & Theodore Green*"
+            },
+            {
+              "key": "Shares Owned",
+              "value": "241,468,473"
+            },
+            {
+              "key": "Percentage of Ownership",
+              "value": "22.34%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 25,
+          "title": "Philippa Norridge Shares",
+          "data": [
+            {
+              "key": "Shares Owned",
+              "value": "9,022,060"
+            },
+            {
+              "key": "Percentage of Ownership",
+              "value": "0.83%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 25,
+          "title": "Gordon Brough Shares",
+          "data": [
+            {
+              "key": "Shares Owned",
+              "value": "587,371"
+            },
+            {
+              "key": "Percentage of Ownership",
+              "value": "0.05%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 25,
+          "title": "Matthew Law Shares",
+          "data": [
+            {
+              "key": "Shares Owned",
+              "value": "Nil"
+            },
+            {
+              "key": "Percentage of Ownership",
+              "value": "Nil"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 50,
+          "title": "Directors and employees",
+          "data": [
+            {
+              "key": "Average number of employees in sales and operations",
+              "value": "137"
+            },
+            {
+              "key": "Average number of employees in support services and senior executives",
+              "value": "25"
+            },
+            {
+              "key": "Average number of executives",
+              "value": "162"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 50,
+          "title": "Employee Costs Breakdown",
+          "data": [
+            {
+              "key": "Wages and salaries",
+              "value": "3,558"
+            },
+            {
+              "key": "Payroll taxes",
+              "value": "341"
+            },
+            {
+              "key": "Pension contributions",
+              "value": "183"
+            },
+            {
+              "key": "Total cost",
+              "value": "4,082"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 50,
+          "title": "Directors' Emoluments",
+          "data": [
+            {
+              "key": "Total emoluments for nearest period",
+              "value": "446"
+            },
+            {
+              "key": "Total emoluments for previous period",
+              "value": "304"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 50,
+          "title": "Key Management Compensation",
+          "data": [
+            {
+              "key": "Salaries including bonuses (2022)",
+              "value": "391"
+            },
+            {
+              "key": "Salaries including bonuses (2021)",
+              "value": "273"
+            },
+            {
+              "key": "Social security costs (2022)",
+              "value": "54"
+            },
+            {
+              "key": "Social security costs (2021)",
+              "value": "38"
+            },
+            {
+              "key": "Total Emoluments (2022)",
+              "value": "445"
+            },
+            {
+              "key": "Total Emoluments (2021)",
+              "value": "311"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Intangible Assets Movement Schedule",
+          "data": [
+            {
+              "key": "As at December 2020",
+              "value": "0"
+            },
+            {
+              "key": "Addition due to acquisition of Greenlight",
+              "value": "135"
+            },
+            {
+              "key": "Recognised in the income statement",
+              "value": "0"
+            },
+            {
+              "key": "As at 31 December 2021",
+              "value": "135"
+            },
+            {
+              "key": "Recognised in the income statement",
+              "value": "67"
+            },
+            {
+              "key": "Balance arising as a result of the PPA exercise in relation to Greenlight",
+              "value": "-437"
+            },
+            {
+              "key": "As at 31 December 2022",
+              "value": "-235"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Receivables Breakdown",
+          "data": [
+            {
+              "key": "Trade receivables",
+              "value": "5,613"
+            },
+            {
+              "key": "Less allowance for credit losses",
+              "value": "(587)"
+            },
+            {
+              "key": "Net trade receivables",
+              "value": "5,026"
+            },
+            {
+              "key": "Unbilled income",
+              "value": "1,737"
+            },
+            {
+              "key": "Other receivables",
+              "value": "663"
+            },
+            {
+              "key": "Total",
+              "value": "7,426"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Aging Analysis of Trade Receivables",
+          "data": [
+            {
+              "key": "Not overdue",
+              "value": "3,357"
+            },
+            {
+              "key": "Not more than three months",
+              "value": "817"
+            },
+            {
+              "key": "More than three months but not more than six months",
+              "value": "93"
+            },
+            {
+              "key": "More than six months but not more than one year",
+              "value": "34"
+            },
+            {
+              "key": "More than one year",
+              "value": "725"
+            },
+            {
+              "key": "Total",
+              "value": "5,026"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Provisions Movement Schedule",
+          "data": [
+            {
+              "key": "Opening provision",
+              "value": "-559"
+            },
+            {
+              "key": "Provisions from acquisition of Greenlight",
+              "value": "0"
+            },
+            {
+              "key": "Provisions from acquisition of Best Response Media",
+              "value": "-70"
+            },
+            {
+              "key": "Receivables provided for during period",
+              "value": "-359"
+            },
+            {
+              "key": "Reversal of previous provisions",
+              "value": "401"
+            },
+            {
+              "key": "Total",
+              "value": "-587"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 56,
+          "title": "Option Valuation Parameters",
+          "data": [
+            {
+              "key": "Expected option life",
+              "value": "4 years"
+            },
+            {
+              "key": "Expected volatility",
+              "value": "50%"
+            },
+            {
+              "key": "Weighted average volatility",
+              "value": "50%"
+            },
+            {
+              "key": "Risk-free interest rate",
+              "value": "0.75%"
+            },
+            {
+              "key": "Expected dividend yield",
+              "value": "0%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 56,
+          "title": "Details of the options issued under the approved scheme (2021)",
+          "data": [
+            {
+              "key": "Outstanding at the beginning of the year",
+              "value": "42560773"
+            },
+            {
+              "key": "Granted during the year",
+              "value": "26500000"
+            },
+            {
+              "key": "Exercised during the year",
+              "value": "-5838212"
+            },
+            {
+              "key": "Cancelled during the year",
+              "value": "-4391721"
+            },
+            {
+              "key": "Outstanding at the end of the year",
+              "value": "58830840"
+            },
+            {
+              "key": "Exercisable at the end of the year",
+              "value": "6671999"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 56,
+          "title": "Details of the options issued under the approved scheme (2022)",
+          "data": [
+            {
+              "key": "Outstanding at the beginning of the year",
+              "value": "58,830,840"
+            },
+            {
+              "key": "Granted during the year",
+              "value": "9,050,000"
+            },
+            {
+              "key": "Cancelled during the year",
+              "value": "(4,511,715)"
+            },
+            {
+              "key": "Outstanding at the end of the year",
+              "value": "63,369,125"
+            },
+            {
+              "key": "Exercisable at the end of the year",
+              "value": "19,874,140"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 44,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS CONTINUED: Development Costs and Other Financial Disclosures",
+          "data": [
+            {
+              "key": "Development Costs",
+              "value": "Expenditure on the research phase of an internal project is expensed as incurred, while development costs for specific projects are capitalised if criteria such as technical feasibility, management intent, ability to use or sell, availability of adequate resources, and reliable measurement of expenditure are met. Costs include directly attributable employee and third party expenses, with judgments applied by the Directors."
+            },
+            {
+              "key": "Investments in Associates and Joint Ventures",
+              "value": "Investments are accounted for using the equity method, with adjustments to reflect the Group’s share of profit or loss and other comprehensive income."
+            },
+            {
+              "key": "Taxation",
+              "value": "Tax expenses comprise current tax, based on taxable profit, and deferred tax, recognised on differences between the carrying amounts of assets and liabilities and their tax bases. Deferred taxes are measured using enacted or substantively enacted tax rates with appropriate offsetting when applicable."
+            },
+            {
+              "key": "Financial Instruments",
+              "value": "Financial assets and liabilities are recognised when the Group becomes a party to the contractual provisions, and derecognised when contractual rights or obligations cease."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 12,
+          "title": "Brave Bison Business Model",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "Brave Bison is a digital media, digital advertising and technology company, built to exist in the era of online products and services."
+            },
+            {
+              "key": "Business Units",
+              "value": "Includes Brave Bison Performance, Brave Bison Social & Influencer (now Social Chain), Brave Bison Commerce, and Brave Bison Media Network."
+            },
+            {
+              "key": "Performance Unit",
+              "value": "Paid and organic media practice; offers digital media planning and buying."
+            },
+            {
+              "key": "Social & Influencer Unit",
+              "value": "Creates content for social media platforms and works with influencers."
+            },
+            {
+              "key": "Commerce Unit",
+              "value": "Creates and maintains transactional websites, enhancing digital customer experience."
+            },
+            {
+              "key": "Media Network",
+              "value": "A portfolio of channels generating over 1 billion monthly views."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 13,
+          "title": "New Product Launch in Digital Advertising",
+          "data": [
+            {
+              "key": "Description",
+              "value": "A company launches a new product in the digital advertising space."
+            },
+            {
+              "key": "Involved Agencies",
+              "value": "Digital advertising agency, creative agency, digital commerce agency."
+            },
+            {
+              "key": "Campaign Details",
+              "value": "Plan includes target audience and appropriate platforms."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 43,
+          "title": "Accounting Policies for Leases, Property, Plant and Equipment and Impairment",
+          "data": [
+            {
+              "key": "Lease Liability Remeasurement",
+              "value": "When the lease liability is remeasured, the corresponding adjustment is reflected in the right-of-use asset, or in profit and loss if the asset balance is zero."
+            },
+            {
+              "key": "Short-term Leases and Low-Value Assets",
+              "value": "The Group uses practical expedients; instead of recognizing a right-of-use asset and lease liability, payments are recognized as an expense on a straight-line basis over the lease term."
+            },
+            {
+              "key": "Presentation in Financial Position",
+              "value": "Right-of-use assets are included in property, plant and equipment and lease liabilities are included in trade and other payables."
+            },
+            {
+              "key": "Depreciation of Property, Plant and Equipment",
+              "value": "Assets are stated at historical cost less accumulated depreciation and impairment. Depreciation is calculated on a straight-line basis over the asset's useful life."
+            },
+            {
+              "key": "Depreciation of Right-of-use Assets",
+              "value": "Depreciated on a straight-line basis from lease commencement date to the earlier of the asset's useful life end or lease term end. Impairment reviews are conducted when indicators exist."
+            },
+            {
+              "key": "Impairment of Assets",
+              "value": "At each balance sheet date, the Group reviews PP&E and intangible assets for impairment. If the recoverable amount is less than the carrying amount, an impairment loss is recognized immediately in profit or loss, with reversals handled cautiously."
+            },
+            {
+              "key": "Intangible Assets",
+              "value": "Recognized if future economic benefits are probable and cost can be reliably measured; amortized on a straight-line basis with impairment reviews conducted at each balance sheet date."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 52,
+          "title": "Fixed Assets and Depreciation Schedule",
+          "data": [
+            {
+              "key": "At 1 January 2021",
+              "value": "Total: £2,157k"
+            },
+            {
+              "key": "At 31 December 2021",
+              "value": "Total: £2,957k"
+            },
+            {
+              "key": "At 31 December 2022",
+              "value": "Total: £1,915k"
+            },
+            {
+              "key": "Net Book Value at 31 December 2020",
+              "value": "£151k"
+            },
+            {
+              "key": "Net Book Value at 31 December 2021",
+              "value": "£672k"
+            },
+            {
+              "key": "Net Book Value at 31 December 2022",
+              "value": "£372k"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 52,
+          "title": "Impairment Charges",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Impairment of intangible assets."
+            },
+            {
+              "key": "Current Period",
+              "value": "£456k"
+            },
+            {
+              "key": "Previous Period",
+              "value": "£0"
+            },
+            {
+              "key": "Total impairment charge",
+              "value": "£456k"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 52,
+          "title": "Deferred Tax Statement",
+          "data": [
+            {
+              "key": "Deferred tax asset",
+              "value": "£135k"
+            },
+            {
+              "key": "Deferred tax liability",
+              "value": "£0"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "Annual Report 2022",
+          "data": [
+            {
+              "key": "Report Type",
+              "value": "Annual Report"
+            },
+            {
+              "key": "Year",
+              "value": "2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 2,
+          "title": "Revenue and Adjusted Profit Before Tax",
+          "data": [
+            {
+              "key": "Company Description",
+              "value": "SNOILLIM is a new era social and digital media company. Brave Bison operates at the intersection of digital media, digital advertising and digital commerce."
+            },
+            {
+              "key": "Metric",
+              "value": "Revenue and Adjusted Profit Before Tax"
+            },
+            {
+              "key": "2019 Revenue",
+              "value": "£16.8M"
+            },
+            {
+              "key": "2019 Adjusted Profit",
+              "value": "£-1M"
+            },
+            {
+              "key": "2020 Revenue",
+              "value": "£14.5M"
+            },
+            {
+              "key": "2020 Adjusted Profit",
+              "value": "£-0.5M"
+            },
+            {
+              "key": "2021 Revenue",
+              "value": "£21.7M"
+            },
+            {
+              "key": "2021 Adjusted Profit",
+              "value": "£1.4M"
+            },
+            {
+              "key": "2022 Revenue",
+              "value": "£31.7M"
+            },
+            {
+              "key": "2022 Adjusted Profit",
+              "value": "£2.1M"
+            },
+            {
+              "key": "Additional Information",
+              "value": "£2.6M Adjusted Profit before tax is stated after adding back acquisition costs, restructuring costs, impairments, amortisation of acquired intangibles and share-based payments, and is after the deduction of costs associated with property leases."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 3,
+          "title": "Financial Performance Summary",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "£31.7m +46%"
+            },
+            {
+              "key": "Gross profit",
+              "value": "£16.9m +117%"
+            },
+            {
+              "key": "Adjusted Profit before tax",
+              "value": "£2.6m +86%"
+            },
+            {
+              "key": "Net cash",
+              "value": "£6.2m +32%"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 4,
+          "title": "2 Strategic Report",
+          "data": [],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 8,
+          "title": "CFO’S REVIEW",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "£31.7 million"
+            },
+            {
+              "key": "Previous Year Revenue",
+              "value": "£21.7 million"
+            },
+            {
+              "key": "Revenue Growth",
+              "value": "46%"
+            },
+            {
+              "key": "Gross Profit",
+              "value": "£16.9 million"
+            },
+            {
+              "key": "Previous Year Gross Profit",
+              "value": "£7.8 million"
+            },
+            {
+              "key": "Gross Profit Growth",
+              "value": "117%"
+            },
+            {
+              "key": "Adjusted Profit Before Tax",
+              "value": "£2.6 million"
+            },
+            {
+              "key": "Previous Year Adjusted Profit Before Tax",
+              "value": "£1.4 million"
+            },
+            {
+              "key": "Adjusted Profit Margin",
+              "value": "15.4%"
+            },
+            {
+              "key": "Previous Year Adjusted Profit Margin",
+              "value": "17.9%"
+            },
+            {
+              "key": "Organic Gross Profit Growth",
+              "value": "£1.8 million"
+            },
+            {
+              "key": "Organic Gross Profit Growth Percentage",
+              "value": "12%"
+            },
+            {
+              "key": "Net Revenues from Digital Advertising and Technology Services",
+              "value": "£19.7 million"
+            },
+            {
+              "key": "Previous Year Net Revenues from Digital Advertising and Technology Services",
+              "value": "£7.3 million"
+            },
+            {
+              "key": "Gross Profit from Digital Advertising and Technology Services",
+              "value": "£14.0 million"
+            },
+            {
+              "key": "Previous Year Gross Profit from Digital Advertising and Technology Services",
+              "value": "£4.8 million"
+            },
+            {
+              "key": "Restructuring Costs",
+              "value": "£0.1 million"
+            },
+            {
+              "key": "Previous Year Restructuring Costs",
+              "value": "£0.2 million"
+            },
+            {
+              "key": "Acquisition Costs",
+              "value": "£0.1 million"
+            },
+            {
+              "key": "Previous Year Acquisition Costs",
+              "value": "£0.7 million"
+            },
+            {
+              "key": "Impairment Charge",
+              "value": "£0.5 million"
+            },
+            {
+              "key": "Amortisation of Customer Relationships",
+              "value": "£0.2 million"
+            },
+            {
+              "key": "Revenue from Advertising Business Unit",
+              "value": "£11.9 million"
+            },
+            {
+              "key": "Previous Year Revenue from Advertising",
+              "value": "£14.3 million"
+            },
+            {
+              "key": "Views from Advertising Business Unit",
+              "value": "1.3 billion"
+            },
+            {
+              "key": "Previous Year Views",
+              "value": "1.7 billion"
+            },
+            {
+              "key": "Underlying Gross Profit from Advertising",
+              "value": "£2.9 million"
+            },
+            {
+              "key": "Previous Year Underlying Gross Profit",
+              "value": "£3.0 million"
+            },
+            {
+              "key": "Equity Settled Share-based Payments",
+              "value": "£0.3 million"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 9,
+          "title": "Financial Performance Summary",
+          "data": [
+            {
+              "key": "Adjusted EBITDA",
+              "value": "£3,020,000"
+            },
+            {
+              "key": "Finance costs",
+              "value": "-£86,000"
+            },
+            {
+              "key": "Finance income",
+              "value": "£80,000"
+            },
+            {
+              "key": "Depreciation",
+              "value": "-£382,000"
+            },
+            {
+              "key": "Adjusted Profit before tax",
+              "value": "£2,632,000"
+            },
+            {
+              "key": "Restructuring costs",
+              "value": "-£62,000"
+            },
+            {
+              "key": "Acquisition costs",
+              "value": "-£56,000"
+            },
+            {
+              "key": "Impairment charge",
+              "value": "-£456,000"
+            },
+            {
+              "key": "Amortisation of acquired intangibles",
+              "value": "-£215,000"
+            },
+            {
+              "key": "Equity settled share based payments",
+              "value": "-£387,000"
+            },
+            {
+              "key": "Profit before tax",
+              "value": "£1,456,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 9,
+          "title": "Key Performance Indicators",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "£21.7m"
+            },
+            {
+              "key": "Gross Profit",
+              "value": "£7.8m"
+            },
+            {
+              "key": "Adjusted EBITDA",
+              "value": "£1.8m"
+            },
+            {
+              "key": "Adjusted Profit Before Tax",
+              "value": "£1.4m"
+            },
+            {
+              "key": "Ordinary Share",
+              "value": "0.18p"
+            },
+            {
+              "key": "Profit Before Tax",
+              "value": "£0.5m"
+            },
+            {
+              "key": "Gross Cash",
+              "value": "£5.9m"
+            },
+            {
+              "key": "Net Cash",
+              "value": "£4.7m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 28,
+          "title": "Financial Statements for Brave Bison",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "$5 million"
+            },
+            {
+              "key": "Net Income",
+              "value": "$1 million"
+            },
+            {
+              "key": "Total Assets",
+              "value": "$10 million"
+            },
+            {
+              "key": "Total Liabilities",
+              "value": "$3 million"
+            },
+            {
+              "key": "Shareholders' Equity",
+              "value": "$7 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "Financial Statement Summary",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "£31.65M"
+            },
+            {
+              "key": "Cost of sales",
+              "value": "£14.70M"
+            },
+            {
+              "key": "Gross profit",
+              "value": "£16.95M"
+            },
+            {
+              "key": "Administration expenses",
+              "value": "£15.49M"
+            },
+            {
+              "key": "Operating profit",
+              "value": "£1.46M"
+            },
+            {
+              "key": "Profit before tax",
+              "value": "£1.46M"
+            },
+            {
+              "key": "Profit attributable to equity holders",
+              "value": "£2.08M"
+            },
+            {
+              "key": "Basic earnings per ordinary share",
+              "value": "0.19p"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Balance Sheet",
+          "data": [
+            {
+              "key": "Non-current assets total",
+              "value": "6690"
+            },
+            {
+              "key": "Current assets total",
+              "value": "13911"
+            },
+            {
+              "key": "Current liabilities total",
+              "value": "-9812"
+            },
+            {
+              "key": "Non-current liabilities total",
+              "value": "-767"
+            },
+            {
+              "key": "Equity total",
+              "value": "10022"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Profit before tax",
+              "value": "1456"
+            },
+            {
+              "key": "Depreciation, amortisation and impairment",
+              "value": "1053"
+            },
+            {
+              "key": "Finance income",
+              "value": "-80"
+            },
+            {
+              "key": "Finance costs",
+              "value": "86"
+            },
+            {
+              "key": "Share based payment charges",
+              "value": "387"
+            },
+            {
+              "key": "(Increase)/decrease in trade and other receivables",
+              "value": "-553"
+            },
+            {
+              "key": "(Decrease)/increase in trade and other payables",
+              "value": "-721"
+            },
+            {
+              "key": "Tax received",
+              "value": "84"
+            },
+            {
+              "key": "Cash inflow from operating activities",
+              "value": "1712"
+            },
+            {
+              "key": "Net cash and cash equivalents at end of period",
+              "value": "5906"
+            },
+            {
+              "key": "Cash and cash equivalents, end of year",
+              "value": "6485"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Period",
+              "value": "At 1 January 2021"
+            },
+            {
+              "key": "Share Capital",
+              "value": "£613,000"
+            },
+            {
+              "key": "Share premium",
+              "value": "£78,762,000"
+            },
+            {
+              "key": "Capital redemption Reserve",
+              "value": "£6,660,000"
+            },
+            {
+              "key": "Merger Reserve",
+              "value": "-£24,060,000"
+            },
+            {
+              "key": "Merger relief Reserve",
+              "value": "£62,624,000"
+            },
+            {
+              "key": "Translation Reserve",
+              "value": "£149,000"
+            },
+            {
+              "key": "Retained deficit",
+              "value": "-£123,988,000"
+            },
+            {
+              "key": "Total Equity",
+              "value": "£760,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Period",
+              "value": "Shares issued during the year"
+            },
+            {
+              "key": "Share Capital",
+              "value": "£468,000"
+            },
+            {
+              "key": "Share premium",
+              "value": "£5,789,000"
+            },
+            {
+              "key": "Total Equity",
+              "value": "£6,257,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Period",
+              "value": "Equity settled share based"
+            },
+            {
+              "key": "Retained deficit",
+              "value": "£62,000"
+            },
+            {
+              "key": "Total Equity",
+              "value": "£62,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Period",
+              "value": "Transactions with owners"
+            },
+            {
+              "key": "Share Capital",
+              "value": "£468,000"
+            },
+            {
+              "key": "Share premium",
+              "value": "£5,789,000"
+            },
+            {
+              "key": "Retained deficit",
+              "value": "£62,000"
+            },
+            {
+              "key": "Total Equity",
+              "value": "£6,319,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Period",
+              "value": "Other comprehensive income"
+            },
+            {
+              "key": "Translation Reserve",
+              "value": "-£7,000"
+            },
+            {
+              "key": "Retained deficit",
+              "value": "£458,000"
+            },
+            {
+              "key": "Total Equity",
+              "value": "£451,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS",
+          "data": [
+            {
+              "key": "Year End",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "Company Incorporation",
+              "value": "Brave Bison Group plc, incorporated on 30 October 2013 in England and Wales"
+            },
+            {
+              "key": "Share Acquisition",
+              "value": "Acquired 100% of Brave Bison Limited on 12 November 2013 via share exchange agreements"
+            },
+            {
+              "key": "Going Concern Statement",
+              "value": "Prepared on a going concern basis with sufficient cash resources for at least 12 months from approval"
+            },
+            {
+              "key": "Cash Holdings at 31 December 2022",
+              "value": "£6.5 million (2021: £5.9 million)"
+            },
+            {
+              "key": "Profit Before Tax",
+              "value": "£1.5 million (2021: £0.5 million)"
+            },
+            {
+              "key": "Cash Equivalents Increase",
+              "value": "£0.6 million in 2022 (2021: £3.2 million)"
+            },
+            {
+              "key": "Net Assets",
+              "value": "£10.0 million (2021: £7.5 million)"
+            },
+            {
+              "key": "H2 2022 Cashflow",
+              "value": "Positive cashflow of £1.1 million"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Adoption of New/Revised Standards and Accounting Policies",
+          "data": [
+            {
+              "key": "New Standards Adopted",
+              "value": "IFRS 3 – Reference to the Conceptual Framework; IAS 16 – Property, Plant and Equipment: Proceeds before intended use; IAS 37 – Onerous Contracts: Cost of Fulfilling a Contract; Annual Improvements to IFRS Standards 2018–2020 Cycle"
+            },
+            {
+              "key": "Standards Not Yet Effective / Early Adoption",
+              "value": "Amendments to IAS 1 and IFRS Practice Statement 2 – Disclosure of Accounting Policies; Amendments to IAS 8 – Definition of Accounting Estimates; Amendments to IAS 12 – Deferred Tax related to Assets and Liabilities arising from a Single Transaction; Amendments to IAS 1 – Classification of Liabilities as Current or Non-current; Amendments to IAS 1 – Non-current Liabilities with Covenants; Amendments to IFRS 16 – Lease Liability in a Sale and Leaseback"
+            },
+            {
+              "key": "Directors' Assessment",
+              "value": "The directors have assessed the above standards and determined that they will not have a material impact in future periods."
+            },
+            {
+              "key": "Statement of Compliance",
+              "value": "Financial statements prepared in accordance with UK adopted International Accounting Standards, IFRIC Interpretations as endorsed for use in the UK, and relevant parts of the Companies Act 2006 under the historical cost convention."
+            },
+            {
+              "key": "Presentation Currency",
+              "value": "Sterling (£), with financial statements presented in thousands (£000’s)"
+            },
+            {
+              "key": "Revenue Recognition Policies",
+              "value": "Revenue is measured at fair value and recognised when performance obligations are met. Specific policies are outlined for advertising revenue (e.g., YouTube channel monetisation, social media platform monetisation), fee based services (Social Media and Influencer services, performance marketing, technology services), and license fee revenues."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS – Continued",
+          "data": [
+            {
+              "key": "Interest and Dividend Income",
+              "value": "Interest income and expenses are recorded on an accrual basis using the effective interest method. Dividend income, except from investments in associates, is recognized when the right to receive payment is established."
+            },
+            {
+              "key": "Government Grants",
+              "value": "Government grants are recognized at the fair value of the asset received or receivable. Grants with performance conditions are recorded in income upon meeting these conditions, while grants without such conditions are recognized when proceeds are realized; early received grants are recorded as liabilities and presented as a deduction from related expenses."
+            },
+            {
+              "key": "Foreign Currency Translation",
+              "value": "Transactions in foreign currencies are translated at the exchange rate on the transaction date. Monetary items are remeasured at the balance sheet date's rate, with differences recognized in profit or loss or other comprehensive income, depending on the item."
+            },
+            {
+              "key": "Segment Reporting",
+              "value": "Operating segments are identified based on internal review by the Group’s chief operating decision maker, comprising two key pillars: Media Network and Digital Advertising/Technology Services, with segmentation also by geographical location in accordance with IFRS 8."
+            },
+            {
+              "key": "Leasing",
+              "value": "For new contracts from 1 January 2019 onward, the Group determines if a contract contains a lease, applying criteria such as identified asset, right to economic benefits, and control of the asset. Leases are accounted for using a right-of-use asset and lease liability, with subsequent measurement including interest, depreciation, and adjustments for modifications."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Revenue by Geographic Region",
+          "data": [
+            {
+              "key": "region",
+              "value": "United Kingdom & Europe"
+            },
+            {
+              "key": "amount",
+              "value": "17548"
+            },
+            {
+              "key": "region",
+              "value": "Asia Pacific"
+            },
+            {
+              "key": "amount",
+              "value": "894"
+            },
+            {
+              "key": "region",
+              "value": "Rest of the world"
+            },
+            {
+              "key": "amount",
+              "value": "3218"
+            },
+            {
+              "key": "region",
+              "value": "Total revenue"
+            },
+            {
+              "key": "amount",
+              "value": "21660"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Revenue",
+          "data": [
+            {
+              "key": "category",
+              "value": "Revenue"
+            },
+            {
+              "key": "value",
+              "value": "null"
+            },
+            {
+              "key": "category",
+              "value": "Advertising"
+            },
+            {
+              "key": "value",
+              "value": "14329"
+            },
+            {
+              "key": "category",
+              "value": "Fee based services"
+            },
+            {
+              "key": "value",
+              "value": "7331"
+            },
+            {
+              "key": "category",
+              "value": "Total revenue"
+            },
+            {
+              "key": "value",
+              "value": "21660"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Gross Profit Breakdown",
+          "data": [
+            {
+              "key": "category",
+              "value": "Gross profit"
+            },
+            {
+              "key": "value",
+              "value": "null"
+            },
+            {
+              "key": "category",
+              "value": "Advertising"
+            },
+            {
+              "key": "value",
+              "value": "3044"
+            },
+            {
+              "key": "category",
+              "value": "Fee based services"
+            },
+            {
+              "key": "value",
+              "value": "4762"
+            },
+            {
+              "key": "category",
+              "value": "Total gross profit"
+            },
+            {
+              "key": "value",
+              "value": "7806"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Revenue Recognition Timing Analysis",
+          "data": [
+            {
+              "key": "category",
+              "value": "Products and services transferred at a point in time"
+            },
+            {
+              "key": "2022 £000's",
+              "value": "11968"
+            },
+            {
+              "key": "£000's",
+              "value": "14432"
+            },
+            {
+              "key": "category",
+              "value": "Products and services transferred over time"
+            },
+            {
+              "key": "2022 £000's",
+              "value": "19684"
+            },
+            {
+              "key": "£000's",
+              "value": "7228"
+            },
+            {
+              "key": "category",
+              "value": "Total revenue"
+            },
+            {
+              "key": "2022 £000's",
+              "value": "31652"
+            },
+            {
+              "key": "£000's",
+              "value": "21660"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Financial Expenses and Operational Costs Breakdown",
+          "data": [
+            {
+              "key": "category",
+              "value": "Auditor's remuneration: Audit services for parent company"
+            },
+            {
+              "key": "2022",
+              "value": "20"
+            },
+            {
+              "key": "2021",
+              "value": "20"
+            },
+            {
+              "key": "category",
+              "value": "Auditor's remuneration: Audit services for subsidiary companies"
+            },
+            {
+              "key": "2022",
+              "value": "158"
+            },
+            {
+              "key": "2021",
+              "value": "60"
+            },
+            {
+              "key": "category",
+              "value": "Auditor's remuneration: Audit related services"
+            },
+            {
+              "key": "2022",
+              "value": "10"
+            },
+            {
+              "key": "2021",
+              "value": "5"
+            },
+            {
+              "key": "category",
+              "value": "Auditor's remuneration: Tax compliance"
+            },
+            {
+              "key": "2022",
+              "value": "49"
+            },
+            {
+              "key": "2021",
+              "value": "8"
+            },
+            {
+              "key": "category",
+              "value": "Operating lease rentals - land and buildings on short term leases"
+            },
+            {
+              "key": "2022",
+              "value": "0"
+            },
+            {
+              "key": "2021",
+              "value": "56"
+            },
+            {
+              "key": "category",
+              "value": "Depreciation: property, plant and equipment"
+            },
+            {
+              "key": "2022",
+              "value": "382"
+            },
+            {
+              "key": "2021",
+              "value": "279"
+            },
+            {
+              "key": "category",
+              "value": "Impairment of intangible assets"
+            },
+            {
+              "key": "2022",
+              "value": "456"
+            },
+            {
+              "key": "2021",
+              "value": "0"
+            },
+            {
+              "key": "category",
+              "value": "Amortisation of intangible assets"
+            },
+            {
+              "key": "2022",
+              "value": "215"
+            },
+            {
+              "key": "2021",
+              "value": "34"
+            },
+            {
+              "key": "category",
+              "value": "Foreign exchange loss"
+            },
+            {
+              "key": "2022",
+              "value": "88"
+            },
+            {
+              "key": "2021",
+              "value": "28"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Tax Reconciliation Statement",
+          "data": [
+            {
+              "key": "Profit on ordinary activities before tax",
+              "value": "£000's 1,456"
+            },
+            {
+              "key": "Income tax using the Company's domestic tax rate 19.00% (2021: 19.00%)",
+              "value": "277"
+            },
+            {
+              "key": "Property, plant and equipment differences",
+              "value": "(3)"
+            },
+            {
+              "key": "Intangible asset differences",
+              "value": "(154)"
+            },
+            {
+              "key": "Expenses not deductible for tax purposes",
+              "value": "185"
+            },
+            {
+              "key": "Other permanent differences",
+              "value": "(1)"
+            },
+            {
+              "key": "R&D tax credit claim in respect of previous periods - current tax",
+              "value": "(522)"
+            },
+            {
+              "key": "Adjustments to tax charge in respect of previous periods - deferred tax",
+              "value": "78"
+            },
+            {
+              "key": "Remeasurement of deferred tax for changes in tax rates",
+              "value": "8"
+            },
+            {
+              "key": "Difference in tax rates",
+              "value": "(3)"
+            },
+            {
+              "key": "Unutilised tax losses carried forward",
+              "value": "(474)"
+            },
+            {
+              "key": "Total tax credit for the year",
+              "value": "(624)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Earnings per Share",
+          "data": [
+            {
+              "key": "Weighted average number of ordinary shares",
+              "value": "1,080,816,000"
+            },
+            {
+              "key": "Dilution due to share options",
+              "value": "62,176,266"
+            },
+            {
+              "key": "Total weighted average number of ordinary shares",
+              "value": "1,142,992,266"
+            },
+            {
+              "key": "Basic earnings per ordinary share (pence)",
+              "value": "0.19p"
+            },
+            {
+              "key": "Diluted earnings per ordinary share (pence)",
+              "value": "0.18p"
+            },
+            {
+              "key": "Adjusted basic earnings per ordinary share (pence)",
+              "value": "0.24p"
+            },
+            {
+              "key": "Adjusted diluted earnings per ordinary share (pence)",
+              "value": "0.23p"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Profit Reconciliation Summary",
+          "data": [
+            {
+              "key": "Profit for the year attributable to ordinary shareholders",
+              "value": "2022 £000's 2080"
+            },
+            {
+              "key": "Equity settled share based payments",
+              "value": "387"
+            },
+            {
+              "key": "Restructuring costs",
+              "value": "62"
+            },
+            {
+              "key": "Acquisition costs",
+              "value": "56"
+            },
+            {
+              "key": "Impairment charge",
+              "value": "456"
+            },
+            {
+              "key": "Amortisation of acquired intangibles",
+              "value": "215"
+            },
+            {
+              "key": "Tax credit",
+              "value": "-624"
+            },
+            {
+              "key": "Adjusted earnings for the year attributable to the equity shareholders",
+              "value": "2632"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Financial Liabilities Breakdown",
+          "data": [
+            {
+              "key": "Trade payables",
+              "value": "£2,030,000"
+            },
+            {
+              "key": "Other taxation and social security",
+              "value": "£1,161,000"
+            },
+            {
+              "key": "Contract liabilities",
+              "value": "£1,277,000"
+            },
+            {
+              "key": "Deferred consideration",
+              "value": "£750,000"
+            },
+            {
+              "key": "Accruals and deferred income",
+              "value": "£5,310,000"
+            },
+            {
+              "key": "Total",
+              "value": "£10,528,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Lease and Finance Charge Breakdown",
+          "data": [
+            {
+              "key": "Lease payments",
+              "value": "£408,000"
+            },
+            {
+              "key": "Finance charges",
+              "value": "-£15,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Lease Information",
+          "data": [
+            {
+              "key": "No. of right-of-use assets leased",
+              "value": "2"
+            },
+            {
+              "key": "Range of remaining term",
+              "value": "1 year"
+            },
+            {
+              "key": "Average remaining lease term",
+              "value": "1 year"
+            },
+            {
+              "key": "Leases with extension options",
+              "value": "-"
+            },
+            {
+              "key": "Leases with termination options",
+              "value": "-"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Undertakings included in the financial statements",
+          "data": [
+            {
+              "key": "total_number_of_subsidiaries",
+              "value": "11"
+            },
+            {
+              "key": "direct_subsidiaries",
+              "value": "1"
+            },
+            {
+              "key": "indirect_subsidiaries",
+              "value": "10"
+            },
+            {
+              "key": "countries_of_incorporation",
+              "value": "UK, Bulgaria, India, Spain, Singapore"
+            },
+            {
+              "key": "notable_entities",
+              "value": "Brave Bison Limited, Greenlight Digital Limited"
+            },
+            {
+              "key": "business_categories",
+              "value": "Online video distribution, Performance marketing, Commerce agency, Web development"
+            },
+            {
+              "key": "audit_exemptions",
+              "value": "Exempt with exceptions: Brave Bison Limited, Brave Bison Asia Pacific Pte, Greenlight Digital Limited. Greenlight Commerce Limited under s479A exemption."
+            },
+            {
+              "key": "share_transfers",
+              "value": "100% ordinary share capital transferred to Brave Bison 2021 Limited."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Categories of financial instruments",
+          "data": [
+            {
+              "key": "total_financial_assets_2022",
+              "value": "£12,652k"
+            },
+            {
+              "key": "total_financial_assets_2021",
+              "value": "£12,191k"
+            },
+            {
+              "key": "trade_receivables_2022",
+              "value": "£6,167"
+            },
+            {
+              "key": "trade_receivables_2021",
+              "value": "£6,285"
+            },
+            {
+              "key": "cash_and_bank_balances_2022",
+              "value": "£6,485"
+            },
+            {
+              "key": "cash_and_bank_balances_2021",
+              "value": "£5,906"
+            },
+            {
+              "key": "total_financial_liabilities_2022",
+              "value": "£8,460"
+            },
+            {
+              "key": "total_financial_liabilities_2021",
+              "value": "£10,833"
+            },
+            {
+              "key": "trade_and_other_payables_2022",
+              "value": "£8,067"
+            },
+            {
+              "key": "trade_and_other_payables_2021",
+              "value": "£9,811"
+            },
+            {
+              "key": "lease_liabilities_2022",
+              "value": "£393"
+            },
+            {
+              "key": "lease_liabilities_2021",
+              "value": "£1,022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 59,
+          "title": "Financial Instruments and Maturity Analysis",
+          "data": [
+            {
+              "key": "Financial instruments measured at fair value",
+              "value": "Financial assets and financial liabilities measured at fair value in the statement of financial position are grouped into three levels of fair value hierarchy, with all financial assets and liabilities categorized as level 1."
+            },
+            {
+              "key": "Maturity analysis",
+              "value": "The maturity analysis outlines non-derivative financial liabilities and their contractual undiscounted cash flows for 2021 and 2022."
+            },
+            {
+              "key": "Table: Financial Liabilities Maturity Analysis",
+              "value": "The table shows maturity analysis for trade payables and lease liabilities with notable changes over the periods."
+            },
+            {
+              "key": "Notable trends",
+              "value": "1) Total trade payables decreased from £9,811,000 in 2021 to £8,068,000 in 2022; 2) Lease liabilities reduced from £1,022,000 to £393,000; 3) By 2022, all liabilities are due within 1 year."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 64,
+          "title": "NOTES TO THE COMPANY FINANCIAL STATEMENTS – Accounting Policies and Financial Performance",
+          "data": [
+            {
+              "key": "Accounting Standards",
+              "value": "Financial Reporting Standard 102 (FRS 102) and the Companies Act 2006"
+            },
+            {
+              "key": "Historical Cost and Fair Value",
+              "value": "Prepared on a going concern basis under historical cost convention, with certain items at fair value"
+            },
+            {
+              "key": "Functional Currency",
+              "value": "Sterling; figures presented in thousands of pounds (£000’s)"
+            },
+            {
+              "key": "Going Concern",
+              "value": "Assumes the Group will meet its liabilities for at least 12 months from the approval date; backed by positive cash flow"
+            },
+            {
+              "key": "Financial Highlights",
+              "value": "Profit before tax of £1.5 million, net assets of £10.0 million, cash holdings of £6.5 million as of 31 December 2022"
+            },
+            {
+              "key": "Deferred Taxation",
+              "value": "Future tax consequences of timing differences between taxable profits and comprehensive income"
+            },
+            {
+              "key": "Investments and Debtors",
+              "value": "Investments recognised at fair value initially and measured at cost less impairment; debtors stated at net realisable value"
+            },
+            {
+              "key": "Share-Based Payments",
+              "value": "Employees (including Directors) receive remuneration via equity-settled transactions, cost determined using Black-Scholes method"
+            },
+            {
+              "key": "Cash Flow Projections",
+              "value": "Directors prepared cash flow projections indicating continued positive cash inflows"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 68,
+          "title": "BRAVE BISON ANNUAL REPORT 2022",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Brave Bison"
+            },
+            {
+              "key": "Report Type",
+              "value": "Annual Report"
+            },
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Address",
+              "value": "The Varnish Works 3 Bravingtons Walk, London N1 9AJ"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 45,
+          "title": "Disclosure of Financial Instruments, Equity, Reserves & Dividend Payments",
+          "data": [
+            {
+              "key": "Loan_and_other_receivables",
+              "value": "Recorded with lifetime expected credit losses based on historical experience, external indicators, and forward-looking information."
+            },
+            {
+              "key": "Trade_and_other_payables",
+              "value": "Initially measured at fair value and subsequently at amortised cost using the effective interest method."
+            },
+            {
+              "key": "Contract_assets_and_liabilities",
+              "value": "No adjustment for significant financing component when the period to receive payment is one year or less."
+            },
+            {
+              "key": "Equity_and_reserves",
+              "value": "Includes share capital, share premium (net of transaction costs), retained deficits, translation reserve, merger reserve, merger relief reserve, and capital redemption reserve."
+            },
+            {
+              "key": "Dividend_payments",
+              "value": "Dividend distributions payable are recorded in ‘other liabilities’ once approved by a general meeting."
+            },
+            {
+              "key": "Cash_and_cash_equivalents",
+              "value": "Includes cash in hand, deposits at call with banks, short-term highly liquid investments, and bank overdrafts."
+            },
+            {
+              "key": "Employee_benefits",
+              "value": "Operating two schemes (private healthcare and defined contribution pension plan), expensed as due."
+            },
+            {
+              "key": "Share_based_payments",
+              "value": "Equity-settled transactions for employees (including Directors) measured using the Black-Scholes method and recognised over the vesting period."
+            },
+            {
+              "key": "Restructuring_costs",
+              "value": "Costs related to previously undertaken or announced corporate re-organisation activities (detailed in note 8)."
+            },
+            {
+              "key": "Provisions",
+              "value": "Provision recognised for costs to restore leased property based on the directors’ best estimate."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 55,
+          "title": "Loan Distribution by Duration",
+          "data": [
+            {
+              "key": "Loan <1 year",
+              "value": "£108,000"
+            },
+            {
+              "key": "Loan >1 year (first entry)",
+              "value": "£308,000"
+            },
+            {
+              "key": "Loan >1 year (second entry)",
+              "value": "£416,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 55,
+          "title": "Dilapidations provision",
+          "data": [
+            {
+              "key": "As at 31 December 2021",
+              "value": "£118,000"
+            },
+            {
+              "key": "Additional provision in the year",
+              "value": "£167,000"
+            },
+            {
+              "key": "As at 31 December 2022",
+              "value": "£285,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 55,
+          "title": "Ordinary Share Capital Statement",
+          "data": [
+            {
+              "key": "Ordinary shares of £0.001 at 31 December 2022",
+              "value": "1,080,816,000 shares (£1,081,000)"
+            },
+            {
+              "key": "Ordinary shares of £0.001 at 31 December 2021",
+              "value": "1,080,816,000 shares (£1,081,000)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 55,
+          "title": "Reconciliation of share capital",
+          "data": [
+            {
+              "key": "Opening balance",
+              "value": "1,080,816,000 shares (£1,081,000)"
+            },
+            {
+              "key": "issue of ordinary shares",
+              "value": "467,994,772 shares (£468,000)"
+            },
+            {
+              "key": "Closing balance",
+              "value": "1,080,816,000 shares (£1,081,000)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 58,
+          "title": "Currency Exposure and Financial Position Summary",
+          "data": [
+            {
+              "key": "Financial assets",
+              "value": "£12,653K (2022) vs £12,191K (2021)"
+            },
+            {
+              "key": "Financial liabilities",
+              "value": "£8,460K (2022) vs £10,833K (2021)"
+            },
+            {
+              "key": "Total net exposure",
+              "value": "£4,193K (2022) vs £1,358K (2021)"
+            },
+            {
+              "key": "Observations",
+              "value": "Improved Sterling position and shift from US Dollar exposure negatively to positively."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 58,
+          "title": "Impact on loss and equity due to currency fluctuations",
+          "data": [
+            {
+              "key": "For the year to 31 December 2021 - US Dollar 10% Increase Impact",
+              "value": "-26"
+            },
+            {
+              "key": "For the year to 31 December 2021 - US Dollar 10% Decrease Impact",
+              "value": "26"
+            },
+            {
+              "key": "For the year to 31 December 2021 - Singapore Dollar Impact",
+              "value": "16"
+            },
+            {
+              "key": "For the year to 31 December 2021 - Euro 10% Increase Impact",
+              "value": "-13"
+            },
+            {
+              "key": "For the year to 31 December 2022 - US Dollar 10% Increase Impact",
+              "value": "71"
+            },
+            {
+              "key": "For the year to 31 December 2022 - US Dollar 10% Decrease Impact",
+              "value": "-71"
+            },
+            {
+              "key": "For the year to 31 December 2022 - Singapore Dollar Impact",
+              "value": "4"
+            },
+            {
+              "key": "For the year to 31 December 2022 - Euro 10% Increase Impact",
+              "value": "-55"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 62,
+          "title": "Balance Sheet Details",
+          "data": [
+            {
+              "key": "Fixed asset investments (Investments in subsidiaries)",
+              "value": "2022: 18022; 2021: 17635; note: 32"
+            },
+            {
+              "key": "Current Assets Debtors",
+              "value": "2022: 0; 2021: 0; note: 33"
+            },
+            {
+              "key": "Creditors: amounts falling due within one year",
+              "value": "2022: -1432; 2021: -2125; note: 34"
+            },
+            {
+              "key": "Deferred consideration",
+              "value": "2022: 0; 2021: -750; note: 34"
+            },
+            {
+              "key": "Total assets less current liabilities",
+              "value": "2022: 16590; 2021: 14760"
+            },
+            {
+              "key": "Called up share capital",
+              "value": "2022: 1081; 2021: 1081; note: 35"
+            },
+            {
+              "key": "Share premium account",
+              "value": "2022: 84551; 2021: 84551"
+            },
+            {
+              "key": "Capital redemption reserve",
+              "value": "2022: 6660; 2021: 6660"
+            },
+            {
+              "key": "Merger relief reserve",
+              "value": "2022: 62624; 2021: 62624"
+            },
+            {
+              "key": "Share options reserve",
+              "value": "2022: 7458; 2021: 7071"
+            },
+            {
+              "key": "Profit and loss account",
+              "value": "2022: -145784; 2021: -147227"
+            },
+            {
+              "key": "Summary",
+              "value": "Total assets less current liabilities increased from £14.76M to £16.59M; fixed asset investments grew; current liabilities decreased. Significant reserves exist (Share premium: £84.55M; Merger relief reserve: £62.62M) despite accumulated losses (2022: -£145.78M vs 2021: -£147.23M)."
+            },
+            {
+              "key": "Directors' Note",
+              "value": "The Directors have taken advantage of the exemption under section 408 of the Companies Act 2006 and not presented a standalone profit and loss account. The profit for the year was £1.4 million (2021: £0.7 million loss)."
+            },
+            {
+              "key": "Authorization",
+              "value": "The financial statements (pages 60 to 64) were authorised for issue by the Board of Directors on 26 April 2023 and signed by Philippa Norridge, Chief Financial Officer."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 63,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "At 1 January 2021",
+              "value": "Share Capital: 613; Share Premium: 78762; Capital redemption Reserve: 6660; Merger relief Reserve: 62624; Share options Reserve: 7009; Profit and loss account: -146579; Total Equity: 9089"
+            },
+            {
+              "key": "At 31 December 2021",
+              "value": "Share Capital: 1081; Share Premium: 84551; Capital redemption Reserve: 6660; Merger relief Reserve: 62624; Share options Reserve: 7071; Profit and loss account: -147227; Total Equity: 14760"
+            },
+            {
+              "key": "At 31 December 2022",
+              "value": "Share Capital: 1081; Share Premium: 84551; Capital redemption Reserve: 6660; Merger relief Reserve: 62624; Share options Reserve: 7458; Profit and loss account: -145784; Total Equity: 16590"
+            },
+            {
+              "key": "Table Summary",
+              "value": "This table shows the changes in equity components from January 2021 to December 2022. Notable observations include: 1) Total equity increased from £9,089,000 to £16,590,000 over the period; 2) A significant share issuance in 2021 raised capital of £6,257,000; 3) The company moved from a loss in 2021 (-£586,000) to a profit in 2022 (£1,830,000); 4) The profit and loss account shows an accumulated deficit throughout, though improving from -£147,227,000 in 2021 to -£145,784,000 in 2022."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 65,
+          "title": "Exemptions, Share Capital and Investment Disclosures",
+          "data": [
+            {
+              "key": "Disclosure Exemptions",
+              "value": "The Directors have taken advantage of exemptions under section 408 of the Companies Act 2006. The Company did not present a standalone profit and loss account and adopted an exemption from presenting a separate statement of cashflows. In addition, the FRS 102 exemption was applied to avoid disclosing related party transactions with its wholly owned subsidiaries."
+            },
+            {
+              "key": "Share Capital and Reserves",
+              "value": "Share capital denotes the nominal value of the issued shares while share premium reflects received premiums minus issuance costs. The disclosures include details on merger relief reserves (when excess consideration is recognized under specific conditions) and dividend distributions, which are accounted under other liabilities when approved."
+            },
+            {
+              "key": "Impairment Assessment",
+              "value": "As at 31 December 2022, investments were tested for impairment using value in use calculations. Projected cash flows were forecast for 5 years with a pre-tax discount rate of 10% and nil growth beyond, incorporating sensitivity analysis. No impairment charge was recorded."
+            },
+            {
+              "key": "Investment Cost Analysis",
+              "value": "A table provided the following data: 'Cost of investments brought forward' was 17,635 (previous period) and 9,088 (current period); 'Investment in Greenlight' was 0 and 8,485 respectively; 'Additions from equity settled share-based payments' were 387 and 62; leading to a 'Cost of investment carried forward' of 17,635 (previous) and 18,022 (current). The overall increase in investment cost was driven primarily by equity-settled share-based payments, with a notable prior period increase due to the Greenlight investment."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 11,
+          "title": "Risk Assessment and Mitigation Strategies",
+          "data": [
+            {
+              "key": "Risk",
+              "value": "Dependence on key personnel and employees"
+            },
+            {
+              "key": "Description",
+              "value": "The continued success of the Group depends partly upon the performance and expertise of its current and future key executives and personnel. A lack of skilled workforce could result in a drop in service levels and customer dissatisfaction, and therefore have an adverse impact on the Group in terms of its reputation. The loss of such individuals, or the failure to train and attract other high calibre individuals may impact on the Group's business and the Group's ability to achieve its targets."
+            },
+            {
+              "key": "Mitigation",
+              "value": "The Group ensures all its employees are supported and managed by way of regular performance appraisals. Furthermore, the Group incentivises key employees using performance-related bonus plans and share option awards that vest over a multi-year period."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 11,
+          "title": "Risk Assessment and Mitigation Strategies",
+          "data": [
+            {
+              "key": "Risk",
+              "value": "Competitive industry dynamics"
+            },
+            {
+              "key": "Description",
+              "value": "The Group Operates in a highly complex and rapidly changing industry. If the Group is not able to compete successfully against existing or future competitors, its competitive position, business, financial condition and results of operations may be adversely affected."
+            },
+            {
+              "key": "Mitigation",
+              "value": "The Board believes the Group has adopted a competitive business strategy to increase the profits of the business. The Group has implemented an acquisitive business model to improve its capabilities and scale within the markets which it operates. Furthermore, the Group maintains a substantial net cash position to provide flexibility in the event of a more competitive and less profitable trading environment."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 11,
+          "title": "Risk Assessment and Mitigation Strategies",
+          "data": [
+            {
+              "key": "Risk",
+              "value": "Dependence on the operating policies of key platforms"
+            },
+            {
+              "key": "Description",
+              "value": "The Group generates a significant proportion of its revenue from three international technology platforms which are subject to external factors beyond the Group's control. Changes to the commercial agreements or policies implemented by these platforms could have a negative impact on the financial position of the Group."
+            },
+            {
+              "key": "Mitigation",
+              "value": "The Group has diversified its business model away from the advertising platforms, which now only account for 38% (FY21: 66%) of the Group's revenues. Furthermore, the Group has diversified its revenues between three platforms to reduce the impact of any single platform policy change."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 11,
+          "title": "Risk Assessment and Mitigation Strategies",
+          "data": [
+            {
+              "key": "Risk",
+              "value": "Impact of Pandemics"
+            },
+            {
+              "key": "Description",
+              "value": "A pandemic could cause an adverse impact on the Group's financial position. Customer marketing budgets could reduce, which may result in lower revenues. The Group's employees may be unable to service customers due to sickness or disruption to the Group's operations."
+            },
+            {
+              "key": "Mitigation",
+              "value": "The Group operates a robust hybrid working system where its employees are not normally required to be physically present in an office in order to deliver work for customers."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 11,
+          "title": "Risk Assessment and Mitigation Strategies",
+          "data": [
+            {
+              "key": "Risk",
+              "value": "Foreign Currency Risk"
+            },
+            {
+              "key": "Description",
+              "value": "The Group is primarily exposed to foreign exchange movements in the US dollar. These movements could result in a negative impact on the financial position of the Group."
+            },
+            {
+              "key": "Mitigation",
+              "value": "The Group does not use derivatives to hedge translation exposure. All gains and losses are recognised in the income statement on translation at the reporting date."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 31,
+          "title": "Key Audit Matter - Group INCORRECT REVENUE RECOGNITION",
+          "data": [
+            {
+              "key": "Risk Description",
+              "value": "Incorrect revenue recognition due to fraud or error."
+            },
+            {
+              "key": "Key Issues",
+              "value": "Recognition of revenue in the wrong period; revenue not recognized in accordance with IFRS 15; manipulation of revenues around year-end."
+            },
+            {
+              "key": "Total Net Book Value of Intangible Assets",
+              "value": "£6.270m"
+            },
+            {
+              "key": "Goodwill Value",
+              "value": "£5.015m"
+            },
+            {
+              "key": "Impairment Risks",
+              "value": "Judgemental nature of impairment reviews and significant impairment adjustments in prior periods."
+            },
+            {
+              "key": "Audit Work Addressed",
+              "value": "Evaluated revenue recognition policies against IFRS 15; performed substantive testing on revenue transactions; tested self-billing sales transactions; reviewed disclosures under IFRS 15."
+            },
+            {
+              "key": "Key Observations - Revenue",
+              "value": "No material misstatements identified; disclosures in financial statements are adequate."
+            },
+            {
+              "key": "Audit Work on Intangible Assets",
+              "value": "Assessed management's assertions regarding fair value of intangible assets; evaluated assumptions for valuation of intangible assets."
+            },
+            {
+              "key": "Key Observations - Intangible Assets",
+              "value": "Group’s intangible assets including goodwill are not materially misstated; disclosures are adequate."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 29,
+          "title": "Independent Auditor's Report",
+          "data": [
+            {
+              "key": "Report Type",
+              "value": "Independent Auditor's Report"
+            },
+            {
+              "key": "Includes",
+              "value": "Consolidated income statement and consolidated statement of comprehensive income"
+            },
+            {
+              "key": "Page Numbers",
+              "value": "34-38"
+            },
+            {
+              "key": "Financial Statements",
+              "value": "Consolidated statement of financial position, consolidated statement of cash flows, consolidated statement of changes in equity"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 33,
+          "title": "Application of Materiality and Going Concern Assessment",
+          "data": [
+            {
+              "key": "Materiality Defined",
+              "value": "Materiality is defined as the magnitude of misstatement that could reasonably be expected to influence the readers and the economic decisions of users of the financial statements."
+            },
+            {
+              "key": "Revenue Focus",
+              "value": "Revenue was considered the main focus for the readers of the financial statements."
+            },
+            {
+              "key": "Group Materiality",
+              "value": "Group materiality is set at £186,000."
+            },
+            {
+              "key": "Performance Materiality",
+              "value": "Performance materiality (tolerance for misstatement) is 50% of materiality, namely £93,000."
+            },
+            {
+              "key": "Audit Committee Reporting Threshold",
+              "value": "All differences in excess of £9,300 and relevant qualitative differences reported to the Audit Committee."
+            },
+            {
+              "key": "Going Concern Evaluation",
+              "value": "Conclusion that using going concern basis of accounting is appropriate, with detailed cash flow projections reviewed."
+            },
+            {
+              "key": "Impact of Russia-Ukraine Conflict",
+              "value": "Analysis considers ongoing conflict's impact on the Group's ability to trade."
+            },
+            {
+              "key": "Positive Cash Flow",
+              "value": "Group achieved a positive cash flow of £0.6m."
+            },
+            {
+              "key": "Cash Flow Projections",
+              "value": "Directors' projections indicate continued positive cash inflows into 2024."
+            },
+            {
+              "key": "Material Uncertainties",
+              "value": "No material uncertainties identified regarding going concern for at least twelve months."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "guidance_update",
+          "page": 34,
+          "title": "Independent Auditor’s Report",
+          "data": [
+            {
+              "key": "Auditor Opinion",
+              "value": "The part of the directors’ remuneration report has been properly prepared in accordance with the Companies Act 2006."
+            },
+            {
+              "key": "Reporting Requirements",
+              "value": "No material misstatements identified in the Strategic Report or the Directors’ Report."
+            },
+            {
+              "key": "Directors' Responsibilities",
+              "value": "Responsible for preparation of financial statements, ensuring they are free from material misstatement."
+            },
+            {
+              "key": "Going Concern Assessment",
+              "value": "Directors must assess the group’s and parent company's ability to continue as a going concern."
+            },
+            {
+              "key": "Audit Objectives",
+              "value": "To obtain reasonable assurance whether the financial statements are free from material misstatement."
+            },
+            {
+              "key": "Fraud Detection",
+              "value": "Conduct procedures designed to detect material misstatements due to fraud."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 48,
+          "title": "Restructuring costs",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Restructuring costs"
+            },
+            {
+              "key": "2022 Value",
+              "value": "£62,000"
+            },
+            {
+              "key": "2021 Value",
+              "value": "£176,000"
+            },
+            {
+              "key": "Notes",
+              "value": "The table shows restructuring costs across two periods, representing a significant decrease in costs."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "guidance_update",
+          "page": 48,
+          "title": "Finance income and costs",
+          "data": [
+            {
+              "key": "Bank interest (2022)",
+              "value": "£80,000"
+            },
+            {
+              "key": "Interest expense for leasing arrangements (2022)",
+              "value": "£71,000"
+            },
+            {
+              "key": "Interest on bank loans (2022)",
+              "value": "£86,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "guidance_update",
+          "page": 48,
+          "title": "Tax Reconciliation Statement",
+          "data": [
+            {
+              "key": "Total current tax credit",
+              "value": "£557,000"
+            },
+            {
+              "key": "Adjustments to previous periods",
+              "value": "-£522,000"
+            },
+            {
+              "key": "Deferred Tax - Temporary differences",
+              "value": "-£148,000"
+            },
+            {
+              "key": "Deferred Tax - Rate changes",
+              "value": "£8,000"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 22,
+          "title": "Statement of Corporate Governance - Risk Management and Internal Controls",
+          "data": [
+            {
+              "key": "Risk Management Responsibility",
+              "value": "The Board acknowledges its responsibility (delegated to the Audit & Risk Committee) for establishing and maintaining the Group’s system of internal controls."
+            },
+            {
+              "key": "Conflicts of Interest",
+              "value": "Outside interests and commitments of Directors are reported to and agreed by the Board."
+            },
+            {
+              "key": "Related Party Transactions",
+              "value": "Transactions between parties related to the Directors are conducted at an arms-length basis and are subject to the Related Party Policy."
+            },
+            {
+              "key": "Indemnity Against Liabilities",
+              "value": "Directors are entitled to an indemnity against liabilities incurred by them in the exercise of their duties."
+            },
+            {
+              "key": "Directors’ Liability Insurance",
+              "value": "The Group has purchased and maintains Directors’ liability insurance cover against certain legal liabilities."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 35,
+          "title": "Audit Procedures and Compliance with Laws",
+          "data": [
+            {
+              "key": "Understanding of Compliance",
+              "value": "We obtained an understanding of how the group and the parent company complies with these requirements by discussions with management and those charged with governance."
+            },
+            {
+              "key": "Risk Assessment",
+              "value": "We assessed the risk of material misstatement of the financial statements, including the risk of material misstatement due to fraud."
+            },
+            {
+              "key": "Inquiries Regarding Non-Compliance",
+              "value": "We inquired of management regarding known non-compliance or suspected non-compliance with laws."
+            },
+            {
+              "key": "Designed Audit Procedures",
+              "value": "Based on our understanding, we designed specific audit procedures to identify instances of non-compliance."
+            },
+            {
+              "key": "Limitations of Audit Procedures",
+              "value": "There are inherent limitations in the audit procedures described."
+            },
+            {
+              "key": "Use of Report",
+              "value": "This report is made solely to the company’s members."
+            },
+            {
+              "key": "Responsibility Statement",
+              "value": "We do not accept or assume responsibility to any party other than the company’s members."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 5,
+          "title": "ESG Report",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "Summary of the company's Environmental, Social, and Governance initiatives."
+            },
+            {
+              "key": "Key Initiatives",
+              "value": "Details of the projects and policies introduced to enhance sustainability."
+            },
+            {
+              "key": "Impact Measurement",
+              "value": "Measurement of the effectiveness of ESG initiatives."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 14,
+          "title": "ESG Report on Governance and Environmental Impact",
+          "data": [
+            {
+              "key": "Governance",
+              "value": "Governance is central to the effective delivery of our mission and strategy."
+            },
+            {
+              "key": "Environmental Impact",
+              "value": "As a digital media and technology services group, our impact on the environment is low. We aim to reduce our environmental impact."
+            },
+            {
+              "key": "Sustainability Strategy",
+              "value": "Our sustainability strategy has 3 pillars: emissions, waste & recycling, and consumables."
+            },
+            {
+              "key": "Carbon Emissions Commitment",
+              "value": "We aim to make a Net Zero commitment in line with the Science Based Targets Initiative."
+            },
+            {
+              "key": "Energy Consumption",
+              "value": "Electricity and gas represent around 70% of emissions."
+            },
+            {
+              "key": "Waste Management",
+              "value": "We operate a largely paperless office and encourage double-sided printing."
+            },
+            {
+              "key": "Scope 1 Emissions",
+              "value": "Direct emissions from burning fossil fuels."
+            },
+            {
+              "key": "Scope 2 Emissions",
+              "value": "Indirect emissions from electricity and public transport."
+            },
+            {
+              "key": "Scope 3 Emissions",
+              "value": "Indirect emissions from activities not directly controlled, such as manufacturing of office equipment."
+            },
+            {
+              "key": "Recycling Initiatives",
+              "value": "Clearly labelled recycling points and minimizing waste through behaviour change."
+            },
+            {
+              "key": "Consumables Policy",
+              "value": "Ongoing programme to reduce environmental impact. All paper used is 100% recycled."
+            },
+            {
+              "key": "Special Food Policy",
+              "value": "Aim to stop routine purchase of meat for staff and clients, focusing on alternatives."
+            },
+            {
+              "key": "Offsetting Programme",
+              "value": "A blend of REDD projects, tree planting, and avoiding single-use plastics."
+            },
+            {
+              "key": "Tree Planting Initiative",
+              "value": "Planting 15 trees for every new client contract."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 15,
+          "title": "Diversity and Inclusion Initiatives at Brave Bison",
+          "data": [
+            {
+              "key": "Diversity Commitment",
+              "value": "Brave Bison is committed to developing a diverse workforce, an inclusive culture and the removal of barriers for underrepresented groups."
+            },
+            {
+              "key": "Employee Gender Distribution",
+              "value": "56% male, 44% female."
+            },
+            {
+              "key": "Senior Leadership Gender Distribution",
+              "value": "70% male, 30% female."
+            },
+            {
+              "key": "Ethnic Minority Representation",
+              "value": "35% of employees self-identify as from an ethnic minority background."
+            },
+            {
+              "key": "Equal Opportunities Policy",
+              "value": "The Company has adopted a formal equal opportunities policy which ensures no discrimination on various grounds."
+            },
+            {
+              "key": "Diversity Training Initiatives",
+              "value": "Running diversity and inclusion and unconscious bias training for all staff."
+            },
+            {
+              "key": "Community Volunteering Initiative",
+              "value": "Encouraging employees to take two paid days to volunteer in the local community."
+            },
+            {
+              "key": "Online Coaching Program",
+              "value": "Offering unlimited online coaching for all staff."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 16,
+          "title": "Governance Report BraveBison",
+          "data": [
+            {
+              "key": "Report Type",
+              "value": "Governance Report"
+            },
+            {
+              "key": "Company Name",
+              "value": "BraveBison"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 8,
+    "EUR": 8,
+    "GBP": 298,
+    "AUD": 173,
+    "SGD": 5
+  },
+  "sha1": "ddd10e4612006205c4b1ba050a11648071e6e429"
+}

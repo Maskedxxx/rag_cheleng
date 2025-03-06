@@ -1,0 +1,2928 @@
+{
+  "letters": 364277,
+  "pages": 62,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 1
+    },
+    "company_name": "AA Limited",
+    "major_industry": "Transport & Logistics",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 28,
+          "title": "AA Limited Annual Report and Accounts 2022 - Ownership & Acquisition",
+          "data": [
+            {
+              "key": "Acquisition Announcement Date",
+              "value": "25 November 2020"
+            },
+            {
+              "key": "Acquiring Entity",
+              "value": "Basing Bidco Limited (Bidco)"
+            },
+            {
+              "key": "Acquisition Method",
+              "value": "Cash acquisition by a consortium via a Court approved scheme of arrangement under Part 26 of the Companies Act 2006"
+            },
+            {
+              "key": "Consortium",
+              "value": "Funds advised by TowerBrook Capital Partners (U.K.) LLP and private equity funds managed by Warburg Pincus LLC"
+            },
+            {
+              "key": "Acquisition Completion Date",
+              "value": "9 March 2021"
+            },
+            {
+              "key": "Shareholder Entitlement",
+              "value": "35p in cash per AA share"
+            },
+            {
+              "key": "Acquisition Valuation",
+              "value": "Approximately £218 million"
+            },
+            {
+              "key": "Post-Acquisition Governance Changes",
+              "value": "Changes to the Board of Directors including director resignations and new appointments (e.g., resignation of Simon Breakwell, appointment of Jakob Pfaudler as CEO and Director, appointment of Tom Mackay as CFO)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 38,
+          "title": "Accounting policies for intangible assets and property, plant, and equipment",
+          "data": [
+            {
+              "key": "Basis for intangible assets",
+              "value": "Intangible assets other than goodwill are stated at cost."
+            },
+            {
+              "key": "Amortization of intangible assets",
+              "value": "Amortised on a straight-line basis over their estimated useful economic lives."
+            },
+            {
+              "key": "Customer relationships amortization",
+              "value": "10 years."
+            },
+            {
+              "key": "Software and development costs amortization",
+              "value": "5 years."
+            },
+            {
+              "key": "Buildings depreciation",
+              "value": "50 years."
+            },
+            {
+              "key": "Related fittings depreciation",
+              "value": "3-20 years."
+            },
+            {
+              "key": "Leasehold properties depreciation",
+              "value": "over the period of the lease."
+            },
+            {
+              "key": "Plant, vehicles and equipment depreciation",
+              "value": "3-10 years."
+            },
+            {
+              "key": "Financial instruments recognition",
+              "value": "Recognised at fair value upon entering contractual provisions."
+            },
+            {
+              "key": "Trade receivables classification",
+              "value": "Amounts due from customers for goods/services performed."
+            },
+            {
+              "key": "Impairment review of assets",
+              "value": "Reviewed at each reporting date for impairment indications."
+            },
+            {
+              "key": "Lease liabilities measurement",
+              "value": "Measured at present value of remaining lease payments."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 44,
+          "title": "Fixed Assets Movement Schedule",
+          "data": [
+            {
+              "key": "period",
+              "value": "1 February 2020"
+            },
+            {
+              "key": "buildings_leasehold",
+              "value": "7"
+            },
+            {
+              "key": "vehicles",
+              "value": "4"
+            },
+            {
+              "key": "plant_equipment",
+              "value": "80"
+            },
+            {
+              "key": "total",
+              "value": "115"
+            },
+            {
+              "key": "period",
+              "value": "Additions"
+            },
+            {
+              "key": "buildings_leasehold",
+              "value": "0"
+            },
+            {
+              "key": "vehicles",
+              "value": "0"
+            },
+            {
+              "key": "plant_equipment",
+              "value": "1"
+            },
+            {
+              "key": "total",
+              "value": "1"
+            },
+            {
+              "key": "period",
+              "value": "Reclassification"
+            },
+            {
+              "key": "buildings_leasehold",
+              "value": "0"
+            },
+            {
+              "key": "vehicles",
+              "value": "0"
+            },
+            {
+              "key": "plant_equipment",
+              "value": "2"
+            },
+            {
+              "key": "total",
+              "value": "2"
+            },
+            {
+              "key": "period",
+              "value": "Disposals"
+            },
+            {
+              "key": "buildings_leasehold",
+              "value": "0"
+            },
+            {
+              "key": "vehicles",
+              "value": "-4"
+            },
+            {
+              "key": "plant_equipment",
+              "value": "-18"
+            },
+            {
+              "key": "total",
+              "value": "-22"
+            },
+            {
+              "key": "period",
+              "value": "At 31 January 2021"
+            },
+            {
+              "key": "buildings_leasehold",
+              "value": "7"
+            },
+            {
+              "key": "vehicles",
+              "value": "0"
+            },
+            {
+              "key": "plant_equipment",
+              "value": "75"
+            },
+            {
+              "key": "total",
+              "value": "106"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 44,
+          "title": "Joint Ventures Information",
+          "data": [
+            {
+              "key": "Company",
+              "value": "AA Law Limited (49% interest held)"
+            },
+            {
+              "key": "Country of registration",
+              "value": "England and Wales, UK"
+            },
+            {
+              "key": "Nature of business",
+              "value": "Insurance services"
+            },
+            {
+              "key": "Company",
+              "value": "Drvn Solutions Limited (48% interest held)"
+            },
+            {
+              "key": "Country of registration",
+              "value": "England and Wales, UK"
+            },
+            {
+              "key": "Nature of business",
+              "value": "Roadside services"
+            },
+            {
+              "key": "Company",
+              "value": "AA Media Limited (49% interest held)"
+            },
+            {
+              "key": "Country of registration",
+              "value": "England and Wales, UK"
+            },
+            {
+              "key": "Nature of business",
+              "value": "Publishing"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 47,
+          "title": "Financial Statements Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Gross earned premium 2022 £m",
+              "value": "138"
+            },
+            {
+              "key": "Gross earned premium 2021 £m",
+              "value": "115"
+            },
+            {
+              "key": "Earned premium ceded to reinsurers 2022 £m",
+              "value": "-109"
+            },
+            {
+              "key": "Earned premium ceded to reinsurers 2021 £m",
+              "value": "-88"
+            },
+            {
+              "key": "Net earned premium 2022 £m",
+              "value": "29"
+            },
+            {
+              "key": "Net earned premium 2021 £m",
+              "value": "27"
+            },
+            {
+              "key": "Deferral of broker commission 2022 £m",
+              "value": "3"
+            },
+            {
+              "key": "Deferral of broker commission 2021 £m",
+              "value": "0"
+            },
+            {
+              "key": "Other income 2022 £m",
+              "value": "17"
+            },
+            {
+              "key": "Other income 2021 £m",
+              "value": "13"
+            },
+            {
+              "key": "Insurance Underwriting revenue 2022 £m",
+              "value": "49"
+            },
+            {
+              "key": "Insurance Underwriting revenue 2021 £m",
+              "value": "40"
+            },
+            {
+              "key": "Gross claims incurred 2022 £m",
+              "value": "-112"
+            },
+            {
+              "key": "Gross claims incurred 2021 £m",
+              "value": "-69"
+            },
+            {
+              "key": "Less reinsurance recoveries 2022 £m",
+              "value": "79"
+            },
+            {
+              "key": "Less reinsurance recoveries 2021 £m",
+              "value": "44"
+            },
+            {
+              "key": "Net claims incurred 2022 £m",
+              "value": "-33"
+            },
+            {
+              "key": "Net claims incurred 2021 £m",
+              "value": "-25"
+            },
+            {
+              "key": "Ceding commission 2022 £m",
+              "value": "17"
+            },
+            {
+              "key": "Ceding commission 2021 £m",
+              "value": "14"
+            },
+            {
+              "key": "Administrative costs 2022 £m",
+              "value": "-9"
+            },
+            {
+              "key": "Administrative costs 2021 £m",
+              "value": "-10"
+            },
+            {
+              "key": "Deferral of broker acquisition costs 2022 £m",
+              "value": "-2"
+            },
+            {
+              "key": "Deferral of broker acquisition costs 2021 £m",
+              "value": "3"
+            },
+            {
+              "key": "Insurance Underwriting costs 2022 £m",
+              "value": "-27"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 47,
+          "title": "Insurance Premium Breakdown 2021-2022",
+          "data": [
+            {
+              "key": "Gross unearned premiums at 1 February 2022 £m",
+              "value": "62"
+            },
+            {
+              "key": "Gross unearned premiums at 1 February 2021 £m",
+              "value": "46"
+            },
+            {
+              "key": "Less: reinsurers' share of unearned premiums 2022 £m",
+              "value": "-52"
+            },
+            {
+              "key": "Less: reinsurers' share of unearned premiums 2021 £m",
+              "value": "-35"
+            },
+            {
+              "key": "Net unearned premiums at 1 February 2022 £m",
+              "value": "10"
+            },
+            {
+              "key": "Net unearned premiums at 1 February 2021 £m",
+              "value": "1"
+            },
+            {
+              "key": "Gross premiums written 2022 £m",
+              "value": "141"
+            },
+            {
+              "key": "Gross premiums written 2021 £m",
+              "value": "131"
+            },
+            {
+              "key": "Less: outward reinsurance premium ceded 2022 £m",
+              "value": "-114"
+            },
+            {
+              "key": "Less: outward reinsurance premium ceded 2021 £m",
+              "value": "-105"
+            },
+            {
+              "key": "Net premiums written 2022 £m",
+              "value": "27"
+            },
+            {
+              "key": "Net premiums written 2021 £m",
+              "value": "26"
+            },
+            {
+              "key": "Gross premiums earned 2022 £m",
+              "value": "-138"
+            },
+            {
+              "key": "Gross premiums earned 2021 £m",
+              "value": "-115"
+            },
+            {
+              "key": "Less: earned premium ceded to reinsurers 2022 £m",
+              "value": "109"
+            },
+            {
+              "key": "Less: earned premium ceded to reinsurers 2021 £m",
+              "value": "88"
+            },
+            {
+              "key": "Net premiums earned 2022 £m",
+              "value": "-29"
+            },
+            {
+              "key": "Net premiums earned 2021 £m",
+              "value": "-27"
+            },
+            {
+              "key": "Net unearned premiums at 31 January 2022 £m",
+              "value": "8"
+            },
+            {
+              "key": "Net unearned premiums at 31 January 2021 £m",
+              "value": "10"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 52,
+          "title": "Financial Performance Overview",
+          "data": [
+            {
+              "key": "Total financial assets",
+              "value": "434"
+            },
+            {
+              "key": "Financial liabilities total",
+              "value": "2633"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 53,
+          "title": "Financial Assets and Liabilities Fair Value Measurement",
+          "data": [
+            {
+              "key": "Forward fuel contracts (note 22)",
+              "value": "Carrying value: £1m, Level 1: £1m"
+            },
+            {
+              "key": "Interest rate swap derivatives (note 22)",
+              "value": "Carrying value: £nil, Level 1: £5m"
+            },
+            {
+              "key": "Shares and other variable-yield securities and units in unit trusts",
+              "value": "Carrying value: £10m, Level 1: £10m"
+            },
+            {
+              "key": "Loan notes (note 21)",
+              "value": "Carrying value: £2157m, Level 1: £2274m"
+            },
+            {
+              "key": "Forward fuel contracts (note 22)",
+              "value": "Carrying value: £1m, Level 1: £1m"
+            },
+            {
+              "key": "Interest rate swap derivatives (note 22)",
+              "value": "Carrying value: £1m, Level 1: £1m"
+            },
+            {
+              "key": "Loan notes (note 21)",
+              "value": "Carrying value: £2791m, Level 1: £2978m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 55,
+          "title": "Lease Payment Schedule Analysis",
+          "data": [
+            {
+              "key": "Within one year",
+              "value": "Present Value: £16m, Minimum Payments: £18m"
+            },
+            {
+              "key": "Between one and five years",
+              "value": "Present Value: £17m, Minimum Payments: £22m"
+            },
+            {
+              "key": "After five years",
+              "value": "Present Value: £15m, Minimum Payments: £24m"
+            },
+            {
+              "key": "Total minimum lease payments",
+              "value": "Present Value: £48m, Minimum Payments: £64m"
+            },
+            {
+              "key": "Less amounts representing finance charge",
+              "value": "Finance Charge: £16m"
+            },
+            {
+              "key": "Present value of minimum lease payments",
+              "value": "£48m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 55,
+          "title": "Auditor's Remuneration for Subsidiary Audits",
+          "data": [
+            {
+              "key": "Amounts receivable by the Company's auditors and their associates for auditing financial statements of subsidiaries",
+              "value": "£1m (2021: £1m)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 55,
+          "title": "Key Management Personnel Compensation",
+          "data": [
+            {
+              "key": "Short-term employee benefits",
+              "value": "Current Period: £6m, Previous Period: £5m"
+            },
+            {
+              "key": "Share-based payments",
+              "value": "Current Period: £1m, Previous Period: £1m"
+            },
+            {
+              "key": "Compensation for loss of office",
+              "value": "Current Period: £1m, Previous Period: £0"
+            },
+            {
+              "key": "Total compensation paid to key management personnel",
+              "value": "Current Period: £8m, Previous Period: £6m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 55,
+          "title": "Share-based Payments",
+          "data": [
+            {
+              "key": "Share-based payments - Employee Share Incentive Plan",
+              "value": "Current Period: £3m, Previous Period: £2m"
+            },
+            {
+              "key": "Share-based payments — Performance Share Plan",
+              "value": "Current Period: £2m, Previous Period: £1m"
+            },
+            {
+              "key": "Total equity-settled share-based payments",
+              "value": "Current Period: £5m, Previous Period: £3m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 55,
+          "title": "Total Shares Held on Trust",
+          "data": [
+            {
+              "key": "Total shares held on trust",
+              "value": "60,000,000"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 4,
+          "title": "Chair’s Statement",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Chair",
+              "value": "Rick Haythornthwaite"
+            },
+            {
+              "key": "Company",
+              "value": "AA Limited"
+            },
+            {
+              "key": "Governance Role",
+              "value": "Chair of the Topco Board"
+            },
+            {
+              "key": "Investors",
+              "value": "Warburg Pincus and TowerBrook Capital Partners"
+            },
+            {
+              "key": "Recent Appointment",
+              "value": "Kory Sorenson"
+            },
+            {
+              "key": "Previous Experience",
+              "value": "Aviva and Phoenix Group"
+            },
+            {
+              "key": "Focus Areas",
+              "value": "Strategy, Governance, COVID-19 response"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 27,
+          "title": "Governance Report Cover",
+          "data": [
+            {
+              "key": "Section Title",
+              "value": "GOVERNANCE REPORT"
+            },
+            {
+              "key": "Report Name",
+              "value": "AA Limited Annual Report and Accounts 2022"
+            },
+            {
+              "key": "Visual Description",
+              "value": "The image features a shaggy white dog (possibly a sheepdog or similar breed) wearing colorful mirrored sunglasses with rainbow-like reflective lenses set against a bright yellow background."
+            },
+            {
+              "key": "Image Page Number",
+              "value": "50"
+            },
+            {
+              "key": "Additional Text",
+              "value": "AA Limited Annual Report and Accounts 2022 51"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 56,
+          "title": "Share-based payments",
+          "data": [
+            {
+              "key": "Total shares awarded in 2021",
+              "value": "8,945,643"
+            },
+            {
+              "key": "Total shares lapsed in 2021",
+              "value": "9,951,554"
+            },
+            {
+              "key": "Total shares vested in 2021",
+              "value": "-"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": false,
+      "elements": []
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "ANNUAL REPORT & ACCOUNTS 2022 AA Limited Annual Report and Accounts 2021",
+          "data": [
+            {
+              "key": "Report Type",
+              "value": "Annual Report and Accounts"
+            },
+            {
+              "key": "Company",
+              "value": "AA Limited"
+            },
+            {
+              "key": "Current Report Year",
+              "value": "2022"
+            },
+            {
+              "key": "Previous Report Year",
+              "value": "2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 2,
+          "title": "Financial performance overview and key business metrics",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "£989m"
+            },
+            {
+              "key": "Loss/profit before tax",
+              "value": "£(23)m"
+            },
+            {
+              "key": "Operating profit",
+              "value": "£119m"
+            },
+            {
+              "key": "Trading EBITDA",
+              "value": "£345m"
+            },
+            {
+              "key": "Free cash (outflow)/inflow",
+              "value": "£(22)m"
+            },
+            {
+              "key": "Personal members and business",
+              "value": "12.0m"
+            },
+            {
+              "key": "Total motor and home policies",
+              "value": "1,923,000"
+            },
+            {
+              "key": "Total greenhouse gas emissions",
+              "value": "34,211"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "CEO's Statement and Financial Highlights",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "£989m (current) vs £967m (previous) for 2021"
+            },
+            {
+              "key": "Breakdowns attended",
+              "value": "3.07m (current) vs 3.01m (previous) for 2021"
+            },
+            {
+              "key": "Trading EBITDA margin",
+              "value": "35% (both current and previous) for 2021"
+            },
+            {
+              "key": "Paid personal members",
+              "value": "3.177m (current) vs 3.11m (previous) for 2021"
+            },
+            {
+              "key": "Trading EBITDA",
+              "value": "£345m (current) vs £341m (previous) for 2021"
+            },
+            {
+              "key": "Business customers",
+              "value": "8.8m (current) vs 8.7m (previous) for 2021"
+            },
+            {
+              "key": "Capital Expenditure",
+              "value": "£77m investment in core digital re-platforming and infrastructure upgrades"
+            },
+            {
+              "key": "Net Debt Reduction",
+              "value": "Net debt decreased from £2,605m to £2,261m post refinancing"
+            },
+            {
+              "key": "Ownership Change",
+              "value": "In March 2021, the AA was acquired by Warburg Pincus and TowerBrook Capital Partners, accompanied by an equity injection of £378m"
+            },
+            {
+              "key": "Senior Management Appointments",
+              "value": "More than 20 senior external and internal appointments were made during the year"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 7,
+          "title": "STRATEGIC REPORT GROUP AT A GLANCE",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "822m (2021: 799m)"
+            },
+            {
+              "key": "Paid personal members",
+              "value": "3.177m (2021: 3.1m)"
+            },
+            {
+              "key": "Business customers",
+              "value": "8.8m (2021: 8.7m)"
+            },
+            {
+              "key": "Trading EBITDA margin",
+              "value": "35% (2021: 35%)"
+            },
+            {
+              "key": "Trading EBITDA",
+              "value": "£290m (2021: £280m)"
+            },
+            {
+              "key": "Roadside Operations",
+              "value": "Approximately 2,500 patrols attending ~8,000 breakdowns per day; includes expanded services such as market-leading driving schools and SMR platform Prestige"
+            },
+            {
+              "key": "Driving School",
+              "value": "AA Driving School, BSM, Drivetech provide driver education and training, enhancing digital capabilities for cross-sell opportunities"
+            },
+            {
+              "key": "Insurance Segment",
+              "value": "Includes motor and home insurance broking with an in-house underwriter, online AA Cars platform, and evolving telematics for younger driver insurance"
+            },
+            {
+              "key": "Financial Services",
+              "value": "AA branded car finance products in partnership with Bank of Ireland; related revenue of £167m compared to £168m in 2021"
+            },
+            {
+              "key": "Summary",
+              "value": "The key business metrics for the current period show a slight increase in revenue and customer numbers, stable EBITDA margins, and consistent market position compared to 2021."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 8,
+          "title": "STRATEGIC REPORT – OUR BUSINESS MODEL",
+          "data": [
+            {
+              "key": "Our Customers",
+              "value": "Consumers, SMEs, OEMs, Fleet, Financial managers, Institutions"
+            },
+            {
+              "key": "Our Products",
+              "value": "AA Code Roadside Insurance, Front line, Broker Driving Services, Accident Assist, Maintenance, Underwriting Digital, Driving School, Data Science, Drivetech, and others"
+            },
+            {
+              "key": "Our Core Capabilities",
+              "value": "Put customers operational first, Breakdown, Broking efficiency, Own it & deliver, Safeguard, Service development, and what matters"
+            },
+            {
+              "key": "Our Impact",
+              "value": "Trading EBITDA & Cash flow, Membership growth & value, Great customer outcomes, Employee engagement"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 9,
+          "title": "STRATEGIC REPORT",
+          "data": [
+            {
+              "key": "Customer Growth & Data Insight",
+              "value": "As the customer base grows, AA leverages increased data to generate deeper customer insights, enhancing its service propositions and driving further customer acquisition."
+            },
+            {
+              "key": "Differentiation & Competitive Advantage",
+              "value": "AA differentiates itself with a leading brand, superior service standards, strategic digital investments, and strong training and development, setting it apart from competitors."
+            },
+            {
+              "key": "Revenue Models",
+              "value": "The report outlines multiple revenue streams including consumer roadside assistance through subscriptions, B2B fees (per breakdown and per vehicle over long-term contracts), franchise fees from driving schools, and leasing arrangements for branded vehicles."
+            },
+            {
+              "key": "Risk Management",
+              "value": "AA employs a comprehensive Risk Management Framework covering regulatory compliance, customer satisfaction, competitive pressures, and information security to effectively manage operational risks."
+            },
+            {
+              "key": "Market Position & Future Outlook",
+              "value": "With significant market shares in various segments (e.g., consumer motor insurance and B2B roadside assistance), AA is poised to grow its book over the life of its partnership with the Bank of Ireland despite competitive pricing pressures."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 10,
+          "title": "Strategic Report Key Performance Indicators: Insurance, Membership & Operations",
+          "data": [
+            {
+              "key": "Sections Covered",
+              "value": "Strategic Report KPIs, Insurance Business KPIs, Membership KPIs, and Roadside Operations Breakdown Attendance"
+            },
+            {
+              "key": "Key Performance Metrics",
+              "value": "Average income per policy (£), Insurance policies (thousands), Underwritten insurance policies (thousands), Average income per member (£)*, Average income per business customer (£), Paid personal members (thousands)*, Business customers (thousands), Breakdowns attended (thousands)"
+            },
+            {
+              "key": "Timeframes",
+              "value": "Insurance KPIs and Membership KPIs tracked for 2020-2022; Breakdown attendance data for 2020, 2021 and 2022 (reporting format change noted)"
+            },
+            {
+              "key": "Observations",
+              "value": "The data indicates a declining trend in average income per policy and average income per member, growth in underwritten policies, and a slight decline in breakdown attendance. The report also notes adjustments in membership basis (exclusion of ancillary holdings)."
+            },
+            {
+              "key": "Revision Note",
+              "value": "Basis for paid personal membership holding has been revised to exclude ancillary holdings (see page 21)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 11,
+          "title": "Key Performance Indicators – Financial Sustainability",
+          "data": [
+            {
+              "key": "KPI Trading EBITDA",
+              "value": "2020: 348; 2021: 341 (£ millions). Definition: Trading EBITDA is the performance measure most closely aligned to that required by our debt documents. Relevance: Key measure of underlying trading performance as defined in our debt covenants."
+            },
+            {
+              "key": "Operating Profit",
+              "value": "2020: 255; 2021: 218 (£ millions). Definition: Statutory profit before tax, finance income and finance costs including adjusting operating items. Note: Impacted by £64m of transaction fees related to the acquisition of the Group."
+            },
+            {
+              "key": "Free Cash Flow",
+              "value": "2020: 83 (£ millions). Definition: Net cash flow before bond buy-backs, refinancing costs and equity contributions. Note: Impacted by an outflow of £68m for transaction fees in relation to the acquisition."
+            },
+            {
+              "key": "Leverage",
+              "value": "2020: 7.6; 2021: 7.6 (ratio). Definition: Ratio of net debt to Trading EBITDA for continuing operations over the last 12 months. Relevance: Proactive debt management remains a key focus for the Group."
+            },
+            {
+              "key": "Interest Cover",
+              "value": "2020: 2.6; 2021: 2.5 (ratio). Definition: Ratio of Trading EBITDA to total ongoing cash finance costs. Relevance: Measures the extent to which earnings cover interest payments on debt."
+            },
+            {
+              "key": "Summary",
+              "value": "Trading EBITDA declined slightly from £348m to £341m, operating profit decreased from £255m to £218m (impacted by acquisition-related fees), leverage remained stable at 7.6x, and interest cover slightly decreased from 2.6x to 2.5x. Free cash flow reported for 2020 only."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 13,
+          "title": "STRATEGIC REPORT FINANCIAL REVIEW CONTINUED",
+          "data": [
+            {
+              "key": "Digital Platform for SMEs",
+              "value": "Enhanced digital platform driven by strong growth and increased online access for small business customers."
+            },
+            {
+              "key": "SME Trade Partnerships",
+              "value": "Expanded portfolio with four new buying groups added over the year."
+            },
+            {
+              "key": "EV and Alternative Fuels Initiatives",
+              "value": "Participation in the COP26 EV Rally of Scotland and partnership with EV Café strengthened market leading approach."
+            },
+            {
+              "key": "Innovation and Awards",
+              "value": "Free Wheeling Hub recognized by industry innovation awards from Fleet News and Green Fleet; awards for Fleet Partnership and Customer Service in Fleet and Leasing."
+            },
+            {
+              "key": "Breakdown Service Performance",
+              "value": "Total breakdowns increased by 2% to 3.07m (from 3.01m in 2021) with improvements in digital breakdown reporting."
+            },
+            {
+              "key": "Airbag Replacement Service",
+              "value": "Over 30,000 airbag replacements completed with high customer satisfaction."
+            },
+            {
+              "key": "Insurance Division Revenue",
+              "value": "Insurance revenue decreased slightly to £167m compared to £168m in FY21."
+            },
+            {
+              "key": "Policy Book Performance",
+              "value": "Motor policy book declined by 2% to 1,027,000 policies; home policy book grew by 1% to 896,000 policies."
+            },
+            {
+              "key": "Average Income per Policy",
+              "value": "Average income per motor/home policy fell to £47, while overall income per policy remained stable at £78."
+            },
+            {
+              "key": "Underwriting and Solvency",
+              "value": "Insurance Underwriting business maintained strong profit growth with a solvency coverage headroom of 86% over requirement as of 31 January 2022."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 14,
+          "title": "STRATEGIC REPORT FINANCIAL REVIEW CONTINUED Group Trading EBITDA",
+          "data": [
+            {
+              "key": "Business Segment Performance 2021",
+              "value": "Roadside: £280m, Insurance: £61m, Trading EBITDA: £341m. Trading EBITDA margin reported at 34.9% with Roadside contributing approximately 82%."
+            },
+            {
+              "key": "Group Trading EBITDA Change",
+              "value": "Increased from £341m (prior year) to £345m, reflecting a recovery post-COVID-19 despite challenges in the Insurance segment."
+            },
+            {
+              "key": "Roadside Trading EBITDA",
+              "value": "Increased by 4% with strong B2C and Driving Schools performance, partially offset by higher garaging spend."
+            },
+            {
+              "key": "Insurance Trading EBITDA",
+              "value": "Declined by 10% from £61m to £55m, with margin falling from 36% to 33% due to lower motor new business commissions."
+            },
+            {
+              "key": "Trading EBITDA Margin Stability",
+              "value": "Margin stable at 35% in 2021 and 2022, supported by resilient Roadside margins compensating for Insurance declines."
+            },
+            {
+              "key": "Operating Profit Comparison",
+              "value": "Group Operating profit decreased from £218m in 2021 to £119m in 2022, a reduction of £99m (45% decline), largely due to a £26m pension past service cost and a £60m increase in adjusting operating items from acquisition-related expenses."
+            },
+            {
+              "key": "Key Adjustments in Operating Profit",
+              "value": "Adjustments included a £6m increase in amortisation and depreciation and an £11m impairment of property, plant and equipment, alongside transaction fees and associated costs totalling approximately £64m expensed as adjusting operating items."
+            },
+            {
+              "key": "Net Finance Costs",
+              "value": "Total net finance costs decreased from £166m in 2021 to £142m in 2022 (a 14.5% reduction), driven by lower interest on external borrowings and adjusting finance costs."
+            },
+            {
+              "key": "Additional Notes",
+              "value": "Other details include share schemes vesting under acquisition terms, transaction fees related to the acquisition spread between the Group and Bidco, and pension scheme adjustments crystallised on November 26, 2021."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 15,
+          "title": "STRATEGIC REPORT FINANCIAL REVIEW CONTINUED",
+          "data": [
+            {
+              "key": "change_in_ownership",
+              "value": "The change in ownership has been highly beneficial for the Group. AA Limited shareholders invested a total of £596m as part of the acquisition, including a £218m acquisition price and a £378m equity injection, of which £361m was used for deleveraging."
+            },
+            {
+              "key": "net_finance_costs",
+              "value": "Net finance costs decreased by £24m to £142m (2021: £166m) due to lower external borrowing and adjusting finance costs. External borrowing costs benefited from the refinancing of the £570m Class B2 Notes."
+            },
+            {
+              "key": "profit_before_tax",
+              "value": "Profit before tax turned to a loss of £23m (2021: profit of £52m) due to transaction fees, pension past service cost, and associated expenses."
+            },
+            {
+              "key": "tax_charge",
+              "value": "The tax charge decreased by £8m to £4m (2021: £12m), with a current tax charge of £14m and a deferred tax credit of £10m, resulting in an effective tax rate of (17.4%)."
+            },
+            {
+              "key": "profit_after_tax",
+              "value": "The Group reported a loss after tax of £27m (2021: profit of £40m) reflecting acquisition-related transaction fees and debt financing expenses."
+            },
+            {
+              "key": "assets_held_for_sale",
+              "value": "Two properties were approved for sale with an impairment of £11m recorded in administrative expenses."
+            },
+            {
+              "key": "capital_expenditure",
+              "value": "Capital expenditure increased by £13m to £77m (FY21: £64m) driven by investments in core re-platforming, new digital propositions, and upgrades to data and operational infrastructure."
+            },
+            {
+              "key": "free_cash_flow",
+              "value": "The Group experienced a free cash outflow of -£22m (2021: inflow of £40m) before costs related to purchasing bonds, refinancing, and equity contributions. A detailed cash flow statement shows adjustments in working capital, operating activities, and financing items."
+            },
+            {
+              "key": "pension_deficit_reduction_payments",
+              "value": "Pension deficit reduction contributions were £27m (2021: £25m), in line with agreements with the Pension Trustees."
+            },
+            {
+              "key": "capital_management",
+              "value": "Post-delisting, capital is measured by net debt. As at 31 January 2022, net debt was £2.3bn (a reduction of £0.3bn compared to the prior year). The Group refinanced its debt by redeeming all £570m of outstanding Class B2 Notes and restructured its borrowing with a new Senior Term Facility and an undrawn Liquidity Facility."
+            },
+            {
+              "key": "interest_cover",
+              "value": "Interest cover, calculated as the ratio of Trading EBITDA to total ongoing cash finance costs, improved to 2.7x (2021: 2.5x)."
+            },
+            {
+              "key": "restricted_cash",
+              "value": "Restricted cash balances decreased to £29m (2021: £40m) due to increased investments in highly rated bonds."
+            },
+            {
+              "key": "cash_flow_table_summary",
+              "value": "A detailed cash flow table compares items such as Trading EBITDA, working capital adjustments, capital expenditure, and financing activities between two periods. Notable figures include a significant debt refinancing activity of £429m offset by an equity contribution of £378m, with a net cash change of -£73m in the current period versus +£26m in the previous period."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 17,
+          "title": "STRATEGIC REPORT FINANCIAL REVIEW CONTINUED",
+          "data": [
+            {
+              "key": "Senior Leverage ratio",
+              "value": "6.5x"
+            },
+            {
+              "key": "Excess cash flow",
+              "value": "£228m"
+            },
+            {
+              "key": "Fixed charge coverage ratio",
+              "value": "2.4x"
+            },
+            {
+              "key": "Consolidated net income",
+              "value": "£352m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 18,
+          "title": "KPI Total Greenhouse Gas Emissions (tonnes carbon dioxide equivalent)",
+          "data": [
+            {
+              "key": "Market-based Emissions",
+              "value": "2020: 41,339 tonnes CO2e; 2021: 33,819 tonnes CO2e"
+            },
+            {
+              "key": "Location-based Emissions",
+              "value": "2020: 43,472 tonnes CO2e; 2021: 35,565 tonnes CO2e"
+            },
+            {
+              "key": "Relevance",
+              "value": "Operational fleet accounts for 94% of total emissions (scope 1 and 2). Data reported under the Companies Act 2006 and in accordance with the GHG Protocol Corporate Accounting and Reporting Standard."
+            },
+            {
+              "key": "Summary",
+              "value": "Both market-based and location-based emissions decreased from 2020 to 2021."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 18,
+          "title": "Employees",
+          "data": [
+            {
+              "key": "Employees at the AA (2020)",
+              "value": "7,105"
+            },
+            {
+              "key": "Employees at the AA (2021)",
+              "value": "6,988"
+            },
+            {
+              "key": "Summary",
+              "value": "Employee headcount decreased by 117 employees (approximately 1.6%) compared to the prior year."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 31,
+          "title": "FINANCIAL STATEMENTS",
+          "data": [
+            {
+              "key": "Design Description",
+              "value": "Title page or section divider for the Financial Statements section featuring a minimalist design with a yellow electric fan and a gray and white decorative dog figure on a solid yellow background."
+            },
+            {
+              "key": "Document Source",
+              "value": "AA Limited Annual Report and Accounts 2022"
+            },
+            {
+              "key": "Notes",
+              "value": "This page serves as a decorative divider introducing the financial statements section of the annual report."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "FINANcIAL STATEMENTS INDEPENDENT AUDITORS’ REPORT TO THE MEMBERS OF AA LIMITED",
+          "data": [
+            {
+              "key": "Opinion",
+              "value": "AA Limited’s Group and Company financial statements give a true and fair view of the state of affairs as at 31 January 2022, including the Group’s loss and cash flows for the year ended."
+            },
+            {
+              "key": "Key Audit Matters",
+              "value": "Recognition of revenue in respect of the personal roadside business (Group); Valuation of post-retirement benefit obligations (Group); Valuation of insurance technical provisions (Group); Goodwill impairment assessment (Group); Investment in subsidiaries impairment assessment (Company)."
+            },
+            {
+              "key": "Materiality",
+              "value": "Overall Group materiality: £8.0m; Overall Company materiality: £7.5m (limited to £3.0m for Group audit); Performance materiality: £6.0m (Group) and £5.6m (Company)."
+            },
+            {
+              "key": "Audit Standards and Basis for Opinion",
+              "value": "Audit conducted in accordance with International Standards on Auditing (UK) and applicable law, including adherence to UK-adopted international accounting standards, UK GAAP and requirements of the Companies Act 2006."
+            },
+            {
+              "key": "Audit Scope",
+              "value": "Audit testing over seven components covering complete financial segments and selected detailed procedures for specific balances and transactions, with 91% revenue coverage."
+            },
+            {
+              "key": "Discussion on Revenue Recognition",
+              "value": "Focus on the insured personal roadside business with known system issues, manual corrections, and standing provisions to address completeness risks."
+            },
+            {
+              "key": "Discussion on Pension Valuation",
+              "value": "Evaluation of defined benefit pension schemes (AA UK) with judgments on actuarial assumptions, valuation of illiquid assets, and recognition of pension surplus under IAS 19."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Key Audit Matters and Audit Responses",
+          "data": [
+            {
+              "key": "Section 1 - Valuation of insurance technical provisions (Group)",
+              "value": "The Group's insurance technical provisions include £60m for outstanding claims and £17m for incurred but not reported claims. This involves significant judgment in estimating the ultimate cost of unsettled claims and related handling costs. Audit Response: Internal non-life actuarial specialists evaluated methodology and assumptions, performed independent actuarial projections, and tested data accuracy. Management loading for uncertainty was challenged and assessed against industry uncertainties."
+            },
+            {
+              "key": "Section 2 - Goodwill impairment assessment (Group)",
+              "value": "Annual impairment review of £1,170m goodwill balance, focusing on cash flow forecasts, growth assumptions, and discount rates across different CGUs. Audit Response: Verified cash flow forecasts against approved plans, assessed growth and discount rate assumptions, evaluated climate change considerations, and performed sensitivity analysis. Special focus on AA Cars and Drivetech CGUs with limited headroom."
+            },
+            {
+              "key": "Summary",
+              "value": "The table presents two key audit matters from a financial audit: insurance technical provisions (£77m total) and goodwill impairment assessment (£1,170m). Both required significant professional judgment with actuarial and sensitivity analyses used to verify estimates and assumptions."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Financial Statements Materiality and Audit Procedures",
+          "data": [
+            {
+              "key": "Overall Group Materiality",
+              "value": "£8.0m (2021: £8.5m)"
+            },
+            {
+              "key": "Overall Company Materiality",
+              "value": "£7.5m (2021: £3.0m), but limited to £3.0m for Group audit purposes"
+            },
+            {
+              "key": "Basis for Group Materiality",
+              "value": "Approximately 2.5% of adjusted Trading EBITDA (2021: approximately 4% of Operating Profit)"
+            },
+            {
+              "key": "Performance Materiality Percentage",
+              "value": "75% (2021: 75%)"
+            },
+            {
+              "key": "Performance Materiality (Group)",
+              "value": "£6.0m (2021: £6.3m)"
+            },
+            {
+              "key": "Performance Materiality (Company)",
+              "value": "£5.6m (2021: £2.25m)"
+            },
+            {
+              "key": "Allocated Materiality Range Across Components",
+              "value": "£3.0m to £7.6m"
+            },
+            {
+              "key": "Threshold for Reporting Misstatements",
+              "value": "£0.4m for both Group and Company audits (2021: £0.5m)"
+            },
+            {
+              "key": "Additional Commentary",
+              "value": "The audit report discusses materiality determination, performance materiality and audit procedures including sample sizing and risk assessments, as well as going concern conclusions."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Income Statement Components and Notes Reference",
+          "data": [
+            {
+              "key": "Description",
+              "value": "This table outlines the income statement structure including key financial line items (e.g., Revenue Cost of sales, Gross profit, Operating profit, etc.) with corresponding note references for further details. It forms part of the audited consolidated financial statements."
+            },
+            {
+              "key": "Notes Reference",
+              "value": "Key note references include: note 2 for Revenue Cost of sales, note 12 for Impairment of property, plant and equipment, note 4 for Operating profit, note 6 for Finance costs, note 7 for Finance income, and note 9 for Tax expense."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Statement of Comprehensive Income",
+          "data": [
+            {
+              "key": "Description",
+              "value": "This table compares the consolidated comprehensive income for the years 2022 and 2021. It shows figures for (Loss)/profit for the year, changes in fair value of cash flow hedges, tax effects, remeasurement gains on defined benefit schemes, and the overall total comprehensive income."
+            },
+            {
+              "key": "Key Figures",
+              "value": "2022: Loss of 27, remeasurement gains of 322, total comprehensive income of 220; 2021: Profit of 40, remeasurement losses of -50, total comprehensive income of 1."
+            },
+            {
+              "key": "Summary",
+              "value": "Despite reporting an operating loss in 2022, significant positive adjustments from remeasurement gains on defined benefit schemes and other items led to a substantially improved total comprehensive income compared to 2021."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "(Loss)/profit before tax",
+              "value": "-23 (2022), 52 (2021)"
+            },
+            {
+              "key": "Amortisation, depreciation and impairment",
+              "value": "110 (2022), 93 (2021)"
+            },
+            {
+              "key": "Net finance costs",
+              "value": "142 (2022), 166 (2021)"
+            },
+            {
+              "key": "Total working capital and provisions adjustments",
+              "value": "-11 (2022), -6 (2021)"
+            },
+            {
+              "key": "Net cash flows from operating activities",
+              "value": "214 (2022), 276 (2021)"
+            },
+            {
+              "key": "Net cash flows used in investing activities",
+              "value": "-86 (2022), -67 (2021)"
+            },
+            {
+              "key": "Net cash flows used in financing activities",
+              "value": "-201 (2022), -183 (2021)"
+            },
+            {
+              "key": "Cash and cash equivalents at 31 January",
+              "value": "112 (2022), 185 (2021)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+          "data": [
+            {
+              "key": "Accounting Policies Overview",
+              "value": "Detailed disclosure of accounting policies covering provisions and contingent liabilities, revenue recognition, insurance contracts, restructuring provisions, retirement benefit obligations, and share-based payments."
+            },
+            {
+              "key": "Provisions and Contingent Liabilities",
+              "value": "Provides criteria for recognizing provisions when a legal or constructive obligation exists, disclosure of material contingent liabilities, and treatment of deferred income for subscriptions and premiums receivable."
+            },
+            {
+              "key": "Revenue Recognition",
+              "value": "Revenue is measured at fair value less discounts, with distinctions made for commission income (agent vs principal) and for services provided over time versus point in time."
+            },
+            {
+              "key": "Insurance Contracts",
+              "value": "Outlines the Group’s approach to recognizing insurance risk, performing liability adequacy tests, treatment of reinsurance and coinsurance, and accounting for insurance aggregator fees."
+            },
+            {
+              "key": "Retirement Benefit Obligation",
+              "value": "Describes the calculation of defined benefit pension plans using projected unit credit method, discounting future obligations and reporting of actuarial gains/losses."
+            },
+            {
+              "key": "Finance and Taxation",
+              "value": "Covers finance income and costs including interest, swap movements, and details on current and deferred tax treatments."
+            },
+            {
+              "key": "Share-based Payments",
+              "value": "Explains the treatment of equity-settled and cash-settled share-based payment plans, including vesting conditions and impact of change of control."
+            },
+            {
+              "key": "Segmental Analysis and Adjusting Operating Items",
+              "value": "Provides brief notes on how segments are reported and the disclosure of adjusting operating items to aid understanding of financial results."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Financial Performance Indicators",
+          "data": [
+            {
+              "key": "Total Revenue",
+              "value": "£989m (2022), £967m (2021)"
+            },
+            {
+              "key": "Roadside Revenue",
+              "value": "£822m (2022), £799m (2021)"
+            },
+            {
+              "key": "Insurance Revenue",
+              "value": "£167m (2022), £168m (2021)"
+            },
+            {
+              "key": "Trading EBITDA",
+              "value": "£345m (2022), £341m (2021)"
+            },
+            {
+              "key": "Operating Profit",
+              "value": "£(19)m (2022), £218m (2021)"
+            },
+            {
+              "key": "Loss before Tax",
+              "value": "£(23)m (2022), £52m (2021)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Segmental Performance Overview",
+          "data": [
+            {
+              "key": "Roadside Trading EBITDA",
+              "value": "£290m (2022), £280m (2021)"
+            },
+            {
+              "key": "Insurance Trading EBITDA",
+              "value": "£55m (2022), £61m (2021)"
+            },
+            {
+              "key": "Share-based Payments Expense",
+              "value": "£-5m (2022), £-4m (2021)"
+            },
+            {
+              "key": "Amortisation and Depreciation",
+              "value": "£-99m (2022), £-93m (2021)"
+            },
+            {
+              "key": "Pension Past Service Cost",
+              "value": "£-26m (2022), £0m (2021)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Revenue Breakdown by Business Segment",
+          "data": [
+            {
+              "key": "Roadside - Consumer (B2C) Insured contracts",
+              "value": "470"
+            },
+            {
+              "key": "Roadside - Consumer (B2C) Pay for use contracts",
+              "value": "empty"
+            },
+            {
+              "key": "Roadside - Business services (B2B) Insured contracts",
+              "value": "empty"
+            },
+            {
+              "key": "Roadside - Business services (B2B) Pay for use contracts",
+              "value": "empty"
+            },
+            {
+              "key": "Roadside other",
+              "value": "empty"
+            },
+            {
+              "key": "Total Roadside",
+              "value": "empty"
+            },
+            {
+              "key": "Insurance - Brokering activities",
+              "value": "empty"
+            },
+            {
+              "key": "Insurance - Insurance underwriting",
+              "value": "empty"
+            },
+            {
+              "key": "Insurance - Insurance other",
+              "value": "empty"
+            },
+            {
+              "key": "Total Insurance",
+              "value": "empty"
+            },
+            {
+              "key": "Revenue",
+              "value": "empty"
+            },
+            {
+              "key": "Summary",
+              "value": "Breakdown of business metrics across two main segments: Roadside and Insurance services. Only 470 insured contracts in the Roadside Consumer segment are populated; other values appear unpopulated, indicating a template or incomplete report structure."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Reconciliation of Trading EBITDA to Operating Profit",
+          "data": [
+            {
+              "key": "Trading EBITDA",
+              "value": "Note 2"
+            },
+            {
+              "key": "Share-based payments",
+              "value": "Note 35"
+            },
+            {
+              "key": "Pension service charge adjustment",
+              "value": "empty"
+            },
+            {
+              "key": "Amortisation and depreciation",
+              "value": "Notes 10, 12, 13"
+            },
+            {
+              "key": "Impairment of property, plant and equipment",
+              "value": "Note 12"
+            },
+            {
+              "key": "Pension past service cost",
+              "value": "Note 26"
+            },
+            {
+              "key": "Adjusting operating items",
+              "value": "Note 5"
+            },
+            {
+              "key": "Operating profit",
+              "value": "Note 4"
+            },
+            {
+              "key": "Summary",
+              "value": "Guide for cross-referencing financial statement line items to their respective notes. Trading EBITDA adjustments exclude discontinued operations and significant non-recurring items."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Depreciation, Amortization and Adjusting Operating Items",
+          "data": [
+            {
+              "key": "Amortisation of owned intangible assets (Note 10)",
+              "value": "2022: 61 £m, 2021: 55 £m"
+            },
+            {
+              "key": "Depreciation of owned tangible fixed assets (Note 12)",
+              "value": "2022: 14 £m, 2021: 12 £m"
+            },
+            {
+              "key": "Depreciation of right-of-use assets (Note 13)",
+              "value": "2022: 24 £m, 2021: 26 £m"
+            },
+            {
+              "key": "Subtotal",
+              "value": "2022: 99 £m, 2021: 93 £m"
+            },
+            {
+              "key": "Transaction fees related to acquisition and debt financing arrangements",
+              "value": "2022: 64 £m, 2021: 16 £m"
+            },
+            {
+              "key": "Strategic review projects",
+              "value": "2022: 13 £m, 2021: 2 £m"
+            },
+            {
+              "key": "Closure costs of CARE section of AAUK pension scheme",
+              "value": "2022: 5 £m, 2021: 5 £m"
+            },
+            {
+              "key": "Emergency IT expenditure due to COVID-19",
+              "value": "2022: 0 £m, 2021: 4 £m"
+            },
+            {
+              "key": "Government furlough support",
+              "value": "2022: 0 £m, 2021: -7 £m"
+            },
+            {
+              "key": "Adjusting operating items",
+              "value": "2022: -1 £m, 2021: 1 £m"
+            },
+            {
+              "key": "Summary",
+              "value": "Details financial adjustments including depreciation and amortization increases, along with significant rises in transaction fees and strategic review projects. COVID-19 related charges present in 2021 are absent in 2022."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "Finance Costs Summary",
+          "data": [
+            {
+              "key": "Interest on external borrowings",
+              "value": "2022: £125m, 2021: £136m"
+            },
+            {
+              "key": "Finance charges payable on lease liabilities",
+              "value": "2022: £2m, 2021: £3m"
+            },
+            {
+              "key": "Total ongoing cash finance costs",
+              "value": "2022: £127m, 2021: £139m"
+            },
+            {
+              "key": "Ongoing amortisation of debt issue fees",
+              "value": "2022: £9m, 2021: £9m"
+            },
+            {
+              "key": "Fair value movement on interest rate swaps",
+              "value": "2022: -, 2021: £1m"
+            },
+            {
+              "key": "Net finance expense on defined benefit pension schemes",
+              "value": "2022: £2m, 2021: -"
+            },
+            {
+              "key": "Total ongoing non-cash finance costs",
+              "value": "2022: n, 2021: £10m"
+            },
+            {
+              "key": "Debt repayment premium",
+              "value": "2022: -, 2021: £6m"
+            },
+            {
+              "key": "Debt issue fees immediately written off following repayment of borrowings",
+              "value": "2022: -, 2021: £5m"
+            },
+            {
+              "key": "Debt issue fees immediately written off following refinancing of banking facilities",
+              "value": "2022: £1m, 2021: -"
+            },
+            {
+              "key": "Total adjusting cash finance costs",
+              "value": "2022: £1m, 2021: £1m"
+            },
+            {
+              "key": "Unamortised debt issue fees written off",
+              "value": "2022: £4m, 2021: £9m"
+            },
+            {
+              "key": "Total adjusting non-cash finance costs",
+              "value": "2022: £4m, 2021: £9m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Financial Statements Notes – Deferred Tax and Intangible Assets",
+          "data": [
+            {
+              "key": "Deferred Tax Components",
+              "value": "The table outlines deferred tax components for 2021 and 2022 covering items such as accelerated depreciation, revaluations of land and buildings, rollover relief, pension adjustments, short-term temporary differences, tax losses available for future offset and deferred tax credit. Notably, a significant pension-related amount of £78m in 2022 and a shift from a net deferred tax asset of £7m in 2021 to a net liability of £55m in 2022 are highlighted. The deferred tax credit increased from £2m in 2021 to £10m in 2022."
+            },
+            {
+              "key": "Deferred Tax Reconciliation",
+              "value": "This table tracks tax figures from 1 February to 31 January, comparing 2021 and 2022. Key figures include a tax credit recognised on the income statement (10 in 2022 vs 2 in 2021) and a significant tax (expense)/credit recognised in OCI (-82 in 2022 vs 6 in 2021). These changes contributed to a closing net deferred tax balance of -£55m in 2022, a deterioration from the positive balance of £17m in 2021."
+            },
+            {
+              "key": "Intangible Assets Movement",
+              "value": "The movement schedule for intangible assets between 2020 and 2021 details cost, additions, reclassifications, disposals, accumulated amortisation and net book values. The main components are goodwill, customer relationships, and software. Notable entries include software additions of £57m, disposals, and an amortisation of £55m, with a final net book value of goodwill at £1,170m and a total net value of £1,353m as of 31 January 2021."
+            },
+            {
+              "key": "Tax Rate Impact and Other Notes",
+              "value": "The notes indicate that the March 2021 budget announced an increase in the main corporation tax rate from 19% to 25% effective from April 2023. This change, substantively enacted in May 2021, has been factored into deferred tax measurements as of 31 January 2022, yielding a deferred tax credit of £7m. Additional points include the treatment of carried forward UK tax losses and interest expenses."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Borrowings and Financial Derivatives Overview",
+          "data": [
+            {
+              "key": "Senior Term Facility Refinanced Amount",
+              "value": "£150m"
+            },
+            {
+              "key": "Working Capital Facility Available",
+              "value": "£46m"
+            },
+            {
+              "key": "Liquidity Facility Amount",
+              "value": "£160m"
+            },
+            {
+              "key": "Class A9 Notes Issued",
+              "value": "£270m"
+            },
+            {
+              "key": "Class A9 Notes Interest Rate",
+              "value": "3.25%"
+            },
+            {
+              "key": "Total Class A Notes Security Rank",
+              "value": "First ranking"
+            },
+            {
+              "key": "Class A Free Cash Flow to Debt Service Ratio (2022)",
+              "value": "3.1x"
+            },
+            {
+              "key": "Class A Free Cash Flow to Debt Service Ratio (2021)",
+              "value": "2.5x"
+            },
+            {
+              "key": "Senior Leverage Ratio (2022)",
+              "value": "6.2x"
+            },
+            {
+              "key": "Senior Leverage Ratio (2021)",
+              "value": "6.5x"
+            },
+            {
+              "key": "Fixed Charge Coverage Ratio (2022)",
+              "value": "2.7x"
+            },
+            {
+              "key": "Fixed Charge Coverage Ratio (2021)",
+              "value": "2.4x"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Financial Derivatives Position 2021",
+          "data": [
+            {
+              "key": "Total Liability (Interest rate swaps)",
+              "value": "£3m"
+            },
+            {
+              "key": "Liability (Forward Fuel Contracts)",
+              "value": "£1m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Property Leases and Related Financial Information",
+          "data": [
+            {
+              "key": "Initial Property Leases Provision",
+              "value": "£3m"
+            },
+            {
+              "key": "Other Amount Initial Provision",
+              "value": "£8m"
+            },
+            {
+              "key": "Total Initial Provision",
+              "value": "£1m"
+            },
+            {
+              "key": "Utilised Amount",
+              "value": "£5m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Consolidated Financial Statements - Pension Scheme Notes",
+          "data": [
+            {
+              "key": "Actuarial Review for AAI Scheme",
+              "value": "Triennial actuarial review as at 31 December 2019, completed in September 2020, resulted in a reduction of the funding deficit by 50% from approximately £8m (as at 31 December 2016) to about £4m (as at 31 December 2019)."
+            },
+            {
+              "key": "Deficit Reduction Contributions",
+              "value": "The Group made deficit reduction contributions of £1m in the year ended 31 January 2022 and will continue annual contributions (increasing with inflation) until December 2024 or until an alternative agreement is signed. Total employer contributions of £27m were made to defined benefit plans (AAUK and AAI) in the year ended 31 January 2022."
+            },
+            {
+              "key": "AAPMP Full Accounting Valuation",
+              "value": "In January 2022, a full accounting valuation of the AAPMP was completed with a valuation date of 31 January 2021, updating the previous valuation from 31 January 2017. The updated valuation showed a reduction in the reported deficit due to lower-than-assumed medical premium inflation and revised longevity expectations."
+            },
+            {
+              "key": "Defined Contribution Pension Scheme Charge",
+              "value": "A charge of £27m was recognized in the income statement for defined contribution pension scheme costs in the year (compared to £24m in 2021)."
+            },
+            {
+              "key": "Pension Scheme Movement Analysis",
+              "value": "According to the table titled 'Pension Scheme Movement Analysis': Assets increased from £2,519m to £2,666m and liabilities improved from -£2,681m to -£2,536m between February 2020 and January 2022, reflecting overall improvement in the scheme's financial position."
+            },
+            {
+              "key": "AAUK Scheme Financial Statement",
+              "value": "The second table ('Pension Scheme Financial Statement') for the AAUK scheme shows assets growing from £2,472m to approximately £2,617m and liabilities decreasing from -£2,576m to -£2,453m, with noted improvements from changes in financial assumptions and regular deficit reduction contributions."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 50,
+          "title": "Pension Scheme Movement Analysis",
+          "data": [
+            {
+              "key": "Balance at 1 February 2020",
+              "value": "Assets: £47m, Liabilities: £61m"
+            },
+            {
+              "key": "Balance at 31 January 2021",
+              "value": "Assets: £5m, Liabilities: £60m"
+            },
+            {
+              "key": "Balance at 31 January 2022",
+              "value": "Assets: £49m, Liabilities: £51m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 50,
+          "title": "Pension Scheme Movement Analysis",
+          "data": [
+            {
+              "key": "Balance at 1 February 2020",
+              "value": "Assets: £0m, Liabilities: £44m"
+            },
+            {
+              "key": "Interest on defined benefit scheme liabilities",
+              "value": "Assets: £0m, Liabilities: £1m"
+            },
+            {
+              "key": "Amounts recognised in the income statement",
+              "value": "Assets: £0m, Liabilities: £1m"
+            },
+            {
+              "key": "Effect of changes in financial assumptions",
+              "value": "Assets: £0m, Liabilities: £2m"
+            },
+            {
+              "key": "Amounts recognised in the statement of comprehensive income",
+              "value": "Assets: £0m, Liabilities: £2m"
+            },
+            {
+              "key": "Benefits paid from scheme assets",
+              "value": "Assets: £-1m, Liabilities: £1m"
+            },
+            {
+              "key": "Ongoing employer contributions",
+              "value": "Assets: £1m, Liabilities: £0m"
+            },
+            {
+              "key": "Movements through cash",
+              "value": "Assets: £0m, Liabilities: £1m"
+            },
+            {
+              "key": "Balance at 31 January 2021",
+              "value": "Assets: £0m, Liabilities: £46m"
+            },
+            {
+              "key": "Interest on defined benefit scheme liabilities",
+              "value": "Assets: £0m, Liabilities: £1m"
+            },
+            {
+              "key": "Amounts recognised in the income statement",
+              "value": "Assets: £0m, Liabilities: £1m"
+            },
+            {
+              "key": "Effect of changes in financial assumptions",
+              "value": "Assets: £0m, Liabilities: £1m"
+            },
+            {
+              "key": "Effect of experience adjustment",
+              "value": "Assets: £0m, Liabilities: £13m"
+            },
+            {
+              "key": "Amounts recognised in the statement of comprehensive income",
+              "value": "Assets: £0m, Liabilities: £14m"
+            },
+            {
+              "key": "Benefits paid from scheme assets",
+              "value": "Assets: £-1m, Liabilities: £1m"
+            },
+            {
+              "key": "Ongoing employer contributions",
+              "value": "Assets: £1m, Liabilities: £0m"
+            },
+            {
+              "key": "Movements through cash",
+              "value": "Assets: £0m, Liabilities: £1m"
+            },
+            {
+              "key": "Balance at 31 January 2022",
+              "value": "Assets: £0m, Liabilities: £32m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Financial Statements Notes - Investments in Subsidiaries & Impairment Reversal",
+          "data": [
+            {
+              "key": "Section",
+              "value": "Investments in Subsidiaries and related impairments"
+            },
+            {
+              "key": "Opening Balance",
+              "value": "At 1 February"
+            },
+            {
+              "key": "Capital Contribution",
+              "value": "£361m from AA Limited to AA Mid Co Limited"
+            },
+            {
+              "key": "Share Incentive Charge",
+              "value": "£5m relating to equity settled share schemes"
+            },
+            {
+              "key": "Impairment Reversal",
+              "value": "£210m reversal recognized in the year ended 31 January 2022"
+            },
+            {
+              "key": "Total Increase in Investments",
+              "value": "£576m for the year ended 31 January 2022"
+            },
+            {
+              "key": "Statement Date",
+              "value": "31 January 2022"
+            },
+            {
+              "key": "Impairment Testing Methodology",
+              "value": "Value in use calculation based on cash flow projections from a five-year plan with terminal growth of 2%"
+            },
+            {
+              "key": "Discount Rate (WACC)",
+              "value": "7.7% (post-tax weighted average cost of capital)"
+            },
+            {
+              "key": "Cost of Equity",
+              "value": "19.1% used in the dividend distribution model"
+            },
+            {
+              "key": "Sensitivity Analysis",
+              "value": "±1% change in cash flow forecasts affects impairment reversal by £7m; ±1% change in equity discount rate affects reversal by £44m"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 60,
+          "title": "Auditors’ Remuneration, Employee Costs, and Ultimate Parent Undertaking",
+          "data": [
+            {
+              "key": "Auditors’ remuneration (2022)",
+              "value": "£0.8m"
+            },
+            {
+              "key": "Auditors’ remuneration (2021)",
+              "value": "£0.8m"
+            },
+            {
+              "key": "Employee costs",
+              "value": "No employees or employee costs in current or prior year"
+            },
+            {
+              "key": "NED remuneration (2022)",
+              "value": "£0.3m"
+            },
+            {
+              "key": "NED remuneration (2021)",
+              "value": "£0.7m"
+            },
+            {
+              "key": "Ultimate parent undertaking",
+              "value": "Wholly owned subsidiary of Basing BidCo Limited; ultimate controlling parent is Basing ConsortiumCo Limited (registered office: 3rd Floor, 44 Esplanade, St Helier, JE4 9WG, Jersey)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 61,
+          "title": "Company Identification Details",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "AA Limited"
+            },
+            {
+              "key": "Address",
+              "value": "Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA"
+            },
+            {
+              "key": "Company Number",
+              "value": "05149111"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Investment in subsidiaries impairment assessment (Company)",
+          "data": [
+            {
+              "key": "Item 1",
+              "value": "Description: Refer to Notes 1.3(b), 1.3(d) and 2 to the Company financial statements. Evaluation: We evaluated the appropriateness of the 'dividend distribution' model prepared."
+            },
+            {
+              "key": "Item 2",
+              "value": "Description: Prior to the reversal of impairment of £210m, the Company held investments in subsidiaries of £506m representing the AA Insurance Holdings Limited group (the underwriting business) and AA Mid Co Limited (which owns the rest of the Group). Evaluation: We evaluated the Directors' impairment assessment of the investment in subsidiaries' carrying value by agreeing amounts to supporting documentation and checking calculations. This process leveraged the Directors' calculations for the Group goodwill impairment assessment."
+            },
+            {
+              "key": "Item 3",
+              "value": "Description: In the previous two financial years, impairments totalling approximately £688m were recognised following the Directors' assessments of subsidiary carrying values in light of the Group's decreasing market capitalisation and a takeover offer accepted by shareholders. Evaluation: We evaluated assumptions regarding anticipated interest flows as debt is refinanced and the basis for calculating tax cash flows, finding them reasonable and supported by current market rates."
+            },
+            {
+              "key": "Item 4",
+              "value": "Description: A sum of £361m was made to AA Mid Co Limited following completion of the takeover by the Consortium. With additional equity injected and successful refinancing of debt notes, the Directors prepared 'dividend distribution' forecasts reflecting available cash flows from subsidiaries. These forecasts incorporated interest, tax, and enterprise value cash flows used in support of the goodwill impairment assessment. Evaluation: After considering IAS 36 requirements, the Directors concluded that recognising the reversal of £210m of past impairment charges was appropriate, a conclusion supported by our testing."
+            },
+            {
+              "key": "Audit Scope",
+              "value": "We tailored the audit scope to provide an opinion on the financial statements as a whole by considering the Group and Company's structure, accounting processes and controls, and industry context. The audit covered two operating segments with several reporting units, including complete audits for AA Limited and AA Bond Co Limited, and targeted procedures for others. The Group engagement team performed all procedures, predominantly remotely due to COVID-19 restrictions."
+            },
+            {
+              "key": "Summary",
+              "value": "This table details the assessment of investment impairment in subsidiaries, highlighting a significant reversal of £210m in past impairment charges post-takeover and refinancing. The evaluations involved dividend distribution forecasts, cash flow analyses, and compliance with IAS 36, ultimately confirming the appropriateness of the impairment reversal."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 12,
+          "title": "Financial Review and Capital Structure Update",
+          "data": [
+            {
+              "key": "Ownership Change",
+              "value": "The change in ownership of the Group has enabled a reduction in leverage and a rebalanced capital structure, positioning the company for long‐term sustainable investment."
+            },
+            {
+              "key": "Equity Injection",
+              "value": "New owners injected equity of £378m."
+            },
+            {
+              "key": "Net Debt Reduction",
+              "value": "Net debt improved from 7.6x Trading EBITDA at 31 January 2021 to 6.6x at 31 January 2022."
+            },
+            {
+              "key": "Revenue Growth",
+              "value": "Group revenue reached £989m, up 2% from 2021’s £967m, demonstrating resilience amid ongoing COVID-19 challenges."
+            },
+            {
+              "key": "Segment Revenue",
+              "value": "Roadside operations increased from £799m to £822m, while Insurance contributed £168m in 2021 data."
+            },
+            {
+              "key": "Operational Highlights",
+              "value": "Positive Trading EBITDA growth and strong operating cash flow generation supported future investments."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 16,
+          "title": "STRATEGIC REPORT FINANCIAL REVIEW CONTINUED",
+          "data": [
+            {
+              "key": "Refinancing Details",
+              "value": "On 21 July 2021, the Group issued £270m of Class A9 Notes at a coupon of 3.25% to refinance outstanding debt. The proceeds, combined with a £100m equity contribution from Bidco and an additional £17m for transaction fees, were used to repay £372m of Class A5 Notes."
+            },
+            {
+              "key": "Debt Instruments and Rates",
+              "value": "The communication details multiple borrowings with a weighted average interest rate of 4.94% as at 31 January 2022. Facilities include various classes of notes and a Senior Term Facility, with interest rates ranging from 2.75% to 6.50%."
+            },
+            {
+              "key": "Leverage Improvement",
+              "value": "The leverage ratio improved to 6.6x at 31 January 2022 compared to 7.6x in the prior year, reflecting a positive shift in the capital structure."
+            },
+            {
+              "key": "Debt Maturity Profile",
+              "value": "The majority of borrowings are long-term with no repayments due within 12 months, and the Group maintains access to public debt markets for future refinancing."
+            },
+            {
+              "key": "Additional Capital Structure Management",
+              "value": "The Group is continuously evaluating optimal refinancing strategies, including options for early redemption and make-whole interest penalties for various classes of notes."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 30,
+          "title": "GOVERNANCE REPORT DIRECTORS’ REPORT CONTINUED",
+          "data": [
+            {
+              "key": "Refinancing of A5 Notes",
+              "value": "In July 2021, the Group completed a highly successful refinancing of its outstanding A5 notes, issuing £270m of A9 notes at a coupon of 3.25% with a 7x oversubscribed order book."
+            },
+            {
+              "key": "Upcoming Refinancing",
+              "value": "The Group plans to refinance £250m of A6 notes due to mature in July 2023 to ensure continued access to debt markets."
+            },
+            {
+              "key": "Debt Maturity Profile",
+              "value": "The majority of the Group's borrowings are long term with no borrowings due within 12 months from the signing of the financial statements."
+            },
+            {
+              "key": "Refinancing Strategy",
+              "value": "The Group will continue to seek to refinance its maturities in a timely manner at affordable prices despite challenging market conditions."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 36,
+          "title": "Consolidated Financial Statements - Balance Sheet & Changes in Equity",
+          "data": [
+            {
+              "key": "Balance Sheet Title",
+              "value": "Balance Sheet Notes Reference"
+            },
+            {
+              "key": "Balance Sheet Summary",
+              "value": "This table shows the balance sheet structure with note reference numbers for line items across non-current assets, current assets, current liabilities, non-current liabilities, and equity. Note numbers range from 7 to 37."
+            },
+            {
+              "key": "Equity Details",
+              "value": "Total equity is indicated as 986. The statement includes components like Share Capital, Share Premium, Own Shares, Cash Flow Hedge Reserve, and Retained Earnings."
+            },
+            {
+              "key": "Statement of Changes in Equity Title",
+              "value": "Statement of Changes in Equity"
+            },
+            {
+              "key": "Equity Movement Summary",
+              "value": "The table covers movements from 1 February 2020 to the year-end, including profit for the year, other comprehensive expense, share capital issuance, purchase of own shares, and settlement of share schemes. Figures such as (1,592), (39), (4), and (1,590) are noted."
+            },
+            {
+              "key": "Approval and Signatories",
+              "value": "The financial statements were approved by the Board of Directors on 12 April 2022 and signed on its behalf by Jakob Pfaudler (Chief Executive Officer) and Tom Mackay (Chief Financial Officer)."
+            },
+            {
+              "key": "Report Reference",
+              "value": "AA Limited Annual Report and Accounts 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 45,
+          "title": "Financial Statements Notes – Investments, Liabilities and Borrowings",
+          "data": [
+            {
+              "key": "Financial Investments",
+              "value": "Shares and other variable-yield securities and units in unit trusts measured at fair value with a 2022 value of £10m. Indication of a new investment or acquisition position compared to 2021."
+            },
+            {
+              "key": "Trade and Other Receivables",
+              "value": "Listing of current assets including trade receivables (e.g., £99m in 2021 for insurance broking customers), prepayments, contract assets, and reinsurers' share of insurance liabilities, suggesting detailed receivables from insurance operations."
+            },
+            {
+              "key": "Cash and Cash Equivalents Breakdown",
+              "value": "Details provided on ring-fenced and non ring-fenced cash with a decrease from £185m in 2021 to £112m in 2022; includes available and restricted cash with restrictions related to the Whole Business Securitisation."
+            },
+            {
+              "key": "Trade and Other Payables",
+              "value": "Current liabilities for 2021 are detailed with trade payables (£128m), other taxes and social security costs (£25m), accruals (£81m), deferred income (£225m), provisions for unearned premiums (£62m), and other payables (£35m). Additional notes indicate specific payables related to insurance broking and roadside subscription deferrals."
+            },
+            {
+              "key": "Borrowings and Loans",
+              "value": "Borrowings summary for 2021 includes current liabilities (£637m) and non-current liabilities (£2,354m) for total borrowings of £2,991m, with detailed disclosure on the composition and refinancing transactions (e.g., redemption of Class B2 Notes, release of escrow funds, and description of current vs non-current classifications)."
+            },
+            {
+              "key": "Financial Facilities and Notes Summary",
+              "value": "A detailed table lists various debt instruments (Senior Term Facility, Class A2, A5, A6, A7, A8, AQ, B2, B3 Notes) with information on maturity dates, interest rates, principal amounts, issue costs, and amortised costs for January 2021 and 2022. Notable refinancing details include interest rate swaps and adjustments affecting the facility’s rate."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 48,
+          "title": "Share Capital – Ordinary Shares",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Allotted, called up and fully paid ordinary shares"
+            },
+            {
+              "key": "2022 Shares",
+              "value": "4,072,341,178 ordinary shares"
+            },
+            {
+              "key": "2021 Shares",
+              "value": "624,054,757 ordinary shares"
+            },
+            {
+              "key": "Nominal Value per Share",
+              "value": "£0.001"
+            },
+            {
+              "key": "Total Share Capital 2022",
+              "value": "£4m"
+            },
+            {
+              "key": "Total Share Capital 2021",
+              "value": "£1m"
+            },
+            {
+              "key": "Summary",
+              "value": "Significant increase in the number of ordinary shares from 2021 to 2022, reflecting a capital structure change following the acquisition of AA Limited and subsequent share issuances."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 48,
+          "title": "Share Capital – Deferred Shares",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Allotted, called up and fully paid deferred shares"
+            },
+            {
+              "key": "2022 Deferred Shares (Number)",
+              "value": "50,000,000 shares"
+            },
+            {
+              "key": "2021 Deferred Shares (Number)",
+              "value": "60,000,000 shares"
+            },
+            {
+              "key": "Nominal Value per Share",
+              "value": "£0.001"
+            },
+            {
+              "key": "Total Value 2022",
+              "value": "£60,000"
+            },
+            {
+              "key": "Total Value 2021",
+              "value": "£60,000"
+            },
+            {
+              "key": "Summary",
+              "value": "Despite a reduction in the number of deferred shares from 2021 to 2022, the total nominal value remained constant."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 48,
+          "title": "Pension Plan Financial Position Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Present Value of Defined Benefit Obligation 2022",
+              "value": "£-2,536m"
+            },
+            {
+              "key": "Fair Value of Plan Assets 2022",
+              "value": "£2,666m"
+            },
+            {
+              "key": "Surplus/(Deficit) 2022",
+              "value": "£130m surplus"
+            },
+            {
+              "key": "Present Value of Defined Benefit Obligation 2021",
+              "value": "£-2,819m"
+            },
+            {
+              "key": "Fair Value of Plan Assets 2021",
+              "value": "£2,631m"
+            },
+            {
+              "key": "Deficit 2021",
+              "value": "£-188m"
+            },
+            {
+              "key": "Summary",
+              "value": "Improvement from a deficit of £188m in 2021 to a surplus of £130m in 2022, representing a net change of £318m. This change was driven by higher corporate bond yields, improved asset returns, and adjustments including a one-off past service cost and other valuation updates."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 54,
+          "title": "FINANCIAL STATEMENTS NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS – Liquidity, Insurance and Capital Management",
+          "data": [
+            {
+              "key": "Liquidity risk",
+              "value": "Discussion of liquidity risk management: the Group evaluates current and expected liquidity requirements to ensure sufficient cash reserves and working capital headroom, with a detailed maturity analysis of financial liabilities."
+            },
+            {
+              "key": "Maturity Analysis 2022",
+              "value": "Loans and Borrowings: £2,704m total (115m <1 year, 354m 1-2 years, 1,618m 2-5 years, 617m >5 years); Lease liabilities: £64m total; Other payables and accruals: £74m; Insurance liabilities: £77m; Trade payables: two entries, one at £128m and another at £3,047m, with significant amounts due in 2-5 years."
+            },
+            {
+              "key": "Maturity Analysis 2021",
+              "value": "Total liabilities of £3,903m distributed as: £820m (<1 year), £683m (1-2 years), £2,027m (2-5 years), £373m (>5 years). Loans and Borrowings form the largest component at £3,544m."
+            },
+            {
+              "key": "Insurance risk",
+              "value": "Focus on pricing, underwriting, and claims handling for motor and household policies, including estimation of ultimate liabilities from claims (both reported and IBNR), with risk reduction via reinsurance (approx. 80% risk ceded, plus additional excess of loss and catastrophe programs)."
+            },
+            {
+              "key": "Capital management",
+              "value": "Capital is managed by combining Net Debt and Equity. For 2022, Total Net Debt decreased from 2,605 to 2,261, Equity is reported at £217, and Total capital decreased from 2,822 to 2,261. Debt ratios and leverage metrics related to Trading EBITDA are also detailed for covenant reporting and debt service compliance."
+            },
+            {
+              "key": "Debt and Financial Metrics",
+              "value": "A separate table outlines various debt-related metrics, including Senior Secured Debt, Class A/B Notes, lease adjustments, and ratios like Net Debt to Trading EBITDA, indicating robust monitoring of financial obligations and covenant compliance."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 57,
+          "title": "Financial Statements: Statement of Financial Position & Changes in Equity",
+          "data": [
+            {
+              "key": "Balance Sheet Structure",
+              "value": "The table outlines the organization of the balance sheet with line items such as Non-current assets, Investments in subsidiaries (note 2), Current assets, Trade and other receivables (note 3), Cash and cash equivalents (note 4), Total assets, Current liabilities, Trade and other payables (note 5), Total liabilities, Net assets, Equity, Called up share capital (note 6), Share premium, Own shares, and Retained earnings."
+            },
+            {
+              "key": "Statement of Changes in Equity",
+              "value": "The statement details the changes from 1 February 2020 to 31 January 2021. It includes figures for share capital, share premium, own shares, and retained earnings. Notable movements include a loss for the year of £436m, a share premium increment of £2m on issuance, a purchase of own shares amounting to -£4m, a settlement of share schemes, and share-based payments of £3m. The total equity reduced from £598m at the start to £163m at 31 January 2021."
+            },
+            {
+              "key": "Overall Equity and Profit",
+              "value": "Total equity is reported as 748. The Company reported a profit of £202m for the financial year (in contrast to a loss of £436m in 2021)."
+            },
+            {
+              "key": "Board Approval and Signatures",
+              "value": "The financial statements were approved by the Board of Directors on 12 April 2022 and signed by Jakob Pfaudler (Chief Executive Officer) and Tom Mackay (Chief Financial Officer). The accompanying notes form an integral part of the statements."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 59,
+          "title": "Financial Statements Notes - Capital Structure and Subsidiaries",
+          "data": [
+            {
+              "key": "Share Capital Change",
+              "value": "Ordinary shares increased significantly from 624,054,757 in 2021 to 4,072,341,178 in 2022. Called up share capital increased from approximately £1m in 2021 to £4m in 2022, with a nominal share value of £0.001."
+            },
+            {
+              "key": "Deferred Shares",
+              "value": "60,000,000 deferred shares at £0.001 each remained unchanged in value (recorded as £60,000 in both 2021 and 2022)."
+            },
+            {
+              "key": "Cash Position Shift",
+              "value": "Cash at bank and in hand decreased from £25m in 2021 to £12m in 2022, while amounts owed to subsidiary undertakings increased from £3m to £17m, indicating a significant shift in liquidity and internal financing."
+            },
+            {
+              "key": "Subsidiary Undertakings",
+              "value": "Multiple subsidiary entities are listed, with most incorporated in England and Wales, and additional ones in Jersey, Gibraltar, Scotland, Ireland. All subsidiaries hold ordinary shares, with some variations in share classes noted."
+            },
+            {
+              "key": "Acquisition Note",
+              "value": "Following the acquisition of AA Limited on 9 March 2021, all ordinary shares were transferred to Basing BidCo Limited with subsequent additional issuances, reflecting a merger/acquisition event impacting share capital structure."
+            },
+            {
+              "key": "Registered Offices",
+              "value": "Registered office addresses cover locations in England, Jersey (with key 'moOoOwWD'), Scotland, Gibraltar, and Ireland, supporting the group's multi-territorial structure."
+            },
+            {
+              "key": "Receivables Disclosure",
+              "value": "The notes include tables on trade and other receivables, however, some monetary values are missing, such as for amounts owed by subsidiary undertakings and other receivables for 2021."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 18,
+          "title": "STRATEGIC REPORT RISK MANAGEMENT REPORT & Risk Assessment Overview",
+          "data": [
+            {
+              "key": "Overall Responsibility",
+              "value": "The Board of Basing Topco Limited, the AA investment company controlled by Warburg Pincus and TowerBrook Capital Partners, is responsible for setting the risk appetite and ensuring risks are identified, assessed, monitored, and managed in line with strategic objectives."
+            },
+            {
+              "key": "Risk Governance Framework",
+              "value": "The AA employs a three lines of defence model: First line - business units managing day-to-day risks; Second line - Group Risk and Compliance providing oversight and challenge; Third line - Internal Audit offering independent assurance. The risk management framework emphasizes visibility, ownership, discussion, and learning from risk-taking."
+            },
+            {
+              "key": "Risk Management Framework Components",
+              "value": "Key elements include Risk culture and governance, Strategy and objectives, Risk identification and prioritisation, Risk management and controls, and Risk reporting and communication. Notably, a comprehensive control review was planned for 2022."
+            },
+            {
+              "key": "Own Risk and Solvency Assessment (ORSA)",
+              "value": "The AA operates a defined capital management process with an in-house underwriter in Gibraltar subject to Solvency II compliance, with ORSA results presented to the underwriter’s Board for strategic decision-making."
+            },
+            {
+              "key": "Risk Assessment and Mitigation Strategy",
+              "value": "Principal risks identified include CUSTOMER RISK, OPERATIONAL RESILIENCE, CYBER SECURITY, and INSURANCE RISK. Each risk is analyzed by description, potential impact, and specific mitigation measures such as robust product governance, homeworking infrastructure, defined cyber security strategy, and agile pricing with reinsurance programs."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 19,
+          "title": "STRATEGIC REPORT - Risk Factors and Emerging Risks",
+          "data": [
+            {
+              "key": "Risk Assessment Title",
+              "value": "Risk Assessment and Mitigation Strategy"
+            },
+            {
+              "key": "Risk Categories",
+              "value": "FINANCIAL RISK, REGULATORY RISK, HEALTH AND SAFETY RISK"
+            },
+            {
+              "key": "Financial Risk - Potential Impact",
+              "value": "The ability to finance the AA is critical to its ongoing operation. Factors include credit rating, stakeholder management, market conditions, and rising interest rates amid higher inflation."
+            },
+            {
+              "key": "Financial Risk - Mitigation",
+              "value": "Following a change of ownership, shareholders injected £361m of new equity to reduce debt, lowering refinancing costs. The AA monitors financial markets, maintains strong relationships with credit rating agencies, and has access to a £56m Working Capital Facility (with £46m available for cash draws)."
+            },
+            {
+              "key": "Regulatory Risk - Potential Impact",
+              "value": "2021 saw substantial regulatory change. There are heightened risks related to compliance with FCA's General Insurance Pricing Practices, upcoming Consumer Duty changes, and IFRS 17 implementation for FY24."
+            },
+            {
+              "key": "Regulatory Risk - Mitigation",
+              "value": "The AA has effective processes for tracking incoming regulatory changes, is prepared for pricing practices rules, and is gearing up for Consumer Duty and IFRS 17 implementations."
+            },
+            {
+              "key": "Health and Safety Risk - Potential Impact",
+              "value": "Risk arises from incidents like vehicle breakdowns on the roadside, which can jeopardize the safety of members and staff."
+            },
+            {
+              "key": "Health and Safety Risk - Mitigation",
+              "value": "The AA maintains a robust, externally audited health, safety and environmental management system, employs dedicated safety advisers, participates in SURVIVE, and conducts regular risk reviews."
+            },
+            {
+              "key": "Emerging Risks - Overview",
+              "value": "Global financial instability and economic uncertainty persist due to the pandemic, geopolitical tensions (Russian war on Ukraine), labour shortages, and high energy prices. The IMF has revised down growth expectations for the UK in 2022 while anticipating higher inflation and has raised its growth estimate for 2023. The AA continues to monitor these macroeconomic challenges."
+            },
+            {
+              "key": "PESTLE Analysis Framework",
+              "value": "Covers Political (tax policy, monetary policy, government stability), Economic (growth, interest/exchange rates, inflation), Social (health and safety awareness, consumer behaviour, brand image), Technology (competing technology, vehicle automation, AI), Legal (regulatory change, consumer and advertising laws), and Environmental factors (climate change, governance, energy cost and availability)."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "risk_factor",
+          "page": 51,
+          "title": "Pension Scheme Assumptions, Sensitivity Analysis and Pension Scheme Risks",
+          "data": [
+            {
+              "key": "Pension Plan Assumptions",
+              "value": "The document details the principal actuarial assumptions for pension schemes, including pensioner and non-pensioner discount rates, RPI, CPI, and increase rates for pensions. Tables compare figures for 2021 and 2022 with notable changes such as a significant increase in the pensioner discount rate (e.g., category 2: 11.0% in 2022 vs 0.4% in 2021)."
+            },
+            {
+              "key": "Sensitivity Analysis",
+              "value": "A sensitivity analysis is provided showing the impact on the defined benefit liability from changes in key assumptions such as a 0.25% increase in discount rate, 0.25% increase in RPI/CPI, increase in medical claims inflation, and an additional year of life expectancy. The effects are quantified for different schemes (AAUK, AAI, and AAPMP) and reversed for an equivalent decrease in assumptions."
+            },
+            {
+              "key": "Mortality Assumptions and Longevity",
+              "value": "The mortality assumptions use standard tables with scheme-specific adjustments (e.g., SAPS (S3) series and CMI_2020 model). Detailed expected lifespans for male and female retirees (approximately 25 and 28 years, respectively) are provided along with sensitivity estimates for changes in life expectancy on liabilities."
+            },
+            {
+              "key": "Pension Scheme Risks and Mitigation",
+              "value": "The document outlines various risks associated with the pension schemes including credit risk, currency risk, market price risk, and financial derivatives risk. It also describes mitigative strategies such as detailed due diligence on investments, diversification across funds, hedging (approximately 80% of interest and inflation risk hedged), and the use of bulk annuity policies to hedge longevity risk."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": false,
+      "elements": []
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": false,
+      "elements": []
+    },
+    "has_strategic_restructuring": {
+      "value": true,
+      "elements": [
+        {
+          "type": "strategic_restructuring",
+          "page": 3,
+          "title": "Cover Page / Section Divider",
+          "data": [
+            {
+              "key": "description",
+              "value": "This appears to be a cover page or section divider from a strategic report, likely from AA Limited's Annual Report and Accounts 2022. The design features large text reading 'STRATEGIC REPORT' on a bright yellow background. The main visual element is a whimsical photograph of a black and white shaggy dog (appears to be a terrier breed) wearing colorful reflective sunglasses. The dog is positioned on the right side of the page against the yellow background, creating a striking and playful contrast. The bottom of the page shows page numbers 2-3 and references to 'AA Limited Annual Report and Accounts 2022'."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 6,
+          "title": "STRATEGIC REPORT CEO’S STATEMENT CONTINUED",
+          "data": [
+            {
+              "key": "ESG Focus",
+              "value": "The report emphasizes the importance of Environmental, Social and Governance (ESG) activities, noting that these initiatives are a key component of the business and that a separate ESG report will be launched in the coming months."
+            },
+            {
+              "key": "Operational Improvements",
+              "value": "It discusses initiatives to improve efficiency through operational improvements, cost control, and digitisation of customer and business processes amidst inflationary pressures."
+            },
+            {
+              "key": "Strategic Horizons",
+              "value": "The CEO outlines Horizon 3 for monetising innovation via new customer propositions and Horizon 2 for extending the core business with a focus on connected vehicles and electrification."
+            },
+            {
+              "key": "Leadership Change",
+              "value": "There is mention of new ownership and a refreshed leadership team, highlighting a shift that presents opportunities for modernisation and growth."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 20,
+          "title": "Strategic Report Health, Safety and Environmental Performance",
+          "data": [
+            {
+              "key": "Commitment",
+              "value": "Continued focus on safety-first operations by engaging employees, unions, and enhancing IT systems, risk assessments, and proactive hazard identification."
+            },
+            {
+              "key": "RoSPA Award",
+              "value": "Awarded The Royal Society for the Prevention of Accidents (RoSPA) Gold Award in 2021 for high health and safety standards."
+            },
+            {
+              "key": "Accident and Incident Performance",
+              "value": "Accidents/incidents decreased by 28% since 2019, with increased near miss reporting (>111% in 2021 and >33% in 2020). Lost Time Incident rates remained similar between 2021 and 2020, with one additional time loss incident recorded."
+            },
+            {
+              "key": "Risk Management",
+              "value": "Recording of Accident Incidence Rates, Lost Time Incident Frequency rates and RIDDOR rates for external benchmarking; continued record of zero fatalities."
+            },
+            {
+              "key": "Environmental Performance",
+              "value": "Detailed Greenhouse Gas inventory reported for AR22 with a carbon footprint of 35,872 tCO2e (an increase of 307 tCO2e vs AR21) and a 17% reduction (7,601 tCO2e) compared to the base year AR20. Emissions primarily driven by gas to maintain safe and fresh working environments."
+            },
+            {
+              "key": "COVID-19 Measures",
+              "value": "Implementation of robust COVID-19 controls to ensure safe operations, including protective measures and adjustments in response to the pandemic."
+            },
+            {
+              "key": "Sustainability Initiatives",
+              "value": "Focus on reducing fleet and building emissions, with targets for a 5% fuel use reduction from road operations relative to AR20 levels and future strategies including renewable electricity sourcing."
+            },
+            {
+              "key": "ESG Reporting",
+              "value": "A separate ESG report is scheduled for publication by July 2022, supplementing statutory environmental disclosures and SECR requirements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 21,
+          "title": "Annual Energy & Carbon: Strategic Report",
+          "data": [
+            {
+              "key": "Energy Consumption (AR22)",
+              "value": "153,960 MWh"
+            },
+            {
+              "key": "Adjusted Carbon Footprint (AR22)",
+              "value": "35,872 tCO2e (location-based)"
+            },
+            {
+              "key": "Carbon Change vs AR21",
+              "value": "Increase of 307 tCO2e"
+            },
+            {
+              "key": "Carbon Change vs AR20",
+              "value": "Decrease of 7,601 tCO2e"
+            },
+            {
+              "key": "Scope 1 Emissions",
+              "value": "Detailed breakdown by source (natural gas, transport diesel, transport LPG, transport petrol, refrigerants, generators/equipment) over AR20, AR21, and AR22 with notable trends such as increased natural gas usage and variation in refrigerant emissions."
+            },
+            {
+              "key": "Scope 2 Emissions",
+              "value": "Electricity consumption and emissions (location-based and market-based) data show a decline from AR20 to AR22, with market-based emissions reducing significantly."
+            },
+            {
+              "key": "Scope 3 Emissions",
+              "value": "Emissions from travel-related energy use (rental or personal car mileage) reduced significantly from AR20 to AR21, as per the revised data reporting."
+            },
+            {
+              "key": "Total Carbon Emissions",
+              "value": "Combined location-based totals dropped from 43,472 (AR20) to approximately 35,565–35,872 (AR21-AR22), with similar trends in market-based figures."
+            },
+            {
+              "key": "Intensity Metrics",
+              "value": "Emissions intensity per sqft and per operational job showed minor fluctuations across AR20, AR21, and AR22, with market-based intensities increasing slightly."
+            },
+            {
+              "key": "Reporting Adjustments",
+              "value": "Re-allocation of data (e.g., removal of electricity from leased assets) and updated data collection (occupancy and operational tasks metrics) have improved accuracy in environmental reporting."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 22,
+          "title": "STRATEGIC REPORT Energy efficiency actions",
+          "data": [
+            {
+              "key": "RMS Project",
+              "value": "Reduced recovery emissions by 7% (551 tonnes of CO2e) via the 'Repair management solution', trialled in AR21 and expanded in AR22."
+            },
+            {
+              "key": "Remote Fix Strategy",
+              "value": "Developed to lower fleet fuel consumption, resulting in the avoidance of 59,978 patrol journeys."
+            },
+            {
+              "key": "Building Initiatives",
+              "value": "Implemented various energy efficiency measures in buildings including isolating unused floors, adjusting run times and set points, reviewing and switching off unnecessary equipment, and isolating HVAC heat recovery mechanisms for COVID-19-secure workplaces."
+            },
+            {
+              "key": "Infrastructure Upgrades",
+              "value": "Installed monitoring and optimisation systems in Oldbury; installed EV chargers in Oldbury, Cheadle, and Newcastle; replaced car park and exterior lighting with efficient LED and upgraded lighting controls."
+            },
+            {
+              "key": "Context",
+              "value": "Actions undertaken as part of a broader drive to enhance energy efficiency across the portfolio during AR22, with adjustments made due to COVID-19 restrictions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 23,
+          "title": "STRATEGIC REPORT OUR PEOPLE AND SOCIAL MATTERS – Diversity, Inclusion and People Development",
+          "data": [
+            {
+              "key": "Diversity and Inclusion",
+              "value": "The report emphasizes creating a diverse and inclusive workforce. Initiatives include targeted recruitment for under-represented groups, the 'Driven Women' female talent programme, and continuous employee engagement through diversity surveys and network groups."
+            },
+            {
+              "key": "Gender Diversity Metrics",
+              "value": "A table breaks down gender distribution across organizational levels: Group Executive Committee (33 Female, 67 Male, Total 9), Senior Leadership Team (39 Female, 61 Male, Total 64), Manager Grades (35 Female, 65 Male, Total 596), and Employees (33 Female, 67 Male, Total 6890). The summary highlights a consistent gender imbalance with approximately one third female representation."
+            },
+            {
+              "key": "People Development Initiatives",
+              "value": "Focus on leadership development through a new Leadership Essentials curriculum, a capability framework, and a 360 feedback process. Over 100,000 hours of learning were accessed, and structured apprenticeship programmes, including new routes for HGV drivers, were introduced."
+            },
+            {
+              "key": "Talent Attraction",
+              "value": "Efforts include introducing remote working options and training hiring managers to ensure recruitment processes align with the AA’s values, thus attracting diverse and geographically dispersed talent."
+            },
+            {
+              "key": "Human Rights and Community Engagement",
+              "value": "The AA upholds respect for human rights with a zero-tolerance policy toward modern slavery, a commitment reviewed by the Topco Board, and supports community initiatives like the Armed Forces Covenant and charitable campaigns for road safety."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 24,
+          "title": "STRATEGIC REPORT: STAKEHOLDER ENGAGEMENT",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "Engaging with stakeholders to improve business performance. The report emphasizes the importance of aligning all levels of the organization around a common objective, ensuring employee voices are heard, and actively engaging with communities, government, and regulators."
+            },
+            {
+              "key": "Employee Engagement",
+              "value": "Initiatives include a variety of engagement activities such as roadshows across all sites, regular CEO and executive communications (vlogs), management forum elections, and both short and annual surveys to gauge employee sentiment."
+            },
+            {
+              "key": "Community Contribution",
+              "value": "The company works to make positive contributions in local areas through campaigns, charitable activities (such as the 'Caitlin's Hour' campaign), and commitment to social initiatives like the Armed Forces Covenant Gold Award."
+            },
+            {
+              "key": "Government Relations",
+              "value": "Engagement with government entities and regulators includes advocacy for improved safety standards, participation in safety and environmental policy discussions, and initiatives such as adjusting motorway safety measures and lobbying for stricter industry standards."
+            },
+            {
+              "key": "Investor Relations",
+              "value": "Even after transitioning to a private ownership structure, the company maintains significant engagement with bond investors and conducts regular updates, results calls, and meetings to ensure transparent communications."
+            },
+            {
+              "key": "Table Summary (Examples in 2021/2022)",
+              "value": "Two tables illustrate detailed stakeholder engagement activities. The first table highlights actions related to employee engagement, community contribution, and government relations. The second table extends the scope to include broader stakeholder engagement, investor relations, and customer service achievements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 25,
+          "title": "STRATEGIC REPORT S172(1) STATEMENT & Section 172(1) Decisions and Considerations",
+          "data": [
+            {
+              "key": "Directors' Statement",
+              "value": "The Directors make decisions with a long-term perspective, acting in good faith to promote the company’s success in accordance with Section 172 of the Companies Act 2006."
+            },
+            {
+              "key": "Long-Term Consequences",
+              "value": "Directors consider the long-term impact of decisions, taking into account external factors and the interests of all stakeholders."
+            },
+            {
+              "key": "Employee Engagement",
+              "value": "The report notes strong employee engagement initiatives including regular communications such as a weekly vlog by the new CEO and pulse surveys."
+            },
+            {
+              "key": "Business Relationships",
+              "value": "It emphasizes fostering robust relationships with suppliers, customers, and other stakeholders, referencing participation in groups related to safety and autonomous vehicles."
+            },
+            {
+              "key": "Community & Environment Impact",
+              "value": "The Directors assess the impact of the company’s operations on community and environmental outcomes, including funding environmental work, launching the AA Charitable Trust for Road Safety, and safety campaigns on rural roads."
+            },
+            {
+              "key": "Shareholder Fairness",
+              "value": "Additional table data underlines fair treatment of the Company's owners, with regular engagement and reporting via investor relations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 26,
+          "title": "STRATEGIC REPORT NON-FINANCIAL INFORMATION STATEMENT",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "AA Policy and Reporting Requirements Framework"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents a comprehensive overview of the AA's policies and reporting requirements across various business areas. It maps organizational aspects—environmental, social, human rights, employee matters—to corresponding policies and standards. Policies are marked as internal (I) or external (E) with page references provided for additional details. This demonstrates the company's commitment to comprehensive governance, compliance frameworks, and ESG considerations."
+            },
+            {
+              "key": "Policies",
+              "value": "Categories include Reporting requirement Environmental; matters Further details; Our commitment to safe operations; Risk management report; Company employees; Diversity and inclusion; Social matters; Supporting our wider communities; Stakeholder engagement; Respect for human rights, among others, with corresponding policies noted."
+            },
+            {
+              "key": "Grouping Instruction",
+              "value": "I Group policies published internally only; E Group policies published on theaacorporate.com"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 29,
+          "title": "GOVERNANCE REPORT DIRECTORS’ REPORT CONTINUED",
+          "data": [
+            {
+              "key": "Corporate Governance Overview",
+              "value": "From 1 February 2021 until 9 March 2021, AA operated as a premium listed company compliant with the UK Corporate Governance Code 2018. After delisting on 10 March 2021 and conversion to a private limited company, AA adopted the Wates Corporate Governance Principles for Large Private Companies. The report details how these principles have been applied during FY22."
+            },
+            {
+              "key": "Application of Wates Principles",
+              "value": "A table describes the application of the six Wates Principles. Key aspects include: Purpose and Leadership (board’s role in sustainable success, clear communication of vision and strategy, commitment from new private equity owners), Board Composition (clear division of responsibilities, diversity, structured delegation through Audit, Risk and Remuneration Committees, and regular board evaluations), and Director Responsibilities (clear accountability, conflict of interest disclosures, timely provision of board meeting information, and periodic reviews of governance processes)."
+            },
+            {
+              "key": "Corporate Governance Framework Components",
+              "value": "A second table outlines three governance areas: 1) Opportunity and Risk – risk management via a three-lines-of-defence model, defined risk appetites, and regular risk register reviews; 2) Remuneration – managed by the Topco Remuneration and Nomination Committee with fair compensation aligned with long-term strategy; and 3) Stakeholder Relationships and Engagement – emphasis on quality communication, consideration of social, economic, and environmental impacts, and active stakeholder engagement."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 48,
+          "title": "Corporate Policies and Report References",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Corporate Policies and Report References"
+            },
+            {
+              "key": "Summary",
+              "value": "This table serves as a comprehensive index for various corporate policies and reporting sections. It covers topics such as anti-corruption, employee engagement, risk management, and business model documentation. Internal policies (I) and external certifications (E) are noted, with further details and page references indicated throughout the report."
+            },
+            {
+              "key": "Policies Reference",
+              "value": "Includes entries such as Anti-Bribery and Allowable Gifts, Hospitality and Donations Policy; Conduct Risk Policy; Conflicts of Interest, Financial Crime, Securities Dealing, and Whistleblowing Policies; Risk Management Framework Policy; Annual Internal Audit Plan; Risk Register; ISO certifications; along with several placeholders for additional sections."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "EUR": 2,
+    "GBP": 214,
+    "AUD": 140,
+    "CAD": 1,
+    "ZAR": 1
+  },
+  "sha1": "aa781901e117281bfee6f8e4bea6fc9c9bada62e"
+}

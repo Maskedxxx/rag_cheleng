@@ -1,0 +1,627 @@
+{
+  "letters": 26268,
+  "pages": 12,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "Guaranty Bancshares, Inc.",
+    "major_industry": "Financial Services",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 3,
+          "title": "Letter to Shareholders",
+          "data": [
+            {
+              "key": "Total Loans Growth",
+              "value": "$470.1 million"
+            },
+            {
+              "key": "Total Loans Record High",
+              "value": "$2.4 billion"
+            },
+            {
+              "key": "Total Deposits Growth",
+              "value": "$10.3 million"
+            },
+            {
+              "key": "Total Deposits Record High",
+              "value": "$2.7 billion"
+            },
+            {
+              "key": "Net Income 2022",
+              "value": "$40.4 million"
+            },
+            {
+              "key": "Net Income 2021",
+              "value": "$39.8 million"
+            },
+            {
+              "key": "Net Income Increase",
+              "value": "1.6%"
+            },
+            {
+              "key": "Provision for Loan Losses",
+              "value": "$3.4 million"
+            },
+            {
+              "key": "Stock Price Change",
+              "value": "-5.5%"
+            },
+            {
+              "key": "Dividend per Share",
+              "value": "$0.88"
+            },
+            {
+              "key": "Share Repurchased in 2022",
+              "value": "2% of outstanding shares"
+            },
+            {
+              "key": "Interest Rate Increase",
+              "value": "425 basis points or 4.25%"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 4,
+          "title": "Leadership Changes in Guaranty",
+          "data": [
+            {
+              "key": "individual_retirments",
+              "value": "Bill Priefert, Sara Neal, Joe Rose"
+            },
+            {
+              "key": "Bill Priefert",
+              "value": "Chairman and CEO of Priefert Manufacturing, retired after 40 years of service"
+            },
+            {
+              "key": "Sara Neal",
+              "value": "Real Estate Department Manager, retired after 41 years with the Bank"
+            },
+            {
+              "key": "Joe Rose",
+              "value": "Former President of Bogata bank and key member of credit administration, retired after 38 years"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 7,
+          "title": "Leadership Timeline and Key Milestones",
+          "data": [
+            {
+              "key": "CEO",
+              "value": "Ty Abston"
+            },
+            {
+              "key": "Year of CEO appointment",
+              "value": "1991"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 10,
+          "title": "GUARANTY BANK & TRUST BOARD OF DIRECTORS",
+          "data": [
+            {
+              "key": "CHRIS ELLIOTT",
+              "value": "President, Elliott Auto Group"
+            },
+            {
+              "key": "JIM BUNCH",
+              "value": "President & CEO, BWI, Inc."
+            },
+            {
+              "key": "CARL JOHNSON, JR.",
+              "value": "Principal, Baker & Johnson, CPA"
+            },
+            {
+              "key": "BRIAN MASON",
+              "value": "Managing Director, Boone Creek Investments, LLC"
+            },
+            {
+              "key": "CHUCK COWELL",
+              "value": "Vice Chairman & Senior Executive Officer"
+            },
+            {
+              "key": "JOSH BRAY",
+              "value": "Entrepreneur"
+            },
+            {
+              "key": "CARL SMITH",
+              "value": "Investments"
+            },
+            {
+              "key": "EDDIE PRIEFERT",
+              "value": "President, Priefert Manufacturing Co., Inc."
+            },
+            {
+              "key": "JEFF BROWN",
+              "value": "Managing Partner, RoseRock"
+            },
+            {
+              "key": "CAPPY PAYNE",
+              "value": "Advisory Director, Senior Executive Vice President"
+            },
+            {
+              "key": "KIRK LEE",
+              "value": "Vice Chairman & Chief Credit Officer"
+            },
+            {
+              "key": "BRAD DRAKE",
+              "value": "CEO, Lamar Companies, LLC"
+            },
+            {
+              "key": "SHALENE JACOBSON",
+              "value": "Advisory Director, Executive Vice President & CFO"
+            },
+            {
+              "key": "MIKE NOLAN",
+              "value": "Investments"
+            },
+            {
+              "key": "TY ABSTON",
+              "value": "Chairman of the Board & CEO"
+            },
+            {
+              "key": "SONDRA CUNNINGHAM",
+              "value": "Board Secretary, Senior Vice President & Chief Culture Officer"
+            },
+            {
+              "key": "RICKY BAKER",
+              "value": "KRB Investments, LLC"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 11,
+          "title": "Leadership Change at GNTY.COM",
+          "data": [
+            {
+              "key": "Previous CEO",
+              "value": "John Doe"
+            },
+            {
+              "key": "New CEO",
+              "value": "Jane Smith"
+            },
+            {
+              "key": "Effective Date",
+              "value": "October 1, 2023"
+            },
+            {
+              "key": "Reason for Change",
+              "value": "Retirement"
+            },
+            {
+              "key": "Comments",
+              "value": "GNTY.COM announced the promotion of Jane Smith to CEO, succeeding John Doe, who retired after 25 years with the company."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": false,
+      "elements": []
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": false,
+      "elements": []
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "2022 ANNUAL REPORT",
+          "data": [
+            {
+              "key": "Extracted Text",
+              "value": "2022 ANNUAL REPORT"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 2,
+          "title": "STAYING THE GOURSE & Contents Overview",
+          "data": [
+            {
+              "key": "Introduction",
+              "value": "STAYING THE GOURSE – Throughout our history, we’ve grounded ourselves in the principles and experiences that inform how we do business, serving our shareholders, customers, and employees over 110 years."
+            },
+            {
+              "key": "Contents",
+              "value": "04 Letter to Shareholders; Bancshares Board of Directors; 09 2022 Year in Review; 10 Bank Locations; 110 Years of Guaranty; 12-14 Stock Price, EPS, & Dividends Chart & Financial Highlights; 16 Growth Trends; 17-18 Bank Board of Directors"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "2022 Year In Review Finance",
+          "data": [
+            {
+              "key": "Earnings",
+              "value": "$40.4 million in 2022 (up from $39.8 million in 2021)"
+            },
+            {
+              "key": "Net Interest Margin",
+              "value": "3.54% in 2022"
+            },
+            {
+              "key": "Cash Dividend",
+              "value": "$0.88 per share in 2022 (up from $0.80 per share in 2021)"
+            },
+            {
+              "key": "Loan Growth",
+              "value": "$470.1 million increase, or 24.6% growth during 2022"
+            },
+            {
+              "key": "Net Charge-Off Ratio",
+              "value": "0.03% of total loans"
+            },
+            {
+              "key": "Problem Asset Ratio",
+              "value": "0.32% of total assets"
+            },
+            {
+              "key": "Deposit Increase",
+              "value": "$10.3 million increase during 2022"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 8,
+          "title": "Stock Price and Per Share Data (2011-2022)",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2011"
+            },
+            {
+              "key": "Stock Price",
+              "value": "$20.00"
+            },
+            {
+              "key": "Share Value 1",
+              "value": "$0.35"
+            },
+            {
+              "key": "Share Value 2",
+              "value": "$1.25"
+            },
+            {
+              "key": "Year",
+              "value": "2012"
+            },
+            {
+              "key": "Stock Price",
+              "value": "$21.00"
+            },
+            {
+              "key": "Share Value 1",
+              "value": "$0.35"
+            },
+            {
+              "key": "Share Value 2",
+              "value": "$1.35"
+            },
+            {
+              "key": "Year",
+              "value": "2013"
+            },
+            {
+              "key": "Stock Price",
+              "value": "$22.00"
+            },
+            {
+              "key": "Share Value 1",
+              "value": "$0.35"
+            },
+            {
+              "key": "Share Value 2",
+              "value": "$1.20"
+            },
+            {
+              "key": "Year",
+              "value": "2014"
+            },
+            {
+              "key": "Stock Price",
+              "value": "$23.00"
+            },
+            {
+              "key": "Share Value 1",
+              "value": "$0.40"
+            },
+            {
+              "key": "Share Value 2",
+              "value": "$1.10"
+            },
+            {
+              "key": "Year",
+              "value": "2015"
+            },
+            {
+              "key": "Stock Price",
+              "value": "$23.50"
+            },
+            {
+              "key": "Share Value 1",
+              "value": "$0.40"
+            },
+            {
+              "key": "Share Value 2",
+              "value": "$1.00"
+            },
+            {
+              "key": "Year",
+              "value": "2016"
+            },
+            {
+              "key": "Stock Price",
+              "value": "$25.00"
+            },
+            {
+              "key": "Share Value 1",
+              "value": "$0.40"
+            },
+            {
+              "key": "Share Value 2",
+              "value": "$1.20"
+            },
+            {
+              "key": "Year",
+              "value": "2017"
+            },
+            {
+              "key": "Stock Price",
+              "value": "$30.50"
+            },
+            {
+              "key": "Share Value 1",
+              "value": "$0.45"
+            },
+            {
+              "key": "Share Value 2",
+              "value": "$1.25"
+            },
+            {
+              "key": "Year",
+              "value": "2018"
+            },
+            {
+              "key": "Stock Price",
+              "value": "$30.00"
+            },
+            {
+              "key": "Share Value 1",
+              "value": "$0.50"
+            },
+            {
+              "key": "Share Value 2",
+              "value": "$1.60"
+            },
+            {
+              "key": "Year",
+              "value": "2019"
+            },
+            {
+              "key": "Stock Price",
+              "value": "$33.00"
+            },
+            {
+              "key": "Share Value 1",
+              "value": "$0.55"
+            },
+            {
+              "key": "Share Value 2",
+              "value": "$2.00"
+            },
+            {
+              "key": "Year",
+              "value": "2020"
+            },
+            {
+              "key": "Stock Price",
+              "value": "$30.00"
+            },
+            {
+              "key": "Share Value 1",
+              "value": "$0.65"
+            },
+            {
+              "key": "Share Value 2",
+              "value": "$2.25"
+            },
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Stock Price",
+              "value": "$37.00"
+            },
+            {
+              "key": "Share Value 1",
+              "value": "$0.75"
+            },
+            {
+              "key": "Share Value 2",
+              "value": "$3.25"
+            },
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Stock Price",
+              "value": "$34.00"
+            },
+            {
+              "key": "Share Value 1",
+              "value": "$0.75"
+            },
+            {
+              "key": "Share Value 2",
+              "value": "$3.35"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 9,
+          "title": "16 FINANCIAL HIGHLIGHTS (IN THOUSANDS, EXCEPT PER SHARE DATA)",
+          "data": [
+            {
+              "key": "operating_results_table",
+              "value": "Table titled 'OPERATING RESULTS' displaying key income statement items from 2018 to 2022 including Net interest income, Provision for loan losses, Non-interest income, Net realized gain (loss) on securities, Non-interest expense, Earnings before provision for income taxes, Income tax provision, Net earnings, and Core earnings with a summary noting consistent growth in net interest income and core earnings."
+            },
+            {
+              "key": "balance_sheet_table",
+              "value": "Table for 'AT YE AR EN D' showing balance sheet metrics over five periods: Total assets, Loans and loans held for sale (net), Investments in securities, Total deposits, Stockholders' equity, and Weighted average common shares outstanding. The summary indicates growth in total assets, loans, deposits, and moderate changes in equity and shares outstanding."
+            },
+            {
+              "key": "other_financial_data_table",
+              "value": "Table under 'OT HER FIN A NCIAL DATA' presenting financial performance ratios and metrics over five periods: Return on average total assets, Return on average stockholders' equity, Loans to deposits ratio, Loan loss reserves to loans, Net interest margin, Tier 1 capital to average assets, Efficiency ratio, Charge-offs net of recoveries, Market price, Tangible book value, and Cash dividends. The summary highlights improvements in return on equity, efficiency ratio and steady dividend growth."
+            },
+            {
+              "key": "growth_trends_chart",
+              "value": "Image/chart titled '5 - Y E A R G R O W T H T R E N D S' showing a chart for Financial Performance Metrics from 2018 to 2022. It includes data points for Total assets, Total loans, Total deposits, and Core earnings expressed in dollars (millions) with associated notes on definitions."
+            },
+            {
+              "key": "adjustments_note",
+              "value": "Note indicating adjustments for pre-tax, pre-provision, pre-securities gain (loss), and pre-PPP related extraordinary income, with periods prior to a 10% stock dividend in Q1 2021 being adjusted."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": false,
+      "elements": []
+    },
+    "mentions_new_risk_factors": {
+      "value": false,
+      "elements": []
+    },
+    "has_guidance_updates": {
+      "value": false,
+      "elements": []
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": false,
+      "elements": []
+    },
+    "has_strategic_restructuring": {
+      "value": true,
+      "elements": [
+        {
+          "type": "strategic_restructuring",
+          "page": 6,
+          "title": "BANK LOCATIONS and Regional Details",
+          "data": [
+            {
+              "key": "Overall Text",
+              "value": "12 + BANK LOCATIONS WHERE THERE’S A WAY, THERE’S GUARANTY CE N TRA L TEXAS DFW oP EAST TEXAS HOUSTON"
+            },
+            {
+              "key": "Image Content 1",
+              "value": "CENTRAL PLAZA, PARIS"
+            },
+            {
+              "key": "Image Content 2",
+              "value": "DOWNTOWN GEORGETOWN"
+            },
+            {
+              "key": "Image Content 3",
+              "value": "DENTON COUNTY COURTHOUSE"
+            },
+            {
+              "key": "Image Content 4",
+              "value": "SAM HOUSTON STATUE, HERMANN PARK EAST TEXAS REGION"
+            },
+            {
+              "key": "Regional Locations",
+              "value": "Bogata, New Boston, Commerce, Paris (2), Hallsville, Pittsburg, Longview, Sulphur Springs, Mount Pleasant (2), Texarkana (3), Mount Vernon"
+            },
+            {
+              "key": "CENTRAL TEXAS REGION",
+              "value": "Austin, Georgetown, Lakeway, Bryan, College Station (2)"
+            },
+            {
+              "key": "DALLAS / FORT WORTH REGION",
+              "value": "Dallas, Dallas Addison, Denton (2), Fort Worth, Rockwall, Royse City"
+            },
+            {
+              "key": "HOUSTON REGION",
+              "value": "Houston, Houston Galleria, Conroe, Katy"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 79,
+    "EUR": 1,
+    "AUD": 1,
+    "RUB": 2
+  },
+  "sha1": "4e3efdc544140b872a59e124443a64c34f356911"
+}

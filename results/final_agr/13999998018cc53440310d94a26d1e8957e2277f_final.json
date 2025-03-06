@@ -1,0 +1,5184 @@
+{
+  "letters": 397554,
+  "pages": 110,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "Aurora Innovation, Inc.",
+    "major_industry": "Technology",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Form Type",
+              "value": "FORM 10-K"
+            },
+            {
+              "key": "Fiscal Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Company Name",
+              "value": "Aurora Innovation, Inc."
+            },
+            {
+              "key": "Contact Address",
+              "value": "1654 Smallman St., Pittsburgh, Pennsylvania"
+            },
+            {
+              "key": "Employer Identification No.",
+              "value": "15222"
+            },
+            {
+              "key": "Security Type 1",
+              "value": "Class A common stock, par value $0.00001 per share"
+            },
+            {
+              "key": "Symbol 1",
+              "value": "AUR"
+            },
+            {
+              "key": "Exchange 1",
+              "value": "The Nasdaq Stock Market LLC"
+            },
+            {
+              "key": "Security Type 2",
+              "value": "Redeemable warrants, exercisable for one share of Class A common stock at $11.50"
+            },
+            {
+              "key": "Symbol 2",
+              "value": "AUROW"
+            },
+            {
+              "key": "Exchange 2",
+              "value": "The Nasdaq Stock Market LLC"
+            },
+            {
+              "key": "Market Value",
+              "value": "$635,552,000"
+            },
+            {
+              "key": "Outstanding Shares Class A",
+              "value": "763,107,381"
+            },
+            {
+              "key": "Outstanding Shares Class B",
+              "value": "409,326,834"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 2,
+          "title": "Fiscal Year Information",
+          "data": [
+            {
+              "key": "fiscal_year",
+              "value": "2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 5,
+          "title": "Merger of Aurora Innovation Holdings, Inc.",
+          "data": [
+            {
+              "key": "Closing Date",
+              "value": "November 3, 2021"
+            },
+            {
+              "key": "Merger Agreement Date",
+              "value": "July 14, 2021"
+            },
+            {
+              "key": "Company Change Name",
+              "value": "From Reinvent Technology Partners Y to Aurora Innovation, Inc."
+            },
+            {
+              "key": "Merger Sub",
+              "value": "Merger Sub is a direct wholly owned subsidiary of the Company."
+            },
+            {
+              "key": "Surviving Company",
+              "value": "Legacy Aurora"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 6,
+          "title": "Strategic Partnerships and Investments in Technology Development",
+          "data": [
+            {
+              "key": "Approach",
+              "value": "Self-Driving 2.0"
+            },
+            {
+              "key": "Key Components",
+              "value": "Foundational investments, proprietary Virtual Testing Suite, next-generation sensing suite, Aurora FirstLight Lidar"
+            },
+            {
+              "key": "Competitive Advantage",
+              "value": "Unique long-range sensing capabilities"
+            },
+            {
+              "key": "Market Focus",
+              "value": "Global trucking market, passenger mobility, local goods delivery"
+            },
+            {
+              "key": "Partnerships",
+              "value": "PACCAR, Volvo, Toyota, Uber"
+            },
+            {
+              "key": "Pilot Programs",
+              "value": "Commercial trucking pilots with FedEx, Werner, Schneider, Uber Freight"
+            },
+            {
+              "key": "Business Model",
+              "value": "Driver as a Service (DaaS)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 9,
+          "title": "Acquisition of Uber’s Self-Driving Unit",
+          "data": [
+            {
+              "key": "Acquisition Date",
+              "value": "2021"
+            },
+            {
+              "key": "Acquired Unit",
+              "value": "Uber’s self-driving unit"
+            },
+            {
+              "key": "Impact",
+              "value": "Strengthened team, technology, and intellectual property"
+            },
+            {
+              "key": "Talent Added",
+              "value": "Brought additional talent to deliver on mission"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 14,
+          "title": "Strategic Partnerships and Acquisitions",
+          "data": [
+            {
+              "key": "PACCAR Strategic Partnership",
+              "value": "In January 2021, entered into a global strategic partnership with PACCAR for the launch of Aurora Driver’s first application in trucking."
+            },
+            {
+              "key": "Uber Strategic Partnership",
+              "value": "In January 2021, acquired Uber’s self-driving unit and announced a strategic partnership with Uber, which included an investment of $400 million by Uber in Aurora."
+            },
+            {
+              "key": "Toyota Strategic Collaboration",
+              "value": "In February 2021, announced a long-term collaboration with Toyota and DENSO to build and deploy self-driving cars at scale."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 26,
+          "title": "Impact of Acquisitions on Business and Financial Conditions",
+          "data": [
+            {
+              "key": "elements_of_service",
+              "value": "Delivered by Aurora versus our partners, impacting expenses and capital requirements"
+            },
+            {
+              "key": "technology_operationalization",
+              "value": "Effectiveness of technology operationalized by fleet partners and overall market penetration"
+            },
+            {
+              "key": "adoption_timing",
+              "value": "When partners and end-customers adopt technology, possibly delayed due to regulatory or reliability issues"
+            },
+            {
+              "key": "capital_investment",
+              "value": "Requirement for sufficient capital for core technology development"
+            },
+            {
+              "key": "market_stability",
+              "value": "Strength and stability of domestic and international markets in trucking, passenger mobility, and goods delivery"
+            },
+            {
+              "key": "risk_factors",
+              "value": "Total addressable market estimates, growth forecasts, pricing, cost, and customer demand uncertainties"
+            },
+            {
+              "key": "acquisition_strategy",
+              "value": "Pursuing acquisitions to add products and technologies, acquire talent, and enter new markets"
+            },
+            {
+              "key": "integration_challenges",
+              "value": "Challenges in integrating acquisitions that could adversely affect business and financial results"
+            },
+            {
+              "key": "stockholder_approval",
+              "value": "Need for stockholder approval and government licenses for future acquisitions"
+            },
+            {
+              "key": "financial_risks_of_acquisitions",
+              "value": "Use of cash, equity dilution, goodwill impairments, and exposure to unknown liabilities"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 54,
+          "title": "Merger and Acquisition Overview",
+          "data": [
+            {
+              "key": "Merger Date",
+              "value": "November 3, 2021"
+            },
+            {
+              "key": "Merger Agreement",
+              "value": "Business combination with Legacy Aurora"
+            },
+            {
+              "key": "Accounting Method",
+              "value": "Reverse recapitalization"
+            },
+            {
+              "key": "Cash Increase",
+              "value": "$1,134 million"
+            },
+            {
+              "key": "PIPE Transaction Proceeds",
+              "value": "$1,000 million"
+            },
+            {
+              "key": "Transaction Costs",
+              "value": "$88 million"
+            },
+            {
+              "key": "SEC Registration Status",
+              "value": "Successor to a SEC-registered and Nasdaq-listed company"
+            },
+            {
+              "key": "Additional Annual Expenses",
+              "value": "Directors’ and officers’ liability insurance, director fees, internal and external accounting and legal resources, increased audit and legal fees"
+            },
+            {
+              "key": "ATG Acquisition Date",
+              "value": "January 19, 2021"
+            },
+            {
+              "key": "ATG Acquisition Value",
+              "value": "$1,916 million"
+            },
+            {
+              "key": "Consideration Type",
+              "value": "Preferred and common stock"
+            },
+            {
+              "key": "Goodwill",
+              "value": "Recorded as excess of purchase consideration over fair value of assets acquired"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 57,
+          "title": "Report of Independent Registered Public Accounting Firm (PCAOB ID: 185)",
+          "data": [
+            {
+              "key": "description",
+              "value": "Independent auditor's report."
+            },
+            {
+              "key": "page_number",
+              "value": "57"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 58,
+          "title": "Consolidated Balance Sheets",
+          "data": [
+            {
+              "key": "description",
+              "value": "Consolidated Balance Sheets for the company."
+            },
+            {
+              "key": "page_number",
+              "value": "58"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 59,
+          "title": "Consolidated Statements of Operations",
+          "data": [
+            {
+              "key": "description",
+              "value": "Consolidated Statements of Operations."
+            },
+            {
+              "key": "page_number",
+              "value": "59"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 60,
+          "title": "Consolidated Statements of Comprehensive Loss",
+          "data": [
+            {
+              "key": "description",
+              "value": "Consolidated Statements of Comprehensive Loss for the company."
+            },
+            {
+              "key": "page_number",
+              "value": "60"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 61,
+          "title": "Consolidated Statements of Redeemable Convertible Preferred Stock and Stockholders' Equity",
+          "data": [
+            {
+              "key": "description",
+              "value": "Consolidated Statements regarding Convertible Preferred Stock."
+            },
+            {
+              "key": "page_number",
+              "value": "61"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 62,
+          "title": "Consolidated Statements of Cash Flows",
+          "data": [
+            {
+              "key": "description",
+              "value": "Consolidated Statements of Cash Flows."
+            },
+            {
+              "key": "page_number",
+              "value": "62"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 63,
+          "title": "Notes to Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "description",
+              "value": "Notes to the Consolidated Financial Statements."
+            },
+            {
+              "key": "page_number",
+              "value": "63"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 67,
+          "title": "Overview of the Organization",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Aurora Innovation, Inc."
+            },
+            {
+              "key": "Headquarters",
+              "value": "Pittsburgh, Pennsylvania"
+            },
+            {
+              "key": "Previous Name",
+              "value": "Reinvent Technology Partners Y"
+            },
+            {
+              "key": "Merger Date",
+              "value": "November 3, 2021"
+            },
+            {
+              "key": "Merger Agreement Date",
+              "value": "July 14, 2021"
+            },
+            {
+              "key": "Type of Merger",
+              "value": "Business Combination"
+            },
+            {
+              "key": "Merger Details",
+              "value": "RTPY Merger Sub, Inc. merged with and into Aurora Innovation Holdings, Inc."
+            },
+            {
+              "key": "Former Legacy Name",
+              "value": "Legacy Aurora"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 70,
+          "title": "Merger of Aurora with Legacy Aurora",
+          "data": [
+            {
+              "key": "Merger Date",
+              "value": "November 3, 2021"
+            },
+            {
+              "key": "Exchange Ratio",
+              "value": "2.1708"
+            },
+            {
+              "key": "Shares of Legacy Aurora Redeemable Convertible Preferred Stock",
+              "value": "205 million shares converted to common stock"
+            },
+            {
+              "key": "Shares of Legacy Aurora Common Stock",
+              "value": "458 million shares converted to 995 million Aurora common stock"
+            },
+            {
+              "key": "Legacy Aurora Stock Options",
+              "value": "38 million options converted to 82 million Aurora stock options"
+            },
+            {
+              "key": "Legacy Aurora RSUs",
+              "value": "16 million RSUs converted to 35 million Aurora RSUs"
+            },
+            {
+              "key": "PIPE Investment Proceeds",
+              "value": "$1,000 million for 100 million shares"
+            },
+            {
+              "key": "Public Redemption",
+              "value": "77 million shares redeemed for $755 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 71,
+          "title": "Aurora Stock Share Structure and Merger Details",
+          "data": [
+            {
+              "key": "Aurora common stock, prior to redemptions",
+              "value": "98"
+            },
+            {
+              "key": "Less: Redemption of Aurora common stock",
+              "value": "-76"
+            },
+            {
+              "key": "Aurora common stock, net of redemptions",
+              "value": "22"
+            },
+            {
+              "key": "Sponsor shares including Earnout Shares",
+              "value": "7"
+            },
+            {
+              "key": "PIPE Investment",
+              "value": "100"
+            },
+            {
+              "key": "Total shares of Aurora common stock, prior to the Merger",
+              "value": "129"
+            },
+            {
+              "key": "Shares issued in exchange in the Merger",
+              "value": "995"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 72,
+          "title": "Fair Value of Assets Acquired and Liabilities Assumed for ATG Acquisition",
+          "data": [
+            {
+              "key": "Cash and cash equivalents",
+              "value": "311"
+            },
+            {
+              "key": "Property and equipment, net",
+              "value": "63"
+            },
+            {
+              "key": "Operating lease right-of-use assets",
+              "value": "42"
+            },
+            {
+              "key": "Acquisition related intangible assets",
+              "value": "546"
+            },
+            {
+              "key": "Goodwill",
+              "value": "1060"
+            },
+            {
+              "key": "Related party payable",
+              "value": "-47"
+            },
+            {
+              "key": "Operating lease liabilities",
+              "value": "-40"
+            },
+            {
+              "key": "Other assets and (liabilities), net",
+              "value": "-19"
+            },
+            {
+              "key": "Total",
+              "value": "1916"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 72,
+          "title": "Financial Components of OURS Technology, Inc. Acquisition",
+          "data": [
+            {
+              "key": "Cash",
+              "value": "16"
+            },
+            {
+              "key": "stock consideration",
+              "value": "24"
+            },
+            {
+              "key": "Assumed liabilities related to third-party expenses",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 72,
+          "title": "Intangible Assets and Goodwill Breakdown for OURS Acquisition",
+          "data": [
+            {
+              "key": "Acquisition related intangible assets",
+              "value": "19"
+            },
+            {
+              "key": "Goodwill",
+              "value": "24"
+            },
+            {
+              "key": "Deferred tax liability",
+              "value": "-2"
+            },
+            {
+              "key": "Total",
+              "value": "41"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 73,
+          "title": "Goodwill Impairment Analysis",
+          "data": [
+            {
+              "key": "Accumulated impairment loss",
+              "value": "December 31, 2021 = Goodwill impairment § (1,114) December 31, 2022 $ (1,114)"
+            },
+            {
+              "key": "Carrying amount of goodwill",
+              "value": "December 31, 2021 L114 Goodwill impairment § § Goodwill impairment — (114) December 31, 2022 $ ="
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 73,
+          "title": "Cash, Cash Equivalents and Short-Term Investments",
+          "data": [
+            {
+              "key": "Cash and cash equivalents",
+              "value": "December 31, 2022: 262 million; December 31, 2021: 1,610 million"
+            },
+            {
+              "key": "Restricted cash, long-term",
+              "value": "December 31, 2022: 15 million; December 31, 2021: 16 million"
+            },
+            {
+              "key": "Total cash, cash equivalents and restricted cash",
+              "value": "December 31, 2022: 277 million; December 31, 2021: 1,626 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 73,
+          "title": "Cash Equivalents and Short-term Investments Fair Value Comparison",
+          "data": [
+            {
+              "key": "Money market funds",
+              "value": "Value 2022: 204 million; Value 2021: 1610 million"
+            },
+            {
+              "key": "U.S. Treasury securities (cash equivalents)",
+              "value": "Value 2022: 57 million; Value 2021: 0"
+            },
+            {
+              "key": "Total cash equivalents",
+              "value": "Value 2022: 261 million; Value 2021: 1610 million"
+            },
+            {
+              "key": "U.S. Treasury securities (short-term)",
+              "value": "Value 2022: 839 million; Value 2021: 0"
+            },
+            {
+              "key": "Total short-term investments",
+              "value": "Value 2022: 839 million; Value 2021: 0"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "2.1"
+            },
+            {
+              "key": "Description",
+              "value": "Agreement and Plan of Merger, dated as of July 14, 2021, by and among Reinvent Technology Partners Y, RTPY Merger Sub Inc., and Aurora Innovation, Inc."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "July 15, 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "2.2"
+            },
+            {
+              "key": "Description",
+              "value": "Plan of Domestication, dated as of September 28, 2021"
+            },
+            {
+              "key": "Form",
+              "value": "S-4/A"
+            },
+            {
+              "key": "Filing Date",
+              "value": "September 29, 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "2.3"
+            },
+            {
+              "key": "Description",
+              "value": "Stock Purchase and Agreement and Plan of Merger, dated as of January 19, 2021, by and between Aurora Innovation, Inc. Avian U Merger Holdco Corp., Avian U Merger Sub Corp., Avian U Merger Sub LLC, Blocker U Merger Sub LLC, SVF Yellow (USA) Corporation, Apparate USA LLC and Uber Technologies, Inc."
+            },
+            {
+              "key": "Form",
+              "value": "S-4/A"
+            },
+            {
+              "key": "Filing Date",
+              "value": "September 29, 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "3.1"
+            },
+            {
+              "key": "Description",
+              "value": "Certificate of Incorporation of the Company"
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "November 4, 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "3.2"
+            },
+            {
+              "key": "Description",
+              "value": "Bylaws of the Company"
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "November 4, 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "4.1"
+            },
+            {
+              "key": "Description",
+              "value": "Specimen Class A Common Stock Certificate"
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "November 4, 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "4.1"
+            },
+            {
+              "key": "Description",
+              "value": "Specimen Warrant Certificate (included in Exhibit 4.3)"
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "March 18, 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "4.1"
+            },
+            {
+              "key": "Description",
+              "value": "Warrant Agreement, dated as of March 15, 2021, by and between Reinvent Technology Partners Y and Continental Stock Transfer & Trust Company, as warrant agent"
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "March 18, 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "44"
+            },
+            {
+              "key": "Description",
+              "value": "Amendment of Warrant Agreement, dated as of February 28 2022, by and among Aurora Innovation, Inc., Continental Stock Transfer & Trust Company and American Stock Transfer & Trust Company"
+            },
+            {
+              "key": "Form",
+              "value": "10-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "March 11, 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "10.2"
+            },
+            {
+              "key": "Description",
+              "value": "Sponsor Support Agreement, dated as of July 14, 2021, by and among the Sponsor Holdco, the Sponsor Parties, the Sponsor Independent Directors, Reinvent Technology Partners Y, and Aurora Innovation, Inc."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "July 15, 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "10.3"
+            },
+            {
+              "key": "Description",
+              "value": "Sponsor Agreement, dated as of July 14, 2021, between Sponsor, Reinvent Technology Partners Y, and Aurora Innovation, Inc."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "July 15, 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 86,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "10.3"
+            },
+            {
+              "key": "Description",
+              "value": "Form of Company Holders Support Agreement (Voting and Support Agreement"
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "File No.",
+              "value": "001-40216"
+            },
+            {
+              "key": "Exhibit No._2",
+              "value": "10.4"
+            },
+            {
+              "key": "Filing Date",
+              "value": "July 15, 2021"
+            },
+            {
+              "key": "Herewith",
+              "value": ""
+            },
+            {
+              "key": "Exhibit No.",
+              "value": "10.4"
+            },
+            {
+              "key": "Description",
+              "value": "Form of PIPE Subscription Agreement (Subscription Agreement,"
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "File No.",
+              "value": "001-40216"
+            },
+            {
+              "key": "Exhibit No._2",
+              "value": "10.1"
+            },
+            {
+              "key": "Filing Date",
+              "value": "July 15, 2021"
+            },
+            {
+              "key": "Herewith",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 94,
+          "title": "Warrant Expiration Period Analysis",
+          "data": [
+            {
+              "key": "period",
+              "value": "50 months"
+            },
+            {
+              "key": "0.261",
+              "value": "510.00"
+            },
+            {
+              "key": "0.281",
+              "value": "11.00"
+            },
+            {
+              "key": "0.297",
+              "value": "12.00"
+            },
+            {
+              "key": "0.311",
+              "value": "13.00"
+            },
+            {
+              "key": "0.324",
+              "value": "14.00"
+            },
+            {
+              "key": "0.337",
+              "value": "15.00"
+            },
+            {
+              "key": "0.348",
+              "value": "16.00"
+            },
+            {
+              "key": "0.358",
+              "value": "17.00"
+            },
+            {
+              "key": "0.361",
+              "value": "18.00"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 94,
+          "title": "Warrant Expiration Period Analysis",
+          "data": [
+            {
+              "key": "period",
+              "value": "57 months"
+            },
+            {
+              "key": "0.257",
+              "value": "510.00"
+            },
+            {
+              "key": "0.277",
+              "value": "11.00"
+            },
+            {
+              "key": "0.294",
+              "value": "12.00"
+            },
+            {
+              "key": "0.310",
+              "value": "13.00"
+            },
+            {
+              "key": "0.324",
+              "value": "14.00"
+            },
+            {
+              "key": "0.337",
+              "value": "15.00"
+            },
+            {
+              "key": "0.348",
+              "value": "16.00"
+            },
+            {
+              "key": "0.358",
+              "value": "17.00"
+            },
+            {
+              "key": "0.361",
+              "value": "18.00"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 97,
+          "title": "Warrants and Reclassification Rights",
+          "data": [
+            {
+              "key": "Event Type",
+              "value": "merger or consolidation"
+            },
+            {
+              "key": "Rights of Warrant Holders",
+              "value": "Right to purchase and receive shares upon merger or consolidation"
+            },
+            {
+              "key": "Warrant Adjustment",
+              "value": "Adjustments based on event terms"
+            },
+            {
+              "key": "Public Warrants",
+              "value": "Require approval by 50% of Public Warrant holders for adverse changes"
+            },
+            {
+              "key": "Voting Rights",
+              "value": "None until warrants are exercised"
+            },
+            {
+              "key": "Private Placement Warrants",
+              "value": "Not redeemable under certain conditions"
+            },
+            {
+              "key": "Option for Cashless Exercise",
+              "value": "Available to Sponsor or its transferees"
+            },
+            {
+              "key": "Redemption Conditions",
+              "value": "Applicable under specific conditions for different holders"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 98,
+          "title": "Anti-Takeover Provisions",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Certain provisions of Delaware law and the Certificate of Incorporation may delay or discourage acquisitions."
+            },
+            {
+              "key": "Legal Reference",
+              "value": "Section 203 of the Delaware General Corporation Law"
+            },
+            {
+              "key": "Business Combination Definition",
+              "value": "Includes mergers, asset sales, and other transactions resulting in financial benefit to a stockholder."
+            },
+            {
+              "key": "Interested Stockholder",
+              "value": "Defined as a person owning 15% or more of the corporation's outstanding voting stock."
+            },
+            {
+              "key": "Approval Requirements",
+              "value": "Business combinations require approval by the Board and/or stockholders."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 88,
+          "title": "Company Leadership and Directors Signatures",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Chris Urmson"
+            },
+            {
+              "key": "Position",
+              "value": "Chairman and Chief Executive Officer"
+            },
+            {
+              "key": "Date",
+              "value": "February 21, 2023"
+            },
+            {
+              "key": "Additional Info",
+              "value": "Principal Executive Officer"
+            },
+            {
+              "key": "Name",
+              "value": "Richard Tame"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Date",
+              "value": "February 21, 2023"
+            },
+            {
+              "key": "Additional Info",
+              "value": "Principal Financial and Accounting Officer"
+            },
+            {
+              "key": "Name",
+              "value": "Sterling Anderson"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 21, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "Brittany Bagley"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 21, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "Carl Eschenbach"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 21, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "Reid Hoffman"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 21, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "Claire Hughes Johnson"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 21, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "Dara Khosrowshahi"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 21, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "Michelangelo Volpi"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 21, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 103,
+          "title": "At-Will Employment and Employment Agreement",
+          "data": [
+            {
+              "key": "Employer",
+              "value": "Aurora Operations, Inc."
+            },
+            {
+              "key": "Employee",
+              "value": "Nolan Shenai"
+            },
+            {
+              "key": "Date",
+              "value": "12/13/2022"
+            },
+            {
+              "key": "CEO",
+              "value": "Chris Urmson"
+            },
+            {
+              "key": "Employment type",
+              "value": "At-will"
+            },
+            {
+              "key": "Agreement Details",
+              "value": "The employment can be terminated by either party at any time for any reason."
+            },
+            {
+              "key": "Modification",
+              "value": "Aurora can modify job duties, title, compensation, and benefits."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 16,
+          "title": "Employees and Executive Compensation",
+          "data": [
+            {
+              "key": "Employee Count",
+              "value": "Approximately 1,700"
+            },
+            {
+              "key": "Union Representation",
+              "value": "None"
+            },
+            {
+              "key": "Company Culture Values",
+              "value": "Operating with integrity, focusing for impact, no jerks, celebrating diversity, rising to the occasion, winning together."
+            },
+            {
+              "key": "Employee Programs",
+              "value": "Learning and development, transparent career paths, focus on diversity, equity, and inclusion."
+            },
+            {
+              "key": "Employee Recognition Programs",
+              "value": "Company-wide recognition programs."
+            },
+            {
+              "key": "Total Rewards Package Components",
+              "value": "Industry-benchmarked base salaries, performance-based bonus plan, equity ownership, generous time off, paid parental leave, 401(k), health and wellness benefits."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 24,
+          "title": "Self-Driving Unit Economics and Management Dependency",
+          "data": [
+            {
+              "key": "Risks Related to Self-Driving Unit Economics",
+              "value": "Aurora’s self-driving unit economics may not materialize as expected due to uncertainties in the transition to Driver as a Service."
+            },
+            {
+              "key": "Cost Management Challenges",
+              "value": "Significant coordination with third-party fleet partners is required to manage costs effectively."
+            },
+            {
+              "key": "Impact of Leadership on Business Strategy",
+              "value": "Dependence on the Chief Executive Officer, Chris Urmson, is critical for maintaining business strategy execution."
+            },
+            {
+              "key": "Competition for Skilled Personnel",
+              "value": "Strong competition for qualified personnel may hinder maximizing business potential."
+            },
+            {
+              "key": "Potential Stock Impact on Employee Retention",
+              "value": "Reduction in common stock value may necessitate larger equity awards to retain employees."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 44,
+          "title": "Exclusive Forum Provision and Corporate Governance Issues",
+          "data": [
+            {
+              "key": "Notice and Consent",
+              "value": "Any person or entity purchasing or otherwise acquiring any interest in any of our securities shall be deemed to have notice of and consented to this provision."
+            },
+            {
+              "key": "Limitation of Lawsuits",
+              "value": "This exclusive forum provision may limit a stockholder’s ability to bring a claim in a judicial forum of its choosing for disputes with us or our directors, officers or other employees."
+            },
+            {
+              "key": "Applicability of Provisions",
+              "value": "This exclusive forum provision will not apply to any causes of action arising under the Securities Act or the Exchange Act."
+            },
+            {
+              "key": "Challenged Provisions",
+              "value": "The enforceability of similar choice of forum provisions in other companies’ charter documents has been challenged in legal proceedings."
+            },
+            {
+              "key": "Impact of Court Decisions",
+              "value": "The Court of Chancery of the State of Delaware recently determined that a provision stating U.S. federal district courts are the exclusive forum is not enforceable."
+            },
+            {
+              "key": "Potential Additional Costs",
+              "value": "If a court were to find either exclusive forum provision in our Bylaws to be inapplicable, we may incur additional costs."
+            },
+            {
+              "key": "Charter and Bylaw Provisions",
+              "value": "Our Certificate of Incorporation and Bylaws contain provisions that could delay or prevent a change in control."
+            },
+            {
+              "key": "Board of Directors Powers",
+              "value": "Authorizing our Board of Directors to issue preferred stock could discourage a takeover attempt."
+            },
+            {
+              "key": "Cumulative Voting",
+              "value": "Prohibiting cumulative voting in the election of directors."
+            },
+            {
+              "key": "Filling Vacancies",
+              "value": "Vacancies on our Board may only be filled by a majority of directors then in office."
+            },
+            {
+              "key": "Liability and indemnification",
+              "value": "Limiting the liability and indemnification of our directors and officers."
+            },
+            {
+              "key": "Bylaw Amendments",
+              "value": "Board of Directors can amend the Bylaws to inhibit unsolicited takeovers."
+            },
+            {
+              "key": "Stockholder Actions",
+              "value": "Prohibiting stockholder action by written consent."
+            },
+            {
+              "key": "Meeting Calls",
+              "value": "Limiting who may call special meetings of stockholders."
+            },
+            {
+              "key": "Advance Notification",
+              "value": "Requiring advance notification of stockholder nominations."
+            },
+            {
+              "key": "Stockholder Frustration",
+              "value": "These provisions may frustrate or prevent any attempts by stockholders to replace or remove management."
+            },
+            {
+              "key": "DGCL Section 203",
+              "value": "Provisions of Section 203 of the DGCL govern Aurora and may prohibit large stockholders from merging without consent."
+            },
+            {
+              "key": "Market Impact",
+              "value": "These provisions could discourage potential takeover attempts and reduce the price investors might be willing to pay."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 49,
+          "title": "Warrant Redemption Terms and Trading Impact",
+          "data": [
+            {
+              "key": "Redemption Price",
+              "value": "$0.10 per warrant"
+            },
+            {
+              "key": "Reference Value for Redemption",
+              "value": "$10.00 per share"
+            },
+            {
+              "key": "Share Value Cap",
+              "value": "0.361 shares per warrant"
+            },
+            {
+              "key": "Notice Requirement",
+              "value": "Notice of redemption mailed at least 30 days in advance"
+            },
+            {
+              "key": "Impact of Analysts' Recommendations",
+              "value": "Adverse changes in recommendations may decrease share price"
+            },
+            {
+              "key": "Debt Issuance Impact",
+              "value": "Future debt or equity may dilute existing stockholders"
+            },
+            {
+              "key": "Nasdaq Listing Requirements",
+              "value": "Failure to meet could lead to delisting"
+            },
+            {
+              "key": "Potential Trading Venue After Delisting",
+              "value": "OTC Bulletin Board"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 75,
+          "title": "2S8Us Granted Distribution (2020-2022)",
+          "data": [
+            {
+              "key": "2S8Us granted (in millions) 2022",
+              "value": "113"
+            },
+            {
+              "key": "2S8Us granted (in millions) 2021",
+              "value": "45"
+            },
+            {
+              "key": "2S8Us granted (in millions) 2020",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 75,
+          "title": "Share Movement and Grant Date Fair Value Analysis",
+          "data": [
+            {
+              "key": "Invested at December 31, 2021",
+              "value": "34"
+            },
+            {
+              "key": "Granted",
+              "value": "113"
+            },
+            {
+              "key": "Vested",
+              "value": "-27"
+            },
+            {
+              "key": "Forfeited",
+              "value": "-17"
+            },
+            {
+              "key": "Jnvested at December 31, 2022",
+              "value": "103"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 75,
+          "title": "Stock Options Grant Details and Assumptions",
+          "data": [
+            {
+              "key": "Stock options granted fair value 2022",
+              "value": "$1.35"
+            },
+            {
+              "key": "Stock options granted fair value 2021",
+              "value": "$1.90"
+            },
+            {
+              "key": "Stock options granted fair value 2020",
+              "value": "$1.13"
+            },
+            {
+              "key": "Expected term 2022",
+              "value": "5.6 years"
+            },
+            {
+              "key": "Expected term 2021",
+              "value": "5.9 years"
+            },
+            {
+              "key": "Expected term 2020",
+              "value": "5.9 years"
+            },
+            {
+              "key": "Risk-free interest rates 2022",
+              "value": "3.6%"
+            },
+            {
+              "key": "Risk-free interest rates 2021",
+              "value": "0.6%"
+            },
+            {
+              "key": "Risk-free interest rates 2020",
+              "value": "0.9%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 76,
+          "title": "Stock Options Activity Summary 2021-2022",
+          "data": [
+            {
+              "key": "Outstanding at December 31, 2021",
+              "value": "80"
+            },
+            {
+              "key": "Granted",
+              "value": "9"
+            },
+            {
+              "key": "Exercised",
+              "value": "(21)"
+            },
+            {
+              "key": "Forfeited",
+              "value": "(4)"
+            },
+            {
+              "key": "Expired",
+              "value": "(1)"
+            },
+            {
+              "key": "Outstanding at December 31, 2022",
+              "value": "63"
+            },
+            {
+              "key": "Exercisable at December 31, 2022",
+              "value": "63"
+            },
+            {
+              "key": "Weighted Average Remaining Term",
+              "value": "6.9 years"
+            },
+            {
+              "key": "Aggregate Intrinsic Value (2022)",
+              "value": "$15 million"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 76,
+          "title": "Stock-based Compensation Expense Summary",
+          "data": [
+            {
+              "key": "Research and Development 2022",
+              "value": "$137 million"
+            },
+            {
+              "key": "Research and Development 2021",
+              "value": "$207 million"
+            },
+            {
+              "key": "Selling, General, and Administrative 2022",
+              "value": "$19 million"
+            },
+            {
+              "key": "Selling, General, and Administrative 2021",
+              "value": "$13 million"
+            },
+            {
+              "key": "Total 2022",
+              "value": "$156 million"
+            },
+            {
+              "key": "Total 2021",
+              "value": "$220 million"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 77,
+          "title": "Derivative Liabilities Fair Value Comparison",
+          "data": [
+            {
+              "key": "Public warrants",
+              "value": "2"
+            },
+            {
+              "key": "Private placement warrants",
+              "value": "1"
+            },
+            {
+              "key": "Common stock warrants",
+              "value": "3"
+            },
+            {
+              "key": "Earnout share liabilities",
+              "value": "1"
+            },
+            {
+              "key": "Total derivative liabilities",
+              "value": "4"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 77,
+          "title": "Financial Parameters Comparison 2022-2021",
+          "data": [
+            {
+              "key": "Risk-free interest rates",
+              "value": "3.9%"
+            },
+            {
+              "key": "Expected term (in years)",
+              "value": "8.8"
+            },
+            {
+              "key": "Expected volatility",
+              "value": "50.0%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 77,
+          "title": "Fair Value Changes 2021-2022",
+          "data": [
+            {
+              "key": "Fair value as of December 31, 2021",
+              "value": "$52"
+            },
+            {
+              "key": "Change in fair value",
+              "value": "-51"
+            },
+            {
+              "key": "Fair value as of December 31, 2022",
+              "value": "$1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 77,
+          "title": "Change in fair value of derivative liabilities",
+          "data": [
+            {
+              "key": "Common stock warrants 2021",
+              "value": "$63"
+            },
+            {
+              "key": "Earnout share liabilities 2021",
+              "value": "51"
+            },
+            {
+              "key": "Total change in fair value of derivative liabilities 2021",
+              "value": "$114"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 84,
+          "title": "Executive Compensation",
+          "data": [
+            {
+              "key": "Information Provided In Proxy Statement",
+              "value": "The information required by this item will be provided in the Proxy Statement no later than 120 days after December 31, 2022."
+            },
+            {
+              "key": "Incorporation by Reference",
+              "value": "The information set forth in the Proxy Statement is incorporated herein by reference."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 96,
+          "title": "Anti-dilution Adjustments and Warrant Exercise Price Adjustments",
+          "data": [
+            {
+              "key": "Adjustment Type",
+              "value": "Anti-dilution adjustments for Class A Common Stock"
+            },
+            {
+              "key": "Event Description",
+              "value": "Changes in issued shares impacting warrant exercise rights"
+            },
+            {
+              "key": "Rights Offering Impact",
+              "value": "Considered as a share dividend affecting warrant exercise"
+            },
+            {
+              "key": "Historical Fair Market Value",
+              "value": "Volume weighted average price over prior trading period"
+            },
+            {
+              "key": "Dividend Conditions",
+              "value": "Cash dividends affecting warrant exercise price"
+            },
+            {
+              "key": "Decreased Share Conditions",
+              "value": "Impact of consolidations or reverse splits on warrants"
+            },
+            {
+              "key": "Adjustment Mechanism",
+              "value": "Formula for adjusting warrant exercise price based on outstanding shares"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 102,
+          "title": "Employment Agreement of Nolan Shenai",
+          "data": [
+            {
+              "key": "Effective Date",
+              "value": "December 13, 2022"
+            },
+            {
+              "key": "Employee Name",
+              "value": "Nolan Shenai"
+            },
+            {
+              "key": "Position",
+              "value": "General Counsel and Secretary"
+            },
+            {
+              "key": "Base Salary",
+              "value": "$400,000"
+            },
+            {
+              "key": "Annual Bonus Target",
+              "value": "40% of base salary"
+            },
+            {
+              "key": "Review Authority",
+              "value": "Compensation Committee of the Board of Directors"
+            },
+            {
+              "key": "Equity Awards",
+              "value": "Continuation of existing terms; eligibility for additional equity awards"
+            },
+            {
+              "key": "Benefits",
+              "value": "Eligibility to participate in benefit plans and programs"
+            },
+            {
+              "key": "Proprietary Agreement",
+              "value": "Terms of PIIA still apply"
+            },
+            {
+              "key": "Indemnification Agreement",
+              "value": "Terms of Indemnification Agreement still apply"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 106,
+          "title": "Certification of Chris Urmson",
+          "data": [
+            {
+              "key": "Certifier Name",
+              "value": "Chris Urmson"
+            },
+            {
+              "key": "Title",
+              "value": "Chairman and Chief Executive Officer"
+            },
+            {
+              "key": "Date",
+              "value": "February 21, 2023"
+            },
+            {
+              "key": "Responsibility",
+              "value": "Reviewed the Annual Report on Form 10-K for Aurora Innovation, Inc."
+            },
+            {
+              "key": "Disclosure Controls and Procedures",
+              "value": "Responsible for establishing and maintaining disclosure controls and procedures and internal control over financial reporting."
+            },
+            {
+              "key": "Evaluation of Controls",
+              "value": "Evaluated the effectiveness of disclosure controls and procedures."
+            },
+            {
+              "key": "Disclosure of Control Changes",
+              "value": "Disclosed any change in internal control over financial reporting that occurred during the registrant's most recent fiscal quarter."
+            },
+            {
+              "key": "Deficiencies and Weaknesses",
+              "value": "Disclosed all significant deficiencies and material weaknesses in internal control over financial reporting."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 108,
+          "title": "Certification Pursuant to 18 U.S.C. Section 1350",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Aurora Innovation, Inc."
+            },
+            {
+              "key": "Report Type",
+              "value": "Annual Report Form 10-K"
+            },
+            {
+              "key": "Period Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Filing Date",
+              "value": "February 21, 2023"
+            },
+            {
+              "key": "Certifier Name",
+              "value": "Chris Urmson"
+            },
+            {
+              "key": "Certifier Title",
+              "value": "Chairman and Chief Executive Officer (Principal Executive Officer)"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 7,
+          "title": "Aurora Horizon Launch",
+          "data": [
+            {
+              "key": "Product Name",
+              "value": "Aurora Horizon"
+            },
+            {
+              "key": "Description",
+              "value": "Driverless trucking subscription service"
+            },
+            {
+              "key": "Market Focus",
+              "value": "Trucking industry"
+            },
+            {
+              "key": "Commercial Launch Location",
+              "value": "Texas"
+            },
+            {
+              "key": "Key Features",
+              "value": "Improved safety, faster goods movement, more reliable freight supply, enhanced energy efficiency"
+            },
+            {
+              "key": "Strategic Collaborations",
+              "value": "Ryder Systems for fleet maintenance operations"
+            },
+            {
+              "key": "Pilot Partnerships",
+              "value": "FedEx, Werner, Schneider, and Uber Freight"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 8,
+          "title": "Aurora Driver Product Launch Details",
+          "data": [
+            {
+              "key": "Product Name",
+              "value": "Aurora Driver"
+            },
+            {
+              "key": "Features",
+              "value": "Improvements in passenger mobility and localized goods delivery, self-driving technology, integration with Uber and Toyota"
+            },
+            {
+              "key": "Market Potential",
+              "value": "Expansion into multiple markets including local goods delivery and passenger mobility"
+            },
+            {
+              "key": "Launch Plans",
+              "value": "Aurora Connect following Aurora Horizon's launch"
+            },
+            {
+              "key": "Target Markets",
+              "value": "United States, Canada, Europe, Japan, Australia and New Zealand"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 11,
+          "title": "Aurora Driver Offering and Technological Advantages",
+          "data": [
+            {
+              "key": "Service Components",
+              "value": "1. Aurora Driver hardware and software; 2. Updates to the Aurora Driver; 3. Access to Aurora Beacon; 4. Aurora Beacon support; 5. Access to Aurora-certified third party services."
+            },
+            {
+              "key": "Business Model Description",
+              "value": "A business model that allows scaling in a high margin way."
+            },
+            {
+              "key": "Technological Advantages",
+              "value": "1. Proprietary lidar technology for highway speeds; 2. Next-gen perception and planning; 3. Common driver platform for different vehicle types; 4. Aurora’s Virtual Testing Suite; 5. Scalable high-definition maps."
+            },
+            {
+              "key": "FirstLight Lidar Advantages",
+              "value": "1. Greater Range; 2. Simultaneous Range and Velocity; 3. Interference Immunity."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 13,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Scalable Approach to High-definition Mapping",
+              "value": "Aurora’s approach to mapping aims to optimize for two factors..."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 10,
+          "title": "Aurora Driver Overview",
+          "data": [
+            {
+              "key": "Mission",
+              "value": "To build a mission-driven corporate culture that emphasizes values essential for long-term success."
+            },
+            {
+              "key": "Impact of Culture",
+              "value": "A strong, inclusive, and effective culture is fundamental in delivering and scaling complex technology."
+            },
+            {
+              "key": "Product",
+              "value": "The Aurora Driver, a platform for autonomous driving, integrates hardware, software, and services."
+            },
+            {
+              "key": "Automation Level",
+              "value": "Level 4 – High Automation, allowing vehicles to operate without a human driver under certain conditions."
+            },
+            {
+              "key": "Safety Features",
+              "value": "The Aurora Driver includes redundant steering, braking, and power for safe vehicle operation."
+            },
+            {
+              "key": "Business Model",
+              "value": "Delivered as a service via Aurora Horizon (trucking) and Aurora Connect (ride hailing)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 57,
+          "title": "Cash Flows Summary",
+          "data": [
+            {
+              "key": "Net cash used in operating activities",
+              "value": "$508 million"
+            },
+            {
+              "key": "Net cash (used in) provided by investing activities",
+              "value": "-$852 million"
+            },
+            {
+              "key": "Net cash provided by financing activities",
+              "value": "n/a"
+            },
+            {
+              "key": "Net (decrease) increase",
+              "value": "-$1349 million"
+            },
+            {
+              "key": "Cash, cash equivalents, and restricted cash at beginning of the period",
+              "value": "$1626 million"
+            },
+            {
+              "key": "Cash, cash equivalents, and restricted cash at end of the period",
+              "value": "$277 million"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 12,
+          "title": "Leveraging the Best of Machine Learning and Engineered Approaches",
+          "data": [
+            {
+              "key": "Approach",
+              "value": "Aurora Driver software leverages expertise in both machine learning and engineering."
+            },
+            {
+              "key": "Engineered Systems",
+              "value": "Simpler and more introspectable."
+            },
+            {
+              "key": "Machine-learned Systems",
+              "value": "Tuned by algorithms and trained on data; allows complexity and nuance, but less introspectable."
+            },
+            {
+              "key": "Key Investment",
+              "value": "Hardware suite consistent across vehicle platforms."
+            },
+            {
+              "key": "Virtual Testing Suite Benefits",
+              "value": "Efficiency, Speed, Safety, Variation, Repeatability."
+            },
+            {
+              "key": "Testing Efficiency",
+              "value": "Motion planning simulation 2500 times less costly than on-road testing."
+            },
+            {
+              "key": "Scalability",
+              "value": "Simulates equivalent of over 50,000 trucks on the road."
+            },
+            {
+              "key": "Risk Reduction",
+              "value": "Reduces on-road miles needed for development."
+            },
+            {
+              "key": "Scenario Variation",
+              "value": "Can simulate scenarios not previously encountered."
+            },
+            {
+              "key": "Industry Position",
+              "value": "Invested in virtual testing unlike many competitors."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Stock Performance Graph",
+          "data": [
+            {
+              "key": "Cumulative Total Stockholder Return",
+              "value": "Compares cumulative returns of Aurora Class A common stock with S&P 500 and Nasdaq Composite Index from May 10, 2021 to December 31, 2022"
+            },
+            {
+              "key": "Initial Value",
+              "value": "$100 per share on May 10, 2021"
+            },
+            {
+              "key": "Cash Dividend Policy",
+              "value": "Have never declared or paid cash dividends; do not anticipate declaring or paying cash dividends in the foreseeable future"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Financial Performance Comparison 2022-2021",
+          "data": [
+            {
+              "key": "collaboration revenue",
+              "value": "68"
+            },
+            {
+              "key": "collaboration revenue (2021)",
+              "value": "82"
+            },
+            {
+              "key": "change",
+              "value": "-14"
+            },
+            {
+              "key": "percent change",
+              "value": "-17"
+            },
+            {
+              "key": "Research and development (2022)",
+              "value": "677"
+            },
+            {
+              "key": "Research and development (2021)",
+              "value": "697"
+            },
+            {
+              "key": "R&D change",
+              "value": "-20"
+            },
+            {
+              "key": "R&D percent change",
+              "value": "-3"
+            },
+            {
+              "key": "Selling, general and administrative (2022)",
+              "value": "129"
+            },
+            {
+              "key": "Selling, general and administrative (2021)",
+              "value": "116"
+            },
+            {
+              "key": "SG&A change",
+              "value": "13"
+            },
+            {
+              "key": "SG&A percent change",
+              "value": "11"
+            },
+            {
+              "key": "Goodwill impairment (2022)",
+              "value": "1114"
+            },
+            {
+              "key": "Goodwill impairment (2021)",
+              "value": "0"
+            },
+            {
+              "key": "Total operating expenses (2022)",
+              "value": "1920"
+            },
+            {
+              "key": "Total operating expenses (2021)",
+              "value": "813"
+            },
+            {
+              "key": "Total operating expenses change",
+              "value": "1107"
+            },
+            {
+              "key": "Total operating expenses percent change",
+              "value": "136"
+            },
+            {
+              "key": "Loss from operations (2022)",
+              "value": "-1852"
+            },
+            {
+              "key": "Loss from operations (2021)",
+              "value": "-731"
+            },
+            {
+              "key": "Loss from operations change",
+              "value": "-121"
+            },
+            {
+              "key": "Loss from operations percent change",
+              "value": "153"
+            },
+            {
+              "key": "Change in fair value of derivative liabilities (2022)",
+              "value": "114"
+            },
+            {
+              "key": "Change in fair value of derivative liabilities (2021)",
+              "value": "-20"
+            },
+            {
+              "key": "Other income (2022)",
+              "value": "15"
+            },
+            {
+              "key": "Other expense (2021)",
+              "value": "-9"
+            },
+            {
+              "key": "Net loss (2022)",
+              "value": "-1723"
+            },
+            {
+              "key": "Net loss (2021)",
+              "value": "-755"
+            },
+            {
+              "key": "Net loss change",
+              "value": "-968"
+            },
+            {
+              "key": "Net loss percent change",
+              "value": "128"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "Financial Performance Comparison",
+          "data": [
+            {
+              "key": "Collaboration revenue",
+              "value": "82"
+            },
+            {
+              "key": "Research and development",
+              "value": "697"
+            },
+            {
+              "key": "Selling, general and administrative",
+              "value": "116"
+            },
+            {
+              "key": "Goodwill impairment",
+              "value": "-"
+            },
+            {
+              "key": "Total operating expenses",
+              "value": "813"
+            },
+            {
+              "key": "Loss from operations",
+              "value": "(731)"
+            },
+            {
+              "key": "Change in fair value of derivative liabilities",
+              "value": "(20)"
+            },
+            {
+              "key": "Other income (expense), net",
+              "value": "(9)"
+            },
+            {
+              "key": "Loss before income taxes",
+              "value": "(760)"
+            },
+            {
+              "key": "Income tax benefit",
+              "value": "(6)"
+            },
+            {
+              "key": "Net loss",
+              "value": "(755)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 61,
+          "title": "Report of Independent Registered Public Accounting Firm",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Aurora Innovation, Inc."
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "We have audited the accompanying consolidated balance sheets of Aurora Innovation, Inc. and subsidiaries"
+            },
+            {
+              "key": "Audit Period",
+              "value": "three-year period ended December 31, 2022"
+            },
+            {
+              "key": "Opinion Statement",
+              "value": "The consolidated financial statements present fairly, in all material respects, the financial position of the Company"
+            },
+            {
+              "key": "Basis for Opinion",
+              "value": "These consolidated financial statements are the responsibility of the Company’s management."
+            },
+            {
+              "key": "Auditor Firm",
+              "value": "KPMG LLP"
+            },
+            {
+              "key": "Auditor Since",
+              "value": "2018"
+            },
+            {
+              "key": "Audit Location",
+              "value": "Santa Clara, California"
+            },
+            {
+              "key": "Audit Date",
+              "value": "February 21, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Balance Sheet Comparison",
+          "data": [
+            {
+              "key": "Cash and cash equivalents",
+              "value": "262"
+            },
+            {
+              "key": "Short-term investments",
+              "value": "839"
+            },
+            {
+              "key": "Other current assets",
+              "value": "17"
+            },
+            {
+              "key": "Total current assets",
+              "value": "1118"
+            },
+            {
+              "key": "Property and equipment, net",
+              "value": "9"
+            },
+            {
+              "key": "Operating lease right-of-use assets",
+              "value": "138"
+            },
+            {
+              "key": "Acquisition related intangible assets/Goodwill",
+              "value": "618"
+            },
+            {
+              "key": "Total assets",
+              "value": "2001"
+            },
+            {
+              "key": "Total current liabilities",
+              "value": "83"
+            },
+            {
+              "key": "Total liabilities",
+              "value": "217"
+            },
+            {
+              "key": "Additional paid-in capital",
+              "value": "4600"
+            },
+            {
+              "key": "Accumulated deficit",
+              "value": "-2814"
+            },
+            {
+              "key": "Total stockholders' equity",
+              "value": "1784"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Financial Performance Summary",
+          "data": [
+            {
+              "key": "Collaboration revenue",
+              "value": "68"
+            },
+            {
+              "key": "Research and development",
+              "value": "677"
+            },
+            {
+              "key": "Selling, general and administrative",
+              "value": "129"
+            },
+            {
+              "key": "Goodwill impairment",
+              "value": "1114"
+            },
+            {
+              "key": "Total operating expenses",
+              "value": "1920"
+            },
+            {
+              "key": "Loss from operations",
+              "value": "-1852"
+            },
+            {
+              "key": "Change in fair value of derivative liabilities",
+              "value": "114"
+            },
+            {
+              "key": "Other income (expense), net",
+              "value": "15"
+            },
+            {
+              "key": "Loss before income taxes",
+              "value": "-1723"
+            },
+            {
+              "key": "Net loss",
+              "value": "-1723"
+            },
+            {
+              "key": "Basic and diluted net loss per share",
+              "value": "-1.51"
+            },
+            {
+              "key": "Basic and diluted weighted-average shares outstanding",
+              "value": "1143"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 64,
+          "title": "Net Loss and Comprehensive Loss Statement",
+          "data": [
+            {
+              "key": "2022",
+              "value": "(1,723)"
+            },
+            {
+              "key": "2021",
+              "value": "(755)"
+            },
+            {
+              "key": "2020",
+              "value": "(214)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 66,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Net loss",
+              "value": "2022: -1723, 2021: -755, 2020: -214"
+            },
+            {
+              "key": "Depreciation and amortization",
+              "value": "2022: 22, 2021: 16, 2020: 3"
+            },
+            {
+              "key": "Stock-based compensation",
+              "value": "2022: 156, 2021: 220, 2020: 17"
+            },
+            {
+              "key": "Goodwill impairment",
+              "value": "2022: 1114, 2021: null, 2020: null"
+            },
+            {
+              "key": "Net cash used in operating activities",
+              "value": "2022: -508, 2021: -564, 2020: -192"
+            },
+            {
+              "key": "Net cash (used in) provided by investing activities",
+              "value": "2022: -852, 2021: 250, 2020: 343"
+            },
+            {
+              "key": "Net cash provided by financing activities",
+              "value": "2022: null, 2021: 1540, 2020: 2"
+            },
+            {
+              "key": "Net (decrease) increase in cash, cash equivalents, and restricted cash",
+              "value": "2022: -1349, 2021: 1226, 2020: 153"
+            },
+            {
+              "key": "Cash, cash equivalents, and restricted cash at end of the period",
+              "value": "2022: 277, 2021: 1626, 2020: 400"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 74,
+          "title": "Treasury Securities Financial Analysis",
+          "data": [
+            {
+              "key": "Amortized Cost",
+              "value": "$841 million"
+            },
+            {
+              "key": "Unrealized Losses",
+              "value": "$-2 million"
+            },
+            {
+              "key": "Fair Value",
+              "value": "$83 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 80,
+          "title": "Table of Contents and Income Tax Components",
+          "data": [
+            {
+              "key": "Common Stock Excluded from Diluted Loss per Share (Summary)",
+              "value": "This table shows the breakdown of equity-related instruments and liabilities over three years (2020-2022). Notable trends include a significant increase in RSUs from 35 to 103 between 2021 and 2022, while stock options decreased from 82 to 65. The total value increased substantially from 3 in 2020 to 143 in 2021, and further to 194 in 2022, primarily driven by increases in stock options and RSUs. Public warrants, private placement warrants, and earnout shares liability remained stable between 2021 and 2022."
+            },
+            {
+              "key": "Deferred Income Benefit Summary",
+              "value": "This table presents deferred income benefit figures for 2021 and 2022. For 2021, it shows federal tax benefit of $(4), state tax benefit of $(3), resulting in a total deferred income tax benefit of $(5). The income tax benefit totals $(5). No values are reported for 2022. All figures appear to be negative (indicating tax benefits rather than expenses)."
+            },
+            {
+              "key": "Tax Rate Reconciliation Summary",
+              "value": "This table presents a tax rate reconciliation showing the components that affect the company's effective tax rate from 2020 to 2022. The federal statutory tax rate remained constant at 21.0% across all years. Notable items include significant changes in valuation allowance, a goodwill impairment impact of -13.6% in 2022, and varying R&D credits. The effective tax rate was 0.6% in 2021 and approximately 0% in both 2020 and 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 81,
+          "title": "Deferred Tax Assets and Liabilities",
+          "data": [
+            {
+              "key": "Net operating losses",
+              "value": "324"
+            },
+            {
+              "key": "Tax credits",
+              "value": "83"
+            },
+            {
+              "key": "Stock-based compensation",
+              "value": "17"
+            },
+            {
+              "key": "Capitalized R&D",
+              "value": "130"
+            },
+            {
+              "key": "Lease liability",
+              "value": "29"
+            },
+            {
+              "key": "Other",
+              "value": "14"
+            },
+            {
+              "key": "Deferred tax assets, gross",
+              "value": "597"
+            },
+            {
+              "key": "Valuation allowance",
+              "value": "-542"
+            },
+            {
+              "key": "Deferred tax assets, net of valuation allowance",
+              "value": "55"
+            },
+            {
+              "key": "Depreciation and amortization",
+              "value": "-27"
+            },
+            {
+              "key": "Right of use asset",
+              "value": "-29"
+            },
+            {
+              "key": "Other",
+              "value": "-3"
+            },
+            {
+              "key": "Deferred tax liabilities",
+              "value": "-59"
+            },
+            {
+              "key": "Deferred tax liabilities, net",
+              "value": "-4"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 81,
+          "title": "Valuation Allowance Changes",
+          "data": [
+            {
+              "key": "Valuation allowance at beginning of period",
+              "value": "331"
+            },
+            {
+              "key": "Change in deferred tax asset positions Valuation allowance at end of period",
+              "value": "211"
+            },
+            {
+              "key": "Change in deferred tax asset positions Valuation allowance at end of period",
+              "value": "542"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 81,
+          "title": "Unrecognized Tax Benefits Reconciliation",
+          "data": [
+            {
+              "key": "Increases related to tax positions taken during a prior year",
+              "value": "1"
+            },
+            {
+              "key": "Increases related to tax positions taken during the current year",
+              "value": "8"
+            },
+            {
+              "key": "Decreases related to tax positions taken during a prior year",
+              "value": "-6"
+            },
+            {
+              "key": "Unrecognized tax benefits at end of period",
+              "value": "21"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 91,
+          "title": "Conversion of Class B Common Stock and Preferred Stock Authority",
+          "data": [
+            {
+              "key": "Conversion of Class B Common Stock",
+              "value": "Each share of Class B Common Stock is convertible into one share of Class A Common Stock at the option of the holder."
+            },
+            {
+              "key": "Automatic Conversion upon Sale",
+              "value": "Shares of Class B Common Stock will automatically convert into Class A upon transfer except for certain described transfers."
+            },
+            {
+              "key": "Transfer Conditions and Estate Planning",
+              "value": "Transfers for estate planning where control is retained will not trigger conversion."
+            },
+            {
+              "key": "Death Conversion",
+              "value": "Upon the death of a holder, Class B shares convert to Class A shares."
+            },
+            {
+              "key": "Disability Conversion",
+              "value": "Conversion is deferred for Aurora Founders' shares for 9 to 18 months upon death or disability."
+            },
+            {
+              "key": "Voting Control Conditions",
+              "value": "Shares controlled by spouses will convert upon divorce if they retain control."
+            },
+            {
+              "key": "Preferred Stock Authority",
+              "value": "The Board can issue preferred stock and set terms without stockholder vote."
+            },
+            {
+              "key": "Impact on Control",
+              "value": "Issuance of preferred stock may delay change of control and affect market price."
+            },
+            {
+              "key": "Current Plans for Preferred Stock",
+              "value": "There are no current plans to issue preferred stock."
+            },
+            {
+              "key": "Registration Rights",
+              "value": "Certain holders have rights to require registration of their shares."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 105,
+          "title": "Consent of Independent Registered Public Accounting Firm",
+          "data": [
+            {
+              "key": "Consent Statement",
+              "value": "We consent to the incorporation by reference in the registration statement (No. 333-263498) on Form S-8 of our report dated February 21, 2023, with respect to the consolidated financial statements of Aurora Innovation, Inc."
+            },
+            {
+              "key": "Firm Name",
+              "value": "KPMG LLP"
+            },
+            {
+              "key": "Location",
+              "value": "Santa Clara, California"
+            },
+            {
+              "key": "Date",
+              "value": "February 21, 2023"
+            },
+            {
+              "key": "Exhibit",
+              "value": "23.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 107,
+          "title": "CERTIFICATION",
+          "data": [
+            {
+              "key": "Certified By",
+              "value": "Richard Tame"
+            },
+            {
+              "key": "Title",
+              "value": "Chief Financial Officer (Principal Financial Officer)"
+            },
+            {
+              "key": "Certification Date",
+              "value": "February 21, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 109,
+          "title": "CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Aurora Innovation, Inc."
+            },
+            {
+              "key": "Form Type",
+              "value": "10-K"
+            },
+            {
+              "key": "Period Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Filing Date",
+              "value": "February 21, 2023"
+            },
+            {
+              "key": "Certifier Name",
+              "value": "Richard Tame"
+            },
+            {
+              "key": "Title",
+              "value": "Chief Financial Officer (Principal Financial Officer)"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "dividend_policy",
+          "page": 51,
+          "title": "Dividend Policy",
+          "data": [
+            {
+              "key": "Cash Dividends on Class A Common Stock",
+              "value": "None paid to date."
+            },
+            {
+              "key": "Future Plans for Dividends",
+              "value": "No current plans to pay cash dividends for the foreseeable future."
+            },
+            {
+              "key": "Factors Influencing Dividend Payments",
+              "value": "Results of operations, financial condition, cash requirements, contractual restrictions, and other factors."
+            },
+            {
+              "key": "Restrictions on Paying Dividends",
+              "value": "Limited by covenants of any future outstanding indebtedness."
+            },
+            {
+              "key": "Holders of Class A Common Stock",
+              "value": "101 holders of record as of February 10, 2023."
+            },
+            {
+              "key": "Holders of Class B Common Stock",
+              "value": "25 holders of record."
+            },
+            {
+              "key": "Nature of Class B Common Stock Trading",
+              "value": "No established public trading market."
+            },
+            {
+              "key": "Holders of Class A Warrants",
+              "value": "2 holders of record for warrants exercisable at $11.50."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 65,
+          "title": "Stockholders' Equity Statement",
+          "data": [
+            {
+              "key": "date",
+              "value": "December 31, 2019"
+            },
+            {
+              "key": "common_stock_shares",
+              "value": "264"
+            },
+            {
+              "key": "total_stockholders_equity",
+              "value": "(83)"
+            },
+            {
+              "key": "date",
+              "value": "December 31, 2020"
+            },
+            {
+              "key": "common_stock_shares",
+              "value": "279"
+            },
+            {
+              "key": "preferred_stock_shares",
+              "value": "290"
+            },
+            {
+              "key": "preferred_stock_amount",
+              "value": "763"
+            },
+            {
+              "key": "additional_paid_in_capital",
+              "value": "39"
+            },
+            {
+              "key": "accumulated_deficit",
+              "value": "(336)"
+            },
+            {
+              "key": "total_stockholders_equity",
+              "value": "(77)"
+            },
+            {
+              "key": "date",
+              "value": "December 31, 2021"
+            },
+            {
+              "key": "common_stock_shares",
+              "value": "1123"
+            },
+            {
+              "key": "additional_paid_in_capital",
+              "value": "4433"
+            },
+            {
+              "key": "accumulated_deficit",
+              "value": "(2,091)"
+            },
+            {
+              "key": "total_stockholders_equity",
+              "value": "3,342"
+            },
+            {
+              "key": "date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "common_stock_shares",
+              "value": "1166"
+            },
+            {
+              "key": "additional_paid_in_capital",
+              "value": "4600"
+            },
+            {
+              "key": "accumulated_deficit",
+              "value": "(2,814)"
+            },
+            {
+              "key": "total_stockholders_equity",
+              "value": "1,784"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 89,
+          "title": "Description of Capital Stock",
+          "data": [
+            {
+              "key": "Authorized Capital Stock",
+              "value": "52,000,000,000 shares of capital stock, $0.00001 par value per share"
+            },
+            {
+              "key": "Class A Common Stock",
+              "value": "50,000,000,000 shares designated as Class A common stock"
+            },
+            {
+              "key": "Outstanding Class A Common Stock",
+              "value": "759,864,240 shares"
+            },
+            {
+              "key": "Class B Common Stock",
+              "value": "1,000,000,000 shares designated as Class B common stock"
+            },
+            {
+              "key": "Outstanding Class B Common Stock",
+              "value": "411,510,876 shares"
+            },
+            {
+              "key": "Preferred Stock",
+              "value": "1,000,000,000 shares designated as preferred stock, none outstanding"
+            },
+            {
+              "key": "Board Authority",
+              "value": "Board can issue additional Class A Common Stock without shareholder approval"
+            },
+            {
+              "key": "Voting Requirements for Class B",
+              "value": "Issuance of additional Class B Common Stock requires two-thirds approval of Class B shareholders"
+            },
+            {
+              "key": "Dividend Rights",
+              "value": "Holders of common stock entitled to dividends if determined by the Board"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 90,
+          "title": "Voting Rights and Capital Structure of Common Stock",
+          "data": [
+            {
+              "key": "Voting Rights Class A",
+              "value": "One vote per share for each share held."
+            },
+            {
+              "key": "Voting Rights Class B",
+              "value": "Ten votes per share for each share held."
+            },
+            {
+              "key": "Approval Requirement for Class B Changes",
+              "value": "Approval of a majority of the outstanding shares of Class B required to increase or decrease authorized shares."
+            },
+            {
+              "key": "Separate Voting Class Requirement",
+              "value": "Certain amendments may require separate class voting according to Delaware law."
+            },
+            {
+              "key": "Final Conversion Date Requirement",
+              "value": "At least two-thirds of Class B shares required for specific approvals until conversion."
+            },
+            {
+              "key": "Classified Board of Directors",
+              "value": "Three classes serving staggered three-year terms."
+            },
+            {
+              "key": "Cumulative Voting Rights",
+              "value": "Stockholders do not have the ability to cumulate votes."
+            },
+            {
+              "key": "Preemptive Rights",
+              "value": "No preemptive or similar rights for common stock."
+            },
+            {
+              "key": "Liquidation Distribution",
+              "value": "Assets distributable ratably among common stockholders after satisfying debts and obligations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 92,
+          "title": "Shelf Registration Rights and Warrants",
+          "data": [
+            {
+              "key": "Shelf Registration Rights",
+              "value": "Holders of at least $50.0 million can request underwritten public offerings."
+            },
+            {
+              "key": "Piggyback Registration Rights",
+              "value": "Holders of shares can request inclusion in proposed registrations."
+            },
+            {
+              "key": "Public Warrants",
+              "value": "Each warrant entitles the holder to purchase one share of Class A at $11.50."
+            },
+            {
+              "key": "Expiration of Warrants",
+              "value": "Warrants expire five years after the Business Combination."
+            },
+            {
+              "key": "Conditions for Warrant Exercise",
+              "value": "Exercise requires an effective registration statement."
+            },
+            {
+              "key": "Cashless Exercise Option",
+              "value": "If shares are not listed, holders may exercise on a cashless basis."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 95,
+          "title": "Warrant Redemption Feature Details",
+          "data": [
+            {
+              "key": "Redemption Feature",
+              "value": "Structured to allow redemption of all outstanding warrants when shares of Class A Common Stock trade at or above $10.00 per share."
+            },
+            {
+              "key": "Comparison with typical features",
+              "value": "Differs from typical warrant redemption features which usually redeem warrants only for cash when shares trade above $18.00."
+            },
+            {
+              "key": "Exercise Price of Warrants",
+              "value": "Warrants have an exercise price of $11.50."
+            },
+            {
+              "key": "Impact on Capital Structure",
+              "value": "This redemption feature provides certainty about the capital structure by removing outstanding warrants."
+            },
+            {
+              "key": "Warrant Holder Rights",
+              "value": "Holders may receive fewer shares if warrants are redeemed at prices below exercise price."
+            },
+            {
+              "key": "Fractional Shares Policy",
+              "value": "No fractional shares issued upon exercise; any fractional interest will be rounded down."
+            },
+            {
+              "key": "Notification Requirement",
+              "value": "Holders must notify the company if exercising would result in owning more than 9.8% of outstanding shares."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 104,
+          "title": "Corporate Organization Structure",
+          "data": [
+            {
+              "key": "Organization",
+              "value": "Aurora Innovation Holdings, Inc."
+            },
+            {
+              "key": "Location",
+              "value": "Delaware"
+            },
+            {
+              "key": "Organization",
+              "value": "Aurora Operations, Inc."
+            },
+            {
+              "key": "Location",
+              "value": "Delaware"
+            },
+            {
+              "key": "Organization",
+              "value": "Other subsidiaries*"
+            },
+            {
+              "key": "Location",
+              "value": "Various"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 4,
+          "title": "Cautionary Note Regarding Forward-Looking Statements",
+          "data": [
+            {
+              "key": "Statement Type",
+              "value": "Forward-looking statements"
+            },
+            {
+              "key": "Context",
+              "value": "Annual Report on Form 10-K"
+            },
+            {
+              "key": "Main Risks",
+              "value": "Market competition, regulatory environment, economic trends, health epidemics, and geopolitical events."
+            },
+            {
+              "key": "Warnings",
+              "value": "Should not rely solely on forward-looking statements as predictions of future events."
+            },
+            {
+              "key": "Assurances",
+              "value": "No assurance of achievement of results, events, or circumstances described in forward-looking statements."
+            },
+            {
+              "key": "Obligations",
+              "value": "No obligation to update statements post-report date."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 18,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Investing in our securities involves a high degree of risk.",
+              "value": "The trading price of our common stock could decline, and you may lose all or part of your investment."
+            },
+            {
+              "key": "Self-driving technology is an emerging technology.",
+              "value": "We face significant technical challenges to commercialize our technology."
+            },
+            {
+              "key": "We are an early stage company with a history of losses.",
+              "value": "We expect to incur significant expenses and continuing losses for the foreseeable future."
+            },
+            {
+              "key": "Limited operating history.",
+              "value": "Makes it difficult to evaluate our future prospects and the risks and challenges we may encounter."
+            },
+            {
+              "key": "Competition in the market.",
+              "value": "Some market participants have substantially greater resources."
+            },
+            {
+              "key": "Services and technology adoption risks.",
+              "value": "May not be accepted and adopted by the market at the pace we expect or at all."
+            },
+            {
+              "key": "Capital investment needs.",
+              "value": "We may require significantly more additional capital investment than previously expected."
+            },
+            {
+              "key": "Management dependency.",
+              "value": "Highly dependent on the services of our senior management team."
+            },
+            {
+              "key": "Future capital needs and securities sales.",
+              "value": "May require us to sell additional equity or debt securities."
+            },
+            {
+              "key": "Growth management challenges.",
+              "value": "We may experience difficulties in managing our growth and expanding our operations."
+            },
+            {
+              "key": "Operating and financial results projections depend on assumptions.",
+              "value": "Correctness of assumptions or analyses is uncertain."
+            },
+            {
+              "key": "Past and future acquisitions risk.",
+              "value": "Could fail to successfully select, execute or integrate."
+            },
+            {
+              "key": "Cybersecurity risks.",
+              "value": "Risks to operational systems and data security."
+            },
+            {
+              "key": "Privacy and data protection compliance failures.",
+              "value": "May adversely impact our business."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 19,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Insurance Coverage",
+              "value": "Our future insurance coverage may not be adequate to protect us from all business risks or may be prohibitively expensive."
+            },
+            {
+              "key": "Warrants Liability",
+              "value": "Our warrants are accounted for as liabilities and the changes in value of our warrants could have a material effect on our financial results."
+            },
+            {
+              "key": "Internal Control",
+              "value": "If we are unable to develop and maintain an effective system of internal control over financial reporting, we may not be able to accurately report our financial results in a timely manner, which may adversely affect investor confidence in us and materially and adversely affect our business and operating results."
+            },
+            {
+              "key": "Tax Rates Changes",
+              "value": "Unanticipated changes in effective tax rates, adverse outcomes resulting from examination of our income, changes in tax laws or regulations, changes in our ability to utilize our net operating loss, or other tax-related changes could materially and adversely affect our business, prospects, financial condition and results of operations."
+            },
+            {
+              "key": "Partnerships",
+              "value": "Our success is contingent on our ability to successfully maintain, manage, execute and expand on our existing partnerships and obtain new partnerships."
+            },
+            {
+              "key": "Supplier Dependency",
+              "value": "We are dependent on our suppliers, some of which are single or limited source suppliers, and these suppliers may not produce and deliver necessary and industrialized components at prices and volumes and on terms acceptable to us."
+            },
+            {
+              "key": "Regulatory Risks",
+              "value": "Burdensome regulations, inconsistent regulations, or a failure to receive regulatory approvals of our technology could have a material adverse effect on our business, financial condition and results of operation."
+            },
+            {
+              "key": "Legal Proceedings",
+              "value": "We may become involved in legal and regulatory proceedings and commercial or contractual disputes."
+            },
+            {
+              "key": "Product Liability",
+              "value": "We may be subject to product liability that could result in significant direct or indirect costs."
+            },
+            {
+              "key": "Intellectual Property Protection",
+              "value": "We may not be able to adequately protect or enforce our intellectual property rights, in which case our business and competitive position could be harmed."
+            },
+            {
+              "key": "Infringement Claims",
+              "value": "We may need to defend ourselves against intellectual property rights infringement claims, which may be time-consuming and could cause us to incur substantial costs."
+            },
+            {
+              "key": "License Agreements",
+              "value": "We could lose the ability to use certain intellectual property rights and technology or materials that we rely upon if the underlying license agreements are terminated or not renewed."
+            },
+            {
+              "key": "Open Source Compliance",
+              "value": "Our software contains third-party open-source software components, and failure to comply with the terms of the underlying open-source software licenses could restrict our ability to sell our products or give rise to disclosure obligations of proprietary software."
+            },
+            {
+              "key": "Stock Price Volatility",
+              "value": "The market price of our common stock may be volatile and could decline significantly."
+            },
+            {
+              "key": "Voting Power Structure",
+              "value": "Our dual class structure has the effect of concentrating voting power with our founders, which limits an investor’s ability to influence the outcome of important transactions, including a change in control."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 20,
+          "title": "Risks Related to Our Technology, Business Model and Industry",
+          "data": [
+            {
+              "key": "Technical Challenges",
+              "value": "Self-driving technology is an emerging technology and we face significant technical challenges to commercialize our technology."
+            },
+            {
+              "key": "Commercial Viability",
+              "value": "If we cannot successfully overcome those challenges or do so on a timely basis, our ability to grow our business will be negatively impacted."
+            },
+            {
+              "key": "Industry Expectations",
+              "value": "The industry has an expectation for better-than-a-human driving performance."
+            },
+            {
+              "key": "Funding Requirements",
+              "value": "Large funding requirements pose a challenge."
+            },
+            {
+              "key": "Development Lead Times",
+              "value": "There are long vehicle development lead times."
+            },
+            {
+              "key": "Skills Requirements",
+              "value": "Specialized skills and expertise requirements of personnel are necessary."
+            },
+            {
+              "key": "Regulatory Frameworks",
+              "value": "Inconsistent and evolving regulatory frameworks present challenges."
+            },
+            {
+              "key": "Public Trust",
+              "value": "Building public trust and brand image is critical."
+            },
+            {
+              "key": "Operational Challenges",
+              "value": "Real world operation of entirely new technology is complex."
+            },
+            {
+              "key": "Loss Expectation",
+              "value": "We expect to incur significant operating and net losses for the foreseeable future."
+            },
+            {
+              "key": "Historical Losses",
+              "value": "We have incurred net losses annually since inception."
+            },
+            {
+              "key": "Future Losses",
+              "value": "The rate of losses is expected to be substantially higher as we scale development."
+            },
+            {
+              "key": "Additional Risks",
+              "value": "Development may not realize expected revenues."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 21,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Limited operating history",
+              "value": "Makes it difficult to evaluate future prospects and risks."
+            },
+            {
+              "key": "Challenges in self-driving technology",
+              "value": "Design, develop, test, and validate for commercial applications."
+            },
+            {
+              "key": "Safety and performance",
+              "value": "Produce and deliver technology at an acceptable level."
+            },
+            {
+              "key": "Pricing strategy",
+              "value": "Challenge in properly pricing products and services."
+            },
+            {
+              "key": "Capital expenditures planning",
+              "value": "Manage capital expenditures for current and future products."
+            },
+            {
+              "key": "Talent acquisition and retention",
+              "value": "Hire, integrate and retain talented people."
+            },
+            {
+              "key": "Financial forecasting",
+              "value": "Forecast revenue, budget and manage expenses."
+            },
+            {
+              "key": "Partner relationships",
+              "value": "Attract new partners and retain existing ones."
+            },
+            {
+              "key": "Regulatory environment",
+              "value": "Navigate an evolving and complex regulatory landscape."
+            },
+            {
+              "key": "Supply chain management",
+              "value": "Manage supply chain and supplier relationships."
+            },
+            {
+              "key": "Macroeconomic changes",
+              "value": "Anticipate and respond to macroeconomic changes."
+            },
+            {
+              "key": "Reputation and brand",
+              "value": "Maintain and enhance the value of reputation and brand."
+            },
+            {
+              "key": "Growth management",
+              "value": "Effectively manage growth and business operations."
+            },
+            {
+              "key": "Intellectual property rights",
+              "value": "Develop and protect IP rights."
+            },
+            {
+              "key": "New solutions development",
+              "value": "Develop new solutions, features, and applications."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 27,
+          "title": "Risk Factors Related to Disruptions and Natural Catastrophes",
+          "data": [
+            {
+              "key": "Natural disasters and risks",
+              "value": "Our business is subject to risks of earthquakes, fire, floods, and other natural catastrophic events, global pandemics, and interruptions by man-made problems, such as terrorism."
+            },
+            {
+              "key": "Impact of COVID-19 pandemic",
+              "value": "The COVID-19 pandemic may heighten demand for products, ability to maintain profitability, and ability to raise capital."
+            },
+            {
+              "key": "Potential disruptions from terror or geopolitics",
+              "value": "Geopolitical tensions related to Russia’s actions in Ukraine could cause disruptions."
+            },
+            {
+              "key": "Technology and communications reliance",
+              "value": "We rely on information technology systems for communication and any disruption could adversely affect our business."
+            },
+            {
+              "key": "Disaster recovery plans",
+              "value": "We do not have a formal disaster recovery plan or require our partners to have such plans."
+            },
+            {
+              "key": "Future business operational risks",
+              "value": "Recovery from COVID-19 may be impeded by new variants or other factors, leading to adverse impacts."
+            },
+            {
+              "key": "Third-party service vulnerabilities",
+              "value": "AWS and other technology systems reliability are crucial for business continuity, subject to various risks."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 28,
+          "title": "Cybersecurity Risks",
+          "data": [
+            {
+              "key": "Risk Description",
+              "value": "We are subject to cybersecurity risks to operational systems, security systems, infrastructure, integrated software and partners' and end-customers data processed by us or third-party vendors."
+            },
+            {
+              "key": "Potential Impacts",
+              "value": "Loss of trade secrets or proprietary information, interruption of operational systems, damage to confidential information."
+            },
+            {
+              "key": "Causes of Cyber Incidents",
+              "value": "Disasters, insiders, malicious third parties using sophisticated methods."
+            },
+            {
+              "key": "Effects of COVID-19",
+              "value": "Increased risk of security breaches and cyberattacks due to more personnel working remotely."
+            },
+            {
+              "key": "Mitigation Measures",
+              "value": "Information technology measures, formal incident response plan."
+            },
+            {
+              "key": "Limitations of Protection",
+              "value": "No guarantee that measures will be adequate to prevent or mitigate incidents."
+            },
+            {
+              "key": "Risks of System Development",
+              "value": "Disruption of data management, procurement, production execution, etc."
+            },
+            {
+              "key": "Vendor Risks",
+              "value": "Reliance on third-party service providers for data integrity."
+            },
+            {
+              "key": "Insurance Coverage",
+              "value": "Insurance may not cover losses from cyber incidents."
+            },
+            {
+              "key": "Overall Impact",
+              "value": "Significant adverse effects on business, financial condition, and operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 32,
+          "title": "Tax Law Changes and Risks Due to Ownership Change",
+          "data": [
+            {
+              "key": "Ownership Change Definition",
+              "value": "A greater than 50 percentage point change in equity ownership"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 40,
+          "title": "Intellectual Property Rights Risks",
+          "data": [
+            {
+              "key": "Content Description",
+              "value": "The company may face risks associated with its intellectual property rights applications and protection. There is uncertainty regarding patent applications, including whether they will be granted, the scope of protection, and potential challenges from competitors."
+            },
+            {
+              "key": "Potential Impact",
+              "value": "Inability to prevent competitors from exploiting similar technologies may adversely affect business, financial condition, and results of operations."
+            },
+            {
+              "key": "Protection Measures",
+              "value": "The company relies on proprietary technology, trade secrets, and contractual measures to protect sensitive information, but faces risks of unauthorized disclosure and challenges in enforcing rights."
+            },
+            {
+              "key": "Litigation Risks",
+              "value": "Costly litigation may arise to enforce proprietary rights, with a possibility of failure to maintain adequate protection for proprietary information."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 46,
+          "title": "Future resales of common stock and market price volatility",
+          "data": [
+            {
+              "key": "Lock-Up Parties",
+              "value": "Parties who held stock and/or equity awards in Legacy Aurora prior to the Merger (Lock-Up Parties)"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 3,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Item 1A",
+              "value": "Risk Factors."
+            },
+            {
+              "key": "Item 1B",
+              "value": "Unresolved Staff Comments."
+            },
+            {
+              "key": "Item 2",
+              "value": "Properties."
+            },
+            {
+              "key": "Item 3",
+              "value": "Legal Proceedings."
+            },
+            {
+              "key": "Item 4",
+              "value": "Mine Safety Disclosures."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 3,
+          "title": "Part II Contents",
+          "data": [
+            {
+              "key": "m 5",
+              "value": "Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities."
+            },
+            {
+              "key": "m 6",
+              "value": "Reserved."
+            },
+            {
+              "key": "m 7",
+              "value": "Management's Discussion and Analysis of Financial Condition and Results of Operations."
+            },
+            {
+              "key": "m 7A",
+              "value": "Quantitative and Qualitative Disclosures About Market Risk."
+            },
+            {
+              "key": "m 8",
+              "value": "Financial Statements and Supplementary Data."
+            },
+            {
+              "key": "m 9",
+              "value": "Changes in and Disagreements With Accountants on Accounting and Financial Disclosure."
+            },
+            {
+              "key": "m 9A",
+              "value": "Controls and Procedures."
+            },
+            {
+              "key": "m 9B",
+              "value": "Other Information."
+            },
+            {
+              "key": "m 9C",
+              "value": "Disclosure Regarding Foreign Jurisdictions that Prevent Inspections."
+            },
+            {
+              "key": "",
+              "value": "PART III"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 17,
+          "title": "Corporate Information and Available Information",
+          "data": [
+            {
+              "key": "Principal Executive Offices",
+              "value": "1654 Smallman St, Pittsburgh, Pennsylvania 15222"
+            },
+            {
+              "key": "Transfer Agent",
+              "value": "American Stock Transfer & Trust Company"
+            },
+            {
+              "key": "Transfer Agent Address",
+              "value": "6201 15th Avenue, Brooklyn, New York 11219"
+            },
+            {
+              "key": "Transfer Agent Telephone",
+              "value": "(800) 937-5449"
+            },
+            {
+              "key": "Annual Report Website",
+              "value": "www.aurora.tech"
+            },
+            {
+              "key": "SEC Filing Information",
+              "value": "Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K"
+            },
+            {
+              "key": "SEC Internet Site",
+              "value": "www.sec.gov"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 22,
+          "title": "Disclosure of Progress and Performance Metrics",
+          "data": [
+            {
+              "key": "Autonomy Readiness Measure",
+              "value": "A measure of the company's progress toward the commercial launch of Aurora Horizon."
+            },
+            {
+              "key": "Use of Management Judgment",
+              "value": "Management judgment is used to apply weighting to evidence supporting the Safety Case."
+            },
+            {
+              "key": "Challenges in Calculation",
+              "value": "Heuristic challenges in calculating the Autonomy Readiness Measure and the Autonomy Performance Indicator."
+            },
+            {
+              "key": "Commercial Launch Timing",
+              "value": "Possible delays in the timing of commercial launch due to inaccuracies in metrics."
+            },
+            {
+              "key": "Market Competition",
+              "value": "Highly competitive market, with multiple companies investing in self-driving technology."
+            },
+            {
+              "key": "Competitors",
+              "value": "Waymo, GM Cruise, TuSimple, Tesla, Zoox/Amazon, Apple, Motional, Pony.ai, Intel Mobileye, and Embark."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 23,
+          "title": "Market Acceptance and Commercialization of Self-Driving Technology",
+          "data": [
+            {
+              "key": "risk_factor",
+              "value": "Our competitors may commercialize their technology before we do, impacting our financial performance."
+            },
+            {
+              "key": "public_acceptance",
+              "value": "Self-driving technology may not be accepted by the market at the expected pace."
+            },
+            {
+              "key": "market_conditions",
+              "value": "Adverse publicity could decrease customer demand."
+            },
+            {
+              "key": "investment_strategy",
+              "value": "Our business model may become less capital intensive as we transition to the Driver as a Service model."
+            },
+            {
+              "key": "operational_challenges",
+              "value": "Delays in transition to third-party ownership may require additional capital investments."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 25,
+          "title": "Risks Related to Our Business Operations",
+          "data": [
+            {
+              "key": "Equity dilution risk",
+              "value": "Future capital needs may require us to sell additional equity or debt securities, diluting stockholders."
+            },
+            {
+              "key": "Recruitment challenges",
+              "value": "Inability to recruit, develop and retain qualified employees may result in high turnover and increased wage costs."
+            },
+            {
+              "key": "Capital raising uncertainties",
+              "value": "Expectations to seek equity or debt financing for future expenditures, which may be delayed or unavailable."
+            },
+            {
+              "key": "Management of growth",
+              "value": "Challenges in managing growth and expanding operations may impact operational and financial controls."
+            },
+            {
+              "key": "Compliance improvements",
+              "value": "Ongoing efforts to strengthen compliance programs related to export controls, privacy, cybersecurity, and anti-corruption."
+            },
+            {
+              "key": "Estimates and assumptions",
+              "value": "Projections rely on assumptions which may prove incorrect, affecting financial metrics and results."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 31,
+          "title": "Internal Controls and Tax Liabilities",
+          "data": [
+            {
+              "key": "Main Concern",
+              "value": "Inadequate internal control over financial reporting may result in inaccurate financial results."
+            },
+            {
+              "key": "Management Responsibilities",
+              "value": "Management must establish and maintain adequate internal control over financial reporting."
+            },
+            {
+              "key": "Material Weakness Definition",
+              "value": "A deficiency in internal control such that there is a reasonable possibility of material misstatement."
+            },
+            {
+              "key": "Impact of Material Weakness",
+              "value": "Could limit ability to prevent or detect misstatements and affect confidence in financial reporting."
+            },
+            {
+              "key": "Future Tax Liabilities",
+              "value": "Adverse outcomes from audits, changes in tax laws, or changes in effective tax rates could affect financial condition."
+            },
+            {
+              "key": "Net Operating Loss Carryforwards",
+              "value": "Estimated U.S. federal and state net operating loss carryforwards of $1,166 million and $1,116 million, respectively."
+            },
+            {
+              "key": "Expiration of Carryforwards",
+              "value": "Federal losses begin to expire in 2036 and state losses in 2029."
+            },
+            {
+              "key": "Valuation Allowance",
+              "value": "Established against the carrying value of deferred tax assets."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 42,
+          "title": "Management and Regulatory Risks Related to Public Company Operations",
+          "data": [
+            {
+              "key": "Limited Experience in Public Company Management",
+              "value": "Our management team has limited experience in operating a public company."
+            },
+            {
+              "key": "Regulatory Oversight",
+              "value": "Our management team may not successfully manage the transition to a public company subject to significant regulatory oversight."
+            },
+            {
+              "key": "Costs of Compliance",
+              "value": "Costs greater than expected may be required to implement necessary accounting standards for public companies."
+            },
+            {
+              "key": "Employee Expansion",
+              "value": "Possible requirement to expand the employee base to support operations as a public company."
+            },
+            {
+              "key": "Public Warrants Amendment",
+              "value": "Terms may be amended adversely to holders of public warrants if approved by at least 50% of holders."
+            },
+            {
+              "key": "Sarbanes-Oxley Act Compliance",
+              "value": "Failure to meet requirements could materially affect business, particularly regarding internal controls."
+            },
+            {
+              "key": "Operational Improvements Needed",
+              "value": "To manage growth, operational and financial systems and controls must improve."
+            },
+            {
+              "key": "Risk to Investor Confidence",
+              "value": "Inability to meet compliance increases risk of adverse regulatory consequences and affects investor confidence."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 45,
+          "title": "Claims for Indemnification and Dividend Policy",
+          "data": [
+            {
+              "key": "Indemnification Provisions",
+              "value": "Directors and officers are indemnified to the fullest extent permitted by Delaware law."
+            },
+            {
+              "key": "Advancement of Expenses",
+              "value": "The company will advance expenses incurred by directors and officers."
+            },
+            {
+              "key": "Limitation on Indemnification",
+              "value": "Not obligated to indemnify persons who initiate proceedings against the company."
+            },
+            {
+              "key": "Dividend Policy",
+              "value": "Company does not intend to pay dividends for the foreseeable future."
+            },
+            {
+              "key": "Securities Litigation Risk",
+              "value": "Potential for expensive litigation that may divert management attention."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 47,
+          "title": "Market Conditions and Risks",
+          "data": [
+            {
+              "key": "Factors Impacting Stock Prices",
+              "value": "Public reactions to press releases and public announcements, actions by stockholders, performance of similar companies, commencement of litigation, disruptions in financial markets, speculation in the press, accounting problems, economic and political conditions."
+            },
+            {
+              "key": "Impact of Economic Conditions",
+              "value": "Economic situations such as recessions and fluctuations in interest rates can adversely affect stock prices."
+            },
+            {
+              "key": "Legal Risks",
+              "value": "Securities class-action litigation may occur following periods of volatility in stock prices."
+            },
+            {
+              "key": "Dual Class Structure",
+              "value": "Concentration of voting control with the Aurora Founders may limit stockholders' influence on corporate matters."
+            },
+            {
+              "key": "Class B Stock Conversion",
+              "value": "Future transfers of Class B common stock may convert to Class A except in certain estate planning or charitable situations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 48,
+          "title": "Warrants and Dual-Class Structure Impact",
+          "data": [
+            {
+              "key": "Impact of Dual-Class Structure",
+              "value": "Potential exclusion from indices may affect stock price."
+            },
+            {
+              "key": "Warrants Outstanding",
+              "value": "21 million shares of Class A common stock."
+            },
+            {
+              "key": "Public Warrants",
+              "value": "12 million."
+            },
+            {
+              "key": "Private Placement Warrants",
+              "value": "9 million."
+            },
+            {
+              "key": "Warrant Exercise Price",
+              "value": "$11.50."
+            },
+            {
+              "key": "Expiration of Warrants",
+              "value": "November 3, 2026."
+            },
+            {
+              "key": "Redemption of Warrants Condition",
+              "value": "Sales price must equal or exceed $18 for 20 days."
+            },
+            {
+              "key": "Risk of Redemption",
+              "value": "Could disadvantage warrant holders."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 50,
+          "title": "Properties and Legal Proceedings",
+          "data": [
+            {
+              "key": "Corporate Headquarters Location",
+              "value": "Pittsburgh, Pennsylvania"
+            },
+            {
+              "key": "Leased Office and Industrial Space",
+              "value": "Approximately 590,000 square feet"
+            },
+            {
+              "key": "Lease Expiry Dates",
+              "value": "2023 to 2035"
+            },
+            {
+              "key": "Test Track Facility Location",
+              "value": "Pittsburgh, Pennsylvania"
+            },
+            {
+              "key": "Test Track Facility Size",
+              "value": "Approximately 42 acres"
+            },
+            {
+              "key": "Test Track Lease Expiry",
+              "value": "2024"
+            },
+            {
+              "key": "Other Locations of Leased Facilities",
+              "value": "Mountain View, California; San Francisco, California; Bozeman, Montana; Dallas/Fort Worth, Texas; El Paso, Texas; Houston, Texas; Seattle, Washington; Livonia, Michigan; Louisville, Colorado"
+            },
+            {
+              "key": "Facilities Suitability",
+              "value": "Adequate and suitable for current needs"
+            },
+            {
+              "key": "Legal Proceedings Status",
+              "value": "Subject to various claims, lawsuits, and legal proceedings"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 53,
+          "title": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "This section covers Aurora's financial condition and operational results discussion."
+            },
+            {
+              "key": "Future Projections",
+              "value": "Includes forward-looking statements based on estimates and risks."
+            },
+            {
+              "key": "Business Model",
+              "value": "Aurora plans to commercialize the Aurora Driver primarily through a Driver as a Service (DaaS) model."
+            },
+            {
+              "key": "Products",
+              "value": "Key products include Aurora Horizon (driverless trucking) and Aurora Connect (driverless ride-hailing)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 59,
+          "title": "Quantitative and Qualitative Disclosures About Market Risk",
+          "data": [
+            {
+              "key": "Emerging Growth Company Status",
+              "value": "Section 102(b)(1) of the JOBS Act exempts emerging growth companies from being required to comply with new or revised financial accounting standards until private companies are required to comply with the new or revised financial accounting standards."
+            },
+            {
+              "key": "Election to Not Take Advantage of Extended Transition Period",
+              "value": "Companies can elect not to take advantage of the extended transition period."
+            },
+            {
+              "key": "Interest Rate Risk",
+              "value": "Results of operations are exposed to changes in interest rates."
+            },
+            {
+              "key": "Inflation Risk",
+              "value": "Inflation has not had a material effect on operations unless costs are exposed to inflationary pressures."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 68,
+          "title": "Fair Value Measurements",
+          "data": [
+            {
+              "key": "Definition of Fair Value",
+              "value": "Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date."
+            },
+            {
+              "key": "Fair Value Hierarchy",
+              "value": "The three levels of the fair value hierarchy are Level 1 (Observable inputs), Level 2 (Observable inputs other than Level 1 prices), Level 3 (Unobservable inputs)."
+            },
+            {
+              "key": "Primary Financial Instruments",
+              "value": "Primary financial instruments include cash, cash equivalents, restricted cash, short-term investments, accounts payable, accrued liabilities, and derivative liabilities."
+            },
+            {
+              "key": "Property and Equipment Depreciation",
+              "value": "Depreciated using the straight-line method over twenty years for buildings; up to seven years for leasehold improvements; three to five years for other assets."
+            },
+            {
+              "key": "Lease Accounting",
+              "value": "Operating leases recognized unless lease term is 12 months or less, which are recognized as short-term leases."
+            },
+            {
+              "key": "Business Combinations",
+              "value": "Allocation of purchase consideration based on estimated fair values; surplus recorded as goodwill."
+            },
+            {
+              "key": "Impairment Evaluation",
+              "value": "Goodwill evaluated for impairment annually on December 31, or when circumstances indicate it may not be recoverable."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 69,
+          "title": "Long-lived assets and impairment testing",
+          "data": [
+            {
+              "key": "Impairment testing",
+              "value": "Performed at the lowest level for which identifiable cash flows are largely independent."
+            },
+            {
+              "key": "Material impairment losses",
+              "value": "No material impairment losses were recognized on long-lived assets."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 69,
+          "title": "Research and Development Costs",
+          "data": [
+            {
+              "key": "R&D costs",
+              "value": "Expensed as incurred; consist of personnel costs, hardware engineering, cloud computing, etc."
+            },
+            {
+              "key": "Software development costs",
+              "value": "Not capitalized due to ongoing planning and testing."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 69,
+          "title": "Stock-based Compensation",
+          "data": [
+            {
+              "key": "Measurement method",
+              "value": "Fair value based method on grant date."
+            },
+            {
+              "key": "RSUs measurement",
+              "value": "Measured based on fair value of publicly traded common stock."
+            },
+            {
+              "key": "Stock options measurement",
+              "value": "Measured using Black-Scholes option pricing model."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 69,
+          "title": "Income Taxes",
+          "data": [
+            {
+              "key": "Accounting method",
+              "value": "Asset-and-liability method."
+            },
+            {
+              "key": "Deferred tax assets",
+              "value": "Recognized based on temporary differences."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 69,
+          "title": "Commitments and Contingencies",
+          "data": [
+            {
+              "key": "Liabilities for contingencies",
+              "value": "Recorded when probable that a liability has been incurred."
+            },
+            {
+              "key": "Legal costs",
+              "value": "Expensed as incurred."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 78,
+          "title": "Public and Private Placement Warrants",
+          "data": [
+            {
+              "key": "Public warrants outstanding",
+              "value": "12 million as of December 31, 2022 and 2021"
+            },
+            {
+              "key": "Private placement warrants outstanding",
+              "value": "9 million as of December 31, 2022 and 2021"
+            },
+            {
+              "key": "Reference Value",
+              "value": "Exceeds $10 or $18 per share for redemption terms"
+            },
+            {
+              "key": "Earnout shares vesting conditions",
+              "value": "2 million shares vest based on volume-weighted average price thresholds at intervals of 2, 3, and 4 years after merger"
+            },
+            {
+              "key": "Estimated fair value of earnout shares liability",
+              "value": "$1 million and $52 million at December 31, 2022 and 2021, respectively"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 79,
+          "title": "Operating Lease Payment Schedule",
+          "data": [
+            {
+              "key": "Operating leases",
+              "value": ""
+            },
+            {
+              "key": "December 31,",
+              "value": ""
+            },
+            {
+              "key": "year ending 2023",
+              "value": ""
+            },
+            {
+              "key": "2024",
+              "value": "24"
+            },
+            {
+              "key": "2025",
+              "value": "24"
+            },
+            {
+              "key": "2026",
+              "value": "21"
+            },
+            {
+              "key": "2027",
+              "value": "18"
+            },
+            {
+              "key": "Thereafter",
+              "value": "74"
+            },
+            {
+              "key": "Total lease payments",
+              "value": "184"
+            },
+            {
+              "key": "Less: imputed interest",
+              "value": "(48)"
+            },
+            {
+              "key": "Total operating lease liabilities",
+              "value": ""
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 79,
+          "title": "Property and Equipment Summary",
+          "data": [
+            {
+              "key": "Land",
+              "value": "14"
+            },
+            {
+              "key": "Buildings and Leasehold improvements",
+              "value": "70"
+            },
+            {
+              "key": "Equipment",
+              "value": "24"
+            },
+            {
+              "key": "Vehicles",
+              "value": "7"
+            },
+            {
+              "key": "Other",
+              "value": "15"
+            },
+            {
+              "key": "Subtotal",
+              "value": "130"
+            },
+            {
+              "key": "Less accumulated depreciation and amortization",
+              "value": "-39"
+            },
+            {
+              "key": "Total property and equipment, net",
+              "value": "91"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 79,
+          "title": "Accrued Expenses and Other Current Liabilities Comparison",
+          "data": [
+            {
+              "key": "Accrued compensation",
+              "value": "52"
+            },
+            {
+              "key": "Other accrued expenses",
+              "value": "18"
+            },
+            {
+              "key": "Total accrued expenses and other current liabilities",
+              "value": "70"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 82,
+          "title": "Purchase Obligations by Year",
+          "data": [
+            {
+              "key": "2023",
+              "value": "61"
+            },
+            {
+              "key": "2024",
+              "value": "61"
+            },
+            {
+              "key": "2025",
+              "value": "64"
+            },
+            {
+              "key": "2026",
+              "value": "38"
+            },
+            {
+              "key": "Thereafter",
+              "value": "null"
+            },
+            {
+              "key": "Total",
+              "value": "224"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 83,
+          "title": "Management’s Report on Internal Control over Financial Reporting",
+          "data": [
+            {
+              "key": "Evaluation Date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Effectiveness of Disclosure Controls",
+              "value": "Effective"
+            },
+            {
+              "key": "Control Limitations",
+              "value": "No absolute assurance of control effectiveness"
+            },
+            {
+              "key": "Change in Internal Control",
+              "value": "No changes that materially affected internal control"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 87,
+          "title": "Table of Contents Incorporated by reference",
+          "data": [
+            {
+              "key": "chibit No.",
+              "value": "11.SCH"
+            },
+            {
+              "key": "Description",
+              "value": "Inline XBRL Taxonomy Extension Schema Document"
+            },
+            {
+              "key": "Herewith",
+              "value": "x"
+            },
+            {
+              "key": "chibit No.",
+              "value": "1.CAL"
+            },
+            {
+              "key": "Description",
+              "value": "Inline XBRL Taxonomy Extension Calculation Linkbase Document"
+            },
+            {
+              "key": "Herewith",
+              "value": "x"
+            },
+            {
+              "key": "chibit No.",
+              "value": "1. DEF"
+            },
+            {
+              "key": "Description",
+              "value": "Inline XBRL Taxonomy Extension Definition Linkbase Document"
+            },
+            {
+              "key": "Herewith",
+              "value": "x"
+            },
+            {
+              "key": "chibit No.",
+              "value": "1.LAB"
+            },
+            {
+              "key": "Description",
+              "value": "Inline XBRL Taxonomy Extension Label Linkbase Document"
+            },
+            {
+              "key": "Herewith",
+              "value": "x"
+            },
+            {
+              "key": "chibit No.",
+              "value": "1.PRE"
+            },
+            {
+              "key": "Description",
+              "value": "Inline XBRL Taxonomy Extension Presentation Linkbase Document"
+            },
+            {
+              "key": "Herewith",
+              "value": "x"
+            },
+            {
+              "key": "chibit No.",
+              "value": "4"
+            },
+            {
+              "key": "Description",
+              "value": "Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)"
+            },
+            {
+              "key": "Herewith",
+              "value": "x"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 100,
+          "title": "Amendment of Certificate of Incorporation and Bylaws Provisions",
+          "data": [
+            {
+              "key": "Amendment Requirement",
+              "value": "Requires approval of at least two-thirds of the outstanding voting power of common stock."
+            },
+            {
+              "key": "Bylaws Approval",
+              "value": "Approval of stockholders holding at least two-thirds of voting power is required for amendments."
+            },
+            {
+              "key": "Issuance of Undesignated Preferred Stock",
+              "value": "Board has authority to issue up to 1,000,000,000 shares of undesignated preferred stock."
+            },
+            {
+              "key": "Exclusive Forum Provision",
+              "value": "Court of Chancery of the State of Delaware is the exclusive forum for certain actions."
+            },
+            {
+              "key": "Limitations of Liability",
+              "value": "Directors have limited liability for monetary damages to the extent permitted by law."
+            },
+            {
+              "key": "Amendment Effects",
+              "value": "Amendments will not reduce the effect of prior actions or claims."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 101,
+          "title": "Indemnification Provisions",
+          "data": [
+            {
+              "key": "indemnification",
+              "value": "The Bylaws provide that we will indemnify directors and officers against liabilities."
+            },
+            {
+              "key": "advance_expenses",
+              "value": "The company must advance expenses incurred by directors and officers."
+            },
+            {
+              "key": "indemnification_agreements",
+              "value": "Indemnification agreements entered with directors and executive officers contain broader provisions."
+            },
+            {
+              "key": "litigation_status",
+              "value": "Currently, there are no pending litigation or proceedings for indemnification."
+            },
+            {
+              "key": "insurance_policies",
+              "value": "Insurance policies are obtained to cover directors and executive officers against loss arising from claims."
+            },
+            {
+              "key": "transfer_agent",
+              "value": "American Stock Transfer & Trust Company serves as the transfer agent and registrar."
+            },
+            {
+              "key": "stock_listing",
+              "value": "Class A Common Stock and warrants are listed under Nasdaq symbols \"AUR\" and \"AUROW\"."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 15,
+          "title": "Government Regulation",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "U.S. provides a positive regulatory environment to permit safe testing and development of autonomous vehicle functionality."
+            },
+            {
+              "key": "Key Partners",
+              "value": "Aurora's Government Relations team engages with government partners to develop necessary regulations."
+            },
+            {
+              "key": "Bipartisan Support",
+              "value": "Aurora has developed bipartisan support for self-driving technology in both chambers of Congress."
+            },
+            {
+              "key": "Regulatory Authorities",
+              "value": "Regulated by NHTSA, FMCSA, state and local transportation agencies."
+            },
+            {
+              "key": "Federal Framework",
+              "value": "No near-term federal standards anticipated to impede deployments."
+            },
+            {
+              "key": "State Regulations",
+              "value": "States like Arizona, Florida, Nevada, Pennsylvania, and Texas are welcoming for self-driving companies."
+            },
+            {
+              "key": "California Regulations",
+              "value": "California has operational requirements that may impose restrictions."
+            },
+            {
+              "key": "International Standards",
+              "value": "Similar requirements are being developed in foreign markets such as the EU."
+            },
+            {
+              "key": "FDA Compliance",
+              "value": "Subject to Electronic Product Radiation Control Provisions and enforced by the FDA."
+            },
+            {
+              "key": "Occupational Health Regulations",
+              "value": "Comply with the federal Occupational Safety and Health Act and comparable state laws."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 29,
+          "title": "Unauthorized Control or Manipulation of Autonomous Vehicles",
+          "data": [
+            {
+              "key": "Risk Description",
+              "value": "Unauthorized control or manipulation of systems in autonomous vehicles may cause them to operate improperly, impacting safety and data security."
+            },
+            {
+              "key": "Impact on Business",
+              "value": "Could result in loss of confidence in products, harm to business reputation, and financial consequences."
+            },
+            {
+              "key": "Security Measures",
+              "value": "Implementing security measures to prevent unauthorized access to information technology networks and systems in vehicles."
+            },
+            {
+              "key": "Regulatory Compliance Risks",
+              "value": "Failures to comply with privacy and data protection laws may adversely affect operations and subject the company to penalties."
+            },
+            {
+              "key": "Relevant Legislation",
+              "value": "General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), and similar laws in other jurisdictions."
+            },
+            {
+              "key": "Evolving Legal Landscape",
+              "value": "Rapidly changing laws and regulations surrounding data privacy and protection could impact business operations."
+            },
+            {
+              "key": "Cybersecurity Threats",
+              "value": "Risk of cyber-attacks or unauthorized access to technology and data by hackers or third parties."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 30,
+          "title": "Regulatory and Litigation Risks Related to Compliance Measures and Insurance Coverage",
+          "data": [
+            {
+              "key": "Compliance Challenges",
+              "value": "The evolving privacy and data security regimes may require updates or enhancements to compliance measures."
+            },
+            {
+              "key": "Potential Costs",
+              "value": "Implementation costs for modifying practices related to data storage, data use, etc."
+            },
+            {
+              "key": "Liability Risks",
+              "value": "Failure to comply with data protection and information security obligations could result in significant liability and costs."
+            },
+            {
+              "key": "Operational Impact",
+              "value": "Non-compliance may disrupt business relationships and decrease revenue."
+            },
+            {
+              "key": "Insurance Coverage",
+              "value": "Future insurance coverage may not be adequate or may be prohibitively expensive."
+            },
+            {
+              "key": "Industry Risk",
+              "value": "Operating in a risky industry may limit insurance availability on reasonable terms."
+            },
+            {
+              "key": "Economic Factors",
+              "value": "Economic crises can adversely affect demand for technology and capital raising."
+            },
+            {
+              "key": "Financial Instruments",
+              "value": "Changes in fair value of financial instruments may materially affect financial results."
+            },
+            {
+              "key": "Impact on Securities",
+              "value": "Fluctuations in fair value could adversely affect the market price of securities."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 34,
+          "title": "Regulatory Compliance and Business Impact",
+          "data": [
+            {
+              "key": "Regulatory Patchwork",
+              "value": "Future self-driving regulations may vary across jurisdictions, leading to differing regulations that could hinder commercial deployment of technology."
+            },
+            {
+              "key": "E-commerce Regulations",
+              "value": "Subject to laws related to privacy, personal information, tax, and consumer protection which vary by jurisdiction."
+            },
+            {
+              "key": "Export Control Laws",
+              "value": "Compliance with U.S. Export Administration Regulations and trade sanctions is critical to avoid financial penalties."
+            },
+            {
+              "key": "Possible Consequences of Non-compliance",
+              "value": "Civil or criminal penalties, loss of export privileges, and negative media coverage."
+            },
+            {
+              "key": "Recent U.S. Government Controls",
+              "value": "New restrictions on semiconductor technology exports to China could impact business and sourcing."
+            },
+            {
+              "key": "Import Regulations",
+              "value": "Various countries regulate encryption technology imports, affecting product distribution."
+            },
+            {
+              "key": "Potential Operational Delays",
+              "value": "Changes in regulations could disrupt market introduction and reduce product use."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 35,
+          "title": "Legal and Regulatory Proceedings",
+          "data": [
+            {
+              "key": "Introduction",
+              "value": "We may become involved in legal and regulatory proceedings and commercial or contractual disputes, which could have an adverse effect on our profitability and consolidated financial position."
+            },
+            {
+              "key": "Types of Disputes",
+              "value": "Disputes may include litigation, regulatory proceedings, contractual disputes, intellectual property rights infringement, government investigations, personal injury claims, and more."
+            },
+            {
+              "key": "Potential Consequences",
+              "value": "These disputes could require significant management time, involve substantial legal liability, or result in adverse regulatory outcomes."
+            },
+            {
+              "key": "Impact of Regulations",
+              "value": "Changes in global political, regulatory, and economic conditions could materially affect our business and financial condition."
+            },
+            {
+              "key": "Trade Policy Changes",
+              "value": "Recent changes in U.S. trade policies could adversely affect our business operations."
+            },
+            {
+              "key": "Compliance Requirements",
+              "value": "We must comply with numerous laws and governmental regulations concerning manufacturing and sale of products."
+            },
+            {
+              "key": "Risks of Non-Compliance",
+              "value": "Failure to adhere to regulations may subject us to litigation, loss of partners, or negative publicity."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 36,
+          "title": "Environmental Regulatory Compliance",
+          "data": [
+            {
+              "key": "Environmental Regulations",
+              "value": "We are subject to federal, state, local, and foreign laws relating to environmental protection."
+            },
+            {
+              "key": "Environmental Liability",
+              "value": "Liability under environmental laws may be strict, joint, and several."
+            },
+            {
+              "key": "Anti-corruption Laws",
+              "value": "We are subject to anti-corruption, anti-bribery, and anti-money laundering laws."
+            },
+            {
+              "key": "FCPA Compliance",
+              "value": "The FCPA prohibits corrupt practices by our employees and agents."
+            },
+            {
+              "key": "Legal Risks",
+              "value": "Non-compliance with these laws could lead to significant legal consequences."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 37,
+          "title": "Regulatory Compliance and Liability Risks",
+          "data": [
+            {
+              "key": "Document Context",
+              "value": "Our business may be adversely affected if our lidar technology fails to comply with the regulatory requirements under the Federal Food, Drug, and Cosmetic ACT or otherwise by the FDA."
+            },
+            {
+              "key": "Regulatory Risks",
+              "value": "Our lidar technology is subject to the Electronic Product Radiation Control Provisions."
+            },
+            {
+              "key": "Compliance Failure Consequences",
+              "value": "Failure to comply with FDA requirements could result in enforcement action, product recalls, or significant costs."
+            },
+            {
+              "key": "Product Liability Risks",
+              "value": "Self-driving technology may lead to accidents resulting in claims against us."
+            },
+            {
+              "key": "Intellectual Property Challenges",
+              "value": "Despite efforts to protect our intellectual property rights, enforcement may be costly and challenging."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 38,
+          "title": "Intellectual Property Rights and Litigation Risks",
+          "data": [
+            {
+              "key": "Protection of IP Rights",
+              "value": "Expensive and difficult, particularly internationally."
+            },
+            {
+              "key": "Patent Coverage",
+              "value": "Foundational in self-driving technology."
+            },
+            {
+              "key": "Risk of Imitation",
+              "value": "Unauthorized parties may attempt to copy or reverse engineer."
+            },
+            {
+              "key": "Litigation Necessity",
+              "value": "May be necessary to enforce or defend intellectual property rights."
+            },
+            {
+              "key": "Costs of Litigation",
+              "value": "Could result in substantial costs and resource diversion."
+            },
+            {
+              "key": "Impact of Adverse Outcomes",
+              "value": "May not obtain adequate remedies in litigation."
+            },
+            {
+              "key": "Competitor Resources",
+              "value": "Competitors may have greater resources to defend their rights."
+            },
+            {
+              "key": "Third-Party Claims",
+              "value": "Could provoke third parties to assert their rights against us."
+            },
+            {
+              "key": "Global Patent Protection",
+              "value": "Effective protection may not be available in every country."
+            },
+            {
+              "key": "Impact on Revenue",
+              "value": "Failure to protect rights could decrease revenue."
+            },
+            {
+              "key": "Indemnity Agreements",
+              "value": "Current agreements to defend partners against third-party claims."
+            },
+            {
+              "key": "Litigation Exposure",
+              "value": "Claims could adversely affect relationships with partners."
+            },
+            {
+              "key": "Insurance Coverage",
+              "value": "Do not carry insurance for infringement claims."
+            },
+            {
+              "key": "Future Implications",
+              "value": "Adverse outcomes could affect business operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 39,
+          "title": "Intellectual Property Rights Claims",
+          "data": [
+            {
+              "key": "Risks of IP claims",
+              "value": "Defense against intellectual property rights claims can be costly and time-consuming."
+            },
+            {
+              "key": "Potential Outcomes",
+              "value": "Loss of intellectual property rights could lead to substantial damages or injunctions."
+            },
+            {
+              "key": "Impact on Business",
+              "value": "Adverse IP claims could materially affect business, financial condition and operations."
+            },
+            {
+              "key": "Need for licenses",
+              "value": "Necessity to obtain licenses may lead to substantial costs."
+            },
+            {
+              "key": "Indemnification",
+              "value": "Rights to indemnification may not cover all costs in litigation."
+            },
+            {
+              "key": "Termination of licenses",
+              "value": "Loss of rights upon termination of license agreements could disrupt operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 41,
+          "title": "Risks Related to Ownership of Our Securities",
+          "data": [
+            {
+              "key": "Damages Claims",
+              "value": "We may be subject to damages resulting from claims related to trade secrets."
+            },
+            {
+              "key": "Litigation Necessity",
+              "value": "Litigation may be necessary to defend against claims regarding disclosure of trade secrets."
+            },
+            {
+              "key": "Effects of Litigation",
+              "value": "Litigation could result in substantial costs and management resource demands."
+            },
+            {
+              "key": "Open Source Risks",
+              "value": "Failure to comply with open-source software licenses may impact product commercialization."
+            },
+            {
+              "key": "Public Company Costs",
+              "value": "Increased expenses and administrative burdens due to public company requirements."
+            },
+            {
+              "key": "Regulatory Compliance",
+              "value": "Compliance with SEC and Sarbanes-Oxley Act increases costs and time consumption."
+            },
+            {
+              "key": "Board Committee Formation",
+              "value": "Creation of new board committees and internal control measures."
+            },
+            {
+              "key": "Insurance for Directors",
+              "value": "We have obtained director and officer liability insurance."
+            },
+            {
+              "key": "Impact on Business Expansion",
+              "value": "Increased costs may divert resources from business expansion."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 43,
+          "title": "Emerging Growth Company Exemptions",
+          "data": [
+            {
+              "key": "Definition",
+              "value": "An emerging growth company under the Securities Act of 1933."
+            },
+            {
+              "key": "Potential Impact on Securities",
+              "value": "Reliance on exemptions may make securities less attractive to investors."
+            },
+            {
+              "key": "Exemption Details",
+              "value": "Includes auditor attestation requirements and disclosure obligations."
+            },
+            {
+              "key": "Criteria for Ending Status",
+              "value": "1. Market value exceeds $700 million; 2. Annual gross revenue of $1.235 billion; 3. Issued more than $1 billion in non-convertible debt; 4. December 31, 2026."
+            },
+            {
+              "key": "Judicial Forum Designation",
+              "value": "State or federal courts in Delaware as exclusive forum for substantially all disputes."
+            },
+            {
+              "key": "Implications for Shareholders",
+              "value": "Limits ability to choose judicial forum, potentially affecting shareholders' rights."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 58,
+          "title": "Contractual Obligations, Commitments and Contingencies",
+          "data": [
+            {
+              "key": "Legal claims",
+              "value": "Aurora may be party to various claims within the normal course of business."
+            },
+            {
+              "key": "Legal fees treatment",
+              "value": "Legal fees and other costs associated with such actions are expensed as incurred."
+            },
+            {
+              "key": "Liability assessment",
+              "value": "We assess the need to record a liability for litigation and other loss contingencies."
+            },
+            {
+              "key": "Material losses 2022",
+              "value": "No material losses were recorded in the twelve months ended December 31, 2022."
+            },
+            {
+              "key": "Cloud hosting contract payments",
+              "value": "Non-cancelable future minimum payments total $61 million for 2023 and 2024, $64 million for 2025, and $38 million for 2026."
+            },
+            {
+              "key": "Critical Accounting Estimates",
+              "value": "Management's judgments, estimates, and assumptions impact reported revenue and expenses."
+            },
+            {
+              "key": "Goodwill impairment assessment",
+              "value": "In 2022, goodwill impairment assessments were performed after significant stock price decline."
+            },
+            {
+              "key": "Goodwill impairment amount",
+              "value": "The Company recognized a $1,114 million goodwill impairment during the twelve months ended December 31, 2022."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 93,
+          "title": "Redemption of warrants",
+          "data": [
+            {
+              "key": "Minimum Price for Redemption",
+              "value": "$18.00"
+            },
+            {
+              "key": "Redemption Price per Warrant",
+              "value": "$0.01"
+            },
+            {
+              "key": "Notice Period for Redemption",
+              "value": "30 days"
+            },
+            {
+              "key": "Reference Value Condition",
+              "value": "20 trading days within a 30-trading day period at $18.00"
+            },
+            {
+              "key": "Conditions for Redemption",
+              "value": "Registration statement must be effective, current prospectus available"
+            },
+            {
+              "key": "Redemption Notice",
+              "value": "Warrant holders can exercise warrants prior to redemption"
+            },
+            {
+              "key": "Secondary Redemption Price",
+              "value": "$10.00"
+            },
+            {
+              "key": "Secondary Redemption Price per Warrant",
+              "value": "$0.10"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 99,
+          "title": "Governance Structure and Stockholder Influence",
+          "data": [
+            {
+              "key": "Dual Class Stock Structure",
+              "value": "The company's Certificate of Incorporation provides for a dual class common stock structure that gives significant influence to Class B Common Stock holders."
+            },
+            {
+              "key": "Classified Board",
+              "value": "The Board is classified into three classes of directors, each serving a three-year term, affecting control transitions."
+            },
+            {
+              "key": "Filling Board Vacancies",
+              "value": "Only the board of directors can fill vacancies, preventing stockholders from easily gaining control."
+            },
+            {
+              "key": "Stockholder Actions",
+              "value": "Stockholders cannot take action by written consent; they must act at special or annual meetings."
+            },
+            {
+              "key": "Advance Notice Requirements",
+              "value": "Bylaws require advance notice for stockholder proposals and nominations, limiting last-minute actions."
+            },
+            {
+              "key": "No Cumulative Voting",
+              "value": "The Certificate of Incorporation does not allow cumulative voting as per Delaware law."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "supply_chain_disruption",
+          "page": 33,
+          "title": "Supply Chain Disruption Risks",
+          "data": [
+            {
+              "key": "Risk Summary",
+              "value": "Dependency on single or limited source suppliers; potential disruption in supply chain."
+            },
+            {
+              "key": "Components Affected",
+              "value": "GPU microchips, electronic control units, automotive radar sensors."
+            },
+            {
+              "key": "External Risk Factors",
+              "value": "COVID-19 pandemic, international trade wars, geopolitical conditions."
+            },
+            {
+              "key": "Potential Consequences",
+              "value": "Increased component prices, manufacturing disruptions, delays in product commercialization."
+            },
+            {
+              "key": "Regulatory Environment",
+              "value": "Inconsistent regulations may hinder technology commercialization."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 13,
+    "EUR": 4,
+    "AUD": 8,
+    "CAD": 2,
+    "ZAR": 5
+  },
+  "sha1": "13999998018cc53440310d94a26d1e8957e2277f"
+}

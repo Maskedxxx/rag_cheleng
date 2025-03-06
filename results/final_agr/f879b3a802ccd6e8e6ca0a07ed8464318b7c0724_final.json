@@ -1,0 +1,3261 @@
+{
+  "letters": 135611,
+  "pages": 62,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 6
+    },
+    "company_name": "Elixir Energy Limited",
+    "major_industry": "Energy and Utilities",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Merger Announcement",
+          "data": [
+            {
+              "key": "Company A",
+              "value": "ABC Corp"
+            },
+            {
+              "key": "Company B",
+              "value": "XYZ Inc"
+            },
+            {
+              "key": "Announcement Date",
+              "value": "2023-10-12"
+            },
+            {
+              "key": "Deal Value",
+              "value": "$500 million"
+            },
+            {
+              "key": "Expected Closing Date",
+              "value": "2024-01-15"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 2,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "section",
+              "value": "Corporate Directory"
+            },
+            {
+              "key": "section",
+              "value": "Chairman's Letter"
+            },
+            {
+              "key": "section",
+              "value": "Managing Director's Report"
+            },
+            {
+              "key": "section",
+              "value": "Operational Summary and Resource Statement"
+            },
+            {
+              "key": "section",
+              "value": "Environmental, Social and Governance"
+            },
+            {
+              "key": "section",
+              "value": "Directors' Report"
+            },
+            {
+              "key": "section",
+              "value": "Independent Auditor's Declaration"
+            },
+            {
+              "key": "section",
+              "value": "Independent Auditor's Report"
+            },
+            {
+              "key": "section",
+              "value": "Directors' Declaration"
+            },
+            {
+              "key": "section",
+              "value": "Corporate Governance Statement"
+            },
+            {
+              "key": "section",
+              "value": "Consolidated Statement of Profit or Loss and Other Comprehensive Income"
+            },
+            {
+              "key": "section",
+              "value": "Consolidated Statement of Financial Position"
+            },
+            {
+              "key": "section",
+              "value": "Consolidated Statement of Changes in Equity"
+            },
+            {
+              "key": "section",
+              "value": "Consolidated Statement of Cash Flows"
+            },
+            {
+              "key": "section",
+              "value": "Notes to the Consolidated Financial Statements"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 7,
+          "title": "Acquisition of ATP 2044 in Queensland",
+          "data": [
+            {
+              "key": "Asset",
+              "value": "100% interest in ATP 2044"
+            },
+            {
+              "key": "Location",
+              "value": "Queensland, Australia"
+            },
+            {
+              "key": "Potential Resources",
+              "value": "3 trillion cubic feet of gas and 75 million barrels of associated condensate"
+            },
+            {
+              "key": "Drilling Plans",
+              "value": "Coordination with neighbors' drilling plans"
+            },
+            {
+              "key": "Strategic Advantage",
+              "value": "Position to benefit from global energy market developments due to geopolitical events"
+            },
+            {
+              "key": "Year",
+              "value": "2023"
+            },
+            {
+              "key": "Managing Director",
+              "value": "Neil Young"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 14,
+          "title": "Directors' Meeting and Committee Attendance",
+          "data": [
+            {
+              "key": "Director",
+              "value": "R. Cottee"
+            },
+            {
+              "key": "Directors Meeting Eligible",
+              "value": "11"
+            },
+            {
+              "key": "Directors Meeting Attended",
+              "value": "10"
+            },
+            {
+              "key": "Committee Eligible",
+              "value": "2"
+            },
+            {
+              "key": "Committee Attended",
+              "value": "2"
+            },
+            {
+              "key": "Remuneration Committee Eligible",
+              "value": "1"
+            },
+            {
+              "key": "Remuneration Committee Attended",
+              "value": "1"
+            },
+            {
+              "key": "Risk Committee Eligible",
+              "value": "1"
+            },
+            {
+              "key": "Risk Committee Attended",
+              "value": "1"
+            },
+            {
+              "key": "Director",
+              "value": "N. Young"
+            },
+            {
+              "key": "Directors Meeting Eligible",
+              "value": "11"
+            },
+            {
+              "key": "Directors Meeting Attended",
+              "value": "11"
+            },
+            {
+              "key": "Committee Eligible",
+              "value": "2"
+            },
+            {
+              "key": "Committee Attended",
+              "value": "2"
+            },
+            {
+              "key": "Remuneration Committee Eligible",
+              "value": "1"
+            },
+            {
+              "key": "Remuneration Committee Attended",
+              "value": "1"
+            },
+            {
+              "key": "Risk Committee Eligible",
+              "value": "1"
+            },
+            {
+              "key": "Risk Committee Attended",
+              "value": "1"
+            },
+            {
+              "key": "Director",
+              "value": "S. Kelemen"
+            },
+            {
+              "key": "Directors Meeting Eligible",
+              "value": "1"
+            },
+            {
+              "key": "Directors Meeting Attended",
+              "value": "1"
+            },
+            {
+              "key": "Committee Eligible",
+              "value": "2"
+            },
+            {
+              "key": "Committee Attended",
+              "value": "2"
+            },
+            {
+              "key": "Remuneration Committee Eligible",
+              "value": "1"
+            },
+            {
+              "key": "Remuneration Committee Attended",
+              "value": "1"
+            },
+            {
+              "key": "Risk Committee Eligible",
+              "value": "1"
+            },
+            {
+              "key": "Risk Committee Attended",
+              "value": "1"
+            },
+            {
+              "key": "Director",
+              "value": "A. Sloboda"
+            },
+            {
+              "key": "Directors Meeting Eligible",
+              "value": "11"
+            },
+            {
+              "key": "Directors Meeting Attended",
+              "value": "11"
+            },
+            {
+              "key": "Committee Eligible",
+              "value": "2"
+            },
+            {
+              "key": "Committee Attended",
+              "value": "2"
+            },
+            {
+              "key": "Remuneration Committee Eligible",
+              "value": "N/A"
+            },
+            {
+              "key": "Remuneration Committee Attended",
+              "value": "N/A"
+            },
+            {
+              "key": "Risk Committee Eligible",
+              "value": "1"
+            },
+            {
+              "key": "Risk Committee Attended",
+              "value": "1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 47,
+          "title": "Joint Arrangements and Controlled Entities",
+          "data": [
+            {
+              "key": "Project Name",
+              "value": "Pompano Project"
+            },
+            {
+              "key": "Location",
+              "value": "446-L SE/4"
+            },
+            {
+              "key": "Type",
+              "value": "Oil & Gas"
+            },
+            {
+              "key": "Description",
+              "value": "field, production project"
+            },
+            {
+              "key": "Country",
+              "value": "USA"
+            },
+            {
+              "key": "Working Interest",
+              "value": "25%"
+            },
+            {
+              "key": "Net Revenue Interest",
+              "value": "25%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 48,
+          "title": "Financial Statement Summary",
+          "data": [
+            {
+              "key": "Revenue from continuing operations (Interest income)",
+              "value": "Current: 38926, Previous: 5796"
+            },
+            {
+              "key": "Share based remuneration",
+              "value": "Current: -466474, Previous: -118258"
+            },
+            {
+              "key": "New ventures Corporate administration",
+              "value": "Current: -1453007, Previous: -1017528"
+            },
+            {
+              "key": "Loss after income tax",
+              "value": "Current: -1880555, Previous: -1129990"
+            },
+            {
+              "key": "Accumulated losses at the end of the year",
+              "value": "Current: -77667151, Previous: -75786596"
+            },
+            {
+              "key": "Cash and cash equivalents",
+              "value": "Current: 22096738, Previous: 32158897"
+            },
+            {
+              "key": "Total assets",
+              "value": "Current: 40926937, Previous: 45326266"
+            },
+            {
+              "key": "Total liabilities",
+              "value": "Current: 1301052, Previous: 943558"
+            },
+            {
+              "key": "Net assets",
+              "value": "Current: 39625885, Previous: 44382708"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 60,
+          "title": "Additional Shareholder Information",
+          "data": [
+            {
+              "key": "Total Shares on Issue",
+              "value": "912,437,310"
+            },
+            {
+              "key": "Total Shareholders",
+              "value": "8,034"
+            },
+            {
+              "key": "Shareholders with less than marketable parcels",
+              "value": "1,153"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 60,
+          "title": "Top 20 holders of ORDINARY FULLY PAID SHARES",
+          "data": [
+            {
+              "key": "Largest Shareholder",
+              "value": "BNP PARIBAS NOMINEES PTY LTD"
+            },
+            {
+              "key": "Holders",
+              "value": "20"
+            },
+            {
+              "key": "Total Shares Held by Top 20 Shareholders",
+              "value": "195,793,026"
+            },
+            {
+              "key": "Percentage of Shares Held by Top 20 Shareholders",
+              "value": "21.46%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 60,
+          "title": "Distribution of Shareholder Numbers",
+          "data": [
+            {
+              "key": "Total Shareholders",
+              "value": "8,034"
+            },
+            {
+              "key": "Total Shares Held",
+              "value": "912,437,310"
+            },
+            {
+              "key": "Majority of Shares Held by Shareholders over 100,001 shares",
+              "value": "1,323"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "Corporate Directory Directors",
+          "data": [
+            {
+              "key": "Chairman",
+              "value": "Mr Neil Young"
+            },
+            {
+              "key": "Managing Director",
+              "value": "Mr Richard Cottee"
+            },
+            {
+              "key": "Non-Executive Directors",
+              "value": "Mr Stephen Kelemen, Ms Anna Sloboda"
+            },
+            {
+              "key": "Company Secretary",
+              "value": "Ms Victoria Allinson"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 4,
+          "title": "Chairman’s Letter",
+          "data": [
+            {
+              "key": "Chairman",
+              "value": "Mr Richard Cottee"
+            },
+            {
+              "key": "Acquisition",
+              "value": "Acquired 100% interest in acreage in Queensland (ATP 2044)"
+            },
+            {
+              "key": "Recognition",
+              "value": "Recognised by Mongolian Government as 'The Best Investor of 2021'"
+            },
+            {
+              "key": "Financial Status",
+              "value": "Over $20 million in the bank at year end"
+            },
+            {
+              "key": "Exploration Commitments",
+              "value": "Afford exploration commitments"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 11,
+          "title": "Board of Directors",
+          "data": [
+            {
+              "key": "Richard Cottee",
+              "value": "Non-Executive Chairman"
+            },
+            {
+              "key": "Neil Young",
+              "value": "Managing Director"
+            },
+            {
+              "key": "Stephen Kelemen",
+              "value": "Non-Executive Director"
+            },
+            {
+              "key": "Anna Sloboda",
+              "value": "Non-Executive Director"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 12,
+          "title": "Neil Young – Managing Director",
+          "data": [
+            {
+              "key": "Qualifications",
+              "value": "MA (Hons)"
+            },
+            {
+              "key": "Experience",
+              "value": "More than twenty years’ experience in senior management positions in the upstream and downstream sectors of the energy sector, focusing on business development, new ventures, gas marketing and general commercial functions."
+            },
+            {
+              "key": "Companies",
+              "value": "EY, Tarong Energy, Santos"
+            },
+            {
+              "key": "Founded",
+              "value": "Golden Horde Ltd (now a wholly owned subsidiary of Elixir) in 2011"
+            },
+            {
+              "key": "Interests in securities",
+              "value": "31,760,809 fully paid ordinary shares, 7,500,000 Performance Rights Class C expiring 14 December 2023, 6,000,000 New Performance Rights expiring 1 July 2023-2025"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 12,
+          "title": "Stephen Kelemen – Independent Non-Executive Director",
+          "data": [
+            {
+              "key": "Qualifications",
+              "value": "B.Eng"
+            },
+            {
+              "key": "Board Committees",
+              "value": "Chair of the Risk Committee, member of the Audit Committee and a member of the Remuneration Committee"
+            },
+            {
+              "key": "Experience",
+              "value": "Diverse petroleum industry experience across reservoir, development, operations and exploration activities in conventional petroleum, CSG and other unconventional resources."
+            },
+            {
+              "key": "Years in Industry",
+              "value": "~40 years"
+            },
+            {
+              "key": "Current roles",
+              "value": "Adjunct Professor at University of Queensland’s Centre for Natural Gas and Deputy Chair – Petroleum for Queensland Exploration Council"
+            },
+            {
+              "key": "Other current Directorships",
+              "value": "Galilee Energy Ltd (ASX: GLL)"
+            },
+            {
+              "key": "Interests in securities",
+              "value": "2,137,223 fully paid ordinary shares, 4,750,000 Incentive Options exercisable at $0.10 and expiring 29 September 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 13,
+          "title": "Leadership Changes",
+          "data": [
+            {
+              "key": "Current Non-Executive Director",
+              "value": "Anna Sloboda"
+            },
+            {
+              "key": "Qualifications",
+              "value": "MA Economics, MBA"
+            },
+            {
+              "key": "Board Committees",
+              "value": "Chair of the Audit Committee and a member of the Risk Committee"
+            },
+            {
+              "key": "Experience",
+              "value": "Over 20 years in corporate finance and developing junior resource companies"
+            },
+            {
+              "key": "Current Position",
+              "value": "Executive Director of Red Citadel Resources Pty Ltd"
+            },
+            {
+              "key": "Previous Positions",
+              "value": "Co-founder of Trans-Tasman Resources Ltd, Lehman Brothers, Clough Ltd, and Curtin University"
+            },
+            {
+              "key": "Securities Interests",
+              "value": "36,000 fully paid ordinary shares; 1,000,000 Incentive Options exercisable at $0.50 and expiring 27 October 2025"
+            },
+            {
+              "key": "Company Secretary",
+              "value": "Victoria Allinson (appointed 1 August 2019)"
+            },
+            {
+              "key": "Qualifications",
+              "value": "FCCA, AGIA"
+            },
+            {
+              "key": "Experience",
+              "value": "Over 30 years’ accounting and auditing experience, including senior roles in listed companies and an audit manager for Deloitte"
+            },
+            {
+              "key": "Current Position",
+              "value": "CFO and Company Secretary of Kangaroo Island Plantation Timbers Limited"
+            },
+            {
+              "key": "Previous Roles",
+              "value": "Company Secretary and CFO for various ASX and NSX listed companies"
+            },
+            {
+              "key": "Securities Interests",
+              "value": "600,000 New Performance Rights expiring 1 July 2023-2025"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 17,
+          "title": "Remuneration Report",
+          "data": [
+            {
+              "key": "Non-Executive Chairman",
+              "value": "Richard Cottee"
+            },
+            {
+              "key": "Managing Director",
+              "value": "Neil Young"
+            },
+            {
+              "key": "Non-Executive Director",
+              "value": "Stephen Kelemen"
+            },
+            {
+              "key": "Non-Executive Director",
+              "value": "Anna Sloboda"
+            },
+            {
+              "key": "Company Secretary",
+              "value": "Victoria Allinson"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 24,
+          "title": "Declaration of Independence by Andrew Tickle",
+          "data": [
+            {
+              "key": "Lead Auditor",
+              "value": "Andrew Tickle"
+            },
+            {
+              "key": "Company Name",
+              "value": "Elixir Energy Limited"
+            },
+            {
+              "key": "Period Ended",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Report Date",
+              "value": "27 September 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 28,
+          "title": "Directors’ Declaration",
+          "data": [
+            {
+              "key": "Compliance",
+              "value": "The financial statements comply with the Corporations Act 2001 and Accounting Standards."
+            },
+            {
+              "key": "Financial Position Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Managing Director",
+              "value": "Neil Young"
+            },
+            {
+              "key": "Location",
+              "value": "Adelaide, South Australia"
+            },
+            {
+              "key": "Declaration Date",
+              "value": "27 September 2022"
+            },
+            {
+              "key": "Compliance with IFRS",
+              "value": "The financial statements are presented in compliance with IFRS."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 29,
+          "title": "Corporate Governance Statement",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Elixir Energy Limited"
+            },
+            {
+              "key": "Statement Type",
+              "value": "Corporate Governance Statement"
+            },
+            {
+              "key": "Approval Date",
+              "value": "27 September 2022"
+            },
+            {
+              "key": "Effective From",
+              "value": "1 July 2021"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 16,
+          "title": "Share-based Payment Expense and Performance Rights",
+          "data": [
+            {
+              "key": "Performance Rights Issued",
+              "value": "10,200,000"
+            },
+            {
+              "key": "Recognised Share-based Payment Expense",
+              "value": "$355,049"
+            },
+            {
+              "key": "Total Performance Rights to Neil Young",
+              "value": "6,000,000"
+            },
+            {
+              "key": "Total Performance Rights to Victoria Allinson",
+              "value": "600,000"
+            },
+            {
+              "key": "Total Performance Rights to Non KMP",
+              "value": "3,600,000"
+            },
+            {
+              "key": "Recognised Expense Remaining",
+              "value": "$528,951"
+            },
+            {
+              "key": "Dividends Declared",
+              "value": "None"
+            },
+            {
+              "key": "Insurance Premium Paid for Directors and Officers",
+              "value": "$33,273"
+            },
+            {
+              "key": "Acquisition in August 2022",
+              "value": "100% interest in petroleum exploration permit ATP 2044 for $3,000,000 in shares, $500,000 cash, and 3% royalty."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 18,
+          "title": "Remuneration Structure",
+          "data": [
+            {
+              "key": "Maximum Aggregate Fees",
+              "value": "$500,000 per annum"
+            },
+            {
+              "key": "Non-Executive Chairman Fees (2021)",
+              "value": "$115,000 per annum"
+            },
+            {
+              "key": "Non-Executive Director Fees (2021)",
+              "value": "$70,000 per annum"
+            },
+            {
+              "key": "Short-term Incentive Payment to Managing Director",
+              "value": "$120,000 (2021: $75,000)"
+            },
+            {
+              "key": "Incentive Scheme Approval",
+              "value": "2020 Annual General Meeting"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 19,
+          "title": "2022 Executive Compensation and Benefits Summary",
+          "data": [
+            {
+              "key": "Total compensation for KMP",
+              "value": "$1,226,722"
+            },
+            {
+              "key": "Highest paid individual",
+              "value": "Neil Young (Executive Director) with total compensation of $822,077"
+            },
+            {
+              "key": "Bonus for Neil Young",
+              "value": "$120,000"
+            },
+            {
+              "key": "Performance-related compensation for Neil Young",
+              "value": "25%"
+            },
+            {
+              "key": "Performance-related compensation range",
+              "value": "0% to 63% for KMP"
+            },
+            {
+              "key": "Average performance-related compensation",
+              "value": "38% for all KMP"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 20,
+          "title": "2021 Key Management Personnel Remuneration",
+          "data": [
+            {
+              "key": "Total compensation",
+              "value": "$790,574"
+            },
+            {
+              "key": "Highest compensation",
+              "value": "$511,275 (Neil Young)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 20,
+          "title": "Employment Agreement Details",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Mr Neil Young"
+            },
+            {
+              "key": "Base salary including superannuation",
+              "value": "$450,000"
+            },
+            {
+              "key": "Notice period",
+              "value": "3 months"
+            },
+            {
+              "key": "Termination payment",
+              "value": "6 months"
+            },
+            {
+              "key": "Name",
+              "value": "Ms Victoria Allinson"
+            },
+            {
+              "key": "Notice period",
+              "value": "3 months"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 21,
+          "title": "Performance Rights Issues",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Richard Cottee"
+            },
+            {
+              "key": "Number of Rights Granted",
+              "value": "."
+            },
+            {
+              "key": "Grant Date",
+              "value": "."
+            },
+            {
+              "key": "Vesting Date",
+              "value": "."
+            },
+            {
+              "key": "Expiry Date",
+              "value": ""
+            },
+            {
+              "key": "Fair Value per Share",
+              "value": "-"
+            },
+            {
+              "key": "Value of Rights",
+              "value": "-"
+            },
+            {
+              "key": "Name",
+              "value": "Stephen Kelemen"
+            },
+            {
+              "key": "Number of Rights Granted",
+              "value": "."
+            },
+            {
+              "key": "Grant Date",
+              "value": "."
+            },
+            {
+              "key": "Vesting Date",
+              "value": "."
+            },
+            {
+              "key": "Expiry Date",
+              "value": ""
+            },
+            {
+              "key": "Fair Value per Share",
+              "value": "-"
+            },
+            {
+              "key": "Value of Rights",
+              "value": "-"
+            },
+            {
+              "key": "Name",
+              "value": "Anna Sloboda"
+            },
+            {
+              "key": "Number of Rights Granted",
+              "value": "."
+            },
+            {
+              "key": "Grant Date",
+              "value": "."
+            },
+            {
+              "key": "Vesting Date",
+              "value": "."
+            },
+            {
+              "key": "Expiry Date",
+              "value": ""
+            },
+            {
+              "key": "Fair Value per Share",
+              "value": "-"
+            },
+            {
+              "key": "Value of Rights",
+              "value": "-"
+            },
+            {
+              "key": "Name",
+              "value": "Neil Young"
+            },
+            {
+              "key": "Number of Rights Granted",
+              "value": "2,000,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "28-Oct-21"
+            },
+            {
+              "key": "Vesting Date",
+              "value": "30-Jun-23"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "1-Jul-23"
+            },
+            {
+              "key": "Fair Value per Share",
+              "value": "$0.26"
+            },
+            {
+              "key": "Value of Rights",
+              "value": "520,000"
+            },
+            {
+              "key": "Name",
+              "value": "Neil Young"
+            },
+            {
+              "key": "Number of Rights Granted",
+              "value": "2,000,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "28-Oct-21"
+            },
+            {
+              "key": "Vesting Date",
+              "value": "30-Jun-24"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "1-Jul-24"
+            },
+            {
+              "key": "Fair Value per Share",
+              "value": "$0.26"
+            },
+            {
+              "key": "Value of Rights",
+              "value": "520,000"
+            },
+            {
+              "key": "Name",
+              "value": "Neil Young"
+            },
+            {
+              "key": "Number of Rights Granted",
+              "value": "2,000,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "28-Oct-21"
+            },
+            {
+              "key": "Vesting Date",
+              "value": "30-Jun-25"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "1-Jul-25"
+            },
+            {
+              "key": "Fair Value per Share",
+              "value": "$0.26"
+            },
+            {
+              "key": "Value of Rights",
+              "value": "520,000"
+            },
+            {
+              "key": "Name",
+              "value": "Victoria Allinson"
+            },
+            {
+              "key": "Number of Rights Granted",
+              "value": "200,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "28-Oct-21"
+            },
+            {
+              "key": "Vesting Date",
+              "value": "30-Jun-23"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "1-Jul-23"
+            },
+            {
+              "key": "Fair Value per Share",
+              "value": "$0.26"
+            },
+            {
+              "key": "Value of Rights",
+              "value": "52,000"
+            },
+            {
+              "key": "Name",
+              "value": "Victoria Allinson"
+            },
+            {
+              "key": "Number of Rights Granted",
+              "value": "200,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "28-Oct-21"
+            },
+            {
+              "key": "Vesting Date",
+              "value": "30-Jun-24"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "1-Jul-24"
+            },
+            {
+              "key": "Fair Value per Share",
+              "value": "$0.26"
+            },
+            {
+              "key": "Value of Rights",
+              "value": "52,000"
+            },
+            {
+              "key": "Name",
+              "value": "Victoria Allinson"
+            },
+            {
+              "key": "Number of Rights Granted",
+              "value": "200,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "28-Oct-21"
+            },
+            {
+              "key": "Vesting Date",
+              "value": "30-Jun-25"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "1-Jul-25"
+            },
+            {
+              "key": "Fair Value per Share",
+              "value": "$0.26"
+            },
+            {
+              "key": "Value of Rights",
+              "value": "52,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 21,
+          "title": "Options Granted",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Richard Cottee"
+            },
+            {
+              "key": "Number of Options Granted",
+              "value": "-"
+            },
+            {
+              "key": "Grant Date",
+              "value": "-"
+            },
+            {
+              "key": "Vesting Date",
+              "value": "-"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "-"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "-"
+            },
+            {
+              "key": "Fair Value per Option at Grant Date",
+              "value": "-"
+            },
+            {
+              "key": "Value of Options Granted",
+              "value": "-"
+            },
+            {
+              "key": "Name",
+              "value": "Stephen Kelemen"
+            },
+            {
+              "key": "Number of Options Granted",
+              "value": "-"
+            },
+            {
+              "key": "Grant Date",
+              "value": "-"
+            },
+            {
+              "key": "Vesting Date",
+              "value": "-"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "-"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "-"
+            },
+            {
+              "key": "Fair Value per Option at Grant Date",
+              "value": "-"
+            },
+            {
+              "key": "Value of Options Granted",
+              "value": "-"
+            },
+            {
+              "key": "Name",
+              "value": "Anna Sloboda"
+            },
+            {
+              "key": "Number of Options Granted",
+              "value": "1,000,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "28-Oct-21"
+            },
+            {
+              "key": "Vesting Date",
+              "value": "28-Oct-22"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "27-Oct-25"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.50"
+            },
+            {
+              "key": "Fair Value per Option at Grant Date",
+              "value": "$0.166"
+            },
+            {
+              "key": "Value of Options Granted",
+              "value": "166,000"
+            },
+            {
+              "key": "Name",
+              "value": "Neil Young"
+            },
+            {
+              "key": "Number of Options Granted",
+              "value": ""
+            },
+            {
+              "key": "Grant Date",
+              "value": ""
+            },
+            {
+              "key": "Vesting Date",
+              "value": ""
+            },
+            {
+              "key": "Expiry Date",
+              "value": ""
+            },
+            {
+              "key": "Exercise Price",
+              "value": ""
+            },
+            {
+              "key": "Fair Value per Option at Grant Date",
+              "value": ""
+            },
+            {
+              "key": "Value of Options Granted",
+              "value": ""
+            },
+            {
+              "key": "Name",
+              "value": "Victoria Allinson"
+            },
+            {
+              "key": "Number of Options Granted",
+              "value": ""
+            },
+            {
+              "key": "Grant Date",
+              "value": ""
+            },
+            {
+              "key": "Vesting Date",
+              "value": ""
+            },
+            {
+              "key": "Expiry Date",
+              "value": ""
+            },
+            {
+              "key": "Exercise Price",
+              "value": ""
+            },
+            {
+              "key": "Fair Value per Option at Grant Date",
+              "value": ""
+            },
+            {
+              "key": "Value of Options Granted",
+              "value": ""
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 22,
+          "title": "Share-Based Payments",
+          "data": [
+            {
+              "key": "Total share-based payment recognized",
+              "value": "$111,425"
+            },
+            {
+              "key": "Remaining share-based payment to be recognized",
+              "value": "$54,575"
+            },
+            {
+              "key": "Options granted to Ms Sloboda",
+              "value": "1,000,000"
+            },
+            {
+              "key": "Options approval date",
+              "value": "28 October 2021"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 22,
+          "title": "Options Holdings Summary",
+          "data": [
+            {
+              "key": "R. Cottee - Start Balance",
+              "value": "5"
+            },
+            {
+              "key": "R. Cottee - Exercised",
+              "value": "5"
+            },
+            {
+              "key": "R. Cottee - Granted",
+              "value": "5"
+            },
+            {
+              "key": "R. Cottee - End Balance",
+              "value": "5"
+            },
+            {
+              "key": "N. Young - Start Balance",
+              "value": "-"
+            },
+            {
+              "key": "N. Young - Exercised",
+              "value": "-"
+            },
+            {
+              "key": "N. Young - Granted",
+              "value": "-"
+            },
+            {
+              "key": "N. Young - End Balance",
+              "value": "-"
+            },
+            {
+              "key": "S. Kelemen - Start Balance",
+              "value": "4,750,000"
+            },
+            {
+              "key": "S. Kelemen - Exercised",
+              "value": ""
+            },
+            {
+              "key": "S. Kelemen - Granted",
+              "value": "-"
+            },
+            {
+              "key": "S. Kelemen - End Balance",
+              "value": "4,750,000"
+            },
+            {
+              "key": "A. Sloboda - Start Balance",
+              "value": "-"
+            },
+            {
+              "key": "A. Sloboda - Exercised",
+              "value": ""
+            },
+            {
+              "key": "A. Sloboda - Granted",
+              "value": "1,000,000"
+            },
+            {
+              "key": "A. Sloboda - End Balance",
+              "value": "1,000,000"
+            },
+            {
+              "key": "V. Allinson - Start Balance",
+              "value": "-"
+            },
+            {
+              "key": "V. Allinson - Exercised",
+              "value": ""
+            },
+            {
+              "key": "V. Allinson - Granted",
+              "value": "2"
+            },
+            {
+              "key": "V. Allinson - End Balance",
+              "value": "-"
+            },
+            {
+              "key": "Total - Start Balance",
+              "value": "4,750,000"
+            },
+            {
+              "key": "Total - Exercised",
+              "value": ""
+            },
+            {
+              "key": "Total - Granted",
+              "value": "1,000,000"
+            },
+            {
+              "key": "Total - End Balance",
+              "value": "5,750,000"
+            },
+            {
+              "key": "Total - Vested and Exercisable",
+              "value": "4,750,000"
+            },
+            {
+              "key": "Total - Unexercisable",
+              "value": "1,000,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 22,
+          "title": "Performance Rights Holdings Summary",
+          "data": [
+            {
+              "key": "R. Cottee - Start Balance",
+              "value": "7,500,000"
+            },
+            {
+              "key": "R. Cottee - Granted as Compensation",
+              "value": "-"
+            },
+            {
+              "key": "R. Cottee - End Balance",
+              "value": "7,500,000"
+            },
+            {
+              "key": "N. Young - Start Balance",
+              "value": "7,500,000"
+            },
+            {
+              "key": "N. Young - Granted as Compensation",
+              "value": "6,000,000"
+            },
+            {
+              "key": "N. Young - End Balance",
+              "value": "13,500,000"
+            },
+            {
+              "key": "S. Kelemen - Start Balance",
+              "value": "-"
+            },
+            {
+              "key": "S. Kelemen - Granted as Compensation",
+              "value": "3"
+            },
+            {
+              "key": "S. Kelemen - End Balance",
+              "value": "-"
+            },
+            {
+              "key": "A. Sloboda - Start Balance",
+              "value": "-"
+            },
+            {
+              "key": "A. Sloboda - Granted as Compensation",
+              "value": "-"
+            },
+            {
+              "key": "A. Sloboda - End Balance",
+              "value": "-"
+            },
+            {
+              "key": "V. Allinson - Start Balance",
+              "value": "-"
+            },
+            {
+              "key": "V. Allinson - Granted as Compensation",
+              "value": "600,000"
+            },
+            {
+              "key": "V. Allinson - End Balance",
+              "value": "600,000"
+            },
+            {
+              "key": "Total - Start Balance",
+              "value": "15,000,000"
+            },
+            {
+              "key": "Total - Granted as Compensation",
+              "value": "6,600,000"
+            },
+            {
+              "key": "Total - End Balance",
+              "value": "21,600,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 27,
+          "title": "Auditor's Responsibility and Opinion on the Remuneration Report",
+          "data": [
+            {
+              "key": "Auditor's Responsibilities",
+              "value": "Our objectives are to obtain reasonable assurance about whether the financial report as a whole is free from material misstatement."
+            },
+            {
+              "key": "Material Misstatement",
+              "value": "Misstatements can arise from fraud or error and are considered material if they could reasonably be expected to influence economic decisions."
+            },
+            {
+              "key": "Opinion on Remuneration Report",
+              "value": "The Remuneration Report of Elixir Energy Limited, for the year ended 30 June 2022, complies with section 300A of the Corporations Act 2001."
+            },
+            {
+              "key": "Audit Firm",
+              "value": "BDO Audit (SA) Pty Ltd"
+            },
+            {
+              "key": "Director",
+              "value": "Andrew Tickle"
+            },
+            {
+              "key": "Location",
+              "value": "Adelaide"
+            },
+            {
+              "key": "Date",
+              "value": "27 September 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 37,
+          "title": "Other Receivables",
+          "data": [
+            {
+              "key": "2021 Current Total",
+              "value": "131476"
+            },
+            {
+              "key": "2022 Current Total",
+              "value": "1284571"
+            },
+            {
+              "key": "2021 Non-Current Total",
+              "value": "772131"
+            },
+            {
+              "key": "2022 Non-Current Total",
+              "value": "1103901"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 37,
+          "title": "Exploration & evaluation expenditure - Mongolian Project",
+          "data": [
+            {
+              "key": "2021 Balance at 1 July",
+              "value": "7024215"
+            },
+            {
+              "key": "2022 Balance at 1 July",
+              "value": "11439379"
+            },
+            {
+              "key": "2021 Expenditure capitalised during the year",
+              "value": "4197231"
+            },
+            {
+              "key": "2022 Expenditure capitalised during the year",
+              "value": "7406451"
+            },
+            {
+              "key": "2021 Balance at 30 June",
+              "value": "11439379"
+            },
+            {
+              "key": "2022 Balance at 30 June",
+              "value": "18887358"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 37,
+          "title": "Trade and Other Payables",
+          "data": [
+            {
+              "key": "2021 Trade payables and accrued expenses",
+              "value": "215840"
+            },
+            {
+              "key": "2022 Trade payables and accrued expenses",
+              "value": "995055"
+            },
+            {
+              "key": "2021 Trade and other payables",
+              "value": "215840"
+            },
+            {
+              "key": "2022 Trade and other payables",
+              "value": "995055"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 39,
+          "title": "Terms of Options on Issue Unlisted",
+          "data": [
+            {
+              "key": "Issue date 30 September 2019",
+              "value": "4750000"
+            },
+            {
+              "key": "Exercise price (2019)",
+              "value": "$0.10"
+            },
+            {
+              "key": "Expiry (2019)",
+              "value": "29 September 2023"
+            },
+            {
+              "key": "Vesting (2019)",
+              "value": "Vested"
+            },
+            {
+              "key": "Issue date 5 June 2020",
+              "value": "580000"
+            },
+            {
+              "key": "Exercise price (2020)",
+              "value": "$0.10"
+            },
+            {
+              "key": "Expiry (2020)",
+              "value": "4 June 2024"
+            },
+            {
+              "key": "Vesting (2020)",
+              "value": "Vested"
+            },
+            {
+              "key": "Issue date 28 October 2021",
+              "value": "1000000"
+            },
+            {
+              "key": "Exercise price (2021)",
+              "value": "$0.50"
+            },
+            {
+              "key": "Expiry (2021)",
+              "value": "27 October 2025"
+            },
+            {
+              "key": "Vesting (2021)",
+              "value": "Not Yet Vested"
+            },
+            {
+              "key": "Total Number of Options",
+              "value": "6330000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 40,
+          "title": "Options and Performance Rights",
+          "data": [
+            {
+              "key": "Opening Listed Options (2021)",
+              "value": "118566617"
+            },
+            {
+              "key": "Options exercised (2021)",
+              "value": "-118174193"
+            },
+            {
+              "key": "Options expired (2021)",
+              "value": "-392424"
+            },
+            {
+              "key": "Opening Unlisted Options (2021)",
+              "value": "12630000"
+            },
+            {
+              "key": "Incentive Options granted (2022)",
+              "value": "1000000"
+            },
+            {
+              "key": "Options cancelled (2021)",
+              "value": "-1300000"
+            },
+            {
+              "key": "Options exercised (2021)",
+              "value": "-6000000"
+            },
+            {
+              "key": "Closing Unlisted Options (2022)",
+              "value": "6330000"
+            },
+            {
+              "key": "Total Options (2022)",
+              "value": "6330000"
+            },
+            {
+              "key": "Weighted average exercise Price (2022)",
+              "value": "0.16"
+            },
+            {
+              "key": "Opening Performance Rights (2022)",
+              "value": "16000000"
+            },
+            {
+              "key": "Rights granted (2022)",
+              "value": "10200000"
+            },
+            {
+              "key": "Closing Performance Rights (2022)",
+              "value": "26200000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 41,
+          "title": "Performance Rights",
+          "data": [
+            {
+              "key": "Class C Performance Rights Total",
+              "value": "16,000,000"
+            },
+            {
+              "key": "New Performance Rights Total",
+              "value": "10,200,000"
+            },
+            {
+              "key": "Total Performance Rights",
+              "value": "26,200,000"
+            },
+            {
+              "key": "Weighted Average Exercise Price",
+              "value": "$nil"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 42,
+          "title": "Security: Share Based Payments and Key Management Personnel Compensation",
+          "data": [
+            {
+              "key": "New Performance Rights",
+              "value": "$355,049"
+            },
+            {
+              "key": "Share issue costs",
+              "value": "$27,000"
+            },
+            {
+              "key": "Incentive Options",
+              "value": "$111,425"
+            },
+            {
+              "key": "Shares issued for services Total Share Based Payments",
+              "value": "$466,474"
+            },
+            {
+              "key": "Total Share Based Payments",
+              "value": "$466,474"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 43,
+          "title": "Share-Based Payments and Compensation",
+          "data": [
+            {
+              "key": "Incentive Options 2022 $",
+              "value": "111425"
+            },
+            {
+              "key": "Incentive Options 2021 $",
+              "value": "118258"
+            },
+            {
+              "key": "New Performance Rights 2022 $",
+              "value": "355049"
+            },
+            {
+              "key": "New Performance Rights 2021 $",
+              "value": "0"
+            },
+            {
+              "key": "Total 2022 $",
+              "value": "466474"
+            },
+            {
+              "key": "Total 2021 $",
+              "value": "118258"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 44,
+          "title": "Key Management Personnel Compensation",
+          "data": [
+            {
+              "key": "Short-term employee benefits",
+              "value": "850,390"
+            },
+            {
+              "key": "Post-employment benefits",
+              "value": "35,170"
+            },
+            {
+              "key": "Share-based payments (Note 13)",
+              "value": "341,162"
+            },
+            {
+              "key": "Total KMP compensation",
+              "value": "1,226,722"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 57,
+          "title": "Notes to the Consolidated Financial Statements continued",
+          "data": [
+            {
+              "key": "Impairment",
+              "value": "Assessment of expected credit losses impacting future cash flows of financial assets."
+            },
+            {
+              "key": "Interests in Joint Operations",
+              "value": "Direct right to assets, liabilities, revenue, and expenses of joint operations."
+            },
+            {
+              "key": "Share Capital and Reserves",
+              "value": "Equity instruments are recorded at fair value with deductions for costs."
+            },
+            {
+              "key": "Share based payments",
+              "value": "Employee Incentive Securities Plan where share based payments are recognized over vesting periods."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 58,
+          "title": "Earnings Per Share and Employee Benefits",
+          "data": [
+            {
+              "key": "Basic earnings per share",
+              "value": "Calculated by dividing the profit or loss attributable to equity holders, excluding servicing costs of equity other than ordinary shares, by the weighted average number of shares."
+            },
+            {
+              "key": "Diluted earnings per share",
+              "value": "Adjusts basic earnings per share to consider the effect of financing costs on dilutive potential ordinary shares."
+            },
+            {
+              "key": "Foreign Currency Transactions",
+              "value": "Functional currency of each entity is based on primary economic environment. Consolidated presented in Australian dollars."
+            },
+            {
+              "key": "Employee Benefits",
+              "value": "Provision for liabilities from employee services, measured at expected settlement amounts. Liabilities payable after one year measured at present value of future cash flows."
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 6,
+          "title": "Establishment of GOH Clean Energy LLC",
+          "data": [
+            {
+              "key": "New Subsidiary",
+              "value": "GOH Clean Energy LLC"
+            },
+            {
+              "key": "Partnership",
+              "value": "Partnership with Japan’s SB Energy Corp"
+            },
+            {
+              "key": "MOU",
+              "value": "Non-binding Memorandum of Understanding"
+            },
+            {
+              "key": "Objective",
+              "value": "Pursue clean energy ventures in the South Gobi"
+            },
+            {
+              "key": "Focus Area",
+              "value": "Giga-watt scale green hydrogen production"
+            },
+            {
+              "key": "Renewable Resources",
+              "value": "Wind and solar"
+            },
+            {
+              "key": "Pilot Plant Development",
+              "value": "Prove viability for stakeholders"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 8,
+          "title": "Operational Summary and Resource Statement",
+          "data": [
+            {
+              "key": "Coal Bed Methane Wells Drilled",
+              "value": "33 in total since PSC execution in 2018"
+            },
+            {
+              "key": "Seismic Lines Acquired",
+              "value": "673 km of 2D seismic data"
+            },
+            {
+              "key": "Wells Drilled in FY",
+              "value": "17 wells during the reporting year ended 30 June 2022"
+            },
+            {
+              "key": "Drilling Techniques Used",
+              "value": "Chip-hole and coring drilling techniques"
+            },
+            {
+              "key": "Total Depth Drilled",
+              "value": "12,100m"
+            },
+            {
+              "key": "Coal Intersection",
+              "value": "330m of coal and 155m of silty coal"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 9,
+          "title": "Major Drilling at Nomgon IX 2D Seismic",
+          "data": [
+            {
+              "key": "Seismic Length Acquired (km)",
+              "value": "673"
+            },
+            {
+              "key": "Seismic Contractor",
+              "value": "Microseismic LLC"
+            },
+            {
+              "key": "Field Days",
+              "value": "128 days"
+            },
+            {
+              "key": "Project Timeline",
+              "value": "24 September 2021 - 20 May 2022"
+            },
+            {
+              "key": "Contingent Resource Estimate",
+              "value": "Undertaken by ERCE Equipoise"
+            },
+            {
+              "key": "Gas Initially In Place - 1C",
+              "value": "13"
+            },
+            {
+              "key": "Gas Initially In Place - 2C",
+              "value": "60"
+            },
+            {
+              "key": "Gas Initially In Place - 3C",
+              "value": "242"
+            },
+            {
+              "key": "Recoverable Gas - 1C",
+              "value": "5"
+            },
+            {
+              "key": "Recoverable Gas - 2C",
+              "value": "24"
+            },
+            {
+              "key": "Recoverable Gas - 3C",
+              "value": "104"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 26,
+          "title": "Recoverability of Exploration and Evaluation Assets",
+          "data": [
+            {
+              "key": "Key Audit Matter",
+              "value": "Recoverability of exploration and evaluation assets"
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "Obtaining a schedule of the area of interest held by the Group and assessing whether the rights to tenure of this area of interest remained current at balance date;"
+            },
+            {
+              "key": "Investment Assessment",
+              "value": "Considering the status of the ongoing exploration programmes in the area of interest by holding discussions with management, and reviewing the Group’s exploration budgets, ASX announcements and directors’ minutes;"
+            },
+            {
+              "key": "Implications of AASB 6",
+              "value": "Judgement is applied in determining the treatment of exploration expenditure in accordance with Australian Accounting Standard AASB 6 Exploration for and Evaluation of Mineral Resources."
+            },
+            {
+              "key": "Reserve Assessment",
+              "value": "Considering whether the area of interest had reached a stage where a reasonable assessment of economically recoverable reserves existed;"
+            },
+            {
+              "key": "Impairment Testing Necessity",
+              "value": "Considering whether any facts or circumstances existed to suggest impairment testing was required;"
+            },
+            {
+              "key": "Reports on Other Information",
+              "value": "Directors are responsible for the other information in the Group’s annual report for the year ended 22 June 2022."
+            },
+            {
+              "key": "Financial Responsibility of Directors",
+              "value": "The directors of the Company are responsible for the preparation of the financial report that gives a true and fair view in accordance with Australian Accounting Standards and the Corporations Act 2001."
+            },
+            {
+              "key": "Going Concern Assessment",
+              "value": "In preparing the financial report, the directors are responsible for assessing the ability of the group to continue as a going concern."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 30,
+          "title": "Consolidated Statement of Profit or Loss and Other Comprehensive Income",
+          "data": [
+            {
+              "key": "Revenue from continuing operations",
+              "value": "- Interest income: 2022: 38,926, 2021: 5,796"
+            },
+            {
+              "key": "Foreign exchange gain",
+              "value": "2022: 481,446, 2021: N/A"
+            },
+            {
+              "key": "Other",
+              "value": "2021: 47,548"
+            },
+            {
+              "key": "Expenses",
+              "value": "- Depreciation: 2022: -8,390, 2021: -1,558"
+            },
+            {
+              "key": "Foreign exchange loss",
+              "value": "2021: -99,102"
+            },
+            {
+              "key": "New ventures",
+              "value": "2022: -344,624"
+            },
+            {
+              "key": "Corporate administration",
+              "value": "2022: -1,632,560, 2021: -1,341,461"
+            },
+            {
+              "key": "Loss before income tax",
+              "value": "2022: -1,981,676, 2021: -1,507,035"
+            },
+            {
+              "key": "Total comprehensive loss",
+              "value": "2022: -2,670,361, 2021: -961,306"
+            },
+            {
+              "key": "Basic and diluted (loss) per share (cents)",
+              "value": "2022: -0.22, 2021: -0.19"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 31,
+          "title": "Consolidated Statement of Financial Position",
+          "data": [
+            {
+              "key": "Total Assets 2022",
+              "value": "$44.1M"
+            },
+            {
+              "key": "Total Assets 2021",
+              "value": "$45.2M"
+            },
+            {
+              "key": "Total Liabilities 2022",
+              "value": "$2.0M"
+            },
+            {
+              "key": "Total Liabilities 2021",
+              "value": "$1.1M"
+            },
+            {
+              "key": "Net Assets 2022",
+              "value": "$42.1M"
+            },
+            {
+              "key": "Net Assets 2021",
+              "value": "$44.1M"
+            },
+            {
+              "key": "Cash and Cash Equivalents 2022",
+              "value": "$22.7M"
+            },
+            {
+              "key": "Cash and Cash Equivalents 2021",
+              "value": "$32.8M"
+            },
+            {
+              "key": "Exploration and Evaluation Expenditure 2022",
+              "value": "$18.9M"
+            },
+            {
+              "key": "Exploration and Evaluation Expenditure 2021",
+              "value": "$11.4M"
+            },
+            {
+              "key": "Accumulated Losses 2022",
+              "value": "-$78.3M"
+            },
+            {
+              "key": "Accumulated Losses 2021",
+              "value": "-$76.3M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Consolidated Statement of Cash Flows",
+          "data": [
+            {
+              "key": "Cash flows from operating activities",
+              "value": "N/A"
+            },
+            {
+              "key": "Federal government funding received Payments to suppliers and employees",
+              "value": "2022: -1,643,047, 2021: 47,548 (1,332,389)"
+            },
+            {
+              "key": "Net cash (used in) operating activities",
+              "value": "2022: -1,643,047, 2021: -1,284,841"
+            },
+            {
+              "key": "Payments for exploration and evaluation",
+              "value": "2022: -8,059,005, 2021: -3,776,498"
+            },
+            {
+              "key": "Interest received",
+              "value": "2022: 38,926, 2021: 5,796"
+            },
+            {
+              "key": "Purchase of property, plant and equipment",
+              "value": "2022: -63,434, 2021: -57,549"
+            },
+            {
+              "key": "Net cash (used in) investing activities",
+              "value": "2022: -8,083,513, 2021: -3,828,251"
+            },
+            {
+              "key": "Proceeds from issue of shares",
+              "value": "2022: 0, 2021: 26,639,935"
+            },
+            {
+              "key": "Proceeds from exercise of options",
+              "value": "2022: 0, 2021: 8,624,028"
+            },
+            {
+              "key": "Payments security Net cash provided by financing activities",
+              "value": "2022: 0, 2021: -669,518"
+            },
+            {
+              "key": "Net increase/(decrease) in cash held",
+              "value": "2022: -9,726,560, 2021: 29,481,353"
+            },
+            {
+              "key": "Cash at beginning of financial year",
+              "value": "2022: 32,779,592, 2021: 3,298,847"
+            },
+            {
+              "key": "Cash at end of financial year",
+              "value": "2022: 22,679,219, 2021: 32,779,592"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Financial Statement Details - Interest, Income and Expenses",
+          "data": [
+            {
+              "key": "Interest and Other Income",
+              "value": "Total interest and other income increased from $53,344 in 2021 to $470,372 in 2022, due to foreign exchange gains."
+            },
+            {
+              "key": "Corporate Administration Expenses",
+              "value": "Increased from $1,341,461 to $1,632,560."
+            },
+            {
+              "key": "Wages and Salaries",
+              "value": "Increased from $511,275 to $822,077, including new share-based payments in 2022."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Cash Flow Information",
+          "data": [
+            {
+              "key": "Loss after income tax",
+              "value": "-1981676"
+            },
+            {
+              "key": "Depreciation, depletion & amortisation",
+              "value": "8390"
+            },
+            {
+              "key": "Share-based payment - remuneration",
+              "value": "466474"
+            },
+            {
+              "key": "Shares issued for services",
+              "value": "0"
+            },
+            {
+              "key": "Net exchange rate differences",
+              "value": "115752"
+            },
+            {
+              "key": "(Increase)/decrease in current assets",
+              "value": "-18761"
+            },
+            {
+              "key": "(Increase)/decrease in non-current assets",
+              "value": "71272"
+            },
+            {
+              "key": "Increase/(decrease) in current liabilities - operating",
+              "value": "-233226"
+            },
+            {
+              "key": "Increase/(decrease) in provisions",
+              "value": "-71272"
+            },
+            {
+              "key": "Cash flow used in operations",
+              "value": "-1643047"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Auditor's Remuneration and Loss per Share",
+          "data": [
+            {
+              "key": "Section",
+              "value": "16. Auditor's Remuneration"
+            },
+            {
+              "key": "Auditor",
+              "value": "BDO Audit Pty Ltd"
+            },
+            {
+              "key": "Service",
+              "value": "Auditing/reviewing financial report"
+            },
+            {
+              "key": "2022",
+              "value": "26,000"
+            },
+            {
+              "key": "2021",
+              "value": "-"
+            },
+            {
+              "key": "Section",
+              "value": "16. Auditor's Remuneration"
+            },
+            {
+              "key": "Auditor",
+              "value": "BDO Audit (WA) Pty Ltd"
+            },
+            {
+              "key": "Service",
+              "value": "Auditing/reviewing financial report"
+            },
+            {
+              "key": "2022",
+              "value": "17,600"
+            },
+            {
+              "key": "2021",
+              "value": "42,319"
+            },
+            {
+              "key": "Section",
+              "value": "16. Auditor's Remuneration"
+            },
+            {
+              "key": "Auditor",
+              "value": "Total"
+            },
+            {
+              "key": "2022",
+              "value": "43,600"
+            },
+            {
+              "key": "2021",
+              "value": "42,319"
+            },
+            {
+              "key": "Section",
+              "value": "17. Loss per Share"
+            },
+            {
+              "key": "Item",
+              "value": "Loss attributable to ordinary equity holders"
+            },
+            {
+              "key": "2022",
+              "value": "(1,981,676)"
+            },
+            {
+              "key": "2021",
+              "value": "(1,507,035)"
+            },
+            {
+              "key": "Section",
+              "value": "17. Loss per Share"
+            },
+            {
+              "key": "Item",
+              "value": "Weighted average ordinary shares"
+            },
+            {
+              "key": "2022",
+              "value": "891,449,321"
+            },
+            {
+              "key": "2021",
+              "value": "770,174,024"
+            },
+            {
+              "key": "Section",
+              "value": "17. Loss per Share"
+            },
+            {
+              "key": "Item",
+              "value": "Basic and diluted loss per share (cents)"
+            },
+            {
+              "key": "2022",
+              "value": "(0.22)"
+            },
+            {
+              "key": "2021",
+              "value": "(0.19)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Parent Entity Information and Financial Position",
+          "data": [
+            {
+              "key": "Current Assets 2022",
+              "value": "$22,208,629"
+            },
+            {
+              "key": "Current Assets 2021",
+              "value": "$32,289,296"
+            },
+            {
+              "key": "Non-current Assets 2022",
+              "value": "$20,342,293"
+            },
+            {
+              "key": "Non-current Assets 2021",
+              "value": "$10,681,449"
+            },
+            {
+              "key": "Total Liabilities 2022",
+              "value": "$457,647"
+            },
+            {
+              "key": "Total Liabilities 2021",
+              "value": "$171,424"
+            },
+            {
+              "key": "Net Assets 2022",
+              "value": "$42,093,275"
+            },
+            {
+              "key": "Net Assets 2021",
+              "value": "$42,799,421"
+            },
+            {
+              "key": "Issued Capital 2022",
+              "value": "$119,682,326"
+            },
+            {
+              "key": "Issued Capital 2021",
+              "value": "$119,496,785"
+            },
+            {
+              "key": "Accumulated Losses 2022",
+              "value": "-$78,728,044"
+            },
+            {
+              "key": "Accumulated Losses 2021",
+              "value": "-$77,369,983"
+            },
+            {
+              "key": "Share-based Payment Reserve 2022",
+              "value": "$1,138,993"
+            },
+            {
+              "key": "Share-based Payment Reserve 2021",
+              "value": "$672,519"
+            },
+            {
+              "key": "Total Equity 2022",
+              "value": "$42,093,275"
+            },
+            {
+              "key": "Total Equity 2021",
+              "value": "$42,799,321"
+            },
+            {
+              "key": "Total loss and comprehensive loss 2022",
+              "value": "-$2,514,919"
+            },
+            {
+              "key": "Total loss and comprehensive loss 2021",
+              "value": "-$1,384,496"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Expenditure by financial years: Under the PSC in Mongolia",
+          "data": [
+            {
+              "key": "Expenditure 2022",
+              "value": "$2,544,048"
+            },
+            {
+              "key": "Expenditure 2021",
+              "value": "$3,493,572"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 50,
+          "title": "Segmental Financial Information",
+          "data": [
+            {
+              "key": "Period",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Revenue from external sources",
+              "value": "38,926"
+            },
+            {
+              "key": "Reportable segment loss",
+              "value": "(1,981,676)"
+            },
+            {
+              "key": "Additions to non-current assets",
+              "value": "7,892,906"
+            },
+            {
+              "key": "Reportable segment assets",
+              "value": "44,125,647"
+            },
+            {
+              "key": "Reportable segment liabilities",
+              "value": "(2,032,372)"
+            },
+            {
+              "key": "Comparison Period",
+              "value": "30 June 2021"
+            },
+            {
+              "key": "Revenue from external sources (2021)",
+              "value": "53,344"
+            },
+            {
+              "key": "Reportable segment loss (2021)",
+              "value": "(1,129,990)"
+            },
+            {
+              "key": "Additions to non-current assets (2021)",
+              "value": "9,241,245"
+            },
+            {
+              "key": "Reportable segment assets (2021)",
+              "value": "45,179,589"
+            },
+            {
+              "key": "Reportable segment liabilities (2021)",
+              "value": "(1,067,968)"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Financial Assets and Liabilities Comparison",
+          "data": [
+            {
+              "key": "Financial Assets Cash and cash equivalents Receivables at amortised cost",
+              "value": "2022: $22.68M, 2021: $32.78M"
+            },
+            {
+              "key": "Total Financial Assets",
+              "value": "2022: $25.07M, 2021: $33.68M"
+            },
+            {
+              "key": "Lease Liability (current and non-current)",
+              "value": "2022: $66.51K, 2021: $0"
+            },
+            {
+              "key": "Trade and other payables at amortised cost",
+              "value": "2022: $995.06K, 2021: $215.84K"
+            },
+            {
+              "key": "Total Financial Liabilities",
+              "value": "2022: $1.06M, 2021: $215.84K"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Cash and Cash Equivalents Statement",
+          "data": [
+            {
+              "key": "Cash held in Australia (AUD and USD)",
+              "value": "2022: $22.53M, 2021: $32.25M"
+            },
+            {
+              "key": "Cash held in Mongolia (MNT and USD)",
+              "value": "2022: $149.58K, 2021: $524.47K"
+            },
+            {
+              "key": "Total",
+              "value": "2022: $22.68M, 2021: $32.78M"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Financial Liabilities Statement",
+          "data": [
+            {
+              "key": "Financial liabilities non-interest bearing Trade and other payables",
+              "value": "995,055"
+            },
+            {
+              "key": "Financial liabilities - interest bearing Lease liability",
+              "value": "60,946"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Foreign Currency Exposure",
+          "data": [
+            {
+              "key": "Cash (MTN)",
+              "value": "41,686"
+            },
+            {
+              "key": "Cash (USD)",
+              "value": "5,501,624"
+            },
+            {
+              "key": "Other receivables (MTN)",
+              "value": "993,628"
+            },
+            {
+              "key": "Non-current receivables (MTN)",
+              "value": "260,498"
+            },
+            {
+              "key": "Total (MTN)",
+              "value": "564,493"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Notes to the Consolidated Financial Statements continued",
+          "data": [
+            {
+              "key": "Controlled Entities",
+              "value": "Financial performance of controlled entities is included only for the period they were controlled."
+            },
+            {
+              "key": "Asset Acquisitions",
+              "value": "Assets and liabilities recorded based on relative fair values; no goodwill arises."
+            },
+            {
+              "key": "Revenue Recognition",
+              "value": "Interest revenue recognised as it accrues using the effective interest method."
+            },
+            {
+              "key": "Income Tax Expense",
+              "value": "Consists of current and deferred tax expense."
+            },
+            {
+              "key": "Current Tax Assets/Liabilities",
+              "value": "Measured at expected amounts to be paid or recovered from taxation authorities."
+            },
+            {
+              "key": "Deferred Tax",
+              "value": "Calculated at expected future tax rates."
+            },
+            {
+              "key": "Recognition of Deferred Taxes",
+              "value": "Recognised only to the extent it is probable that future taxable profit will be available."
+            },
+            {
+              "key": "Consolidation for Tax Purposes",
+              "value": "The Group does not consolidate any Australian entities for tax purposes."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Exploration & evaluation expenditure",
+              "value": "Expenditure on exploration for and evaluation of petroleum resources is recognised as an asset when incurred, contingent on current rights to tenure."
+            },
+            {
+              "key": "Impairment Assessment",
+              "value": "The carrying value of exploration and evaluation assets is assessed for impairment whenever circumstances suggest the carrying amount may exceed its recoverable amount."
+            },
+            {
+              "key": "Recognition of Financial Instruments",
+              "value": "Financial assets and liabilities are recognised when the entity becomes a party to the contractual provisions of the instrument."
+            },
+            {
+              "key": "Classes of Financial Assets",
+              "value": "Financial assets can be classified as measured at amortised cost, fair value through profit or loss, or fair value through other comprehensive income."
+            },
+            {
+              "key": "Amortised Cost Calculation",
+              "value": "Amortised cost is calculated as the amount at initial recognition, less principal repayments and any reduction for impairment."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 59,
+          "title": "Notes to the Consolidated Financial Statements continued",
+          "data": [
+            {
+              "key": "Site Restoration and Environmental Rehabilitation Provision",
+              "value": "Provisions are recognised when the Group has a present obligation as a result of a past event, the future sacrifice of economic benefits is probable and the amount of the obligation can be reliably estimated."
+            },
+            {
+              "key": "Leases",
+              "value": "A lease liability and a right of use asset is recognised in the statement of financial position for all leases conveying a right to control the use of an underlying asset with the exception of leases with a period of 12 months or less and for low value leases."
+            },
+            {
+              "key": "Going Concern",
+              "value": "The Directors have prepared the financial report on the going concern basis, which contemplates the continuity of normal business activity and the realisation of assets and settlement of liabilities in the normal course of business."
+            },
+            {
+              "key": "Comparative Figures",
+              "value": "In certain cases, including when required by Australian Accounting Standards, comparative figures are adjusted to conform to the changes in recognition or presentation made in the current financial year."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "dividend_policy",
+          "page": 39,
+          "title": "Reserves and Accumulated Losses",
+          "data": [
+            {
+              "key": "Dividends",
+              "value": "No dividends were paid or declared during the current financial year. No franking credits are currently available, or are likely to become available in the next 12 months."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 15,
+          "title": "Changes in Capital Structure",
+          "data": [
+            {
+              "key": "Acquisition Date",
+              "value": "November 2021"
+            },
+            {
+              "key": "New Subsidiary",
+              "value": "Solar Ilch LLC"
+            },
+            {
+              "key": "Shares Issued",
+              "value": "720,000"
+            },
+            {
+              "key": "Value per Share",
+              "value": "$0.26"
+            },
+            {
+              "key": "Total Shares on Issue as of 30 June 2022",
+              "value": "891,733,376"
+            },
+            {
+              "key": "Other Significant Changes",
+              "value": "None"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 15,
+          "title": "SHARE OPTIONS Summary",
+          "data": [
+            {
+              "key": "Total Unlisted Options on Issue",
+              "value": "6,330,000"
+            },
+            {
+              "key": "Unlisted Options Granted during the Year",
+              "value": "1,000,000"
+            },
+            {
+              "key": "Unlisted Options Exercised/Canceled during the Year",
+              "value": "0"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 15,
+          "title": "Stock Options and Performance Rights Summary",
+          "data": [
+            {
+              "key": "Total Performance Rights on Issue",
+              "value": "26,200,000"
+            },
+            {
+              "key": "Performance Rights Converted during the Year",
+              "value": "0"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 32,
+          "title": "Consolidated Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Balance at 30 June 2020",
+              "value": "Total: $10,210,224"
+            },
+            {
+              "key": "Balance at 30 June 2021",
+              "value": "Total: $44,111,621"
+            },
+            {
+              "key": "Final Balance",
+              "value": "Total: $42,093,275"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 38,
+          "title": "Provisions and Employee Benefits Statement",
+          "data": [
+            {
+              "key": "Total Annual Leave Entitlements",
+              "value": "$127,408 (2022), $79,997 (2021)"
+            },
+            {
+              "key": "Total Opening Balance at 1 July",
+              "value": "$772,131 (2022), $845,352 (2021)"
+            },
+            {
+              "key": "Total Foreign Currency Movement",
+              "value": "$71,272 (2022), ($73,221) (2021)"
+            },
+            {
+              "key": "Total Balance at 30 June",
+              "value": "$843,403 (2022), $772,131 (2021)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 38,
+          "title": "Share Capital Movement Summary",
+          "data": [
+            {
+              "key": "Balance at 1 July",
+              "value": "891,013,376 shares (2022), 687,973,877 shares (2021)"
+            },
+            {
+              "key": "Issue of shares to acquire Solar Ilch LLC",
+              "value": "720,000 shares (2022)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 61,
+          "title": "Additional Shareholder Information",
+          "data": [
+            {
+              "key": "Substantial Shareholders",
+              "value": "There are no substantial shareholders of Elixir Energy Limited."
+            },
+            {
+              "key": "Unlisted Options",
+              "value": "6,330,000 Unlisted Options on issue with a weighted average exercise price of 16.32 cents each expiring in 2023 - 2025."
+            },
+            {
+              "key": "Performance Rights",
+              "value": "26,200,000 Performance Rights on issue, each convertible into one ordinary share if the relevant performance conditions are met."
+            },
+            {
+              "key": "Shares Held in Escrow (Voluntary)",
+              "value": "6,901,312 fully paid ordinary shares held in voluntary escrow for 9 months and 6,901,310 fully paid ordinary shares held in voluntary escrow for 18 months."
+            },
+            {
+              "key": "On-Market Buy Back",
+              "value": "There is no on-market buyback at the date of this report."
+            },
+            {
+              "key": "List of Projects",
+              "value": "Projects include Mongolian exploration: Nomgon IX CSG PSC, Mongolian other: Clean Energy, Australian exploration: ATP 2044."
+            },
+            {
+              "key": "Securities Exchange",
+              "value": "The Company is listed on the Australian Securities Exchange under the stock symbol EXR."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": false,
+      "elements": []
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 5,
+          "title": "Managing Director’s Report Overview",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "During the 2022 financial year, the world started to emerge from the multiple constraints imposed by COVID-19."
+            },
+            {
+              "key": "Recognition",
+              "value": "Elixir Energy Limited was designated as 'Best Investor of 2021' by Mongolia’s Ministry of Mining and Heavy Industry."
+            },
+            {
+              "key": "Acquisition",
+              "value": "Announced acquisition of a licence in Queensland – ATP 2044."
+            },
+            {
+              "key": "Partnership",
+              "value": "Executed MOU with SB Energy Corp to progress the Gobi H2 project."
+            },
+            {
+              "key": "Focus",
+              "value": "Focus on Mongolia’s first long-term gas pilot production project."
+            },
+            {
+              "key": "Exploration Program",
+              "value": "Targeted multiple sub-basins across the Nomgon PSC."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 25,
+          "title": "Independent Auditor's Report for Elixir Energy Limited",
+          "data": [
+            {
+              "key": "Report Type",
+              "value": "Audit Report"
+            },
+            {
+              "key": "Company",
+              "value": "Elixir Energy Limited"
+            },
+            {
+              "key": "Date of Financial Position",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Opinion",
+              "value": "True and fair view of the financial position and performance"
+            },
+            {
+              "key": "Auditor",
+              "value": "BDO Audit (SA) Pty Ltd"
+            },
+            {
+              "key": "Independence Declaration",
+              "value": "Confirmed in accordance with Corporations Act 2001"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 34,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "General Information",
+              "value": "Elixir Energy Limited (‘Company’) is a for-profit Australian incorporated publicly listed company."
+            },
+            {
+              "key": "Basis of Presentation",
+              "value": "The consolidated financial statements comprise the Company and its controlled entities (‘Group’) and is a general-purpose report that has been prepared in accordance with Australian Accounting Standards and International Financial Reporting Standards."
+            },
+            {
+              "key": "Impact of COVID-19 Pandemic",
+              "value": "The pandemic has not impacted the Group’s operations in any significant way to date, and it is not expected to."
+            },
+            {
+              "key": "New Accounting Standards",
+              "value": "There are no issued but not yet effective accounting standards that are expected to significantly impact the Group in future financial years."
+            },
+            {
+              "key": "Critical Accounting Judgements",
+              "value": "Estimates and judgments are based on historical knowledge, best available current information and expectations of future events that may have a financial impact."
+            },
+            {
+              "key": "High Degree of Judgment Areas",
+              "value": "Review of capitalised exploration and evaluation expenditure impairment indicators – Note 7 and Estimation of fair value of share-based payments – Note 11."
+            },
+            {
+              "key": "Management Monitoring",
+              "value": "The Board and management will continue to monitor the impact of the pandemic on the Group’s operations."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 36,
+          "title": "Reconciliation of income tax expense to prima facie tax payable",
+          "data": [
+            {
+              "key": "(Loss) before income tax",
+              "value": "-1981676"
+            },
+            {
+              "key": "Income tax benefit at 25% (2021: 26%)",
+              "value": "495419"
+            },
+            {
+              "key": "Permanent differences - share based payments options and rights",
+              "value": "-116618"
+            },
+            {
+              "key": "Not deductible expenses",
+              "value": "-1615"
+            },
+            {
+              "key": "Tax losses and other temporary differences for which no deferred tax asset has been recognised",
+              "value": "-377186"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 36,
+          "title": "Cash and Cash Equivalents Statement",
+          "data": [
+            {
+              "key": "Cash at bank and on hand",
+              "value": "22,679,219"
+            },
+            {
+              "key": "Cash and Cash Equivalents",
+              "value": ""
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 53,
+          "title": "Financial Sensitivity Analysis",
+          "data": [
+            {
+              "key": "+/- 1.0% in interest rates on interest bearing cash assets",
+              "value": "Profit/Loss: 166,814, Equity: 166,814, Year: 2022"
+            },
+            {
+              "key": "+/- 20% in AUD relative to USD & MNT impact on foreign exchange gains/losses",
+              "value": "Profit/Loss: 1,381,904, Equity: 1,381,904, Year: 2022"
+            },
+            {
+              "key": "+/- 1.0% in interest rates on interest bearing cash assets",
+              "value": "Profit/Loss: 265,747, Equity: 265,747, Year: 2021"
+            },
+            {
+              "key": "+/- 20% in AUD relative to USD & MNT impact on foreign exchange gains/losses",
+              "value": "Profit/Loss: 1,415,489, Equity: 1,415,489, Year: 2021"
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": false,
+      "elements": []
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 10,
+          "title": "Environmental, Social and Governance (ESG) Initiatives",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Elixir Energy Limited"
+            },
+            {
+              "key": "Industry",
+              "value": "Natural Gas and Hydrogen Exploration"
+            },
+            {
+              "key": "Region",
+              "value": "Mongolia and Australia"
+            },
+            {
+              "key": "ESG Measurement Start Date",
+              "value": "Start of 2021"
+            },
+            {
+              "key": "ESG Report Availability",
+              "value": "www.elixirenergy.com.au"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 55,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "GST and VAT Recognition",
+              "value": "Revenues, expenses and assets are recognised net of GST or VAT except where not recoverable."
+            },
+            {
+              "key": "Property, Plant and Equipment",
+              "value": "Carried at cost less accumulated depreciation and impairment losses."
+            },
+            {
+              "key": "Depreciation Method",
+              "value": "Depreciated on a straight-line basis over useful life."
+            },
+            {
+              "key": "Impairment Testing",
+              "value": "Assessment of asset impairment conducted at each reporting period."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 251,
+    "EUR": 2,
+    "AUD": 94,
+    "CAD": 2
+  },
+  "sha1": "f879b3a802ccd6e8e6ca0a07ed8464318b7c0724"
+}

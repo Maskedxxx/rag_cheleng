@@ -1,0 +1,4521 @@
+{
+  "letters": 317637,
+  "pages": 101,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 7
+    },
+    "company_name": "1-800-FLOWERS.COM, INC.",
+    "major_industry": "Retail",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 11,
+          "title": "Business Overview of 1-800-FLOWERS.COM, Inc.",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "Business Description",
+              "value": "A leading provider of gifts designed to help customers express, connect and celebrate."
+            },
+            {
+              "key": "Acquisition Details",
+              "value": "Acquired PersonalizationMall.com LLC on August 3, 2020. Acquired Vital Choice Seafood LLC on October 27, 2021. Acquired Alice’s Table® on December 31, 2021."
+            },
+            {
+              "key": "Ticker Symbol",
+              "value": "FLWS"
+            },
+            {
+              "key": "Headquarters",
+              "value": "Two Jericho Plaza, Suite 200, Jericho, NY 11753"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 12,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Segment",
+              "value": "Consumer Floral & Gifts"
+            },
+            {
+              "key": "Companies",
+              "value": "BLOOMNET, direct-to-consumer provider of fresh flowers, plants, fruits and gift baskets, e-commerce provider of personalized gifts and keepsakes. Franchisor of retail flower shops acquired in August 2011. Provider of lifestyle offerings acquired in December 2021."
+            },
+            {
+              "key": "Acquisitions",
+              "value": "Acquired companies include a multi-channel specialty retailer of premium gift quality fruit and gourmet food products, acquired in September 2014."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 13,
+          "title": "Acquisition of Bakery Gifts Manufacturer",
+          "data": [
+            {
+              "key": "Type",
+              "value": "Merger and Acquisition"
+            },
+            {
+              "key": "Description",
+              "value": "Manufacturer and retailer of indulgent bakery gifts, including super-thick English muffins, toppings, and desserts."
+            },
+            {
+              "key": "Acquisition Date",
+              "value": "September 2014"
+            },
+            {
+              "key": "Related Company",
+              "value": "Harry & David"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 14,
+          "title": "Acquisitions Overview",
+          "data": [
+            {
+              "key": "Acquired Company",
+              "value": "Harry & David"
+            },
+            {
+              "key": "Date of Acquisition",
+              "value": "September 2014"
+            },
+            {
+              "key": "Description",
+              "value": "Multi-channel retailer and manufacturer of small batch gourmet buttery caramel and chocolate covered popcorn."
+            },
+            {
+              "key": "Acquired Company",
+              "value": "E-commerce provider of gourmet steaks, chops, burgers and other gourmet meat gifts."
+            },
+            {
+              "key": "Date of Acquisition",
+              "value": "October 2021"
+            },
+            {
+              "key": "Acquired Company",
+              "value": "Manufacturer of giftable premium popcorn and specialty treats."
+            },
+            {
+              "key": "Date of Acquisition",
+              "value": "May 2002"
+            },
+            {
+              "key": "Acquired Company",
+              "value": "E-commerce baker and retailer of premium cookies."
+            },
+            {
+              "key": "Date of Acquisition",
+              "value": "March 2005"
+            },
+            {
+              "key": "Acquired Company",
+              "value": "Mrs. Beasley’s®."
+            },
+            {
+              "key": "Date of Acquisition",
+              "value": "March 2011"
+            },
+            {
+              "key": "Acquired Company",
+              "value": "Designer, assembler, and distributor of wholesale gift baskets."
+            },
+            {
+              "key": "Date of Acquisition",
+              "value": "April 2008"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 15,
+          "title": "E-commerce Retailer Acquisition",
+          "data": [
+            {
+              "key": "Description",
+              "value": "E-commerce retailer of artisan chocolates and confections. E-commerce retailer of dipped berries and other specialty treats, acquired in August 2019."
+            },
+            {
+              "key": "Strategy",
+              "value": "The Company has taken a holistic approach towards operating its brand portfolio by proactively sharing best practices across its functional areas."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 35,
+          "title": "Acquisitions and Credit Agreement Amendments",
+          "data": [
+            {
+              "key": "Operational Investments",
+              "value": "Investments in warehouse automation, early inventory procurement, and logistics optimization to mitigate rising costs and supply chain issues."
+            },
+            {
+              "key": "Acquisition - PersonalizationMall",
+              "value": "Completed on August 3, 2020 for $245.0 million using cash on hand and an existing credit facility. Included a 360,000 sq ft state-of-the-art production/distribution facility; reported revenue of approximately $171.2 million for the fiscal year ended February 29, 2020."
+            },
+            {
+              "key": "Acquisition - Vital Choice",
+              "value": "Completed on October 27, 2021 for $20.0 million using the existing credit facility. Vital Choice’s reported revenue was approximately $27.8 million for the year ended December 31, 2020."
+            },
+            {
+              "key": "Acquisition - Alice’s Table",
+              "value": "Completed on December 31, 2021 using existing cash ($0.8 million), conversion of accounts receivable ($0.3 million), and a previous investment ($0.3 million). Reported revenue was approximately $3.8 million for the twelve-month period ended September 30, 2021."
+            },
+            {
+              "key": "Amended Credit Agreement",
+              "value": "Initiated on August 20, 2020 as a First Amendment to the 2019 Credit Agreement. Key changes include: increasing the revolving credit facility from $200.0 million to $250.0 million, establishing a $100.0 million term A-1 loan (maturing May 31, 2024) with tiered interest rates, and adjusting working capital and seasonal sublimits."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 41,
+          "title": "Acquisitions and Revenue Impact Analysis",
+          "data": [
+            {
+              "key": "Acquisition Companies",
+              "value": "PersonalizationMall (acquired on August 3, 2020), Vital Choice (acquired on October 27, 2021), Shari’s Berries (acquired in August 2019), Alice's Table (acquired on December 31, 2021)"
+            },
+            {
+              "key": "Revenue Growth Impact",
+              "value": "Post-pandemic fiscal 2022 revenues exceeded pre-pandemic fiscal 2019 revenues by 76.8%. Excluding revenues from these acquisitions, pro-forma revenue growth exceeded pre-pandemic fiscal 2019 revenues by 48.8%."
+            },
+            {
+              "key": "Net Revenues Growth FY Ended June 27, 2021",
+              "value": "Net revenues increased 42.5% compared to the prior year. Excluding PersonalizationMall.com, total net revenues grew 26.6% compared to the prior year."
+            },
+            {
+              "key": "Contextual Headwinds",
+              "value": "Challenges included slowing consumer demand, limited production and distribution labor, global supply-chain disruptions, shortages of key components, geopolitical turmoil, commodity shortages, rapid price inflation, and increased digital marketing costs."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 60,
+          "title": "Third Amendment, dated as of August 29, 2022",
+          "data": [
+            {
+              "key": "Parties Involved",
+              "value": "1-800-FLOWERS.COM, INC., subsidiary borrowers, subsidiary guarantors, lenders, JPMorgan Chase Bank, N.A."
+            },
+            {
+              "key": "Type of Agreement",
+              "value": "Third Amendment to Second Amended and Restated Credit Agreement"
+            },
+            {
+              "key": "Original Agreement Date",
+              "value": "May 31, 2019"
+            },
+            {
+              "key": "Filing Date",
+              "value": "September 2, 2022"
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "Exhibit 10.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 60,
+          "title": "Certification Documents",
+          "data": [
+            {
+              "key": "Document Type",
+              "value": "Consent of Independent Registered Public Accounting Firm"
+            },
+            {
+              "key": "Certification of CEO",
+              "value": "Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002"
+            },
+            {
+              "key": "Certification of CFO",
+              "value": "Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002"
+            },
+            {
+              "key": "Certifications per U.S.C Section 1350",
+              "value": "As adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 60,
+          "title": "Inline XBRL Document",
+          "data": [
+            {
+              "key": "Document Types",
+              "value": "Taxonomy Instance Document, Taxonomy Extension Schema Document, Taxonomy Calculation Linkbase Document, Taxonomy Extension Definition Linkbase Document, Taxonomy Extension Label Document, Taxonomy Definition Presentation Document"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 60,
+          "title": "FORM 10-K SUMMARY",
+          "data": [
+            {
+              "key": "Relevance",
+              "value": "Not applicable"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 64,
+          "title": "Goodwill Valuation Audit Assessment",
+          "data": [
+            {
+              "key": "Critical Audit Matter",
+              "value": "Valuation of goodwill for the Gourmet Foods & Gift Baskets reporting unit"
+            },
+            {
+              "key": "Audit Complexity",
+              "value": "Auditing management’s impairment tests are complex and highly judgmental"
+            },
+            {
+              "key": "Assumptions Sensitivity",
+              "value": "The determination of the fair value is sensitive to significant assumptions like estimated future levels of gross and operating profits"
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "Evaluating reasonableness of assumptions, testing accuracy of data, utilizing specialized personnel"
+            },
+            {
+              "key": "Auditor Firm",
+              "value": "BDO USA, LLP"
+            },
+            {
+              "key": "Location",
+              "value": "Melville, New York"
+            },
+            {
+              "key": "Date",
+              "value": "September 16, 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 71,
+          "title": "Business Combinations",
+          "data": [
+            {
+              "key": "Assessment",
+              "value": "The Company accounts for business combinations in accordance with ASC Topic 805."
+            },
+            {
+              "key": "Fair Value of Assets",
+              "value": "The acquiring entity must recognize the fair value of all the assets acquired and liabilities assumed."
+            },
+            {
+              "key": "Acquisition-Related Costs",
+              "value": "Recognition of acquisition-related costs in the consolidated results of operations."
+            },
+            {
+              "key": "Restructuring Costs",
+              "value": "Recognition of restructuring costs in the consolidated results for which the acquirer becomes obligated after the acquisition date."
+            },
+            {
+              "key": "Contingent Purchase Consideration",
+              "value": "Contingent purchase consideration to be recognized at their fair values on the acquisition date."
+            },
+            {
+              "key": "Intangible Assets Valuation",
+              "value": "Fair values assigned to identifiable intangible assets acquired are determined primarily by using an income approach."
+            },
+            {
+              "key": "Goodwill",
+              "value": "The excess of the purchase price over the fair value of the identified assets and liabilities is recorded as goodwill."
+            },
+            {
+              "key": "Operating Results Reflection",
+              "value": "Operating results of the acquired entity are reflected in the Company’s consolidated financial statements from the date of acquisition."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 75,
+          "title": "Earnings Per Share Calculation",
+          "data": [
+            {
+              "key": "Net income",
+              "value": "29,610"
+            },
+            {
+              "key": "Weighted average shares outstanding",
+              "value": "64,977"
+            },
+            {
+              "key": "Employee stock options",
+              "value": "45"
+            },
+            {
+              "key": "Employee restricted stock awards",
+              "value": "595"
+            },
+            {
+              "key": "Total effect of dilutive securities",
+              "value": "640"
+            },
+            {
+              "key": "Adjusted weighted-average shares and assumed conversions",
+              "value": "65,617"
+            },
+            {
+              "key": "Basic earnings per share",
+              "value": "0.46"
+            },
+            {
+              "key": "Diluted earnings per share",
+              "value": "0.45"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 76,
+          "title": "Shari's Berries Purchase Price Allocation",
+          "data": [
+            {
+              "key": "Current assets",
+              "value": "1,029"
+            },
+            {
+              "key": "Intangible assets",
+              "value": "7,540"
+            },
+            {
+              "key": "Goodwill",
+              "value": "12,121"
+            },
+            {
+              "key": "Total assets acquired",
+              "value": "20,690"
+            },
+            {
+              "key": "Current liabilities",
+              "value": "190"
+            },
+            {
+              "key": "Net assets acquired",
+              "value": "20,500"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 77,
+          "title": "Assets Acquired and Liabilities Assumed Statement",
+          "data": [
+            {
+              "key": "Inventories (Initial)",
+              "value": "16,998"
+            },
+            {
+              "key": "Other Assets",
+              "value": "5,215"
+            },
+            {
+              "key": "Property, Plant and Equipment, Net",
+              "value": "30,792"
+            },
+            {
+              "key": "Operating Lease Right-of-Use Assets",
+              "value": "21,438"
+            },
+            {
+              "key": "Goodwill",
+              "value": "133,439"
+            },
+            {
+              "key": "Other Intangibles, Net",
+              "value": "76,000"
+            },
+            {
+              "key": "Total Assets Acquired",
+              "value": "283,882"
+            },
+            {
+              "key": "Accounts Payable and Accrued Expenses",
+              "value": "11,502"
+            },
+            {
+              "key": "Operating Lease Liabilities",
+              "value": "21,438"
+            },
+            {
+              "key": "Total Liabilities Assumed",
+              "value": "32,940"
+            },
+            {
+              "key": "Net Assets Acquired",
+              "value": "250,942"
+            },
+            {
+              "key": "Acquisition Finalization Date",
+              "value": "June 27, 2021"
+            },
+            {
+              "key": "Preliminary Valuation Date",
+              "value": "August 3, 2020"
+            },
+            {
+              "key": "Summary",
+              "value": "The table presents a detailed breakdown of assets acquired and liabilities assumed in a business acquisition. The purchase price allocation was based on preliminary fair value estimates with immaterial adjustments finalized as of June 27, 2021. Goodwill and other intangible assets constitute significant portions of the allocation, reflecting strategic synergies and operational benefits."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 78,
+          "title": "Details of the Acquisition of PersonalizationMall and Vital Choice",
+          "data": [
+            {
+              "key": "Acquisition Date",
+              "value": "October 27, 2021"
+            },
+            {
+              "key": "Acquired Entity",
+              "value": "Vital Choice Seafood LLC"
+            },
+            {
+              "key": "Purchase Price",
+              "value": "$20.0 million"
+            },
+            {
+              "key": "Vital Choice Revenues (2020)",
+              "value": "$27.8 million"
+            },
+            {
+              "key": "Growth in Revenue (2020-2021)",
+              "value": "30.7%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 79,
+          "title": "Preliminary Purchase Price Allocation and Acquisition Details",
+          "data": [
+            {
+              "key": "Total Consideration",
+              "value": "$20.3 million"
+            },
+            {
+              "key": "Allocation Process",
+              "value": "After working capital and related adjustments, the total consideration was preliminarily allocated to identifiable assets acquired and liabilities assumed. Final adjustments may affect carrying values, intangible asset useful lives, and goodwill."
+            },
+            {
+              "key": "Preliminary Purchase Price Allocation Table",
+              "value": "Table titled 'Preliminary Purchase Price Allocation Comparison' with the following breakdown: Inventory: initial allocation 8653; Other current assets: 929 with a -474 adjustment resulting in 455; Property, plant and equipment: 205 with a -205 adjustment resulting in 0; Intangible assets: 9800; Goodwill: 4383 with a +34 adjustment resulting in 4417; Total assets acquired: 23970 with a -645 adjustment to 23325; Current liabilities: 3621 with a -256 adjustment to 3365; Net assets acquired: 20349 with a -389 adjustment to 19960."
+            },
+            {
+              "key": "Valuation Methodology",
+              "value": "The fair value of the acquired inventory was determined using the income approach (net retail value less operating expenses and profit allowance). Raw materials were valued at book value. For intangible assets, customer lists ($4.5M, amortized over 5 years) were valued using the excess earnings method; tradenames ($5.3M, indefinite life) were valued using the relief from royalty method; and goodwill ($4.4M, indefinite) is expected to be tax-deductible."
+            },
+            {
+              "key": "Operating Segment",
+              "value": "The operating results of the Vital Choice business are reflected in the consolidated financial statements under the Gourmet Foods & Gift Baskets segment."
+            },
+            {
+              "key": "Adjustment Notes",
+              "value": "Certain immaterial adjustments have been booked during the current quarter, and the final allocation may result in additional adjustments."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 80,
+          "title": "Acquisition of Alice’s Table",
+          "data": [
+            {
+              "key": "Acquisition Date",
+              "value": "December 31, 2021"
+            },
+            {
+              "key": "Acquired Company",
+              "value": "Alice’s Table, Inc."
+            },
+            {
+              "key": "Transaction Details",
+              "value": "The Company acquired 100% ownership in Alice’s Table using a mix of existing cash ($0.8M), contributed accounts receivable ($0.3M), and conversion of its cost method investment ($0.3M). The acquisition included tradenames, customer lists, websites, and operations."
+            },
+            {
+              "key": "Impairment Write-down",
+              "value": "$0.7 million recorded as an impairment on the previous cost method investment"
+            },
+            {
+              "key": "Total Consideration",
+              "value": "$1.3 million"
+            },
+            {
+              "key": "Asset Allocation",
+              "value": "Preliminary allocation: Goodwill $0.7M; Trademarks $0.5M; Customer Lists $0.2M (4-year life); Deferred Revenue $0.1M"
+            },
+            {
+              "key": "Target Revenue",
+              "value": "Approximately $3.8 million for the fiscal year ended September 30, 2021"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 10,
+          "title": "This page intentionally left blank",
+          "data": [],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 56,
+          "title": "Leadership Change Announcement",
+          "data": [
+            {
+              "key": "Company",
+              "value": "BDO USA, LLP"
+            },
+            {
+              "key": "Location",
+              "value": "Melville, New York"
+            },
+            {
+              "key": "Date",
+              "value": "September 16, 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 61,
+          "title": "SIGNATURES",
+          "data": [
+            {
+              "key": "Dated",
+              "value": "September 16, 2022"
+            },
+            {
+              "key": "Company",
+              "value": "1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "Signatures",
+              "value": "Christopher G. McCann, Chief Executive Officer, Director (Principal Executive Officer), William E. Shea, Senior Vice President, Treasurer and Chief Financial Officer (Principal Financial and Accounting Officer), James F. McCann, Executive Chairman, Celia R. Brown, Director, James A. Cannavino, Director, Dina M. Colombo, Director, Eugene F. DeMark, Director, Leonard J. Elmore, Director, Adam Hanft, Director, Stephanie Redish Hofmann, Director"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 62,
+          "title": "Leadership Changes",
+          "data": [
+            {
+              "key": "Date",
+              "value": "September 16, 2022"
+            },
+            {
+              "key": "Directors",
+              "value": "Katherine Oliver"
+            },
+            {
+              "key": "Directors",
+              "value": "Larry Zarin"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 98,
+          "title": "CERTIFICATIONS PURSUANT TO 18 U.S.C. SECTION 1350 AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002",
+          "data": [
+            {
+              "key": "Company",
+              "value": "1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "Report Year Ended",
+              "value": "July 3, 2022"
+            },
+            {
+              "key": "CEO",
+              "value": "Christopher G. McCann"
+            },
+            {
+              "key": "CFO",
+              "value": "William E. Shea"
+            },
+            {
+              "key": "Certification Date",
+              "value": "September 16, 2022"
+            },
+            {
+              "key": "Compliance",
+              "value": "fully complies with the requirements"
+            },
+            {
+              "key": "Financial Condition Statement",
+              "value": "fairly presents, in all material respects, the financial condition and results of operations of the Company"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 99,
+          "title": "Leadership Team",
+          "data": [
+            {
+              "key": "James F. McCann",
+              "value": "Founder and Executive Chairman, 1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "Christopher G. McCann",
+              "value": "Chief Executive Officer, 1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "Celia R. Brown",
+              "value": "Former Executive Vice President, Group HR Director, Willis Group"
+            },
+            {
+              "key": "James A. Cannavino",
+              "value": "Senior Vice President, IBM Company, Retired"
+            },
+            {
+              "key": "Dina M. Colombo",
+              "value": "Chief Operating Officer and Chief Financial Officer, GreyLion Capital LP"
+            },
+            {
+              "key": "Eugene F. DeMark C.P.A.",
+              "value": "Area Managing Partner KPMG, LLP, Retired, Former Director, BankUnited and MSG Network"
+            },
+            {
+              "key": "Leonard J. Elmore",
+              "value": "Network Television Sports Analyst, Attorney at Law"
+            },
+            {
+              "key": "Adam Hanft",
+              "value": "Founder and Chief Executive Officer, Hanft Projects LLC"
+            },
+            {
+              "key": "Stephanie Redish Hofmann",
+              "value": "Managing Director, Google"
+            },
+            {
+              "key": "Katherine Oliver",
+              "value": "Principal, Bloomberg Associates"
+            },
+            {
+              "key": "Larry Zarin",
+              "value": "Senior Vice President, Chief Marketing Officer, Express Scripts, Inc., Retired"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 100,
+          "title": "1-800-FLOWERS.COM, INC.",
+          "data": [
+            {
+              "key": "CompanyName",
+              "value": "1-800-FLOWERS.COM, INC."
+            },
+            {
+              "key": "LeadershipChangeDetails",
+              "value": "New leadership information is provided for the company, further context may be required if available."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 9,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Item 1.",
+              "value": "Business"
+            },
+            {
+              "key": "Item 1A.",
+              "value": "Risk Factors"
+            },
+            {
+              "key": "Item 1B.",
+              "value": "Unresolved Staff Comments"
+            },
+            {
+              "key": "Item 2.",
+              "value": "Properties"
+            },
+            {
+              "key": "Item 3.",
+              "value": "Legal Proceedings"
+            },
+            {
+              "key": "Item 4.",
+              "value": "Mine Safety Disclosures"
+            },
+            {
+              "key": "Item 5.",
+              "value": "Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities"
+            },
+            {
+              "key": "Item 6.",
+              "value": "Reserved"
+            },
+            {
+              "key": "Item 7.",
+              "value": "Management's Discussion and Analysis of Financial Condition and Results of Operations"
+            },
+            {
+              "key": "Item 7A.",
+              "value": "Quantitative and Qualitative Disclosures about Market Risk"
+            },
+            {
+              "key": "Item 8.",
+              "value": "Financial Statements and Supplementary Data"
+            },
+            {
+              "key": "Item 9.",
+              "value": "Changes in and Disagreements with Accountants on Accounting and Financial Disclosure"
+            },
+            {
+              "key": "Item 9A.",
+              "value": "Controls and Procedures"
+            },
+            {
+              "key": "Item 9B.",
+              "value": "Other Information"
+            },
+            {
+              "key": "Item 9C.",
+              "value": "Disclosure Regarding Foreign Jurisdictions That Prevent Inspections"
+            },
+            {
+              "key": "Item 10.",
+              "value": "Directors, Executive Officers and Corporate Governance"
+            },
+            {
+              "key": "Item 11.",
+              "value": "Executive Compensation"
+            },
+            {
+              "key": "Item 12.",
+              "value": "Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters"
+            },
+            {
+              "key": "Item 13.",
+              "value": "Certain Relationships and Related Transactions, and Director Independence"
+            },
+            {
+              "key": "Item 14.",
+              "value": "Principal Accounting Fees and Services"
+            },
+            {
+              "key": "Item 15.",
+              "value": "Exhibits, Financial Statement Schedules"
+            },
+            {
+              "key": "Item 16.",
+              "value": "Form 10-K Summary"
+            },
+            {
+              "key": "Signatures",
+              "value": "51-52"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 17,
+          "title": "Summary of Charitable Efforts and Technology Infrastructure",
+          "data": [
+            {
+              "key": "Company Affiliation",
+              "value": "1-800-Flowers.com"
+            },
+            {
+              "key": "Charitable Initiative",
+              "value": "Summer of a Million Smiles"
+            },
+            {
+              "key": "Philanthropic Program",
+              "value": "Smiles Farms initiative"
+            },
+            {
+              "key": "Technological Leadership",
+              "value": "Leader in implementing new technologies"
+            },
+            {
+              "key": "Fulfillment System Advantage",
+              "value": "Hybrid system providing same-day, next-day delivery"
+            },
+            {
+              "key": "Satisfaction Guarantee",
+              "value": "100% satisfaction guarantee"
+            },
+            {
+              "key": "Dependency on Suppliers",
+              "value": "Not dependent on any single third-party supplier"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 26,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Competitive Factors Impact",
+              "value": "Intense competition may lead to price reductions, decreased revenue, lower profit margins, and potential loss of market share."
+            },
+            {
+              "key": "Impact of Customer Demand",
+              "value": "Misjudgment of customer demand could lead to excess inventory or shortages, affecting profitability."
+            },
+            {
+              "key": "Impact of Weather and Diseases",
+              "value": "Diseases, pests, and adverse weather can affect fruit production, supply, and profitability."
+            },
+            {
+              "key": "Importance of Personnel",
+              "value": "Difficulty in hiring and retaining key personnel can adversely affect business success."
+            },
+            {
+              "key": "Acquisition Integration Challenges",
+              "value": "Failure to effectively integrate acquisitions can negatively affect results."
+            },
+            {
+              "key": "Disposal of Assets Challenges",
+              "value": "Difficulties in timely disposal of assets or businesses could hinder strategic objectives."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 55,
+          "title": "Opinion on Internal Control over Financial Reporting",
+          "data": [
+            {
+              "key": "Company",
+              "value": "1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "Reporting period",
+              "value": "July 3, 2022"
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "Unqualified opinion"
+            },
+            {
+              "key": "Management's Assessment",
+              "value": "Effective internal control was not maintained."
+            },
+            {
+              "key": "Material Weakness Identified",
+              "value": "Failure to maintain effective controls over logical access and segregation of duties."
+            },
+            {
+              "key": "PCAOB Standards",
+              "value": "Audited in accordance with PCAOB standards."
+            },
+            {
+              "key": "Reliability of Financial Reporting",
+              "value": "Internal control designed to provide reasonable assurance."
+            },
+            {
+              "key": "Limitations of Internal Control",
+              "value": "Inherent limitations may not prevent or detect misstatements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 57,
+          "title": "EXECUTIVE COMPENSATION",
+          "data": [
+            {
+              "key": "Note",
+              "value": "The information required by Item 11 of Part III will be included in our Proxy Statement relating to our 2022 annual meeting of stockholders and is incorporated herein by reference."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 59,
+          "title": "Index to Exhibits",
+          "data": [
+            {
+              "key": "Equity Purchase Agreement",
+              "value": "dated as of February 14, 2020, by an among 1-800-Flowers.com, Inc., 800-Flowers, Inc. PersonalizationMall.com, LLC, and Bed Bath & Beyond Inc."
+            },
+            {
+              "key": "Third Amended and Restated Certificate of Incorporation",
+              "value": "(Quarterly Report on Form 10-Q filed on February 10, 2017, Exhibit 3.1)"
+            },
+            {
+              "key": "Amendment No. 1 to Third Amended and Restated Certificate of Incorporation",
+              "value": "(Registration Statement on Form S-1/A (No. 333-78985) filed on July 22, 1999, Exhibit 3.2)"
+            },
+            {
+              "key": "Amendment No. 2 to Third Amended and Restated Certificate of Incorporation",
+              "value": "(Current Report on Form 8-K filed on December 15, 2016, Exhibit 3.1)"
+            },
+            {
+              "key": "Second Amended and Restated By-laws",
+              "value": "(Current Report on Form 8-K filed on April 29, 2019, Exhibit 3.2)"
+            },
+            {
+              "key": "Specimen Class A common stock certificate",
+              "value": "(Registration Statement on Form S-1/A (No. 333-78985) filed on July 9, 1999, Exhibit 4.1)"
+            },
+            {
+              "key": "Description of Securities",
+              "value": "(Annual Report on Form 10-K filed on September 13, 2019, Exhibit 4.2)"
+            },
+            {
+              "key": "Employment Agreement",
+              "value": "made October 4, 2016, effective as of July 4, 2016, between 1-800-Flowers.com, Inc. and James F. McCann"
+            },
+            {
+              "key": "Employment Agreement",
+              "value": "made October 4, 2016, effective as of July 4, 2016, between 1-800-Flowers.com, Inc. and Christopher G. McCann"
+            },
+            {
+              "key": "Section 16 Executive Officer’s Bonus Plan",
+              "value": "(Quarterly Report on Form 10-Q filed on February 10, 2017, Exhibit 10.2)"
+            },
+            {
+              "key": "Nonqualified Supplemental Deferred Compensation Plan",
+              "value": "dated December 21, 2010"
+            },
+            {
+              "key": "2003 Long Term Incentive and Share Award Plan",
+              "value": "(Quarterly Report on Form 10-Q filed on February 10, 2017, Exhibit 10.1)"
+            },
+            {
+              "key": "Form of Restricted Share Agreement",
+              "value": "under 2003 Long Term Incentive and Share Award Plan."
+            },
+            {
+              "key": "Form of Incentive Stock Option Agreement",
+              "value": "under 2003 Long Term Incentive and Share Award Plan."
+            },
+            {
+              "key": "Form of Non-statutory Stock Option Agreement",
+              "value": "under 2003 Long Term Incentive and Share Award Plan."
+            },
+            {
+              "key": "Form of Performance Restricted Share Agreement",
+              "value": "under 2003 Long Term Incentive and Share Award Plan"
+            },
+            {
+              "key": "Second Amended and Restated Credit Agreement",
+              "value": "dated as of May 31, 2019 among 1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "First Amendment",
+              "value": "dated as of August 20, 2020, among 1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "Lease",
+              "value": "dated May 20, 2005, between Treeline Mineola, LLC and 1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "Amendment to Equity Purchase Agreement",
+              "value": "dated July 20, 2020"
+            },
+            {
+              "key": "Second Amendment",
+              "value": "dated as of November 8, 2021, among 1-800-FLOWERS.COM, INC."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 70,
+          "title": "Asset Depreciation Schedule",
+          "data": [
+            {
+              "key": "Asset Type",
+              "value": "Building and building improvements (years)"
+            },
+            {
+              "key": "Useful Life Range",
+              "value": "10 - 40"
+            },
+            {
+              "key": "Asset Type",
+              "value": "Leasehold improvements (years)"
+            },
+            {
+              "key": "Useful Life Range",
+              "value": "10"
+            },
+            {
+              "key": "Asset Type",
+              "value": "Furniture, fixtures and production equipment (years)"
+            },
+            {
+              "key": "Useful Life Range",
+              "value": "43 - 20"
+            },
+            {
+              "key": "Asset Type",
+              "value": "Software (years)"
+            },
+            {
+              "key": "Useful Life Range",
+              "value": "3 - 7"
+            },
+            {
+              "key": "Asset Type",
+              "value": "Orchards in production and land improvements (years)"
+            },
+            {
+              "key": "Useful Life Range",
+              "value": "15 - 45"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 87,
+          "title": "Stock-based Compensation and Stock Options Disclosure",
+          "data": [
+            {
+              "key": "Operating Expenses Breakdown",
+              "value": "Stock-based compensation expense is included within operating expenses across various departments. The table shows figures for Marketing and Sales, Technology and Development, and General and Administrative expenses over fiscal years 2020-2022. For example, Marketing and Sales decreased from 4943 (2020) to 3414 (2022), while Total expenses decreased from 10835 (2021) to 7947 (2022)."
+            },
+            {
+              "key": "Option Valuation Parameters",
+              "value": "A table presents option valuation parameters for June 28, 2020: Weighted average fair value of options granted was $10.11, with an expected volatility of 60%, an expected life of 8.0 years, and a dividend yield of 0.0%. Data for 2021 and 2022 were not provided."
+            },
+            {
+              "key": "Stock Options Summary",
+              "value": "The stock options activity during the year ending July 3, 2022 is summarized as follows: Beginning balance of 336,700 options at an average exercise price of $3.44, 321,700 options were exercised at $2.63, and 15,000 options were forfeited or expired at $20.72. By the end of the period, there were no outstanding or exercisable options."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 88,
+          "title": "Share-Based Compensation Awards Movement & Employee Compensation Plans",
+          "data": [
+            {
+              "key": "Options Intrinsic Value",
+              "value": "Total intrinsic values for options exercised: $9.2 million (FY2022), $22.6 million (FY2021), and $2.3 million (FY2020). These values represent the pre-tax intrinsic value based on the difference between the closing stock price and the exercise price."
+            },
+            {
+              "key": "Restricted Stock - Share-Based Compensation Table Title",
+              "value": "Share-Based Compensation Awards Movement"
+            },
+            {
+              "key": "Restricted Stock - Non-Vested Shares (Beginning)",
+              "value": "1,638,806 shares at a weighted average grant date fair value of $18.12"
+            },
+            {
+              "key": "Restricted Stock - Granted",
+              "value": "668,790 shares at a weighted average grant date fair value of $28.53"
+            },
+            {
+              "key": "Restricted Stock - Vested",
+              "value": "(-805,028) shares at a weighted average grant date fair value of $14.23"
+            },
+            {
+              "key": "Restricted Stock - Forfeited",
+              "value": "(-572,859) shares at a weighted average grant date fair value of $29.73"
+            },
+            {
+              "key": "Restricted Stock - Non-Vested Shares (End)",
+              "value": "929,709 shares at a weighted average grant date fair value of $21.82"
+            },
+            {
+              "key": "Unrecognized Compensation Cost",
+              "value": "$11.3 million of total unrecognized compensation cost related to non-vested restricted stock, to be recognized over a weighted-average period of 2.4 years."
+            },
+            {
+              "key": "Employee Retirement Plan - 401(k) Contributions",
+              "value": "Company contributions of $1.9 million (FY2022), $1.6 million (FY2021), and $1.5 million (FY2020)"
+            },
+            {
+              "key": "Deferred Compensation Plan for Executives",
+              "value": "Nonqualified supplemental deferred compensation plan under Section 409A; no company contributions during fiscal years 2022, 2021, and 2020. Amounts deferred by participants can range from 1% up to 100% of salary and bonuses."
+            },
+            {
+              "key": "Deferred Compensation Plan Liabilities",
+              "value": "Plan liabilities were $17.8 million as of July 3, 2022, and $21.7 million as of June 27, 2021, which are included in 'Other liabilities' on the balance sheets."
+            },
+            {
+              "key": "Plan Assets Investment Gains/Losses",
+              "value": "Gains (losses) on investments: ($3.6 million) for FY2022, $5.7 million for FY2021, and $0.3 million for FY2020, included in 'Other (income) expense, net.'"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 16,
+          "title": "Product Offerings and Service Overview",
+          "data": [
+            {
+              "key": "Wide Range of Products",
+              "value": "The Company offers a wide range of products including fresh-cut flowers, floral and fruit arrangements and plants, gifts, personalized products, dipped berries, popcorn, gourmet foods and gift baskets, cookies, chocolates, candy, wine, and gift-quality fruit."
+            },
+            {
+              "key": "Product Development",
+              "value": "The Company’s product development team works closely with its production team to select and design its floral, gourmet foods and gift baskets, as well as other gift-related products."
+            },
+            {
+              "key": "Differentiated Products",
+              "value": "The Company intends to continue to develop differentiated products and signature collections that customers expect."
+            },
+            {
+              "key": "1-800-Flowers.com Brand",
+              "value": "Flags hip brand offers fresh-cut flowers and arrangements for all occasions, available for same-day delivery."
+            },
+            {
+              "key": "PersonalizationMall Brand",
+              "value": "Offers a wide assortment of personalized products using various techniques such as sublimation and engraving."
+            },
+            {
+              "key": "Harry & David",
+              "value": "Specialty retailer and producer of premium gift-quality fruit and food products."
+            },
+            {
+              "key": "BloomNet",
+              "value": "Provides settlement processing, advertising, and access services for florists."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 63,
+          "title": "Consolidated Financial Statements Audit Report",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "Audit Period",
+              "value": "July 3, 2022 and June 27, 2021"
+            },
+            {
+              "key": "Opinion",
+              "value": "The consolidated financial statements present fairly, in all material respects, the financial position of the Company."
+            },
+            {
+              "key": "Goodwill Valuation",
+              "value": "$213.3 million as of July 3, 2022, allocated between three reporting units."
+            },
+            {
+              "key": "Critical Audit Matter",
+              "value": "Valuation of goodwill related to the Gourmet Foods & Gift Baskets Reporting Unit."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 4,
+          "title": "Strategic Investments and Initiatives Amid Macroeconomic Shifts",
+          "data": [
+            {
+              "key": "macroeconomic_conditions",
+              "value": "As the pandemic waned, the company experienced dramatic shifts including rising inflation, disrupted global supply chains, and a tight labor market."
+            },
+            {
+              "key": "capital_investments",
+              "value": "The company used its balance sheet to invest in its operating platform with initiatives such as automating warehouse and distribution facilities."
+            },
+            {
+              "key": "inventory_and_logistics_strategy",
+              "value": "Early inventory buildup and logistics optimization programs were implemented to mitigate global supply chain issues and rising shipping costs."
+            },
+            {
+              "key": "cost_mitigation_efforts",
+              "value": "Proactive measures including automation and strategic pricing programs are aimed at managing labor costs and improving gross margins and bottom-line results."
+            },
+            {
+              "key": "customer_engagement_and_growth",
+              "value": "Enhanced bundled product offerings and multiple engagement initiatives (emails, podcasts, blogs, virtual workshops) contributed to significant customer growth and increased average order value."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 31,
+          "title": "PROPERTIES",
+          "data": [
+            {
+              "key": "report_date",
+              "value": "July 3, 2022"
+            },
+            {
+              "key": "description",
+              "value": "The table presents a comprehensive overview of the company's material properties, including offices, plants, warehouses, and agricultural land across various U.S. locations."
+            },
+            {
+              "key": "table_data",
+              "value": "Locations, facility types, usage, sizes, and ownership status (owned/leased) are provided for properties in Medford, OR; Bolingbrook, IL; Hebron, OH; Atlanta, GA; Melrose Park, IL; Obetz, OH; Jacksonville, FL; Lake Forest, IL; Burr Ridge, IL; Jericho, NY; Westerville, OH; Reno, NV; Memphis, TN; Jackson County, OR; and Josephine County, OR."
+            },
+            {
+              "key": "additional_information",
+              "value": "The summary emphasizes a mix of owned and leased properties with significant agricultural holdings in Oregon, and notes corporate headquarters at Jericho, NY. Subsequent items mention legal proceedings (see Note 17 in Part IV, Item 15) and mine safety disclosures (not applicable)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 50,
+          "title": "Contractual Obligations – Purchase Commitments",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Purchase commitments"
+            },
+            {
+              "key": "2023",
+              "value": "169291"
+            },
+            {
+              "key": "2024",
+              "value": "11236"
+            },
+            {
+              "key": "2025",
+              "value": "6724"
+            },
+            {
+              "key": "2026",
+              "value": "2472"
+            },
+            {
+              "key": "2027",
+              "value": "148"
+            },
+            {
+              "key": "Thereafter",
+              "value": "0"
+            },
+            {
+              "key": "Total",
+              "value": "189871"
+            },
+            {
+              "key": "Summary",
+              "value": "The table shows purchase commitments (in thousands) over a five-year period from 2023 to 2027 and beyond. The highest commitment is in fiscal year 2023 at $169,291,000, with decreasing amounts in subsequent years. The commitments drop significantly after 2023, reaching $148,000 in 2027 with no commitments thereafter. The total purchase commitments across all periods amount to $189,871,000."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 65,
+          "title": "Assets and Liabilities Statement",
+          "data": [
+            {
+              "key": "date",
+              "value": "July 3, 2022"
+            },
+            {
+              "key": "Cash and cash equivalents",
+              "value": "31,465"
+            },
+            {
+              "key": "Trade receivables, net",
+              "value": "23,812"
+            },
+            {
+              "key": "Inventories",
+              "value": "247,563"
+            },
+            {
+              "key": "Prepaid and other",
+              "value": "45,398"
+            },
+            {
+              "key": "Property, plant and equipment, net",
+              "value": "236,481"
+            },
+            {
+              "key": "Operating lease right-of-use assets",
+              "value": "129,390"
+            },
+            {
+              "key": "Goodwill",
+              "value": "213,287"
+            },
+            {
+              "key": "Other assets",
+              "value": "21,927"
+            },
+            {
+              "key": "Total assets",
+              "value": "1,094,891"
+            },
+            {
+              "key": "Accounts payable",
+              "value": "57,386"
+            },
+            {
+              "key": "Accrued expenses",
+              "value": "175,392"
+            },
+            {
+              "key": "Current maturities of long-term debt",
+              "value": "20,000"
+            },
+            {
+              "key": "Current portion of long-term operating lease liabilities",
+              "value": "12,919"
+            },
+            {
+              "key": "Total current liabilities",
+              "value": "265,697"
+            },
+            {
+              "key": "Long-term debt, net",
+              "value": "142,497"
+            },
+            {
+              "key": "Long-term operating lease liabilities",
+              "value": "123,662"
+            },
+            {
+              "key": "Deferred tax liabilities, net",
+              "value": "35,742"
+            },
+            {
+              "key": "Other liabilities",
+              "value": "17,884"
+            },
+            {
+              "key": "Total liabilities",
+              "value": "585,482"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 65,
+          "title": "Stockholders' Equity Statement",
+          "data": [
+            {
+              "key": "description",
+              "value": "Total stockholders' equity"
+            },
+            {
+              "key": "2022",
+              "value": "509,409"
+            },
+            {
+              "key": "2021",
+              "value": "509,070"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 68,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Operating activities",
+              "value": "29,610"
+            },
+            {
+              "key": "Depreciation and amortization",
+              "value": "49,078"
+            },
+            {
+              "key": "Amortization of deferred financing costs",
+              "value": "1,269"
+            },
+            {
+              "key": "Deferred income taxes",
+              "value": "1,579"
+            },
+            {
+              "key": "Bad debt (recoveries)",
+              "value": "-411"
+            },
+            {
+              "key": "Stock-based compensation",
+              "value": "7,947"
+            },
+            {
+              "key": "Net cash provided by operating activities",
+              "value": "5,189"
+            },
+            {
+              "key": "Net cash used in investing activities",
+              "value": "-89,688"
+            },
+            {
+              "key": "Net cash provided by (used in) financing activities",
+              "value": "-57,609"
+            },
+            {
+              "key": "Net change in cash and cash equivalents",
+              "value": "-142,108"
+            },
+            {
+              "key": "Cash and cash equivalents (Beginning of year)",
+              "value": "173,573"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "1-800-FLOWERS.COM, 2022 ANNUAL REPORT",
+          "data": [
+            {
+              "key": "Header",
+              "value": "1-800-FLOWERS.COM, 2022 ANNUAL REPORT"
+            },
+            {
+              "key": "Extracted_Text_Block_1",
+              "value": "David 50 fuga Daeed Vetere Easy"
+            },
+            {
+              "key": "Extracted_Text_Block_2",
+              "value": "PERSONALIZATION™ mau"
+            },
+            {
+              "key": "Extracted_Text_Block_3",
+              "value": "i 2N simph soo“ Chey — casa RESORY chOSelare pacts bloomanet idx. MA|PCO >"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 3,
+          "title": "1-800-FLOWERS.COM, INC. LETTER TO SHAREHOLDERS",
+          "data": [
+            {
+              "key": "Revenue Growth Fiscal 2022",
+              "value": "4% increase"
+            },
+            {
+              "key": "Prior Year Revenue Growth",
+              "value": "Over 40% growth in the previous year"
+            },
+            {
+              "key": "Revenue Compared to Pre-Pandemic Levels",
+              "value": "More than 75% higher than 2019 levels"
+            },
+            {
+              "key": "Adjusted EBITDA",
+              "value": "$99 million"
+            },
+            {
+              "key": "Cost Structure Impact",
+              "value": "Profits pressured by significant macro inflationary headwinds and increased product/operating costs"
+            },
+            {
+              "key": "Operational Initiatives",
+              "value": "Investments in automation, logistics optimization, and marketing to drive revenue and improve efficiency"
+            },
+            {
+              "key": "Customer and Loyalty Growth",
+              "value": "Expanded customer file and enhanced Celebrations Passport loyalty program"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 6,
+          "title": "Страница намеренно оставлена пустой",
+          "data": [
+            {
+              "key": "Комментарий",
+              "value": "На данной странице отсутствуют данные для анализа."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 7,
+          "title": "SEC Form 10-K Cover Page and Table of Contents",
+          "data": [
+            {
+              "key": "Form",
+              "value": "10-K"
+            },
+            {
+              "key": "Report Type",
+              "value": "Annual Report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934"
+            },
+            {
+              "key": "Fiscal Year End Date",
+              "value": "July 3, 2022"
+            },
+            {
+              "key": "Commission File No",
+              "value": "0-26841"
+            },
+            {
+              "key": "Registrant Name",
+              "value": "1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "State of Incorporation",
+              "value": "Delaware"
+            },
+            {
+              "key": "I.R.S. Employer Identification No.",
+              "value": "11-3117311"
+            },
+            {
+              "key": "Principal Executive Offices",
+              "value": "Two Jericho Plaza, Suite 200, Jericho, NY 11753"
+            },
+            {
+              "key": "Registrant Telephone Number",
+              "value": "(516) 237-6000"
+            },
+            {
+              "key": "Securities Registered (Section 12(b))",
+              "value": "Class A common stock traded on The Nasdaq Stock Market"
+            },
+            {
+              "key": "Stock Symbol",
+              "value": "FLWS"
+            },
+            {
+              "key": "Company Classification",
+              "value": "Accelerated filer; Emerging growth company"
+            },
+            {
+              "key": "Filing Compliance",
+              "value": "Filed all required reports and submitted all Interactive Data Files as mandated"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "This MD&A section provides insights into the Company's financial condition, cash flow, liquidity, and results of operations."
+            },
+            {
+              "key": "Business Overview",
+              "value": "The Company is a leading provider of gifts with multiple segments including Consumer Floral & Gifts, Gourmet Foods & Gift Baskets, and BloomNet."
+            },
+            {
+              "key": "Fiscal 2022 Revenue Growth",
+              "value": "4.0% increase with total revenues exceeding $2.2 billion"
+            },
+            {
+              "key": "Historical Revenue Growth Comparison",
+              "value": "42.5% growth in fiscal 2021 and 76.8% growth compared with fiscal 2019 (48.8% excluding acquisitions)"
+            },
+            {
+              "key": "Cost Pressures",
+              "value": "Rising costs due to inflation, increased labor, shipping, commodities, and digital advertising rates negatively impacted gross margins and operating expenses"
+            },
+            {
+              "key": "Gross Margin Decline",
+              "value": "A decrease of 500 basis points in gross margin due to cost pressures"
+            },
+            {
+              "key": "Adjusted EBITDA Decline",
+              "value": "Declined from $213.1 million in fiscal 2021 to $99.0 million in fiscal 2022"
+            },
+            {
+              "key": "Forward-Looking and Risk Factors",
+              "value": "The discussion includes forward-looking statements and highlights risks associated with macroeconomic conditions and changes in consumer behavior"
+            },
+            {
+              "key": "Non-Gross Margin Labor Changes",
+              "value": "Execution of performance bonus eliminations for executives contributed to labor cost reductions"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Table of Contents: Financial Performance Metrics",
+          "data": [
+            {
+              "key": "EBITDA and Adjusted EBITDA",
+              "value": "Defined as supplemental performance measures used by the Company for evaluating performance, determining incentive compensation for executive officers and employees, setting interest rates under the credit agreement, and evaluating acquisition targets. They do not reflect cash needs for working capital, debt servicing, or future capital expenditures."
+            },
+            {
+              "key": "Segment Contribution Margin",
+              "value": "Represents earnings before interest, taxes, depreciation, and amortization (EBITDA) before corporate overhead expenses, adjusted for comparability. It is used with GAAP results to provide insight into business segment performance."
+            },
+            {
+              "key": "Adjusted Net Income and Adjusted Net Income per Common Share",
+              "value": "Net income and net income per common share adjusted for items affecting period-to-period comparability. These measures are used alongside GAAP figures to enhance comparability."
+            },
+            {
+              "key": "Free Cash Flow",
+              "value": "Calculated as net cash provided by operating activities less capital expenditures. This liquidity measure informs management and investors about cash generation available for reinvestment, strategic acquisitions, balance sheet strengthening, stock repurchase, or debt retirement, while not reflecting the total change in cash balance."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Financial Performance Comparison (July 2022 vs June 2021)",
+          "data": [
+            {
+              "key": "Net revenues - Consumer Floral & Gifts",
+              "value": "2022: 1059570, 2021: 1025015, change: 3.4%"
+            },
+            {
+              "key": "Net revenues - BloomNet",
+              "value": "2022: 145702, 2021: 142919, change: 1.9%"
+            },
+            {
+              "key": "Net revenues - Gourmet Foods & Gift Baskets",
+              "value": "2022: 1004272, 2021: 955607, change: 5.1%"
+            },
+            {
+              "key": "Net revenues - Total",
+              "value": "2022: 2207885, 2021: 2122245, change: 4.0%"
+            },
+            {
+              "key": "Gross profit - Consumer Floral & Gifts",
+              "value": "2022: 416591 (margin: 39.3%), 2021: 420860 (margin: 41.1%), change: -1.0%"
+            },
+            {
+              "key": "Gross profit - BloomNet",
+              "value": "2022: 61562 (margin: 42.3%), 2021: 64978 (margin: 45.5%), change: -5.3%"
+            },
+            {
+              "key": "Gross profit - Total",
+              "value": "2022: 821738 (margin: 37.2%), 2021: 896429 (margin: 42.2%), change: -8.3%"
+            },
+            {
+              "key": "Adjusted EBITDA",
+              "value": "2022: 98983, 2021: 213065, change: -53.5%"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents a detailed financial comparison between July 2022 and June 2021. Key highlights include an increase in total net revenues by 4.0% to $2.21B in 2022, a decline in gross profit margins across segments, and a significant drop in adjusted EBITDA by 53.5%."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "OMAN GALAL Financial Reconciliation Statement",
+          "data": [
+            {
+              "key": "Period",
+              "value": "July 3, 2022"
+            },
+            {
+              "key": "Net income",
+              "value": "29610"
+            },
+            {
+              "key": "Transaction costs",
+              "value": "540"
+            },
+            {
+              "key": "Litigation settlement",
+              "value": "2900"
+            },
+            {
+              "key": "Harry & David store closure cost adjustment",
+              "value": "0"
+            },
+            {
+              "key": "Income tax effect on adjustments",
+              "value": "-165"
+            },
+            {
+              "key": "Adjusted net income (non-GAAP)",
+              "value": "32885"
+            },
+            {
+              "key": "Basic EPS",
+              "value": "0.46"
+            },
+            {
+              "key": "Diluted EPS",
+              "value": "0.45"
+            },
+            {
+              "key": "Adjusted Basic EPS (non-GAAP)",
+              "value": "0.51"
+            },
+            {
+              "key": "Summary",
+              "value": "The table reconciles net income to adjusted net income (non-GAAP) comparing periods ending July 3, 2022 and June 27, 2021. Net income decreased significantly from 118,652 to 29,610 while adjusted net income decreased from 122,567 to 32,885. Basic EPS and adjusted EPS also declined."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Basic and Diluted Shares/EPS Comparison",
+          "data": [
+            {
+              "key": "Basic (Current vs Previous)",
+              "value": "64,977 vs 64,739"
+            },
+            {
+              "key": "Diluted (Current vs Previous)",
+              "value": "65,617 vs 66,546"
+            },
+            {
+              "key": "Summary",
+              "value": "The table shows that the basic share count slightly increased while the diluted figure decreased, indicating a minor change in the company's share structure or earnings calculation."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "EBITDA Reconciliation",
+          "data": [
+            {
+              "key": "Net Income July 3, 2022",
+              "value": "29610"
+            },
+            {
+              "key": "Net Income June 27, 2021",
+              "value": "118652"
+            },
+            {
+              "key": "Adjusted EBITDA July 3, 2022",
+              "value": "98983"
+            },
+            {
+              "key": "Adjusted EBITDA June 27, 2021",
+              "value": "213065"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents a comparative EBITDA reconciliation for two periods, showing a significant decrease in net income and adjusted EBITDA. Key adjustments include depreciation and amortization, stock-based compensation, and various one-time charges such as litigation settlement and transaction costs."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Net revenues",
+          "data": [
+            {
+              "key": "E-Commerce 2022",
+              "value": "1934648"
+            },
+            {
+              "key": "E-Commerce 2021",
+              "value": "1879550"
+            },
+            {
+              "key": "E-Commerce 2020",
+              "value": "1230385"
+            },
+            {
+              "key": "Other 2022",
+              "value": "273237"
+            },
+            {
+              "key": "Other 2021",
+              "value": "242695"
+            },
+            {
+              "key": "Other 2020",
+              "value": "259252"
+            },
+            {
+              "key": "Summary",
+              "value": "The net revenues table shows that E-Commerce revenues have grown consistently from 2020 through 2022, while the Other segment experienced volatility with a decline in 2021 followed by a recovery in 2022. Overall, net revenues increased by 4.0% year-over-year, with adjustments for non-comparative impacts."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "Disaggregated Revenue by Channel",
+          "data": [
+            {
+              "key": "Table Heading",
+              "value": "Years Ended"
+            },
+            {
+              "key": "Other",
+              "value": "32"
+            },
+            {
+              "key": "Change",
+              "value": "2.9%, 12.6%, 4.0%, 7.9%, 27.6%, 6.0%, 41.1%, 13.6%, 12.6%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Revenue Analysis: Sales Channels & Segment Performance",
+          "data": [
+            {
+              "key": "E-commerce revenue growth fiscal 2022",
+              "value": "2.9%"
+            },
+            {
+              "key": "Gourmet Foods & Gift Baskets growth fiscal 2022",
+              "value": "2.4%"
+            },
+            {
+              "key": "Consumer Floral & Gifts growth fiscal 2022",
+              "value": "3.4%"
+            },
+            {
+              "key": "Average order value fiscal 2022",
+              "value": "$78.77 (+9.0%)"
+            },
+            {
+              "key": "E-commerce order volume change fiscal 2022",
+              "value": "24.5 million (-5.6%)"
+            },
+            {
+              "key": "E-commerce revenue growth fiscal 2021",
+              "value": "52.8%"
+            },
+            {
+              "key": "Consumer Floral & Gifts e-commerce growth fiscal 2021",
+              "value": "73.5%"
+            },
+            {
+              "key": "Gourmet Foods & Gift Baskets e-commerce growth fiscal 2021",
+              "value": "34.0%"
+            },
+            {
+              "key": "Total e-commerce orders fiscal 2021",
+              "value": "26.0 million (+54.9%)"
+            },
+            {
+              "key": "Average order value fiscal 2021",
+              "value": "$72.22 (-1.4%)"
+            },
+            {
+              "key": "Other revenues growth fiscal 2022",
+              "value": "12.6%"
+            },
+            {
+              "key": "Other revenues change fiscal 2021",
+              "value": "−6.4%"
+            },
+            {
+              "key": "Consumer Floral & Gifts segment net revenue growth fiscal 2022",
+              "value": "3.4%"
+            },
+            {
+              "key": "Pro-forma segment revenue growth (excluding acquisitions) fiscal 2022",
+              "value": "2.0%"
+            },
+            {
+              "key": "Acquisition Details",
+              "value": "Vital Choice (Oct 27, 2021), PersonalizationMall (Aug 3, 2020), Alice’s Table (Dec 31, 2021)"
+            },
+            {
+              "key": "BloomNet segment revenue growth fiscal 2022",
+              "value": "1.9%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "net_revenue_growth_2021",
+              "value": "27.9%"
+            },
+            {
+              "key": "net_revenue_growth_2022",
+              "value": "5.1%"
+            },
+            {
+              "key": "ecommerce_revenue_growth_2021",
+              "value": "34.0%"
+            },
+            {
+              "key": "wholesale_retail_revenue_decline_2021",
+              "value": "34.8%"
+            },
+            {
+              "key": "gross_margin_range",
+              "value": "37.2% - 42.2%"
+            },
+            {
+              "key": "gross_profit_definition",
+              "value": "Gross profit is defined as net revenues less cost of revenues, which includes florist fulfillment costs, cost of merchandise (floral & non-floral), shipping charges, labor, facility costs, and payments to referring florists."
+            },
+            {
+              "key": "strategic_initiative",
+              "value": "In April 2020, a strategic decision was made to temporarily waive fees and establish health and safety protocols to support member florists during the pandemic."
+            },
+            {
+              "key": "segment_details",
+              "value": "The Gourmet Foods & Gift Baskets segment includes operations of Harry & David, Wolferman’s Bakery, Stock Yards, Cheryl’s Cookies, The Popcorn Factory, 1-800-Baskets/DesignPac, Shari’s Berries (acquired on August 14, 2019), and Vital Choice (acquired on October 27, 2021). Revenue sources include e-commerce, retail, and wholesale channels."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Gross Profit Financial Performance Analysis (Fiscal 2022 & 2021)",
+          "data": [
+            {
+              "key": "Fiscal 2022 Gross Profit Change",
+              "value": "Decreased 8.3% due to a lower gross profit percentage"
+            },
+            {
+              "key": "Gross Margin (Pro-forma) Fiscal 2022",
+              "value": "37.2% after adjusting for acquisitions"
+            },
+            {
+              "key": "Key Negative Factors",
+              "value": "Lower margins across segments; supply chain disruptions; increased commodity costs; higher year-over-year labor rates; shipping delays and increased costs including fuel surcharges; write-off of expired perishable inventories"
+            },
+            {
+              "key": "Strategic Initiatives",
+              "value": "Pricing initiatives, pre-building inventory to offset supply chain delays, logistics optimization for outbound shipping, and deployment of automation to address labor shortages"
+            },
+            {
+              "key": "Segment Details",
+              "value": "Consumer Floral & Gifts showed a 1.0% unfavorable change (adjusted pro-forma gross profit percentage of 39.2% for FY2022 vs FY2021), BloomNet segment experienced a 5.3% unfavorable change, and Gourmet Foods & Gift Baskets saw a 16.3% unfavorable change due to a drop in gross profit percentage"
+            },
+            {
+              "key": "Fiscal 2021 Performance Highlights",
+              "value": "Gross profit increased significantly in various segments due to revenue growth and improved gross profit margins driven by acquisitions and pricing initiatives, with pro-forma margins noted (e.g., 41.1% and 37.9% for adjusted figures)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Marketing and Sales Performance Comparison",
+          "data": [
+            {
+              "key": "Category (Marketing and Sales)",
+              "value": "Marketing and sales"
+            },
+            {
+              "key": "July 3, 2022 Expense",
+              "value": "571661"
+            },
+            {
+              "key": "June 27, 2021 Change",
+              "value": "7.2%"
+            },
+            {
+              "key": "June 27, 2021 Expense",
+              "value": "533268"
+            },
+            {
+              "key": "June 27, 2021 Change (Additional)",
+              "value": "46.8%"
+            },
+            {
+              "key": "June 28, 2020 Expense",
+              "value": "363227"
+            },
+            {
+              "key": "Category (Percentage of Sales)",
+              "value": "Percentage of sales"
+            },
+            {
+              "key": "July 3, 2022 Percentage",
+              "value": "25.9%"
+            },
+            {
+              "key": "June 27, 2021 Percentage",
+              "value": "25.1%"
+            },
+            {
+              "key": "June 28, 2020 Percentage",
+              "value": "24.4%"
+            },
+            {
+              "key": "Summary",
+              "value": "The table shows marketing and sales figures across different time periods from 2020 to 2022. Marketing and sales expenses increased from $363,227k in June 2020 to $571,661k in July 2022, representing significant growth. As a percentage of sales, these expenses increased from 24.4% to 25.9%, indicating a slightly higher proportion of revenue being spent on marketing and sales activities. Additional narrative details describe increased advertising spend, higher advertising rates, and impacts from acquisitions and labor cost adjustments."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Technology and Development Expenses Comparison",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Technology and development"
+            },
+            {
+              "key": "July 3, 2022 Expense",
+              "value": "56561"
+            },
+            {
+              "key": "2022 Change",
+              "value": "3.9%"
+            },
+            {
+              "key": "June 27, 2021 Expense",
+              "value": "54428"
+            },
+            {
+              "key": "2021 Change",
+              "value": "11.8%"
+            },
+            {
+              "key": "June 28, 2020 Expense",
+              "value": "48698"
+            },
+            {
+              "key": "Summary",
+              "value": "The table shows technology and development expenses across three fiscal years. Expenses increased from $48,698,000 in June 2020 to $54,428,000 in June 2021 (an 11.8% increase), and further to $56,561,000 in July 2022 (a 3.9% increase), indicating a slowdown in the rate of increase. The narrative highlights factors such as higher maintenance and support costs alongside savings from reduced labor costs."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Financial Performance Metrics: G&A Expense and Depreciation & Amortization Trends",
+          "data": [
+            {
+              "key": "General and Administrative Expense 2022",
+              "value": "102337 k; -12.6% change"
+            },
+            {
+              "key": "General and Administrative Expense 2021",
+              "value": "117136 k; +20.3% change"
+            },
+            {
+              "key": "General and Administrative Expense 2020",
+              "value": "97394 k"
+            },
+            {
+              "key": "Percentage of Sales for G&A 2022",
+              "value": "4.6%"
+            },
+            {
+              "key": "Percentage of Sales for G&A 2021",
+              "value": "5.5%"
+            },
+            {
+              "key": "Percentage of Sales for G&A 2020",
+              "value": "6.5%"
+            },
+            {
+              "key": "G&A Expense Summary",
+              "value": "Expenses decreased from $117,136k in 2021 to $102,337k in 2022 (12.6% decrease) after a 20.3% increase from 2020, reflecting lower labor costs, reduced performance-related bonuses, and lower professional fees."
+            },
+            {
+              "key": "Depreciation and Amortization 2022",
+              "value": "49078 k; +15.5% increase"
+            },
+            {
+              "key": "Depreciation and Amortization 2021",
+              "value": "42510 k; +30.7% increase"
+            },
+            {
+              "key": "Depreciation and Amortization 2020",
+              "value": "32513 k"
+            },
+            {
+              "key": "Depreciation & Amortization Summary",
+              "value": "Depreciation and amortization expense increased steadily with a total rise of approximately 51% from 2020 to 2022, driven by investments in automation, IT enhancements, acquisitions, and related amortization adjustments."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Interest Expense Comparison Across Fiscal Years",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Interest expense, net"
+            },
+            {
+              "key": "Jul 3, 2022 Value",
+              "value": "5667"
+            },
+            {
+              "key": "Jul 3, 2022 Change",
+              "value": "N/A"
+            },
+            {
+              "key": "Jun 27, 2021 Value",
+              "value": "5860"
+            },
+            {
+              "key": "Jun 27, 2021 Change",
+              "value": "-3.3%"
+            },
+            {
+              "key": "Jun 28, 2020 Value",
+              "value": "2438"
+            },
+            {
+              "key": "Jun 28, 2020 Change",
+              "value": "140.4%"
+            },
+            {
+              "key": "Summary",
+              "value": "Interest expense, net increased significantly from $2,438,000 in June 2020 to $5,860,000 in June 2021 (a 140.4% increase) and then decreased by 3.3% in fiscal 2022, influenced by amendments to the Company’s credit facility and incremental debt used for the acquisition of PersonalizationMall."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Other Income/Expense Comparison Across Fiscal Years",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Other (income) expense, net"
+            },
+            {
+              "key": "Jul 3, 2022 Value",
+              "value": "5332"
+            },
+            {
+              "key": "Jun 27, 2021 Value",
+              "value": "-5888"
+            },
+            {
+              "key": "Jun 27, 2021 Change",
+              "value": "-190.6%"
+            },
+            {
+              "key": "Jun 27, 2021 vs 2020 Change",
+              "value": "7,109.5%"
+            },
+            {
+              "key": "Jun 28, 2020 Value",
+              "value": "84"
+            },
+            {
+              "key": "Summary",
+              "value": "Other income/expense figures show a dramatic shift from a $5,888 thousand income in June 2021 to a $5,332 thousand expense in July 2022, with extreme volatility noted as a 7,109.5% change compared to June 2020. The fiscal 2022 expense includes losses from NQDC deferred compensation investments and impairments on certain investments."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Income Taxes and Effective Tax Rates",
+          "data": [
+            {
+              "key": "Income Tax Expense 2022",
+              "value": "$1.5 million"
+            },
+            {
+              "key": "Effective Tax Rate 2022",
+              "value": "4.8%"
+            },
+            {
+              "key": "Income Tax Expense 2021",
+              "value": "$30.5 million"
+            },
+            {
+              "key": "Effective Tax Rate 2021",
+              "value": "20.4%"
+            },
+            {
+              "key": "Income Tax Expense 2020",
+              "value": "$18.8 million"
+            },
+            {
+              "key": "Effective Tax Rate 2020",
+              "value": "24.2%"
+            },
+            {
+              "key": "Summary",
+              "value": "The Company’s income tax expense and effective tax rates varied significantly over the three fiscal years. Factors affecting these changes include excess tax benefits from stock-based compensation, various tax credits, state income taxes, nondeductible expenses for executive compensation, adjustments in the valuation allowance, and the expiration of capital loss carryforwards."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Liquidity, Capital Resources and Cash Flows Overview",
+          "data": [
+            {
+              "key": "Working Capital (July 3, 2022)",
+              "value": "$82.5 million"
+            },
+            {
+              "key": "Cash and Cash Equivalents (July 3, 2022)",
+              "value": "$31.5 million"
+            },
+            {
+              "key": "Working Capital (June 27, 2021)",
+              "value": "$134.1 million"
+            },
+            {
+              "key": "Cash and Cash Equivalents (June 27, 2021)",
+              "value": "$173.6 million"
+            },
+            {
+              "key": "Borrowings Outstanding under Revolver (July 3, 2022)",
+              "value": "None"
+            },
+            {
+              "key": "Peak Revolver Borrowings",
+              "value": "$125.0 million (November 2021)"
+            },
+            {
+              "key": "Net Cash Provided by Operating Activities (Fiscal 2022)",
+              "value": "$5.2 million"
+            },
+            {
+              "key": "Net Cash Used in Investing Activities (Fiscal 2022)",
+              "value": "$89.7 million"
+            },
+            {
+              "key": "Acquisitions (Vital Choice & Alice’s Table)",
+              "value": "$21.3 million"
+            },
+            {
+              "key": "Capital Expenditures",
+              "value": "$66.4 million"
+            },
+            {
+              "key": "Net Cash Used in Financing Activities",
+              "value": "$57.6 million"
+            },
+            {
+              "key": "Notes Payable Repayment",
+              "value": "$20.0 million"
+            },
+            {
+              "key": "Acquisition of Treasury Stock",
+              "value": "$38.2 million"
+            },
+            {
+              "key": "Stock Repurchase Program",
+              "value": "See Item 5 in Part II for details"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Critical Accounting Policies and Estimates",
+          "data": [
+            {
+              "key": "Section",
+              "value": "Critical Accounting Policies and Estimates – Discussion of the basis for financial statements and the role of management judgments in estimating assets, liabilities, revenues, and expenses."
+            },
+            {
+              "key": "Company",
+              "value": "1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "Accounting Principles",
+              "value": "U.S. generally accepted accounting principles"
+            },
+            {
+              "key": "Critical Estimates",
+              "value": "Estimates and assumptions affecting asset values, liabilities, revenue, expenses and contingent disclosures; evaluated on an ongoing basis based on historical experience and other factors."
+            },
+            {
+              "key": "Goodwill",
+              "value": "Represents excess of purchase price over fair value of net assets acquired; not amortized but subject to annual impairment testing with qualitative (Step 0) and quantitative (Step 1) methods."
+            },
+            {
+              "key": "Other Intangible Assets",
+              "value": "Includes definite-lived intangibles (amortized over 3 to 16 years) and indefinite-lived intangibles (not amortized)."
+            },
+            {
+              "key": "Impairment Testing Methodology",
+              "value": "Utilizes both income and market approaches, including discounted cash flow and guideline public company method, with reconciliation to market capitalization."
+            },
+            {
+              "key": "Risk and Uncertainty",
+              "value": "Recognizes that actual results could differ based on economic conditions, market fluctuations, and changes in underlying assumptions, potentially resulting in impairment losses."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Table of Contents - Impairment Testing and Income Taxes",
+          "data": [
+            {
+              "key": "Impairment Testing of Intangibles",
+              "value": "Definite-lived intangible assets are reviewed for impairment when changes in circumstances indicate that their carrying amounts may not be recoverable. A recoverability test is performed by comparing projected undiscounted cash flows with carrying value, and if cash flows are less, an impairment charge is recorded based on fair value determined by discounting future cash flows."
+            },
+            {
+              "key": "Indefinite-Lived Intangible Assets",
+              "value": "Tested for impairment at least annually or when triggering events occur. A qualitative 'Step 0' test may be used to assess if a quantitative test is necessary."
+            },
+            {
+              "key": "Income Taxes",
+              "value": "The asset and liability method is used to account for income taxes, with deferred tax assets and liabilities established for temporary differences. Recognition of deferred tax assets depends on future taxable income and other factors, with uncertain tax positions measured by the largest benefit with a greater than 50% likelihood of realization."
+            },
+            {
+              "key": "Assumptions and Judgement",
+              "value": "The assessment requires significant judgments and assumptions regarding cash flows, discount rates, and economic factors which could lead to revisions and, if necessary, recognition of impairment losses."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Item",
+              "value": "15"
+            },
+            {
+              "key": "Exhibits and Financial Statements",
+              "value": "Index to Consolidated Financial Statements"
+            },
+            {
+              "key": "Consolidated Balance Sheets",
+              "value": "as of July 3, 2022 and June 27, 2021"
+            },
+            {
+              "key": "Consolidated Statements of Income and Comprehensive Income",
+              "value": "for the years ended July 3, 2022, June 27, 2021 and June 28, 2020"
+            },
+            {
+              "key": "Consolidated Statements of Stockholders’ Equity",
+              "value": "for the years ended July 3, 2022, June 27, 2021 and June 28, 2020"
+            },
+            {
+              "key": "Consolidated Statements of Cash Flows",
+              "value": "for the years ended July 3, 2022, June 27, 2021 and June 28, 2020"
+            },
+            {
+              "key": "Independent Registered Public Accounting Firm",
+              "value": "BDO USA, LLP; Melville, NY; PCAOB ID#243"
+            },
+            {
+              "key": "Schedule II",
+              "value": "Valuation and Qualifying Accounts - F-31"
+            },
+            {
+              "key": "Omission",
+              "value": "All other information and financial statement schedules are omitted because they are not applicable, or required, or because the required information is included in the consolidated financial statements or notes thereto."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 66,
+          "title": "Financial Performance Comparison",
+          "data": [
+            {
+              "key": "Net revenues",
+              "value": "$2.21B (2022) | $2.12B (2021) | $1.49B (2020)"
+            },
+            {
+              "key": "Cost of revenues",
+              "value": "$1.39B (2022) | $1.23B (2021) | $867.44M (2020)"
+            },
+            {
+              "key": "Gross profit",
+              "value": "$821.74M (2022) | $896.43M (2021) | $622.20M (2020)"
+            },
+            {
+              "key": "Marketing and sales",
+              "value": "$571.66M (2022) | $533.27M (2021) | $363.23M (2020)"
+            },
+            {
+              "key": "Technology and development",
+              "value": "$56.56M (2022) | $54.43M (2021) | $48.70M (2020)"
+            },
+            {
+              "key": "General and administrative",
+              "value": "$102.34M (2022) | $117.14M (2021) | $97.39M (2020)"
+            },
+            {
+              "key": "Operating income",
+              "value": "$42.10M (2022) | $149.09M (2021) | $80.36M (2020)"
+            },
+            {
+              "key": "Net income",
+              "value": "$29.61M (2022) | $118.65M (2021) | $58.99M (2020)"
+            },
+            {
+              "key": "Diluted net income per common share",
+              "value": "$0.45 (2022) | $1.78 (2021) | $0.89 (2020)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 67,
+          "title": "Stockholders' Equity Statement",
+          "data": [
+            {
+              "key": "Date",
+              "value": "June 30, 2019"
+            },
+            {
+              "key": "Class A Shares",
+              "value": "53,084,127"
+            },
+            {
+              "key": "Class A Amount",
+              "value": "530"
+            },
+            {
+              "key": "Class B Shares",
+              "value": "33,822,823"
+            },
+            {
+              "key": "Class B Amount",
+              "value": "338"
+            },
+            {
+              "key": "Paid In Capital",
+              "value": "349,319"
+            },
+            {
+              "key": "Earnings",
+              "value": "108,525"
+            },
+            {
+              "key": "Treasury Stock Shares",
+              "value": "22,489,093"
+            },
+            {
+              "key": "Treasury Stock Amount",
+              "value": "-115,732"
+            },
+            {
+              "key": "Total Equity",
+              "value": "342,711"
+            },
+            {
+              "key": "Date",
+              "value": "June 28, 2020"
+            },
+            {
+              "key": "Class A Shares",
+              "value": "53,704,477"
+            },
+            {
+              "key": "Class A Amount",
+              "value": "537"
+            },
+            {
+              "key": "Class B Shares",
+              "value": "33,822,823"
+            },
+            {
+              "key": "Class B Amount",
+              "value": "338"
+            },
+            {
+              "key": "Paid In Capital",
+              "value": "358,031"
+            },
+            {
+              "key": "Earnings",
+              "value": "167,523"
+            },
+            {
+              "key": "Treasury Stock Shares",
+              "value": "23,243,551"
+            },
+            {
+              "key": "Treasury Stock Amount",
+              "value": "-126,412"
+            },
+            {
+              "key": "Total Equity",
+              "value": "399,774"
+            },
+            {
+              "key": "Date",
+              "value": "June 27, 2021"
+            },
+            {
+              "key": "Class A Shares",
+              "value": "55,675,661"
+            },
+            {
+              "key": "Class A Amount",
+              "value": "557"
+            },
+            {
+              "key": "Class B Shares",
+              "value": "33,433,614"
+            },
+            {
+              "key": "Class B Amount",
+              "value": "334"
+            },
+            {
+              "key": "Paid In Capital",
+              "value": "371,103"
+            },
+            {
+              "key": "Earnings",
+              "value": "286,175"
+            },
+            {
+              "key": "Treasury Stock Shares",
+              "value": "24,105,841"
+            },
+            {
+              "key": "Treasury Stock Amount",
+              "value": "-148,781"
+            },
+            {
+              "key": "Total Equity",
+              "value": "509,070"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 72,
+          "title": "Deferred Catalog Costs and Investments",
+          "data": [
+            {
+              "key": "deferred_catalog_costs",
+              "value": "$3.1 million and $2.7 million related to prepaid catalog expenses as of July 3, 2022 and June 27, 2021 respectively."
+            },
+            {
+              "key": "equity_investments_cost_method",
+              "value": "Aggregate carrying amount was $3.5 million as of July 3, 2022 and $4.6 million as of June 27, 2021."
+            },
+            {
+              "key": "concentration_of_credit_risk",
+              "value": "Allowances for accounts receivable were $2.4 million at July 3, 2022 and $4.0 million at June 27, 2021."
+            },
+            {
+              "key": "revenue_recognition_ecommerce",
+              "value": "Revenue is recognized upon shipment for online sales."
+            },
+            {
+              "key": "revenue_recognition_retail",
+              "value": "Revenue is recognized at point of sale for in-store sales."
+            },
+            {
+              "key": "revenue_recognition_wholesale",
+              "value": "Revenue is recognized when control of goods is transferred, typically on 30 days payment terms."
+            },
+            {
+              "key": "revenue_recognition_bloomnet_services",
+              "value": "Membership fees recognized monthly; service revenues recognized when orders are delivered."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 73,
+          "title": "Deferred Revenues and Costs",
+          "data": [
+            {
+              "key": "Total Deferred Revenue",
+              "value": "$33.4 million"
+            },
+            {
+              "key": "Deferred Revenue Recognized",
+              "value": "$32.8 million"
+            },
+            {
+              "key": "Deferred Revenue Balance as of July 3, 2022",
+              "value": "$33.7 million"
+            },
+            {
+              "key": "Advertising Expense for 2022",
+              "value": "$347.7 million"
+            },
+            {
+              "key": "Advertising Expense for 2021",
+              "value": "$307.9 million"
+            },
+            {
+              "key": "Advertising Expense for 2020",
+              "value": "$171.4 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 74,
+          "title": "Income Taxes",
+          "data": [
+            {
+              "key": "Deferred Tax Assets",
+              "value": "Established for temporary differences between financial reporting bases and income tax bases at enacted tax rates."
+            },
+            {
+              "key": "Tax Benefits Recognition",
+              "value": "Recognized only if the tax position is more likely than not sustained on examination."
+            },
+            {
+              "key": "Unrecognized Tax Benefits",
+              "value": "Adjusted for changes in tax law, regulations, and tax examinations."
+            },
+            {
+              "key": "Net Income Per Share (Basic)",
+              "value": "Computed by dividing the net income by the weighted average number of common shares."
+            },
+            {
+              "key": "Adopted Accounting Pronouncements",
+              "value": "ASU No. 2016-13 on credit losses did not have a material impact on financial statements."
+            },
+            {
+              "key": "Goodwill Impairment Test",
+              "value": "ASU No. 2017-04 eliminated step two from the goodwill impairment test."
+            },
+            {
+              "key": "Impact of COVID-19",
+              "value": "CARES Act did not have a material impact on financial statements during fiscal 2022 and 2021."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 81,
+          "title": "Intangible Assets Summary",
+          "data": [
+            {
+              "key": "Category: Investment in licenses, Amortization Period",
+              "value": "14-16"
+            },
+            {
+              "key": "Gross Carrying Amount",
+              "value": "7,420"
+            },
+            {
+              "key": "Accumulated Amortization",
+              "value": "6,464"
+            },
+            {
+              "key": "Net Amount",
+              "value": "956"
+            },
+            {
+              "key": "Prior Gross Amount",
+              "value": "7,420"
+            },
+            {
+              "key": "Prior Accumulated Amortization",
+              "value": "6,359"
+            },
+            {
+              "key": "Prior Net",
+              "value": "1,061"
+            },
+            {
+              "key": "Category: Customer lists, Amortization Period",
+              "value": "3-10"
+            },
+            {
+              "key": "Gross Carrying Amount",
+              "value": "28,509"
+            },
+            {
+              "key": "Accumulated Amortization",
+              "value": "17,473"
+            },
+            {
+              "key": "Net Amount",
+              "value": "11,036"
+            },
+            {
+              "key": "Prior Gross Amount",
+              "value": "23,825"
+            },
+            {
+              "key": "Prior Accumulated Amortization",
+              "value": "13,697"
+            },
+            {
+              "key": "Prior Net",
+              "value": "10,128"
+            },
+            {
+              "key": "Category: Other, Amortization Period",
+              "value": "5-14"
+            },
+            {
+              "key": "Gross Carrying Amount",
+              "value": "2,946"
+            },
+            {
+              "key": "Accumulated Amortization",
+              "value": "2,543"
+            },
+            {
+              "key": "Net Amount",
+              "value": "403"
+            },
+            {
+              "key": "Prior Gross Amount",
+              "value": "2,946"
+            },
+            {
+              "key": "Prior Accumulated Amortization",
+              "value": "2,483"
+            },
+            {
+              "key": "Prior Net",
+              "value": "463"
+            },
+            {
+              "key": "Category: Total intangible assets with determinable lives",
+              "value": ""
+            },
+            {
+              "key": "Gross Carrying Amount",
+              "value": "38,875"
+            },
+            {
+              "key": "Accumulated Amortization",
+              "value": "26,480"
+            },
+            {
+              "key": "Net Amount",
+              "value": "12,395"
+            },
+            {
+              "key": "Prior Gross Amount",
+              "value": "34,191"
+            },
+            {
+              "key": "Prior Accumulated Amortization",
+              "value": "22,539"
+            },
+            {
+              "key": "Prior Net",
+              "value": "11,652"
+            },
+            {
+              "key": "Category: Total identifiable intangible assets",
+              "value": ""
+            },
+            {
+              "key": "Gross Carrying Amount",
+              "value": "172,048"
+            },
+            {
+              "key": "Accumulated Amortization",
+              "value": "26,480"
+            },
+            {
+              "key": "Net Amount",
+              "value": "145,568"
+            },
+            {
+              "key": "Prior Gross Amount",
+              "value": "161,587"
+            },
+            {
+              "key": "Prior Accumulated Amortization",
+              "value": "22,539"
+            },
+            {
+              "key": "Prior Net",
+              "value": "139,048"
+            },
+            {
+              "key": "Future Estimated Amortization Expense",
+              "value": "2023: $4.3m, 2024: $4.2m, 2025: $1.7m, 2026: $1.2m, 2027: $0.5m, thereafter: $0.5m"
+            },
+            {
+              "key": "Depreciation Expense (Amortization of intangible assets)",
+              "value": "2022: $3.9m, 2021: $3.3m, 2020: $0.9m"
+            },
+            {
+              "key": "Impairment Note",
+              "value": "No material impairments recognized for periods ending July 3, 2022; June 27, 2021; June 28, 2020."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 81,
+          "title": "Property, Plant and Equipment Breakdown",
+          "data": [
+            {
+              "key": "Orchards in production and land improvements (Period 1)",
+              "value": "19,773"
+            },
+            {
+              "key": "Orchards in production and land improvements (Period 2)",
+              "value": "18,829"
+            },
+            {
+              "key": "Building and building improvements (Period 1)",
+              "value": "65,909"
+            },
+            {
+              "key": "Building and building improvements (Period 2)",
+              "value": "62,232"
+            },
+            {
+              "key": "Leasehold improvements (Period 1)",
+              "value": "26,266"
+            },
+            {
+              "key": "Leasehold improvements (Period 2)",
+              "value": "26,451"
+            },
+            {
+              "key": "Production equipment (Period 1)",
+              "value": "106,244"
+            },
+            {
+              "key": "Production equipment (Period 2)",
+              "value": "82,526"
+            },
+            {
+              "key": "Furniture and fixtures (Period 1)",
+              "value": "8,985"
+            },
+            {
+              "key": "Furniture and fixtures (Period 2)",
+              "value": "8,860"
+            },
+            {
+              "key": "Computer and telecommunication equipment (Period 1)",
+              "value": "38,934"
+            },
+            {
+              "key": "Computer and telecommunication equipment (Period 2)",
+              "value": "55,841"
+            },
+            {
+              "key": "Software (Period 1)",
+              "value": "165,289"
+            },
+            {
+              "key": "Software (Period 2)",
+              "value": "177,844"
+            },
+            {
+              "key": "Capital projects in progress (Period 1)",
+              "value": "14,525"
+            },
+            {
+              "key": "Capital projects in progress (Period 2)",
+              "value": "18,090"
+            },
+            {
+              "key": "Property, plant and equipment, gross (Period 1)",
+              "value": "479,787"
+            },
+            {
+              "key": "Property, plant and equipment, gross (Period 2)",
+              "value": "480,957"
+            },
+            {
+              "key": "Accumulated depreciation and amortization (Period 1)",
+              "value": "-243,306"
+            },
+            {
+              "key": "Accumulated depreciation and amortization (Period 2)",
+              "value": "-265,670"
+            },
+            {
+              "key": "Property, plant and equipment, net (Period 1)",
+              "value": "236,481"
+            },
+            {
+              "key": "Property, plant and equipment, net (Period 2)",
+              "value": "215,287"
+            },
+            {
+              "key": "Depreciation Expense",
+              "value": "2022: $45.2m, 2021: $39.2m, 2020: $31.6m"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 84,
+          "title": "Trading Securities Level Classification",
+          "data": [
+            {
+              "key": "Summary",
+              "value": "This table presents a comparison of trading securities held in a 'rabbi trust' for two different periods. As of July 3, 2022, the value was $17,760 thousand, showing a decrease from $21,651 thousand reported on June 27, 2021. All securities are classified as Level 1 assets/liabilities, with no Level 3 holdings in either period."
+            },
+            {
+              "key": "Row1 Description",
+              "value": "Assets (liabilities) as of July 3, 2022: Trading securities held in a 'rabbi trust' (1)"
+            },
+            {
+              "key": "Row1 value1",
+              "value": "17760"
+            },
+            {
+              "key": "Row1 level1",
+              "value": "17760"
+            },
+            {
+              "key": "Row1 level3",
+              "value": "0"
+            },
+            {
+              "key": "Row2 Description",
+              "value": "Assets (liabilities) as of June 27, 2021: Trading securities held in a 'rabbi trust' (1)"
+            },
+            {
+              "key": "Row2 value1",
+              "value": "21651"
+            },
+            {
+              "key": "Row2 level1",
+              "value": "21651"
+            },
+            {
+              "key": "Row2 level3",
+              "value": "0"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 84,
+          "title": "Income Tax Provision Details",
+          "data": [
+            {
+              "key": "Summary",
+              "value": "This table presents income tax provisions and benefits across three fiscal periods (July 2022, June 2021, and June 2020). For July 2022, there was a total tax expense of $1,492,000, significantly lower than the previous year's $30,463,000. The decrease is primarily due to a federal tax benefit of $1,676,000 in current provisions, partially offset by deferred tax expenses. The table breaks down both current and deferred tax provisions at federal and state levels."
+            },
+            {
+              "key": "July 3, 2022 - Current Federal",
+              "value": "-1676"
+            },
+            {
+              "key": "July 3, 2022 - Current State",
+              "value": "1589"
+            },
+            {
+              "key": "July 3, 2022 - Current Total",
+              "value": "-87"
+            },
+            {
+              "key": "July 3, 2022 - Deferred Federal",
+              "value": "2679"
+            },
+            {
+              "key": "July 3, 2022 - Deferred State",
+              "value": "-1100"
+            },
+            {
+              "key": "July 3, 2022 - Deferred Total",
+              "value": "1579"
+            },
+            {
+              "key": "July 3, 2022 - Total Tax Expense",
+              "value": "1492"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 85,
+          "title": "Income Tax Reconciliation & Deferred Income Tax Assets and Liabilities",
+          "data": [
+            {
+              "key": "US Statutory Tax Rate",
+              "value": "21.0% (consistent across fiscal years)"
+            },
+            {
+              "key": "Effective Tax Rate FY2022",
+              "value": "4.8%"
+            },
+            {
+              "key": "Effective Tax Rate FY2021",
+              "value": "20.4%"
+            },
+            {
+              "key": "Effective Tax Rate FY2020",
+              "value": "24.29%"
+            },
+            {
+              "key": "Key Tax Components (FY2022)",
+              "value": "Capital loss expiration: 15.5%, Valuation allowance change: (19.8%), Non-deductible compensation: 5.3%, Excess tax benefit from stock-based compensation: (16.1%), Tax credits: (3.9%), Enhanced deductions: (2.1%), Other, net: 0.7%"
+            },
+            {
+              "key": "Deferred Income Tax - Net Deferred Tax Assets (FY2022)",
+              "value": "$56,841K"
+            },
+            {
+              "key": "Deferred Income Tax - Gross Deferred Tax Assets (FY2022)",
+              "value": "$59,937K"
+            },
+            {
+              "key": "Valuation Allowance (FY2022)",
+              "value": "-$3,096K"
+            },
+            {
+              "key": "Deferred Income Tax - Net Deferred Tax Liabilities (FY2022)",
+              "value": "-$35,742K"
+            },
+            {
+              "key": "Additional Notes",
+              "value": "The tables provide a reconciliation of the statutory tax rate with the effective tax rate over three fiscal years and detail the components of deferred income tax assets and liabilities. Notable trends include a significant reduction in the effective tax rate from 24.29% in 2020 to 4.8% in 2022, adjustments in valuation allowances (including a reduction of approximately $6.2M due to expired capital loss carryforwards), and various changes in deferred tax components."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 89,
+          "title": "Business Segments Financial Performance",
+          "data": [
+            {
+              "key": "Net Revenues Summary",
+              "value": "The segment analysis table indicates that net revenues from 2020 to 2022 grew from approximately $1.49B in 2020 to $2.21B in 2022. The key business segments are Consumer Floral & Gifts, BloomNet, and Gourmet Foods & Gift Baskets. Consumer Floral & Gifts and Gourmet Foods & Gift Baskets are the largest contributors, while Corporate revenues are minimal and intercompany eliminations show negative adjustments."
+            },
+            {
+              "key": "Operating Income Summary",
+              "value": "The operating income breakdown by segment over the same periods shows a significant decline in 2022, with operating income dropping to $42.1M from $149.1M in 2021. The data further highlights that segment contribution margins, after accounting for Corporate expenses, depreciation and amortization, have been adversely impacted, indicating tighter margins in 2022."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 90,
+          "title": "Revenue Breakdown by Business Segment",
+          "data": [
+            {
+              "key": "E-commerce 2022",
+              "value": "1934648000"
+            },
+            {
+              "key": "E-commerce 2021",
+              "value": "1879550000"
+            },
+            {
+              "key": "E-commerce 2020",
+              "value": "1230385000"
+            },
+            {
+              "key": "Other Revenues 2022",
+              "value": "273237000"
+            },
+            {
+              "key": "Other Revenues 2021",
+              "value": "242695000"
+            },
+            {
+              "key": "Other Revenues 2020",
+              "value": "259257000"
+            },
+            {
+              "key": "Total net revenues 2022",
+              "value": "2207885000"
+            },
+            {
+              "key": "Total net revenues 2021",
+              "value": "2122245000"
+            },
+            {
+              "key": "Total net revenues 2020",
+              "value": "1489637000"
+            },
+            {
+              "key": "Retail and miscellaneous 2022",
+              "value": "19883000"
+            },
+            {
+              "key": "Retail and miscellaneous 2021",
+              "value": "18433000"
+            },
+            {
+              "key": "Retail and miscellaneous 2020",
+              "value": "44685000"
+            },
+            {
+              "key": "Wholesale 2022",
+              "value": "163268000"
+            },
+            {
+              "key": "Wholesale 2021",
+              "value": "127938000"
+            },
+            {
+              "key": "Wholesale 2020",
+              "value": "137346000"
+            },
+            {
+              "key": "BloomNet services 2022",
+              "value": "91745000"
+            },
+            {
+              "key": "BloomNet services 2021",
+              "value": "97620000"
+            },
+            {
+              "key": "BloomNet services 2020",
+              "value": "78091000"
+            },
+            {
+              "key": "Corporate 2022",
+              "value": "201000"
+            },
+            {
+              "key": "Corporate 2021",
+              "value": "341000"
+            },
+            {
+              "key": "Corporate 2020",
+              "value": "591000"
+            },
+            {
+              "key": "Eliminations 2022",
+              "value": "-1860000"
+            },
+            {
+              "key": "Eliminations 2021",
+              "value": "-1637000"
+            },
+            {
+              "key": "Eliminations 2020",
+              "value": "-1464000"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents a detailed revenue breakdown for a multi-segment business over three fiscal years (2020-2022). E-commerce is the dominant revenue source, accounting for approximately 88% of total revenues in 2022 ($1.93B out of $2.21B total). Total net revenues show consistent growth, increasing from $1.49B in 2020 to $2.21B in 2022, representing roughly 48% growth over this period. Within the 'Other Revenues' category, Wholesale and BloomNet services are the largest contributors, while Corporate revenue and Eliminations represent relatively minor components."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 91,
+          "title": "Leases Note and Operating Lease Metrics Disclosure",
+          "data": [
+            {
+              "key": "Lease Agreement Overview",
+              "value": "The Company leases plants, warehouses, offices, store facilities, and equipment under long-term and short-term leases (per ASC 842). Lease agreements include renewal options and rent escalation clauses; variable costs like utilities, insurance, and taxes are expensed as incurred. At inception, the Company assesses if a contract contains a lease by evaluating rights over the asset's use and benefits."
+            },
+            {
+              "key": "Balance Sheet Treatment",
+              "value": "At lease commencement, operating leases are recognized as a lease liability (measured as the present value of fixed minimum rental payments) and a corresponding right-of-use asset on the Balance Sheet. Short-term leases under 12 months benefit from an election to not apply the full recognition requirements."
+            },
+            {
+              "key": "Operating Lease Costs",
+              "value": "Total lease costs are reported as 39,477, comprising operating lease costs (14,308), variable lease costs (19,342), short-term lease costs (6,639) and offset by sublease income (-812)."
+            },
+            {
+              "key": "Financial Metrics Comparison",
+              "value": "Cash paid for operating lease liabilities increased from 14,802 (June 27, 2021) to 16,486 (July 3, 2022). Right-of-use assets obtained increased from 30,622 to 57,494 over the same periods, reflecting an 87.8% increase. The weighted-average remaining lease term decreased from 9.5 years to 8.7 years, while the discount rate saw a slight increase from 3.8% to 3.9%."
+            },
+            {
+              "key": "Key Estimates and Judgments",
+              "value": "Significant judgments include determining lease payments, lease term, and the discount rate (using the estimated collateralized incremental borrowing rate based on respective lease yield curves)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 93,
+          "title": "Schedule II - Valuation and Qualifying Accounts and Related Financial Statements",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "The page contains tables from the financial statements of 1-800-FLOWERS.COM, Inc. and Subsidiaries. It includes a header for a ledger tracking descriptions, beginning balances, expenses, accounts, deductions, and period information, followed by detailed tables showing balance changes in reserve for estimated doubtful accounts and valuation allowance for deferred tax assets over the fiscal years ending in 2020, 2021, and 2022."
+            },
+            {
+              "key": "Reserve for Estimated Doubtful Accounts",
+              "value": "A table presents year-end data showing starting balance, net change, adjustments, other changes, and ending balance. The trends indicate declining ending balances from 2020 to 2022 with significant negative impacts in 'other changes'."
+            },
+            {
+              "key": "Valuation Allowance for Deferred Tax Assets",
+              "value": "Another table details the movement in valuation allowances with opening balances, additions, adjustments, reductions, and ending balances for the same fiscal periods. A notable large reduction is seen in 2022."
+            },
+            {
+              "key": "Additional Notes",
+              "value": "The header table also highlights a typographical error ('escription' instead of 'Description') and indicates that the provided tables form part of a financial reporting template focused on account movements and valuation adjustments."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 95,
+          "title": "Exhibit 23.1 Consent of Independent Registered Public Accounting Firm",
+          "data": [
+            {
+              "key": "Company",
+              "value": "1-800-FLOWERS.COM, Inc. and Subsidiaries"
+            },
+            {
+              "key": "Location",
+              "value": "Jericho, New York; Melville, New York"
+            },
+            {
+              "key": "Document Type",
+              "value": "Consent of Independent Registered Public Accounting Firm"
+            },
+            {
+              "key": "Registration Statements",
+              "value": "Form S-8 (No. 333-259759, No. 333-54590, 333-119999, 333-164727, 333-192304)"
+            },
+            {
+              "key": "Report Date",
+              "value": "September 16, 2022"
+            },
+            {
+              "key": "Internal Control Reporting Date",
+              "value": "July 3, 2022"
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "Adverse opinion on the effectiveness of internal control over financial reporting"
+            },
+            {
+              "key": "Auditing Firm",
+              "value": "BDO USA, LLP"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 96,
+          "title": "Exhibit 31.1 CERTIFICATIONS PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002",
+          "data": [
+            {
+              "key": "Certifier",
+              "value": "Christopher G. McCann"
+            },
+            {
+              "key": "Role",
+              "value": "Chief Executive Officer, Director"
+            },
+            {
+              "key": "Company",
+              "value": "1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "Certification Date",
+              "value": "September 16, 2022"
+            },
+            {
+              "key": "Purpose",
+              "value": "Certification of internal control over financial reporting and fair presentation of financial condition, results of operations, and cash flows in accordance with the Sarbanes-Oxley Act"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 97,
+          "title": "Exhibit 31.2 CERTIFICATIONS PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002",
+          "data": [
+            {
+              "key": "Certifying Officer",
+              "value": "William E. Shea"
+            },
+            {
+              "key": "Title",
+              "value": "Senior Vice President, Treasurer and Chief Financial Officer"
+            },
+            {
+              "key": "Company",
+              "value": "1-800-FLOWERS.COM, Inc."
+            },
+            {
+              "key": "Certification Date",
+              "value": "September 16, 2022"
+            },
+            {
+              "key": "SOX Section",
+              "value": "302"
+            },
+            {
+              "key": "Certification Scope",
+              "value": "Reviewed annual report on Form 10-K; confirmed that the report contains no untrue or omitted material facts; attested to the fair presentation of financial condition, results of operations, and cash flows; and confirmed the effectiveness of the disclosure controls, procedures, and internal control over financial reporting."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": true,
+      "elements": [
+        {
+          "type": "share_buyback",
+          "page": 32,
+          "title": "Table of Contents PART II Item 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES",
+          "data": [
+            {
+              "key": "Ticker Symbol",
+              "value": "FLWS"
+            },
+            {
+              "key": "Trading Market",
+              "value": "NASDAQ Global Select Market"
+            },
+            {
+              "key": "Class A vs Class B Voting Rights",
+              "value": "Class A has 1 vote per share; Class B has 10 votes per share"
+            },
+            {
+              "key": "Conversion Feature",
+              "value": "Class B common stock can be converted into Class A on a one-for-one basis, with automatic conversion on transfer"
+            },
+            {
+              "key": "Repurchase Plan Details",
+              "value": "Program financed using available cash; repurchases made via open market and privately negotiated transactions"
+            },
+            {
+              "key": "Authorized Increase (April 22, 2021)",
+              "value": "$40.0 million increase approved by the Board of Directors"
+            },
+            {
+              "key": "Authorized Increase (February 3, 2022)",
+              "value": "$40.0 million additional increase approved by the Board of Directors"
+            },
+            {
+              "key": "Fiscal Year Ended July 3, 2022",
+              "value": "Repurchased $38.2 million (1,592,555 shares)"
+            },
+            {
+              "key": "Fiscal Year Ended June 27, 2021",
+              "value": "Repurchased $22.4 million (862,290 shares)"
+            },
+            {
+              "key": "Fiscal Year Ended June 28, 2020",
+              "value": "Repurchased $10.7 million (754,458 shares)"
+            },
+            {
+              "key": "Remaining Authorization as of July 3, 2022",
+              "value": "$33.2 million remains authorized under the plan"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "share_buyback",
+          "page": 33,
+          "title": "Stock Repurchase Program Disclosure and Dividend Policy",
+          "data": [
+            {
+              "key": "Purpose",
+              "value": "Disclosure of the company's repurchase of common stock under its share buyback program for the period from June 28, 2021 through July 03, 2022."
+            },
+            {
+              "key": "Table Description",
+              "value": "The table provides details on the number of shares repurchased, price paid per share, and remaining shares available for repurchase. The header rows indicate columns like 'Number of Shares', 'Price Paid Per Share', 'Shares Purchased as Publicly Announced Plans or Programs', and 'Shares that May Yet Be Purchased Under Plans or Programs'."
+            },
+            {
+              "key": "Periods Covered",
+              "value": "Multiple periods ranging from 06/28/21 to 07/03/22 with detailed entries for each period."
+            },
+            {
+              "key": "Total Shares Repurchased",
+              "value": "1,592,555 shares"
+            },
+            {
+              "key": "Average Price Per Share",
+              "value": "23.94 USD (excluding commissions and fees)"
+            },
+            {
+              "key": "Dividend Policy",
+              "value": "The company has never declared or paid cash dividends on its common stock and does not anticipate doing so in the foreseeable future, subject to board discretion and financial conditions."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "share_buyback",
+          "page": 86,
+          "title": "Capital Stock, Share Repurchase Program and Stock-Based Compensation",
+          "data": [
+            {
+              "key": "Unrecognized Tax Benefit",
+              "value": "Approximately $1.4 million at July 3, 2022, with $0.2 million expected to be resolved within 12 months"
+            },
+            {
+              "key": "Capital Stock - Voting and Conversion Rights",
+              "value": "Class A shares have one vote per share; Class B shares have 10 votes per share and convert one-for-one automatically upon transfer"
+            },
+            {
+              "key": "Stock Repurchase Program Authorizations",
+              "value": "On April 22, 2021, authorized increase up to $40.0 million; on February 3, 2022, additional increase up to $40.0 million"
+            },
+            {
+              "key": "Stock Repurchase Transactions",
+              "value": "Repurchased $38.2M (1,592,555 shares) in fiscal 2022; $22.4M (862,290 shares) in fiscal 2021; $10.7M (754,458 shares) in fiscal 2020"
+            },
+            {
+              "key": "Remaining Authorized Amount",
+              "value": "$33.2 million remains authorized as of July 3, 2022"
+            },
+            {
+              "key": "Stock-Based Compensation Analysis",
+              "value": "Table details stock options, restricted stock awards, total, deferred income tax benefit, and net stock-based compensation expense over fiscal years 2020-2022. Notable points include a negative stock options value in 2022 and a decline in total compensation from $10,835,000 in 2021 to $7,947,000 in 2022."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 8,
+          "title": "Capital Structure Disclosure",
+          "data": [
+            {
+              "key": "Shell Company",
+              "value": "No"
+            },
+            {
+              "key": "Aggregate Market Value",
+              "value": "$596,576,000"
+            },
+            {
+              "key": "Valuation Date",
+              "value": "December 28, 2021"
+            },
+            {
+              "key": "Number of Class A Shares Outstanding",
+              "value": "37,287,993"
+            },
+            {
+              "key": "Number of Class B Shares Outstanding",
+              "value": "27,249,614"
+            },
+            {
+              "key": "Incorporated Documents",
+              "value": "Portions of the Definitive Proxy Statement for the 2022 Annual Meeting of Stockholders are incorporated by reference into Part III of this Report"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 82,
+          "title": "Accrued Expenses and Long-Term Debt Notes",
+          "data": [
+            {
+              "key": "Accrued Expenses Title",
+              "value": "Accrued Expenses Breakdown"
+            },
+            {
+              "key": "Payroll and employee benefits (July 3, 2022)",
+              "value": "56,134"
+            },
+            {
+              "key": "Deferred revenue (July 3, 2022)",
+              "value": "33,388"
+            },
+            {
+              "key": "Accrued marketing expenses (July 3, 2022)",
+              "value": "16,591"
+            },
+            {
+              "key": "Accrued florist payout (July 3, 2022)",
+              "value": "17,926"
+            },
+            {
+              "key": "Accrued purchases (July 3, 2022)",
+              "value": "17,259"
+            },
+            {
+              "key": "Other (July 3, 2022)",
+              "value": "37,214"
+            },
+            {
+              "key": "Total Accrued Expenses (July 3, 2022)",
+              "value": "178,512"
+            },
+            {
+              "key": "Long-Term Debt Title",
+              "value": "Long-Term Debt Note"
+            },
+            {
+              "key": "Term Loan (June 27, 2021)",
+              "value": "185,000"
+            },
+            {
+              "key": "Deferred financing costs (June 27, 2021)",
+              "value": "(3,488)"
+            },
+            {
+              "key": "Total debt (June 27, 2021)",
+              "value": "181,512"
+            },
+            {
+              "key": "Less: current debt (June 27, 2021)",
+              "value": "20,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 83,
+          "title": "Credit Agreement Amendments and Term Loan Details",
+          "data": [
+            {
+              "key": "2020 Term Loan Maturity",
+              "value": "May 31, 2024"
+            },
+            {
+              "key": "Use of Proceeds",
+              "value": "Working capital and general corporate purposes"
+            },
+            {
+              "key": "Payment Schedule",
+              "value": "15 quarterly installments starting September 27, 2020"
+            },
+            {
+              "key": "Interest Rates",
+              "value": "5.0% per annum for first 4 payments; 10.0% per annum for remaining 11 payments"
+            },
+            {
+              "key": "Remaining Principal Balance",
+              "value": "$67.5 million due upon maturity"
+            },
+            {
+              "key": "Second Amendment",
+              "value": "Entered on November 8, 2021; decreased interest margins and LIBOR floor for the 2020 Term Loan"
+            },
+            {
+              "key": "Third Amendment",
+              "value": "Entered on August 29, 2022; modified financial maintenance covenants by increasing the maximum consolidated leverage ratio (from 3.25 to 4.25 to 1.00) and decreasing the minimum consolidated fixed charge coverage ratio (from 1.50 to 1.00 to 1.00); increased certain disregarded capital expenditures from $25.0 million to $35.0 million"
+            },
+            {
+              "key": "Compliance Status",
+              "value": "Company was in compliance with covenants as of July 3, 2022"
+            },
+            {
+              "key": "Security",
+              "value": "The Existing Credit Agreement is secured by substantially all of the Company’s assets"
+            },
+            {
+              "key": "Future Principal Payments",
+              "value": "$20.0 million in fiscal 2023 and $145.0 million in fiscal 2024"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 94,
+          "title": "Subsidiaries of the Registrant (as of July 3, 2022)",
+          "data": [
+            {
+              "key": "1-800-FLOWERS Retail Inc.",
+              "value": "Delaware"
+            },
+            {
+              "key": "1-800-FLOWERS Service Support Center, Inc.",
+              "value": "New York"
+            },
+            {
+              "key": "1-800-FLOWERS Team Services, Inc.",
+              "value": "Delaware"
+            },
+            {
+              "key": "1-800-FLOWERS.COM Franchise Co., Inc.",
+              "value": "Delaware"
+            },
+            {
+              "key": "1-800-Flowers.com DO Brasil Participacoes LTDA",
+              "value": "Brazil"
+            },
+            {
+              "key": "1800Flowers.com Australia Pty LTD",
+              "value": "Australia"
+            },
+            {
+              "key": "1873349 Ontario Inc.",
+              "value": "Canada"
+            },
+            {
+              "key": "18F UK Holding Company Limited",
+              "value": "United Kingdom"
+            },
+            {
+              "key": "18F Virginia, Inc.",
+              "value": "Virginia"
+            },
+            {
+              "key": "800-Flowers, Inc.",
+              "value": "New York"
+            },
+            {
+              "key": "Alice Table LLC",
+              "value": "Delaware"
+            },
+            {
+              "key": "Bear Creek Orchards, Inc.",
+              "value": "Delaware"
+            },
+            {
+              "key": "BloomNet, Inc.",
+              "value": "Delaware"
+            },
+            {
+              "key": "Celebrations.com, LLC",
+              "value": "Delaware"
+            },
+            {
+              "key": "Cheryl & Co.",
+              "value": "Ohio"
+            },
+            {
+              "key": "Conroy’s Inc.",
+              "value": "California"
+            },
+            {
+              "key": "DesignPac Co., Inc.",
+              "value": "Delaware"
+            },
+            {
+              "key": "DesignPac Gifts LLC",
+              "value": "Illinois"
+            },
+            {
+              "key": "Floranet Iberia S.L.",
+              "value": "Spain"
+            },
+            {
+              "key": "Flowerama of America, Inc.",
+              "value": "Iowa"
+            },
+            {
+              "key": "FOL UK Holding Company Limited",
+              "value": "United Kingdom"
+            },
+            {
+              "key": "Fresh Gift Cards, Inc.",
+              "value": "Florida"
+            },
+            {
+              "key": "Goodsey.com, LLC",
+              "value": "Delaware"
+            },
+            {
+              "key": "Great Foods, LLC",
+              "value": "Delaware"
+            },
+            {
+              "key": "Guarded Realty Holdings, LLC",
+              "value": "Delaware"
+            },
+            {
+              "key": "Harry & David Holdings, Inc.",
+              "value": "Delaware"
+            },
+            {
+              "key": "Harry and David, LLC",
+              "value": "Oregon"
+            },
+            {
+              "key": "Harry & David Operations, Inc.",
+              "value": "Delaware"
+            },
+            {
+              "key": "MyFlorist.net, LLC",
+              "value": "Delaware"
+            },
+            {
+              "key": "Napco Marketing Corp.",
+              "value": "Delaware"
+            },
+            {
+              "key": "Plants.com, LLC",
+              "value": "Delaware"
+            },
+            {
+              "key": "PersonalizationMall.com, LLC",
+              "value": "Delaware"
+            },
+            {
+              "key": "Personalization Universe, LLC",
+              "value": "Delaware"
+            },
+            {
+              "key": "Shari's Berries.com, LLC",
+              "value": "Delaware"
+            },
+            {
+              "key": "The Popcorn Factory, Inc.",
+              "value": "Delaware"
+            },
+            {
+              "key": "Vital Choice Seafood LLC",
+              "value": "Delaware"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 20,
+          "title": "Intellectual Property and Human Capital Disclosures",
+          "data": [
+            {
+              "key": "Intellectual Property Risks",
+              "value": "The Company relies on trademark, copyright, trade secret protection and contracts to safeguard its proprietary rights, yet acknowledges that competitors may still obtain or use its information, potentially leading to infringement, misappropriation, and costly, time-consuming litigation."
+            },
+            {
+              "key": "Human Capital and Workforce",
+              "value": "The Company emphasizes attracting and retaining skilled talent, offers competitive compensation, benefits, and diversity initiatives, and highlights its efforts in employee training, safety protocols (including COVID-19 measures), and inclusive corporate culture."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 21,
+          "title": "Item 1A. Risk Factors",
+          "data": [
+            {
+              "key": "Cautionary Statements",
+              "value": "Under the Private Securities Litigation Reform Act of 1995, our disclosures contain forward-looking statements."
+            },
+            {
+              "key": "Anticipated Results",
+              "value": "Based on management’s plans and assumptions regarding future actions, marketing effectiveness, performance of products, and customer retention."
+            },
+            {
+              "key": "Risks Involved",
+              "value": "Economic conditions, consumer spending patterns, high unemployment, credit market volatility, and impacts from COVID-19."
+            },
+            {
+              "key": "Future Statement Limitations",
+              "value": "Actual results could differ materially, and no obligation to update forward-looking statements."
+            },
+            {
+              "key": "Macroeconomic Conditions",
+              "value": "Effective consumer spending may be affected by various factors, including unemployment, debt levels, and market uncertainty."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 22,
+          "title": "Risk Factors Associated with COVID-19 Pandemic",
+          "data": [
+            {
+              "key": "COVID-19 impact on operations",
+              "value": "Exposure to risks associated with the pandemic has led to challenging operating environments."
+            },
+            {
+              "key": "Government measures",
+              "value": "Various measures including travel bans, quarantines, and business shutdowns have been implemented."
+            },
+            {
+              "key": "Uncertainty in demand",
+              "value": "Considerable uncertainty regarding future demand for products due to pandemic measures."
+            },
+            {
+              "key": "Supply chain impact",
+              "value": "Potential disruptions in supply chain and increases in operating costs."
+            },
+            {
+              "key": "Operational interruptions",
+              "value": "Significant workforce inability may negatively impact operations."
+            },
+            {
+              "key": "Increased cyber risks",
+              "value": "Remote work has increased demand on IT resources and cyberattack vulnerabilities."
+            },
+            {
+              "key": "Consumer behavior changes",
+              "value": "Public concern about contracting COVID-19 affects consumer demand."
+            },
+            {
+              "key": "Financial condition of business partners",
+              "value": "Economic uncertainty affects business partners' ability to purchase products."
+            },
+            {
+              "key": "Volatility in markets",
+              "value": "COVID-19 has led to volatility in capital, credit markets, and economic conditions."
+            },
+            {
+              "key": "Health and safety protocols",
+              "value": "Implemented protocols to mitigate COVID-19 impacts, with uncertain success."
+            },
+            {
+              "key": "General economic conditions",
+              "value": "Deteriorating conditions may lead to lower consumer spending on products."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 24,
+          "title": "Business and Operational Risk Factors",
+          "data": [
+            {
+              "key": "Growth Sustainability",
+              "value": "Our recent growth rates may not be sustainable or indicative of our future growth."
+            },
+            {
+              "key": "Sales Volatility",
+              "value": "Our ability to maintain the increased sales we have experienced since the onset of the COVID-19 pandemic is uncertain, which could result in volatility of our stock price."
+            },
+            {
+              "key": "Fluctuating Results",
+              "value": "The Company's operating results may fluctuate, causing financial results to be below expectations."
+            },
+            {
+              "key": "Seasonality",
+              "value": "Sales of the Company's products are seasonal, concentrated in the fourth calendar quarter and the second calendar quarter."
+            },
+            {
+              "key": "Revenue Shortfall",
+              "value": "The Company may be unable to reduce operating expenses quickly enough to offset any unexpected revenue shortfall."
+            },
+            {
+              "key": "Dependence on Customer Service",
+              "value": "The Company depends on its customer service department to respond effectively to customer inquiries."
+            },
+            {
+              "key": "Brand Maintenance",
+              "value": "If the Company fails to develop and maintain its brands, it may not increase or maintain its customer base or revenues."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 25,
+          "title": "Risk Factors Overview",
+          "data": [
+            {
+              "key": "Brand Quality and Perception",
+              "value": "Failure to maintain high product and service quality could diminish the value of the 1-800-FLOWERS.COM brands, leading to customer loss and declining revenues."
+            },
+            {
+              "key": "Dependence on Third-Party Traffic",
+              "value": "Reliance on strategic relationships with third-party websites, search engines, and affiliates is critical; insufficient traffic from these sources may adversely affect online revenues."
+            },
+            {
+              "key": "Third-Party Vendor Risks",
+              "value": "Dependence on local florists and independent vendors for order fulfillment introduces risks, as any shortcomings in their service could result in customer dissatisfaction, delays, and revenue loss."
+            },
+            {
+              "key": "Competitive Pressures",
+              "value": "The company faces intense competition across multiple categories (floral, plants, gift baskets, gourmet food, etc.), which could lead to reduced market share and lost revenues if competitors perform better."
+            },
+            {
+              "key": "Website Usability and Improvement",
+              "value": "Continual improvements to the website, including mobile platforms, are essential; failure to enhance accessibility and user experience may hinder customer retention and reduce sales."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 27,
+          "title": "Information Technology and Systems – Cybersecurity and Operational Risks",
+          "data": [
+            {
+              "key": "risk_description",
+              "value": "Failure to protect our website, networks and computer systems against disruption and cyber security threats could damage customer relationships, harm reputation, expose the company to litigation, and adversely affect the business."
+            },
+            {
+              "key": "cyber_threats",
+              "value": "Includes risks from computer viruses, malicious attacks, targeted or random security breaches, and unauthorized access to confidential information."
+            },
+            {
+              "key": "system_dependency",
+              "value": "Reliance on computer systems for corporate email, design, manufacturing, digital marketing, e-commerce, credit card processing, and other operations."
+            },
+            {
+              "key": "fraud_risk",
+              "value": "Potential impact from credit card, debit card, and gift card fraud could lead to decreased revenues and damaged reputation."
+            },
+            {
+              "key": "operational_impact",
+              "value": "System interruptions, long response times, degradation of service, or interruptions during peak periods could incur substantial repair costs and affect overall performance."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 28,
+          "title": "Risk Factors – Telecommunications & Intellectual Property",
+          "data": [
+            {
+              "key": "Telecommunications Provider Dependency",
+              "value": "The Company relies on third-party telecommunications providers for maintaining customer service centers and connectivity with data centers; failure in these services could lead to system failures and revenue decline."
+            },
+            {
+              "key": "Redundant Systems and Service Interruptions",
+              "value": "Although redundant systems are maintained, failures or inadequate maintenance by these providers may cause service interruptions, impacting revenue generation and incurring significant unanticipated costs."
+            },
+            {
+              "key": "Internal Control Weakness",
+              "value": "A material weakness in controls over logical access and segregation of duties in certain IT environments has been identified, potentially leading to material misstatements in financial statements and affecting disclosure controls."
+            },
+            {
+              "key": "Intellectual Property Risks",
+              "value": "Unauthorized use or infringement of the Company’s intellectual property by third parties could damage its brands, reputation, and lead to lost sales, with additional complications arising from foreign registration challenges."
+            },
+            {
+              "key": "Franchise and Lease Risks",
+              "value": "Non-compliance by franchisees with operating standards or franchise agreements may result in significant costs including litigation expenses and potential default under primary leases."
+            },
+            {
+              "key": "Telecom Number and Domain Risks",
+              "value": "Loss of control over important brand identifiers such as phone numbers (e.g., 1-800-FLOWERS) or domain names due to third-party acquisition or FCC rules may confuse customers and harm the brand."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 30,
+          "title": "Table of Contents - Risk Factors and Regulatory Environment",
+          "data": [
+            {
+              "key": "Governmental Regulations",
+              "value": "The document outlines that many governmental regulations, both existing and new, may impact the Internet and the Company's ability to conduct business globally. Regulations on issues such as intellectual property, user privacy, taxation, and product quality are highlighted as potential adverse factors."
+            },
+            {
+              "key": "FTC and Privacy Regulations",
+              "value": "It describes proposed regulations by the Federal Trade Commission regarding personal identifying information, requiring transparency in privacy and security policies, and imposing consent, access, correction, and deletion requirements, which could affect the Company's marketing and data collection efforts."
+            },
+            {
+              "key": "Litigation Risk",
+              "value": "The text discusses the volatility of the Company’s Class A common stock, the possibility of significant price fluctuations, and the risk of securities class action litigation which could lead to diverted management attention and additional expenses."
+            },
+            {
+              "key": "Additional Information & SEC Filings",
+              "value": "The document provides information on where to access further reports such as the Annual Report on Form 10-K and quarterly reports through the Company’s website and the SEC website. It also notes a consent decree from a similar investigation and stresses the potential impact of regulatory actions."
+            },
+            {
+              "key": "Unresolved Staff Comments",
+              "value": "There are no unresolved comments from the SEC staff regarding the current or periodic reports as of the stated period."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 36,
+          "title": "Credit Agreement Amendments and Fiscal 2023 Guidance",
+          "data": [
+            {
+              "key": "Second Amendment Date",
+              "value": "November 8, 2021"
+            },
+            {
+              "key": "Third Amendment Date",
+              "value": "August 29, 2022"
+            },
+            {
+              "key": "Interest Margin Modification",
+              "value": "Decrease in interest margins and LIBOR floor applicable to the 2020 Term Loan"
+            },
+            {
+              "key": "Consolidated Leverage Ratio Modification",
+              "value": "Increased requirement for period ending October 2, 2022 from 3.25 to 1.00 to 4.25 to 1.00"
+            },
+            {
+              "key": "Fixed Charge Coverage Ratio Modification",
+              "value": "Decreased requirement for periods ending October 2, 2022, January 1, 2023, and April 2, 2023 from 1.50 to 1.00 to 1.00 to 1.00"
+            },
+            {
+              "key": "Capital Expenditure Disregard Adjustment",
+              "value": "Amount increased from $25.0 million to $35.0 million for purposes of calculating the consolidated fixed charge coverage ratio"
+            },
+            {
+              "key": "COVID-19 Impact and Response",
+              "value": "Implementation of a Pandemic Preparedness and Response Plan including an internal nerve center for communication, workforce protection, supply chain management, and support for stakeholders"
+            },
+            {
+              "key": "Fiscal 2023 Q1 Revenue Guidance",
+              "value": "Anticipated decline of 3.0% to 6.0% year-over-year, driven by cautious consumer spending amid price inflation in food and gasoline"
+            },
+            {
+              "key": "Fiscal 2023 Q1 Adjusted EBITDA Guidance",
+              "value": "Expected loss in the range of $28.0 million to $33.0 million"
+            },
+            {
+              "key": "Full Year Guidance Highlights",
+              "value": "Anticipated reduced capital expenditures, lower working capital needs, and substantial positive year-over-year free cash flow based on continued investments and strategic pricing adjustments"
+            },
+            {
+              "key": "Non-GAAP Financial Measures",
+              "value": "Definitions provided for EBITDA and adjusted EBITDA, including adjustments for stock-based compensation and other items affecting period-to-period comparability"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 53,
+          "title": "Market Risk Disclosure and Management's Evaluation of Disclosure Controls and Procedures",
+          "data": [
+            {
+              "key": "Interest Rate Risk Exposure",
+              "value": "The Company is exposed to market risk from interest rate changes and market values of its investments."
+            },
+            {
+              "key": "Interest Expense Increase Impact",
+              "value": "A 50 basis point increase in current interest rates would increase the Company’s interest expense by approximately $1.0 million."
+            },
+            {
+              "key": "Disclosure Controls Assessment",
+              "value": "The Company’s disclosure controls and procedures were evaluated as not effective due to a material weakness in internal control over financial reporting."
+            },
+            {
+              "key": "Material Weakness Description",
+              "value": "Material weakness related to logical access and segregation of duties in certain IT environments."
+            },
+            {
+              "key": "GAAP Compliance Confirmation",
+              "value": "Management concluded that the financial statements are prepared in accordance with GAAP and fairly present the financial position and results."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 69,
+          "title": "Notes to Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Business Description",
+              "value": "1-800-FLOWERS.COM, Inc. is a leading provider of gifts designed to help customers express, connect and celebrate."
+            },
+            {
+              "key": "Significant Brands",
+              "value": "1-800-Flowers.com®, 1-800-Baskets.com®, Cheryl’s Cookies®, Harry & David®, PersonalizationMall.com®, Shari’s Berries®, FruitBouquets.com®, Moose Munch®, The Popcorn Factory®, Wolferman’s Bakery®, Vital Choice®, Stock Yards® and Simply Chocolate®."
+            },
+            {
+              "key": "Loyalty Program",
+              "value": "Celebrations Passport® loyalty program provides members with free standard shipping and no service charge."
+            },
+            {
+              "key": "Business Operations",
+              "value": "The Company operates BloomNet®, Napco℠, DesignPac Gifts, LLC, and Alice’s Table®."
+            },
+            {
+              "key": "Fiscal Year Ending",
+              "value": "The Company’s fiscal year is a 52- or 53-week period ending on the Sunday nearest to June 30."
+            },
+            {
+              "key": "Fiscal Year 2022",
+              "value": "Ended on July 3, 2022, and consisted of 53 weeks."
+            },
+            {
+              "key": "Fiscal Years 2021 and 2020",
+              "value": "Each consisted of 52 weeks ending on June 27, 2021 and June 28, 2020, respectively."
+            },
+            {
+              "key": "Use of Estimates",
+              "value": "Management makes estimates and assumptions affecting amounts reported in financial statements."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 19,
+          "title": "Regulatory and Legal Uncertainties",
+          "data": [
+            {
+              "key": "Competition Factors",
+              "value": "price reductions, decreased revenues, lower profit margins, loss of market share, increased marketing expenditures"
+            },
+            {
+              "key": "Government Regulation Aspects",
+              "value": "user privacy, pricing, content, connectivity, intellectual property, distribution, taxation and tariffs, liabilities, antitrust, quality of products/services"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 29,
+          "title": "Regulatory and Legal Risks",
+          "data": [
+            {
+              "key": "Product liability claims",
+              "value": "May expose the Company to increased costs."
+            },
+            {
+              "key": "Negative publicity",
+              "value": "Can materially damage the Company’s reputation and its brands."
+            },
+            {
+              "key": "Insurance coverage",
+              "value": "May be inadequate to cover any liabilities incurred due to product liability claims."
+            },
+            {
+              "key": "Litigation costs",
+              "value": "Can involve substantial costs including investigation, litigation, and settlements."
+            },
+            {
+              "key": "Data security breach",
+              "value": "Could expose the Company to costly government enforcement actions and private litigation."
+            },
+            {
+              "key": "Compliance with privacy laws",
+              "value": "Failure to comply could adversely affect the business and financial condition."
+            },
+            {
+              "key": "Privacy regulations",
+              "value": "Evolving laws may create operational challenges."
+            },
+            {
+              "key": "Perceived failure to comply",
+              "value": "Could lead to claims and actions against the Company."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 54,
+          "title": "Management’s Report on Internal Control Over Financial Reporting",
+          "data": [
+            {
+              "key": "Management Responsibility",
+              "value": "Management is responsible for establishing and maintaining adequate internal control over financial reporting."
+            },
+            {
+              "key": "Definition of Internal Control",
+              "value": "Internal control over financial reporting is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act."
+            },
+            {
+              "key": "Effectiveness Assessment",
+              "value": "Management concluded that the Company’s internal control over financial reporting was not effective as of July 3, 2022."
+            },
+            {
+              "key": "Material Weakness",
+              "value": "A material weakness is defined as a deficiency in internal control such that there's a reasonable possibility of material misstatement."
+            },
+            {
+              "key": "Identified Material Weakness",
+              "value": "Identified deficiencies related to design of controls over logical access and segregation of duties."
+            },
+            {
+              "key": "Remediation Steps",
+              "value": "Management has taken steps to remediate these deficiencies."
+            },
+            {
+              "key": "Auditing Firm",
+              "value": "BDO USA, LLP audited the effectiveness of the Company's internal control over financial reporting."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 92,
+          "title": "Future Minimum Lease Payments Schedule and Commitments/Contingencies",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Future Minimum Lease Payments Schedule"
+            },
+            {
+              "key": "Lease Payment Data",
+              "value": "2023: 17,917; 2024: 20,729; 2025: 18,424; 2026: 16,459; 2027: 14,768; Thereafter: 78,318; Total Future Minimum Lease Payments: 166,615; Less Imputed Remaining Interest: 30,034; Total: 136,581"
+            },
+            {
+              "key": "Table Summary",
+              "value": "This table presents a schedule of future lease payment obligations as of July 3, 2022. The highest annual payment is in 2024 and a significant portion is due after 2027."
+            },
+            {
+              "key": "Purchase Commitments",
+              "value": "The Company has fixed and determinable off-balance sheet purchase commitments approximating $20.6 million, primarily for technology infrastructure and inventory, with terms in excess of one year."
+            },
+            {
+              "key": "Unused Stand-by Letters of Credit",
+              "value": "$2.3 million as of July 3, 2022 and June 27, 2021."
+            },
+            {
+              "key": "Litigation - Bed Bath & Beyond",
+              "value": "On April 1, 2020, litigation was initiated alleging a breach of the Equity Purchase Agreement. The matter was settled with a purchase of PersonalizationMall for $245.0 million, closing on August 3, 2020, following a settlement agreement and dismissal with prejudice."
+            },
+            {
+              "key": "Litigation - Call Center Worker Claim",
+              "value": "A putative class action filed in March 2018 alleging FLSA violations resulted in a settlement agreement in April 2022 with a capped liability of up to $3.3 million, pending judicial approvals expected in Q3 fiscal 2023."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "supply_chain_disruption",
+          "page": 5,
+          "title": "CEO Letter - Operational and Supply Chain Update",
+          "data": [
+            {
+              "key": "Balance Sheet Strength",
+              "value": "Our balance sheet remains strong"
+            },
+            {
+              "key": "Capital Expenditures",
+              "value": "Expectation of benefits from lower capital expenditures"
+            },
+            {
+              "key": "Working Capital Improvements",
+              "value": "Anticipated improvements contributing to overall financial strength"
+            },
+            {
+              "key": "Inventory Management",
+              "value": "Proactive decision in fiscal 2022 to buy and build inventory ahead of the holiday season"
+            },
+            {
+              "key": "Supply Chain Challenges",
+              "value": "Inventory strategy implemented to reduce exposure to global supply chain challenges, with reversal expected in the current fiscal year"
+            },
+            {
+              "key": "CEO Note",
+              "value": "Signed by Chris McCann, Chief Executive Officer, emphasizing commitment to growth and customer engagement"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "supply_chain_disruption",
+          "page": 18,
+          "title": "Table of Contents Sources and Availability of Raw Materials",
+          "data": [
+            {
+              "key": "Raw Materials Composition",
+              "value": "Ingredients for manufactured products including sugar, flour, cacao, eggs, fruit, flowers; packaging supplies; and transportation-related supplies such as fuel, natural gas and derivative products."
+            },
+            {
+              "key": "Supplier Sourcing",
+              "value": "All raw materials, except certain crops from company-owned orchards, are purchased from third-party suppliers, including some single-source suppliers."
+            },
+            {
+              "key": "Price and Availability Fluctuations",
+              "value": "Prices and availability of raw materials are subject to fluctuation, and changes in these prices may or may not be passed on to customers."
+            },
+            {
+              "key": "Global Supply Chain",
+              "value": "Utilizes a global supply chain with both U.S. and international suppliers, who must adhere to local labor, safety, and applicable laws."
+            },
+            {
+              "key": "Impact on Business Operations",
+              "value": "The timely acquisition and adequate volume of materials directly affects production capabilities, business growth, and merchandise appeal."
+            },
+            {
+              "key": "Seasonality",
+              "value": "The company experiences seasonal fluctuations with significant revenue concentration in the second fiscal quarter due to holiday seasons. Additional fluctuations occur during other key periods like Mother’s Day and Valentine’s Day."
+            },
+            {
+              "key": "Inventory and Financing Strategy",
+              "value": "In anticipation of seasonal demand, the company increases inventories financed by cash flows and supplemented by revolving bank lines of credit, which are repaid before the end of the peak season."
+            },
+            {
+              "key": "Competitive Environment",
+              "value": "Faces intense competition in various product categories from both traditional and online retailers, mass merchants, and specialty outlets."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "supply_chain_disruption",
+          "page": 23,
+          "title": "Supply Chain Disruptions and Increased Shipping Costs",
+          "data": [
+            {
+              "key": "Shipping Costs",
+              "value": "Increased shipping costs from carriers such as Federal Express may force the company to pass on higher costs to customers."
+            },
+            {
+              "key": "Supply Chain Disruptions",
+              "value": "Ocean container availability issues, port disruptions, and constrained carrier capacity could delay product deliveries."
+            },
+            {
+              "key": "International Vendor Risks",
+              "value": "Dependence on international vendors for flowers and components exposes the company to regulatory, economic, and political risks."
+            },
+            {
+              "key": "Market and Regulatory Risks",
+              "value": "Trade policies, tariffs, and potential changes such as LIBOR discontinuation may also negatively affect the company's operations."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 222,
+    "AUD": 21,
+    "BRL": 2
+  },
+  "sha1": "30f64d1043f4cb425eb636763580ae27094ffef1"
+}

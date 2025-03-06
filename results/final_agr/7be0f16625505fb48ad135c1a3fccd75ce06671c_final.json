@@ -1,0 +1,4755 @@
+{
+  "letters": 297966,
+  "pages": 98,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "Insperity, Inc.",
+    "major_industry": "Financial Services",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Securities Registration Information",
+          "data": [
+            {
+              "key": "Class of Securities",
+              "value": "Common Stock, Par value $0.01 per share"
+            },
+            {
+              "key": "Trading Symbol",
+              "value": "NSP"
+            },
+            {
+              "key": "Exchange",
+              "value": "New York Stock Exchange"
+            },
+            {
+              "key": "Registration Status (12(b))",
+              "value": "Filed"
+            },
+            {
+              "key": "Registration Status (12(g))",
+              "value": "NONE"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 3,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "summary",
+              "value": "This table represents a detailed table of contents from what appears to be an annual report or similar financial document. It is organized into four parts (I-IV) with multiple items in each section. The document spans 58 pages and covers various aspects of business operations, financial statements, risk factors, corporate governance, and other regulatory disclosures. Key sections include business operations, financial condition analysis, executive compensation, and corporate governance matters. Most items have specific page references, with Part III items notably all beginning on page 57."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 5,
+          "title": "Business Overview and PEO Industry",
+          "data": [
+            {
+              "key": "Service Overview",
+              "value": "Comprehensive service fee consists of payroll for WSEEs and additional percentage of payroll cost."
+            },
+            {
+              "key": "HR Solutions Approach",
+              "value": "High-touch/high-tech approach to service delivery in PEO HR Outsourcing."
+            },
+            {
+              "key": "Physical Offices",
+              "value": "74 physical office locations in 43 markets as of December 31, 2022."
+            },
+            {
+              "key": "Client Base",
+              "value": "Serviced an average of 307,506 WSEEs per month in Q4 2022."
+            },
+            {
+              "key": "Founded",
+              "value": "Company was organized as a corporation in 1986."
+            },
+            {
+              "key": "Corporate Office Address",
+              "value": "19001 Crescent Springs Drive, Kingwood, Texas 77339."
+            },
+            {
+              "key": "Telephone Number",
+              "value": "(281) 358-8986."
+            },
+            {
+              "key": "Website",
+              "value": "www.insperity.com."
+            },
+            {
+              "key": "Stock Exchange",
+              "value": "Stock traded on NYSE under the symbol 'NSP'."
+            },
+            {
+              "key": "SEC Filings",
+              "value": "Files periodic reports with SEC including Form 10-K, 10-Q, and 8-K."
+            },
+            {
+              "key": "PEO Industry Evolution",
+              "value": "PEO industry evolved in the 1980s responding to burdens from complex legal and regulatory environments."
+            },
+            {
+              "key": "Demand Factors for PEO Services",
+              "value": "Growth focus in SMEs, need for competitive benefits, increasing health insurance costs, regulatory complexities."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 35,
+          "title": "Mine Safety Disclosures",
+          "data": [
+            {
+              "key": "Item",
+              "value": "4. Mine Safety Disclosures"
+            },
+            {
+              "key": "Applicability",
+              "value": "Not applicable"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 62,
+          "title": "Exhibits and Financial Statement Schedules",
+          "data": [
+            {
+              "key": "Exhibit No. 10.28",
+              "value": "Amendment to Minimum Premium Administrative Services Agreement, as amended effective January 1, 2013, by and between Insperity Holdings, Inc. and UnitedHealthcare Insurance Company, effective as of January 1, 2015."
+            },
+            {
+              "key": "Exhibit No. 10.29",
+              "value": "Amendment to Minimum Premium Financial Agreement, as amended effective January 1, 2011, by and between Insperity Holdings, Inc. and UnitedHealthcare Insurance Company, effective as of January 1, 2013."
+            },
+            {
+              "key": "Exhibit No. 10.30",
+              "value": "Amendment to Minimum Premium Administrative Services Agreement, as amended effective January 1, 2011, by and between Insperity Holdings, Inc. and UnitedHealthcare Insurance Company, effective as of January 1, 2013."
+            },
+            {
+              "key": "Exhibit No. 10.31",
+              "value": "Amendment to the Minimum Premium Financial Agreement, as amended effective January 1, 2015, by and between Insperity Holdings, Inc. and UnitedHealthcare Insurance Company, effective as of January 1, 2016."
+            },
+            {
+              "key": "Exhibit No. 10.32",
+              "value": "Amendment to the Minimum Premium Administrative Services Agreement, as amended effective January 1, 2015, by and between Insperity Holdings, Inc. and UnitedHealthcare Insurance Company, effective as of January 1, 2016."
+            },
+            {
+              "key": "Exhibit No. 10.33",
+              "value": "Amendment to the Minimum Premium Financial Agreement, as amended effective January 1, 2016, by and between Insperity Holdings, Inc. and UnitedHealthcare Insurance Company, effective as of January 1, 2017."
+            },
+            {
+              "key": "Exhibit No. 10.34",
+              "value": "Amendment to Minimum Premium Administrative Services Agreement by and between Insperity Holdings, Inc. and UnitedHealthcare Insurance Company entered into as of January 1, 2019."
+            },
+            {
+              "key": "Exhibit No. 10.35",
+              "value": "Amendment to Minimum Premium Financial Agreement by and between Insperity Holdings, Inc. and UnitedHealthcare Insurance Company entered into as of January 1, 2019."
+            },
+            {
+              "key": "Exhibit No. 10.36",
+              "value": "Letter Agreement by and between Insperity Holdings, Inc. and United Healthcare Insurance company entered into as of February 7, 2020."
+            },
+            {
+              "key": "Exhibit No. 10.37",
+              "value": "Letter Agreement by and between Insperity Holdings, Inc. and United Healthcare Insurance company entered into as of December 28, 2021."
+            },
+            {
+              "key": "Exhibit No. 10.38",
+              "value": "Amended and Restated Credit Agreement dated February 6, 2018."
+            },
+            {
+              "key": "Exhibit No. 10.39",
+              "value": "First Amendment to Amended and Restated Credit Agreement dated September 13, 2019."
+            },
+            {
+              "key": "Exhibit No. 10.40",
+              "value": "Second Amendment to Amended and Restated Credit Agreement dated March 9, 2021."
+            },
+            {
+              "key": "Exhibit No. 10.41",
+              "value": "Third Amendment to Amended and Restated Credit Agreement dated April 28, 2021."
+            },
+            {
+              "key": "Exhibit No. 10.42",
+              "value": "Fourth Amendment to the Amended and Restated Credit Agreement dated June 30, 2022."
+            },
+            {
+              "key": "Exhibit No. 10.43",
+              "value": "Standard Form of Agreement Between Owner and Contractor dated February 8, 2019."
+            },
+            {
+              "key": "Exhibit No. 10.44",
+              "value": "Consulting agreement between Insperity, Inc. and Jay E. Mincks dated February 25, 2021."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 79,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Description of Business",
+              "value": "Insperity, Inc. provides an array of human resources and business solutions designed to improve business performance."
+            },
+            {
+              "key": "Organization Year",
+              "value": "1986"
+            },
+            {
+              "key": "HR Services",
+              "value": "PEO HR Outsourcing Solutions, Workforce Optimization, Workforce Synchronization, traditional payroll, human capital management, Recruiting Services, Employment Screening, Retirement Services, and Insurance Services."
+            },
+            {
+              "key": "Co-employment Relationship",
+              "value": "Insperity and its clients take responsibility for portions of the employer-employee relationship."
+            },
+            {
+              "key": "Employer Obligations",
+              "value": "Compensate WSEEs through wages, pay employer payroll taxes, withhold employee payroll taxes, provide employee benefits, and provide workers’ compensation insurance."
+            },
+            {
+              "key": "Revenue Recognition",
+              "value": "Revenue is recognized ratably over the payroll period as services are rendered."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 80,
+          "title": "Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Revenue Breakdown",
+              "value": "Northeast: $1,624,556 (2022), $1,390,156 (2021), $1,189,837 (2020); Southeast: $796,219 (2022), $630,342 (2021), $509,846 (2020); Central: $1,045,043 (2022), $867,914 (2021), $761,905 (2020); Southwest: $1,163,088 (2022), $993,747 (2021), $935,634 (2020); West: $1,251,186 (2022), $1,033,996 (2021), $839,347 (2020); Subtotal: $5,880,092 (2022), $4,916,155 (2021), $4,236,569 (2020); Other revenue: $58,726 (2022), $56,915 (2021), $50,435 (2020); Total revenue: $5,938,818 (2022), $4,973,070 (2021), $4,287,004 (2020)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 90,
+          "title": "Income Tax Expense Breakdown",
+          "data": [
+            {
+              "key": "Current income tax expense - Federal",
+              "value": "2022: 61649, 2021: 30887, 2020: 45558"
+            },
+            {
+              "key": "Current income tax expense - State",
+              "value": "2022: 15067, 2021: 8640, 2020: 11122"
+            },
+            {
+              "key": "Total current income tax expense",
+              "value": "2022: 76716, 2021: 39527, 2020: 56680"
+            },
+            {
+              "key": "Deferred income tax - Federal",
+              "value": "2022: -8844, 2021: 4562, 2020: -4678"
+            },
+            {
+              "key": "Deferred income tax - State",
+              "value": "2022: -1797, 2021: 149, 2020: -969"
+            },
+            {
+              "key": "Total deferred income tax",
+              "value": "2022: -10641, 2021: 4711, 2020: -5647"
+            },
+            {
+              "key": "Total income tax expense",
+              "value": "2022: 66075, 2021: 44238, 2020: 51033"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 90,
+          "title": "Income Tax Expense Reconciliation",
+          "data": [
+            {
+              "key": "Expected income tax expense at 21%",
+              "value": "2022: 51539, 2021: 35347, 2020: 39747"
+            },
+            {
+              "key": "State income taxes, net of federal benefit",
+              "value": "2022: 10106, 2021: 6974, 2020: 7818"
+            },
+            {
+              "key": "Nondeductible expenses",
+              "value": "2022: 4338, 2021: 7362, 2020: 3641"
+            },
+            {
+              "key": "Equity compensation, net",
+              "value": "2022: 1345, 2021: -4427, 2020: 1335"
+            },
+            {
+              "key": "Research and development credit",
+              "value": "2022: -1241, 2021: -4018, 2020: -1479"
+            },
+            {
+              "key": "Other, net",
+              "value": "2022: -12, 2021: 0, 2020: -29"
+            },
+            {
+              "key": "Reported total income tax expense",
+              "value": "2022: 66075, 2021: 44238, 2020: 51033"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 2,
+          "title": "Company Filing Status Categories",
+          "data": [
+            {
+              "key": "filing_status",
+              "value": "Large accelerated filer"
+            },
+            {
+              "key": "filing_status",
+              "value": "Non-accelerated filer"
+            },
+            {
+              "key": "filing_status",
+              "value": "Smaller reporting company"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 17,
+          "title": "Employee Benefit Plans and Compliance",
+          "data": [
+            {
+              "key": "Compliance with federal regulations",
+              "value": "Believed to be in compliance, in all material respects, with applicable federal statutes and regulations."
+            },
+            {
+              "key": "Types of employee benefit plans offered",
+              "value": "Group health plan, 401(k) retirement plan, cafeteria plans, health savings account, welfare benefits plan, healthcare flexible spending account, educational assistance, adoption assistance, commuter benefits."
+            },
+            {
+              "key": "Employer status and ERISA",
+              "value": "Dependent on status as ‘employer’ for WSEEs."
+            },
+            {
+              "key": "Impact of health care reform",
+              "value": "Could disrupt health insurance plan and business."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 36,
+          "title": "Executive Leadership Team",
+          "data": [
+            {
+              "key": "Executive Officer",
+              "value": "Paul J. Sarvadi"
+            },
+            {
+              "key": "Age",
+              "value": "66"
+            },
+            {
+              "key": "Position",
+              "value": "Chairman of the Board and Chief Executive Officer"
+            },
+            {
+              "key": "Executive Officer",
+              "value": "A. Steve Arizpe"
+            },
+            {
+              "key": "Age",
+              "value": "65"
+            },
+            {
+              "key": "Position",
+              "value": "President and Chief Operating Officer"
+            },
+            {
+              "key": "Executive Officer",
+              "value": "Douglas S. Sharp"
+            },
+            {
+              "key": "Age",
+              "value": "61"
+            },
+            {
+              "key": "Position",
+              "value": "Executive Vice President of Finance, Chief Financial Officer and Treasurer"
+            },
+            {
+              "key": "Executive Officer",
+              "value": "Daniel D. Herink"
+            },
+            {
+              "key": "Age",
+              "value": "56"
+            },
+            {
+              "key": "Position",
+              "value": "Executive Vice President of Legal, General Counsel and Secretary"
+            },
+            {
+              "key": "Executive Officer",
+              "value": "James D. Allison"
+            },
+            {
+              "key": "Age",
+              "value": "54"
+            },
+            {
+              "key": "Position",
+              "value": "Executive Vice President of Gross Profit Operations"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 59,
+          "title": "Directors, Executive Officers and Corporate Governance",
+          "data": [
+            {
+              "key": "Board Code of Ethics",
+              "value": "Adopted by the Board, meets requirements of Rule 303A.10 of the NYSE Listed Company Manual and Item 406 of Regulation S-K."
+            },
+            {
+              "key": "Website access",
+              "value": "Available on Corporate Governance page at insperity.com"
+            },
+            {
+              "key": "Changes to Code of Ethics",
+              "value": "Posted on website within five business days, maintained for at least 12 months."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 64,
+          "title": "Signatures",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Insperity, Inc."
+            },
+            {
+              "key": "Date",
+              "value": "February 9, 2023"
+            },
+            {
+              "key": "Signatory Name",
+              "value": "Douglas S. Sharp"
+            },
+            {
+              "key": "Title",
+              "value": "Executive Vice President of Finance, Chief Financial Officer and Treasurer"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 65,
+          "title": "Company Officers and Directors",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Douglas S. Sharp"
+            },
+            {
+              "key": "Position",
+              "value": "Executive Vice President of Finance, Chief Financial Officer and Treasurer (Principal Financial Officer)"
+            },
+            {
+              "key": "Name",
+              "value": "Timothy Clifford"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Name",
+              "value": "Eli Jones"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Name",
+              "value": "Carol R. Kaufman"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Name",
+              "value": "John L. Lumelleau"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Name",
+              "value": "Ellen H. Masterson"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Name",
+              "value": "Randall Mehl"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Name",
+              "value": "John Morphy"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Name",
+              "value": "Latha Ramchand"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Name",
+              "value": "Richard G. Rawson"
+            },
+            {
+              "key": "Position",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": true,
+      "elements": [
+        {
+          "type": "layoff",
+          "page": 7,
+          "title": "Overview of Employment-Related Laws and Administrative Functions",
+          "data": [
+            {
+              "key": "Laws and Regulations",
+              "value": "Internal Revenue Code, Occupational Safety and Health Act, Federal Income Contribution Act, Worker Adjustment and Retraining Notification Act, Federal Unemployment Tax Act, Uniformed Services Employment and Reemployment Rights Act, Fair Labor Standards Act, State unemployment and employment security laws, Employee Retirement Income Security Act, State workers’ compensation laws, Consolidated Omnibus Budget Reconciliation Act of 1985, Health Care and Education Reconciliation Act of 2010, Immigration Reform and Control Act, Patient Protection and Affordable Care Act, Title VII, Health Insurance Portability and Accountability Act, The Families First Coronavirus Response Act, Age Discrimination in Employment Act, The Coronavirus Aid, Relief and Economic Security Act, Americans with Disabilities Act, The Consolidated Appropriations Act, 2021, The Family and Medical Leave Act, The American Rescue Plan Act of 2021, Genetic Information Nondiscrimination Act of 2008, Paycheck Protection Program and Healthcare Enhancement Act, Drug-Free Workplace Act"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "layoff",
+          "page": 9,
+          "title": "Employee Benefits and Management Services",
+          "data": [
+            {
+              "key": "online check stubs",
+              "value": "available"
+            },
+            {
+              "key": "pay history",
+              "value": "available"
+            },
+            {
+              "key": "W-2 forms",
+              "value": "available"
+            },
+            {
+              "key": "W-4 forms",
+              "value": "available"
+            },
+            {
+              "key": "employee-specific benefits",
+              "value": "available"
+            },
+            {
+              "key": "401(k) retirement plan information",
+              "value": "accessible"
+            },
+            {
+              "key": "self-reviews and review history",
+              "value": "offered by client"
+            },
+            {
+              "key": "time and attendance submission",
+              "value": "available if offered by client"
+            },
+            {
+              "key": "mobile access",
+              "value": "available for various employee activities"
+            },
+            {
+              "key": "human capital management services",
+              "value": "variety offered"
+            },
+            {
+              "key": "employer liability management",
+              "value": "assumed responsibilities under CSA"
+            },
+            {
+              "key": "safe workplace programs",
+              "value": "provided guidance for implementation"
+            },
+            {
+              "key": "employment practice liability insurance",
+              "value": "maintained for clients and us"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "layoff",
+          "page": 13,
+          "title": "Client Retention and Industry Distribution",
+          "data": [
+            {
+              "key": "Client Retention Rate 2022",
+              "value": "85%"
+            },
+            {
+              "key": "Client Retention Rate 2021",
+              "value": "82%"
+            },
+            {
+              "key": "Average Annual Retention Rate (last 5 years)",
+              "value": "84%"
+            },
+            {
+              "key": "Factors for Client Attrition",
+              "value": "1. Client non-renewal due to price or service factors; 2. Client business failure, sale, merger or disposition; 3. Termination of CSA due to non-compliance or inability to pay; 4. Competition from other PEOs or business services firms."
+            },
+            {
+              "key": "Sales Offices as of December 31, 2022",
+              "value": "92 sales offices located in 43 markets"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "layoff",
+          "page": 19,
+          "title": "Human Capital Management Overview",
+          "data": [
+            {
+              "key": "Corporate Employees as of December 31, 2022",
+              "value": "Approx. 4,100"
+            },
+            {
+              "key": "Average number of BPAs in 2022",
+              "value": "669"
+            },
+            {
+              "key": "Average number of BPAs in 2021",
+              "value": "650"
+            },
+            {
+              "key": "Average number of trained BPAs in 2022",
+              "value": "601"
+            },
+            {
+              "key": "Average number of trained BPAs in 2021",
+              "value": "596"
+            },
+            {
+              "key": "Employee Programs and Benefits",
+              "value": "Competitive compensation, 401(k), Employee stock purchase program, Leadership development, Employee recognition program, Flexible remote working, Employee benevolence programs"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "layoff",
+          "page": 43,
+          "title": "Management's Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "plan_costs_exceed_premiums_paid",
+              "value": "$3.7 million"
+            },
+            {
+              "key": "surplus_maintenance_level",
+              "value": "$9.0 million"
+            },
+            {
+              "key": "difference_in_accrued_health_costs",
+              "value": "$5.3 million"
+            },
+            {
+              "key": "premiums_owed_to_United",
+              "value": "$46.4 million"
+            },
+            {
+              "key": "completed_benefits_costs_2022",
+              "value": "$2.6 billion"
+            },
+            {
+              "key": "average_discount_rate_2022",
+              "value": "2.9%"
+            },
+            {
+              "key": "average_discount_rate_2021",
+              "value": "0.6%"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 10,
+          "title": "MarketPlace Overview and Offerings",
+          "data": [
+            {
+              "key": "MarketPlace Introduction",
+              "value": "Insperity’s MarketPlace is an e-commerce portal that provides a wide range of products and services to clients."
+            },
+            {
+              "key": "Middle Market Solutions",
+              "value": "The middle market sector has been historically under-served by the PEO industry, focusing on companies with 150 to 5,000 employees."
+            },
+            {
+              "key": "Growth in Middle Market Sector",
+              "value": "Average number of WSEEs in the middle market sector increased by 23.3% from 2021 to 2022."
+            },
+            {
+              "key": "Percentage of Total WSEEs",
+              "value": "Represents approx 24.9% and 23.8% of total average paid WSEEs during 2022 and 2021."
+            },
+            {
+              "key": "Comprehensive Payroll and HCM Solution",
+              "value": "Insperity Workforce Acceleration is a comprehensive solution for clients not choosing PEO HR Outsourcing."
+            },
+            {
+              "key": "Revenue Contributions from Other Products",
+              "value": "Revenues from other products represented 0.7% and 0.9% of total revenues in 2022 and 2021."
+            },
+            {
+              "key": "Insurance and Client Service Agreement",
+              "value": "All clients execute a CSA establishing the ongoing relationship and pricing for a period, typically one year."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 11,
+          "title": "Responsibility Division Under Client Service Agreements",
+          "data": [
+            {
+              "key": "Termination Fee",
+              "value": "Clients may terminate the agreement upon payment or default."
+            },
+            {
+              "key": "Comprehensive Service Fee",
+              "value": "Subject to periodic adjustments for workforce changes."
+            },
+            {
+              "key": "Payroll Tax Responsibilities",
+              "value": "Clients obligated to pay estimated payroll tax component."
+            },
+            {
+              "key": "Insperity Responsibilities",
+              "value": "Handles wages, compliance with employment regulations, offers benefits."
+            },
+            {
+              "key": "Client Responsibilities",
+              "value": "Manages severance, compliance with various regulations."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 60,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit",
+              "value": "3.1"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Amended and Restated Certificate of Incorporation (incorporated by reference to Exhibit 3.1 to the Registrant's Current Report on Form 8-K filed on May 29, 2018)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "3.2"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Amended and Restated Bylaws of Insperity, Inc. dated February 17, 2014 (incorporated by reference to Exhibit 3.1 to the Registrant's Current Report on Form 8-K filed on February 18, 2014)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "44"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Specimen Common Stock Certificate (incorporated by reference to Exhibit 4.1 to the Registrant's Registration Statement on Form S-1 (No. 33-96952))."
+            },
+            {
+              "key": "Exhibit",
+              "value": "4.2"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Description of Registrant's Common Stock (incorporated by reference to Exhibit 4.2 to the Registrant's Form 10-K for the year ended December 31, 2019)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "4.3"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Rights Agreement dated as of May 21, 2020 between Insperity, Inc. and Computershare Trust Company, N.A., as Rights Agent (incorporated by reference to Exhibit 4.1 to the Registrant's Current Report on Form 8-K filed on May 22, 2020)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "AA"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Certificate of Designations of Series A Junior Participating Preferred Stock (incorporated by reference to Exhibit 3.1 to the Registrant's Current Report on Form 8-K filed on May 22, 2020)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "15"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Certificate of Elimination with Respect to Series A Junior Participating Preferred Stock of Insperity, Inc. (incorporated by reference to Exhibit 3.1 to the Registrant's Current Report on Form 8-K filed on May 26, 2021)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.1"
+            },
+            {
+              "key": "No.",
+              "value": "t"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Insperity, Inc. 2001 Incentive Plan, as amended and restated (incorporated by reference to Appendix A to the definitive statement Schedule 14A filed March 2009"
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.2"
+            },
+            {
+              "key": "No.",
+              "value": "t"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Registrant's proxy on on 18, (No. 1-13998)). Form of Restricted Stock Award Agreement for awards granted to executive officers on or after November 10, 2017 (incorporated by reference to Exhibit 10.1 to the Registrant's Form 10-Q for the quarter ended September 30, 2017)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.3"
+            },
+            {
+              "key": "No.",
+              "value": "t"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Form of Restricted Stock Award Agreement for awards granted to certain senior personnel on or after November 10, 2017 (incorporated by reference to Exhibit 10.2 to the Registrant's Form 10-Q for the quarter ended September 30, 2017)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.4"
+            },
+            {
+              "key": "No.",
+              "value": "t"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Form of Restricted Stock Award Agreement for awards granted to other employees on or after November 10, 2017 (incorporated by reference to Exhibit 10.3 to the Registrant's Form 10-Q for the quarter ended September 30, 2017)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.5"
+            },
+            {
+              "key": "No.",
+              "value": "t"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Form of Restricted Stock Unit Agreement for awards granted to executive officers on or after December 30, 2019 (incorporated by reference to Exhibit 10.18 to the Registrant's Form 10-K for the year ended December 31, 2019)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.6"
+            },
+            {
+              "key": "No.",
+              "value": "t"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Form of Restricted Stock Unit Agreement for awards granted to certain senior personnel on or after December 30, 2019 (incorporated by reference to Exhibit 10.19 to the Registrant's Form 10-K for the year ended December 31, 2019)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.7"
+            },
+            {
+              "key": "No.",
+              "value": "t"
+            },
+            {
+              "key": "Exhibit_Description",
+              "value": "Form of Restricted Stock Unit Agreement for awards granted to other employees on or after December 31, 2019 (incorporated by reference to Exhibit 10.20 to the Registrant's Form 10-K for the year ended December 31, 2019)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 61,
+          "title": "Exhibits and Financial Statement Schedules",
+          "data": [
+            {
+              "key": "Exhibit",
+              "value": "10.8"
+            },
+            {
+              "key": "No.",
+              "value": "t"
+            },
+            {
+              "key": "Description",
+              "value": "Form of Employee Award Notice and Agreement under LTIP granted on or after December 30, 2019 (incorporated by reference to Exhibit 10.22 to the Registrant's Form 10-K for the year ended December 31, 2019)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.9"
+            },
+            {
+              "key": "No.",
+              "value": "t"
+            },
+            {
+              "key": "Description",
+              "value": "Directors Compensation Plan (incorporated by reference to Exhibit 10.4 to the Registrant's Form 10-Q for the quarter ended September 30, 2012)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.10"
+            },
+            {
+              "key": "No.",
+              "value": "+"
+            },
+            {
+              "key": "Description",
+              "value": "Amendment to the Directors Compensation Plan (incorporated by reference to Exhibit 10.6 to the Registrant's Current Report on Form 8-K filed on February 22, 2013)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.11"
+            },
+            {
+              "key": "No.",
+              "value": "+"
+            },
+            {
+              "key": "Description",
+              "value": "First Amendment and Appendix A to Directors Compensation Plan (incorporated by reference to Exhibit 10.2 to the Registrant's Current Report on Form 8-K filed on February 25, 2015)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.12"
+            },
+            {
+              "key": "No.",
+              "value": "+"
+            },
+            {
+              "key": "Description",
+              "value": "Directors Compensation Plan (as amended and restated April 1, 2017) (incorporated by reference to Exhibit 10.2 to the Registrant's Form 10-Q for the quarter ended June 30, 2017)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.13"
+            },
+            {
+              "key": "No.",
+              "value": ""
+            },
+            {
+              "key": "Description",
+              "value": "Insperity, Inc. 2008 Employee Stock Purchase Plan (incorporated by reference to Exhibit 10.1 to the Registrant's Registration Statement on Form S-8 (No. 333-151275))."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.14"
+            },
+            {
+              "key": "No.",
+              "value": ""
+            },
+            {
+              "key": "Description",
+              "value": "Insperity, Inc. 2012 Incentive Plan (incorporated by reference to the Registrant's definitive proxy statement on Schedule 14A filed on March 29, 2012 (No. 1-13998))."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.15"
+            },
+            {
+              "key": "No.",
+              "value": ""
+            },
+            {
+              "key": "Description",
+              "value": "First Amendment to the Insperity, Inc. 2012 Incentive Plan (incorporated by reference to Exhibit 10.1 to the Registrant's Current Report on Form 8-K filed on February 22, 2013)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.16"
+            },
+            {
+              "key": "No.",
+              "value": ""
+            },
+            {
+              "key": "Description",
+              "value": "Second Amendment to Insperity, Inc. 2012 Incentive Plan (incorporated by reference to Exhibit 10.1 to the Registrant's Current Report on Form 8-K filed on February 25, 2015)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.17"
+            },
+            {
+              "key": "No.",
+              "value": ""
+            },
+            {
+              "key": "Description",
+              "value": "Third Amendment to Insperity, Inc. 2012 Incentive Plan (incorporated by reference to Exhibit 10.1 to the Registrant's Current Report on Form 8-K filed on April 1, 2016)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.18"
+            },
+            {
+              "key": "No.",
+              "value": ""
+            },
+            {
+              "key": "Description",
+              "value": "Insperity, Inc. 2012 Incentive Plan, as amended and restated (incorporated by reference to Exhibit 10.1 to the Registrant's Current Report on Form 8-K filed on June 21, 2017)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.19"
+            },
+            {
+              "key": "No.",
+              "value": ""
+            },
+            {
+              "key": "Description",
+              "value": "First Amendment to the Insperity Inc. 2012 Incentive Plan, as amended and restated (incorporated by reference to Exhibit 10.34 to the Registrant's Form 10-K filed for the year ended December 31, 2019)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.20"
+            },
+            {
+              "key": "No.",
+              "value": ""
+            },
+            {
+              "key": "Description",
+              "value": "Insperity, Inc. Long-Term Incentive Program (incorporated by reference to Exhibit 10.1 to the Registrant's Current Report on Form 8-K filed on April 2, 2015)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.21."
+            },
+            {
+              "key": "No.",
+              "value": "+"
+            },
+            {
+              "key": "Description",
+              "value": "Insperity, Inc. Executive Severance Plan (incorporated by reference to Exhibit 99.1 to the Registrant's Current Report on Form 8-K filed on January 3, 2020)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.22"
+            },
+            {
+              "key": "No.",
+              "value": "+"
+            },
+            {
+              "key": "Description",
+              "value": "Form of Participant Agreement under the Insperity, Inc. Executive Severance Plan (incorporated by reference to Exhibit 99.2 to the Registrant's Current Report on Form 8-K filed on January 3, 2020)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.23"
+            },
+            {
+              "key": "No.",
+              "value": "(+)"
+            },
+            {
+              "key": "Description",
+              "value": "Minimum Premium Financial Agreement, amended and restated effective January 1, 2005, by and between Insperity Holdings, Inc. (fka Administaff of Texas, Inc.) and United Healthcare Insurance Company (incorporated by reference to Exhibit 10.1 to the Registrant's Form 10-Q for the quarter ended June 30, 2005)."
+            },
+            {
+              "key": "Exhibit",
+              "value": "10.24"
+            },
+            {
+              "key": "No.",
+              "value": "(+)"
+            },
+            {
+              "key": "Description",
+              "value": "Minimum Premium Administrative Services Agreement, amended and restated effective January 1, 2005, by and between Insperity Holdings, Inc. (fka Administaff of Texas, Inc.) and United Healthcare Insurance Company (incorporated by reference to Exhibit 10.2 to the Registrant's Form 10-Q for the quarter ended June 30, 2005)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 77,
+          "title": "Consolidated Statements of Cash Flows",
+          "data": [
+            {
+              "key": "Net income",
+              "value": "179350"
+            },
+            {
+              "key": "Depreciation and amortization",
+              "value": "40660"
+            },
+            {
+              "key": "Stock-based compensation",
+              "value": "50080"
+            },
+            {
+              "key": "Net cash provided by operating activities",
+              "value": "347691"
+            },
+            {
+              "key": "Net cash used in investing activities",
+              "value": "-32122"
+            },
+            {
+              "key": "Net cash used in financing activities",
+              "value": "-141150"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 82,
+          "title": "Health Insurance Costs",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "Group health insurance coverage provided under a single-employer plan for WSEEs in PEO HR Outsourcing Solutions and corporate employees."
+            },
+            {
+              "key": "Insurance Providers",
+              "value": "Includes UnitedHealthcare, Kaiser Permanente, Blue Shield of California, and others."
+            },
+            {
+              "key": "Cost Coverage",
+              "value": "Approximately 87% of health insurance costs are through UnitedHealthcare."
+            },
+            {
+              "key": "Contractual Terms",
+              "value": "Partially self-funded insurance accounting model adopted."
+            },
+            {
+              "key": "Claim Costs",
+              "value": "Claims exceeding $1 million are not the financial responsibility of the company."
+            },
+            {
+              "key": "Plan Costs",
+              "value": "Costs recorded as benefits expense in Consolidated Statements of Operations."
+            },
+            {
+              "key": "Estimated Costs",
+              "value": "Based on claims processed, development patterns, and participant numbers."
+            },
+            {
+              "key": "Funding Surplus",
+              "value": "Requires maintaining $9.0 million cash surplus."
+            },
+            {
+              "key": "Liabilities",
+              "value": "$3.7 million excess of Plan Costs over net premiums recorded as liabilities."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 84,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Workers' Compensation Program Revenue",
+              "value": "$30.2 million"
+            },
+            {
+              "key": "Restricted Cash (as of December 31, 2022)",
+              "value": "$49.8 million"
+            },
+            {
+              "key": "Deposits (as of December 31, 2022)",
+              "value": "$196.4 million"
+            },
+            {
+              "key": "Matching Contributions to Corporate Plan (2022)",
+              "value": "$14.4 million"
+            },
+            {
+              "key": "Matching Contributions to Corporate Plan (2021)",
+              "value": "$8.2 million"
+            },
+            {
+              "key": "Matching Contributions to Corporate Plan (2020)",
+              "value": "$12.6 million"
+            },
+            {
+              "key": "Matching Contributions to Worksite Employee Plan (2022)",
+              "value": "$328.5 million"
+            },
+            {
+              "key": "Matching Contributions to Worksite Employee Plan (2021)",
+              "value": "$244.1 million"
+            },
+            {
+              "key": "Matching Contributions to Worksite Employee Plan (2020)",
+              "value": "$199.2 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 92,
+          "title": "Income Tax Benefit from Stock-Based Compensation",
+          "data": [
+            {
+              "key": "Income tax benefit realized from stock-based compensation expense",
+              "value": "13483"
+            },
+            {
+              "key": "2021",
+              "value": "10677"
+            },
+            {
+              "key": "2020",
+              "value": "16217"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 92,
+          "title": "Stock Awards Movement Summary 2021-2022",
+          "data": [
+            {
+              "key": "Non-vested — December 31, 2021",
+              "value": "713"
+            },
+            {
+              "key": "Granted",
+              "value": "653"
+            },
+            {
+              "key": "Vested",
+              "value": "-340"
+            },
+            {
+              "key": "Canceled",
+              "value": "-39"
+            },
+            {
+              "key": "Non-vested — December 31, 2022",
+              "value": "987"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 92,
+          "title": "Additional disclosures for time-based RSAs and time-based RSUs",
+          "data": [
+            {
+              "key": "Unrecognized compensation expense associated with unvested RSAs and RSUs",
+              "value": "$44.0 million"
+            },
+            {
+              "key": "Weighted average period",
+              "value": "23 months"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 93,
+          "title": "Performance Units Movement and Fair Value Analysis",
+          "data": [
+            {
+              "key": "Status - Non-vested — December 31, 2021",
+              "value": "238"
+            },
+            {
+              "key": "Weighted Average Grant Date Fair Value - Non-vested — December 31, 2021",
+              "value": "93.78"
+            },
+            {
+              "key": "Status - Granted",
+              "value": "85"
+            },
+            {
+              "key": "Weighted Average Grant Date Fair Value - Granted",
+              "value": "94.43"
+            },
+            {
+              "key": "Status - Vested",
+              "value": "null"
+            },
+            {
+              "key": "Status - Canceled",
+              "value": "-51"
+            },
+            {
+              "key": "Weighted Average Grant Date Fair Value - Canceled",
+              "value": "139.71"
+            },
+            {
+              "key": "Status - Non-vested December 31, 2022",
+              "value": "272"
+            },
+            {
+              "key": "Weighted Average Grant Date Fair Value - Non-vested December 31, 2022",
+              "value": "85.37"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 14,
+          "title": "Marketing and Entry Strategy",
+          "data": [
+            {
+              "key": "market size",
+              "value": "A consideration based on small and medium-sized businesses engaged in selected industries meeting our risk profile."
+            },
+            {
+              "key": "market receptivity",
+              "value": "Includes the regulatory environment and relevant history with other PEO providers."
+            },
+            {
+              "key": "existing relationships",
+              "value": "Vendor or client relationships within the market."
+            },
+            {
+              "key": "expansion cost issues",
+              "value": "Advertising and overhead costs associated with market entry."
+            },
+            {
+              "key": "direct cost issues",
+              "value": "Factors affecting services cost management, such as workers’ compensation and health insurance costs."
+            },
+            {
+              "key": "service comparison",
+              "value": "A comparison of offered services to alternatives available for small and medium-sized businesses."
+            },
+            {
+              "key": "long-term strategy",
+              "value": "General perception of markets and estimated long-term revenue growth potential."
+            },
+            {
+              "key": "marketing strategies",
+              "value": "National and local advertising media placements tailored to each market prior to entry."
+            },
+            {
+              "key": "public relations campaign",
+              "value": "Organized efforts to prepare the market and generate sales leads."
+            },
+            {
+              "key": "partnerships",
+              "value": "Agreement with the Professional Golf Association Champions Tour and arrangement with Jim Nantz as spokesperson."
+            },
+            {
+              "key": "sales lead sources",
+              "value": "Direct sales, digital advertising, traditional advertising, third-party channel programs, referrals, and marketing alliances."
+            },
+            {
+              "key": "client evaluation process",
+              "value": "Utilizes business profiles and comprehensive employer risk analysis to generate bids."
+            },
+            {
+              "key": "selling process duration",
+              "value": "Approximately 90 days for clients with less than 150 employees."
+            },
+            {
+              "key": "strategic selling approach",
+              "value": "Dual channel selling allows offering both PEO HR Outsourcing Solutions and traditional payroll solutions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 52,
+          "title": "MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+          "data": [
+            {
+              "key": "Other Income (Expense)",
+              "value": "Other income (expense) was a net expense of $4.8 million, $5.0 million, and $5.4 million in 2022, 2021 and 2020, respectively. In 2022, the increase in other income was due to an increase in interest income on our marketable securities investments and workers’ compensation deposits, which was offset by an increase in interest expense related to higher average interest rates on borrowings under our credit facility."
+            },
+            {
+              "key": "Income Tax Expense",
+              "value": "Our effective income tax rate was 26.9% in 2022, 26.3% in 2021 and 27.0% in 2020. Our provision for income taxes differed from the U.S. statutory rate of 21% primarily due to state income taxes and non-deductible expenses, offset by excess tax benefits associated with the vesting of equity compensation of $0.2 million, $2.6 million and $2.1 million, in 2022, 2021 and 2020, respectively."
+            },
+            {
+              "key": "Non-GAAP Financial Measures",
+              "value": "Non-GAAP financial measures are not prepared in accordance with GAAP and may be different from non-GAAP financial measures used by other companies. Non-GAAP financial measures should not be considered as a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP."
+            },
+            {
+              "key": "Table Summary",
+              "value": "This table provides definitions and explanations of various non-GAAP financial metrics used by the company. It emphasizes the company's use of adjusted metrics to provide better insight into operational performance by excluding certain items like bonus payroll costs and non-cash stock-based compensation."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 33,
+          "title": "Facilities Overview",
+          "data": [
+            {
+              "key": "current_headquarters",
+              "value": "Kingwood, Texas"
+            },
+            {
+              "key": "headquarters_size",
+              "value": "700,000 square feet"
+            },
+            {
+              "key": "undeveloped_land",
+              "value": "6 acres"
+            },
+            {
+              "key": "hosting_facilities",
+              "value": "2 locations"
+            },
+            {
+              "key": "service_centers",
+              "value": "4 regional service centers"
+            },
+            {
+              "key": "sales_offices",
+              "value": "92 sales offices in 43 markets"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 81,
+          "title": "Property and Equipment Breakdown",
+          "data": [
+            {
+              "key": "Land",
+              "value": "6,215"
+            },
+            {
+              "key": "Buildings and improvements",
+              "value": "207,740"
+            },
+            {
+              "key": "Computer hardware and software",
+              "value": "141,856"
+            },
+            {
+              "key": "Software development costs",
+              "value": "123,967"
+            },
+            {
+              "key": "Furniture, fixtures and other",
+              "value": "50,835"
+            },
+            {
+              "key": "Property and equipment, gross",
+              "value": "530,613"
+            },
+            {
+              "key": "Accumulated depreciation and amortization",
+              "value": "-330,621"
+            },
+            {
+              "key": "Property and equipment, net",
+              "value": "199,992"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 81,
+          "title": "Asset Useful Life Schedule",
+          "data": [
+            {
+              "key": "Buildings and improvements",
+              "value": "5 — 30 years"
+            },
+            {
+              "key": "Computer hardware and software",
+              "value": "2 — 5 years"
+            },
+            {
+              "key": "Software development costs",
+              "value": "3 — 3 years"
+            },
+            {
+              "key": "Furniture, fixtures and other",
+              "value": "5 — 7 years"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 12,
+          "title": "Regional Distribution",
+          "data": [
+            {
+              "key": "Northeast",
+              "value": "27.6"
+            },
+            {
+              "key": "Southeast",
+              "value": "13.5"
+            },
+            {
+              "key": "Central",
+              "value": "17.8"
+            },
+            {
+              "key": "Southwest",
+              "value": "19.8"
+            },
+            {
+              "key": "West",
+              "value": "21.3"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Stock Activities Performance Graph",
+          "data": [
+            {
+              "key": "Cumulative return since December 31, 2017",
+              "value": "Comparative performance of Insperity, Inc. against various indices"
+            },
+            {
+              "key": "Insperity, Inc. cumulative return",
+              "value": "218.43"
+            },
+            {
+              "key": "S&P Smallcap 600 cumulative return",
+              "value": "133.06"
+            },
+            {
+              "key": "S&P Midcap 400 cumulative return",
+              "value": "138.34"
+            },
+            {
+              "key": "S&P Composite 1500 — Human cumulative return",
+              "value": "117.07"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Adjusted net income",
+              "value": "$215.9 million (increase 40.2%)"
+            },
+            {
+              "key": "Adjusted EPS",
+              "value": "$5.59 (increase 41.5%)"
+            },
+            {
+              "key": "Adjusted EBITDA per WSEE per month",
+              "value": "$100 (increase 17.6%)"
+            },
+            {
+              "key": "Working capital",
+              "value": "$158.5 million"
+            },
+            {
+              "key": "Dividends paid during 2022",
+              "value": "$76.6 million"
+            },
+            {
+              "key": "Shares repurchased",
+              "value": "approximately 770,000 shares at a cost of $73.3 million"
+            },
+            {
+              "key": "Capital expenditures",
+              "value": "$30.4 million"
+            },
+            {
+              "key": "2022 year-over-year benefits costs per covered employee increase",
+              "value": "1.2%"
+            },
+            {
+              "key": "COVID-19 impact on claims costs",
+              "value": "higher or more volatile level than historical trends"
+            },
+            {
+              "key": "COVID-19 related workers’ compensation claims impact",
+              "value": "not material"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Primary Direct Costs",
+              "value": "employment-related taxes, costs of employee benefit plans, workers’ compensation costs"
+            },
+            {
+              "key": "Payroll Taxes",
+              "value": "Employer’s portion of Social Security and Medicare taxes, federal unemployment taxes, state unemployment taxes"
+            },
+            {
+              "key": "Employee Benefits Costs",
+              "value": "health insurance premiums, claims costs, life insurance, vision care, disability insurance, education assistance, adoption assistance, flexible spending account, employee well-being program"
+            },
+            {
+              "key": "Workers’ Compensation Costs",
+              "value": "Administrative and risk charges paid to the insurance carrier, claims costs"
+            },
+            {
+              "key": "Gross Profit Measurement",
+              "value": "Gross profit per WSEE per month"
+            },
+            {
+              "key": "Operating Expenses - Salaries",
+              "value": "Salaries, wages and payroll taxes depend on number of corporate employees and their average pay"
+            },
+            {
+              "key": "Stock-based Compensation",
+              "value": "Recognition of non-cash compensation expense over requisite service period"
+            },
+            {
+              "key": "Commissions Expense",
+              "value": "Amounts paid to sales managers and sales personnel"
+            },
+            {
+              "key": "Advertising Expenses",
+              "value": "Media advertising and promotions"
+            },
+            {
+              "key": "General and Administrative Expenses",
+              "value": "Rent expenses, professional service fees, administrative costs, employee travel and training expenses"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Facility Costs",
+              "value": "including repairs and maintenance"
+            },
+            {
+              "key": "Technology Costs",
+              "value": "including software-as-a-service subscription costs and amortization"
+            },
+            {
+              "key": "Depreciation and Amortization",
+              "value": "expenses primarily from capital investments in corporate facilities, service centers, sales offices, software development, and technology infrastructure"
+            },
+            {
+              "key": "Other Income (Expense)",
+              "value": "includes interest charges and interest income"
+            },
+            {
+              "key": "Income Taxes",
+              "value": "typically differs from the U.S. statutory rate of 21% due to various factors"
+            },
+            {
+              "key": "Deferred Income Taxes",
+              "value": "reflects net tax effects of temporary differences"
+            },
+            {
+              "key": "Critical Accounting Policies",
+              "value": "discussion based on Consolidated Financial Statements prepared in accordance with GAAP"
+            },
+            {
+              "key": "Benefits Costs",
+              "value": "provides group health insurance coverage under a single-employer plan"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+          "data": [
+            {
+              "key": "Estimated Workers' Compensation Costs (2022)",
+              "value": "$66.1 million"
+            },
+            {
+              "key": "Claims for Return of Excess Claim Funds (2022)",
+              "value": "$30.2 million"
+            },
+            {
+              "key": "Restricted Cash (as of December 31, 2022)",
+              "value": "$49.8 million"
+            },
+            {
+              "key": "Deposits (as of December 31, 2022)",
+              "value": "$196.4 million"
+            },
+            {
+              "key": "Accrued Workers' Compensation Claim Costs (as of December 31, 2022)",
+              "value": "$229.4 million"
+            },
+            {
+              "key": "Allowance for Doubtful Accounts Explanation",
+              "value": "We maintain an allowance for doubtful accounts to estimate losses from clients not paying their comprehensive service fees."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Financial and Statistical Data Comparison (2020-2022)",
+          "data": [
+            {
+              "key": "Revenues 2022",
+              "value": "$5.94 billion"
+            },
+            {
+              "key": "Revenues 2021",
+              "value": "$4.97 billion"
+            },
+            {
+              "key": "Revenues 2020",
+              "value": "$4.29 billion"
+            },
+            {
+              "key": "Revenue Growth (2022 vs 2021)",
+              "value": "19.4%"
+            },
+            {
+              "key": "Gross Profit 2022",
+              "value": "$1.01 billion"
+            },
+            {
+              "key": "Gross Profit 2021",
+              "value": "$820.1 million"
+            },
+            {
+              "key": "Gross Profit 2020",
+              "value": "$806.9 million"
+            },
+            {
+              "key": "Gross Profit Growth (2022 vs 2021)",
+              "value": "23.3%"
+            },
+            {
+              "key": "Operating Income 2022",
+              "value": "$250.2 million"
+            },
+            {
+              "key": "Operating Income 2021",
+              "value": "$173.3 million"
+            },
+            {
+              "key": "Operating Income 2020",
+              "value": "$194.7 million"
+            },
+            {
+              "key": "Operating Income Growth (2022 vs 2021)",
+              "value": "44.4%"
+            },
+            {
+              "key": "Net Income 2022",
+              "value": "$179.4 million"
+            },
+            {
+              "key": "Net Income 2021",
+              "value": "$124.1 million"
+            },
+            {
+              "key": "Net Income 2020",
+              "value": "$138.2 million"
+            },
+            {
+              "key": "Net Income Growth (2022 vs 2021)",
+              "value": "44.5%"
+            },
+            {
+              "key": "Adjusted EBITDA 2022",
+              "value": "$352.3 million"
+            },
+            {
+              "key": "Adjusted EBITDA 2021",
+              "value": "$254.9 million"
+            },
+            {
+              "key": "Adjusted EBITDA 2020",
+              "value": "$288.6 million"
+            },
+            {
+              "key": "Adjusted EBITDA Growth (2022 vs 2021)",
+              "value": "38.2%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Financial Performance Summary",
+          "data": [
+            {
+              "key": "Gross Billings 2022",
+              "value": "$40.13 billion"
+            },
+            {
+              "key": "Gross Billings 2021",
+              "value": "$33.32 billion"
+            },
+            {
+              "key": "Gross Billings 2020",
+              "value": "$28.17 billion"
+            },
+            {
+              "key": "WSEE Payroll Cost 2022",
+              "value": "$34.19 billion"
+            },
+            {
+              "key": "WSEE Payroll Cost 2021",
+              "value": "$28.35 billion"
+            },
+            {
+              "key": "WSEE Payroll Cost 2020",
+              "value": "$23.88 billion"
+            },
+            {
+              "key": "Revenues 2022",
+              "value": "$5.94 billion"
+            },
+            {
+              "key": "Revenues 2021",
+              "value": "$4.97 billion"
+            },
+            {
+              "key": "Revenues 2020",
+              "value": "$4.29 billion"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "WSEE Monthly Financial Metrics Comparison",
+          "data": [
+            {
+              "key": "Gross billings (2022)",
+              "value": "11335"
+            },
+            {
+              "key": "Gross billings (2021)",
+              "value": "11073"
+            },
+            {
+              "key": "Gross billings (2020)",
+              "value": "10000"
+            },
+            {
+              "key": "WSEE payroll cost (2022)",
+              "value": "9657"
+            },
+            {
+              "key": "WSEE payroll cost (2021)",
+              "value": "9420"
+            },
+            {
+              "key": "WSEE payroll cost (2020)",
+              "value": "8400"
+            },
+            {
+              "key": "Revenues (2022)",
+              "value": "78"
+            },
+            {
+              "key": "Revenues (2021)",
+              "value": "53"
+            },
+            {
+              "key": "Revenues (2020)",
+              "value": "100"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Total Revenues 2021",
+              "value": "$5.0 billion"
+            },
+            {
+              "key": "Increase from 2020",
+              "value": "16.0%"
+            },
+            {
+              "key": "Average Pricing Increase",
+              "value": "5.1%"
+            },
+            {
+              "key": "Non-recurrence of FICA deferral credits",
+              "value": "$121.3 million or $43 per WSEE per month"
+            },
+            {
+              "key": "Comprehensive service fee credits",
+              "value": "$11.6 million or $4 per WSEE per month"
+            },
+            {
+              "key": "Revenue Distribution by Region (2021)",
+              "value": "See charts for detailed values by region"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Gross Profit Impact",
+              "value": "Our gross profit per WSEE and our operating results are significantly impacted by our ability to accurately estimate, control and manage our direct costs relative to the revenues derived from the markup component of our gross billings."
+            },
+            {
+              "key": "Pricing Objectives",
+              "value": "Our pricing objectives attempt to achieve a level of revenue per WSEE that matches or exceeds changes in primary direct costs and operating expenses."
+            },
+            {
+              "key": "Revenue Increase",
+              "value": "Our revenues per WSEE per month increased $25 due to higher average pricing."
+            },
+            {
+              "key": "Direct Costs Increase",
+              "value": "Our direct costs per WSEE per month increased $12 primarily due to changes in direct costs."
+            },
+            {
+              "key": "Net Increase in Direct Costs",
+              "value": "The net increase in direct costs between 2022 and 2021 attributable to changes in cost estimates for benefits and workers’ compensation totaled $6.7 million."
+            },
+            {
+              "key": "Benefits Costs Analysis",
+              "value": "The cost of group health insurance and related employee benefits decreased $9 per WSEE per month but increased 1.2% on a per covered employee basis."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+          "data": [
+            {
+              "key": "Workers’ compensation costs decrease",
+              "value": "4.1% ($4 per WSEE per month) in 2022 compared to 2021"
+            },
+            {
+              "key": "Percentage of non-bonus payroll cost (Workers’ compensation)",
+              "value": "0.23% in 2022, 0.29% in 2021"
+            },
+            {
+              "key": "Reduction in workers’ compensation costs in 2022",
+              "value": "$42.2 million (0.14% of non-bonus payroll costs)"
+            },
+            {
+              "key": "Reduction in workers’ compensation costs in 2021",
+              "value": "$41.7 million (0.18% of non-bonus payroll costs)"
+            },
+            {
+              "key": "Payroll tax costs increase",
+              "value": "23.0% with a 20.6% increase in payroll costs"
+            },
+            {
+              "key": "Payroll taxes as percent of payroll cost (2022)",
+              "value": "6.4%, compared to 6.3% in 2021"
+            },
+            {
+              "key": "Increase in direct costs (2021 vs 2020)",
+              "value": "$5.5 million due to changes in cost estimates for benefits and workers’ compensation"
+            },
+            {
+              "key": "Benefit's costs increase",
+              "value": "$58 per WSEE per month (9.8% increase)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 50,
+          "title": "Operating Expenses Breakdown and Per WSEE Analysis",
+          "data": [
+            {
+              "key": "Total Operating Expenses 2022",
+              "value": "$761.0 million"
+            },
+            {
+              "key": "Total Operating Expenses 2021",
+              "value": "$646.8 million"
+            },
+            {
+              "key": "Percent Change in Operating Expenses",
+              "value": "17.7%"
+            },
+            {
+              "key": "Percentage of salaries increase",
+              "value": "13.7%"
+            },
+            {
+              "key": "Stock-based compensation increase",
+              "value": "23.3%"
+            },
+            {
+              "key": "Commissions increase",
+              "value": "30.8%"
+            },
+            {
+              "key": "Advertising increase",
+              "value": "28.9%"
+            },
+            {
+              "key": "General and administrative expenses increase",
+              "value": "25.5%"
+            },
+            {
+              "key": "Depreciation and amortization increase",
+              "value": "5.5%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Management’s Discussion and Analysis",
+          "data": [
+            {
+              "key": "General and administrative expenses",
+              "value": "increased 25.5% to $156.1 million"
+            },
+            {
+              "key": "Depreciation and amortization expense",
+              "value": "increased 5.5% to $40.7 million"
+            },
+            {
+              "key": "Operating Expenses Comparison",
+              "value": "Total operating expenses increased by 5.7% from $612.2 million to $646.8 million"
+            },
+            {
+              "key": "Salaries",
+              "value": "increased 7.3% to $379.2 million"
+            },
+            {
+              "key": "Stock-based compensation",
+              "value": "decreased 32.5% to $40.6 million"
+            },
+            {
+              "key": "Commissions expense",
+              "value": "increased 6.4% to $34.9 million"
+            },
+            {
+              "key": "Advertising expense",
+              "value": "increased 35% to $29.1 million"
+            },
+            {
+              "key": "Depreciation and amortization",
+              "value": "increased 23.6% to $38.5 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Payroll Cost Analysis",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Total Payroll",
+              "value": "$34,188,092"
+            },
+            {
+              "key": "Per WSEE",
+              "value": "$9,657"
+            },
+            {
+              "key": "Bonus Payroll",
+              "value": "$4,959,987"
+            },
+            {
+              "key": "Bonus Per WSEE",
+              "value": "$1,401"
+            },
+            {
+              "key": "Non-Bonus Payroll",
+              "value": "$29,228,105"
+            },
+            {
+              "key": "Non-Bonus Per WSEE",
+              "value": "$8,256"
+            },
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Total Payroll",
+              "value": "$28,345,623"
+            },
+            {
+              "key": "Per WSEE",
+              "value": "$9,420"
+            },
+            {
+              "key": "Bonus Payroll",
+              "value": "$4,719,217"
+            },
+            {
+              "key": "Bonus Per WSEE",
+              "value": "$1,568"
+            },
+            {
+              "key": "Non-Bonus Payroll",
+              "value": "$23,626,406"
+            },
+            {
+              "key": "Non-Bonus Per WSEE",
+              "value": "$7,852"
+            },
+            {
+              "key": "Year",
+              "value": "2020"
+            },
+            {
+              "key": "Total Payroll",
+              "value": "$23,881,607"
+            },
+            {
+              "key": "Per WSEE",
+              "value": "$8,497"
+            },
+            {
+              "key": "Bonus Payroll",
+              "value": "$3,238,284"
+            },
+            {
+              "key": "Bonus Per WSEE",
+              "value": "$1,152"
+            },
+            {
+              "key": "Non-Bonus Payroll",
+              "value": "$20,643,323"
+            },
+            {
+              "key": "Non-Bonus Per WSEE",
+              "value": "$7,345"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Financial Performance Metrics per WSEE (Worksite Employee)",
+          "data": [
+            {
+              "key": "Metric",
+              "value": "Net income"
+            },
+            {
+              "key": "2022 Amount",
+              "value": "$179,350"
+            },
+            {
+              "key": "2022 Per WSEE",
+              "value": "$51"
+            },
+            {
+              "key": "2021 Amount",
+              "value": "$124,080"
+            },
+            {
+              "key": "2021 Per WSEE",
+              "value": "$41"
+            },
+            {
+              "key": "2020 Amount",
+              "value": "$138,237"
+            },
+            {
+              "key": "2020 Per WSEE",
+              "value": "$49"
+            },
+            {
+              "key": "Metric",
+              "value": "Income tax expense"
+            },
+            {
+              "key": "2022 Amount",
+              "value": "$66,075"
+            },
+            {
+              "key": "2022 Per WSEE",
+              "value": "$19"
+            },
+            {
+              "key": "2021 Amount",
+              "value": "$44,238"
+            },
+            {
+              "key": "2021 Per WSEE",
+              "value": "$15"
+            },
+            {
+              "key": "2020 Amount",
+              "value": "$51,033"
+            },
+            {
+              "key": "2020 Per WSEE",
+              "value": "$19"
+            },
+            {
+              "key": "Metric",
+              "value": "Interest expense"
+            },
+            {
+              "key": "2022 Amount",
+              "value": "$14,207"
+            },
+            {
+              "key": "2022 Per WSEE",
+              "value": "$4"
+            },
+            {
+              "key": "2021 Amount",
+              "value": "$7,458"
+            },
+            {
+              "key": "2021 Per WSEE",
+              "value": "$2"
+            },
+            {
+              "key": "2020 Amount",
+              "value": "$8,016"
+            },
+            {
+              "key": "2020 Per WSEE",
+              "value": "$3"
+            },
+            {
+              "key": "Metric",
+              "value": "Amortization of SaaS implementation costs"
+            },
+            {
+              "key": "2022 Amount",
+              "value": "$1,923"
+            },
+            {
+              "key": "2022 Per WSEE",
+              "value": "$1"
+            },
+            {
+              "key": "Metric",
+              "value": "Depreciation and amortization"
+            },
+            {
+              "key": "2022 Amount",
+              "value": "$40,660"
+            },
+            {
+              "key": "2022 Per WSEE",
+              "value": "$11"
+            },
+            {
+              "key": "2021 Amount",
+              "value": "$38,547"
+            },
+            {
+              "key": "2021 Per WSEE",
+              "value": "$13"
+            },
+            {
+              "key": "2020 Amount",
+              "value": "$31,189"
+            },
+            {
+              "key": "2020 Per WSEE",
+              "value": "$11"
+            },
+            {
+              "key": "Metric",
+              "value": "EBITDA"
+            },
+            {
+              "key": "2022 Amount",
+              "value": "$302,215"
+            },
+            {
+              "key": "2022 Per WSEE",
+              "value": "$86"
+            },
+            {
+              "key": "2021 Amount",
+              "value": "$214,323"
+            },
+            {
+              "key": "2021 Per WSEE",
+              "value": "$71"
+            },
+            {
+              "key": "2020 Amount",
+              "value": "$228,475"
+            },
+            {
+              "key": "2020 Per WSEE",
+              "value": "$82"
+            },
+            {
+              "key": "Metric",
+              "value": "Stock-based compensation"
+            },
+            {
+              "key": "2022 Amount",
+              "value": "$50,080"
+            },
+            {
+              "key": "2022 Per WSEE",
+              "value": "$14"
+            },
+            {
+              "key": "2021 Amount",
+              "value": "$40,623"
+            },
+            {
+              "key": "2021 Per WSEE",
+              "value": "$14"
+            },
+            {
+              "key": "2020 Amount",
+              "value": "$60,145"
+            },
+            {
+              "key": "2020 Per WSEE",
+              "value": "$21"
+            },
+            {
+              "key": "Metric",
+              "value": "Adjusted EBITDA"
+            },
+            {
+              "key": "2022 Amount",
+              "value": "$352,295"
+            },
+            {
+              "key": "2022 Per WSEE",
+              "value": "$100"
+            },
+            {
+              "key": "2021 Amount",
+              "value": "$254,946"
+            },
+            {
+              "key": "2021 Per WSEE",
+              "value": "$85"
+            },
+            {
+              "key": "2020 Amount",
+              "value": "$288,620"
+            },
+            {
+              "key": "2020 Per WSEE",
+              "value": "$103"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Cash and Marketable Securities Reconciliation",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Cash, cash equivalents and marketable securities"
+            },
+            {
+              "key": "2022 Amount",
+              "value": "$765,896"
+            },
+            {
+              "key": "2021 Amount",
+              "value": "$607,603"
+            },
+            {
+              "key": "Category",
+              "value": "Amounts payable for withheld federal and state income taxes, employment taxes and other payroll deductions"
+            },
+            {
+              "key": "2022 Amount",
+              "value": "$504,817"
+            },
+            {
+              "key": "2021 Amount",
+              "value": "$424,800"
+            },
+            {
+              "key": "Category",
+              "value": "Client prepayments"
+            },
+            {
+              "key": "2022 Amount",
+              "value": "$36,800"
+            },
+            {
+              "key": "2021 Amount",
+              "value": "$20,054"
+            },
+            {
+              "key": "Category",
+              "value": "Adjusted cash, cash equivalents and marketable securities"
+            },
+            {
+              "key": "2022 Amount",
+              "value": "$224,279"
+            },
+            {
+              "key": "2021 Amount",
+              "value": "$162,749"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "GAAP to Non-GAAP Net Income Reconciliation",
+          "data": [
+            {
+              "key": "Net income",
+              "value": "179350"
+            },
+            {
+              "key": "Adjusted net income",
+              "value": "215947"
+            },
+            {
+              "key": "Stock-based compensation",
+              "value": "50080"
+            },
+            {
+              "key": "Tax effect of non-GAAP adjustments",
+              "value": "-13483"
+            },
+            {
+              "key": "Total non-GAAP adjustments, net",
+              "value": "36597"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Per Share Earnings and Adjustments (2020-2022)",
+          "data": [
+            {
+              "key": "Diluted EPS",
+              "value": "4.64"
+            },
+            {
+              "key": "Adjusted EPS",
+              "value": "5.59"
+            },
+            {
+              "key": "Stock-based compensation",
+              "value": "1.30"
+            },
+            {
+              "key": "Tax effect of non-GAAP adjustments",
+              "value": "-0.35"
+            },
+            {
+              "key": "Total non-GAAP adjustments, net",
+              "value": "0.95"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Liquidity and Capital Resources",
+          "data": [
+            {
+              "key": "Working capital 2022",
+              "value": "158.5"
+            },
+            {
+              "key": "Working capital 2021",
+              "value": "116.3"
+            },
+            {
+              "key": "Cash and cash equivalents 2022",
+              "value": "765.9"
+            },
+            {
+              "key": "Facility amount",
+              "value": "650"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+          "data": [
+            {
+              "key": "Net cash flows from operating activities (2022)",
+              "value": "$347.7 million"
+            },
+            {
+              "key": "Client prepayments (2022)",
+              "value": "$36.8 million"
+            },
+            {
+              "key": "Payroll deductions payable (2022)",
+              "value": "$504.8 million"
+            },
+            {
+              "key": "Medical plan funding surplus (2022)",
+              "value": "$3.7 million"
+            },
+            {
+              "key": "Adjusted net income (2022)",
+              "value": "$215.9 million"
+            },
+            {
+              "key": "Net cash flows used in investing activities (2022)",
+              "value": "$32.1 million"
+            },
+            {
+              "key": "Repurchase of stock (2022)",
+              "value": "$73.3 million"
+            },
+            {
+              "key": "Dividends paid (2022)",
+              "value": "$76.6 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS",
+          "data": [
+            {
+              "key": "Historical Trends",
+              "value": "These historical trends may change and other seasonal trends may develop in the future."
+            },
+            {
+              "key": "Health Insurance Costs",
+              "value": "For further information related to our health insurance costs, please read '—Critical Accounting Policies and Estimates—Benefits Costs.'"
+            },
+            {
+              "key": "Inflation Impact",
+              "value": "We believe the effects of inflation have not had a significant impact on our results of operations or financial condition."
+            },
+            {
+              "key": "Future Inflationary Pressure",
+              "value": "Inflationary pressure could adversely impact our profitability in the future."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 67,
+          "title": "Financial Statements Table of Contents",
+          "data": [
+            {
+              "key": "document",
+              "value": "Management's Report on Internal Control"
+            },
+            {
+              "key": "page",
+              "value": "F-5"
+            },
+            {
+              "key": "document",
+              "value": "Report of Independent Registered Public Accounting Firm (PCAOB ID: 42)"
+            },
+            {
+              "key": "page",
+              "value": "F-6"
+            },
+            {
+              "key": "document",
+              "value": "Consolidated Balance Sheets"
+            },
+            {
+              "key": "page",
+              "value": "F-7"
+            },
+            {
+              "key": "document",
+              "value": "Consolidated Statements of Operations"
+            },
+            {
+              "key": "page",
+              "value": "F-8"
+            },
+            {
+              "key": "document",
+              "value": "Consolidated Statements of Comprehensive Income"
+            },
+            {
+              "key": "page",
+              "value": "F-9"
+            },
+            {
+              "key": "document",
+              "value": "Consolidated Statements of Stockholders' Equity (Deficit)"
+            },
+            {
+              "key": "page",
+              "value": "F-10"
+            },
+            {
+              "key": "document",
+              "value": "Consolidated Statements of Cash Flows"
+            },
+            {
+              "key": "page",
+              "value": "F-11"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 68,
+          "title": "Opinion on the Financial Statements",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Insperity, Inc."
+            },
+            {
+              "key": "Report Type",
+              "value": "Consolidated Financial Statements"
+            },
+            {
+              "key": "Audit Period",
+              "value": "Year ended December 31, 2022 and 2021"
+            },
+            {
+              "key": "Auditor's Opinion",
+              "value": "The consolidated financial statements present fairly, in all material respects, the financial position of the Company"
+            },
+            {
+              "key": "Compliance Standard",
+              "value": "U.S. generally accepted accounting principles"
+            },
+            {
+              "key": "Audit Report Date",
+              "value": "February 9, 2023"
+            },
+            {
+              "key": "PCAOB Compliance",
+              "value": "Registered with the PCAOB and independent"
+            },
+            {
+              "key": "Critical Audit Matters",
+              "value": "Matters arising from the audit that are material to the financial statements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 73,
+          "title": "Consolidated Balance Sheets",
+          "data": [
+            {
+              "key": "Assets",
+              "value": "Total assets increased from $1.75B to $2.04B, with significant growth in current assets from $1.24B to $1.51B."
+            },
+            {
+              "key": "Liabilities",
+              "value": "Current liabilities increased from $1.13B to $1.35B."
+            },
+            {
+              "key": "Long-term debt",
+              "value": "Stable long-term debt of $369.4M."
+            },
+            {
+              "key": "Treasury stock",
+              "value": "Maintains significant treasury stock positions."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 74,
+          "title": "Consolidated Financial Statements - Consolidated Statements of Operations",
+          "data": [
+            {
+              "key": "Revenues",
+              "value": "5,938,818"
+            },
+            {
+              "key": "Payroll taxes, benefits and workers' compensation costs",
+              "value": "4,927,585"
+            },
+            {
+              "key": "Gross profit",
+              "value": "1,011,233"
+            },
+            {
+              "key": "Operating income",
+              "value": "250,239"
+            },
+            {
+              "key": "Net income",
+              "value": "179,350"
+            },
+            {
+              "key": "Net income per share - Basic",
+              "value": "4.70"
+            },
+            {
+              "key": "Net income per share - Diluted",
+              "value": "4.64"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 74,
+          "title": "Financial Performance Metrics",
+          "data": [
+            {
+              "key": "Gross billings",
+              "value": "40,126,910"
+            },
+            {
+              "key": "Less: WSEE payroll cost",
+              "value": "34,188,092"
+            },
+            {
+              "key": "Revenues",
+              "value": "5,938,818"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 75,
+          "title": "Comprehensive Income Statement",
+          "data": [
+            {
+              "key": "Net income",
+              "value": "179350"
+            },
+            {
+              "key": "Net income (2021)",
+              "value": "124080"
+            },
+            {
+              "key": "Net income (2020)",
+              "value": "138237"
+            },
+            {
+              "key": "Unrealized loss on available-for-sale securities, net of tax (2022)",
+              "value": "-73"
+            },
+            {
+              "key": "Unrealized loss on available-for-sale securities, net of tax (2021)",
+              "value": "-14"
+            },
+            {
+              "key": "Unrealized loss on available-for-sale securities, net of tax (2020)",
+              "value": "-7"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 78,
+          "title": "Supplemental disclosures of cash flow information",
+          "data": [
+            {
+              "key": "Income taxes, net",
+              "value": "57,354 (2022), 53,835 (2021), 51,097 (2020)"
+            },
+            {
+              "key": "Cash paid for interest",
+              "value": "13,402 (2022), 7,268 (2021), 8,977 (2020)"
+            },
+            {
+              "key": "ROU assets obtained in exchange for lease obligations",
+              "value": "9,736 (2022), 19,572 (2021), 22,770 (2020)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 83,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Current liabilities",
+              "value": "$46.4 million"
+            },
+            {
+              "key": "Workers’ Compensation Cost Increase 2022",
+              "value": "$12.1 million"
+            },
+            {
+              "key": "Accrued Workers’ Compensation Costs 2022",
+              "value": "$229.4 million"
+            },
+            {
+              "key": "Current Portion of Accrued Claims 2022",
+              "value": "$49.8 million"
+            },
+            {
+              "key": "Long-term Portion of Accrued Claims 2022",
+              "value": "$179.6 million"
+            },
+            {
+              "key": "Total Accrued Claims 2022",
+              "value": "$229.4 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 85,
+          "title": "Financial Assets Comparison 2021-2022",
+          "data": [
+            {
+              "key": "2021 Total Financial Assets",
+              "value": "$610,896"
+            },
+            {
+              "key": "2022 Total Financial Assets",
+              "value": "$768,543"
+            },
+            {
+              "key": "2021 Cash in Demand Accounts",
+              "value": "$47,331"
+            },
+            {
+              "key": "2022 Cash in Demand Accounts",
+              "value": "$41,047"
+            },
+            {
+              "key": "2021 Outstanding Checks",
+              "value": "-$50,624"
+            },
+            {
+              "key": "2022 Outstanding Checks",
+              "value": "-$43,694"
+            },
+            {
+              "key": "Overall Growth",
+              "value": "26% increase in total assets from 2021 to 2022"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 86,
+          "title": "Supplemental Schedule of Cash, Cash Equivalents, Restricted Cash and Funds Held for Clients",
+          "data": [
+            {
+              "key": "Cash and cash equivalents (2022)",
+              "value": "575812"
+            },
+            {
+              "key": "Cash and cash equivalents (2021)",
+              "value": "554846"
+            },
+            {
+              "key": "Cash and cash equivalents (2020)",
+              "value": "367342"
+            },
+            {
+              "key": "Restricted cash (2022)",
+              "value": "46929"
+            },
+            {
+              "key": "Restricted cash (2021)",
+              "value": "45522"
+            },
+            {
+              "key": "Restricted cash (2020)",
+              "value": "49295"
+            },
+            {
+              "key": "Other current assets - funds held for clients (2022)",
+              "value": "31732"
+            },
+            {
+              "key": "Other current assets - funds held for clients (2021)",
+              "value": "0"
+            },
+            {
+              "key": "Other current assets - funds held for clients (2020)",
+              "value": "0"
+            },
+            {
+              "key": "Deposits — workers' compensation (2022)",
+              "value": "185027"
+            },
+            {
+              "key": "Deposits — workers' compensation (2021)",
+              "value": "186331"
+            },
+            {
+              "key": "Deposits — workers' compensation (2020)",
+              "value": "175913"
+            },
+            {
+              "key": "Total cash and cash equivalents (end of year) (2022)",
+              "value": "732828"
+            },
+            {
+              "key": "Total cash and cash equivalents (end of year) (2021)",
+              "value": "575812"
+            },
+            {
+              "key": "Total cash and cash equivalents (end of year) (2020)",
+              "value": "554846"
+            },
+            {
+              "key": "Restricted cash (end of year) (2022)",
+              "value": "49779"
+            },
+            {
+              "key": "Restricted cash (end of year) (2021)",
+              "value": "46929"
+            },
+            {
+              "key": "Restricted cash (end of year) (2020)",
+              "value": "45522"
+            },
+            {
+              "key": "Total funds held for clients (end of year) (2022)",
+              "value": "34942"
+            },
+            {
+              "key": "Total funds held for clients (end of year) (2021)",
+              "value": "0"
+            },
+            {
+              "key": "Total funds held for clients (end of year) (2020)",
+              "value": "0"
+            },
+            {
+              "key": "Deposits — workers' compensation (end of year) (2022)",
+              "value": "196370"
+            },
+            {
+              "key": "Deposits — workers' compensation (end of year) (2021)",
+              "value": "185027"
+            },
+            {
+              "key": "Deposits — workers' compensation (end of year) (2020)",
+              "value": "186331"
+            },
+            {
+              "key": "Total end of year (2022)",
+              "value": "1013919"
+            },
+            {
+              "key": "Total end of year (2021)",
+              "value": "807768"
+            },
+            {
+              "key": "Total end of year (2020)",
+              "value": "786699"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 87,
+          "title": "Notes to the Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Fair Value Instruments",
+              "value": "This table summarizes the levels of fair value measurements of our financial assets."
+            },
+            {
+              "key": "Total Financial Assets Current",
+              "value": "$768,543,000"
+            },
+            {
+              "key": "Total Financial Assets Previous",
+              "value": "$610,896,000"
+            },
+            {
+              "key": "Growth Total Financial Assets",
+              "value": "$157,647,000"
+            },
+            {
+              "key": "Money Market Funds Value",
+              "value": "$735,475,000"
+            },
+            {
+              "key": "US Treasury Bills Value",
+              "value": "$29,703,000"
+            },
+            {
+              "key": "Municipal Bonds Value Current",
+              "value": "$3,365,000"
+            },
+            {
+              "key": "Municipal Bonds Value Previous",
+              "value": "$26,009,000"
+            },
+            {
+              "key": "Accounts Receivable Net 2022",
+              "value": "$622,764,000"
+            },
+            {
+              "key": "Accounts Receivable Net 2021",
+              "value": "$513,306,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 88,
+          "title": "Unbilled Accounts Receivable Components",
+          "data": [
+            {
+              "key": "Accrued worksite employee payroll cost",
+              "value": "$513,397"
+            },
+            {
+              "key": "Unbilled revenues",
+              "value": "$123,849"
+            },
+            {
+              "key": "Client prepayments",
+              "value": "-$36,800"
+            },
+            {
+              "key": "Unbilled accounts receivable",
+              "value": "$600,446"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 88,
+          "title": "Insurance Deposits and Prepayments Comparison (2021-2022)",
+          "data": [
+            {
+              "key": "Prepaid health insurance",
+              "value": "$9,000"
+            },
+            {
+              "key": "Deposits — health insurance",
+              "value": "$7,900"
+            },
+            {
+              "key": "Deposits — workers' compensation",
+              "value": "$196,370"
+            },
+            {
+              "key": "Deposits and prepaid health insurance",
+              "value": "$213,270"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 89,
+          "title": "Deferred Tax Assets and Liabilities Statement",
+          "data": [
+            {
+              "key": "Deferred tax liabilities",
+              "value": "Prepaid assets: -5395 (2022), -4665 (2021)"
+            },
+            {
+              "key": "Deferred tax liabilities",
+              "value": "Depreciation: -7448 (2022), -8210 (2021)"
+            },
+            {
+              "key": "Deferred tax liabilities",
+              "value": "Software development costs: -2598 (2022), -11140 (2021)"
+            },
+            {
+              "key": "Deferred tax liabilities",
+              "value": "Tenant improvements: -3139 (2022), -3517 (2021)"
+            },
+            {
+              "key": "Deferred tax liabilities",
+              "value": "Right-of-use leased assets: -16371 (2022), -18205 (2021)"
+            },
+            {
+              "key": "Deferred tax liabilities",
+              "value": "Intangibles: -2247 (2022), -1946 (2021)"
+            },
+            {
+              "key": "Deferred tax liabilities",
+              "value": "Total deferred tax liabilities: -37198 (2022), -47683 (2021)"
+            },
+            {
+              "key": "Deferred tax assets",
+              "value": "Accrued incentive compensation: 13116 (2022), 11117 (2021)"
+            },
+            {
+              "key": "Deferred tax assets",
+              "value": "Net operating loss carryforward: 407 (2022), 487 (2021)"
+            },
+            {
+              "key": "Deferred tax assets",
+              "value": "Workers' compensation accruals: 5358 (2022), 6592 (2021)"
+            },
+            {
+              "key": "Deferred tax assets",
+              "value": "Accrued rent: 1790 (2022), 1858 (2021)"
+            },
+            {
+              "key": "Deferred tax assets",
+              "value": "Stock-based compensation: 12255 (2022), 8886 (2021)"
+            },
+            {
+              "key": "Deferred tax assets",
+              "value": "Operating lease liabilities: 19508 (2022), 21722 (2021)"
+            },
+            {
+              "key": "Deferred tax assets",
+              "value": "Minority investment impairment: 675 (2022), 681 (2021)"
+            },
+            {
+              "key": "Deferred tax assets",
+              "value": "Cares act deferral: 0 (2022), 1626 (2021)"
+            },
+            {
+              "key": "Deferred tax assets",
+              "value": "Other: 297 (2022), 287 (2021)"
+            },
+            {
+              "key": "Deferred tax assets",
+              "value": "Total deferred tax assets: 53406 (2022), 53256 (2021)"
+            },
+            {
+              "key": "Summary",
+              "value": "Valuation allowance: -675 (2022), -681 (2021)"
+            },
+            {
+              "key": "Summary",
+              "value": "Total net deferred tax assets: 52731 (2022), 52575 (2021)"
+            },
+            {
+              "key": "Summary",
+              "value": "Net deferred tax assets: 15533 (2022), 4892 (2021)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 94,
+          "title": "Earnings and Share Information",
+          "data": [
+            {
+              "key": "Net income 2022",
+              "value": "$179,350"
+            },
+            {
+              "key": "Net income 2021",
+              "value": "$124,080"
+            },
+            {
+              "key": "Net income 2020",
+              "value": "$138,237"
+            },
+            {
+              "key": "Less distributed and undistributed earnings allocated to participating securities 2022",
+              "value": "—"
+            },
+            {
+              "key": "Less distributed and undistributed earnings allocated to participating securities 2021",
+              "value": "(210)"
+            },
+            {
+              "key": "Less distributed and undistributed earnings allocated to participating securities 2020",
+              "value": "(782)"
+            },
+            {
+              "key": "Net income allocated to common shares 2022",
+              "value": "$179,350"
+            },
+            {
+              "key": "Net income allocated to common shares 2021",
+              "value": "$123,870"
+            },
+            {
+              "key": "Net income allocated to common shares 2020",
+              "value": "$ 137,455"
+            },
+            {
+              "key": "Weighted average common shares outstanding 2022",
+              "value": "38,115"
+            },
+            {
+              "key": "Weighted average common shares outstanding 2021",
+              "value": "38,431"
+            },
+            {
+              "key": "Weighted average common shares outstanding 2020",
+              "value": "38,503"
+            },
+            {
+              "key": "Incremental shares from assumed time-vested and performance-based RSU awards and conversions of common stock options 2022",
+              "value": "501"
+            },
+            {
+              "key": "Incremental shares from assumed time-vested and performance-based RSU awards and conversions of common stock options 2021",
+              "value": "471"
+            },
+            {
+              "key": "Incremental shares from assumed time-vested and performance-based RSU awards and conversions of common stock options 2020",
+              "value": "317"
+            },
+            {
+              "key": "Adjusted weighted average common shares outstanding 2022",
+              "value": "38,616"
+            },
+            {
+              "key": "Adjusted weighted average common shares outstanding 2021",
+              "value": "38,902"
+            },
+            {
+              "key": "Adjusted weighted average common shares outstanding 2020",
+              "value": "38,820"
+            },
+            {
+              "key": "Potentially dilutive securities not included in weighted average share calculation due to anti-dilutive effect 2022",
+              "value": "10"
+            },
+            {
+              "key": "Potentially dilutive securities not included in weighted average share calculation due to anti-dilutive effect 2021",
+              "value": "_"
+            },
+            {
+              "key": "Potentially dilutive securities not included in weighted average share calculation due to anti-dilutive effect 2020",
+              "value": "133"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 94,
+          "title": "Lease liabilities",
+          "data": [
+            {
+              "key": "Current operating lease liabilities",
+              "value": "$19,946"
+            },
+            {
+              "key": "Long-term operating lease liabilities",
+              "value": "$55,587"
+            },
+            {
+              "key": "Total operating lease liabilities",
+              "value": "$75,533"
+            },
+            {
+              "key": "Landlord funded tenant improvements",
+              "value": "$12,103"
+            },
+            {
+              "key": "Deferred rent",
+              "value": "$6,898"
+            },
+            {
+              "key": "Operating lease ROU assets",
+              "value": "$56,532"
+            },
+            {
+              "key": "Weighted average remaining lease term (years)",
+              "value": ""
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": true,
+      "elements": [
+        {
+          "type": "share_buyback",
+          "page": 37,
+          "title": "Issuer Purchases of Equity Securities",
+          "data": [
+            {
+              "key": "Total Number of Shares Purchased",
+              "value": "91,340"
+            },
+            {
+              "key": "Average Price Paid Share",
+              "value": "108.00"
+            },
+            {
+              "key": "Shares Purchased as Part of Publicly Announced Program",
+              "value": "91,285"
+            },
+            {
+              "key": "Maximum Number of Shares that may yet be Purchased under the Program",
+              "value": "1,032,160"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 76,
+          "title": "Statement of Changes in Stockholders' Equity",
+          "data": [
+            {
+              "key": "date",
+              "value": "December 31, 2019"
+            },
+            {
+              "key": "issued_shares",
+              "value": "55,489"
+            },
+            {
+              "key": "amount",
+              "value": "555"
+            },
+            {
+              "key": "additional_paid_in_capital",
+              "value": "48,141"
+            },
+            {
+              "key": "treasury_stock",
+              "value": "(544,102)"
+            },
+            {
+              "key": "other_comprehensive_income",
+              "value": "12"
+            },
+            {
+              "key": "retained_earnings",
+              "value": "499,473"
+            },
+            {
+              "key": "total",
+              "value": "4,079"
+            },
+            {
+              "key": "date",
+              "value": "December 31, 2020"
+            },
+            {
+              "key": "issued_shares",
+              "value": "55,489"
+            },
+            {
+              "key": "amount",
+              "value": "555"
+            },
+            {
+              "key": "additional_paid_in_capital",
+              "value": "95,528"
+            },
+            {
+              "key": "treasury_stock",
+              "value": "(626,984)"
+            },
+            {
+              "key": "other_comprehensive_income",
+              "value": "5"
+            },
+            {
+              "key": "retained_earnings",
+              "value": "575,028"
+            },
+            {
+              "key": "total",
+              "value": "44,132"
+            },
+            {
+              "key": "date",
+              "value": "December 31, 2021"
+            },
+            {
+              "key": "issued_shares",
+              "value": "55,489"
+            },
+            {
+              "key": "amount",
+              "value": "555"
+            },
+            {
+              "key": "additional_paid_in_capital",
+              "value": "109,179"
+            },
+            {
+              "key": "treasury_stock",
+              "value": "(665,089)"
+            },
+            {
+              "key": "other_comprehensive_income",
+              "value": "(9)"
+            },
+            {
+              "key": "retained_earnings",
+              "value": "553,590"
+            },
+            {
+              "key": "total",
+              "value": "(1,774)"
+            },
+            {
+              "key": "date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "issued_shares",
+              "value": "55,489"
+            },
+            {
+              "key": "amount",
+              "value": "555"
+            },
+            {
+              "key": "additional_paid_in_capital",
+              "value": "151,144"
+            },
+            {
+              "key": "treasury_stock",
+              "value": "(725,532)"
+            },
+            {
+              "key": "other_comprehensive_income",
+              "value": "(82)"
+            },
+            {
+              "key": "retained_earnings",
+              "value": "655,190"
+            },
+            {
+              "key": "total",
+              "value": "81,275"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 20,
+          "title": "Item 1A. Risk Factors",
+          "data": [
+            {
+              "key": "Economic Risks",
+              "value": "Adverse economic conditions could negatively affect our industry, business, and results of operations."
+            },
+            {
+              "key": "Impact of COVID-19",
+              "value": "The economic impact of the COVID-19 pandemic has adversely affected our business."
+            },
+            {
+              "key": "Factors Impacting Future Business",
+              "value": "Scope, severity and duration of the pandemic; government actions; development of vaccines and treatments."
+            },
+            {
+              "key": "Small and Medium-Sized Business Sensitivity",
+              "value": "The small and medium-sized business market is sensitive to changes in economic activity levels."
+            },
+            {
+              "key": "Potential Business Failures",
+              "value": "Magnitude and extent of business failures among the small and medium-sized businesses that we serve."
+            },
+            {
+              "key": "Client Financial Obligations",
+              "value": "Current clients may have difficulty meeting their financial obligations to us."
+            },
+            {
+              "key": "Growth Dependency",
+              "value": "Our growth is partially dependent on hiring of new employees by our existing clients."
+            },
+            {
+              "key": "Healthcare Cost Variation",
+              "value": "Changes in quarterly levels and timing of health insurance claims and processing payment patterns."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 21,
+          "title": "Risk Factors Related to Healthcare Claims and Unemployment Trends",
+          "data": [
+            {
+              "key": "Impact on Healthcare Claims",
+              "value": "Changes in treatment delivery options may continue to significantly alter health care claim trends."
+            },
+            {
+              "key": "Difficulty in Estimating Claims",
+              "value": "Estimation of health care claim trends became more difficult due to costs associated with testing, vaccination, and treatment."
+            },
+            {
+              "key": "Increased Unemployment Rates",
+              "value": "The 2020 increase in U.S. unemployment levels led to a significant rise in unemployment claims."
+            },
+            {
+              "key": "Potential State Tax Increases",
+              "value": "Continuous rise in unemployment claims may increase unemployment insurance tax rates."
+            },
+            {
+              "key": "Client Attrition Risk",
+              "value": "Increases in costs due to taxes might result in client attrition or necessitate reductions in pricing."
+            },
+            {
+              "key": "Economic Disruptions",
+              "value": "Pandemic economic disruptions may lead to customers struggling with financial obligations and an increased risk of business failures."
+            },
+            {
+              "key": "Cash Flow Risks",
+              "value": "An increase in clients unable to pay may result in bad debts, adversely affecting financial condition."
+            },
+            {
+              "key": "Remote Work Effectiveness",
+              "value": "Working remotely may decrease operational effectiveness and productivity."
+            },
+            {
+              "key": "Cybersecurity Risks",
+              "value": "Increased reliance on remote access may heighten exposure to cybersecurity issues."
+            },
+            {
+              "key": "Legislative Changes Impact",
+              "value": "Future legislation may require changes to processes which can incur additional costs or penalties."
+            },
+            {
+              "key": "Impact of COVID Relief Programs",
+              "value": "Changes to systems managing leave, payroll, and invoicing were necessitated by COVID Relief Programs."
+            },
+            {
+              "key": "Employee Retention Tax Credits Risks",
+              "value": "Delays by the IRS on ERC credits may impact client processes and create regulatory challenges."
+            },
+            {
+              "key": "Overall Financial Impact",
+              "value": "The pandemic presents material uncertainty and risk that could adversely affect financial condition."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 22,
+          "title": "Labor Shortages and Inflation Risk Factors",
+          "data": [
+            {
+              "key": "Labor Shortages Impact",
+              "value": "Labor shortages and increasing competition for highly skilled workers could have a material adverse effect on the business, financial condition or results of operations."
+            },
+            {
+              "key": "Dependency on Skilled Workforce",
+              "value": "The success of the business is heavily dependent on the ability to attract and retain a skilled workforce."
+            },
+            {
+              "key": "Factors Affecting Labor Force",
+              "value": "High employment levels, strong macroeconomic conditions, and government regulations may limit available labor and increase costs."
+            },
+            {
+              "key": "Inflation Impact",
+              "value": "Inflationary pressure could adversely impact profitability, increasing operating costs that may not be fully offset by price raises."
+            },
+            {
+              "key": "Geographic Market Concentration",
+              "value": "Concentration in New York, California, and Texas markets makes results vulnerable to regional economic factors."
+            },
+            {
+              "key": "Credit Facility Covenants",
+              "value": "Covenants under credit facility may restrict business activities and failure to comply could result in loan acceleration."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 23,
+          "title": "RISK FACTORS",
+          "data": [
+            {
+              "key": "WSEE Payroll Liability",
+              "value": "Assumption of liability for WSEE payroll, payroll taxes, benefits costs, and workers’ compensation costs regardless of the amounts billed to clients."
+            },
+            {
+              "key": "Co-employer Obligations",
+              "value": "Assume obligations to pay salaries, wages, related benefits costs, and payroll taxes of WSEEs."
+            },
+            {
+              "key": "Client Payment Impact",
+              "value": "If a client fails to pay, our liability for payroll and related costs could adversely affect our financial condition."
+            },
+            {
+              "key": "Health Insurance Costs",
+              "value": "Increases in health insurance costs or inability to secure competitive replacement coverage could have a material adverse effect."
+            },
+            {
+              "key": "Primary Health Insurance Contract",
+              "value": "Contract expires on December 31, 2026, with a potential for cancellation."
+            },
+            {
+              "key": "Claims Experience Impact",
+              "value": "Health insurance costs affected by plans’ claims experience and external economic factors."
+            },
+            {
+              "key": "Service Fee Limitations",
+              "value": "Market conditions may limit ability to increase service fees to offset costs."
+            },
+            {
+              "key": "Forecasting Risks",
+              "value": "Inaccurate forecasts of plan expenses could harm profitability and client retention."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 24,
+          "title": "RISK FACTORS",
+          "data": [
+            {
+              "key": "Impact of Health Care Reform",
+              "value": "Health care reform could affect our health insurance plan and could lead to a significant disruption in our business."
+            },
+            {
+              "key": "Patient Protection and Affordable Care Act",
+              "value": "The Patient Protection and Affordable Care Act was signed into law on March 23, 2010, and was subsequently amended."
+            },
+            {
+              "key": "Future impact of the Act",
+              "value": "The future impact may lead to reduced availability of health care benefits or less attractive offerings to clients."
+            },
+            {
+              "key": "Key provisions effective from 2014",
+              "value": "Exchanges, insurance market reforms, penalties on Applicable Large Employers phased-in by 2016."
+            },
+            {
+              "key": "Tax Cuts and Jobs Act",
+              "value": "The individual mandate was effectively eliminated beginning in 2019."
+            },
+            {
+              "key": "State-level reforms",
+              "value": "Advocacy for health care-related reforms at the state level is ongoing."
+            },
+            {
+              "key": "Insurance marketplace changes",
+              "value": "These developments could significantly change the insurance marketplace for small and medium-sized businesses."
+            },
+            {
+              "key": "PEO relationship implications",
+              "value": "The application of the Act is unclear in terms of PEO relationships."
+            },
+            {
+              "key": "Insurance market reforms",
+              "value": "Reforms require guaranteed issue and renewability, eliminating certain underwriting practices."
+            },
+            {
+              "key": "Impact on business operations",
+              "value": "Currently, reforms have not had a material adverse impact, but future changes could."
+            },
+            {
+              "key": "Congressional Record references",
+              "value": "Indicates potential penalties should apply at the client level and not at the PEO level."
+            },
+            {
+              "key": "Cadillac plans excise tax repeal",
+              "value": "Repeal in 2019 affects future business operations."
+            },
+            {
+              "key": "Uncertain effect of future changes",
+              "value": "Future regulatory actions may impact benefit plans and business model."
+            },
+            {
+              "key": "Contractual arrangements and competition",
+              "value": "May limit our ability to increase service fees."
+            },
+            {
+              "key": "Employer status determination",
+              "value": "A determination that we are not the employer could have a material adverse effect."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 25,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "employment_test",
+              "value": "The IRS common law test to determine employment relationship includes approximately 20 factors."
+            },
+            {
+              "key": "employers_right",
+              "value": "Employer's right to direct and control details of work is a significant aspect."
+            },
+            {
+              "key": "workers_compensation_issues",
+              "value": "Increased workers compensation costs or inability to secure competitive coverage could disrupt business."
+            },
+            {
+              "key": "financial_responsibility_details",
+              "value": "Financial responsibility to Chubb for claims has specific layers and implications for coverage."
+            },
+            {
+              "key": "potential_adverse_effects",
+              "value": "Unexpected large increases in claims could adversely affect results or financial conditions."
+            },
+            {
+              "key": "service_fee_constraints",
+              "value": "Market conditions may restrict the ability to increase service fees to offset costs."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 26,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Current workers' compensation coverage expiration",
+              "value": "September 30, 2023"
+            },
+            {
+              "key": "Potential business disruption",
+              "value": "If unable to secure replacement coverage on competitive terms"
+            },
+            {
+              "key": "SUI expense recording basis",
+              "value": "Taxable wages and tax rates assigned by each state"
+            },
+            {
+              "key": "SUI tax rate increase conditions",
+              "value": "Adverse economic conditions leading to increased unemployment claims"
+            },
+            {
+              "key": "Retroactive SUI rates",
+              "value": "States can increase rates retroactively to cover deficiencies"
+            },
+            {
+              "key": "FUTA increase conditions",
+              "value": "States failing to repay federal loans may increase rates retroactively"
+            },
+            {
+              "key": "Contractual adjustments",
+              "value": "Some agreements allow adjustment of service fees for statutory increases"
+            },
+            {
+              "key": "Client contract cancellations",
+              "value": "Many contracts may be canceled on short notice"
+            },
+            {
+              "key": "Middle market client concentration",
+              "value": "25% from average paid WSEEs with potential financial impact from increases in cancellations"
+            },
+            {
+              "key": "Client attrition rate for 2022",
+              "value": "Approx. 15%"
+            },
+            {
+              "key": "Timing of new client additions",
+              "value": "Largest concentration of new clients and attrition typically in Q1"
+            },
+            {
+              "key": "Insurance coverage and risk exposure",
+              "value": "Potential adverse effect from loss of coverage or increased insurance costs"
+            },
+            {
+              "key": "Corporate policy insurance premium increase",
+              "value": "Increased premiums and deductible amounts leading to higher exposure"
+            },
+            {
+              "key": "Impact on attracting new clients",
+              "value": "Material changes in insurance provider networks may adversely affect client retention and attraction."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 27,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Risk Factors Liability",
+              "value": "A determination that a client is liable for employment taxes not paid by a PEO may discourage clients from contracting with us in the future."
+            },
+            {
+              "key": "Tax Obligations Types",
+              "value": "There are essentially three types of federal employment tax obligations: income tax withholding requirements, FICA, FUTA."
+            },
+            {
+              "key": "Tax Liability Transfer",
+              "value": "While the CSA provides that we have sole legal responsibility for making these tax contributions, the applicable state taxing authority could conclude that such liability cannot be completely transferred to us."
+            },
+            {
+              "key": "Impact of New Taxes",
+              "value": "New and higher federal, state and local taxes could have a material adverse impact on our financial condition and results of operations."
+            },
+            {
+              "key": "Government Audit Activity",
+              "value": "Federal, state and local taxing agencies may increase their audit activity in an effort to identify additional tax revenues."
+            },
+            {
+              "key": "Co-Employment Liability",
+              "value": "As a co-employer in the PEO relationship, we assume or share many of the employer-related responsibilities."
+            },
+            {
+              "key": "Employment Law Violations Liability",
+              "value": "We may be subject to liability for violations of various employment, payroll, discrimination, and workplace safety laws despite these contractual provisions."
+            },
+            {
+              "key": "Indemnification Challenges",
+              "value": "We may not be able to collect on such a contractual indemnification claim and thus may be responsible for satisfying such liabilities."
+            },
+            {
+              "key": "Regulatory Changes Impact",
+              "value": "Changes in federal, state and local regulation could have a material adverse effect on our results of operations or financial condition."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 28,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Key Issues",
+              "value": "Adverse application of new or existing federal/state laws on PEO relationships could materially affect operations."
+            },
+            {
+              "key": "State Regulation",
+              "value": "42 states have laws recognizing/licensing PEOs; compliance may affect operational licenses."
+            },
+            {
+              "key": "Regulatory Evaluation",
+              "value": "Increased scrutiny on money services businesses could impose additional operational restrictions."
+            },
+            {
+              "key": "Competition",
+              "value": "HR services industry is fragmented; competition from larger firms and technology could impact profitability."
+            },
+            {
+              "key": "Workforce Synchronization Impact",
+              "value": "Increased clients using lower-priced PEO offerings may compress operating margins."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 29,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Issue",
+              "value": "Potential penalties from not complying with regulations due to delays in modifying systems for Covid Relief."
+            },
+            {
+              "key": "Impact",
+              "value": "Could damage reputation and result in decreased sales."
+            },
+            {
+              "key": "Dependency",
+              "value": "Reliance on identifying and predicting trends and adapting technology to meet market needs."
+            },
+            {
+              "key": "IT System Vulnerability",
+              "value": "Disruptions in information technology systems could materially disrupt operations."
+            },
+            {
+              "key": "Third-Party Dependency",
+              "value": "Dependent on third parties for technology and system upgrades."
+            },
+            {
+              "key": "Cybersecurity Risks",
+              "value": "Significant costs to protect against cybersecurity incidents."
+            },
+            {
+              "key": "Data Handling Risks",
+              "value": "Exposure to data theft and cyber attacks impacting client information."
+            },
+            {
+              "key": "Monitoring Challenges",
+              "value": "Limited ability to monitor security safeguards of vendors and clients."
+            },
+            {
+              "key": "Liability Risks",
+              "value": "Potential liability for damages due to data misuse."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 30,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Type of risk",
+              "value": "Cybersecurity risks and data protection compliance risks"
+            },
+            {
+              "key": "Description",
+              "value": "Cyberattacks, unauthorized access, data breaches, and non-compliance with data privacy laws could have material adverse effects on operations and finances."
+            },
+            {
+              "key": "Examples of incidents",
+              "value": "Unauthorized intrusion, ransomware attacks, theft of sensitive information."
+            },
+            {
+              "key": "Legal implications",
+              "value": "Potential regulatory sanctions and liabilities due to data breaches or non-compliance."
+            },
+            {
+              "key": "Costs incurred",
+              "value": "Increased operational costs due to compliance with privacy acts like CPRA and potential fines for non-compliance."
+            },
+            {
+              "key": "Third-party reliance",
+              "value": "Dependency on third-party service providers for essential operations, with risks related to their operational failures."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 31,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Strategy Overview",
+              "value": "Adopted a strategy to market and sell additional solutions within and outside of PEO HR Outsourcing Solutions."
+            },
+            {
+              "key": "Partnerships and Investments",
+              "value": "Periodic strategic long-term decisions to partner with, invest in, and/or acquire new companies, business units or assets."
+            },
+            {
+              "key": "Risks in Offering Solutions",
+              "value": "Entering markets or businesses with no prior experience that may be highly regulated."
+            },
+            {
+              "key": "Integration Challenges",
+              "value": "Failing to integrate the new solution into product and service offerings."
+            },
+            {
+              "key": "Resource Diversion",
+              "value": "Diversion of technology, service, marketing, management and other teams from other business concerns."
+            },
+            {
+              "key": "Acquisition Risks",
+              "value": "Over-valuation of the targeted business in case of an investment or acquisition."
+            },
+            {
+              "key": "Litigation Risks",
+              "value": "Liability resulting from activities of an acquired company or non-compliance in solution offering."
+            },
+            {
+              "key": "Potential Impacts",
+              "value": "Loss of clients or employees, not achieving anticipated revenues or profitability, impairment of acquired assets, and substantial liability."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 4,
+          "title": "Forward-Looking Statements",
+          "data": [
+            {
+              "key": "definition",
+              "value": "Forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934."
+            },
+            {
+              "key": "language",
+              "value": "Words indicating forward-looking statements: 'anticipates,' 'expects,' 'intends,' 'plans,' 'projects,' etc."
+            },
+            {
+              "key": "context",
+              "value": "Relating to business plans, projected benefits, revenues, earnings, workers’ compensation costs, or other operating results."
+            },
+            {
+              "key": "risk_factors",
+              "value": "Actual results could differ materially due to risks and uncertainties discussed in this report."
+            },
+            {
+              "key": "strategy",
+              "value": "Provide specialized HR services to small and medium-sized businesses in the US."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 8,
+          "title": "Business Benefit Plans and Insperity Premier Overview",
+          "data": [
+            {
+              "key": "Benefit Plans Offered",
+              "value": "Cafeteria plans, group health insurance, short-term and long-term disability insurance, educational assistance program, adoption assistance program, group term life insurance, accidental death and dismemberment insurance, critical illness and accident insurance."
+            },
+            {
+              "key": "Coverage Provided",
+              "value": "Medical, dental, vision, and prescription drug coverage."
+            },
+            {
+              "key": "COBRA Coverage",
+              "value": "Extended to eligible terminated WSEEs and other eligible individuals in accordance with applicable law."
+            },
+            {
+              "key": "Competitive Advantage",
+              "value": "Availability of benefit plans provides clients with advantages typically unavailable to small and medium-sized businesses."
+            },
+            {
+              "key": "Insperity Premier",
+              "value": "Cloud-based human capital management platform providing various HR functions and insights."
+            },
+            {
+              "key": "Client Functions",
+              "value": "WebPayroll, mobile access for payroll, employee administration functions, reporting tools, talent management tools."
+            },
+            {
+              "key": "WSEE Functions",
+              "value": "Access to employee profiles and personal information."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 15,
+          "title": "Business Competition and Information Technology",
+          "data": [
+            {
+              "key": "Business Competition Overview",
+              "value": "Insperity provides a full-service PEO HR Outsourcing Solutions which is tailored to small and medium-sized businesses."
+            },
+            {
+              "key": "Staff Support Ratio",
+              "value": "Insperity's staff support ratio averaged 55% higher than the PEO industry average during 2019-2021."
+            },
+            {
+              "key": "Gross Profit Per WSEE",
+              "value": "Exceeds industry averages by 144%."
+            },
+            {
+              "key": "Operating Income Per WSEE",
+              "value": "Exceeds industry averages by 223%."
+            },
+            {
+              "key": "Market Competition",
+              "value": "Primary competition comes from traditional in-house human resources services."
+            },
+            {
+              "key": "Significant Vendors",
+              "value": "Includes UnitedHealthcare and the Chubb Group."
+            },
+            {
+              "key": "Chubb Program Expiry",
+              "value": "Current workers’ compensation with Chubb expires on September 30, 2023."
+            },
+            {
+              "key": "Replacement Coverage Risk",
+              "value": "Inability to secure competitive replacement coverage could disrupt business."
+            },
+            {
+              "key": "Health Insurance Coverage",
+              "value": "87% of participants' health insurance coverage is provided by United."
+            },
+            {
+              "key": "Health Insurance Contract Expiry",
+              "value": "Expires on December 31, 2026."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 32,
+          "title": "Unresolved Staff Comments",
+          "data": [
+            {
+              "key": "Comments",
+              "value": "None"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 39,
+          "title": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Average number of WSEEs paid per month increase",
+              "value": "17.7% to 295,005"
+            },
+            {
+              "key": "Revenues increase",
+              "value": "19.4% on the 17.7% WSEE growth and a 1.5% increase in revenue per WSEE"
+            },
+            {
+              "key": "Average paid WSEEs in Q4 2022",
+              "value": "307,506, a 14.3% increase over Q4 2021"
+            },
+            {
+              "key": "Expected average WSEEs for 2023",
+              "value": "between 317,000 and 326,000, an increase of 7.5% to 10.5%."
+            },
+            {
+              "key": "Gross profit increase",
+              "value": "23.3% to $1.0 billion"
+            },
+            {
+              "key": "Gross profit per WSEE increase",
+              "value": "from $273 in 2021 to $286 in 2022"
+            },
+            {
+              "key": "Operating expenses increase",
+              "value": "17.7% to $761.0 million"
+            },
+            {
+              "key": "Net income increase",
+              "value": "44.5% to $179.4 million"
+            },
+            {
+              "key": "Diluted EPS increase",
+              "value": "45.9% to $4.64"
+            },
+            {
+              "key": "Adjusted EBITDA increase",
+              "value": "38.2% to $352.3 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 57,
+          "title": "Quantitative and Qualitative Disclosures About Market Risk",
+          "data": [
+            {
+              "key": "Market Risks",
+              "value": "Exposure to fluctuations in interest rates"
+            },
+            {
+              "key": "Total Borrowings under Facility",
+              "value": "$370.4 million"
+            },
+            {
+              "key": "Interest Rate Risks",
+              "value": "Marketable securities subject to interest rate risks due to fixed rates"
+            },
+            {
+              "key": "Investment Policy",
+              "value": "Maximize after-tax interest income while preserving principal investment"
+            },
+            {
+              "key": "Types of Investments",
+              "value": "Tax-exempt short and intermediate-term debt securities, U.S. Treasury bills, pre-refunded municipal bonds"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 58,
+          "title": "Disclosure Controls and Procedures",
+          "data": [
+            {
+              "key": "Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+              "value": "None"
+            },
+            {
+              "key": "Evaluation of Disclosure Controls and Procedures Conclusion",
+              "value": "Effective as of December 31, 2022."
+            },
+            {
+              "key": "Design and Evaluation of Internal Control",
+              "value": "Includes management’s assessment of effectiveness as part of Annual Report on Form 10-K."
+            },
+            {
+              "key": "Independent Accounting Firm",
+              "value": "Ernst & Young LLP audited our internal control over financial reporting."
+            },
+            {
+              "key": "Changes in Internal Control",
+              "value": "None during the three months ended December 31, 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 69,
+          "title": "Estimation of the Cost of Incurred but Not Reported Health Insurance Claims",
+          "data": [
+            {
+              "key": "Policy Provider",
+              "value": "UnitedHealthcare"
+            },
+            {
+              "key": "Policy Type",
+              "value": "Fully insured"
+            },
+            {
+              "key": "Accounting Model",
+              "value": "Partially self-funded"
+            },
+            {
+              "key": "Components of Expense",
+              "value": "Payroll taxes, benefits and workers’ compensation costs"
+            },
+            {
+              "key": "Estimation Factors",
+              "value": "Level of claims processed, estimated completion rates, number of participants"
+            },
+            {
+              "key": "Subjectivity Factors",
+              "value": "Number of participants, variability of claims"
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "Understanding, evaluating controls, assessing estimation methodologies, checking historical accuracy"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 70,
+          "title": "Estimation of the Cost of Incurred Workers’ Compensation Claims",
+          "data": [
+            {
+              "key": "Description",
+              "value": "The Company provides workers’ compensation insurance, including ongoing health care and indemnity coverage, to its employees whereby claims are paid over numerous years following the date of injury."
+            },
+            {
+              "key": "Financial Responsibility",
+              "value": "The Company has financial responsibility for a significant portion of the workers’ compensation claims."
+            },
+            {
+              "key": "Accrual",
+              "value": "The accrual related to incurred costs is recorded in accrued workers’ compensation costs in the consolidated balance sheets."
+            },
+            {
+              "key": "Estimation Basis",
+              "value": "The estimated accrued claims are based on the loss development rate and discount rates."
+            },
+            {
+              "key": "Audit Approach",
+              "value": "Obtained understanding, evaluated design and tested operating effectiveness of controls over the estimation process."
+            },
+            {
+              "key": "Assumptions Tested",
+              "value": "The workers’ compensation reserve methodologies and significant assumptions used to develop the loss development rate."
+            },
+            {
+              "key": "Review and Approval",
+              "value": "Review and approval processes that management has in place for the assumptions applied."
+            },
+            {
+              "key": "Actuarial Involvement",
+              "value": "Engaged actuarial specialists to evaluate methodologies utilized by management’s third-party actuaries."
+            },
+            {
+              "key": "Management Audit",
+              "value": "Reviewed the completeness and accuracy of claims and payroll data."
+            },
+            {
+              "key": "Audit Firm",
+              "value": "Ernst & Young LLP since 1991"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 71,
+          "title": "Management’s Report on Internal Control",
+          "data": [
+            {
+              "key": "Assessment Date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Control Framework",
+              "value": "COSO 2013 framework"
+            },
+            {
+              "key": "Responsibility",
+              "value": "Management is responsible for establishing and maintaining internal controls over financial reporting."
+            },
+            {
+              "key": "Audit Status",
+              "value": "Audited by independent registered public accounting firm."
+            },
+            {
+              "key": "Control Effectiveness",
+              "value": "Effective internal control over financial reporting maintained as of December 31, 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 72,
+          "title": "CONSOLIDATED FINANCIAL STATEMENTS REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+          "data": [
+            {
+              "key": "Opinion on Internal Control",
+              "value": "Insperity, Inc. maintained effective internal control over financial reporting as of December 31, 2022."
+            },
+            {
+              "key": "Audit Responsibility",
+              "value": "An audit was conducted in accordance with PCAOB standards."
+            },
+            {
+              "key": "Management's Responsibility",
+              "value": "Management is responsible for maintaining effective internal control."
+            },
+            {
+              "key": "Audit Basis",
+              "value": "The audit provides a reasonable basis for the opinion expressed."
+            },
+            {
+              "key": "Limitations of Internal Control",
+              "value": "Internal control may not prevent or detect misstatements due to inherent limitations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 91,
+          "title": "Dividends and Incentive Plans Overview",
+          "data": [
+            {
+              "key": "First quarter dividend",
+              "value": "0.45"
+            },
+            {
+              "key": "Second quarter dividend",
+              "value": "0.52"
+            },
+            {
+              "key": "Third quarter dividend",
+              "value": "0.52"
+            },
+            {
+              "key": "Fourth quarter dividend",
+              "value": "2.45 (includes a $2.00 per share special dividend)"
+            },
+            {
+              "key": "Total dividends paid 2022",
+              "value": "$76.6 million"
+            },
+            {
+              "key": "Total dividends paid 2021",
+              "value": "$144.2 million"
+            },
+            {
+              "key": "Authorized shares of preferred stock",
+              "value": "20 million"
+            },
+            {
+              "key": "Shares available for future grants under 2012 Incentive Plan",
+              "value": "942,973"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 95,
+          "title": "Operating Lease Liabilities Maturity Summary",
+          "data": [
+            {
+              "key": "2023",
+              "value": "22,231"
+            },
+            {
+              "key": "2024",
+              "value": "19,037"
+            },
+            {
+              "key": "2025",
+              "value": "14,524"
+            },
+            {
+              "key": "2026",
+              "value": "10,880"
+            },
+            {
+              "key": "2027",
+              "value": "8,484"
+            },
+            {
+              "key": "Thereafter",
+              "value": "6,527"
+            },
+            {
+              "key": "Total remaining obligation",
+              "value": "81,683"
+            },
+            {
+              "key": "Less imputed interest",
+              "value": "6,150"
+            },
+            {
+              "key": "Present value of lease liabilities",
+              "value": "75,533"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 95,
+          "title": "Future Purchase and Service Obligations",
+          "data": [
+            {
+              "key": "2023",
+              "value": "29,353"
+            },
+            {
+              "key": "2024",
+              "value": "20,738"
+            },
+            {
+              "key": "2025",
+              "value": "12,367"
+            },
+            {
+              "key": "2026",
+              "value": "4,417"
+            },
+            {
+              "key": "Thereafter Total obligations",
+              "value": "66,875"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 6,
+          "title": "Regulatory Framework for PEO Industry",
+          "data": [
+            {
+              "key": "PEO Industry Development",
+              "value": "Significant factor includes recognition and acceptance of PEOs by governmental authorities."
+            },
+            {
+              "key": "States Legislation",
+              "value": "Currently, 42 states have enacted legislation for PEO recognition or licensing."
+            },
+            {
+              "key": "Regulatory Support",
+              "value": "Insperity actively supports regulatory efforts for PEO compliance."
+            },
+            {
+              "key": "SBEA Overview",
+              "value": "The Small Business Efficiency Act created a federal framework for PEOs."
+            },
+            {
+              "key": "CPEO Definition",
+              "value": "CPEO is treated as employer for payroll tax reporting according to SBEA."
+            },
+            {
+              "key": "IRS Certification",
+              "value": "Insperity PEO Services received CPEO designation from the IRS."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 16,
+          "title": "Industry Regulations and Compliance Overview",
+          "data": [
+            {
+              "key": "Federal and State Laws Impacting PEO Operations",
+              "value": "Operations affected by numerous federal, state, and local laws relating to tax, insurance and employment matters."
+            },
+            {
+              "key": "Co-Employer Responsibilities",
+              "value": "Assume certain obligations and responsibilities under federal and state laws."
+            },
+            {
+              "key": "Recognition of PEOs",
+              "value": "Federal government and 42 states have passed laws recognizing PEOs or requiring licensing."
+            },
+            {
+              "key": "Voluntary Certification Programs for PEOs",
+              "value": "Several states have created certification programs for PEOs."
+            },
+            {
+              "key": "SBEA Impact",
+              "value": "Established a federal regulatory framework for the payment of wages to WSEEs."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 18,
+          "title": "Employment Taxes and Responsibilities of Insperity",
+          "data": [
+            {
+              "key": "Summary of Employment Taxes",
+              "value": "Insperity assumes responsibility for federal and state employment taxes for its WSEEs."
+            },
+            {
+              "key": "Federal Employment Tax Types",
+              "value": "Includes withholding of income tax, FICA, and FUTA obligations."
+            },
+            {
+              "key": "CPEO Responsibilities",
+              "value": "A CPEO is treated as the employer for federal employment taxes."
+            },
+            {
+              "key": "Client Responsibilities",
+              "value": "Clients may be held liable for tax obligations if Insperity fails to meet them."
+            },
+            {
+              "key": "State Unemployment Insurance Tax",
+              "value": "Recorded based on taxable wages and state-determined tax rates."
+            },
+            {
+              "key": "PEO Regulations",
+              "value": "42 states have adopted laws for licensing and regulating PEOs."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 34,
+          "title": "Legal Proceedings",
+          "data": [
+            {
+              "key": "Legal Proceedings Status",
+              "value": "No material pending legal proceedings except routine litigation"
+            },
+            {
+              "key": "Effect on Financial Condition",
+              "value": "Would not have a material adverse effect"
+            },
+            {
+              "key": "Reference Note",
+              "value": "See Note 12 to the Consolidated Financial Statements"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 258,
+    "EUR": 1,
+    "AUD": 6,
+    "CAD": 1
+  },
+  "sha1": "7be0f16625505fb48ad135c1a3fccd75ce06671c"
+}

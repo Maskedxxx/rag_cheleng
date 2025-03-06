@@ -1,0 +1,3491 @@
+{
+  "letters": 199159,
+  "pages": 71,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "KP Tissue Inc.",
+    "major_industry": "Healthcare",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Investing in Our Business to Drive Long-Term Value",
+          "data": [
+            {
+              "key": "document_type",
+              "value": "Annual Report"
+            },
+            {
+              "key": "company_name",
+              "value": "Bonterra"
+            },
+            {
+              "key": "report_year",
+              "value": "2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 9,
+          "title": "Production Capacity Overview",
+          "data": [
+            {
+              "key": "Combined Annual Production Capacity in Canada",
+              "value": "350,000 metric tonnes"
+            },
+            {
+              "key": "Percentage of Canada's Production Capacity",
+              "value": "44%"
+            },
+            {
+              "key": "Total Annual Production Capacity (Canada & USA)",
+              "value": "435,000 metric tonnes"
+            },
+            {
+              "key": "Manufacturing Plants Locations",
+              "value": "North America"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 43,
+          "title": "Lease Liability in a Sale and Leaseback",
+          "data": [
+            {
+              "key": "IFRS 16 Amendments Date",
+              "value": "September 2022"
+            },
+            {
+              "key": "Effective Date",
+              "value": "January 1, 2024"
+            },
+            {
+              "key": "Impact on Financial Statements",
+              "value": "Not expected to have an impact"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 43,
+          "title": "Financial Information Comparison - PT and PLP",
+          "data": [
+            {
+              "key": "PT Total Assets",
+              "value": "81.7/80.7"
+            },
+            {
+              "key": "PT Total Liabilities",
+              "value": "77.0/48.0"
+            },
+            {
+              "key": "PLP Total Assets",
+              "value": "2256.8/2122.3"
+            },
+            {
+              "key": "PLP Total Liabilities",
+              "value": "1763.6/1706.2"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 43,
+          "title": "Financial Performance and EBITDA Reconciliation",
+          "data": [
+            {
+              "key": "Q4 Revenue",
+              "value": "458.1"
+            },
+            {
+              "key": "Q3 Revenue",
+              "value": "427.0"
+            },
+            {
+              "key": "Q2 Revenue",
+              "value": "397.5"
+            },
+            {
+              "key": "Q1 Revenue",
+              "value": "398.7"
+            },
+            {
+              "key": "Net Income Q4",
+              "value": "16.0"
+            },
+            {
+              "key": "Net Income Q3",
+              "value": "(38.8)"
+            },
+            {
+              "key": "Net Income Q2",
+              "value": "(35.5)"
+            },
+            {
+              "key": "Net Income Q1",
+              "value": "1.4"
+            }
+          ],
+          "currency": "CAD"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 7,
+          "title": "CEO Statement on Financial Performance and Sustainability",
+          "data": [
+            {
+              "key": "Segment Performance",
+              "value": "In the Away-from-Home segment, we benefited from significantly higher sales volume in 2022 as the business fully recovered post-pandemic."
+            },
+            {
+              "key": "AFH Revenue Growth",
+              "value": "AFH revenue increased 40% year-over-year."
+            },
+            {
+              "key": "AFH Adjusted EBITDA",
+              "value": "AFH Adjusted EBITDA finished at $7.4 million in 2022."
+            },
+            {
+              "key": "Sustainability Strategy",
+              "value": "Our sustainable development plan—entitled Reimagine 2030—is based on the belief that profitable growth and sustainability are not mutually exclusive goals."
+            },
+            {
+              "key": "Reorganization Date",
+              "value": "On January 1, 2023, KPLP undertook a corporate reorganization."
+            },
+            {
+              "key": "CEO Name",
+              "value": "Dino Bianco"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 13,
+          "title": "Management’s Discussion and Analysis of Financial Position",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "KP TISSUE INC. AND KRUGER PRODUCTS L.P."
+            },
+            {
+              "key": "Analysis Date",
+              "value": "MARCH 9, 2023"
+            },
+            {
+              "key": "Period Ended",
+              "value": "DECEMBER 31, 2022"
+            },
+            {
+              "key": "Location",
+              "value": "Prologis Blvd., Suite 500, Mississauga, Ontario L5W 0G8"
+            },
+            {
+              "key": "Website",
+              "value": "www.kptissueinc.com"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 47,
+          "title": "Management's Report on Disclosure Controls and Procedures",
+          "data": [
+            {
+              "key": "CEO",
+              "value": "CEO"
+            },
+            {
+              "key": "CFO",
+              "value": "CFO"
+            },
+            {
+              "key": "Evaluation Date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Control Evaluation",
+              "value": "Effective"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 47,
+          "title": "Management's Report on Internal Controls over Financial Reporting",
+          "data": [
+            {
+              "key": "CEO",
+              "value": "CEO"
+            },
+            {
+              "key": "CFO",
+              "value": "CFO"
+            },
+            {
+              "key": "Evaluation Date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Control Evaluation",
+              "value": "Effective"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 69,
+          "title": "Board of Directors",
+          "data": [
+            {
+              "key": "Corporate Address",
+              "value": "2 Prologis Blvd, Suite 500, Mississauga, Ontario, L5W 0G8"
+            },
+            {
+              "key": "Telephone",
+              "value": "905-812-6900"
+            },
+            {
+              "key": "Website",
+              "value": "www.kptissueinc.com"
+            },
+            {
+              "key": "Director of Investor Relations",
+              "value": "Mike Baldesarra"
+            },
+            {
+              "key": "Investor Relations Telephone",
+              "value": "905-812-6900"
+            },
+            {
+              "key": "Investor Relations Email",
+              "value": "ir@kptissueinc.com"
+            },
+            {
+              "key": "Chair and Independent Director",
+              "value": "François Vimard"
+            },
+            {
+              "key": "Independent Director",
+              "value": "James Hardy"
+            },
+            {
+              "key": "Independent Director",
+              "value": "John (‘Jay’) Wright"
+            },
+            {
+              "key": "Director",
+              "value": "Louise Denys Wendling"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": true,
+      "elements": [
+        {
+          "type": "layoff",
+          "page": 2,
+          "title": "Kruger Products Inc Overview",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Kruger Products Inc"
+            },
+            {
+              "key": "Employees",
+              "value": "2,700"
+            },
+            {
+              "key": "Production Facilities",
+              "value": "9 FSC® COC-certified facilities"
+            },
+            {
+              "key": "Brands Served",
+              "value": "Cashmere®, Bonterra™, Purex®, SpongeTowels®, Scotties®, White Swan®, White Cloud®"
+            },
+            {
+              "key": "Ownership",
+              "value": "KP Tissue (KPT) holds an equity interest in Kruger Products"
+            },
+            {
+              "key": "KPT Interest in KPLP (as of Dec 31, 2022)",
+              "value": "13.9%"
+            },
+            {
+              "key": "KPT Interest in Kruger Products (as of May 11, 2023)",
+              "value": "13.5%"
+            },
+            {
+              "key": "Reorganization Date",
+              "value": "January 1, 2023"
+            },
+            {
+              "key": "Reorganization Type",
+              "value": "Limited partnership replaced by corporate entity"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 6,
+          "title": "2022 Annual Report Excerpt",
+          "data": [
+            {
+              "key": "Investment",
+              "value": "Continued investment in business despite inflationary pressure in 2022."
+            },
+            {
+              "key": "Operational Efficiency",
+              "value": "Improved operating efficiency by shutting down older assets in Memphis."
+            },
+            {
+              "key": "Impact of Price Increases",
+              "value": "Managing price gaps following industry-wide price increases."
+            },
+            {
+              "key": "Community Initiatives",
+              "value": "Kruger Big Assist program provides $200,000 annually to minor hockey associations."
+            },
+            {
+              "key": "New Product Launch",
+              "value": "Launch of Bonterra™ environmentally friendly line and relaunch of White Cloud®."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 19,
+          "title": "Income Taxes and Business Highlights",
+          "data": [
+            {
+              "key": "KPLP Tax Status",
+              "value": "Not a tax paying entity."
+            },
+            {
+              "key": "Fiscal 2022 Loss",
+              "value": "Income (loss) flowed to partners."
+            },
+            {
+              "key": "Consolidated Income Taxes",
+              "value": "Related to incorporated subsidiaries."
+            },
+            {
+              "key": "TAD Luxembourg S.A.R.L. Conversion",
+              "value": "Converted to Delaware corporation on December 15, 2022."
+            },
+            {
+              "key": "Sherbrooke Expansion Project Investment",
+              "value": "Total investment of $351.5 million."
+            },
+            {
+              "key": "LDC Machine Annual Output Increase",
+              "value": "Expected increase of at least 60,000 metric tonnes."
+            },
+            {
+              "key": "AgCredit Agreement Fourth Amendment",
+              "value": "New $87 million term loan facility."
+            },
+            {
+              "key": "Significance of Shutdown of Production Assets",
+              "value": "Best interests of operating efficiencies and profitability."
+            },
+            {
+              "key": "Total Restructuring Costs",
+              "value": "Expected costs of $3.3 million."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Audit Opinion",
+          "data": [
+            {
+              "key": "Audit Firm",
+              "value": "PricewaterhouseCoopers LLP"
+            },
+            {
+              "key": "Engagement Partner",
+              "value": "Neil Manji"
+            },
+            {
+              "key": "Location",
+              "value": "Toronto, Ontario"
+            },
+            {
+              "key": "Report Date",
+              "value": "March 9, 2023"
+            },
+            {
+              "key": "Significance",
+              "value": "Communication of key audit matters and compliance with ethical requirements"
+            },
+            {
+              "key": "Responsibilities",
+              "value": "Supervision and performance of group audit"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 70,
+          "title": "Vision and Mission",
+          "data": [
+            {
+              "key": "Vision",
+              "value": "OUR VISION TO BE THE MOST TRUSTED AND BEST LOVED TISSUE COMPANY IN NORTH AMERICA."
+            },
+            {
+              "key": "Mission",
+              "value": "OUR MISSION MAKING EVERYDAY LIFE MORE COMFORTABLE."
+            },
+            {
+              "key": "Product Lineup",
+              "value": "The image shows a lineup of paper product brands and packaging designs. The brands displayed include Purex, Cashmere, Sponge Towels, White Cloud, Scotties, and Bonterra."
+            },
+            {
+              "key": "Brands",
+              "value": "Purex, Cashmere, Sponge Towels, White Cloud, Scotties, Bonterra."
+            },
+            {
+              "key": "Category",
+              "value": "Consumer paper products."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 6,
+          "title": "Geographic map with percentage indicators",
+          "data": [
+            {
+              "key": "description",
+              "value": "A map visualization showing revenue distribution and network locations across North America"
+            },
+            {
+              "key": "markers_total",
+              "value": "9"
+            },
+            {
+              "key": "marker_type",
+              "value": "Numbered green markers indicating facility locations"
+            },
+            {
+              "key": "legend_items",
+              "value": "PAPERMAKING & CONVERTING, DEINKING, PULPING, PAPERMAKING & CONVERTING"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 8,
+          "title": "INVESTING IN OUR NETWORK",
+          "data": [
+            {
+              "key": "region",
+              "value": "Canada"
+            },
+            {
+              "key": "revenue_percentage",
+              "value": "59"
+            },
+            {
+              "key": "locations",
+              "value": "5"
+            },
+            {
+              "key": "region",
+              "value": "United States"
+            },
+            {
+              "key": "revenue_percentage",
+              "value": "41"
+            },
+            {
+              "key": "locations",
+              "value": "4"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 10,
+          "title": "Network Modernization Update",
+          "data": [
+            {
+              "key": "Investment",
+              "value": "$350 million"
+            },
+            {
+              "key": "Project Name",
+              "value": "Sherbrooke Expansion Project"
+            },
+            {
+              "key": "Key Strategy",
+              "value": "growth strategy through modernization"
+            },
+            {
+              "key": "Expected Increase in Output",
+              "value": "60,000 metric tonnes"
+            },
+            {
+              "key": "Improvements",
+              "value": "Operating efficiency improvements after asset shutdowns"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 25,
+          "title": "Corporate and Other Costs Fiscal 2022",
+          "data": [
+            {
+              "key": "Corporate and other costs Fiscal 2022",
+              "value": "$8.8 million"
+            },
+            {
+              "key": "Corporate and other costs Fiscal 2021",
+              "value": "$9.0 million"
+            },
+            {
+              "key": "Decrease in costs",
+              "value": "$0.2 million"
+            },
+            {
+              "key": "Capital expenditures Fiscal 2022",
+              "value": "$115.6 million"
+            },
+            {
+              "key": "Capital expenditures Fiscal 2023 expected",
+              "value": "$200 million to $230 million"
+            },
+            {
+              "key": "Maintenance projects annual",
+              "value": "$25 million"
+            },
+            {
+              "key": "TAD Sherbrooke Project capital expenditures",
+              "value": "$20.7 million"
+            },
+            {
+              "key": "Sherbrooke Expansion Project capital expenditures",
+              "value": "$53.4 million"
+            },
+            {
+              "key": "Government assistance received",
+              "value": "$1.0 million"
+            },
+            {
+              "key": "Reduction in discretionary plant expenditures",
+              "value": "Yes"
+            },
+            {
+              "key": "Supply chain delays impact",
+              "value": "Yes"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 34,
+          "title": "KPSB IQ Debenture",
+          "data": [
+            {
+              "key": "Agreement Date",
+              "value": "May 21, 2021"
+            },
+            {
+              "key": "Principal Amount",
+              "value": "$75 million"
+            },
+            {
+              "key": "Purpose",
+              "value": "Finance the implementation of a light dry crepe tissue machine (LDC Machine) in Sherbrooke Expansion Project"
+            },
+            {
+              "key": "Interest Rate",
+              "value": "2.0% per annum"
+            },
+            {
+              "key": "Default Interest Rate",
+              "value": "6.0% per annum"
+            },
+            {
+              "key": "Maturity Date",
+              "value": "Ten years from the earlier of LDC Machine Commissioning Date or September 1, 2024"
+            },
+            {
+              "key": "Monthly Redemption",
+              "value": "Commencing 24 months after LDC Machine Commissioning Date or September 1, 2024"
+            },
+            {
+              "key": "Conversion Right",
+              "value": "100% equity interest in KPSB if converted"
+            },
+            {
+              "key": "Quebec PM Loan Amount",
+              "value": "$39.5 million"
+            },
+            {
+              "key": "Quebec PM Loan Interest Rates",
+              "value": "2.5%, 3.5%, 4.5%, 5.5% per annum"
+            },
+            {
+              "key": "Loan Moratorium",
+              "value": "24 months on principal repayments"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 35,
+          "title": "IQ Bathroom Tissue and Facial Tissue Loans",
+          "data": [
+            {
+              "key": "Loan Type",
+              "value": "Secured non-revolving subordinated loan"
+            },
+            {
+              "key": "IQ Bathroom Tissue Loan Amount",
+              "value": "$47 million"
+            },
+            {
+              "key": "Purpose",
+              "value": "To finance the implementation of the bathroom tissue converting line (BT Line) as part of the Sherbrooke Expansion Project."
+            },
+            {
+              "key": "Maturity",
+              "value": "Ten years from the BT Line Commissioning Date or November 1, 2022."
+            },
+            {
+              "key": "Interest Rate",
+              "value": "2.0% per annum, increasing to 6.0% upon default."
+            },
+            {
+              "key": "Loan Disbursement Date",
+              "value": "February 4, 2022"
+            },
+            {
+              "key": "Principal Repayment",
+              "value": "In 84 equal monthly consecutive payments after a moratorium of 36 months."
+            },
+            {
+              "key": "KPLP Guarantee",
+              "value": "Jointly and severally guaranteed up to $90 million for multiple loans."
+            },
+            {
+              "key": "IQ Facial Tissue Loan Amount",
+              "value": "$43 million"
+            },
+            {
+              "key": "Purpose",
+              "value": "To finance the implementation of the facial tissue converting line (FT Line) as part of the Sherbrooke Expansion Project."
+            },
+            {
+              "key": "Maturity",
+              "value": "Ten years from the FT Line Commissioning Date or July 1, 2023."
+            },
+            {
+              "key": "Loan Disbursement Date (Facial Tissue)",
+              "value": "July 29, 2022"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 36,
+          "title": "Loan Agreements and Credit Facilities Detail",
+          "data": [
+            {
+              "key": "IQ Facial Tissue Loan Moratorium",
+              "value": "No payment on principal for 24 months from earlier of FT Line Commissioning Date or July 1, 2023."
+            },
+            {
+              "key": "IQ Bathroom Tissue Loan Guarantee",
+              "value": "Guaranteed jointly and severally by KPLP to a maximum of $90 million."
+            },
+            {
+              "key": "Ontario Loan Agreement",
+              "value": "Secured non-revolving loan up to $10 million for expansion project."
+            },
+            {
+              "key": "Ontario Loan Interest Rate",
+              "value": "Fixed at 2.4% per annum for five years from March 1, 2021."
+            },
+            {
+              "key": "Ontario Loan Forgivable Principal",
+              "value": "Up to a maximum of $5 million, $4.4 million was forgiven as of December 31, 2022."
+            },
+            {
+              "key": "KPSB Senior Credit Agreement Date",
+              "value": "May 21, 2021."
+            },
+            {
+              "key": "KPSB Construction Loan Amount",
+              "value": "$150 million."
+            },
+            {
+              "key": "KPSB Construction Facility Maturity",
+              "value": "May 21, 2028."
+            },
+            {
+              "key": "KPSB Revolving Facility Amount",
+              "value": "$5 million."
+            },
+            {
+              "key": "Credit Facilities Base Rate",
+              "value": "Canadian prime rate, US base rate, LIBOR or other applicable benchmark."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 65,
+          "title": "Deferred Tax Liability Movements",
+          "data": [
+            {
+              "key": "As of January 1, 2021",
+              "value": "634"
+            },
+            {
+              "key": "Charge to net loss",
+              "value": "-2207"
+            },
+            {
+              "key": "Charge to other comprehensive loss - remeasurements of cumulative translation adjustment",
+              "value": "-44"
+            },
+            {
+              "key": "Charge to other comprehensive income - remeasurements of post-retirement benefits",
+              "value": "393"
+            },
+            {
+              "key": "Charge to other comprehensive income - remeasurements of pensions",
+              "value": "2030"
+            },
+            {
+              "key": "As of December 31, 2021",
+              "value": "806"
+            },
+            {
+              "key": "As of January 1, 2022",
+              "value": "806"
+            },
+            {
+              "key": "Charge to net loss",
+              "value": "-1888"
+            },
+            {
+              "key": "Charge to other comprehensive income - remeasurements of cumulative translation adjustment",
+              "value": "310"
+            },
+            {
+              "key": "Charge to other comprehensive income - remeasurements of post-retirement benefits",
+              "value": "null"
+            },
+            {
+              "key": "Charge to other comprehensive income - remeasurements of pensions",
+              "value": "null"
+            },
+            {
+              "key": "As of December 31, 2022",
+              "value": "null"
+            }
+          ],
+          "currency": "CAD"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 3,
+          "title": "2022 Financial Performance Highlights",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "$1.7 billion"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 3,
+          "title": "Adjusted EBITDA Performance",
+          "data": [
+            {
+              "key": "Adjusted EBITDA",
+              "value": "$116.0 million"
+            },
+            {
+              "key": "Change",
+              "value": "Down 24.4% from 2021"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 3,
+          "title": "Net Loss",
+          "data": [
+            {
+              "key": "Net Loss",
+              "value": "$56.9 million"
+            },
+            {
+              "key": "Comparison",
+              "value": "Net Income of $42.0 million in 2021"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 4,
+          "title": "G 2022 Annual Report — FINANCIAL PERFORMANCE",
+          "data": [
+            {
+              "key": "Net Income",
+              "value": "Net loss of $10.2 million, net loss per share of $1.03"
+            },
+            {
+              "key": "Working Capital",
+              "value": "-"
+            },
+            {
+              "key": "Long-term Debt",
+              "value": "-"
+            },
+            {
+              "key": "Net Debt/LTM Adjusted EBITDA",
+              "value": "-"
+            },
+            {
+              "key": "Equity Loss",
+              "value": "$13.3 million"
+            },
+            {
+              "key": "Revenue",
+              "value": "$1,681.4 million"
+            },
+            {
+              "key": "Adjusted EBITDA",
+              "value": "$116.0 million"
+            },
+            {
+              "key": "Adjusted EBITDA Margin",
+              "value": "6.9%"
+            },
+            {
+              "key": "Operating Income",
+              "value": "$113.3 million"
+            },
+            {
+              "key": "Capital Expenditures",
+              "value": "$310.6 million"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "MESSAGE TO SHAREHOLDERS",
+          "data": [
+            {
+              "key": "Fiscal Year",
+              "value": "2022"
+            },
+            {
+              "key": "Revenue Increase",
+              "value": "15% year-over-year"
+            },
+            {
+              "key": "Total Revenue",
+              "value": "$1.7 billion"
+            },
+            {
+              "key": "Inflation Impact on Cost Base",
+              "value": "$180 million"
+            },
+            {
+              "key": "Adjusted EBITDA",
+              "value": "$116 million"
+            },
+            {
+              "key": "Reason for Revenue Increase",
+              "value": "Selling price increases due to higher costs"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 17,
+          "title": "Basis of Presentation and Non-GAAP Financial Measures",
+          "data": [
+            {
+              "key": "Accounting Periods",
+              "value": "This MD&A includes financial information for the 3-month periods ended December 31, 2022 (Q4 2022) and December 31, 2021 (Q4 2021), respectively, and Fiscal 2022 and Fiscal 2021."
+            },
+            {
+              "key": "Adjusted EBITDA",
+              "value": "KPLP believes that this measure provides useful information to management of KPLP and the readers of the financial information in measuring the financial performance and financial condition of KPLP."
+            },
+            {
+              "key": "Outlook",
+              "value": "Kruger Products is committed to building its consumer brands and developing innovative products."
+            },
+            {
+              "key": "Revenue",
+              "value": "KPLP generates revenue on the sale of branded, private label and AFH tissue products in Canada and the United States."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 18,
+          "title": "KPLP Financial Performance Overview",
+          "data": [
+            {
+              "key": "Reportable Business Segments",
+              "value": "Consumer and AFH"
+            },
+            {
+              "key": "Consumer Products",
+              "value": "Branded tissue products like Cashmere, Purex, Scotties, SpongeTowels, Bonterra, White Cloud"
+            },
+            {
+              "key": "Sales Focus",
+              "value": "Regions include Canada and the U.S."
+            },
+            {
+              "key": "Foreign Exchange Risk Management",
+              "value": "Foreign exchange swaps and forward contracts"
+            },
+            {
+              "key": "Cost of Sales",
+              "value": "Includes fixed and variable costs, freight, warehousing, and handling costs"
+            },
+            {
+              "key": "Key Input Cost Components",
+              "value": "Fibre, labour, and energy costs, representing 50-80% of total cost"
+            },
+            {
+              "key": "Pulp Cost Management",
+              "value": "Ability to pass cost increases to customers may be affected by market conditions"
+            },
+            {
+              "key": "Fibre Commodity Contracts Target",
+              "value": "Covers 85% of total fibre purchases"
+            },
+            {
+              "key": "Fixed Costs",
+              "value": "Plant maintenance, overhead, insurance, property taxes, IT, depreciation, and amortization"
+            },
+            {
+              "key": "Freight Costs Factors",
+              "value": "Sales volume, geographical mix, fuel costs, North American supply and demand"
+            },
+            {
+              "key": "SGA Expenses",
+              "value": "Marketing, selling, general and administrative costs, including small depreciation"
+            },
+            {
+              "key": "Interest Expense",
+              "value": "Includes costs from credit facilities, deferred financing fees, lease liabilities, pension costs"
+            },
+            {
+              "key": "Other Income/Expenses",
+              "value": "Includes foreign exchange gains/losses and changes in fair value of derivatives"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 21,
+          "title": "Statement of Operations Data (C$ millions)",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "C$1681.4M"
+            },
+            {
+              "key": "Cost of sales",
+              "value": "C$-1547.3M"
+            },
+            {
+              "key": "Selling, general and administrative expenses",
+              "value": "C$-124.6M"
+            },
+            {
+              "key": "Operating income",
+              "value": "C$49.0M"
+            },
+            {
+              "key": "Income (loss) before income taxes",
+              "value": "C$-73.0M"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 21,
+          "title": "Reconciliation of Adjusted EBITDA to Net Income (Loss)",
+          "data": [
+            {
+              "key": "Net income (loss)",
+              "value": "C$-56.9M"
+            },
+            {
+              "key": "Interest expense and other finance costs",
+              "value": "C$74.5M"
+            },
+            {
+              "key": "Income taxes",
+              "value": "C$-16.1M"
+            },
+            {
+              "key": "Depreciation and amortization",
+              "value": "C$102.9M"
+            },
+            {
+              "key": "Adjusted EBITDA",
+              "value": "C$116.0M"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 22,
+          "title": "Results of Operations Fiscal 2022 compared to Fiscal 2021",
+          "data": [
+            {
+              "key": "Revenue for Fiscal 2022",
+              "value": "$1,681.4 million"
+            },
+            {
+              "key": "Revenue for Fiscal 2021",
+              "value": "$1,465.2 million"
+            },
+            {
+              "key": "Increase in Revenue",
+              "value": "$216.2 million or 14.8%"
+            },
+            {
+              "key": "Cost of Sales for Fiscal 2022",
+              "value": "$1,547.3 million"
+            },
+            {
+              "key": "Cost of Sales for Fiscal 2021",
+              "value": "$1,279.9 million"
+            },
+            {
+              "key": "Increase in Cost of Sales",
+              "value": "$267.4 million or 20.9%"
+            },
+            {
+              "key": "SG&A Expenses for Fiscal 2022",
+              "value": "$124.6 million"
+            },
+            {
+              "key": "SG&A Expenses for Fiscal 2021",
+              "value": "$118.1 million"
+            },
+            {
+              "key": "Increase in SG&A Expenses",
+              "value": "$6.5 million or 5.5%"
+            },
+            {
+              "key": "Adjusted EBITDA for Fiscal 2022",
+              "value": "$116.0 million"
+            },
+            {
+              "key": "Adjusted EBITDA for Fiscal 2021",
+              "value": "$153.4 million"
+            },
+            {
+              "key": "Decrease in Adjusted EBITDA",
+              "value": "$37.4 million or 24.4%"
+            },
+            {
+              "key": "Interest Expense and Other Finance Costs for Fiscal 2022",
+              "value": "$74.5 million"
+            },
+            {
+              "key": "Interest Expense and Other Finance Costs for Fiscal 2021",
+              "value": "$70.7 million"
+            },
+            {
+              "key": "Increase in Interest Expense",
+              "value": "$3.8 million"
+            },
+            {
+              "key": "Other Expense for Fiscal 2022",
+              "value": "$3.4 million"
+            },
+            {
+              "key": "Other Expense for Fiscal 2021",
+              "value": "$4.9 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 23,
+          "title": "Statement of Operations Data",
+          "data": [
+            {
+              "key": "Share of income (loss)",
+              "value": "(C$ millions, unless otherwise noted) - Fiscal 2022: -8.1 / Fiscal 2021: 6.1"
+            },
+            {
+              "key": "Depreciation of fair value increments",
+              "value": "Fiscal 2022: -5.2 / Fiscal 2021: -5.3"
+            },
+            {
+              "key": "Equity gain (loss)",
+              "value": "Fiscal 2022: -13.3 / Fiscal 2021: 0.8"
+            },
+            {
+              "key": "Dilution gain",
+              "value": "Fiscal 2022: 0.8 / Fiscal 2021: 0.3"
+            },
+            {
+              "key": "Income (loss) before income taxes",
+              "value": "Fiscal 2022: -12.5 / Fiscal 2021: 1.0"
+            },
+            {
+              "key": "Current tax recovery (expense)",
+              "value": "Fiscal 2022: 0.4 / Fiscal 2021: -2.1"
+            },
+            {
+              "key": "Deferred tax recovery",
+              "value": "Fiscal 2022: 1.9 / Fiscal 2021: 2.2"
+            },
+            {
+              "key": "Income taxes",
+              "value": "Fiscal 2022: 2.3 / Fiscal 2021: 0.1"
+            },
+            {
+              "key": "Net income (loss)",
+              "value": "Fiscal 2022: -10.2 / Fiscal 2021: 1.2"
+            },
+            {
+              "key": "Basic earnings (loss) per share (dollars)",
+              "value": "Fiscal 2022: -1.03 / Fiscal 2021: 0.13"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 24,
+          "title": "Segment Information",
+          "data": [
+            {
+              "key": "Segment Operating Income",
+              "value": "Segment operating income is the earnings (loss) for each such segment before interest expense and other finance costs, income taxes, depreciation, amortization, impairment (gain on sale) of non-financial assets, loss (gain) on disposal of property, plant and equipment, foreign exchange loss (gain), costs related to restructuring activities, changes in amortized cost of Partnership units liability, change in fair value of derivatives, consulting costs related to operational transformation initiatives, corporate development related costs and loss (gain) on sale of shares."
+            },
+            {
+              "key": "Consumer Segment Fiscal 2022 vs Fiscal 2021",
+              "value": "Consumer segment revenue was $1,394.1 million in Fiscal 2022 compared to $1,260.1 million in Fiscal 2021, an increase of $134.0 million or 10.6%."
+            },
+            {
+              "key": "AFH Segment Fiscal 2022 vs Fiscal 2021",
+              "value": "AFH segment revenue was $287.3 million in Fiscal 2022 compared to $205.1 million in Fiscal 2021, an increase of $82.2 million or 40.1%."
+            },
+            {
+              "key": "Summary of Results",
+              "value": "The table shows segment revenue and adjusted EBITDA for fiscal years 2020-2022. Revenue shows growth in 2022, with total segment revenue increasing by 14.8% to $1,681.4 million."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 26,
+          "title": "Cash Flow Summary (C$ millions)",
+          "data": [
+            {
+              "key": "Net cash flows from operating activities (Fiscal 2022)",
+              "value": "38.7"
+            },
+            {
+              "key": "Net cash flows from operating activities (Fiscal 2021)",
+              "value": "81.4"
+            },
+            {
+              "key": "Net cash flows from operating activities (Fiscal 2020)",
+              "value": "253.5"
+            },
+            {
+              "key": "Change 2022 vs 2021",
+              "value": "-42.7"
+            },
+            {
+              "key": "Change 2021 vs 2020",
+              "value": "-172.1"
+            },
+            {
+              "key": "Net cash flows used in investing activities (Fiscal 2022)",
+              "value": "-115.6"
+            },
+            {
+              "key": "Net cash flows used in investing activities (Fiscal 2021)",
+              "value": "-145.7"
+            },
+            {
+              "key": "Net cash flows used in investing activities (Fiscal 2020)",
+              "value": "-313.7"
+            },
+            {
+              "key": "Change 2022 vs 2021",
+              "value": "30.1"
+            },
+            {
+              "key": "Change 2021 vs 2020",
+              "value": "168.0"
+            },
+            {
+              "key": "Net cash flows from (used in) financing activities (Fiscal 2022)",
+              "value": "-2.5"
+            },
+            {
+              "key": "Net cash flows from (used in) financing activities (Fiscal 2021)",
+              "value": "84.9"
+            },
+            {
+              "key": "Net cash flows from (used in) financing activities (Fiscal 2020)",
+              "value": "98.1"
+            },
+            {
+              "key": "Change 2022 vs 2021",
+              "value": "-87.4"
+            },
+            {
+              "key": "Change 2021 vs 2020",
+              "value": "-13.2"
+            },
+            {
+              "key": "Effect of exchange rate changes on cash (Fiscal 2022)",
+              "value": "2.2"
+            },
+            {
+              "key": "Effect of exchange rate changes on cash (Fiscal 2021)",
+              "value": "-0.8"
+            },
+            {
+              "key": "Effect of exchange rate changes on cash (Fiscal 2020)",
+              "value": "-2.3"
+            },
+            {
+              "key": "Change 2022 vs 2021",
+              "value": "3.0"
+            },
+            {
+              "key": "Change 2021 vs 2020",
+              "value": "15.0"
+            },
+            {
+              "key": "Increase (decrease) in cash and cash equivalents (Fiscal 2022)",
+              "value": "null"
+            },
+            {
+              "key": "Increase (decrease) in cash and cash equivalents (Fiscal 2021)",
+              "value": "19.8"
+            },
+            {
+              "key": "Increase (decrease) in cash and cash equivalents (Fiscal 2020)",
+              "value": "35.6"
+            },
+            {
+              "key": "Change 2022 vs 2021",
+              "value": "-97.0"
+            },
+            {
+              "key": "Change 2021 vs 2020",
+              "value": "-15.8"
+            },
+            {
+              "key": "Beginning cash and cash equivalents (Fiscal 2022)",
+              "value": "null"
+            },
+            {
+              "key": "Beginning cash and cash equivalents (Fiscal 2021)",
+              "value": "null"
+            },
+            {
+              "key": "Beginning cash and cash equivalents (Fiscal 2020)",
+              "value": "null"
+            },
+            {
+              "key": "Ending cash and cash equivalents (Fiscal 2022)",
+              "value": "null"
+            },
+            {
+              "key": "Ending cash and cash equivalents (Fiscal 2021)",
+              "value": "null"
+            },
+            {
+              "key": "Ending cash and cash equivalents (Fiscal 2020)",
+              "value": "null"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 28,
+          "title": "KPLP Senior Credit Agreement Overview",
+          "data": [
+            {
+              "key": "Exchange Agreement Amendment Date",
+              "value": "January 1, 2023"
+            },
+            {
+              "key": "KPLP Senior Credit Agreement Date",
+              "value": "December 21, 2022"
+            },
+            {
+              "key": "KPLP Senior Credit Agreement Maturity",
+              "value": "May 21, 2026"
+            },
+            {
+              "key": "Option to Extend Maturity Date",
+              "value": "January 1, 2028"
+            },
+            {
+              "key": "Interest Rate",
+              "value": "Base rate plus margin between 0.20% and 3.50%"
+            },
+            {
+              "key": "Stand-by Fees Rate",
+              "value": "0.24% to 0.70%"
+            },
+            {
+              "key": "Financial Covenants Compliance",
+              "value": "Restricted Credit Parties to comply with certain financial covenants"
+            },
+            {
+              "key": "Unrestricted Credit Parties Inclusion",
+              "value": "Accounted for as investments but not consolidated"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 29,
+          "title": "KPLP Financial Metrics and Senior Unsecured Notes Overview",
+          "data": [
+            {
+              "key": "Ratio of Senior Secured Net Funded Debt to EBITDA",
+              "value": "not greater than 3.00 to 1.00"
+            },
+            {
+              "key": "Interest Coverage Ratio",
+              "value": "at least 3.00 to 1.00"
+            },
+            {
+              "key": "2025 Notes Principal Amount",
+              "value": "$125 million"
+            },
+            {
+              "key": "2025 Notes Interest Rate",
+              "value": "6.0% per year"
+            },
+            {
+              "key": "Redemption Price Post April 24, 2021",
+              "value": "101% of the aggregate principal"
+            },
+            {
+              "key": "2021 Percentage",
+              "value": "104.5%"
+            },
+            {
+              "key": "2022 Percentage",
+              "value": "103.0%"
+            },
+            {
+              "key": "2023 Percentage",
+              "value": "101.5%"
+            },
+            {
+              "key": "2024 and thereafter Percentage",
+              "value": "100.0%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Impairment Tests and Income Taxes",
+          "data": [
+            {
+              "key": "Goodwill carrying value - Consumer Canada CGU",
+              "value": "$152.0 million"
+            },
+            {
+              "key": "Goodwill carrying value - AFH CGU",
+              "value": "nil"
+            },
+            {
+              "key": "Indefinite lived trademarks carrying value",
+              "value": "$16.0 million"
+            },
+            {
+              "key": "Deferred tax asset recorded - Fiscal 2021",
+              "value": "$40.3 million"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Q4 2022 Financial Performance Overview",
+          "data": [
+            {
+              "key": "Total Revenue Q4 2022",
+              "value": "$458.1 million"
+            },
+            {
+              "key": "Total Revenue Q4 2021",
+              "value": "$424.1 million"
+            },
+            {
+              "key": "Revenue Increase",
+              "value": "$34.0 million (8.0%)"
+            },
+            {
+              "key": "Cost of Sales Q4 2022",
+              "value": "$416.4 million"
+            },
+            {
+              "key": "Cost of Sales Q4 2021",
+              "value": "$376.0 million"
+            },
+            {
+              "key": "Cost of Sales Increase",
+              "value": "$40.4 million (10.7%)"
+            },
+            {
+              "key": "SG&A Expenses Q4 2022",
+              "value": "$30.6 million"
+            },
+            {
+              "key": "SG&A Expenses Q4 2021",
+              "value": "$31.7 million"
+            },
+            {
+              "key": "SG&A Decrease",
+              "value": "$1.1 million (3.4%)"
+            },
+            {
+              "key": "Adjusted EBITDA Q4 2022",
+              "value": "$44.4 million"
+            },
+            {
+              "key": "Adjusted EBITDA Q4 2021",
+              "value": "$38.3 million"
+            },
+            {
+              "key": "Adjusted EBITDA Increase",
+              "value": "$6.1 million (15.8%)"
+            },
+            {
+              "key": "Interest Expense Q4 2022",
+              "value": "$20.7 million"
+            },
+            {
+              "key": "Interest Expense Q4 2021",
+              "value": "$22.8 million"
+            },
+            {
+              "key": "Other Income Q4 2022",
+              "value": "$30.8 million"
+            },
+            {
+              "key": "Other Income Q4 2021",
+              "value": "$5.9 million"
+            },
+            {
+              "key": "Income Tax Expense Q4 2022",
+              "value": "$1.8 million"
+            },
+            {
+              "key": "Income Tax Recovery Q4 2021",
+              "value": "$43.2 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Quarterly Financial Results for Q4 2022",
+          "data": [
+            {
+              "key": "Income Tax Asset",
+              "value": "$40.0 million"
+            },
+            {
+              "key": "Net Income Q4 2022",
+              "value": "$16.0 million"
+            },
+            {
+              "key": "Net Income Q4 2021",
+              "value": "$42.3 million"
+            },
+            {
+              "key": "Decrease in Net Income",
+              "value": "$26.3 million"
+            },
+            {
+              "key": "Total Revenue Q4 2022",
+              "value": "$458.1 million"
+            },
+            {
+              "key": "Total Revenue Q4 2021",
+              "value": "$424.1 million"
+            },
+            {
+              "key": "Total Adjusted EBITDA Q4 2022",
+              "value": "$44.4 million"
+            },
+            {
+              "key": "Total Adjusted EBITDA Q4 2021",
+              "value": "$38.3 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "KP TISSUE INC. AUDITED FINANCIAL STATEMENTS FOR THE YEARS ENDED DECEMBER 31, 2022 AND DECEMBER 31, 2021",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "KP Tissue Inc."
+            },
+            {
+              "key": "Address",
+              "value": "2 Prologis Blvd., Suite 500, Mississauga, Ontario L5W 0G8"
+            },
+            {
+              "key": "Website",
+              "value": "www.kptissueinc.com"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Independent auditor’s report",
+          "data": [
+            {
+              "key": "Opinion",
+              "value": "The accompanying financial statements present fairly, in all material respects, the financial position of KP Tissue Inc. as at December 31, 2022 and 2021."
+            },
+            {
+              "key": "Audit Details",
+              "value": "Audited financial statements include statements of financial position, comprehensive income, changes in equity, and cash flows for 2022 and 2021."
+            },
+            {
+              "key": "Auditing Standards",
+              "value": "Conducted in accordance with Canadian generally accepted auditing standards."
+            },
+            {
+              "key": "Independence",
+              "value": "Independent of the Corporation in accordance with ethical requirements."
+            },
+            {
+              "key": "Key Audit Matters",
+              "value": "Significant matters addressed in the context of the audit for the year ended December 31, 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Audit Report Insights",
+          "data": [
+            {
+              "key": "Key Audit Matter",
+              "value": "Significance of the equity accounted investment in KPLP’s carrying amount and judgment applied by management for impairment testing."
+            },
+            {
+              "key": "Other Information",
+              "value": "Management is responsible for the other information which includes Management’s Discussion and Analysis of Results of Operations and Financial Position."
+            },
+            {
+              "key": "Responsibilities of Management",
+              "value": "Management is responsible for the preparation and fair presentation of the financial statements in accordance with IFRS."
+            },
+            {
+              "key": "Going Concern Assessment",
+              "value": "Management is responsible for assessing the Corporation’s ability to continue as a going concern."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Balance Sheet",
+          "data": [
+            {
+              "key": "Current assets",
+              "value": "Total of current assets includes distributions receivable and income taxes recoverable, totaling $1,790 and $580 respectively."
+            },
+            {
+              "key": "Total assets",
+              "value": "Total assets amount to $81,708 in the current period and $80,716 in the previous period."
+            },
+            {
+              "key": "Current liabilities",
+              "value": "Total of current liabilities includes dividend payable and payables to Partnership."
+            },
+            {
+              "key": "Total liabilities",
+              "value": "Total liabilities amount to $1,678 and $4,847 respectively."
+            },
+            {
+              "key": "Equity",
+              "value": "Components of equity include common shares and contributed surplus. Total equity amount is $74,030."
+            },
+            {
+              "key": "Total liabilities and equity",
+              "value": "Total liabilities and equity balance at $81,708."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "KP Tissue Inc. Statements of Comprehensive Income",
+          "data": [
+            {
+              "key": "Equity income (loss) and dilution gain",
+              "value": "-13299"
+            },
+            {
+              "key": "Income (loss) before income taxes",
+              "value": "-12547"
+            },
+            {
+              "key": "Income tax recovery",
+              "value": "-2298"
+            },
+            {
+              "key": "Net income (loss) for the year",
+              "value": "-10249"
+            },
+            {
+              "key": "Remeasurements of pensions",
+              "value": "11493"
+            },
+            {
+              "key": "Remeasurements of post-retirement benefits",
+              "value": "1470"
+            },
+            {
+              "key": "Cumulative translation adjustment",
+              "value": "2073"
+            },
+            {
+              "key": "Total other comprehensive income for the year",
+              "value": "15036"
+            },
+            {
+              "key": "Comprehensive income for the year",
+              "value": "4787"
+            },
+            {
+              "key": "Basic earnings (loss) per share",
+              "value": "-1.03"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Net income (loss) for the year",
+              "value": "-10249"
+            },
+            {
+              "key": "Equity loss (income)",
+              "value": "13299"
+            },
+            {
+              "key": "Dilution gain",
+              "value": "-752"
+            },
+            {
+              "key": "Income tax recovery",
+              "value": "-2298"
+            },
+            {
+              "key": "Total items not affecting cash",
+              "value": "10249"
+            },
+            {
+              "key": "Net change in non-cash working capital",
+              "value": "-76"
+            },
+            {
+              "key": "Tax refunds (payments)",
+              "value": "38"
+            },
+            {
+              "key": "Tax Distribution received, net",
+              "value": "38"
+            },
+            {
+              "key": "Advances received",
+              "value": "0"
+            },
+            {
+              "key": "Partnership unit distributions received",
+              "value": "6617"
+            },
+            {
+              "key": "Dividends paid, net",
+              "value": "-6617"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 59,
+          "title": "KP Tissue Inc. Notes to Financial Statements",
+          "data": [
+            {
+              "key": "Reporting Period",
+              "value": "December 31, 2022 and December 31, 2021"
+            },
+            {
+              "key": "Tax Treatment",
+              "value": "Deferred tax recognized for temporary differences, not applicable for goodwill"
+            },
+            {
+              "key": "Share Capital Policy",
+              "value": "Incremental costs for issuing common shares deducted from equity"
+            },
+            {
+              "key": "EPS Calculation Basis",
+              "value": "Basic EPS calculated from net income divided by average shares outstanding"
+            },
+            {
+              "key": "Diluted EPS Calculation",
+              "value": "Adjusted for dilutive instruments, none currently available"
+            },
+            {
+              "key": "Accounting Standard IAS 1 Update",
+              "value": "Effective date January 1, 2024 for classification of liabilities"
+            },
+            {
+              "key": "Disclosure Changes IAS 1",
+              "value": "Effective date January 1, 2023 for accounting policy disclosures"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 60,
+          "title": "KP Tissue Inc. Financial Statements Analysis",
+          "data": [
+            {
+              "key": "Reporting Period",
+              "value": "December 31, 2022 and December 31, 2021"
+            },
+            {
+              "key": "Currency",
+              "value": "Canadian dollars (thousands)"
+            },
+            {
+              "key": "Accounting Standard",
+              "value": "IFRS"
+            },
+            {
+              "key": "Impact of IAS 8 amendments",
+              "value": "Not expected to impact financial statements"
+            },
+            {
+              "key": "Key Judgments and Estimates",
+              "value": "Management reviews estimates and judgments that affect reported amounts"
+            },
+            {
+              "key": "Impairment Test Requirements",
+              "value": "Required if there is evidence investment may be impaired"
+            },
+            {
+              "key": "Management Conclusion on Impairment",
+              "value": "No triggering event requiring impairment test for investment in KPLP"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 61,
+          "title": "Investment Movement Schedule 2021-2022",
+          "data": [
+            {
+              "key": "As of January 1, 2021",
+              "value": "69,537"
+            },
+            {
+              "key": "Investment in associate",
+              "value": "1,498"
+            },
+            {
+              "key": "Share of income",
+              "value": "6,125"
+            },
+            {
+              "key": "Depreciation of fair value increments",
+              "value": "-5,325"
+            },
+            {
+              "key": "Share of other comprehensive income",
+              "value": "16,267"
+            },
+            {
+              "key": "Dilution gain",
+              "value": "321"
+            },
+            {
+              "key": "Tax Distribution",
+              "value": "-2,612"
+            },
+            {
+              "key": "Partnership unit distributions",
+              "value": "-7,084"
+            },
+            {
+              "key": "As of December 31, 2021",
+              "value": "78,727"
+            },
+            {
+              "key": "As of January 1, 2022",
+              "value": "78,727"
+            },
+            {
+              "key": "Investment in associate",
+              "value": "529"
+            },
+            {
+              "key": "Share of loss",
+              "value": "-8,086"
+            },
+            {
+              "key": "Depreciation of fair value increments",
+              "value": "-5,213"
+            },
+            {
+              "key": "Share of other comprehensive income",
+              "value": "21,836"
+            },
+            {
+              "key": "Dilution gain",
+              "value": "752"
+            },
+            {
+              "key": "Tax Distribution",
+              "value": "-2,052"
+            },
+            {
+              "key": "Partnership unit distributions",
+              "value": "-7,155"
+            },
+            {
+              "key": "As of December 31, 2022",
+              "value": "N/A"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 61,
+          "title": "Share of Income (Loss) Metrics",
+          "data": [
+            {
+              "key": "Share of income (loss) 2022",
+              "value": "-8,086"
+            },
+            {
+              "key": "Share of income (loss) 2021",
+              "value": "6,125"
+            },
+            {
+              "key": "Depreciation of fair value increments 2022",
+              "value": "-5,213"
+            },
+            {
+              "key": "Depreciation of fair value increments 2021",
+              "value": "-5,325"
+            },
+            {
+              "key": "Total 2022",
+              "value": "-13,299"
+            },
+            {
+              "key": "Total 2021",
+              "value": "800"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Year ended December 31, 2022 Financial Performance Summary",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "1,681,403"
+            },
+            {
+              "key": "Net loss",
+              "value": "(56,882)"
+            },
+            {
+              "key": "Other comprehensive income",
+              "value": "151,707"
+            },
+            {
+              "key": "Total comprehensive income",
+              "value": "94,825"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Year ended December 31, 2021 Financial Performance Summary",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "1,465,161"
+            },
+            {
+              "key": "Net income",
+              "value": "41,999"
+            },
+            {
+              "key": "Other comprehensive income",
+              "value": "112,226"
+            },
+            {
+              "key": "Total comprehensive income",
+              "value": "154,225"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Balance Sheet Comparison - KPLP and KPT Accounting Basis (2022)",
+          "data": [
+            {
+              "key": "Current assets (KPLP basis)",
+              "value": "491,822"
+            },
+            {
+              "key": "Non-current assets (KPLP basis)",
+              "value": "1,764,946"
+            },
+            {
+              "key": "Total Liabilities (KPLP basis)",
+              "value": "1,630,046"
+            },
+            {
+              "key": "Net Assets (KPLP basis)",
+              "value": "493,171"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Balance Sheet Comparison - KPLP and KPT Accounting Basis (2021)",
+          "data": [
+            {
+              "key": "Current assets (KPLP basis)",
+              "value": "511,547"
+            },
+            {
+              "key": "Non-current assets (KPLP basis)",
+              "value": "1,610,765"
+            },
+            {
+              "key": "Total Liabilities (KPLP basis)",
+              "value": "1,533,016"
+            },
+            {
+              "key": "Net Assets (KPLP basis)",
+              "value": "416,095"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Equity Reconciliation Statement",
+          "data": [
+            {
+              "key": "KPLP consolidated equity",
+              "value": "493171"
+            },
+            {
+              "key": "Add back: Inception value of Partnership units liability",
+              "value": "118562"
+            },
+            {
+              "key": "Less: Equity pertaining to Kruger Inc. and KPGP",
+              "value": "-453961"
+            },
+            {
+              "key": "Equity pertaining to KPT",
+              "value": "157772"
+            },
+            {
+              "key": "Investment in associate recorded in KPT",
+              "value": "79338"
+            },
+            {
+              "key": "Reconciling difference",
+              "value": "78434"
+            },
+            {
+              "key": "Equity issuance costs",
+              "value": "-11110"
+            },
+            {
+              "key": "Depreciation of FV increments",
+              "value": "59171"
+            },
+            {
+              "key": "Currency translation adjustment in fair value increments",
+              "value": "-3302"
+            },
+            {
+              "key": "Tax Distribution",
+              "value": "9320"
+            },
+            {
+              "key": "Gain on exercise of overallotment option",
+              "value": "-375"
+            },
+            {
+              "key": "Dilution gain",
+              "value": "-3270"
+            },
+            {
+              "key": "Impairment in investment in associate",
+              "value": "28000"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Income Tax Components",
+          "data": [
+            {
+              "key": "Current tax expense (recovery)",
+              "value": "-410"
+            },
+            {
+              "key": "Deferred tax recovery",
+              "value": "-1888"
+            },
+            {
+              "key": "Total",
+              "value": "-2298"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 64,
+          "title": "Provision for Income Taxes",
+          "data": [
+            {
+              "key": "Income tax at statutory rate of 26%",
+              "value": "-3264"
+            },
+            {
+              "key": "Permanent differences and other",
+              "value": "174"
+            },
+            {
+              "key": "Dilution gain",
+              "value": "-195"
+            },
+            {
+              "key": "Taxed in hands of subsidiaries",
+              "value": "2345"
+            },
+            {
+              "key": "Realization of previously unrecognized tax attributes",
+              "value": "1480"
+            },
+            {
+              "key": "Change in basis of investment in associate",
+              "value": "-2838"
+            },
+            {
+              "key": "",
+              "value": "-2298"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 64,
+          "title": "Deferred Tax Liability (Asset)",
+          "data": [
+            {
+              "key": "Deferred tax liability (asset)",
+              "value": "N/A"
+            },
+            {
+              "key": "ROU assets and lease liabilities",
+              "value": "-592"
+            },
+            {
+              "key": "Pensions",
+              "value": "3078"
+            },
+            {
+              "key": "Partnership units liability",
+              "value": "-2782"
+            },
+            {
+              "key": "Property, plant and equipment",
+              "value": "6737"
+            },
+            {
+              "key": "Other",
+              "value": "-723"
+            },
+            {
+              "key": "Total",
+              "value": "5718"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 64,
+          "title": "Deferred Tax Liabilities Realized Greater than 12 Months",
+          "data": [
+            {
+              "key": "Deferred tax liabilities to be realized greater than 12 months",
+              "value": "5718"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 67,
+          "title": "Income tax (recovery) expense on other comprehensive income (loss)",
+          "data": [
+            {
+              "key": "Items that will not be reclassified to net income (loss)",
+              "value": "Remeasurements of pensions current: 17354, previous: 15598"
+            },
+            {
+              "key": "Items that will not be reclassified to net income (loss)",
+              "value": "Income tax expense current: -5861, previous: -2030"
+            },
+            {
+              "key": "Items that will not be reclassified to net income (loss)",
+              "value": "Net of income tax expense current: 11493, previous: 13568"
+            },
+            {
+              "key": "Items that will not be reclassified to net income (loss)",
+              "value": "Remeasurements of post-retirement benefits current: 2099, previous: 1007"
+            },
+            {
+              "key": "Items that will not be reclassified to net income (loss)",
+              "value": "Income tax expense current: -629, previous: -393"
+            },
+            {
+              "key": "Items that will not be reclassified to net income (loss)",
+              "value": "Net of income tax expense current: 1470, previous: 614"
+            },
+            {
+              "key": "Items that may be subsequently reclassified to net income (loss)",
+              "value": "Cumulative translation adjustment current: 2383, previous: -338"
+            },
+            {
+              "key": "Items that may be subsequently reclassified to net income (loss)",
+              "value": "Income tax recovery (expense) current: -310, previous: 44"
+            },
+            {
+              "key": "Items that may be subsequently reclassified to net income (loss)",
+              "value": "Net of income tax recovery (expense) current: 2073, previous: -294"
+            },
+            {
+              "key": "Total other comprehensive income for the year",
+              "value": "previous: 13888"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 67,
+          "title": "Partnership Financial Changes 2021-2022",
+          "data": [
+            {
+              "key": "Decrease in receivable from Partnership",
+              "value": "2022: -, 2021: 21"
+            },
+            {
+              "key": "Increase (decrease) in payable to Partnership",
+              "value": "2022: (76), 2021: 212"
+            },
+            {
+              "key": "Total",
+              "value": "2022: (76), 2021: 233"
+            }
+          ],
+          "currency": "CAD"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "dividend_policy",
+          "page": 66,
+          "title": "Dividends Overview",
+          "data": [
+            {
+              "key": "Dividends paid (2022, Q1)",
+              "value": "$1,781"
+            },
+            {
+              "key": "Share price (2022, Q1)",
+              "value": "$10.50"
+            },
+            {
+              "key": "Issuance of Common shares (2022, Q1)",
+              "value": "36,007"
+            },
+            {
+              "key": "Gross proceeds (2022, Q1)",
+              "value": "$378"
+            },
+            {
+              "key": "Dividends paid (2022, Q2)",
+              "value": "$1,788"
+            },
+            {
+              "key": "Share price (2022, Q2)",
+              "value": "$10.81"
+            },
+            {
+              "key": "Issuance of Common shares (2022, Q2)",
+              "value": "4,351"
+            },
+            {
+              "key": "Gross proceeds (2022, Q2)",
+              "value": "$47"
+            },
+            {
+              "key": "Dividends paid (2022, Q3)",
+              "value": "$1,788"
+            },
+            {
+              "key": "Share price (2022, Q3)",
+              "value": "$10.26"
+            },
+            {
+              "key": "Issuance of Common shares (2022, Q3)",
+              "value": "4,426"
+            },
+            {
+              "key": "Gross proceeds (2022, Q3)",
+              "value": "$46"
+            },
+            {
+              "key": "Dividends paid (2022, Q4)",
+              "value": "$1,789"
+            },
+            {
+              "key": "Share price (2022, Q4)",
+              "value": "$10.26"
+            },
+            {
+              "key": "Issuance of Common shares (2022, Q4)",
+              "value": "5,773"
+            },
+            {
+              "key": "Gross proceeds (2022, Q4)",
+              "value": "$58"
+            },
+            {
+              "key": "Dividends paid (2022, Total)",
+              "value": "$7,146"
+            },
+            {
+              "key": "Total Issuance of Common shares (2022)",
+              "value": "50,557"
+            },
+            {
+              "key": "Total Gross proceeds (2022)",
+              "value": "$529"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 68,
+          "title": "Dividend and Common Shares Movement Analysis 2021-2022",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Dividend payable"
+            },
+            {
+              "key": "As of January 1, 2021",
+              "value": "1755"
+            },
+            {
+              "key": "Dividends Paid Net (2021)",
+              "value": "-7058"
+            },
+            {
+              "key": "Movements Not in Financing (2021)",
+              "value": "7084"
+            },
+            {
+              "key": "As of December 31, 2021",
+              "value": "1781"
+            },
+            {
+              "key": "Category",
+              "value": "Common shares"
+            },
+            {
+              "key": "As of January 1, 2021",
+              "value": "20355"
+            },
+            {
+              "key": "Dividends Paid Net (2021)",
+              "value": "1498"
+            },
+            {
+              "key": "Movements Not in Financing (2021)",
+              "value": "-9"
+            },
+            {
+              "key": "As of December 31, 2021",
+              "value": "21844"
+            },
+            {
+              "key": "Category",
+              "value": "Total 2021"
+            },
+            {
+              "key": "As of January 1, 2021",
+              "value": "22110"
+            },
+            {
+              "key": "Dividends Paid Net (2021)",
+              "value": "-5560"
+            },
+            {
+              "key": "Movements Not in Financing (2021)",
+              "value": "7075"
+            },
+            {
+              "key": "As of December 31, 2021",
+              "value": "23625"
+            },
+            {
+              "key": "Category",
+              "value": "Dividend payable"
+            },
+            {
+              "key": "As of January 1, 2022",
+              "value": "1781"
+            },
+            {
+              "key": "Dividends Paid Net (2022)",
+              "value": "-7146"
+            },
+            {
+              "key": "Movements Not in Financing (2022)",
+              "value": "7155"
+            },
+            {
+              "key": "As of December 31, 2022",
+              "value": "1790"
+            },
+            {
+              "key": "Category",
+              "value": "Common shares"
+            },
+            {
+              "key": "As of January 1, 2022",
+              "value": "21844"
+            },
+            {
+              "key": "Dividends Paid Net (2022)",
+              "value": "529"
+            },
+            {
+              "key": "Movements Not in Financing (2022)",
+              "value": "6"
+            },
+            {
+              "key": "As of December 31, 2022",
+              "value": "22379"
+            },
+            {
+              "key": "Category",
+              "value": "Total 2022"
+            },
+            {
+              "key": "As of January 1, 2022",
+              "value": "23625"
+            },
+            {
+              "key": "Dividends Paid Net (2022)",
+              "value": "-6617"
+            },
+            {
+              "key": "Movements Not in Financing (2022)",
+              "value": "7161"
+            },
+            {
+              "key": "As of December 31, 2022",
+              "value": "24169"
+            }
+          ],
+          "currency": "CAD"
+        }
+      ]
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 27,
+          "title": "Contractual Obligations Summary",
+          "data": [
+            {
+              "key": "KPLP Senior Credit Facility, principal repayments",
+              "value": "C$90.3 million due in 2026"
+            },
+            {
+              "key": "Senior Unsecured Notes due April 24, 2025",
+              "value": "C$125.0 million due in 2025"
+            },
+            {
+              "key": "Senior Unsecured Notes due April 9, 2029",
+              "value": "C$135.0 million due thereafter"
+            },
+            {
+              "key": "Interest payments",
+              "value": "C$383.3 million over the entire period"
+            },
+            {
+              "key": "Total contractual obligations",
+              "value": "C$1,740.7 million total obligations"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 31,
+          "title": "Restrictive Covenants and Credit Agreements Overview",
+          "data": [
+            {
+              "key": "Indenture",
+              "value": "2029 Indenture contains certain restrictive covenants of KPLP."
+            },
+            {
+              "key": "restrictive_covenants",
+              "value": "Limitations on making certain restricted payments; restrictions on incurring certain indebtedness; restrictions on incurring certain liens; restrictions on transactions with affiliates; limitations on engaging in any line of business other than existing businesses."
+            },
+            {
+              "key": "AgCredit Agreement",
+              "value": "Credit agreement involving KPLP and related subsidiaries and lenders."
+            },
+            {
+              "key": "facilities",
+              "value": "Details of credit facilities including term loan facilities and revolving loans."
+            },
+            {
+              "key": "refinancing",
+              "value": "Fourth amendment to make available new term loan facility for refinancing borrowings."
+            },
+            {
+              "key": "KPSI Dedicated Account",
+              "value": "To deposit 75% of Canadian Borrower Excess Cash Flow for prepayment of Term D Credit Facility."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 32,
+          "title": "AgCredit Agreement Amendments and Financial Covenants",
+          "data": [
+            {
+              "key": "Collaterals",
+              "value": "Dedicated Account constitutes collateral and is subject to a Blocked Account Control Agreement."
+            },
+            {
+              "key": "Senior Lenders",
+              "value": "The agreement is in favour of KPSI’s senior lenders."
+            },
+            {
+              "key": "Facilities",
+              "value": "TAD Sherbrooke Project Facility and KTG Facility are each guaranteed by the borrowers and guarantors."
+            },
+            {
+              "key": "Security Interests",
+              "value": "First ranking security interests over all of their assets."
+            },
+            {
+              "key": "Recourse",
+              "value": "Non-recourse to KPLP."
+            },
+            {
+              "key": "Loan Cancellation",
+              "value": "Borrowers may voluntarily cancel or reduce the revolving loans."
+            },
+            {
+              "key": "Prepayment Terms",
+              "value": "Prepayment is allowed with payment of all accrued and unpaid interest."
+            },
+            {
+              "key": "Financial Covenants",
+              "value": "Must comply with certain financial covenants calculated on a Combined Basis."
+            },
+            {
+              "key": "Combined Leverage Ratio Cap",
+              "value": "Must not exceed 60%."
+            },
+            {
+              "key": "Combined Fixed Charge Coverage Ratio",
+              "value": "Minimum of 1.10 to 1.00 for specific fiscal quarters."
+            },
+            {
+              "key": "Fifth Amendment Date",
+              "value": "September 15, 2022."
+            },
+            {
+              "key": "Draw Amounts as of December 31, 2022",
+              "value": "US$180.5 million drawn on Term B, US$87.0 million drawn on Term D, among others."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 33,
+          "title": "KPSI IQ Debenture and Nordea2 Credit Agreement",
+          "data": [
+            {
+              "key": "Debenture Issuance Date",
+              "value": "November 19, 2018"
+            },
+            {
+              "key": "Principal Amount",
+              "value": "$105 million"
+            },
+            {
+              "key": "Interest Rate on Debenture",
+              "value": "3.0% per annum"
+            },
+            {
+              "key": "Redemption Terms",
+              "value": "Monthly basis commencing after 36 months"
+            },
+            {
+              "key": "Reorganization Effective Date",
+              "value": "January 1, 2023"
+            },
+            {
+              "key": "Nordea2 Credit Facility Amount",
+              "value": "US$48.8 million"
+            },
+            {
+              "key": "Nordea2 Credit Facility Maturity Date",
+              "value": "August 31, 2029"
+            },
+            {
+              "key": "Interest Rate on Nordea2 Credit Facility",
+              "value": "3.74% per annum"
+            },
+            {
+              "key": "Repayment Schedule",
+              "value": "17 equal consecutive semi-annual installments commencing August 28, 2021"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 56,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "As of January 1, 2021",
+              "value": "Common Shares Count: 9751771, Common Shares Amount: 20355, Surplus: 144819, Deficit: -111907, Income: 13061, Equity: 66328"
+            },
+            {
+              "key": "As of December 31, 2021",
+              "value": "Common Shares Count: 9895419, Common Shares Amount: 21844, Surplus: 144819, Deficit: -103561, Income: 12767, Equity: 75869"
+            },
+            {
+              "key": "As of January 1, 2022",
+              "value": "Common Shares Count: 9895419, Common Shares Amount: 21844, Surplus: 144819, Deficit: -103561, Income: 12767, Equity: 75869"
+            }
+          ],
+          "currency": "CAD"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 16,
+          "title": "Risk Factors Related to Kruger Products",
+          "data": [
+            {
+              "key": "labour disputes",
+              "value": "adversely affecting Kruger Products’ cost structure and ability to run its plants"
+            },
+            {
+              "key": "exchange rate",
+              "value": "risk related to U.S. competitors"
+            },
+            {
+              "key": "indebtedness",
+              "value": "inability to service all of its indebtedness"
+            },
+            {
+              "key": "consumer product liability",
+              "value": "potential exposure to liability"
+            },
+            {
+              "key": "covenant compliance",
+              "value": "risk of non-compliance"
+            },
+            {
+              "key": "interest rate and refinancing risk",
+              "value": "associated with debt obligations"
+            },
+            {
+              "key": "information technology",
+              "value": "risks associated with IT systems"
+            },
+            {
+              "key": "cyber-security",
+              "value": "risk of cyber threats"
+            },
+            {
+              "key": "internal controls",
+              "value": "adequacy of internal controls"
+            },
+            {
+              "key": "trade related risks",
+              "value": "impact of trade regulations"
+            },
+            {
+              "key": "COVID-19",
+              "value": "risk related to pandemic situations"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 39,
+          "title": "Commodity Price Risk",
+          "data": [
+            {
+              "key": "Risk Description",
+              "value": "Commodity price risk associated with raw materials, specifically fibre."
+            },
+            {
+              "key": "Impact",
+              "value": "Risk of earnings volatility due to fluctuations in commodity prices."
+            },
+            {
+              "key": "Mitigation Strategy",
+              "value": "Passing costs to customers depending on supply and demand balance."
+            },
+            {
+              "key": "Hedging",
+              "value": "Use of futures contracts to manage commodity risk."
+            },
+            {
+              "key": "History of Cost Passing",
+              "value": "No assurance that historical ability to pass through cost increases will continue."
+            },
+            {
+              "key": "Related Party Transactions",
+              "value": "Transactions with Kruger for management services and other support."
+            },
+            {
+              "key": "Management Fees to Kruger",
+              "value": "$7.8 million for Fiscal 2022."
+            },
+            {
+              "key": "Sales to Kruger Inc.",
+              "value": "$0.3 million (Fiscal 2022) and $4.1 million to subsidiaries."
+            },
+            {
+              "key": "Purchases from Kruger Inc.",
+              "value": "$8.0 million (Fiscal 2022) and $57.9 million from subsidiaries."
+            },
+            {
+              "key": "Off Balance Sheet Arrangements",
+              "value": "Right-of-use lease commitments related to various assets."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 50,
+          "title": "Key audit matter Impairment indicator assessment on the equity accounted investment in Kruger Products L.P.",
+          "data": [
+            {
+              "key": "Investment held by the Corporation",
+              "value": "13.9% interest in Kruger Products L.P. (KPLP)"
+            },
+            {
+              "key": "Carrying amount",
+              "value": "$79.3 million"
+            },
+            {
+              "key": "Date of assessment",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Impairment test requirement",
+              "value": "No objective evidence indicating a requirement for an impairment test"
+            },
+            {
+              "key": "Key audit consideration",
+              "value": "Management's judgment in assessing impairment indicators"
+            },
+            {
+              "key": "Audit procedures performed",
+              "value": "Evaluated reasonableness of management’s impairment indicator assessment by performing audits of consolidated financial statements."
+            },
+            {
+              "key": "Market capitalization vs net assets comparison",
+              "value": "Performed recalculation and comparison as of December 31, 2022."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 1,
+          "title": "Cautionary Forward Looking Statement",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "This section covers a broad overview of the report."
+            },
+            {
+              "key": "Business Highlights",
+              "value": "Summarizes key performance indicators and achievements."
+            },
+            {
+              "key": "Results of Operations",
+              "value": "Detailed financial results and operational metrics."
+            },
+            {
+              "key": "Segment Information",
+              "value": "Breakdown of performance by business segments."
+            },
+            {
+              "key": "Liquidity and Capital Resources",
+              "value": "Assessment of financial liquidity and capital sustainability."
+            },
+            {
+              "key": "Financial Instruments and Other Instruments",
+              "value": "Details regarding financial instruments held."
+            },
+            {
+              "key": "Transactions with Related Parties",
+              "value": "Discussion on transactions involving related entities."
+            },
+            {
+              "key": "Off Balance Sheet Arrangements and Contractual Obligations",
+              "value": "Overview of any significant off-balance sheet transactions."
+            },
+            {
+              "key": "Critical Accounting Estimates",
+              "value": "Description of significant accounting estimates used."
+            },
+            {
+              "key": "Accounting Changes and Future Accounting Standards",
+              "value": "Updates on changes in accounting practices."
+            },
+            {
+              "key": "Selected Annual Financial Information",
+              "value": "Annual financial data summary."
+            },
+            {
+              "key": "Selected Quarterly Financial Information",
+              "value": "Quarterly financial performance overview."
+            },
+            {
+              "key": "Share Information",
+              "value": "Information regarding shareholdings and equity."
+            },
+            {
+              "key": "Risk Factors",
+              "value": "Identification of principal risk factors."
+            },
+            {
+              "key": "Controls and Procedures",
+              "value": "Overview of internal controls and procedures implemented."
+            },
+            {
+              "key": "Additional Information",
+              "value": "Miscellaneous relevant information."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 15,
+          "title": "Management's Discussion and Analysis for KP Tissue Inc. and Kruger Products L.P.",
+          "data": [
+            {
+              "key": "MD&A Date",
+              "value": "March 9, 2023"
+            },
+            {
+              "key": "KPT Interest in KPLP",
+              "value": "13.9%"
+            },
+            {
+              "key": "KPT Interest in Kruger Products",
+              "value": "13.7%"
+            },
+            {
+              "key": "Reorganization Details",
+              "value": "KPLP sold and assigned all of its properties, operations, assets and liabilities to Kruger Products."
+            },
+            {
+              "key": "Reorganization Date",
+              "value": "January 1, 2023"
+            },
+            {
+              "key": "Cautionary Statements",
+              "value": "Contains forward-looking statements about KPT's and Kruger Products' plans, expectations, and intentions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 30,
+          "title": "Details of KPLP's Senior Unsecured Notes due April 9, 2029",
+          "data": [
+            {
+              "key": "aggregate principal amount",
+              "value": "$135 million"
+            },
+            {
+              "key": "interest rate",
+              "value": "5.375% per year"
+            },
+            {
+              "key": "issue date",
+              "value": "April 8, 2021"
+            },
+            {
+              "key": "redemption price for 2024",
+              "value": "102.688%"
+            },
+            {
+              "key": "redemption price for 2025",
+              "value": "101.344%"
+            },
+            {
+              "key": "redemption price for 2026 and thereafter",
+              "value": "100.000%"
+            },
+            {
+              "key": "Change of Control payment",
+              "value": "101% of aggregate principal plus accrued interest"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 37,
+          "title": "KPSB Construction Facility Financial Obligations",
+          "data": [
+            {
+              "key": "Facility Type",
+              "value": "Non-revolving"
+            },
+            {
+              "key": "Principal Repayment",
+              "value": "1.875% quarterly installments and 50% of annual Excess Cash Flow"
+            },
+            {
+              "key": "Senior Leverage Ratio",
+              "value": "4.75x for first 7 fiscal quarters, 3.75x for 8-11 fiscal quarters, 3.25x thereafter"
+            },
+            {
+              "key": "Total Leverage Ratio",
+              "value": "7.00x for first 7 fiscal quarters, 5.25x for 8-11 fiscal quarters, 4.50x thereafter"
+            },
+            {
+              "key": "Fixed Charge Coverage Ratio",
+              "value": "1.10x for first 7 fiscal quarters, 1.25x thereafter"
+            },
+            {
+              "key": "Credit Risk",
+              "value": "Risk of loss from customer or counterparty default"
+            },
+            {
+              "key": "Factoring Arrangement",
+              "value": "Established with Bank of Nova Scotia, limit $50 million"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 38,
+          "title": "KPLP Receivables Purchase Agreement Overview",
+          "data": [
+            {
+              "key": "Factoring Arrangement",
+              "value": "KPLP receives 95% of customer invoices sold net of a dilution factor."
+            },
+            {
+              "key": "Interest Rate",
+              "value": "Floating interest rate based on CDOR plus applicable margin."
+            },
+            {
+              "key": "Termination Clause",
+              "value": "Either party may terminate the Receivables Purchase Agreement at any time subject to a notice period."
+            },
+            {
+              "key": "Factoring Receivables Sold FY2022",
+              "value": "$674.3 million"
+            },
+            {
+              "key": "Factored Trade Receivables Sold",
+              "value": "95% of trade receivables sold for $672.4 million."
+            },
+            {
+              "key": "Currency Risk",
+              "value": "Risk of earnings fluctuation due to changes in Canadian to U.S. dollar exchange rates."
+            },
+            {
+              "key": "Net Liabilities U.S. Dollars",
+              "value": "$421.2 million (as of December 31, 2022)."
+            },
+            {
+              "key": "Impact of Currency Change",
+              "value": "Hypothetical result on net income before tax would be an increase of $21.1 million."
+            },
+            {
+              "key": "Liquidity Risk Management",
+              "value": "Maintain sufficient cash and cash equivalents, sufficient authorized credit facilities."
+            },
+            {
+              "key": "Interest Rate Risk",
+              "value": "Arises from variable rate debt related to several credit facilities."
+            },
+            {
+              "key": "Variable Rate Debt FY2022",
+              "value": "$106.9 million."
+            },
+            {
+              "key": "Impact of Interest Rate Change",
+              "value": "A 100 basis point increase in interest would decrease net income by $1.1 million."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 40,
+          "title": "Future Estimates and Assumptions Impacting Financial Statements",
+          "data": [
+            {
+              "key": "Future Impact on Financial Statements",
+              "value": "Actual results could differ materially from estimates and assumptions."
+            },
+            {
+              "key": "Pension and Post-Retirement Benefit Obligations",
+              "value": "Cost and accrued benefit plan obligations are based on actuarial valuations."
+            },
+            {
+              "key": "Assumptions Used",
+              "value": "Discount rate, growth rate of healthcare costs, rate of compensation increase, retirement ages, mortality rates."
+            },
+            {
+              "key": "Partnership Unit Liability",
+              "value": "KPLP to make distributions to partners based on taxable income."
+            },
+            {
+              "key": "Tax Distribution",
+              "value": "KPLP reclassified a portion of its equity to Partnership units liability for accounting purposes."
+            },
+            {
+              "key": "Valuation of Partnership units liability",
+              "value": "Updated annually based on estimates of taxable income and tax rates."
+            },
+            {
+              "key": "Liability Amount",
+              "value": "As of December 31, 2022, $133.6 million recorded as liability."
+            },
+            {
+              "key": "Discount Rate",
+              "value": "Valuation utilized a discount rate of 9.75% (2021 - 8.75%)."
+            },
+            {
+              "key": "Amortized Cost Gain/Loss",
+              "value": "A gain of $25.6 million was recorded in Fiscal 2022."
+            },
+            {
+              "key": "Reorganization Impact",
+              "value": "Partnership unit liability was extinguished due to the dissolution of the Partnership Agreement."
+            },
+            {
+              "key": "Equity Method of Accounting",
+              "value": "KPT applies the equity method for its investment in KPLP."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 46,
+          "title": "Corporate and Other Costs Q4 2022 vs Q4 2021",
+          "data": [
+            {
+              "key": "Corporate and other costs loss Q4 2022",
+              "value": "$4.0 million"
+            },
+            {
+              "key": "Corporate and other costs loss Q4 2021",
+              "value": "$3.7 million"
+            },
+            {
+              "key": "Increase in loss",
+              "value": "$0.3 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 46,
+          "title": "Share Information",
+          "data": [
+            {
+              "key": "Authorized share capital",
+              "value": "Unlimited number of KPT Common Shares"
+            },
+            {
+              "key": "Issued and outstanding KPT Common Shares",
+              "value": "9,950,658"
+            },
+            {
+              "key": "Potentially dilutive instruments",
+              "value": "None"
+            },
+            {
+              "key": "Issued and outstanding Kruger Products Common Shares",
+              "value": "72,572,012"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 46,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Disclosure of risk factors",
+              "value": "Detailed description available in the 2022 Annual Information Form"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 46,
+          "title": "Controls and Procedures",
+          "data": [
+            {
+              "key": "Internal controls purpose",
+              "value": "Provide reasonable assurance over financial reporting"
+            },
+            {
+              "key": "Certifications required by CEO and CFO",
+              "value": "To be filed with Canadian Securities Administrators"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 52,
+          "title": "Auditor’s Responsibilities for the Audit of the Financial Statements",
+          "data": [
+            {
+              "key": "Audit Objectives",
+              "value": "Obtain reasonable assurance about whether the financial statements are free from material misstatement."
+            },
+            {
+              "key": "Management Responsibilities",
+              "value": "Responsible for overseeing the Corporation’s financial reporting process."
+            },
+            {
+              "key": "Misstatement Materiality",
+              "value": "Misstatements are considered material if they could influence economic decisions."
+            },
+            {
+              "key": "Audit Standards",
+              "value": "Conducted in accordance with Canadian generally accepted auditing standards."
+            },
+            {
+              "key": "Fraud vs Error",
+              "value": "Risk of not detecting a material misstatement resulting from fraud is higher than for error."
+            },
+            {
+              "key": "Internal Control",
+              "value": "Understanding of internal control relevant to audit for appropriate procedures."
+            },
+            {
+              "key": "Going Concern",
+              "value": "Evaluate appropriateness of management’s use of going concern basis of accounting."
+            },
+            {
+              "key": "Future Events",
+              "value": "Future events may impact Corporation's ability to continue as a going concern."
+            },
+            {
+              "key": "Financial Statements Presentation",
+              "value": "Evaluate overall presentation, structure, and content of financial statements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 58,
+          "title": "General Information and Basis of Financial Statement Presentation",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "KP Tissue Inc."
+            },
+            {
+              "key": "Reporting Date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Interest in Associated Company",
+              "value": "13.9% in Kruger Products L.P."
+            },
+            {
+              "key": "Reorganization Details",
+              "value": "Corporate reorganization into Kruger Products Inc. on January 1, 2023."
+            },
+            {
+              "key": "Approval Date",
+              "value": "March 8, 2023"
+            },
+            {
+              "key": "Accounting Standards",
+              "value": "International Financial Reporting Standards (IFRS)"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 20,
+          "title": "Corporate Reorganization Summary",
+          "data": [
+            {
+              "key": "Reorganization Date",
+              "value": "January 1, 2023"
+            },
+            {
+              "key": "Entities Involved",
+              "value": "KPLP, Kruger Products, KPT, Kruger Inc."
+            },
+            {
+              "key": "Purpose of Reorganization",
+              "value": "Tax efficiencies and simplification of corporate structure"
+            },
+            {
+              "key": "Outcome of Reorganization",
+              "value": "KPLP dissolved, Kruger Products as successor"
+            },
+            {
+              "key": "Shareholders’ Agreement Date",
+              "value": "January 1, 2023"
+            },
+            {
+              "key": "Dividend Policy",
+              "value": "Board of directors of Kruger Products shall determine dividends"
+            },
+            {
+              "key": "Dividend Reinvestment Plan",
+              "value": "Kruger Products DRIP allows reinvestment of cash dividends in additional common shares"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 42,
+          "title": "Accounting Changes and Future Accounting Standards",
+          "data": [
+            {
+              "key": "Accounting Standards Implemented",
+              "value": "IFRS 3, IAS 37, IAS 16"
+            },
+            {
+              "key": "Mandatory Effective Date",
+              "value": "January 1, 2022"
+            },
+            {
+              "key": "Future Accounting Standards",
+              "value": "IAS 1, IAS 8, IAS 12"
+            },
+            {
+              "key": "Assessment by Management",
+              "value": "KPLP and KPT Management are assessing impacts"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 11,
+          "title": "Awards and Recognitions",
+          "data": [
+            {
+              "key": "Highlights",
+              "value": "These awards highlight our ongoing commitment to raise our status as a responsible corporate citizen."
+            },
+            {
+              "key": "Dedication",
+              "value": "They reflect the dedication and hard work of our employees, who make it a priority every day to better serve our customers, suppliers and community."
+            },
+            {
+              "key": "Shareholder Value",
+              "value": "The path to long-term shareholder value is built on meeting the needs of all stakeholders while growing the business."
+            },
+            {
+              "key": "Recognition 1",
+              "value": "Canada’s Best Managed Companies for 5th consecutive year, Gold Member"
+            },
+            {
+              "key": "Recognition 2",
+              "value": "Corporate Knights’ Best 50 Corporate Citizens in Canada for 5th consecutive year"
+            },
+            {
+              "key": "Recognition 3",
+              "value": "Greater Toronto Area Top Employer for 10th consecutive year"
+            },
+            {
+              "key": "Recognition 4",
+              "value": "Women In Governance, Bronze Level Parity Certification"
+            },
+            {
+              "key": "Recognition 5",
+              "value": "Canadian Grocer Annual Impact Awards, Community Service for Kruger"
+            },
+            {
+              "key": "Recognition 6",
+              "value": "Product of the Year Canada, Household Paper Towel, SpongeTowels Ultra Pro"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 12,
+          "title": "Kruger Products' Sustainable Development Plan — Reimagine 2030",
+          "data": [
+            {
+              "key": "Objective",
+              "value": "Positive impact on the planet while growing the business"
+            },
+            {
+              "key": "Pillars",
+              "value": "Products Empower, Planet Conscious, Employee Impact, Community Embrace"
+            },
+            {
+              "key": "GHG Emissions Reduction Target by 2030",
+              "value": "25% (vs. 2009 benchmark)"
+            },
+            {
+              "key": "Water Consumption Reduction Target by 2030",
+              "value": "50% (vs. 2009)"
+            },
+            {
+              "key": "Virgin Plastic Packaging Reduction Target by 2030",
+              "value": "50% (vs. 2020 baseline)"
+            },
+            {
+              "key": "Fiber Certification Target by 2030",
+              "value": "100% third-party certified fibers"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 367,
+    "AUD": 68,
+    "CAD": 34
+  },
+  "sha1": "d14ae2b6284e48b5c1e6659a0a5863d84697b3b9"
+}

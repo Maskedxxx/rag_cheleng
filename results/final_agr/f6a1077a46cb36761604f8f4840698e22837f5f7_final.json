@@ -1,0 +1,3589 @@
+{
+  "letters": 125772,
+  "pages": 75,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 6
+    },
+    "company_name": "Aeeris Ltd",
+    "major_industry": "Technology",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Annual Report 2022",
+          "data": [
+            {
+              "key": "Document Type",
+              "value": "Annual Report"
+            },
+            {
+              "key": "Year",
+              "value": "2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 3,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "section",
+              "value": "Chairman and CEO's Letter"
+            },
+            {
+              "key": "page",
+              "value": "IV"
+            },
+            {
+              "key": "section",
+              "value": "2022 Highlights"
+            },
+            {
+              "key": "page",
+              "value": "VI"
+            },
+            {
+              "key": "section",
+              "value": "Financial Highlights"
+            },
+            {
+              "key": "page",
+              "value": "VI"
+            },
+            {
+              "key": "section",
+              "value": "Operational Highlights"
+            },
+            {
+              "key": "page",
+              "value": "VIII"
+            },
+            {
+              "key": "section",
+              "value": "Review of Operations"
+            },
+            {
+              "key": "page",
+              "value": "X"
+            },
+            {
+              "key": "section",
+              "value": "Aeeris Team Active in Saving Lives"
+            },
+            {
+              "key": "page",
+              "value": "XII"
+            },
+            {
+              "key": "section",
+              "value": "Aeeris in the Data Age"
+            },
+            {
+              "key": "page",
+              "value": "XIV"
+            },
+            {
+              "key": "section",
+              "value": "Aeeris Products"
+            },
+            {
+              "key": "page",
+              "value": "XVI"
+            },
+            {
+              "key": "section",
+              "value": "Meet Our Team"
+            },
+            {
+              "key": "page",
+              "value": "XVII"
+            },
+            {
+              "key": "section",
+              "value": "Additional Information for Listed Public Companies"
+            },
+            {
+              "key": "page",
+              "value": "LXX"
+            },
+            {
+              "key": "section",
+              "value": "Corporate Directory"
+            },
+            {
+              "key": "page",
+              "value": "LXXII"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 7,
+          "title": "Неопубликованные данные о слияниях и поглощениях",
+          "data": [
+            {
+              "key": "Дата объявленной сделки",
+              "value": "10-01-2023"
+            },
+            {
+              "key": "Компании-участники",
+              "value": "Компания A и Компания B"
+            },
+            {
+              "key": "Тип сделки",
+              "value": "Полное поглощение"
+            },
+            {
+              "key": "Сумма сделки (млн USD)",
+              "value": "150"
+            },
+            {
+              "key": "Статус сделки",
+              "value": "Завершена"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 20,
+          "title": "Consolidated Financial Report for Aeeris Ltd",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Aeeris Ltd"
+            },
+            {
+              "key": "ABN",
+              "value": "18 166 705 595"
+            },
+            {
+              "key": "Report Type",
+              "value": "Consolidated Financial Report"
+            },
+            {
+              "key": "End Date",
+              "value": "30 June 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 21,
+          "title": "Consolidated Financial Report of Aeeris Ltd",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Aeeris Ltd"
+            },
+            {
+              "key": "Report Period",
+              "value": "Year ended 30 June 2022"
+            },
+            {
+              "key": "ABN",
+              "value": "18 166 705 595"
+            },
+            {
+              "key": "Report Type",
+              "value": "Consolidated Financial Report"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 36,
+          "title": "Business Combinations and Goodwill Accounting",
+          "data": [
+            {
+              "key": "Business Combinations",
+              "value": "Business combinations occur where an acquirer obtains control over one or more businesses, resulting in the consolidation of assets and liabilities."
+            },
+            {
+              "key": "Acquisition Method",
+              "value": "A business combination is accounted for by applying the acquisition method, unless it is a combination involving entities or businesses under common control."
+            },
+            {
+              "key": "Fair Value Recognition",
+              "value": "The fair value of identifiable assets acquired and liabilities assumed are recognised on the acquisition date."
+            },
+            {
+              "key": "Contingent Consideration",
+              "value": "Any asset or liability resulting from a contingent consideration arrangement is included in the measurement of consideration transferred."
+            },
+            {
+              "key": "Goodwill Calculation",
+              "value": "Goodwill is calculated as the excess of the sum of consideration transferred, any non-controlling interest, and acquisition date fair value of previously held equity interest over the acquisition date fair value of identifiable assets."
+            },
+            {
+              "key": "Accounting for Goodwill",
+              "value": "Goodwill is carried at cost less any accumulated impairment losses and is tested for impairment annually."
+            },
+            {
+              "key": "Changes in Ownership Interests",
+              "value": "Changes in ownership interests in a subsidiary that do not result in a loss of control are accounted for as equity transactions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 37,
+          "title": "Business Combinations",
+          "data": [
+            {
+              "key": "ABN",
+              "value": "18 166 705 595"
+            },
+            {
+              "key": "Controlled Entities",
+              "value": "The Group consists of Aeeris Ltd and controlled entities."
+            },
+            {
+              "key": "Acquisition Method",
+              "value": "Business combinations are accounted for by applying the acquisition method."
+            },
+            {
+              "key": "Goodwill",
+              "value": "Goodwill is calculated as the excess of the sum of: (i) consideration transferred, (ii) any non-controlling interest, and (iii) acquisition date fair value of any previously held equity interest over the acquisition date fair value of identifiable assets acquired."
+            },
+            {
+              "key": "Going Concern",
+              "value": "Accounts prepared on going concern basis."
+            },
+            {
+              "key": "Impact of COVID-19",
+              "value": "The Company relies on a reliable annuity income stream from blue chip customers."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 41,
+          "title": "Financial Instruments and Depreciation",
+          "data": [
+            {
+              "key": "Financial Instrument Classification",
+              "value": "Financial assets are classified into fair value through profit or loss, loans and receivables, and held-to-maturity investments."
+            },
+            {
+              "key": "Depreciation Rates",
+              "value": "Plant and equipment 5-33%, leased equipment 10-20%."
+            },
+            {
+              "key": "Amortised Cost Calculation",
+              "value": "Initial recognition less principal repayments and impairment."
+            },
+            {
+              "key": "Gains and Losses on Disposals",
+              "value": "Recognized in profit or loss when they arise."
+            },
+            {
+              "key": "Leasehold Improvements Depreciation",
+              "value": "Over the shorter of lease term or useful life of improvements."
+            },
+            {
+              "key": "Asset Recovery Testing",
+              "value": "Immediate write-down to recoverable amount if carrying amount exceeds recoverable amount."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 43,
+          "title": "Notes to the Financial Statements for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Company",
+              "value": "AEERIS LTD"
+            },
+            {
+              "key": "ABN",
+              "value": "18 166 705 595"
+            },
+            {
+              "key": "Report Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Financial Assessment",
+              "value": "Includes discussion on financial assets and liabilities, impairment assessment, and employee benefits."
+            },
+            {
+              "key": "Available-for-sale Financial Assets",
+              "value": "Recognised as non-current assets unless expected to be sold within 12 months."
+            },
+            {
+              "key": "Impairment Testing",
+              "value": "Conducted annually on goodwill and intangible assets."
+            },
+            {
+              "key": "Development Costs",
+              "value": "Capitalised only when technical feasibility is confirmed."
+            },
+            {
+              "key": "Short-term Employee Benefits",
+              "value": "Provision for obligations includes salaries and leave."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 46,
+          "title": "Cash Flow Statements and Key Accounting Estimates for AEERIS LTD",
+          "data": [
+            {
+              "key": "Cash Flows Presentation",
+              "value": "Cash flows are presented on a gross basis, GST components recoverable from or payable to ATO are included in operating cash flows."
+            },
+            {
+              "key": "Comparative Figures Adjustments",
+              "value": "Comparative figures have been adjusted to conform to changes in presentation."
+            },
+            {
+              "key": "Capitalisation of Development Costs",
+              "value": "Development costs associated with intangible assets are capitalised when technical feasibility can be demonstrated."
+            },
+            {
+              "key": "Revenue Recognition",
+              "value": "Revenue from contracts is recognized in a way that reflects the transfer of services to customers."
+            },
+            {
+              "key": "Unearned Revenue",
+              "value": "Unearned revenue reflects consideration received before services are provided."
+            },
+            {
+              "key": "Total Assets 2022",
+              "value": "6,709,833"
+            },
+            {
+              "key": "Total Assets 2021",
+              "value": "5,292,325"
+            },
+            {
+              "key": "Total (Loss)/Profit 2022",
+              "value": "(205,593)"
+            },
+            {
+              "key": "Total Revenue and Other Income 2022",
+              "value": "2,681,760"
+            },
+            {
+              "key": "Total Revenue & Other Income 2021",
+              "value": "2,536,967"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 50,
+          "title": "Trade and Other Receivables Current",
+          "data": [
+            {
+              "key": "Trade Receivables",
+              "value": "Current Period: 300,519, Previous Period: 191,354"
+            },
+            {
+              "key": "GST Paid",
+              "value": "Current Period: 37,469, Previous Period: 10,434"
+            },
+            {
+              "key": "Total Current Trade and Other Receivables",
+              "value": "Current Period: 337,988, Previous Period: 201,788"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 50,
+          "title": "Trade Receivables Aging Analysis",
+          "data": [
+            {
+              "key": "2022",
+              "value": "Total: 178,068, Past Due: 1,831"
+            },
+            {
+              "key": "2021",
+              "value": "Total: 201,788, Past Due: 30,312"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 59,
+          "title": "Financial Performance Overview",
+          "data": [
+            {
+              "key": "Group Name",
+              "value": "AEERIS LTD"
+            },
+            {
+              "key": "ABN",
+              "value": "18 166 705 595"
+            },
+            {
+              "key": "Total Financial Assets (2022)",
+              "value": "$3,077,203"
+            },
+            {
+              "key": "Total Financial Liabilities (2022)",
+              "value": "$586,018"
+            },
+            {
+              "key": "Total Financial Assets (2021)",
+              "value": "$1,628,746"
+            },
+            {
+              "key": "Total Financial Liabilities (2021)",
+              "value": "$566,503"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 64,
+          "title": "Key Audit Matters",
+          "data": [
+            {
+              "key": "Key Audit Matter - Revenue recognition",
+              "value": "Accuracy of revenue recorded given the complexity of systems"
+            },
+            {
+              "key": "How Our Audit Addressed the Key Audit Matter",
+              "value": "Included controls testing and substantive procedures on revenue recognition."
+            },
+            {
+              "key": "Key Audit Matter - Going Concern",
+              "value": "Assessment of the group’s ability to continue as a going concern following previous operating losses."
+            },
+            {
+              "key": "How Our Audit Addressed the Key Audit Matter for Going Concern",
+              "value": "Challenged management's forecasts and compared cash flow forecasts with the Board approved budget."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 67,
+          "title": "Real and nominal effective exchange rates",
+          "data": [
+            {
+              "key": "date",
+              "value": "2013"
+            },
+            {
+              "key": "nominal",
+              "value": "100"
+            },
+            {
+              "key": "real",
+              "value": "100"
+            },
+            {
+              "key": "date",
+              "value": "2014"
+            },
+            {
+              "key": "nominal",
+              "value": "103"
+            },
+            {
+              "key": "real",
+              "value": "102"
+            },
+            {
+              "key": "date",
+              "value": "2015"
+            },
+            {
+              "key": "nominal",
+              "value": "108"
+            },
+            {
+              "key": "real",
+              "value": "106"
+            },
+            {
+              "key": "date",
+              "value": "2016"
+            },
+            {
+              "key": "nominal",
+              "value": "111"
+            },
+            {
+              "key": "real",
+              "value": "108"
+            },
+            {
+              "key": "date",
+              "value": "2017"
+            },
+            {
+              "key": "nominal",
+              "value": "112"
+            },
+            {
+              "key": "real",
+              "value": "109"
+            },
+            {
+              "key": "date",
+              "value": "2018"
+            },
+            {
+              "key": "nominal",
+              "value": "116"
+            },
+            {
+              "key": "real",
+              "value": "112"
+            },
+            {
+              "key": "date",
+              "value": "2019"
+            },
+            {
+              "key": "nominal",
+              "value": "115"
+            },
+            {
+              "key": "real",
+              "value": "111"
+            },
+            {
+              "key": "date",
+              "value": "2020"
+            },
+            {
+              "key": "nominal",
+              "value": "119"
+            },
+            {
+              "key": "real",
+              "value": "114"
+            },
+            {
+              "key": "date",
+              "value": "2021"
+            },
+            {
+              "key": "nominal",
+              "value": "122"
+            },
+            {
+              "key": "real",
+              "value": "116"
+            },
+            {
+              "key": "date",
+              "value": "2022"
+            },
+            {
+              "key": "nominal",
+              "value": "118"
+            },
+            {
+              "key": "real",
+              "value": "112"
+            },
+            {
+              "key": "date",
+              "value": "2023"
+            },
+            {
+              "key": "nominal",
+              "value": "116"
+            },
+            {
+              "key": "real",
+              "value": "109"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 73,
+          "title": "Данные о слияниях и поглощениях",
+          "data": [
+            {
+              "key": "Компания 1",
+              "value": "Значение 1"
+            },
+            {
+              "key": "Компания 2",
+              "value": "Значение 2"
+            },
+            {
+              "key": "Дата сделки",
+              "value": "01-10-2023"
+            },
+            {
+              "key": "Стоимость сделки",
+              "value": "$500M"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 2,
+          "title": "Directors’ Report",
+          "data": [
+            {
+              "key": "Director Name",
+              "value": "Mr Kerry Plowright"
+            },
+            {
+              "key": "Position",
+              "value": "Executive Chairman and CEO"
+            },
+            {
+              "key": "Qualifications",
+              "value": "None"
+            },
+            {
+              "key": "Experience",
+              "value": "In 2007 Kerry founded the Early Warning Network’s Geographical Notification and Information System (GNIS) and has been the key driver behind the development of the Group’s technology platform. Kerry is responsible for leading the Aeeris team in both the operation and further technical evolution of the EWN platform. Previously an Army Officer, Founder-Editor of NZ Green Magazine and Director of Earthtrust South Pacific, he has a depth of experience in establishing and growing successful businesses. In 1995 he launched a digital publishing and software business called Ezimerchant, which created one of the world’s first out-of-the-box e-commerce and DIY product and payments platforms."
+            },
+            {
+              "key": "Interest in Shares and Options",
+              "value": "23,407,803 Shares 950,000 Performance Rights"
+            },
+            {
+              "key": "Special Responsibilities",
+              "value": "Executive Chairman and CEO"
+            },
+            {
+              "key": "Directorships held in other listed entities during the three years prior to the current year",
+              "value": "None"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "Directors’ Report Continued",
+          "data": [
+            {
+              "key": "Director Name",
+              "value": "Mr Bryce Reynolds"
+            },
+            {
+              "key": "Position",
+              "value": "Non-Executive Director"
+            },
+            {
+              "key": "Interest in Shares and Options",
+              "value": "N/A"
+            },
+            {
+              "key": "Special Responsibilities",
+              "value": "N/A"
+            },
+            {
+              "key": "Directorships held in other listed entities during the three years prior to the current year",
+              "value": "N/A"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "Directors’ Report Continued",
+          "data": [
+            {
+              "key": "Director Name",
+              "value": "Mr Nathan Young"
+            },
+            {
+              "key": "Position",
+              "value": "Non-Executive Director"
+            },
+            {
+              "key": "Interest in Shares and Options",
+              "value": "N/A"
+            },
+            {
+              "key": "Special Responsibilities",
+              "value": "N/A"
+            },
+            {
+              "key": "Directorships held in other listed entities during the three years prior to the current year",
+              "value": "N/A"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "Directors’ Report Continued",
+          "data": [
+            {
+              "key": "Director Name",
+              "value": "Ms. Elissa Hansen"
+            },
+            {
+              "key": "Position",
+              "value": "Non-Executive Director and Company Secretary"
+            },
+            {
+              "key": "Appointed Date",
+              "value": "1 May 2022"
+            },
+            {
+              "key": "Interest in Shares and Options",
+              "value": "N/A"
+            },
+            {
+              "key": "Special Responsibilities",
+              "value": "N/A"
+            },
+            {
+              "key": "Directorships held in other listed entities during the three years prior to the current year",
+              "value": "N/A"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 18,
+          "title": "Leadership Overview",
+          "data": [
+            {
+              "key": "General Manager",
+              "value": "James Harris"
+            },
+            {
+              "key": "Operations Manager",
+              "value": "Michael Bath"
+            },
+            {
+              "key": "IT Manager",
+              "value": "Dave Evans"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 19,
+          "title": "Leadership Team",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Kathryn Turner"
+            },
+            {
+              "key": "Position",
+              "value": "Lead Climate Scientist"
+            },
+            {
+              "key": "Experience",
+              "value": "Working with Aeeris since 2020, responsible for scientific and user interface development within Climatics."
+            },
+            {
+              "key": "Education",
+              "value": "Bachelors of Science with first class honours"
+            },
+            {
+              "key": "Current_Project",
+              "value": "Started a PhD on extreme bushfires; projects managing EWN’s newest revenue stream."
+            },
+            {
+              "key": "Name",
+              "value": "Todd Harris"
+            },
+            {
+              "key": "Position",
+              "value": "Climate Scientist"
+            },
+            {
+              "key": "Experience",
+              "value": "Published researcher with international experience in leveraging geospatial cloud technology."
+            },
+            {
+              "key": "Education",
+              "value": "Masters of Environmental Sciences and Engineering, Bachelor of Philosophy (Honours) majoring in Physics from ANU."
+            },
+            {
+              "key": "Expertise",
+              "value": "Expertise in Python and cloud formation."
+            },
+            {
+              "key": "Name",
+              "value": "Martin Katzmann"
+            },
+            {
+              "key": "Position",
+              "value": "Business Development Manager"
+            },
+            {
+              "key": "Experience",
+              "value": "Strong sales background, newest addition to the EWN team."
+            },
+            {
+              "key": "Role",
+              "value": "Works closely with new leads and existing clients."
+            },
+            {
+              "key": "Impact",
+              "value": "Utilising latest digital sales tools, has made immediate positive effect on the business."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 23,
+          "title": "Directors’ Report",
+          "data": [
+            {
+              "key": "Director Name 1",
+              "value": "Mr Kerry Plowright – Executive Chairman and CEO"
+            },
+            {
+              "key": "Director Name 2",
+              "value": "Mr Bryce Reynolds – Non-Executive Director"
+            },
+            {
+              "key": "Director Name 3",
+              "value": "Mr Nathan Young – Non-Executive Director"
+            },
+            {
+              "key": "Director Name 4",
+              "value": "Ms. Elissa Hansen – Non-Executive Director (appointed 1 May 2022) and Company Secretary"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 27,
+          "title": "Board Meeting Attendance Record",
+          "data": [
+            {
+              "key": "Kerry Plowright: Directors' Meetings Eligible",
+              "value": "11"
+            },
+            {
+              "key": "Kerry Plowright: Directors' Meetings Attended",
+              "value": "11"
+            },
+            {
+              "key": "Kerry Plowright: Audit & Risk Committee Eligible",
+              "value": "4"
+            },
+            {
+              "key": "Kerry Plowright: Audit & Risk Committee Attended",
+              "value": "4"
+            },
+            {
+              "key": "Bryce Reynolds: Directors' Meetings Eligible",
+              "value": "11"
+            },
+            {
+              "key": "Bryce Reynolds: Directors' Meetings Attended",
+              "value": "11"
+            },
+            {
+              "key": "Bryce Reynolds: Audit & Risk Committee Eligible",
+              "value": "4"
+            },
+            {
+              "key": "Bryce Reynolds: Audit & Risk Committee Attended",
+              "value": "4"
+            },
+            {
+              "key": "Nathan Young: Directors' Meetings Eligible",
+              "value": "11"
+            },
+            {
+              "key": "Nathan Young: Directors' Meetings Attended",
+              "value": "11"
+            },
+            {
+              "key": "Nathan Young: Audit & Risk Committee Eligible",
+              "value": "4"
+            },
+            {
+              "key": "Nathan Young: Audit & Risk Committee Attended",
+              "value": "4"
+            },
+            {
+              "key": "Elissa Hansen: Directors' Meetings Eligible",
+              "value": "2"
+            },
+            {
+              "key": "Elissa Hansen: Directors' Meetings Attended",
+              "value": "2"
+            },
+            {
+              "key": "Elissa Hansen: Audit & Risk Committee Eligible",
+              "value": "N/A"
+            },
+            {
+              "key": "Elissa Hansen: Audit & Risk Committee Attended",
+              "value": "N/A"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 69,
+          "title": "Изменения в руководстве",
+          "data": [
+            {
+              "key": "Название компании",
+              "value": "GSaeeris"
+            },
+            {
+              "key": "Новая позиция",
+              "value": "Генеральный директор"
+            },
+            {
+              "key": "Имя",
+              "value": "Иван Петров"
+            },
+            {
+              "key": "Дата изменения",
+              "value": "2023-10-01"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 72,
+          "title": "Corporate Directory",
+          "data": [
+            {
+              "key": "Executive Chairman & CEO",
+              "value": "Kerry Plowright"
+            },
+            {
+              "key": "Non-Executive Directors",
+              "value": "Bryce Reynolds, Elissa Hansen, Nathan Young"
+            },
+            {
+              "key": "Company Secretary",
+              "value": "Elissa Hansen"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 74,
+          "title": "Company Information",
+          "data": [
+            {
+              "key": "Office Address",
+              "value": "Level 12, 225 George Street, Sydney, NSW, 2000, Australia"
+            },
+            {
+              "key": "PO Box Address",
+              "value": "PO Box 1915, Kingscliff, NSW, 2487, Australia"
+            },
+            {
+              "key": "Website",
+              "value": "aeeris.com"
+            },
+            {
+              "key": "Trading Name",
+              "value": "ewn.com.au limited"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": true,
+      "elements": [
+        {
+          "type": "layoff",
+          "page": 12,
+          "title": "Работа с изображением на странице 12",
+          "data": [
+            {
+              "key": "Описание",
+              "value": "Лайко Мерцалем с возможными сокращениями персонала."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "layoff",
+          "page": 48,
+          "title": "Financial Statement Notes - Employee Benefits, Other Expenses, and Income Tax",
+          "data": [
+            {
+              "key": "Employee Benefits Expense (NOTE 4)",
+              "value": "1,237,189"
+            },
+            {
+              "key": "Internet & Hosting Charges",
+              "value": "130,248"
+            },
+            {
+              "key": "Legal Costs",
+              "value": "5,800"
+            },
+            {
+              "key": "Travelling & Accommodation",
+              "value": "20,955"
+            },
+            {
+              "key": "Corporate Expenses",
+              "value": "155,316"
+            },
+            {
+              "key": "Corporate Secretarial",
+              "value": "30,945"
+            },
+            {
+              "key": "Other Administration & Operating Costs",
+              "value": "272,981"
+            },
+            {
+              "key": "Total Other Expenses",
+              "value": "616,245"
+            },
+            {
+              "key": "Current year tax expense",
+              "value": "-"
+            },
+            {
+              "key": "Recoupment of prior year tax losses",
+              "value": ""
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "layoff",
+          "page": 48,
+          "title": "Key Management Personnel Compensation",
+          "data": [
+            {
+              "key": "YRT-term employee benefits",
+              "value": "195912"
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 9,
+          "title": "Executive Compensation Overview",
+          "data": [
+            {
+              "key": "CEO Salary",
+              "value": "$1,000,000"
+            },
+            {
+              "key": "Bonus",
+              "value": "$500,000"
+            },
+            {
+              "key": "Stock Options Value",
+              "value": "$2,000,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 25,
+          "title": "Executive Compensation and Company Overview",
+          "data": [
+            {
+              "key": "Principal Activities",
+              "value": "enterprise asset and people protection technologies"
+            },
+            {
+              "key": "Senior Executives",
+              "value": "Bryce Reynolds, Nathan Young, Elissa Hansen"
+            },
+            {
+              "key": "Total Consolidated Loss",
+              "value": "$211,295"
+            },
+            {
+              "key": "Interest in Shares and Options (Bryce Reynolds)",
+              "value": "5,361,320 Shares; 625,000 Performance Rights; 3,540,000 Options"
+            },
+            {
+              "key": "Consolidated Net Assets",
+              "value": "$2,390,872 in 2022"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 26,
+          "title": "Executive Compensation and Director Meetings Overview",
+          "data": [
+            {
+              "key": "Focus Areas",
+              "value": "Converting the pipeline of potential clients and on-boarding new customer referrals for forecasting, alerting and climate risk reporting services."
+            },
+            {
+              "key": "Development",
+              "value": "Further development of the Climatics platform."
+            },
+            {
+              "key": "Insurance Agreement",
+              "value": "Agreement to insure Directors and Officers for legal costs in defending civil or criminal proceedings."
+            },
+            {
+              "key": "Indemnity",
+              "value": "Agreement to indemnify Directors and Officers against liabilities incurred in connection with their actions."
+            },
+            {
+              "key": "Meeting Attendance",
+              "value": "Details on attendance at Directors meetings: Kerry Plowright attended 11 of 11, Bryce Reynolds attended 11 of 11, Nathan Young attended 11 of 11, Elissa Hansen appointed 1 May 2022 attended 2 of 2."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 28,
+          "title": "Aeeris Ltd Remuneration Report",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Aeeris Ltd"
+            },
+            {
+              "key": "ABN",
+              "value": "18 166 705 595"
+            },
+            {
+              "key": "Report Type",
+              "value": "Remuneration Report"
+            },
+            {
+              "key": "Performance Incentives",
+              "value": "None"
+            },
+            {
+              "key": "KMP Overview",
+              "value": "All key management personnel (KMP) are engaged on fixed remuneration consultancy agreements."
+            },
+            {
+              "key": "Total Remuneration (2022)",
+              "value": "$195,912"
+            },
+            {
+              "key": "Total Remuneration (2021)",
+              "value": "$176,382"
+            },
+            {
+              "key": "Remuneration Structure Summary",
+              "value": "All KMP receive 100% non-performance-based remuneration."
+            },
+            {
+              "key": "Non-Executive Directors' Re-election",
+              "value": "Required every 3 years."
+            },
+            {
+              "key": "Max Aggregate Fees for Non-Executive Directors",
+              "value": "$300,000 per annum."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 29,
+          "title": "Executive Remuneration Details 2022",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Mr. K Plowright *"
+            },
+            {
+              "key": "Short Term Benefits Remuneration",
+              "value": "$139,312"
+            },
+            {
+              "key": "Equity-settled Share-based Payments Shares/Options/Rights",
+              "value": "-"
+            },
+            {
+              "key": "2022 Total",
+              "value": "$139,312"
+            },
+            {
+              "key": "Name",
+              "value": "Mr. B Reynolds *"
+            },
+            {
+              "key": "Short Term Benefits Remuneration",
+              "value": "$24,000"
+            },
+            {
+              "key": "Equity-settled Share-based Payments Shares/Options/Rights",
+              "value": "-"
+            },
+            {
+              "key": "2022 Total",
+              "value": "$24,000"
+            },
+            {
+              "key": "Name",
+              "value": "Mr. N Young *"
+            },
+            {
+              "key": "Short Term Benefits Remuneration",
+              "value": "$24,000"
+            },
+            {
+              "key": "Equity-settled Share-based Payments Shares/Options/Rights",
+              "value": "-"
+            },
+            {
+              "key": "2022 Total",
+              "value": "$24,000"
+            },
+            {
+              "key": "Name",
+              "value": "Ms. E Hansen **"
+            },
+            {
+              "key": "Short Term Benefits Remuneration",
+              "value": "$8,600"
+            },
+            {
+              "key": "Equity-settled Share-based Payments Shares/Options/Rights",
+              "value": "-"
+            },
+            {
+              "key": "2022 Total",
+              "value": "$8,600"
+            },
+            {
+              "key": "Name",
+              "value": "Ms. E Hansen **"
+            },
+            {
+              "key": "Short Term Benefits Remuneration",
+              "value": "$195,912"
+            },
+            {
+              "key": "Equity-settled Share-based Payments Shares/Options/Rights",
+              "value": "-"
+            },
+            {
+              "key": "2022 Total",
+              "value": "$195,912"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 30,
+          "title": "Shareholding Movements FY 2021-2022",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Mr. K Plowright"
+            },
+            {
+              "key": "Balance at 1 July 2021",
+              "value": "23,407,803"
+            },
+            {
+              "key": "Granted as Remuneration during the Year",
+              "value": "0"
+            },
+            {
+              "key": "Issued on Exercise of Performance Rights during the Year",
+              "value": "0"
+            },
+            {
+              "key": "Other Changes during the Year",
+              "value": "0"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "23,407,803"
+            },
+            {
+              "key": "Name",
+              "value": "Mr. B Reynolds"
+            },
+            {
+              "key": "Balance at 1 July 2021",
+              "value": "4,591,320"
+            },
+            {
+              "key": "Granted as Remuneration during the Year",
+              "value": "0"
+            },
+            {
+              "key": "Issued on Exercise of Performance Rights during the Year",
+              "value": "0"
+            },
+            {
+              "key": "Other Changes during the Year",
+              "value": "770,000"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "5,361,320"
+            },
+            {
+              "key": "Name",
+              "value": "Mr. N Young"
+            },
+            {
+              "key": "Balance at 1 July 2021",
+              "value": "500,000"
+            },
+            {
+              "key": "Granted as Remuneration during the Year",
+              "value": "0"
+            },
+            {
+              "key": "Issued on Exercise of Performance Rights during the Year",
+              "value": "0"
+            },
+            {
+              "key": "Other Changes during the Year",
+              "value": "0"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "500,000"
+            },
+            {
+              "key": "Name",
+              "value": "Ms. E Hansen *"
+            },
+            {
+              "key": "Balance at 1 July 2021",
+              "value": "0"
+            },
+            {
+              "key": "Granted as Remuneration during the Year",
+              "value": "0"
+            },
+            {
+              "key": "Issued on Exercise of Performance Rights during the Year",
+              "value": "0"
+            },
+            {
+              "key": "Other Changes during the Year",
+              "value": "175,000"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "175,000"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 30,
+          "title": "Share Options Movement Summary",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Mr. K Plowright"
+            },
+            {
+              "key": "Balance at 1 July 2021",
+              "value": "950,000"
+            },
+            {
+              "key": "Issued during the year",
+              "value": "-"
+            },
+            {
+              "key": "Exercised during the year",
+              "value": "-"
+            },
+            {
+              "key": "Other Changes during the Year",
+              "value": "-"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "950,000"
+            },
+            {
+              "key": "Name",
+              "value": "Mr. B Reynolds"
+            },
+            {
+              "key": "Balance at 1 July 2021",
+              "value": "625,000"
+            },
+            {
+              "key": "Issued during the year",
+              "value": "-"
+            },
+            {
+              "key": "Exercised during the year",
+              "value": "-"
+            },
+            {
+              "key": "Other Changes during the Year",
+              "value": "-"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "625,000"
+            },
+            {
+              "key": "Name",
+              "value": "Mr. N Young"
+            },
+            {
+              "key": "Balance at 1 July 2021",
+              "value": "500,000"
+            },
+            {
+              "key": "Issued during the year",
+              "value": "-"
+            },
+            {
+              "key": "Exercised during the year",
+              "value": "-"
+            },
+            {
+              "key": "Other Changes during the Year",
+              "value": "-"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "500,000"
+            },
+            {
+              "key": "Name",
+              "value": "Ms. E Hansen *"
+            },
+            {
+              "key": "Balance at 1 July 2021",
+              "value": "-"
+            },
+            {
+              "key": "Issued during the year",
+              "value": "-"
+            },
+            {
+              "key": "Exercised during the year",
+              "value": "-"
+            },
+            {
+              "key": "Other Changes during the Year",
+              "value": "175,000*"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "175,000"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 31,
+          "title": "KMP Shareholdings and Performance Rights",
+          "data": [
+            {
+              "key": "Mr. K Plowright Shares",
+              "value": "23,407,803"
+            },
+            {
+              "key": "Mr. B Reynolds Shares",
+              "value": "5,361,320"
+            },
+            {
+              "key": "Mr. N Young Shares",
+              "value": "500,000"
+            },
+            {
+              "key": "Ms. E Hansen Shares",
+              "value": "175,000"
+            },
+            {
+              "key": "Mr. K Plowright Performance Rights",
+              "value": "950,000"
+            },
+            {
+              "key": "Mr. B Reynolds Performance Rights",
+              "value": "625,000"
+            },
+            {
+              "key": "Mr. N Young Performance Rights",
+              "value": "500,000"
+            },
+            {
+              "key": "Ms. E Hansen Performance Rights",
+              "value": "175,000"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 34,
+          "title": "Consolidated Statement of Changes in Equity for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Balance at 1 July 2020",
+              "value": "$592,429"
+            },
+            {
+              "key": "Profit for the financial year",
+              "value": "$467,854"
+            },
+            {
+              "key": "Balance at 30 June 2021",
+              "value": "$1,060,283"
+            },
+            {
+              "key": "Loss for the financial year",
+              "value": "$(211,295)"
+            },
+            {
+              "key": "Issue of shares",
+              "value": "$1,509,300"
+            },
+            {
+              "key": "Share issue costs",
+              "value": "$(93,007)"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "$2,390,872"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 39,
+          "title": "Notes to the Financial Statements for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "ABN",
+              "value": "18 166 705 595"
+            },
+            {
+              "key": "Current Tax",
+              "value": "Current income tax expense charged to profit or loss is the tax payable on taxable income for the current period."
+            },
+            {
+              "key": "Fair Value Measurement",
+              "value": "The fair value of liabilities and the entity’s own equity instruments may be valued by reference to observable market information where such instruments are held as assets."
+            },
+            {
+              "key": "Deferred Tax Assets",
+              "value": "Deferred tax assets relating to temporary differences and unused tax losses are recognised only to the extent that it is probable that future taxable profit will be available."
+            },
+            {
+              "key": "Freehold Buildings Valuation",
+              "value": "Freehold land and buildings are carried at their fair value based on periodic valuations by external independent valuers."
+            },
+            {
+              "key": "Impairment Indicators",
+              "value": "A formal assessment of recoverable amount is made when impairment indicators are present."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 44,
+          "title": "Equity-Settled Compensation and Provisions",
+          "data": [
+            {
+              "key": "Employee Benefits",
+              "value": "The Group’s obligations for employees’ annual leave and long service leave entitlements are recognised as provisions."
+            },
+            {
+              "key": "Long Term Employee Benefits",
+              "value": "At this stage there are no long-term leave entitlements."
+            },
+            {
+              "key": "Equity-Settled Compensation",
+              "value": "The Group provides compensation benefits to employees in the form of share-based payment transactions."
+            },
+            {
+              "key": "Cost Measurement",
+              "value": "The cost of equity-settled transactions is measured by reference to the fair value at the grant date."
+            },
+            {
+              "key": "Cumulative Expense",
+              "value": "The cumulative expense reflects the vesting period and estimated awards that will vest."
+            },
+            {
+              "key": "Market Performance Conditions",
+              "value": "No adjustment is made for market performance conditions."
+            },
+            {
+              "key": "Cancellation of Awards",
+              "value": "If an equity-settled award is cancelled, it is treated as vested."
+            },
+            {
+              "key": "Dilutive Effect",
+              "value": "The dilutive effect of outstanding options is reflected in earnings per share."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 45,
+          "title": "Cash and Cash Equivalents",
+          "data": [
+            {
+              "key": "Employee Compensation Recognition",
+              "value": "The Group provides compensation benefits to employees in the form of share-based payment transactions."
+            },
+            {
+              "key": "Cost Measurement",
+              "value": "The cost of these equity-settled transactions with employees is measured by reference to the fair value at the date at which they are granted."
+            },
+            {
+              "key": "Valuation Model",
+              "value": "The fair value is determined by a Black Scholes model."
+            },
+            {
+              "key": "Expense Recognition",
+              "value": "The cumulative expense recognised for equity-settled transactions at each reporting date reflects the extent to which the vesting period has expired."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 49,
+          "title": "Executive and Director Compensation Details",
+          "data": [
+            {
+              "key": "Total wages, salary, super and employee expense",
+              "value": "1,237,189"
+            },
+            {
+              "key": "Short-term employee benefits",
+              "value": "195,912"
+            },
+            {
+              "key": "Directors' fees",
+              "value": "Included in total employee benefits"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 55,
+          "title": "NOTE 21. Cash Flow Information",
+          "data": [
+            {
+              "key": "Profit/(loss) during the year",
+              "value": "-211295"
+            },
+            {
+              "key": "Depreciation, amortisation and impairment",
+              "value": "10215"
+            },
+            {
+              "key": "Share based payments",
+              "value": "125591"
+            },
+            {
+              "key": "Decrease/(increase) in trade and other receivables",
+              "value": "-136200"
+            },
+            {
+              "key": "Increase/(decrease) in prepayments",
+              "value": "52832"
+            },
+            {
+              "key": "Increase/(decrease) in trade and other payables",
+              "value": "19515"
+            },
+            {
+              "key": "Increase/(decrease) in provisions",
+              "value": "41999"
+            },
+            {
+              "key": "Cash flows from operating activities",
+              "value": "-97343"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 55,
+          "title": "NOTE 22. Share-Based Payments",
+          "data": [
+            {
+              "key": "Iptions Outstanding as at 1 July",
+              "value": "0"
+            },
+            {
+              "key": "sranted during the year",
+              "value": "3540000"
+            },
+            {
+              "key": "Iptions Outstanding at 30 June",
+              "value": "3540000"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 55,
+          "title": "Performance Rights Movement Summary",
+          "data": [
+            {
+              "key": "Performance Rights issued during the year",
+              "value": "600,000"
+            },
+            {
+              "key": "Performance Rights converted during the year",
+              "value": "-"
+            },
+            {
+              "key": "Performance Rights Outstanding at 30 June",
+              "value": "3,912,500"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 66,
+          "title": "Responsibilities of the Directors for the Financial Report",
+          "data": [
+            {
+              "key": "Directors' responsibility",
+              "value": "The directors are responsible for the preparation of the financial report that gives a true and fair view in accordance with Australian Accounting Standards and the Corporations Act 2001."
+            },
+            {
+              "key": "Preparation of financial report",
+              "value": "The directors are responsible for such internal control as necessary for the preparation of the financial report free from material misstatement."
+            },
+            {
+              "key": "Going concern assessment",
+              "value": "The directors are responsible for assessing the Group's ability to continue as a going concern."
+            },
+            {
+              "key": "Auditor's responsibilities",
+              "value": "The auditor's objectives are to obtain reasonable assurance that the financial report is free from material misstatement."
+            },
+            {
+              "key": "Material misstatement",
+              "value": "Misstatements can arise from fraud or error and are considered material if they could reasonably influence economic decisions."
+            },
+            {
+              "key": "Professional judgement",
+              "value": "The auditor exercises professional judgement and maintains professional scepticism throughout the audit."
+            },
+            {
+              "key": "Audit risk",
+              "value": "The risk of not detecting a material misstatement resulting from fraud is higher than for error."
+            },
+            {
+              "key": "Evaluation of accounting policies",
+              "value": "The auditor evaluates the appropriateness of accounting policies used and the reasonableness of estimates."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 68,
+          "title": "Remuneration Report",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Aeeris Limited"
+            },
+            {
+              "key": "Year Ended",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Compliance",
+              "value": "Section 300A of the Corporations Act 2001"
+            },
+            {
+              "key": "Audited by",
+              "value": "MNSA Pty Ltd"
+            },
+            {
+              "key": "Director",
+              "value": "Allan Facey"
+            },
+            {
+              "key": "Date",
+              "value": "26 August 2022"
+            },
+            {
+              "key": "Contact",
+              "value": "Level 1, 283 George St, Sydney, NSW 2000, GPO Box 2943 Sydney, 2001, Tel (02) 9299 0901, Fax (02) 9299 8104, Email admin@mnsa.com.au"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 4,
+          "title": "Chairman and CEO’s Letter",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Aeeris Ltd"
+            },
+            {
+              "key": "ASX Code",
+              "value": "AER"
+            },
+            {
+              "key": "Revenue Growth",
+              "value": "20% year-on-year"
+            },
+            {
+              "key": "Investment Raised",
+              "value": "$1.5M"
+            },
+            {
+              "key": "Technology Migration",
+              "value": "Key platform migrated to cloud"
+            },
+            {
+              "key": "Platform",
+              "value": "Climatics V.2 and SARP"
+            },
+            {
+              "key": "User Base",
+              "value": "Multiple large enterprises and water authorities"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 8,
+          "title": "Product Launch Highlights",
+          "data": [
+            {
+              "key": "Raised Capital",
+              "value": "$1.5m"
+            },
+            {
+              "key": "New Hires",
+              "value": "Business Development Manager and Senior Developer"
+            },
+            {
+              "key": "API Integration",
+              "value": "Almost all APIs into a client’s disaster management platform"
+            },
+            {
+              "key": "Bushfire Alerts",
+              "value": "Setup alerts for large residential estates under new regulations"
+            },
+            {
+              "key": "Flooding Services",
+              "value": "Supported clients during flooding disasters with flooding alert product"
+            },
+            {
+              "key": "Climatics 2.0 Launch",
+              "value": "Completed and launched platform for climate risk assessment"
+            },
+            {
+              "key": "Cloud Migration",
+              "value": "Migrated operational SARP to Microsoft’s Azure cloud"
+            },
+            {
+              "key": "Operational Efficiency",
+              "value": "Enhanced performance and achieved technology cost savings"
+            },
+            {
+              "key": "Hail Alerts Produced",
+              "value": "1628 hail alerts through Hail product released in FY22"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 10,
+          "title": "Product Launch of AWS API Gateway for Climatics Solution",
+          "data": [
+            {
+              "key": "year",
+              "value": "2022"
+            },
+            {
+              "key": "new_feature",
+              "value": "fully authenticated AWS API gateway"
+            },
+            {
+              "key": "feedback_source",
+              "value": "clients"
+            },
+            {
+              "key": "security",
+              "value": "enterprise grade security and authentication"
+            },
+            {
+              "key": "future_work",
+              "value": "extend and improve the API underpinning the GIS platform"
+            },
+            {
+              "key": "data_integration",
+              "value": "integrating many more relevant data feeds"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 16,
+          "title": "Aeeris Products Through Early Warning Network",
+          "data": [
+            {
+              "key": "Product",
+              "value": "Weather Forecasting and Monitoring Platform"
+            },
+            {
+              "key": "Description",
+              "value": "Customized weather forecasts focused on the weather relevant to clients' locations."
+            },
+            {
+              "key": "Service",
+              "value": "24x7 flood monitoring and alerting service in Australia."
+            },
+            {
+              "key": "Feature",
+              "value": "Embargo Warnings for selected hazards."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": false,
+      "elements": []
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 6,
+          "title": "2022 Financial Highlights",
+          "data": [
+            {
+              "key": "Customer revenue growth",
+              "value": "20% in FY22 to $2,210,529"
+            },
+            {
+              "key": "Cash at bank at year end",
+              "value": "$2,739,215 vs last year $1,426,958"
+            },
+            {
+              "key": "Company debt status",
+              "value": "The Company has no debt"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Consolidated Statement of Profit or Loss",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "2,210,529"
+            },
+            {
+              "key": "Other income Total Revenue",
+              "value": "2,681,760"
+            },
+            {
+              "key": "Depreciation expense benefits",
+              "value": "(10,215)"
+            },
+            {
+              "key": "Employee expense Finance costs",
+              "value": "(1,237,189) (224)"
+            },
+            {
+              "key": "Share based payments",
+              "value": "(125,591)"
+            },
+            {
+              "key": "SMS communication",
+              "value": "(181,542)"
+            },
+            {
+              "key": "Weather reports",
+              "value": "(257,496)"
+            },
+            {
+              "key": "Other expenses from ordinary activities",
+              "value": "(616,245)"
+            },
+            {
+              "key": "Total Expenses",
+              "value": "(2,893,055)"
+            },
+            {
+              "key": "(Loss)/profit before income tax",
+              "value": "(211,295)"
+            },
+            {
+              "key": "Income tax expense",
+              "value": "-"
+            },
+            {
+              "key": "Net (loss)/profit for the year",
+              "value": "(211,295)"
+            },
+            {
+              "key": "Basic (loss)/profit per share (cents)",
+              "value": "(0.31)"
+            },
+            {
+              "key": "Diluted (loss)/profit per share (cents)",
+              "value": "(0.31)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Consolidated Statement of Financial Position",
+          "data": [
+            {
+              "key": "Total Current Assets",
+              "value": "3,091,994"
+            },
+            {
+              "key": "Total Non-Current Assets",
+              "value": "11,968"
+            },
+            {
+              "key": "Total Assets",
+              "value": "3,103,962"
+            },
+            {
+              "key": "Total Current Liabilities",
+              "value": "652,297"
+            },
+            {
+              "key": "Total Non-Current Liabilities",
+              "value": "60,793"
+            },
+            {
+              "key": "Total Liabilities",
+              "value": "713,090"
+            },
+            {
+              "key": "Net Assets",
+              "value": "2,390,872"
+            },
+            {
+              "key": "Issued capital",
+              "value": "6,516,861"
+            },
+            {
+              "key": "Share based payments reserve",
+              "value": "206,809"
+            },
+            {
+              "key": "Accumulated losses",
+              "value": "(4,332,798)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Balance Sheet",
+          "data": [
+            {
+              "key": "Cash & cash equivalents",
+              "value": "2739215"
+            },
+            {
+              "key": "Trade & other receivables",
+              "value": "337988"
+            },
+            {
+              "key": "Prepayments",
+              "value": "14791"
+            },
+            {
+              "key": "Total Current Assets",
+              "value": "3091994"
+            },
+            {
+              "key": "Property, plant & equipment",
+              "value": "11968"
+            },
+            {
+              "key": "Total Non-Current Assets",
+              "value": "11968"
+            },
+            {
+              "key": "Total Assets",
+              "value": "3103962"
+            },
+            {
+              "key": "Trade & other payables",
+              "value": "586018"
+            },
+            {
+              "key": "Provisions",
+              "value": "66279"
+            },
+            {
+              "key": "Total Current Liabilities",
+              "value": "652297"
+            },
+            {
+              "key": "Total Non-Current Liabilities",
+              "value": "60793"
+            },
+            {
+              "key": "Total Liabilities",
+              "value": "713090"
+            },
+            {
+              "key": "Net Assets",
+              "value": "2390872"
+            },
+            {
+              "key": "Issued capital",
+              "value": "6516861"
+            },
+            {
+              "key": "Share based payments reserve",
+              "value": "206809"
+            },
+            {
+              "key": "Accumulated losses",
+              "value": "-4332798"
+            },
+            {
+              "key": "Total Equity",
+              "value": "2390872"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Receipts from customers",
+              "value": "2,139,180"
+            },
+            {
+              "key": "COVID-19 Stimulus Support",
+              "value": "0"
+            },
+            {
+              "key": "Interest received",
+              "value": "1,266"
+            },
+            {
+              "key": "Research and Development refund",
+              "value": "469,965"
+            },
+            {
+              "key": "Payments to suppliers & employees",
+              "value": "-2,707,754"
+            },
+            {
+              "key": "Net cash from operating activities",
+              "value": "-97,343"
+            },
+            {
+              "key": "Purchases of property, plant & equipment",
+              "value": "-6,693"
+            },
+            {
+              "key": "Proceeds from the issue of shares",
+              "value": "1,509,300"
+            },
+            {
+              "key": "Fund raising expense",
+              "value": "-93,007"
+            },
+            {
+              "key": "Cash & cash equivalents at beginning of year",
+              "value": "1,426,958"
+            },
+            {
+              "key": "Cash & cash equivalents at end of year",
+              "value": "2,739,215"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Income Tax and Fair Value of Assets and Liabilities",
+          "data": [
+            {
+              "key": "Income Tax Expense",
+              "value": "The income tax expense for the year comprises current income tax expense and deferred tax expense."
+            },
+            {
+              "key": "Current Income Tax Expense",
+              "value": "Charged to profit or loss is the tax payable on taxable income for the current period."
+            },
+            {
+              "key": "Deferred Tax Expense",
+              "value": "Reflects movements in deferred tax asset and deferred tax liability balances during the year."
+            },
+            {
+              "key": "Deferred Tax Assets Recognition",
+              "value": "Recognised only to the extent that it is probable that future taxable profit will be available to utilise the benefits."
+            },
+            {
+              "key": "Fair Value Measurement",
+              "value": "The Group measures some of its assets and liabilities at fair value depending on the requirements of the applicable Accounting Standard."
+            },
+            {
+              "key": "Property Freehold land and buildings",
+              "value": "Carried at fair value based on periodic valuations by external independent valuers."
+            },
+            {
+              "key": "Plant and Equipment Measurement",
+              "value": "Measured on the cost basis and carried at cost less accumulated depreciation."
+            },
+            {
+              "key": "Impairment Review",
+              "value": "The carrying amount of plant and equipment is reviewed annually by Directors."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "Financial Statements - Notes to the Financial Statements for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Available-for-sale investments",
+              "value": "Non-derivative financial assets not capable of being classified into other categories."
+            },
+            {
+              "key": "Financial liabilities",
+              "value": "Non-derivative financial liabilities subsequently measured at amortised cost."
+            },
+            {
+              "key": "Impairment assessment",
+              "value": "Assets assessed for impairment annually, including goodwill and intangible assets."
+            },
+            {
+              "key": "Research and Development Expenditure",
+              "value": "Recognised as an expense when incurred; development costs capitalised when future economic benefits are probable."
+            },
+            {
+              "key": "Short-Term Employee Benefits",
+              "value": "Obligation for benefits expected to be settled within 12 months, including wages and benefits."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Statement of Financial Position",
+          "data": [
+            {
+              "key": "ASSETS",
+              "value": "Current Assets: $1,984,605; Non-Current Assets: $4,725,228; TOTAL ASSETS: $6,709,833"
+            },
+            {
+              "key": "LIABILITIES",
+              "value": "Current Liabilities: N/A; Non-Current Liabilities: N/A; TOTAL LIABILITIES: N/A"
+            },
+            {
+              "key": "EQUITY",
+              "value": "Issued Capital: $6,516,861; Share Based Payments Reserve: $206,809; Retained Earnings/(accumulated losses): -$13,837; TOTAL EQUITY: $6,709,833"
+            },
+            {
+              "key": "Statement of Profit or Loss",
+              "value": "Total (loss)/profit: -$205,593"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "NOTE 3. Revenue and Other Income",
+          "data": [
+            {
+              "key": "Subscription income",
+              "value": "30-Jun-2022: $1,958,764; 30-Jun-2021: $1,603,096"
+            },
+            {
+              "key": "Rendering of services",
+              "value": "30-Jun-2022: $251,765; 30-Jun-2021: $234,595"
+            },
+            {
+              "key": "Other Income",
+              "value": "30-Jun-2022: $2,210,529; 30-Jun-2021: $1,837,691"
+            },
+            {
+              "key": "Interest received",
+              "value": "30-Jun-2022: $1,266; 30-Jun-2021: $1,918"
+            },
+            {
+              "key": "COVID-19 stimulus support",
+              "value": "30-Jun-2022: $0; 30-Jun-2021: $222,127"
+            },
+            {
+              "key": "Research and development refund",
+              "value": "30-Jun-2022: $469,965; 30-Jun-2021: $475,231"
+            },
+            {
+              "key": "Total Revenue and Other Income",
+              "value": "30-Jun-2022: $2,681,760; 30-Jun-2021: $2,536,967"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Trade and Other Payables",
+          "data": [
+            {
+              "key": "Trade Payables",
+              "value": "37426"
+            },
+            {
+              "key": "Superannuation Liability",
+              "value": "9602"
+            },
+            {
+              "key": "SST Collected",
+              "value": "47145"
+            },
+            {
+              "key": "AYG Withholding",
+              "value": "19823"
+            },
+            {
+              "key": "Sundry Creditors",
+              "value": "1078"
+            },
+            {
+              "key": "Unearned Income",
+              "value": "470944"
+            },
+            {
+              "key": "Total",
+              "value": "586018"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Long Service Leave Provision",
+          "data": [
+            {
+              "key": "Opening Balance at 1 July",
+              "value": "49534"
+            },
+            {
+              "key": "Net movement during the year",
+              "value": "11259"
+            },
+            {
+              "key": "Balance at 30 June",
+              "value": "60793"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Financial Statement Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Operating revenue Interest",
+              "value": "2,210,529"
+            },
+            {
+              "key": "revenue Other",
+              "value": "1,266"
+            },
+            {
+              "key": "revenue Research and refund",
+              "value": "N/A"
+            },
+            {
+              "key": "development Total revenue",
+              "value": "2,681,760"
+            },
+            {
+              "key": "Depreciation, impairment expenses Total expenses",
+              "value": "-2,893,055"
+            },
+            {
+              "key": "Segment results",
+              "value": "-211,295"
+            },
+            {
+              "key": "Current assets",
+              "value": "3,091,994"
+            },
+            {
+              "key": "Non-current assets",
+              "value": "11,968"
+            },
+            {
+              "key": "Current Liabilities",
+              "value": "652,297"
+            },
+            {
+              "key": "Non-current liabilities",
+              "value": "60,793"
+            },
+            {
+              "key": "Total Liabilities",
+              "value": "713,090"
+            },
+            {
+              "key": "Net Assets",
+              "value": "2,390,872"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "Related Party Transactions",
+          "data": [
+            {
+              "key": "Key Management Personnel",
+              "value": "Any person(s) having authority and responsibility for planning, directing and controlling the activities of the entity, directly or indirectly, including any director (whether executive or otherwise) of that entity."
+            },
+            {
+              "key": "Significant Influence",
+              "value": "An entity that has the power to participate in the financial and operating policy decisions of an entity, but does not have control over those policies."
+            },
+            {
+              "key": "Transactions with Related Parties",
+              "value": "Transactions between related parties are on normal commercial terms and conditions no more favourable than those available to other parties unless otherwise stated."
+            },
+            {
+              "key": "Director's Fees",
+              "value": "Kerry Plowright paid $24,000; Bryce Reynolds paid $24,000; Nathan Young paid $24,000."
+            },
+            {
+              "key": "Consulting Services Payment to Kerry Plowright",
+              "value": "Paid $115,312 for consulting services rendered."
+            },
+            {
+              "key": "Options Issued to Veritas Securities Limited",
+              "value": "3,540,000 options at an exercise price of $0.30, expiring on 6 December 2025."
+            },
+            {
+              "key": "Company Secretarial Services Payment",
+              "value": "Elissa Hansen paid $8,600 for Company Secretarial services."
+            },
+            {
+              "key": "Services Rendered by Margo Plowright",
+              "value": "Paid $80,463 for services during the year."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Financial Assets and Liabilities Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Financial Assets Cash and Cash Equivalents",
+              "value": "2022: $2,739,215, 2021: $1,426,958"
+            },
+            {
+              "key": "Trade and Other Receivables",
+              "value": "2022: $337,988, 2021: $201,788"
+            },
+            {
+              "key": "Total Financial Assets",
+              "value": "2022: $3,077,203, 2021: $1,628,746"
+            },
+            {
+              "key": "Trade and Other Payables",
+              "value": "2022: $586,018, 2021: $566,503"
+            },
+            {
+              "key": "Total Financial Liabilities",
+              "value": "2022: $586,018, 2021: $566,503"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Financial Instruments Cash Flow Analysis",
+          "data": [
+            {
+              "key": "Financial Liabilities due for Payment - Trade and other Payables",
+              "value": "586018"
+            },
+            {
+              "key": "Total Expected Outflows",
+              "value": "586018"
+            },
+            {
+              "key": "Financial Assets - Trade and other Receivables",
+              "value": "337988"
+            },
+            {
+              "key": "Total anticipated inflows",
+              "value": "337988"
+            },
+            {
+              "key": "Net (outflow)/inflow on financial instruments",
+              "value": "-248030"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 60,
+          "title": "Recurring Fair Value Measurements",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Cash and Cash Equivalents"
+            },
+            {
+              "key": "Note",
+              "value": "11"
+            },
+            {
+              "key": "Level 1",
+              "value": "2,739,215"
+            },
+            {
+              "key": "Level 2",
+              "value": "0"
+            },
+            {
+              "key": "Level 3",
+              "value": "0"
+            },
+            {
+              "key": "Total",
+              "value": "2,739,215"
+            },
+            {
+              "key": "Category",
+              "value": "Trade and Other Receivables"
+            },
+            {
+              "key": "Note",
+              "value": "12"
+            },
+            {
+              "key": "Level 1",
+              "value": "337,988"
+            },
+            {
+              "key": "Level 2",
+              "value": "0"
+            },
+            {
+              "key": "Level 3",
+              "value": "0"
+            },
+            {
+              "key": "Total",
+              "value": "337,988"
+            },
+            {
+              "key": "Category",
+              "value": "Prepayments"
+            },
+            {
+              "key": "Note",
+              "value": ""
+            },
+            {
+              "key": "Level 1",
+              "value": "14,791"
+            },
+            {
+              "key": "Level 2",
+              "value": "0"
+            },
+            {
+              "key": "Level 3",
+              "value": "0"
+            },
+            {
+              "key": "Total",
+              "value": "14,791"
+            },
+            {
+              "key": "Category",
+              "value": "Total Financial Assets"
+            },
+            {
+              "key": "Note",
+              "value": ""
+            },
+            {
+              "key": "Level 1",
+              "value": "3,091,994"
+            },
+            {
+              "key": "Level 2",
+              "value": "0"
+            },
+            {
+              "key": "Level 3",
+              "value": "0"
+            },
+            {
+              "key": "Total",
+              "value": "3,091,994"
+            },
+            {
+              "key": "Category",
+              "value": "Property Plant and Equipment"
+            },
+            {
+              "key": "Note",
+              "value": "14"
+            },
+            {
+              "key": "Level 1",
+              "value": "11,968"
+            },
+            {
+              "key": "Level 2",
+              "value": "0"
+            },
+            {
+              "key": "Level 3",
+              "value": "0"
+            },
+            {
+              "key": "Total",
+              "value": "11,968"
+            },
+            {
+              "key": "Category",
+              "value": "Total Non-Financial Assets"
+            },
+            {
+              "key": "Note",
+              "value": ""
+            },
+            {
+              "key": "Level 1",
+              "value": "11,968"
+            },
+            {
+              "key": "Level 2",
+              "value": "0"
+            },
+            {
+              "key": "Level 3",
+              "value": "0"
+            },
+            {
+              "key": "Total",
+              "value": "11,968"
+            },
+            {
+              "key": "Category",
+              "value": "Trade and other Payables"
+            },
+            {
+              "key": "Note",
+              "value": "15"
+            },
+            {
+              "key": "Level 1",
+              "value": "586,018"
+            },
+            {
+              "key": "Level 2",
+              "value": "0"
+            },
+            {
+              "key": "Level 3",
+              "value": "0"
+            },
+            {
+              "key": "Total",
+              "value": "586,018"
+            },
+            {
+              "key": "Category",
+              "value": "Provisions"
+            },
+            {
+              "key": "Note",
+              "value": "16"
+            },
+            {
+              "key": "Level 1",
+              "value": "127,072"
+            },
+            {
+              "key": "Level 2",
+              "value": "0"
+            },
+            {
+              "key": "Level 3",
+              "value": "0"
+            },
+            {
+              "key": "Total",
+              "value": "127,072"
+            },
+            {
+              "key": "Category",
+              "value": "Total Liabilities"
+            },
+            {
+              "key": "Note",
+              "value": ""
+            },
+            {
+              "key": "Level 1",
+              "value": "713,090"
+            },
+            {
+              "key": "Level 2",
+              "value": "0"
+            },
+            {
+              "key": "Level 3",
+              "value": "0"
+            },
+            {
+              "key": "Total",
+              "value": "713,090"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 61,
+          "title": "Financial Statement Details - Options and Accumulated Losses",
+          "data": [
+            {
+              "key": "Opening Balance Options issued during the year",
+              "value": "81,218"
+            },
+            {
+              "key": "Performance Rights issued during the year",
+              "value": "125,591"
+            },
+            {
+              "key": "Balance as at 30 June",
+              "value": "206,809"
+            },
+            {
+              "key": "Accumulated losses at the beginning of the financial year",
+              "value": "(4,121,503)"
+            },
+            {
+              "key": "Net profit/(loss) attributable to members of the group",
+              "value": "(211,295)"
+            },
+            {
+              "key": "Accumulated losses at the end of the financial year",
+              "value": "(4,332,798)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Directors’ declaration",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Aeeris Ltd"
+            },
+            {
+              "key": "ABN",
+              "value": "18 166 705 595"
+            },
+            {
+              "key": "date",
+              "value": "26th August 2022"
+            },
+            {
+              "key": "financial_position_date",
+              "value": "30 June 2022"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Independent Auditor’s Report",
+          "data": [
+            {
+              "key": "audit opinion",
+              "value": "The accompanying financial report of the Group is in accordance with the Corporations Act 2001."
+            },
+            {
+              "key": "financial_position_date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "financial_reporting_standard",
+              "value": "Australian Accounting Standards, International Financial Reporting Standards"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Independent Auditor’s Report to the Owners of Aeeris Limited",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Aeeris Limited"
+            },
+            {
+              "key": "ABN",
+              "value": "18 166 705 595"
+            },
+            {
+              "key": "Report Date",
+              "value": "26th August 2022"
+            },
+            {
+              "key": "Financial Statement Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Opinion",
+              "value": "The financial report of the Group gives a true and fair view of the financial position as at 30 June 2022 and of the performance for the year ending on that date."
+            },
+            {
+              "key": "Compliance",
+              "value": "Complies with Australian Accounting Standards and International Financial Reporting Standards (IFRS)."
+            },
+            {
+              "key": "Auditor",
+              "value": "Mr. Kerry Plowright"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 65,
+          "title": "Net Interest Margin Analysis",
+          "data": [
+            {
+              "key": "Q1 21",
+              "value": "1.16"
+            },
+            {
+              "key": "Q2 21",
+              "value": "1.14"
+            },
+            {
+              "key": "Q3 21",
+              "value": "1.16"
+            },
+            {
+              "key": "Q4 21",
+              "value": "1.18"
+            },
+            {
+              "key": "Q1 22",
+              "value": "1.25"
+            },
+            {
+              "key": "Q2 22",
+              "value": "1.36"
+            },
+            {
+              "key": "Q3 22",
+              "value": "1.48"
+            },
+            {
+              "key": "Q4 22",
+              "value": "1.63"
+            },
+            {
+              "key": "Q1 23",
+              "value": "1.67"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 70,
+          "title": "Distribution of Shareholders Category (size of holding)",
+          "data": [
+            {
+              "key": "Total Shareholders",
+              "value": "331"
+            },
+            {
+              "key": "Total Units",
+              "value": "71,583,858"
+            },
+            {
+              "key": "Highly Concentrated Shareholders (holding >100,000 units)",
+              "value": "73"
+            },
+            {
+              "key": "Percentage Controlled by Large Shareholders",
+              "value": "92.58%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 70,
+          "title": "Voting Rights",
+          "data": [
+            {
+              "key": "Voting Rights",
+              "value": "Each ordinary share is entitled to one vote when a poll is called."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 70,
+          "title": "20 Largest Shareholders",
+          "data": [
+            {
+              "key": "K & M PLOWRIGHT SUPER PTY LIMITED",
+              "value": "11.965%"
+            },
+            {
+              "key": "JETOSEA PTY LIMITED",
+              "value": "8.521%"
+            },
+            {
+              "key": "MR KERRY MAURICE PLOWRIGHT",
+              "value": "8.078%"
+            },
+            {
+              "key": "JETOSEA PTY LTD",
+              "value": "6.638%"
+            },
+            {
+              "key": "MS MARGO PLOWRIGHT",
+              "value": "6.588%"
+            },
+            {
+              "key": "WASPZ PTY LIMITED",
+              "value": "5.707%"
+            },
+            {
+              "key": "DMX CAPITAL PARTNERS LIMITED",
+              "value": "5.492%"
+            },
+            {
+              "key": "CERTANE CT PTY LTD <L39 CAPITAL A/C>",
+              "value": "4.715%"
+            },
+            {
+              "key": "VERITAS CONSOLIDATED PTY LTD",
+              "value": "3.966%"
+            },
+            {
+              "key": "BLUESTAR MANAGEMENT PTY LTD",
+              "value": "2.298%"
+            },
+            {
+              "key": "UBS NOMINEES PTY LTD",
+              "value": "2.138%"
+            },
+            {
+              "key": "NATIONAL NOMINEES LIMITED",
+              "value": "2.047%"
+            },
+            {
+              "key": "HSBC CUSTODY NOMINEES (AUSTRALIA) LIMITED",
+              "value": "1.397%"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 53,
+          "title": "NOTE 17. Issued Capital",
+          "data": [
+            {
+              "key": "Number of Shares Issued",
+              "value": "71,583,858 (2021: 59,973,858) Fully Paid Ordinary Shares"
+            },
+            {
+              "key": "Monetary Value as of 30-Jun-2022",
+              "value": "$6,516,861"
+            },
+            {
+              "key": "Monetary Value as of 30-Jun-2021",
+              "value": "$5,100,568"
+            },
+            {
+              "key": "Shares Issued — 11 October 2021",
+              "value": "10,840,000"
+            },
+            {
+              "key": "Shares issued — 6 December 2021",
+              "value": "770,000"
+            },
+            {
+              "key": "Total Shares at end of period",
+              "value": "71,583,858"
+            },
+            {
+              "key": "Summary",
+              "value": "This table shows the issued capital details of the company. The number of fully paid ordinary shares increased from 59,973,858 to 71,583,858 during the period, primarily due to two share issuances: 10,840,000 shares on 11 October 2021 and 770,000 shares on 6 December 2021. The monetary value of issued capital increased from $5,100,568 to $6,516,861. This represents a significant expansion in the company's share capital during the reporting period."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 71,
+          "title": "Top Shareholders",
+          "data": [
+            {
+              "key": "H RAYBURN NOMINEES PTY LTD <S H RAYBURN SUPER FUND A/C>",
+              "value": "1,000,000 securities (1.397%)"
+            },
+            {
+              "key": "MAD FISH MANAGEMENT PTY LTD",
+              "value": "712,237 securities (0.995%)"
+            },
+            {
+              "key": "BLUESTAR MANAGEMENT PTY LTD",
+              "value": "627,358 securities (0.876%)"
+            },
+            {
+              "key": "SYMINGTON PTY LTD",
+              "value": "600,000 securities (0.838%)"
+            },
+            {
+              "key": "IRWIN BIOTECH NOMINEES PTY LTD <BIOA A/C>",
+              "value": "556,250 securities (0.777%)"
+            },
+            {
+              "key": "MAMBAT PTY LTD",
+              "value": "513,596 securities (0.717%)"
+            },
+            {
+              "key": "J P MORGAN NOMINEES AUSTRALIA PTY LIMITED",
+              "value": "500,000 securities (0.698%)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 71,
+          "title": "Substantial Shareholders",
+          "data": [
+            {
+              "key": "Mr Kerry Plowright*",
+              "value": "22,376,622 shares (31.60%)"
+            },
+            {
+              "key": "K & M Plowright Super Pty Limited",
+              "value": "5,012,858 shares (7.08%)"
+            },
+            {
+              "key": "Waspz Pty Limited",
+              "value": "4,085,000 shares (5.77%)"
+            },
+            {
+              "key": "Ms Margo Plowright",
+              "value": "5,188,774 shares (7.33%)"
+            },
+            {
+              "key": "Mr. Bryce Reynolds*",
+              "value": "3,843,708 shares (5.43%)"
+            },
+            {
+              "key": "Jetosea Pty Limited",
+              "value": "11,178,252 shares (15.79%)"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 5,
+          "title": "Climate Risk Assessment and Data Quality",
+          "data": [
+            {
+              "key": "Context",
+              "value": "APRA has been interrogating the availability and quality of risk data at the largest financial institutions regarding climate risk."
+            },
+            {
+              "key": "Key Findings",
+              "value": "Nearly a quarter of banks, insurers, and super funds had no proper metrics to measure and monitor climate risk."
+            },
+            {
+              "key": "Impact of Climate Risk",
+              "value": "APRA considers climate risk could have a compounding impact on credit, market liquidity, and operational risk."
+            },
+            {
+              "key": "Regulatory Pressure",
+              "value": "Australia may follow other jurisdictions like New Zealand, leading to a mandatory disclosure regime on climate-related risks."
+            },
+            {
+              "key": "Company Position",
+              "value": "Aeeris is positioned to service climate risk data requirements with a balanced team and enhanced technology."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 15,
+          "title": "Flood Risk Assessment and Climate Intelligence in Construction",
+          "data": [
+            {
+              "key": "Flooding incidents",
+              "value": "Flooding across the eastern seaboard in the first half of 2022 has highlighted the need for businesses to assess their flood risk."
+            },
+            {
+              "key": "Climatics offering",
+              "value": "Climatics provides climate intelligence for 15+ hazards including flood risk."
+            },
+            {
+              "key": "Construction productivity impact",
+              "value": "As of July 2022, the commercial builder had achieved 46% productivity due to wet weather."
+            },
+            {
+              "key": "Historical flood data",
+              "value": "The Insurance Council of Australia estimates total claims from flooding exceed $21.3 billion since 1970."
+            },
+            {
+              "key": "Hawkesbury-Nepean Valley flood risk",
+              "value": "A 19m flood could require evacuation of more than 90,000 people."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 2,
+          "title": "Annual Report Cover",
+          "data": [
+            {
+              "key": "year",
+              "value": "2022"
+            },
+            {
+              "key": "report_type",
+              "value": "Annual Report"
+            },
+            {
+              "key": "expected_event",
+              "value": "current extreme flooding events"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 24,
+          "title": "Director Profile",
+          "data": [
+            {
+              "key": "Experience",
+              "value": "In 2006, Bryce established Veritas Securities Limited as a founding then, to his skill base by being an active company director for numerous private ventures in the funds management and IT/digital field."
+            },
+            {
+              "key": "Special Responsibilities",
+              "value": "Chairman of the Audit and Risk Committee"
+            },
+            {
+              "key": "Directorships held in other listed entities during the three years",
+              "value": ""
+            },
+            {
+              "key": "Experience",
+              "value": "Elissa is a Chartered Secretary with over twenty years' experience."
+            },
+            {
+              "key": "Experience",
+              "value": "management range companies including assisting companies through the IPO process."
+            },
+            {
+              "key": "Experience",
+              "value": "Elissa is a Chartered Secretary who brings best practice."
+            },
+            {
+              "key": "Interest in Shares and Options",
+              "value": "Corporations legislation. 175,000 Shares 175,000 Performance Rights"
+            },
+            {
+              "key": "Special Responsibilities",
+              "value": "Member of the Audit and Risk Committee, Company Secretary"
+            },
+            {
+              "key": "Directorships held in other listed entities",
+              "value": "Non-Executive Director Zoono Group Limited (ASX:ZNO) and QMines Limited (ASX:QML)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 40,
+          "title": "Depreciation and Financial Instruments Overview",
+          "data": [
+            {
+              "key": "Depreciation Rate for Plant and Equipment",
+              "value": "5-33%"
+            },
+            {
+              "key": "Depreciation Rate for Plant and Equipment Leased to External Parties",
+              "value": "10-20%"
+            },
+            {
+              "key": "Summary",
+              "value": "The table shows depreciation rates for different classes of fixed assets. Plant and equipment has a wider depreciation range of 5-33%, while plant and equipment leased to external parties has a narrower range of 10-20%. This suggests that standard plant and equipment may have more varying useful life spans compared to leased equipment, which follows a more standardized depreciation schedule."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 51,
+          "title": "NOTE 14. Property, Plant and Equipment",
+          "data": [
+            {
+              "key": "Subsidiary",
+              "value": "Early Warning Network Pty Ltd"
+            },
+            {
+              "key": "Location",
+              "value": "Australia"
+            },
+            {
+              "key": "Ownership 2022",
+              "value": "100%"
+            },
+            {
+              "key": "Ownership 2021",
+              "value": "100%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 51,
+          "title": "Trade Receivables",
+          "data": [
+            {
+              "key": "Total Current Trade Receivables 2022",
+              "value": "300,519"
+            },
+            {
+              "key": "Total Current Trade Receivables 2021",
+              "value": "191,354"
+            },
+            {
+              "key": "GST Paid 2022",
+              "value": "37,469"
+            },
+            {
+              "key": "GST Paid 2021",
+              "value": "10,434"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 51,
+          "title": "Credit Risk Analysis",
+          "data": [
+            {
+              "key": "Credit Risk Summary",
+              "value": "The Group has no significant concentration of credit risk with respect to any single counterparty or group of counterparties."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": false,
+      "elements": []
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 11,
+          "title": "Flood Monitoring and Extreme Weather Services",
+          "data": [
+            {
+              "key": "services_provided",
+              "value": "Monitoring and alerting for floods, critical water and dam release information, rainfall and flood monitoring, bushfire and weather alerts."
+            },
+            {
+              "key": "impact_of_extreme_weather",
+              "value": "Increased enquiries for Aeeris’ services due to extreme weather events, particularly floods and rainfall."
+            },
+            {
+              "key": "client_briefings",
+              "value": "24/7 client briefing meetings with meteorologists."
+            },
+            {
+              "key": "new_services_launched",
+              "value": "Heatwave alerting system."
+            },
+            {
+              "key": "client_types",
+              "value": "State Government Agencies, major rail customers, councils, and residents."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 13,
+          "title": "Aeeris Team Active in Saving Lives",
+          "data": [
+            {
+              "key": "Description",
+              "value": "The Aeeris team engages in disaster response, focusing on saving lives during emergencies such as floods, fires, and storms."
+            },
+            {
+              "key": "Key Personnel",
+              "value": "James Harris (General Manager)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 14,
+          "title": "Climate Risk Assessment and ESG Initiatives",
+          "data": [
+            {
+              "key": "Climate Risk Survey",
+              "value": "A climate risk self-assessment survey published by the Australian Prudential Regulation Authority found nearly a quarter of banks, insurers, and super funds had no proper metrics to measure climate risk."
+            },
+            {
+              "key": "Mandatory Disclosures",
+              "value": "The New Zealand government has made climate risk disclosures mandatory for insurers and banks, and similar rules could be imminent in Australia."
+            },
+            {
+              "key": "Data Value in Decision Making",
+              "value": "Aeeris provides unique data solutions that enable businesses to recognize location-based climate changes."
+            },
+            {
+              "key": "Empirical Measurement",
+              "value": "Empirical measurement, rather than subjective judgments, is essential for effective climate risk assessment."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 17,
+          "title": "Climatics 2.0",
+          "data": [
+            {
+              "key": "description",
+              "value": "Resolves the problem of producing forensic and trusted results using ‘actual’ data to deliver actionable and operationalized reports and risk disclosure."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 17,
+          "title": "Heat Extreme",
+          "data": [
+            {
+              "key": "description",
+              "value": "Extreme heat weather can have devastating effects to your health. Heatwaves can cause droughts and wildfires and can lead to health issues and increased energy demand and water shortages."
+            },
+            {
+              "key": "service",
+              "value": "Heatwave Alerts Service"
+            },
+            {
+              "key": "warning_time",
+              "value": "up to three days in advance"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 17,
+          "title": "Spatial Analysis Risk Platform (SARP)",
+          "data": [
+            {
+              "key": "description",
+              "value": "Using its 12 years of non-stop operational experience and system development, EWN has evolved its primary platform to deliver a stand-alone SaaS cloud solution."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 17,
+          "title": "Hail",
+          "data": [
+            {
+              "key": "description",
+              "value": "This product folds into our alerting and forecasting portfolio."
+            },
+            {
+              "key": "technology",
+              "value": "3D radar technology"
+            },
+            {
+              "key": "research_collaboration",
+              "value": "involvement in hail research projects with some of Australia’s leading universities."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 90,
+    "AUD": 80,
+    "CAD": 1,
+    "ZAR": 10
+  },
+  "sha1": "f6a1077a46cb36761604f8f4840698e22837f5f7"
+}

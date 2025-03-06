@@ -1,0 +1,2001 @@
+{
+  "letters": 124076,
+  "pages": 49,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 9
+    },
+    "company_name": "Starvest plc",
+    "major_industry": "Financial Services",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Starvest plc Report and Financial Statements",
+          "data": [
+            {
+              "key": "Company No.",
+              "value": "03981468"
+            },
+            {
+              "key": "Company Name",
+              "value": "Starvest plc"
+            },
+            {
+              "key": "Financial Year Ended",
+              "value": "30 September 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 2,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Notice of AGM",
+              "value": "48"
+            },
+            {
+              "key": "Officers and professional advisers",
+              "value": ""
+            },
+            {
+              "key": "Chairman's statement",
+              "value": ""
+            },
+            {
+              "key": "Investing policy statement",
+              "value": ""
+            },
+            {
+              "key": "Review of trading portfolio",
+              "value": ""
+            },
+            {
+              "key": "Board of directors",
+              "value": "12"
+            },
+            {
+              "key": "Strategic report",
+              "value": ""
+            },
+            {
+              "key": "Directors' report",
+              "value": "15"
+            },
+            {
+              "key": "Directors' responsibilities statement",
+              "value": "18"
+            },
+            {
+              "key": "Corporate governance statement",
+              "value": "19"
+            },
+            {
+              "key": "Audit Committee report",
+              "value": "26"
+            },
+            {
+              "key": "Remuneration Committee report",
+              "value": "28"
+            },
+            {
+              "key": "Independent auditor's report",
+              "value": "30"
+            },
+            {
+              "key": "Statement of comprehensive income",
+              "value": "34"
+            },
+            {
+              "key": "Statement of financial position",
+              "value": "35"
+            },
+            {
+              "key": "Statement of changes in equity",
+              "value": "36"
+            },
+            {
+              "key": "Statement of cash flows",
+              "value": "37"
+            },
+            {
+              "key": "Notes to the financial statements",
+              "value": "38"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 4,
+          "title": "Chairman’s Statement",
+          "data": [
+            {
+              "key": "Year Ended",
+              "value": "30 September 2022"
+            },
+            {
+              "key": "Global Issues",
+              "value": "global pandemic, ongoing war in Eastern Europe"
+            },
+            {
+              "key": "Investment Strategy",
+              "value": "focused on precious metal investments"
+            },
+            {
+              "key": "Gold Price Change",
+              "value": "declined 5.5%"
+            },
+            {
+              "key": "Investment Portfolio Value",
+              "value": "£6 million"
+            },
+            {
+              "key": "Discount to NAV",
+              "value": "narrowed from 34% to 29%"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 13,
+          "title": "Investment Overview of Starvest plc",
+          "data": [
+            {
+              "key": "Project",
+              "value": "Pioche sepiolite project"
+            },
+            {
+              "key": "Partners",
+              "value": "Tolsa USA Inc"
+            },
+            {
+              "key": "Investment Status",
+              "value": "advancing with new approvals for trenching"
+            },
+            {
+              "key": "Non-Core Investments",
+              "value": "available for sale when conditions are right"
+            },
+            {
+              "key": "Investments Listed",
+              "value": "Block Energy plc, Kendrick Resources"
+            },
+            {
+              "key": "Failed Ventures",
+              "value": "no attributed value, seeking to crystallise value"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 18,
+          "title": "Management of capital and going concern",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Starvest plc"
+            },
+            {
+              "key": "Current Borrowings",
+              "value": "No Borrowings"
+            },
+            {
+              "key": "Position on Going Concern",
+              "value": "Directors are confident adequate funding can be raised"
+            },
+            {
+              "key": "Management of Capital Objectives",
+              "value": "Continue as a going concern to provide returns to shareholders"
+            },
+            {
+              "key": "Investment Strategy Frequency",
+              "value": "Quarterly"
+            },
+            {
+              "key": "Interest Rate Risk Management",
+              "value": "Utilising short term floating rate accounts"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 33,
+          "title": "Independent Auditor's Report",
+          "data": [
+            {
+              "key": "Audit Approach",
+              "value": "Determined materiality and assessed the risk of material misstatement in the financial statements."
+            },
+            {
+              "key": "Key Audit Matters",
+              "value": "Includes significant risks of material misstatement identified during the audit."
+            },
+            {
+              "key": "Financial Assets Valuation",
+              "value": "Company holds equity investments valued at £6m as at 30 September 2022."
+            },
+            {
+              "key": "Investment Categories",
+              "value": "Investments categorized and disclosed in accordance with UK GAAP."
+            },
+            {
+              "key": "Legal Title Confirmation",
+              "value": "Ensured the company has legal title to the investments held."
+            },
+            {
+              "key": "Other Information",
+              "value": "The Auditor's responsibility to assess the consistency of other information with the financial statements."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 46,
+          "title": "Financial Performance Summary",
+          "data": [
+            {
+              "key": "Total Fair Value of Investments",
+              "value": "£6,156,173"
+            },
+            {
+              "key": "Decrease in Fair Value",
+              "value": "approximately 56% year-over-year"
+            },
+            {
+              "key": "Loss for Equity Resources Limited",
+              "value": "£2,181"
+            },
+            {
+              "key": "Total Payables",
+              "value": "£85,627"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 46,
+          "title": "Financial Assets Summary",
+          "data": [
+            {
+              "key": "Fair value of investments at 1 October",
+              "value": "£14,038,887"
+            },
+            {
+              "key": "Fair value (loss) on financial assets",
+              "value": "£7,234,928"
+            },
+            {
+              "key": "Additions NE",
+              "value": "£0"
+            },
+            {
+              "key": "Disposals",
+              "value": "£647,786"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 46,
+          "title": "Trade and Other Payables",
+          "data": [
+            {
+              "key": "Trade Creditors",
+              "value": "£33,143"
+            },
+            {
+              "key": "Accruals",
+              "value": "£21,470"
+            },
+            {
+              "key": "Employment Costs",
+              "value": "£30,841"
+            },
+            {
+              "key": "Other Payables",
+              "value": "£10"
+            },
+            {
+              "key": "Total Payables",
+              "value": "£85,627"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "Directors",
+          "data": [
+            {
+              "key": "Non-Executive Chairman",
+              "value": "Callum N Baxter"
+            },
+            {
+              "key": "Chief Executive Officer",
+              "value": "Mark J Badros"
+            },
+            {
+              "key": "Executive Director",
+              "value": "Gemma Cryan"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 9,
+          "title": "Leadership Changes in Greatland Gold plc",
+          "data": [
+            {
+              "key": "New Board Members",
+              "value": "Two former Fortescue Metals Group executives and a former BHP executive joined the board in January 2023."
+            },
+            {
+              "key": "Significance of New Leadership",
+              "value": "The new leaders are expected to add a dynamic to Greatland’s leadership team."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 14,
+          "title": "Board of Directors",
+          "data": [
+            {
+              "key": "Callum N Baxter",
+              "value": "Non-Executive Chairman, qualified Geologist (MSc Geol), investor, over 25 years in industry, former Executive Director of Greatland Gold plc"
+            },
+            {
+              "key": "Mark J Badros",
+              "value": "Chief Executive Officer, over 18 years in financial and investment experience, former analyst and investment manager at various firms, graduated from Princeton and Harvard Law School"
+            },
+            {
+              "key": "Gemma M Cryan",
+              "value": "Executive Director, qualifications in geology (BSc Hons), over 20 years in oil and gas and mineral exploration, Non-Executive Director at Great Western Mining Corporation and First Development Resources Plc"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 16,
+          "title": "Director's Statement on Strategic Governance",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Starvest plc"
+            },
+            {
+              "key": "Report Type",
+              "value": "Annual Report and Financial Statements"
+            },
+            {
+              "key": "Date",
+              "value": "07 February 2023"
+            },
+            {
+              "key": "Chief Executive Officer",
+              "value": "Mark Badros"
+            },
+            {
+              "key": "Company Registration Number",
+              "value": "03981468"
+            },
+            {
+              "key": "Reference to Section",
+              "value": "Section 172 (1) of the Companies Act 2006"
+            },
+            {
+              "key": "Governance Code",
+              "value": "Quoted Company Alliance’s Corporate Governance Code for Small and Mid-Size Quoted Companies"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 20,
+          "title": "Statement of directors' responsibilities",
+          "data": [
+            {
+              "key": "Company name",
+              "value": "Starvest plc"
+            },
+            {
+              "key": "Financial statements compliance",
+              "value": "United Kingdom Generally Accepted Accounting Practice"
+            },
+            {
+              "key": "Responsibilities",
+              "value": "Directors are responsible for preparing the Directors’ report, the strategic report and the financial statements in accordance with applicable law and regulations."
+            },
+            {
+              "key": "Legal compliance",
+              "value": "Companies Act 2006"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 24,
+          "title": "Board Composition and Attendance",
+          "data": [
+            {
+              "key": "Position",
+              "value": "Non-Executive Chairman (formerly Chairman/CEO)"
+            },
+            {
+              "key": "Member",
+              "value": "C Baxter"
+            },
+            {
+              "key": "AGM attendance",
+              "value": "Yes"
+            },
+            {
+              "key": "No. of board meetings",
+              "value": "13"
+            },
+            {
+              "key": "Attended",
+              "value": "13"
+            },
+            {
+              "key": "Position",
+              "value": "Executive Director"
+            },
+            {
+              "key": "Member",
+              "value": "G Cryan"
+            },
+            {
+              "key": "AGM attendance",
+              "value": "Yes"
+            },
+            {
+              "key": "No. of board meetings",
+              "value": "13"
+            },
+            {
+              "key": "Attended",
+              "value": "13"
+            },
+            {
+              "key": "Position",
+              "value": "CEO (formerly Non-Executive Director)"
+            },
+            {
+              "key": "Member",
+              "value": "M Badros"
+            },
+            {
+              "key": "AGM attendance",
+              "value": "Yes"
+            },
+            {
+              "key": "No. of board meetings",
+              "value": "13"
+            },
+            {
+              "key": "Attended",
+              "value": "13"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 25,
+          "title": "Corporate Governance Statement - Leadership of Starvest plc",
+          "data": [
+            {
+              "key": "Company Secretary",
+              "value": "The Company Secretary role is managed by the Company’s solicitor."
+            },
+            {
+              "key": "Non-Executive Director",
+              "value": "The Company’s Non-Executive Director for the period to 31st August 2022 is regarded as an Independent Director."
+            },
+            {
+              "key": "Chairman",
+              "value": "Mr. Baxter took the role of Non-executive Chairman on 1st September 2022 and is not considered independent."
+            },
+            {
+              "key": "Board Performance Evaluation",
+              "value": "The Board evaluates its performance effectiveness based on reviews carried out at every board meeting."
+            },
+            {
+              "key": "Director Skills Development",
+              "value": "Members are actively encouraged to participate in continuing professional development (CPD)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 26,
+          "title": "Corporate Governance Statement",
+          "data": [
+            {
+              "key": "Committees",
+              "value": "Remuneration Committee and Audit Committee"
+            },
+            {
+              "key": "Director Responsibilities",
+              "value": "Maintain high standards of business conduct; act fairly between members of the Company; confidentiality of non-public information"
+            },
+            {
+              "key": "Anti-Bribery Policy",
+              "value": "In accordance with the Bribery Act, all Directors have been informed and acknowledged the offence of engaging in bribery."
+            },
+            {
+              "key": "Governance Structure",
+              "value": "Governance structures and culture are appropriate for the size and capacity of the Company."
+            },
+            {
+              "key": "Chairman Role",
+              "value": "Communicate the strategy of the Board to shareholders."
+            },
+            {
+              "key": "CEO Role",
+              "value": "Ensure implementation and execution of the Board’s strategy."
+            },
+            {
+              "key": "Communication Responsibility",
+              "value": "Executive Directors communicate with shareholders."
+            },
+            {
+              "key": "Financial Priority",
+              "value": "Good financial management is a high priority."
+            },
+            {
+              "key": "Board Monitoring",
+              "value": "Constantly monitoring state of affairs; intends to expand when company grows."
+            },
+            {
+              "key": "Shareholder Communication",
+              "value": "Committed to effective communication with Shareholders."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 27,
+          "title": "Corporate Governance Statement",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Starvest plc"
+            },
+            {
+              "key": "Document Type",
+              "value": "Annual Report and Financial Statements"
+            },
+            {
+              "key": "Significant Developments",
+              "value": "Disseminated through stock exchange announcements and regular updates"
+            },
+            {
+              "key": "Contact for Shareholders",
+              "value": "Annual General Meeting as a communication forum"
+            },
+            {
+              "key": "CEO",
+              "value": "Mark Badros"
+            },
+            {
+              "key": "Date",
+              "value": "07 February 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 28,
+          "title": "Audit Committee Membership and Activities",
+          "data": [
+            {
+              "key": "Audit Committee Members",
+              "value": "Gemma Cryan, Mark Badros, Callum Baxter"
+            },
+            {
+              "key": "Chairman Duration",
+              "value": "Mark Badros: 1 Oct 2021 - 31 Aug 2022, Callum Baxter: 1 Sep 2022 - 30 Sep 2022"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": true,
+      "elements": [
+        {
+          "type": "layoff",
+          "page": 12,
+          "title": "Starvest plc 2022 Annual Report and Financial Statements",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Starvest plc"
+            },
+            {
+              "key": "Project",
+              "value": "Green Hydrogen and Green Ammonia Certification"
+            },
+            {
+              "key": "Land Package",
+              "value": "7000 acres for 30 years"
+            },
+            {
+              "key": "Focus",
+              "value": "Gold and Copper Deposits"
+            },
+            {
+              "key": "Main Projects",
+              "value": "Tulu Kapi in Ethiopia, Jibal Qutman, Hawiah in Saudi Arabia"
+            },
+            {
+              "key": "Audit Costs",
+              "value": "US$80 million"
+            },
+            {
+              "key": "JORC Resource Hawiah Project",
+              "value": "24.9 Mt at 0.9% Cu and 0.62g/t Au"
+            },
+            {
+              "key": "Feasibility Study Deadline",
+              "value": "End of 2022"
+            },
+            {
+              "key": "Total Licenses",
+              "value": "9 covering over 630 km2"
+            },
+            {
+              "key": "Hawiah Resource Increase",
+              "value": "16% to 29 Mt"
+            },
+            {
+              "key": "New Mining Lease Application",
+              "value": "Bakers Gold project in Western Australia"
+            },
+            {
+              "key": "Funding",
+              "value": "£480,000 through issue of equity from Towards Net Zero"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "layoff",
+          "page": 17,
+          "title": "Directors’ report",
+          "data": [
+            {
+              "key": "Company Results and Dividends",
+              "value": "The Company’s results are set out in the statement of comprehensive income on page 34."
+            },
+            {
+              "key": "Dividend Recommendation",
+              "value": "The Directors do not recommend the payment of a dividend for the year (2021: £nil)."
+            },
+            {
+              "key": "Directors Served",
+              "value": "The Directors who served during the year are Callum N Baxter, Mark J Badros, Gemma M Cryan."
+            },
+            {
+              "key": "Substantial Shareholdings Summary",
+              "value": "This table shows the major shareholders and their holdings in terms of shares and percentage of issued share capital."
+            },
+            {
+              "key": "Largest Shareholder",
+              "value": "WB Nominees Limited is the largest shareholder with 21.78% of shares."
+            },
+            {
+              "key": "Remuneration Policy",
+              "value": "The remuneration of the Directors has been fixed by the Board as a whole."
+            },
+            {
+              "key": "Supplier Payment Terms",
+              "value": "The Company’s policy is to settle terms of payment with suppliers when agreeing terms of business."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 30,
+          "title": "Remuneration Committee Report",
+          "data": [
+            {
+              "key": "Committee Membership",
+              "value": "Mark Badros (Chairman from 1 October 2021 – 31 August 2022), Callum Baxter (Chairman 1 September 2022 – 30 September 2022), Gemma Cryan."
+            },
+            {
+              "key": "Committee Activities",
+              "value": "Review Executive Director remuneration arrangements, review changes in remuneration related to board role changes, approve Executive Directors’ performance, review corporate governance and best practice."
+            },
+            {
+              "key": "Remuneration Policy",
+              "value": "Provide competitive packages to recruit, retain, and motivate individuals; align management interests with shareholders; ensure remuneration levels support company strategy; align pay with market conditions and company activities."
+            },
+            {
+              "key": "Current Bonus Scheme",
+              "value": "No current bonus or incentive scheme in place."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 31,
+          "title": "Executive Compensation Report",
+          "data": [
+            {
+              "key": "Board Member",
+              "value": "C Baxter"
+            },
+            {
+              "key": "Annual Remuneration £",
+              "value": "57,250"
+            },
+            {
+              "key": "Bonus £",
+              "value": "0"
+            },
+            {
+              "key": "Shares as at 30 Sept 2022",
+              "value": "8,098,753"
+            },
+            {
+              "key": "% Holding as at 30 Sept 2022",
+              "value": "13.90"
+            },
+            {
+              "key": "Board Member",
+              "value": "G Cryan"
+            },
+            {
+              "key": "Annual Remuneration £",
+              "value": "53,000"
+            },
+            {
+              "key": "Bonus £",
+              "value": "0"
+            },
+            {
+              "key": "Shares as at 30 Sept 2022",
+              "value": "1,490,254"
+            },
+            {
+              "key": "% Holding as at 30 Sept 2022",
+              "value": "2.56"
+            },
+            {
+              "key": "Board Member",
+              "value": "M Badros"
+            },
+            {
+              "key": "Annual Remuneration £",
+              "value": "29,750"
+            },
+            {
+              "key": "Bonus £",
+              "value": "0"
+            },
+            {
+              "key": "Shares as at 30 Sept 2022",
+              "value": "148,648"
+            },
+            {
+              "key": "% Holding as at 30 Sept 2022",
+              "value": "0.26"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 43,
+          "title": "Compensation or Allocation Summary",
+          "data": [
+            {
+              "key": "C Baxter Total",
+              "value": "57250"
+            },
+            {
+              "key": "G Cryan Total",
+              "value": "57321"
+            },
+            {
+              "key": "M Badros Total",
+              "value": "29750"
+            },
+            {
+              "key": "Overall Total Compensation",
+              "value": "141321"
+            },
+            {
+              "key": "Issued in C Baxter",
+              "value": "15000"
+            },
+            {
+              "key": "Issued in G Cryan",
+              "value": "6847"
+            },
+            {
+              "key": "Issued in M Badros",
+              "value": "0"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 43,
+          "title": "Year ended 30 September 2021",
+          "data": [
+            {
+              "key": "Baxter Total",
+              "value": "60000"
+            },
+            {
+              "key": "Cryan Total",
+              "value": "54317"
+            },
+            {
+              "key": "Vi Badros Total",
+              "value": "27000"
+            },
+            {
+              "key": "Overall Total Compensation",
+              "value": "141317"
+            },
+            {
+              "key": "Fees settled in shares Baxter",
+              "value": "45000"
+            },
+            {
+              "key": "Fees settled in shares Cryan",
+              "value": "27839"
+            },
+            {
+              "key": "Outstanding salary Baxter",
+              "value": "0"
+            },
+            {
+              "key": "Outstanding salary Cryan",
+              "value": "0"
+            },
+            {
+              "key": "Outstanding salary Badros",
+              "value": "6750"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 47,
+          "title": "Share Issuance and Capital Summary",
+          "data": [
+            {
+              "key": "date",
+              "value": "at 30 September 2020"
+            },
+            {
+              "key": "shares",
+              "value": "57573986"
+            },
+            {
+              "key": "amount",
+              "value": "575740"
+            },
+            {
+              "key": "date",
+              "value": "Issued 2 June 2021"
+            },
+            {
+              "key": "description",
+              "value": "in lieu of fees at 18.5p"
+            },
+            {
+              "key": "shares",
+              "value": "275635"
+            },
+            {
+              "key": "amount",
+              "value": "50992"
+            },
+            {
+              "key": "date",
+              "value": "Issued 27 July 2021"
+            },
+            {
+              "key": "description",
+              "value": "in lieu of fees at 16.5p"
+            },
+            {
+              "key": "shares",
+              "value": "132410"
+            },
+            {
+              "key": "amount",
+              "value": "21847"
+            },
+            {
+              "key": "date",
+              "value": "at 30 September 2021"
+            },
+            {
+              "key": "shares",
+              "value": "57982031"
+            },
+            {
+              "key": "amount",
+              "value": "648579"
+            },
+            {
+              "key": "date",
+              "value": "Issued 16 November 2021"
+            },
+            {
+              "key": "description",
+              "value": "in lieu of fees at 16.5p"
+            },
+            {
+              "key": "shares",
+              "value": "132407"
+            },
+            {
+              "key": "amount",
+              "value": "21847"
+            },
+            {
+              "key": "date",
+              "value": "Issued 7 April 2022"
+            },
+            {
+              "key": "description",
+              "value": "in lieu of fees at 13p"
+            },
+            {
+              "key": "shares",
+              "value": "168055"
+            },
+            {
+              "key": "amount",
+              "value": "21847"
+            },
+            {
+              "key": "date",
+              "value": "at 30 September 2022"
+            },
+            {
+              "key": "shares",
+              "value": "58282493"
+            },
+            {
+              "key": "amount",
+              "value": "692273"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 6,
+          "title": "Investing policy statement",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Starvest plc"
+            },
+            {
+              "key": "Investment",
+              "value": "Equity Resources Limited"
+            },
+            {
+              "key": "Investment Type",
+              "value": "Equity"
+            },
+            {
+              "key": "Management Participation",
+              "value": "Passive"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 10,
+          "title": "Ariana Resources plc and Alba Mineral Resources plc Overview",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Ariana Resources plc"
+            },
+            {
+              "key": "Project",
+              "value": "Salinbas Project"
+            },
+            {
+              "key": "Resource",
+              "value": "1.5Moz Au"
+            },
+            {
+              "key": "Investment",
+              "value": "US$2.5m"
+            },
+            {
+              "key": "Strategic Agreement",
+              "value": "Newmont Exploration Alliance Agreement"
+            },
+            {
+              "key": "Focus Areas",
+              "value": "Bosnia and Herzegovina, Bulgaria, Greece, Kosovo, North Macedonia, Serbia"
+            },
+            {
+              "key": "Construction Status",
+              "value": "Second mine at Tavsan is underway"
+            },
+            {
+              "key": "Resource Increase",
+              "value": "6.6Mt at 1.44g/t Au and 5.6g/t Ag"
+            },
+            {
+              "key": "Gold Production Guidance",
+              "value": "In line with guidance"
+            },
+            {
+              "key": "Alba Mineral Resources Focus",
+              "value": "UK gold projects, Clogau property acquisition"
+            },
+            {
+              "key": "Major Interest Stake",
+              "value": "54% in GreenRoc Mining plc"
+            },
+            {
+              "key": "GreenRoc Resource",
+              "value": "8.28Mt at 19.8% graphitic carbon"
+            },
+            {
+              "key": "Cash Position",
+              "value": "£2 million in cash"
+            },
+            {
+              "key": "Significant Development",
+              "value": "Spun out GreenRoc for Greenland graphite project"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 11,
+          "title": "Cora Gold Limited Exploration and Development Activities",
+          "data": [
+            {
+              "key": "Project Name",
+              "value": "Sanankoro"
+            },
+            {
+              "key": "Total Material",
+              "value": "24.9Mt at 1.15g/t Au"
+            },
+            {
+              "key": "Cash at End of June 2022",
+              "value": "$2m"
+            },
+            {
+              "key": "Free Cash Flow Over Mine Life",
+              "value": "$234m"
+            },
+            {
+              "key": "Average Production",
+              "value": "56,000oz per annum"
+            },
+            {
+              "key": "Mineral Resource Estimate Increase",
+              "value": "14%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 44,
+          "title": "Tax Reconciliation and Deferred Tax Analysis",
+          "data": [
+            {
+              "key": "Loss on ordinary activities before tax",
+              "value": "(7,540,842)"
+            },
+            {
+              "key": "Loss multiplied by standard rate of tax at 19% (2021: 19%)",
+              "value": "(1,432,760)"
+            },
+            {
+              "key": "Losses carried forward not recognised as deferred tax assets",
+              "value": "1,432,760"
+            },
+            {
+              "key": "Deferred tax credit",
+              "value": "(1,674,086)"
+            },
+            {
+              "key": "Deferred tax liability b/fwd at 30 September 2021 and 2020",
+              "value": "1,671,086"
+            },
+            {
+              "key": "Capital losses b/fwd at 30 September 2021 and 2020",
+              "value": "(3,515,024)"
+            },
+            {
+              "key": "Current year capital losses",
+              "value": "191,959"
+            },
+            {
+              "key": "Capital losses c/fwd at 30 September 2022 and 2021",
+              "value": "(3,323,065)"
+            },
+            {
+              "key": "Excess management expenses b/fwd at 30 September",
+              "value": "(2,249,467)"
+            },
+            {
+              "key": "Current year excess management expenses",
+              "value": "(305,944)"
+            },
+            {
+              "key": "Adjustments in respect of prior periods",
+              "value": "0"
+            },
+            {
+              "key": "Excess management expenses c/fwd at 30 September",
+              "value": "(2,555,411)"
+            },
+            {
+              "key": "Total losses",
+              "value": "(5,878,476)"
+            },
+            {
+              "key": "Profits b/fwd",
+              "value": "6,684,345"
+            },
+            {
+              "key": "Current year pre-tax loss",
+              "value": "(7,540,842)"
+            },
+            {
+              "key": "Profit attributable to deferred tax",
+              "value": ""
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 7,
+          "title": "Review of trading portfolio",
+          "data": [
+            {
+              "key": "Economic impact",
+              "value": "The economic shock of the global pandemic continued throughout 2022."
+            },
+            {
+              "key": "Value decrease",
+              "value": "The value of trading portfolio decreased ~56% due to lower market prices."
+            },
+            {
+              "key": "Net Asset Value (NAV)",
+              "value": "NAV and NAV per share decreased 53.4% and 53.7%, respectively."
+            },
+            {
+              "key": "Market capitalisation decrease",
+              "value": "Starvest’s market capitalisation decreased approximately 49%."
+            },
+            {
+              "key": "Discount to NAV",
+              "value": "Discount to NAV narrowed to 29% compared to 34% a year ago."
+            },
+            {
+              "key": "Loss before tax",
+              "value": "Loss before tax of £7,540,842 in 2022 compared to a loss of £3,861,014 in 2021."
+            },
+            {
+              "key": "Total NAV",
+              "value": "Company’s Net Asset Value decreased to £6.6m."
+            },
+            {
+              "key": "Strategy",
+              "value": "Focus on investments in gold producers."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 8,
+          "title": "Financial Performance Comparison",
+          "data": [
+            {
+              "key": "Trading portfolio value",
+              "value": "£6.2m (30 September 2022), £14.0m (30 September 2021), Change %: -55.7%"
+            },
+            {
+              "key": "Company net asset value",
+              "value": "£6.6m (30 September 2022), £14.1m (30 September 2021), Change %: -53.2%"
+            },
+            {
+              "key": "Net asset value per share",
+              "value": "11.3p (30 September 2022), 24.4p (30 September 2021), Change %: -53.7%"
+            },
+            {
+              "key": "Closing share price",
+              "value": "8.0p (30 September 2022), 16.0p (30 September 2021), Change %: -50%"
+            },
+            {
+              "key": "Share price discount to net asset value",
+              "value": "29% (30 September 2022), 34% (30 September 2021), Change %: 5 percent"
+            },
+            {
+              "key": "Market capitalisation",
+              "value": "£4.7m (30 September 2022), £9.3m (30 September 2021), Change %: -49.5%"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 15,
+          "title": "Finance Review",
+          "data": [
+            {
+              "key": "Loss before tax",
+              "value": "£7,540,842"
+            },
+            {
+              "key": "Loss per share",
+              "value": "12.96 pence"
+            },
+            {
+              "key": "Loss previous year",
+              "value": "£3,861,014"
+            },
+            {
+              "key": "Cash deposits at period end",
+              "value": "£406,106"
+            },
+            {
+              "key": "Net cash inflow for the year",
+              "value": "£327,830"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Independent Auditor’s Report",
+          "data": [
+            {
+              "key": "Opinion on Financial Statements Consistency",
+              "value": "The information given in the strategic report and the directors’ report for the financial year for which the financial statements are prepared is consistent with the financial statements."
+            },
+            {
+              "key": "Compliance with Legal Requirements",
+              "value": "The strategic report and the directors’ report have been prepared in accordance with applicable legal requirements."
+            },
+            {
+              "key": "Material Misstatements",
+              "value": "We have not identified material misstatements in the strategic report or the directors’ report."
+            },
+            {
+              "key": "Director's Responsibilities",
+              "value": "Directors are responsible for the preparation of the financial statements and for ensuring they give a true and fair view."
+            },
+            {
+              "key": "Going Concern Assessment",
+              "value": "Directors are responsible for assessing the company’s ability to continue as a going concern."
+            },
+            {
+              "key": "Auditor's Responsibilities",
+              "value": "Objectives are to obtain reasonable assurance about whether the financial statements are free from material misstatement."
+            },
+            {
+              "key": "Detection of Irregularities",
+              "value": "We design procedures to detect material misstatements in respect of irregularities, including fraud."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "Financial Statement",
+          "data": [
+            {
+              "key": "Administrative",
+              "value": "-305,944"
+            },
+            {
+              "key": "expenses (Loss)/gain on disposal of financial assets",
+              "value": "-53,398"
+            },
+            {
+              "key": "Movement in fair value of financial assets",
+              "value": "-7,234,928"
+            },
+            {
+              "key": "through profit or loss Investment income",
+              "value": "53,428"
+            },
+            {
+              "key": "Subtotal",
+              "value": "-7,540,842"
+            },
+            {
+              "key": "Operating loss",
+              "value": ""
+            },
+            {
+              "key": "Loss on ordinary activities before tax",
+              "value": "-7,540,842"
+            },
+            {
+              "key": "Tax on ordinary activities",
+              "value": "1,671,086"
+            },
+            {
+              "key": "Equity holders of the Company",
+              "value": "-5,869,756"
+            },
+            {
+              "key": "Basic earnings per share",
+              "value": "-10.09 pence"
+            },
+            {
+              "key": "Diluted earnings per share",
+              "value": "-10.09 pence"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Balance Sheet Statement",
+          "data": [
+            {
+              "key": "Financial assets at fair value through profit or loss",
+              "value": "£6,156,173"
+            },
+            {
+              "key": "Total non-current assets",
+              "value": "£6,156,173"
+            },
+            {
+              "key": "Trade and other receivables",
+              "value": "£77,424"
+            },
+            {
+              "key": "Cash and cash equivalents",
+              "value": "£406,106"
+            },
+            {
+              "key": "Total current assets",
+              "value": "£483,530"
+            },
+            {
+              "key": "Trade and other payables",
+              "value": "-£41,776"
+            },
+            {
+              "key": "Total current liabilities",
+              "value": "-£41,776"
+            },
+            {
+              "key": "Provision for deferred tax",
+              "value": "£0"
+            },
+            {
+              "key": "Total non-current liabilities",
+              "value": "£0"
+            },
+            {
+              "key": "Net assets",
+              "value": "£6,597,927"
+            },
+            {
+              "key": "Called up share capital",
+              "value": "£582,824"
+            },
+            {
+              "key": "Share premium account",
+              "value": "£1,888,863"
+            },
+            {
+              "key": "Retained earnings",
+              "value": "£4,126,240"
+            },
+            {
+              "key": "Total equity shareholders' funds",
+              "value": "£6,597,927"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Total Equity at 1 October 2020",
+              "value": "£15,879,632"
+            },
+            {
+              "key": "Loss for the period 2021",
+              "value": "£3,528,482"
+            },
+            {
+              "key": "Total comprehensive income",
+              "value": "£3,528,482"
+            },
+            {
+              "key": "Shares issued",
+              "value": "£72,839"
+            },
+            {
+              "key": "Total Equity at 30 September 2021",
+              "value": "£12,423,989"
+            },
+            {
+              "key": "Loss for the period 2022",
+              "value": "£5,869,756"
+            },
+            {
+              "key": "Total Equity at 30 September 2022",
+              "value": "£6,597,927"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Starvest plc 2022 Annual Report and Financial Statements - Statement of Cash Flows",
+          "data": [
+            {
+              "key": "Shares issued in settlement of salary and fees",
+              "value": "Current: 43,694; Previous: 72,839"
+            },
+            {
+              "key": "Movement in fair value of financial assets through profit or loss",
+              "value": "Current: 7,234,928; Previous: 3,645,360"
+            },
+            {
+              "key": "Loss/(profit) on sale of financial assets through profit or loss",
+              "value": "Current: 53,398; Previous: -19,339"
+            },
+            {
+              "key": "Increase in debtors",
+              "value": "Current: -13,885; Previous: -32,493"
+            },
+            {
+              "key": "Decrease in creditors",
+              "value": "Current: -43,851; Previous: -7,587"
+            },
+            {
+              "key": "Net cash used in operating activities",
+              "value": "Current: -266,558; Previous: -202,234"
+            },
+            {
+              "key": "Proceeds from sale of financial assets through profit of loss",
+              "value": "Current: 594,388; Previous: 160,145"
+            },
+            {
+              "key": "Net cash generated from investing activities",
+              "value": "Current: 594,388; Previous: 160,145"
+            },
+            {
+              "key": "Net increase/(decrease) in cash and cash equivalents",
+              "value": "Current: 327,830; Previous: -42,089"
+            },
+            {
+              "key": "Cash and cash equivalents at beginning of period",
+              "value": "Current: 78,276; Previous: 120,365"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Principal Accounting Policies",
+          "data": [
+            {
+              "key": "Financial Reporting Standards",
+              "value": "FRS 102 requires investments to be valued each year on the mark-to-market basis."
+            },
+            {
+              "key": "Deferred Tax",
+              "value": "Deferred tax is provided on an undiscounted full provision basis on all timing differences."
+            },
+            {
+              "key": "Investments Valuation",
+              "value": "Current investments are stated at mid-market publicly quoted prices."
+            },
+            {
+              "key": "Unlisted Shares Valuation",
+              "value": "Unlisted shares were valued at £nil as of 30 September 2022."
+            },
+            {
+              "key": "Dividend Income Recognition",
+              "value": "Dividend income is recognised when the right to receive payment is established."
+            },
+            {
+              "key": "Cash and Cash Equivalents Definition",
+              "value": "Includes cash on hand and deposits held at call with banks."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "Financial Charges Comparison",
+          "data": [
+            {
+              "key": "audit services",
+              "value": "19,200"
+            },
+            {
+              "key": "Director's emoluments — note 6",
+              "value": "141,321"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Earnings per Share",
+          "data": [
+            {
+              "key": "(Loss) for the year",
+              "value": "-5,869,756"
+            },
+            {
+              "key": "Weighted average number of Ordinary shares of £0.01 in issue",
+              "value": "58,181,646"
+            },
+            {
+              "key": "(Loss) per share — basic and diluted",
+              "value": "-10.09"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Trade and Other Receivables",
+          "data": [
+            {
+              "key": "Total",
+              "value": "£77,424"
+            },
+            {
+              "key": "30 September 2021",
+              "value": "£63,539"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Financial Instruments and Capital Management",
+          "data": [
+            {
+              "key": "Credit Risk",
+              "value": "The Company’s credit risk arises primarily from short term loans to related parties and the risk the counterparty fails to discharge its obligations. At 30 September 2022 there were no loans outstanding (2021: £nil)."
+            },
+            {
+              "key": "Liquidity Risk",
+              "value": "Liquidity risk arises from the management of cash funds and working capital. The risk is that the Company will fail to meet its financial obligations as they fall due. The Company operates within the constraints of available funds and cash flow projections are produced and regularly reviewed by management."
+            },
+            {
+              "key": "Interest rate risk profile of financial assets",
+              "value": "The only financial assets (other than short term debtors) are cash at bank and in hand, which comprises money at call. The interest earned in the year was negligible."
+            },
+            {
+              "key": "Foreign currency risk",
+              "value": "The Company has no material exposure to foreign currency fluctuations."
+            },
+            {
+              "key": "Market risk",
+              "value": "The Company is exposed to market risk in that the value of its investments would be expected to vary depending on trading activity of its shares."
+            },
+            {
+              "key": "Summary of Financial Instruments",
+              "value": "This table presents a financial statement showing assets and liabilities. The main components include trade investments, dividends receivable, cash equivalents, and investment funds under assets (totaling 6,589,799 in the first period and 14,119,154 in the second period), and accruals and payables under liabilities (totaling 41,776 and 83,640 respectively). There is a notable decrease in trade investments between periods, while cash and cash equivalents showed significant increase."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "dividend_policy",
+          "page": 40,
+          "title": "Starvest plc 2022 annual report and financial statements",
+          "data": [
+            {
+              "key": "Company Information",
+              "value": "Starvest plc is a Public Limited Company incorporated in England & Wales. The registered office is Salisbury House, London Wall, London, EC2M 5PS. The Company's shares are listed on the AIM market of the London Stock Exchange."
+            },
+            {
+              "key": "Preparation Date",
+              "value": "07 February 2023"
+            },
+            {
+              "key": "Going Concern",
+              "value": "The Directors are confident that adequate funding can be raised as required to meet the Company's current and future liabilities."
+            },
+            {
+              "key": "Statement on Borrowings",
+              "value": "As at the date of this report, the Company has no borrowings."
+            },
+            {
+              "key": "Financial Statements Basis",
+              "value": "The financial statements have been prepared in accordance with applicable United Kingdom accounting standards."
+            },
+            {
+              "key": "Current Currency",
+              "value": "Pounds sterling"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": false,
+      "elements": []
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 22,
+          "title": "Corporate governance statement",
+          "data": [
+            {
+              "key": "Risk Factors",
+              "value": "The business is inherently high risk and cyclical in nature dependent upon fluctuations in world economic activity which impacts on the demand for minerals."
+            },
+            {
+              "key": "Lack of Liquidity",
+              "value": "The investee companies almost invariably lack share market liquidity, even if quoted on AIM, AQSE, ASX, or TSX-V."
+            },
+            {
+              "key": "Success Rate",
+              "value": "Of the 15 to 20 investments held at any one time, it is expected that no more than five will prove to be ‘winners’."
+            },
+            {
+              "key": "Profit Distribution",
+              "value": "It is the intention of the Board to recommend the distribution of up to half the profits realised when profits have been realised."
+            },
+            {
+              "key": "Shareholder Relationship",
+              "value": "The Board recognizes accountability to Shareholders and aims to provide effective communication."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 5,
+          "title": "Investment Strategy Overview",
+          "data": [
+            {
+              "key": "Investment Policy Statement",
+              "value": "Starvest plc 2022 Annual Report and Financial Statements"
+            },
+            {
+              "key": "Company Objective",
+              "value": "Source of early-stage finance to fledgling businesses to maximize capital value and generate benefits for Shareholders in the form of capital growth and modest dividends."
+            },
+            {
+              "key": "High Risk Factors",
+              "value": "Inherently high risk and cyclical business, dependent on fluctuations in world economic activity."
+            },
+            {
+              "key": "Success Rate Expectation",
+              "value": "Of multiple investments held, no more than five will prove to be 'winners'; modest share price improvements expected from half of the remainder."
+            },
+            {
+              "key": "Profit Distribution Plan",
+              "value": "When profits have been realized, up to half the profits will be distributed."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "guidance_update",
+          "page": 21,
+          "title": "Corporate Governance Statement",
+          "data": [
+            {
+              "key": "Commitment to corporate governance principles",
+              "value": "The Board of Starvest plc are committed to the principles of good corporate governance and believe in the importance and value of robust corporate governance and in accountability to shareholders and stakeholders."
+            },
+            {
+              "key": "Adherence to corporate governance code",
+              "value": "Starvest has chosen to adhere to the Quoted Company Alliance’s Corporate Governance Code for Small and Mid-Size Quoted Companies (the “QCA Code”)."
+            },
+            {
+              "key": "Compliance with QCA Code",
+              "value": "The Company complies with the vast majority of the QCA Code but does not achieve full compliance with Principles 5 and 7."
+            },
+            {
+              "key": "Non-compliance issues",
+              "value": "Principle 5: The company currently has fewer than two independent directors; Principle 7: There are no formal evaluation procedures for individual board members."
+            },
+            {
+              "key": "Future plans",
+              "value": "The Board plans to address the areas of non-compliance as the Company grows by appointing additional members and potentially formal evaluation processes."
+            },
+            {
+              "key": "Investment strategy",
+              "value": "The Company is established to provide early-stage finance to fledgling businesses, especially in the natural resources sector."
+            },
+            {
+              "key": "Investment size",
+              "value": "Initial investments are usually not greater than £100,000."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "guidance_update",
+          "page": 29,
+          "title": "Audit Committee Report",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Starvest plc"
+            },
+            {
+              "key": "Report Type",
+              "value": "Annual Report and Financial Statements"
+            },
+            {
+              "key": "Audit Committee Responsibilities",
+              "value": "Review management letter, responsiveness to auditor's findings, and effectiveness of external audit process."
+            },
+            {
+              "key": "Chairman",
+              "value": "Mark Badros"
+            },
+            {
+              "key": "Report Date",
+              "value": "07 February 2023"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 19,
+          "title": "Liquidity Risk and Other Financial Management Disclosures",
+          "data": [
+            {
+              "key": "Liquidity risk management",
+              "value": "The Company seeks to manage financial risk, to ensure sufficient liquidity is available to meet foreseeable needs and to invest cash assets safely and profitably."
+            },
+            {
+              "key": "Borrowing facilities",
+              "value": "As at 30 September 2022, the Company has no borrowings (2021: £25,000 unutilised overdraft facility)."
+            },
+            {
+              "key": "Currency risk",
+              "value": "The Company trades substantially within the United Kingdom and all transactions are denominated in Sterling."
+            },
+            {
+              "key": "Market price risk",
+              "value": "The Company is naturally exposed to market price risk, by the nature of its trade in investments."
+            },
+            {
+              "key": "Statement of disclosure to auditors",
+              "value": "The Directors confirm that there is no relevant audit information of which the Company’s auditor is unaware."
+            },
+            {
+              "key": "Independent Auditor",
+              "value": "A resolution to appoint PKF Littlejohn LLP as auditor for the coming year will be proposed at the forthcoming AGM."
+            },
+            {
+              "key": "Date of report",
+              "value": "07 February 2023"
+            },
+            {
+              "key": "Company registration number",
+              "value": "03981468"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 35,
+          "title": "INDependent Auditor's Report to the Members of Starvest PLC",
+          "data": [
+            {
+              "key": "Relevant Laws and Regulations",
+              "value": "Companies Act 2006, FRS 102, AIM Rules"
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "Enquiries of management, Review of board minutes, Review of related party transactions"
+            },
+            {
+              "key": "Fraud Risks Identified",
+              "value": "Management override of controls, Existence and good title to investments"
+            },
+            {
+              "key": "Responsibilities for Audit",
+              "value": "Auditor's responsibilities as per Financial Reporting Council's guidelines"
+            },
+            {
+              "key": "Date of Report",
+              "value": "07 February 2023"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 23,
+          "title": "Corporate Governance Statement",
+          "data": [
+            {
+              "key": "Stakeholder Engagement",
+              "value": "The Company engages with stakeholder groups, both internal and external, on a regular basis."
+            },
+            {
+              "key": "Ethically Sound Entities",
+              "value": "The company deals only with ethically sound entities to reduce investment risks."
+            },
+            {
+              "key": "CSR Policy",
+              "value": "A good CSR policy enhances an investee company’s standing and progress."
+            },
+            {
+              "key": "Investment Benefits",
+              "value": "Investment generally brings positive benefits to local communities."
+            },
+            {
+              "key": "Risk Management",
+              "value": "The Company maintains a risk register that identifies key risks and investment opportunities."
+            },
+            {
+              "key": "Board Composition",
+              "value": "The Board comprises three Directors, including two Executive Directors."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 32,
+          "title": "Independent Auditor’s Report on Financial Statements of Starvest PLC",
+          "data": [
+            {
+              "key": "Opinion",
+              "value": "We have audited the financial statements of Starvest Plc (the ‘company’) for the year ended 30 September 2022 which comprise the Statement of Comprehensive Income, the Statement of Financial Position, the Statement of Changes in Equity, the Statement of Cash Flows and notes to the financial statements."
+            },
+            {
+              "key": "Conclusion on going concern",
+              "value": "We have concluded that the Director's use of the going concern basis of accounting in the preparation of the financial statements is appropriate."
+            },
+            {
+              "key": "Materiality",
+              "value": "Materiality for the company financial statements was set at £184,000 (2021: £422,000)."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 16,
+    "EUR": 7,
+    "GBP": 109,
+    "AUD": 131,
+    "CAD": 1,
+    "CHF": 1
+  },
+  "sha1": "53aa4bfb3b29d7fc064e97626fc4f860942ca9fd"
+}

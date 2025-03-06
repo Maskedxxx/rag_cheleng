@@ -1,0 +1,5093 @@
+{
+  "letters": 203804,
+  "pages": 75,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 3
+    },
+    "company_name": "Galileo Resources Plc",
+    "major_industry": "Pharmaceuticals",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Annual Report 2022",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Document Type",
+              "value": "Annual Report"
+            },
+            {
+              "key": "Subject",
+              "value": "Annual overview of mergers and acquisitions"
+            },
+            {
+              "key": "Highlights",
+              "value": "Key mergers and acquisitions during the year."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 2,
+          "title": "Annual Financial Statements for the year ended 31 March 2022",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Galileo Resources Plc"
+            },
+            {
+              "key": "Country of Incorporation",
+              "value": "United Kingdom"
+            },
+            {
+              "key": "Business Nature",
+              "value": "Holding Company for subsidiary undertakings and investments engaged in the exploration of natural resources."
+            },
+            {
+              "key": "Report Date",
+              "value": "31 March 2022"
+            },
+            {
+              "key": "Sections",
+              "value": "Chairman's Report, Operations Report, Directors' Report, Independent Auditors' Report on the Financial Statements, Group and Company Statements of Financial Position, Group and Company Statements of Comprehensive Income, Group and Company Statements of Changes in Equity, Group and Company Statements of Cash Flows, Notes to the Financial Statements"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 4,
+          "title": "Chairman’s Report",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Galileo"
+            },
+            {
+              "key": "Assets Sold",
+              "value": "approximately 50% of licences to Sandfire Resources Limited"
+            },
+            {
+              "key": "Deferred Payment",
+              "value": "up to US$80 million"
+            },
+            {
+              "key": "Sale Value",
+              "value": "US$1.5 million cash and shares worth approximately US$1.8 million"
+            },
+            {
+              "key": "Exploration Budget (Sandfire)",
+              "value": "US$4 million"
+            },
+            {
+              "key": "Partial Sale (Glenover)",
+              "value": "ZAR 50.7 million"
+            },
+            {
+              "key": "Payment for Mining Rights",
+              "value": "ZAR 10 million"
+            },
+            {
+              "key": "Potential Sale Value (Afrimat)",
+              "value": "ZAR 102 million"
+            },
+            {
+              "key": "Acquisitions in Zambia",
+              "value": "Luansobe and Shinganda"
+            },
+            {
+              "key": "Joint Venture",
+              "value": "B.C. Ventures Limited for lithium and gold"
+            },
+            {
+              "key": "Joint Venture Expenditure",
+              "value": "US$1.5 million"
+            },
+            {
+              "key": "Acquired Shares in B.C. Ventures",
+              "value": "29% for 50 million Galileo ordinary shares"
+            },
+            {
+              "key": "Lithium Resource Quality",
+              "value": "0.58% lithium oxide"
+            },
+            {
+              "key": "Exploration Plans",
+              "value": "drilling during the 4th quarter of 2022"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 6,
+          "title": "Joint Venture Agreement with Statunga Investments Limited",
+          "data": [
+            {
+              "key": "Vendor",
+              "value": "Statunga Investments Limited"
+            },
+            {
+              "key": "Project",
+              "value": "Luansobe Project"
+            },
+            {
+              "key": "Licence Number",
+              "value": "28340–HQ-SEL"
+            },
+            {
+              "key": "Area Covered",
+              "value": "918 Hectares"
+            },
+            {
+              "key": "Initial Payment Amount",
+              "value": "US$200,000"
+            },
+            {
+              "key": "Second Payment Amount",
+              "value": "US$200,000 by 20 February 2022"
+            },
+            {
+              "key": "Galileo Shares Issued",
+              "value": "5,000,000"
+            },
+            {
+              "key": "Joint Venture Structure",
+              "value": "Special purpose joint venture company to acquire the Licence"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 8,
+          "title": "Operations Report",
+          "data": [
+            {
+              "key": "Team",
+              "value": "GeoQuest team conducting pXRF readings on historical drill cores"
+            },
+            {
+              "key": "Observation",
+              "value": "Historic Luansobe drill core showing zone of copper oxide mineralisation (green colour)"
+            },
+            {
+              "key": "Report Type",
+              "value": "Annual Report and Accounts"
+            },
+            {
+              "key": "Reporting Date",
+              "value": "31 March 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 11,
+          "title": "Drilling Results and Copper Concentration Data",
+          "data": [
+            {
+              "key": "Hole No.",
+              "value": "SHDDO01"
+            },
+            {
+              "key": "Dip",
+              "value": "-50"
+            },
+            {
+              "key": "Azimuth",
+              "value": "360"
+            },
+            {
+              "key": "Depth (m) start",
+              "value": "6.0"
+            },
+            {
+              "key": "Depth (m) end",
+              "value": "17.0"
+            },
+            {
+              "key": "Interval",
+              "value": "11.0"
+            },
+            {
+              "key": "Ccu%",
+              "value": "0.63"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 11,
+          "title": "",
+          "data": [
+            {
+              "key": "identifier",
+              "value": "SHDDO02"
+            },
+            {
+              "key": "value1",
+              "value": "-50"
+            },
+            {
+              "key": "value2",
+              "value": "360"
+            },
+            {
+              "key": "value3",
+              "value": "21.0"
+            },
+            {
+              "key": "value4",
+              "value": "71.3"
+            },
+            {
+              "key": "value5",
+              "value": "50.3"
+            },
+            {
+              "key": "value6",
+              "value": "1.53"
+            },
+            {
+              "key": "identifier",
+              "value": "Incl. Incl."
+            },
+            {
+              "key": "value1",
+              "value": ""
+            },
+            {
+              "key": "value2",
+              "value": ""
+            },
+            {
+              "key": "value3",
+              "value": "47.0"
+            },
+            {
+              "key": "value4",
+              "value": "54.0"
+            },
+            {
+              "key": "value5",
+              "value": "7.0"
+            },
+            {
+              "key": "value6",
+              "value": "4.36"
+            },
+            {
+              "key": "identifier",
+              "value": "Incl. Incl."
+            },
+            {
+              "key": "value1",
+              "value": ""
+            },
+            {
+              "key": "value2",
+              "value": ""
+            },
+            {
+              "key": "value3",
+              "value": "48.0"
+            },
+            {
+              "key": "value4",
+              "value": "50.0"
+            },
+            {
+              "key": "value5",
+              "value": "2.0"
+            },
+            {
+              "key": "value6",
+              "value": "11.31"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 11,
+          "title": "",
+          "data": [
+            {
+              "key": "identifier",
+              "value": "SHDDO003"
+            },
+            {
+              "key": "value1",
+              "value": "-50"
+            },
+            {
+              "key": "value2",
+              "value": "360"
+            },
+            {
+              "key": "start",
+              "value": "58.0"
+            },
+            {
+              "key": "end",
+              "value": "60.0"
+            },
+            {
+              "key": "difference",
+              "value": "2.0"
+            },
+            {
+              "key": "rate",
+              "value": "0.52"
+            },
+            {
+              "key": "identifier",
+              "value": "and"
+            },
+            {
+              "key": "value1",
+              "value": ""
+            },
+            {
+              "key": "value2",
+              "value": ""
+            },
+            {
+              "key": "start",
+              "value": "73.0"
+            },
+            {
+              "key": "end",
+              "value": "77.0"
+            },
+            {
+              "key": "difference",
+              "value": "4.0"
+            },
+            {
+              "key": "rate",
+              "value": "0.54"
+            },
+            {
+              "key": "identifier",
+              "value": "and"
+            },
+            {
+              "key": "value1",
+              "value": ""
+            },
+            {
+              "key": "value2",
+              "value": ""
+            },
+            {
+              "key": "start",
+              "value": "92.0"
+            },
+            {
+              "key": "end",
+              "value": "94.0"
+            },
+            {
+              "key": "difference",
+              "value": "2.0"
+            },
+            {
+              "key": "rate",
+              "value": "1.02"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 11,
+          "title": "",
+          "data": [
+            {
+              "key": "Note",
+              "value": "The provided HTML table is empty, containing only empty tbody tags with no data rows or headers."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 13,
+          "title": "Kamativi Lithium Project Acquisition",
+          "data": [
+            {
+              "key": "Company Acquiring",
+              "value": "Zhejiang Huayou Cobalt"
+            },
+            {
+              "key": "Percentage Acquired",
+              "value": "100%"
+            },
+            {
+              "key": "Transaction Value",
+              "value": "US$422m"
+            },
+            {
+              "key": "Project Location",
+              "value": "Kamativi, Zimbabwe"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 14,
+          "title": "Operations Report Summary",
+          "data": [
+            {
+              "key": "Project Name",
+              "value": "Bulawayo Gold Project"
+            },
+            {
+              "key": "Location",
+              "value": "Near Bulawayo, Zimbabwe"
+            },
+            {
+              "key": "Mine License Area",
+              "value": "1,300 km2"
+            },
+            {
+              "key": "Environmental Permits",
+              "value": "Acquired"
+            },
+            {
+              "key": "Exploration Work",
+              "value": "Geological mapping, rock grab sampling, and soil sampling"
+            },
+            {
+              "key": "Gold Production",
+              "value": "55,000 ounces in 2019"
+            },
+            {
+              "key": "Projected Gold Production Increase",
+              "value": "80,000 ounces from 2022"
+            },
+            {
+              "key": "Total Gold Produced from Property",
+              "value": "Over 1 million ounces"
+            },
+            {
+              "key": "Main Production Source",
+              "value": "Caledonia Mining Corporation Plc, Blanket Gold Mine"
+            },
+            {
+              "key": "Aim of Exploration",
+              "value": "Support development of large scale mine, explore for high-grade targets"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 16,
+          "title": "Operations Report",
+          "data": [
+            {
+              "key": "Geological Setting",
+              "value": "The interpreted geological setting beneath the Kalahari sand deposits is based on regional aeromagnetic and EM data. Similarities to Khoemacau Copper-Silver Project."
+            },
+            {
+              "key": "Combined Resource",
+              "value": "502Mt @ 1.4% Cu and 17g/t Ag, including 185Mt @ 2.0% Cu and 27g/t Ag."
+            },
+            {
+              "key": "Motheo Copper Mine",
+              "value": "60Mt @ 0.98% Cu & 13.6g/t Ag; Definitive Feasibility Study completed December 2020."
+            },
+            {
+              "key": "Variation Agreements",
+              "value": "Entered into two variation agreements with Sandfire Resources in relation to the Licence Sale Agreement."
+            },
+            {
+              "key": "Exploration Expenditure Reimbursement",
+              "value": "Sandfire to reimburse up to US$500,000 of exploration expenditure incurred by Galileo."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 19,
+          "title": "Glenover Asset Sale Agreement",
+          "data": [
+            {
+              "key": "Asset Sale Agreement consideration",
+              "value": "ZAR250 million (approximately £12.5 million)"
+            },
+            {
+              "key": "Phase 1 unconditional consideration",
+              "value": "ZAR215.1 million (approximately £10.8 million)"
+            },
+            {
+              "key": "Dividend paid",
+              "value": "ZAR46 million (approximately £2.3 million)"
+            },
+            {
+              "key": "Galileo's shareholding in Glenover",
+              "value": "29%"
+            },
+            {
+              "key": "Expected completion date",
+              "value": "on or before 10 November 2022"
+            },
+            {
+              "key": "Conditional Share Sale Agreement consideration",
+              "value": "ZAR300 million (approximately £14.5 million)"
+            }
+          ],
+          "currency": "ZAR"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 33,
+          "title": "Materiality Thresholds and Basis",
+          "data": [
+            {
+              "key": "Overall materiality - Group",
+              "value": "£306,500 (2021: £142,500)"
+            },
+            {
+              "key": "Overall materiality - Company",
+              "value": "£153,000 (2021: £100,000)"
+            },
+            {
+              "key": "Performance materiality - Group",
+              "value": "£214,550 (2021: £99,750)"
+            },
+            {
+              "key": "Performance materiality - Company",
+              "value": "£107,100 (2021: £70,000)"
+            },
+            {
+              "key": "Basis of materiality - Group",
+              "value": "2% of Gross assets"
+            },
+            {
+              "key": "Basis of materiality - Company",
+              "value": "2% of Gross assets blended with 2% of loss before tax"
+            },
+            {
+              "key": "Rationale - Group",
+              "value": "Gross assets are considered to be an appropriate benchmark as group activities are in the exploration stage."
+            },
+            {
+              "key": "Rationale - Company",
+              "value": "Gross assets are considered to be an appropriate benchmark as the net investments in subsidiaries are the most significant balances in the Company financial statements."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 42,
+          "title": "Equity and Reserves Statement",
+          "data": [
+            {
+              "key": "merger_reserve",
+              "value": "1,047,821"
+            },
+            {
+              "key": "share_based_payment_reserve",
+              "value": "283,292"
+            },
+            {
+              "key": "total_reserves",
+              "value": "1,331,113"
+            },
+            {
+              "key": "accumulated_loss",
+              "value": "(19,216,866)"
+            },
+            {
+              "key": "total_equity",
+              "value": "8,583,566"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 42,
+          "title": "Equity and Reserves Statement - Period 2",
+          "data": [
+            {
+              "key": "accumulated_loss",
+              "value": "(2,079,373)"
+            },
+            {
+              "key": "total_equity",
+              "value": "(2,079,373)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 42,
+          "title": "Equity and Reserves Statement - Period 3",
+          "data": [
+            {
+              "key": "shares_to_be_issued_reserve",
+              "value": "150,000"
+            },
+            {
+              "key": "share_based_payment_reserve",
+              "value": "(247,218)"
+            },
+            {
+              "key": "total_reserves",
+              "value": "(97,218)"
+            },
+            {
+              "key": "accumulated_loss",
+              "value": "240,987"
+            },
+            {
+              "key": "total_equity",
+              "value": "2,435,255"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 44,
+          "title": "Notes to the Financial Statements",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Galileo Resources PLC"
+            },
+            {
+              "key": "ACN",
+              "value": "N/A"
+            },
+            {
+              "key": "financial_statement_date",
+              "value": "31 March 2022"
+            },
+            {
+              "key": "presentation_above_policy",
+              "value": "The consolidated annual financial statements have been prepared in accordance with UK-adopted International Accounting Standard and the Companies Act 2006."
+            },
+            {
+              "key": "acquisitions_policy",
+              "value": "The Group accounts for business combinations using the acquisition method of accounting."
+            },
+            {
+              "key": "business_combination_cost_measurement",
+              "value": "Aggregate of the fair values of assets given, liabilities incurred or assumed and equity instruments issued."
+            },
+            {
+              "key": "non_controlling_interests_recognition",
+              "value": "Non-controlling interests are recognised separately from the Group’s interest in subsidiaries."
+            },
+            {
+              "key": "acquiree_identifiable_assets_liabilities_recognition",
+              "value": "Recognised at their fair values at acquisition date."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 45,
+          "title": "Notes to the Financial Statements",
+          "data": [
+            {
+              "key": "Goodwill Measurement",
+              "value": "Measured to fair value as at acquisition date and included in profit or loss."
+            },
+            {
+              "key": "Investment in Associates",
+              "value": "Are accounted using the equity method, significant influence without control."
+            },
+            {
+              "key": "Joint Ventures",
+              "value": "Accounted for using equity method when there is joint control."
+            },
+            {
+              "key": "Significant Judgements",
+              "value": "Management uses estimates and judgment which may differ materially."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 46,
+          "title": "Recoverability of Exploration and Evaluation Costs",
+          "data": [
+            {
+              "key": "Capitalised Costs",
+              "value": "The Company incurs costs directly attributable to exploration and evaluation which are capitalised to each individual project."
+            },
+            {
+              "key": "Intangible Assets",
+              "value": "Costs are capitalised giving rise to an intangible asset in the consolidated statement."
+            },
+            {
+              "key": "Impairment Assessment",
+              "value": "Exploration and evaluation assets are assessed for impairment if sufficient data exist to determine technical feasibility and commercial viability."
+            },
+            {
+              "key": "Investment in Subsidiaries",
+              "value": "Investment in subsidiaries are carried at cost less any accumulated impairment."
+            },
+            {
+              "key": "Investment in Joint Ventures",
+              "value": "Investment in a joint venture is carried at cost less any accumulated impairment."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 53,
+          "title": "Intangible Assets",
+          "data": [
+            {
+              "key": "license_number",
+              "value": "PL 250/2018"
+            },
+            {
+              "key": "company",
+              "value": "Crocus-Serv Resources Pty Ltd"
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "license_number",
+              "value": "PL 251/2018"
+            },
+            {
+              "key": "company",
+              "value": "Crocus-Serv Resources Pty Ltd"
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "license_number",
+              "value": "PL 366/2018"
+            },
+            {
+              "key": "company",
+              "value": "Africibum Co Pty Ltd"
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "license_number",
+              "value": "PL 367/2018"
+            },
+            {
+              "key": "company",
+              "value": "Africibum Co Pty Ltd"
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "license_number",
+              "value": "PL 122/2020"
+            },
+            {
+              "key": "company",
+              "value": "Africibum Co Pty Ltd"
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "license_number",
+              "value": "PL 154/2020"
+            },
+            {
+              "key": "company",
+              "value": "Africibum Co Pty Ltd"
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "license_number",
+              "value": "PL 044/2018"
+            },
+            {
+              "key": "company",
+              "value": "Virgo Business Solutions Pty Ltd"
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "license_number",
+              "value": "PL 045/2018"
+            },
+            {
+              "key": "company",
+              "value": "Virgo Business Solutions Pty Ltd"
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 56,
+          "title": "Loans to/(from) subsidiaries and joint ventures",
+          "data": [
+            {
+              "key": "summary",
+              "value": "This table presents loan balances between the company and its subsidiaries, joint ventures, and associates for the periods ending March 2021 and March 2022. The data is shown in two different sections, possibly representing different reporting perspectives. Notable points include: 1) Galileo Resources SA has the largest loan balance of over 5.3M in 2022; 2) Most subsidiary loans show increases from 2021 to 2022; 3) Glenover Phosphate shows significant loan amounts in both reporting columns, with 781,265 in the first column for 2022. The loans are described as interest-free, unsecured, and without repayment terms."
+            },
+            {
+              "key": "category",
+              "value": "Loans to/(from) subsidiaries"
+            },
+            {
+              "key": "company",
+              "value": "Galileo Resources SA (Pty) Ltd"
+            },
+            {
+              "key": "march_2022_1",
+              "value": "-"
+            },
+            {
+              "key": "march_2021_1",
+              "value": "-"
+            },
+            {
+              "key": "march_2022_2",
+              "value": "5,327,047"
+            },
+            {
+              "key": "march_2021_2",
+              "value": "5,212,913"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 56,
+          "title": "Fair value through profit or loss",
+          "data": [
+            {
+              "key": "investment",
+              "value": "Galagen - Ordinary shares"
+            },
+            {
+              "key": "group_2022",
+              "value": "9"
+            },
+            {
+              "key": "group_2021",
+              "value": "8"
+            },
+            {
+              "key": "company_2022",
+              "value": "0"
+            },
+            {
+              "key": "company_2021",
+              "value": "0"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 57,
+          "title": "Sandfire Transaction Details",
+          "data": [
+            {
+              "key": "Transaction Date",
+              "value": "16 September 2021"
+            },
+            {
+              "key": "Seller",
+              "value": "Galileo"
+            },
+            {
+              "key": "Buyer",
+              "value": "Sandfire Resources"
+            },
+            {
+              "key": "Transaction Details",
+              "value": "Sale of 9 Kalahari Copper Belt Licences"
+            },
+            {
+              "key": "Consideration",
+              "value": "370,477 Sandfire ordinary shares"
+            },
+            {
+              "key": "First Right of Refusal",
+              "value": "Yes"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 57,
+          "title": "Financial Assets Comparison",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Amortised cost"
+            },
+            {
+              "key": "Asset Name",
+              "value": "Galagen"
+            },
+            {
+              "key": "Group 2022",
+              "value": "116327"
+            },
+            {
+              "key": "Group 2021",
+              "value": "3420"
+            },
+            {
+              "key": "Company 2022",
+              "value": "17928"
+            },
+            {
+              "key": "Company 2021",
+              "value": "0"
+            },
+            {
+              "key": "Category",
+              "value": "Amortised cost"
+            },
+            {
+              "key": "Asset Name",
+              "value": "Shinganda Project"
+            },
+            {
+              "key": "Group 2022",
+              "value": "1680"
+            },
+            {
+              "key": "Group 2021",
+              "value": "0"
+            },
+            {
+              "key": "Company 2022",
+              "value": "1680"
+            },
+            {
+              "key": "Company 2021",
+              "value": "0"
+            },
+            {
+              "key": "Category",
+              "value": "Amortised cost"
+            },
+            {
+              "key": "Asset Name",
+              "value": "Oval Mining"
+            },
+            {
+              "key": "Group 2022",
+              "value": "45815"
+            },
+            {
+              "key": "Group 2021",
+              "value": "0"
+            },
+            {
+              "key": "Company 2022",
+              "value": "45815"
+            },
+            {
+              "key": "Company 2021",
+              "value": "0"
+            },
+            {
+              "key": "Category",
+              "value": "Subtotal"
+            },
+            {
+              "key": "Asset Name",
+              "value": "Subtotal"
+            },
+            {
+              "key": "Group 2022",
+              "value": "163822"
+            },
+            {
+              "key": "Group 2021",
+              "value": "3420"
+            },
+            {
+              "key": "Company 2022",
+              "value": "65422"
+            },
+            {
+              "key": "Company 2021",
+              "value": "0"
+            },
+            {
+              "key": "Category",
+              "value": "Non-current assets"
+            },
+            {
+              "key": "Asset Name",
+              "value": "At fair value through profit or loss"
+            },
+            {
+              "key": "Group 2022",
+              "value": "1830795"
+            },
+            {
+              "key": "Group 2021",
+              "value": "370101"
+            },
+            {
+              "key": "Company 2022",
+              "value": "1435553"
+            },
+            {
+              "key": "Company 2021",
+              "value": "0"
+            },
+            {
+              "key": "Category",
+              "value": "Non-current assets"
+            },
+            {
+              "key": "Asset Name",
+              "value": "At amortised cost"
+            },
+            {
+              "key": "Group 2022",
+              "value": "163821"
+            },
+            {
+              "key": "Group 2021",
+              "value": "3420"
+            },
+            {
+              "key": "Company 2022",
+              "value": "65422"
+            },
+            {
+              "key": "Company 2021",
+              "value": "0"
+            },
+            {
+              "key": "Category",
+              "value": "Non-current assets"
+            },
+            {
+              "key": "Asset Name",
+              "value": "Total other financial assets"
+            },
+            {
+              "key": "Group 2022",
+              "value": "1994617"
+            },
+            {
+              "key": "Group 2021",
+              "value": "373521"
+            },
+            {
+              "key": "Company 2022",
+              "value": "1500975"
+            },
+            {
+              "key": "Company 2021",
+              "value": "0"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 64,
+          "title": "Financial Liabilities and Trade Payables",
+          "data": [
+            {
+              "key": "14. OTHER FINANCIAL LIABILITIES",
+              "value": "6 in 2022, up from 5 in 2021"
+            },
+            {
+              "key": "15. TRADE AND OTHER PAYABLES",
+              "value": "Trade payables decreased significantly from 56,083 in 2021 to 31,649 in 2022"
+            },
+            {
+              "key": "Accrued expense",
+              "value": "Dropped from 270,833 in 2021 to 74,583 in 2022"
+            },
+            {
+              "key": "Total Trade and Other Payables",
+              "value": "Considerable drop from 326,916 in 2021 to 106,232 in 2022."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 68,
+          "title": "RELATED PARTY BALANCES AND TRANSACTIONS",
+          "data": [
+            {
+              "key": "party",
+              "value": "Galileo Resources SA (Pty) Ltd"
+            },
+            {
+              "key": "amount1",
+              "value": ""
+            },
+            {
+              "key": "amount2",
+              "value": ""
+            },
+            {
+              "key": "amount3",
+              "value": "4,927,425"
+            },
+            {
+              "key": "amount4",
+              "value": "5,212,913"
+            },
+            {
+              "key": "party",
+              "value": "Skiptons Global Investment Ltd"
+            },
+            {
+              "key": "amount1",
+              "value": ""
+            },
+            {
+              "key": "amount2",
+              "value": ""
+            },
+            {
+              "key": "amount3",
+              "value": "12,160"
+            },
+            {
+              "key": "amount4",
+              "value": "10,482"
+            },
+            {
+              "key": "party",
+              "value": "Glenover"
+            },
+            {
+              "key": "amount1",
+              "value": "961,509"
+            },
+            {
+              "key": "amount2",
+              "value": "335,390"
+            },
+            {
+              "key": "amount3",
+              "value": "274,314"
+            },
+            {
+              "key": "amount4",
+              "value": "237,568"
+            },
+            {
+              "key": "party",
+              "value": "SHIP - Concordia"
+            },
+            {
+              "key": "amount1",
+              "value": "10,994"
+            },
+            {
+              "key": "amount2",
+              "value": "10,294"
+            },
+            {
+              "key": "amount3",
+              "value": ""
+            },
+            {
+              "key": "amount4",
+              "value": ""
+            },
+            {
+              "key": "party",
+              "value": "Crosuc-Serv (Pty) Ltd"
+            },
+            {
+              "key": "amount1",
+              "value": ""
+            },
+            {
+              "key": "amount2",
+              "value": ""
+            },
+            {
+              "key": "amount3",
+              "value": "14,020"
+            },
+            {
+              "key": "amount4",
+              "value": "24,281"
+            },
+            {
+              "key": "party",
+              "value": "Virgo Business Solutions (Pty) Ltd"
+            },
+            {
+              "key": "amount1",
+              "value": ""
+            },
+            {
+              "key": "amount2",
+              "value": ""
+            },
+            {
+              "key": "amount3",
+              "value": "93,651"
+            },
+            {
+              "key": "amount4",
+              "value": "4,976"
+            },
+            {
+              "key": "party",
+              "value": "Lion Mining Finance Limited"
+            },
+            {
+              "key": "amount1",
+              "value": "25,200"
+            },
+            {
+              "key": "amount2",
+              "value": "31,007"
+            },
+            {
+              "key": "amount3",
+              "value": "25,200"
+            },
+            {
+              "key": "amount4",
+              "value": "31,007"
+            },
+            {
+              "key": "party",
+              "value": "Colin Bird"
+            },
+            {
+              "key": "details",
+              "value": "Expense reimbursement, 5,000,000 ordinary shares issued for warrant exercise, 10,570,862 ordinary shares issued for director remuneration"
+            },
+            {
+              "key": "amount1",
+              "value": "30,000"
+            },
+            {
+              "key": "amount2",
+              "value": "24,633"
+            },
+            {
+              "key": "amount3",
+              "value": "30,000"
+            },
+            {
+              "key": "amount4",
+              "value": "24,633"
+            },
+            {
+              "key": "party",
+              "value": "Richard Wollenberg"
+            },
+            {
+              "key": "details",
+              "value": "5,854,170 ordinary shares issued for director remuneration"
+            },
+            {
+              "key": "amount1",
+              "value": "106,250"
+            },
+            {
+              "key": "amount2",
+              "value": ""
+            },
+            {
+              "key": "amount3",
+              "value": "106,250"
+            },
+            {
+              "key": "amount4",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 68,
+          "title": "EMPLOYEE COST (EXCLUDING DIRECTORS)",
+          "data": [
+            {
+              "key": "category",
+              "value": "Employees"
+            },
+            {
+              "key": "Group_2022",
+              "value": "14200"
+            },
+            {
+              "key": "Group_2021",
+              "value": "8900"
+            },
+            {
+              "key": "Company_2022",
+              "value": "14200"
+            },
+            {
+              "key": "Company_2021",
+              "value": "8900"
+            },
+            {
+              "key": "category",
+              "value": "Senior management"
+            },
+            {
+              "key": "Group_2022",
+              "value": "92040"
+            },
+            {
+              "key": "Group_2021",
+              "value": "88855"
+            },
+            {
+              "key": "Company_2022",
+              "value": "65378"
+            },
+            {
+              "key": "Company_2021",
+              "value": "54250"
+            },
+            {
+              "key": "category",
+              "value": "Average number of employees excluding directors"
+            },
+            {
+              "key": "Group_2022",
+              "value": "2"
+            },
+            {
+              "key": "Group_2021",
+              "value": "2"
+            },
+            {
+              "key": "Company_2022",
+              "value": "2"
+            },
+            {
+              "key": "Company_2021",
+              "value": "2"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 72,
+          "title": "Business Combinations",
+          "data": [
+            {
+              "key": "Acquisition Date",
+              "value": "21 May 2020"
+            },
+            {
+              "key": "Acquired Entity",
+              "value": "Crocus-Serv (Pty) Ltd"
+            },
+            {
+              "key": "Percentage Acquired",
+              "value": "100%"
+            },
+            {
+              "key": "Exploration Licenses Acquired",
+              "value": "21 (19 in Kalahari Belt, 2 in Limpopo Belt)"
+            },
+            {
+              "key": "Total Area Covered (sq km)",
+              "value": "14875"
+            },
+            {
+              "key": "Effective Date of Acquisition",
+              "value": "21 May 2020"
+            },
+            {
+              "key": "Acquisition Details",
+              "value": "Acquisition included Africibum and Virgo Business Solutions"
+            },
+            {
+              "key": "Conditions Precedent",
+              "value": "Due diligence completion and necessary regulatory approvals"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 73,
+          "title": "Business Combinations and Subsequent Events",
+          "data": [
+            {
+              "key": "Fair Value Adjustment",
+              "value": "£2 million recognized on the acquisition date"
+            },
+            {
+              "key": "Acquiror",
+              "value": "Galileo"
+            },
+            {
+              "key": "Acquiree",
+              "value": "Crocus-Serv (Pty) Ltd"
+            },
+            {
+              "key": "Acquisition Type",
+              "value": "100% ownership"
+            },
+            {
+              "key": "Bargain Purchase Gain",
+              "value": "Recognized from the acquisition"
+            },
+            {
+              "key": "Subsequent Events",
+              "value": "Options granted for 39,000,000 shares at 1.35 pence per share"
+            },
+            {
+              "key": "Acquisition of Additional Shares",
+              "value": "Agreement to acquire an additional 29% of BC Ventures Limited"
+            },
+            {
+              "key": "Consideration Shares",
+              "value": "50,000,000 Galileo Resources plc shares"
+            },
+            {
+              "key": "Expenditure Period Extension",
+              "value": "Extended to 21 July 2024 for US$1.5 million expenditure"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 74,
+          "title": "Merger and Acquisition Activity",
+          "data": [
+            {
+              "key": "Date",
+              "value": "2023-10-10"
+            },
+            {
+              "key": "Company A",
+              "value": "Galileo Resources Ltd."
+            },
+            {
+              "key": "Company B",
+              "value": "XYZ Mining Corp."
+            },
+            {
+              "key": "Transaction Type",
+              "value": "Acquisition"
+            },
+            {
+              "key": "Deal Value",
+              "value": "$50 million"
+            },
+            {
+              "key": "Details",
+              "value": "Galileo Resources announced the acquisition of XYZ Mining Corp. to expand its portfolio in the mining sector."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "Corporate Directory and Professional Advisers",
+          "data": [
+            {
+              "key": "Directors",
+              "value": "Colin Bird - Chairman and CEO, Edward P Slowey - Technical Director, Joel M Silberstein - Finance Director, Christopher Molefe - Non-Executive Director, John Richard Wollenberg - Non-Executive Director"
+            },
+            {
+              "key": "Secretarial Services",
+              "value": "Link Group, Beaufort House, 51 New North Road, Exeter, EX4 4EP, United Kingdom"
+            },
+            {
+              "key": "Registrar",
+              "value": "Neville Registrars, Neville House, Steelpark Road, Halesowen, West Midlands, B62 8HD"
+            },
+            {
+              "key": "Registered Office",
+              "value": "7/8 Kendrick Mews, London, SW7 3HG, United Kingdom"
+            },
+            {
+              "key": "Banker",
+              "value": "National Westminster Bank Plc, 186 Brompton Road, London, SW3 1XJ"
+            },
+            {
+              "key": "Auditors",
+              "value": "PKF Littlejohn LLP, 15 Westferry Circus, London, E14 4HD, United Kingdom"
+            },
+            {
+              "key": "Nominated Advisor",
+              "value": "Beaumont Cornish Limited, Building 3, Chiswick High Road, London, W4 5YA"
+            },
+            {
+              "key": "Joint Broker 1",
+              "value": "Novum Securities Limited, 2nd Floor, Lansdowne House, 57 Berkeley Square, London, W1J 6ER, United Kingdom"
+            },
+            {
+              "key": "Joint Broker 2",
+              "value": "Shard Capital Partners LLP, Floor 3, 70 St Mary Axe, London, EC3A 8BE, United Kingdom"
+            },
+            {
+              "key": "Incorporation No:",
+              "value": "05679987"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 27,
+          "title": "Directors’ Report",
+          "data": [
+            {
+              "key": "current_directors",
+              "value": "Colin Bird (Chairman & CEO), Edward Slowey (Technical Director), Joel Silberstein (Finance Director), Christopher Molefe (Non-Executive Director), Richard Wollenberg (Non-Executive Director)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 28,
+          "title": "Current Directors and Executive Team",
+          "data": [
+            {
+              "key": "Executive Technical Director",
+              "value": "Edward (Ed) Slowey"
+            },
+            {
+              "key": "Educational Background",
+              "value": "BSc degree in Geology from the National University of Ireland"
+            },
+            {
+              "key": "Professional Experience",
+              "value": "More than 40 years in mineral exploration, mining, and project management."
+            },
+            {
+              "key": "Previous Roles",
+              "value": "Mine geologist at Europe’s largest zinc mine, exploration manager for Rio Tinto, exploration geologist and consultant globally."
+            },
+            {
+              "key": "Notable Achievements",
+              "value": "Discovery of the Cavanacaw gold deposit, completion of CPR’s and 43-101 technical reports, worked with the World Bank and EU."
+            },
+            {
+              "key": "Other Roles",
+              "value": "Director of private and public companies, including CEO and Technical Director at Orogen Gold Plc."
+            },
+            {
+              "key": "Executive Finance Director",
+              "value": "Joel Silberstein"
+            },
+            {
+              "key": "Education",
+              "value": "Honours Bachelor of Accounting Science from the University of South Africa"
+            },
+            {
+              "key": "Professional Background",
+              "value": "Qualified as Chartered Accountant with Mazars, experience in financial controller roles."
+            },
+            {
+              "key": "Corporate Transactions",
+              "value": "Involved in corporate transactions at Xtract Resources Plc and experience in multiple jurisdictions."
+            },
+            {
+              "key": "Non-Executive Director",
+              "value": "J Richard Wollenberg"
+            },
+            {
+              "key": "Experience",
+              "value": "Investment consultant with Brown Shipley, actively involved in corporate acquisitions and reorganizations."
+            },
+            {
+              "key": "Current Role",
+              "value": "Chairman and CEO of The Cardiff Property Plc."
+            },
+            {
+              "key": "Non-Executive Role",
+              "value": "Non-executive director of Aquila Services Group Plc."
+            },
+            {
+              "key": "Non-Executive Director",
+              "value": "Christopher (Chris) Molefe"
+            },
+            {
+              "key": "Professional Background",
+              "value": "Formerly Chief Executive of Royal Bafokeng Resources, resigned from Merafe Resources."
+            },
+            {
+              "key": "Current Role",
+              "value": "Non-executive director of Jubilee Metals Group Plc."
+            },
+            {
+              "key": "Experience",
+              "value": "Held multiple positions in corporate banking and industry over 20 years."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 29,
+          "title": "Directors’ Report",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Galileo Resources plc"
+            },
+            {
+              "key": "Code of Conduct",
+              "value": "AIM Code for Directors’ and employees’ dealings in securities"
+            },
+            {
+              "key": "Audit and Compliance Committee Chair",
+              "value": "Christopher Molefe"
+            },
+            {
+              "key": "Remuneration Committee Chair",
+              "value": "Richard Wollenberg"
+            },
+            {
+              "key": "Chief Executive Officer",
+              "value": "Colin Bird"
+            },
+            {
+              "key": "Non-Executive Directors Guidelines",
+              "value": "In place and observed for appointments"
+            },
+            {
+              "key": "Company Website",
+              "value": "www.galileoresources.com"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 12,
+          "title": "Kashitu and Star Zinc Projects Overview",
+          "data": [
+            {
+              "key": "Kashitu Zinc Exploration License",
+              "value": "A new small-scale exploration licence issued on 23rd February 2022, running for four years."
+            },
+            {
+              "key": "Star Zinc Project Agreement",
+              "value": "Conditional agreement with Siege Mining Limited to cede ownership and operation for US$750,000."
+            },
+            {
+              "key": "Star Zinc Royalty Agreement",
+              "value": "Royalty based on zinc grade, minimum 3% increasing by 1% for every US$250 increase in zinc price over US$2,500 up to 10%."
+            },
+            {
+              "key": "BC Ventures Agreement",
+              "value": "Agreement on 4 March 2022 for a 51% interest in BC Ventures and commitment to spend US$1,500,000 on exploration."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 12,
+          "title": "Geological Map of Kamativi and Bulawayo Projects",
+          "data": [
+            {
+              "key": "Kamativi Regional Area",
+              "value": "EPO 1782, covering 1520km², primary targets: Li-Ta."
+            },
+            {
+              "key": "Bulawayo Area",
+              "value": "EPOs 1783 & 1784, covering 1300km², primary target: Au."
+            },
+            {
+              "key": "Map Features",
+              "value": "Distinct geological formations highlighted in different colors, with markers for locations of interest."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 23,
+          "title": "Directors’ Shareholding Analysis",
+          "data": [
+            {
+              "key": "Beneficial Owner",
+              "value": "Colin Bird"
+            },
+            {
+              "key": "Shares 2022",
+              "value": "78,605,862"
+            },
+            {
+              "key": "Percentage 2022",
+              "value": "717"
+            },
+            {
+              "key": "Shares 2021",
+              "value": "63,035,000"
+            },
+            {
+              "key": "Percentage 2021",
+              "value": "6.91"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 23,
+          "title": "Directors’ Interests in the Company’s Share Option Scheme",
+          "data": [
+            {
+              "key": "Beneficial Owner",
+              "value": "Colin Bird"
+            },
+            {
+              "key": "Column1",
+              "value": "22,000,000"
+            },
+            {
+              "key": "Column2",
+              "value": "27,000,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 23,
+          "title": "Financial Figures for Directors",
+          "data": [
+            {
+              "key": "Colin Bird",
+              "value": "37,000,000"
+            },
+            {
+              "key": "Ed Slowey",
+              "value": "9,500,000"
+            },
+            {
+              "key": "Joel Silberstein",
+              "value": "6,000,000"
+            },
+            {
+              "key": "John Richard Wollenberg",
+              "value": "2,500,000"
+            },
+            {
+              "key": "Chris Molefe",
+              "value": "2,600,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 30,
+          "title": "Directors' Responsibilities and Approval",
+          "data": [
+            {
+              "key": "stakeholder_engagement",
+              "value": "The Board seeks active engagement with all stakeholder groups, particularly communities, host governments, employees, and suppliers."
+            },
+            {
+              "key": "board_responsibility",
+              "value": "Directors are responsible for maintaining adequate accounting records and the integrity of financial statements."
+            },
+            {
+              "key": "financial_statement_compliance",
+              "value": "The consolidated annual financial statements are prepared in accordance with UK-adopted international accounting standards."
+            },
+            {
+              "key": "internal_control_importance",
+              "value": "The directors acknowledge their responsibility for the internal financial control system."
+            },
+            {
+              "key": "risk_management_focus",
+              "value": "The focus is on identifying, assessing, managing, and monitoring known forms of risk."
+            },
+            {
+              "key": "going_concern_basis",
+              "value": "Preparation of accounts is based on the going concern assumption."
+            },
+            {
+              "key": "financial_position_review",
+              "value": "Directors have reviewed the Group’s financial position and are satisfied with resource adequacy."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 48,
+          "title": "Taxes and Share Capital",
+          "data": [
+            {
+              "key": "Cash and cash equivalents",
+              "value": "Cash on hand and demand deposits, and other short-term highly liquid investments."
+            },
+            {
+              "key": "Current tax",
+              "value": "Current tax assets and liabilities for the current and prior periods."
+            },
+            {
+              "key": "Deferred tax",
+              "value": "Recognition of deferred tax liabilities and assets."
+            },
+            {
+              "key": "Tax expenses",
+              "value": "Current and deferred taxes recognised as income or expense."
+            },
+            {
+              "key": "Equity instruments",
+              "value": "Contracts evidencing a residual interest in the assets of an entity."
+            },
+            {
+              "key": "Share-based payments",
+              "value": "Goods or services received in exchange for equity settled transactions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 49,
+          "title": "Employee benefits",
+          "data": [
+            {
+              "key": "Short-term employee benefits",
+              "value": "The cost of short-term employee benefits are recognised in the period in which the service is rendered."
+            },
+            {
+              "key": "Translation of foreign currencies",
+              "value": "Items are measured using the currency of the primary economic environment."
+            },
+            {
+              "key": "Investments in subsidiaries, joint ventures and associates",
+              "value": "Results and financial position of a foreign operation are translated into the functional currency."
+            },
+            {
+              "key": "Non-current assets held for sale",
+              "value": "Non-current assets are classified as held for sale if their carrying amount will be recovered principally through a sale."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 55,
+          "title": "Investment in Joint Ventures and Associates",
+          "data": [
+            {
+              "key": "Name of Company",
+              "value": "Associate - Glenover Phosphate (Pty) Limited - ordinary shares"
+            },
+            {
+              "key": "31 March 2022 % holding",
+              "value": "35.69"
+            },
+            {
+              "key": "31 March 2021 —% holding",
+              "value": "34.0"
+            },
+            {
+              "key": "2022 Carrying amount",
+              "value": "2,936,125"
+            },
+            {
+              "key": "2021 Carrying amount",
+              "value": "1,979,640"
+            },
+            {
+              "key": "summary",
+              "value": "The table shows investment holdings and carrying amounts for Glenover Phosphate (Pty) Limited. The company's holding percentage increased from 34.0% in March 2021 to 35.69% in March 2022. The carrying amount also increased significantly from 1,979,640 in 2021 to 2,936,125 in 2022, representing a growth of approximately 48%."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 55,
+          "title": "Financial Comparison",
+          "data": [
+            {
+              "key": "item",
+              "value": "Carrying value at the beginning of the year"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "1,979,640"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "1,834,710"
+            },
+            {
+              "key": "item",
+              "value": "Equity accounted profit/(loss) for the year"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "3,433,034"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "(9,088)"
+            },
+            {
+              "key": "item",
+              "value": "Effect of change in translation currency"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "343,913"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "154,017"
+            },
+            {
+              "key": "item",
+              "value": "Effect of loan conversion"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "180,244"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "0"
+            },
+            {
+              "key": "item",
+              "value": "Carrying value end"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "2,936,125"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "1,979,640"
+            },
+            {
+              "key": "item",
+              "value": "Current assets"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "4,963,825"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "220"
+            },
+            {
+              "key": "item",
+              "value": "Non-current assets"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "1,504,428"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "1,408,685"
+            },
+            {
+              "key": "item",
+              "value": "Current liabilities"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "(317,175)"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "(423,685)"
+            },
+            {
+              "key": "item",
+              "value": "Net assets"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "6,151,078"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "985,221"
+            },
+            {
+              "key": "item",
+              "value": "Income"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "3,797,500"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "0"
+            },
+            {
+              "key": "item",
+              "value": "Interest received/(paid)"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "857"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "(4,678)"
+            },
+            {
+              "key": "item",
+              "value": "Expenses"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "(365,323)"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "(4,409)"
+            },
+            {
+              "key": "item",
+              "value": "Taxation"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "2"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "0"
+            },
+            {
+              "key": "item",
+              "value": "Equity accounted profit/(loss) for the year"
+            },
+            {
+              "key": "31 March 2022",
+              "value": "3,433,034"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "(9,088)"
+            },
+            {
+              "key": "summary",
+              "value": "This table presents a financial comparison between March 2022 and March 2021, showing significant improvement in financial performance. Key highlights include a substantial increase in net assets from 985,221 to 6,151,078, and a dramatic improvement in equity accounted profit from a loss of 9,088 in 2021 to a profit of 3,433,034 in 2022. Current assets showed remarkable growth from 220 to 4,963,825, while current liabilities improved from (423,685) to (317,175). The company also recorded significant income of 3,797,500 in 2022 compared to no income in the previous year."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 61,
+          "title": "Share Transaction History and Balance Report",
+          "data": [
+            {
+              "key": "Opening balance",
+              "value": "911,976,317"
+            },
+            {
+              "key": "19-Apr-21",
+              "value": "500,000 at £0.60 (Director RW purchase)"
+            },
+            {
+              "key": "19-May-21",
+              "value": "250,000 at £0.60 (Warrants exercised)"
+            },
+            {
+              "key": "19-May-21",
+              "value": "150,000 at £1.25 (Warrants exercised)"
+            },
+            {
+              "key": "11-Jun-21",
+              "value": "133,666,664 at £1.50 (Placing for cash)"
+            },
+            {
+              "key": "18-Aug-21",
+              "value": "3,500,000 at £0.60 (Warrants exercised)"
+            },
+            {
+              "key": "04-Oct-21",
+              "value": "10,000,000 at £0.60 (Warrants exercised)"
+            },
+            {
+              "key": "27-Oct-21",
+              "value": "5,000,000 at £0.60 (Colin Bird Warrants)"
+            },
+            {
+              "key": "27-Oct-21",
+              "value": "5,500,000 at £0.60 (Warrants exercised)"
+            },
+            {
+              "key": "03-Dec-21",
+              "value": "10,570,862 at £0.60 (Shares in lieu of director fees)"
+            },
+            {
+              "key": "03-Dec-21",
+              "value": "5,854,170 at £0.70 (Shares in lieu of director fees)"
+            },
+            {
+              "key": "03-Dec-21",
+              "value": "1,233,000 at £2.68 (Settlement of debt)"
+            },
+            {
+              "key": "03-Dec-21",
+              "value": "933,331 at £1.34 (Settlement of debt)"
+            },
+            {
+              "key": "31-Dec-21",
+              "value": "2,812,500 at £0.80 (Warrants exercised)"
+            },
+            {
+              "key": "22-Feb-22",
+              "value": "5,000,000 at £1.13 (Acquisition)"
+            },
+            {
+              "key": "Closing balance",
+              "value": "1,096,946,844"
+            },
+            {
+              "key": "10-Mar-22",
+              "value": "13,741,609 at £1.09 (Acquisition)"
+            },
+            {
+              "key": "Final Total",
+              "value": "1,110,688,453"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 61,
+          "title": "Share-Based Payments",
+          "data": [
+            {
+              "key": "Outstanding at the beginning of the year",
+              "value": "68,400,000 (9,700,000 lapsed)"
+            },
+            {
+              "key": "Granted during the year (18 May 2020 at 1.3 pence per option)",
+              "value": "17,550,000"
+            },
+            {
+              "key": "Granted during the year (18 May 2020 at 1.80 pence per option)",
+              "value": "17,550,000"
+            },
+            {
+              "key": "Granted during the year (03 November 2020 at 1.45 pence per option)",
+              "value": "11,800,000"
+            },
+            {
+              "key": "Granted during the year (03 November 2020 at 1.85 pence per option)",
+              "value": "11,800,000"
+            },
+            {
+              "key": "Outstanding and exercisable at the end of the year (2022)",
+              "value": "58,700,000"
+            },
+            {
+              "key": "Outstanding and exercisable at the end of the year (2021)",
+              "value": "68,400,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 62,
+          "title": "Share-Based Payments and Warrants",
+          "data": [
+            {
+              "key": "Table: Option Pricing Parameters Summary",
+              "value": "This table presents option pricing parameters and values for four different scenarios. The strike prices range from 1.30 to 1.85 pence, with average spot prices at grant date of 0.83 and 0.75 pence. Expected volatility varies between 87% and 98%, with a consistent expected option life of 5 years and risk-free interest rate of 29%. No dividends are expected. The resulting option values range from 0.44 to 0.49."
+            },
+            {
+              "key": "Summary of Options Held by Directors",
+              "value": "This table appears to be a compensation or allocation table for company directors across different price points or time periods. Colin Bird has the highest individual allocation at 22,000,000, while the total across all directors amounts to 32,100,000. The table shows four different rate categories (1.30, 1.80, 1.45, and 1.85) with varying allocations for each director. Joel Silberstein notably has no allocations for the first two categories."
+            },
+            {
+              "key": "Summary of Options Held by Directors at Last Practicable Date",
+              "value": "This table appears to be a breakdown of financial allocations or compensation for different directors across various price points or time periods. Colin Bird has the highest individual allocation at 37,000,000, while the total sum across all entries is 57,600,000. The table uses multiple price points (1.30, 1.80, 1.45, 1.85, 1.35) to categorize the allocations. Edward Slowey's entries are split across two rows, with the second row potentially representing cumulative totals."
+            },
+            {
+              "key": "Warrants Outstanding",
+              "value": "The table shows warrant issuance details across two periods. The first issuance was on September 15, 2020, with 10 million warrants at 2.00 pence expiring October 15, 2022. The second issuance was on June 1, 2021, with approximately 3.34 million warrants at a slightly higher price of 2.25 pence, expiring June 1, 2023. There is a noticeable decrease in the number of warrants issued in the second period, though at a higher price point."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 69,
+          "title": "DIRECTORS' REMUNERATION",
+          "data": [
+            {
+              "key": "director",
+              "value": "Colin Bird"
+            },
+            {
+              "key": "march_2022",
+              "value": "36500"
+            },
+            {
+              "key": "march_2021",
+              "value": "12833"
+            },
+            {
+              "key": "company_march_2022",
+              "value": "36500"
+            },
+            {
+              "key": "company_march_2021",
+              "value": "12833"
+            },
+            {
+              "key": "type",
+              "value": "Executive"
+            },
+            {
+              "key": "director",
+              "value": "Edward Slowey"
+            },
+            {
+              "key": "march_2022",
+              "value": "19000"
+            },
+            {
+              "key": "march_2021",
+              "value": "11500"
+            },
+            {
+              "key": "company_march_2022",
+              "value": "19000"
+            },
+            {
+              "key": "company_march_2021",
+              "value": "11500"
+            },
+            {
+              "key": "type",
+              "value": "Executive"
+            },
+            {
+              "key": "director",
+              "value": "Joel Silberstein"
+            },
+            {
+              "key": "march_2022",
+              "value": "41500"
+            },
+            {
+              "key": "march_2021",
+              "value": "26555"
+            },
+            {
+              "key": "company_march_2022",
+              "value": "41500"
+            },
+            {
+              "key": "company_march_2021",
+              "value": "26555"
+            },
+            {
+              "key": "type",
+              "value": "Executive"
+            },
+            {
+              "key": "director",
+              "value": "Andrew Sarosi"
+            },
+            {
+              "key": "march_2022",
+              "value": "0"
+            },
+            {
+              "key": "march_2021",
+              "value": "10000"
+            },
+            {
+              "key": "company_march_2022",
+              "value": "0"
+            },
+            {
+              "key": "company_march_2021",
+              "value": "10000"
+            },
+            {
+              "key": "type",
+              "value": "Executive"
+            },
+            {
+              "key": "director",
+              "value": "Christopher Molefe"
+            },
+            {
+              "key": "march_2022",
+              "value": "16000"
+            },
+            {
+              "key": "march_2021",
+              "value": "19250"
+            },
+            {
+              "key": "company_march_2022",
+              "value": "16000"
+            },
+            {
+              "key": "company_march_2021",
+              "value": "19250"
+            },
+            {
+              "key": "type",
+              "value": "Non-executive"
+            },
+            {
+              "key": "director",
+              "value": "Richard Wollenberg"
+            },
+            {
+              "key": "march_2022",
+              "value": "15000"
+            },
+            {
+              "key": "march_2021",
+              "value": "15500"
+            },
+            {
+              "key": "company_march_2022",
+              "value": "15000"
+            },
+            {
+              "key": "company_march_2021",
+              "value": "15500"
+            },
+            {
+              "key": "type",
+              "value": "Non-executive"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 69,
+          "title": "Directors' Remuneration Comparison",
+          "data": [
+            {
+              "key": "name",
+              "value": "Colin Bird"
+            },
+            {
+              "key": "group_2022",
+              "value": "22,500"
+            },
+            {
+              "key": "group_2021",
+              "value": "80,833"
+            },
+            {
+              "key": "company_2022",
+              "value": "22,500"
+            },
+            {
+              "key": "company_2021",
+              "value": "80,833"
+            },
+            {
+              "key": "name",
+              "value": "Andrew Sarosi"
+            },
+            {
+              "key": "group_2022",
+              "value": "-"
+            },
+            {
+              "key": "group_2021",
+              "value": "77,500"
+            },
+            {
+              "key": "company_2022",
+              "value": "-"
+            },
+            {
+              "key": "company_2021",
+              "value": "77,500"
+            },
+            {
+              "key": "name",
+              "value": "Richard Wollenberg"
+            },
+            {
+              "key": "group_2022",
+              "value": "15,833"
+            },
+            {
+              "key": "group_2021",
+              "value": "63,750"
+            },
+            {
+              "key": "company_2022",
+              "value": "15,833"
+            },
+            {
+              "key": "company_2021",
+              "value": "63,750"
+            },
+            {
+              "key": "name",
+              "value": "Chris Molefe"
+            },
+            {
+              "key": "group_2022",
+              "value": "3,750"
+            },
+            {
+              "key": "group_2021",
+              "value": "3,750"
+            },
+            {
+              "key": "company_2022",
+              "value": "3,750"
+            },
+            {
+              "key": "company_2021",
+              "value": "3,750"
+            },
+            {
+              "key": "name",
+              "value": "Total"
+            },
+            {
+              "key": "group_2022",
+              "value": "42,083"
+            },
+            {
+              "key": "group_2021",
+              "value": "225,833"
+            },
+            {
+              "key": "company_2022",
+              "value": "42,083"
+            },
+            {
+              "key": "company_2021",
+              "value": "225,833"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 15,
+          "title": "Reconnaissance mapping under way near Queen’s Gold Mine on Bulawayo project",
+          "data": [
+            {
+              "key": "Project",
+              "value": "Bulawayo Gold Project"
+            },
+            {
+              "key": "Surveying Company",
+              "value": "Xcalibur Airborne Geophysics (Pty) Ltd."
+            },
+            {
+              "key": "Survey Type",
+              "value": "fixed-wing airborne magnetic and radiometric survey"
+            },
+            {
+              "key": "Completion Date",
+              "value": "June 2022"
+            },
+            {
+              "key": "Length of Survey",
+              "value": "12,184 line km"
+            },
+            {
+              "key": "Line Spacing",
+              "value": "100m"
+            },
+            {
+              "key": "Purpose",
+              "value": "To map critical structures and belts linking small to mid-size quartz reef gold mines and deposits."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 18,
+          "title": "Operations Report NEVADA - Ferber gold-copper project",
+          "data": [
+            {
+              "key": "Project Review",
+              "value": "Galileo had previously initiated a project review aimed at identifying drill targets to test both skarn-type gold-copper occurrences and small-scale workings and Carlin-type gold occurrences on its’ 100% held Nevada property."
+            },
+            {
+              "key": "Drilling Plan",
+              "value": "Several priority drill sites were highlighted, with up to 2,000m drilling planned."
+            },
+            {
+              "key": "Map Description",
+              "value": "A geological survey map showing various mining and exploration targets."
+            },
+            {
+              "key": "Key Features",
+              "value": "Ferber Flats Fault, West Jasperoid, West Flank Cu-(Au?) Skarn, Northside, NE Flank Au-Cu Skarn, SE Flank Cu-Au Structural and Stratiform Skarn."
+            },
+            {
+              "key": "Scale",
+              "value": "0-1000 meters"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 9,
+          "title": "Operations Report Shinganda Copper-Gold",
+          "data": [
+            {
+              "key": "Agreement Date",
+              "value": "7 December 2021"
+            },
+            {
+              "key": "Project Name",
+              "value": "Shinganda copper-gold project"
+            },
+            {
+              "key": "Exploration License Number",
+              "value": "No. 22990-HQ-LEL"
+            },
+            {
+              "key": "Area Covered (km2)",
+              "value": "186.76"
+            },
+            {
+              "key": "Initial Interest",
+              "value": "51%"
+            },
+            {
+              "key": "Further Interest (large deposit)",
+              "value": "65%"
+            },
+            {
+              "key": "Further Interest (small deposit)",
+              "value": "85%"
+            },
+            {
+              "key": "Target Area Size (km)",
+              "value": "12 x 6"
+            },
+            {
+              "key": "Highest Sample Cu Value",
+              "value": "10.19%"
+            },
+            {
+              "key": "Highest Sample Au Value",
+              "value": "9.76g/t"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 7,
+          "title": "Luansobe Project Development",
+          "data": [
+            {
+              "key": "Project Name",
+              "value": "Luansobe Project"
+            },
+            {
+              "key": "Location",
+              "value": "15km northwest of Mufulira Mine, Zambian Copperbelt"
+            },
+            {
+              "key": "Development Options",
+              "value": "Small open pit mine of circa 3-5 million tonnes; Larger mine to develop resources down-dip"
+            },
+            {
+              "key": "Feasibility Study Timeline",
+              "value": "Within 18 months of 20 February 2022"
+            },
+            {
+              "key": "Contracted Company",
+              "value": "Addison Mining Services"
+            },
+            {
+              "key": "Historic Data Evaluation",
+              "value": "GeoQuest Consultants contracted for geotechnical logging and evaluation"
+            },
+            {
+              "key": "pXRF Testing Results",
+              "value": "Identified upper mineralised zone of moderate copper grade"
+            },
+            {
+              "key": "Potential",
+              "value": "Considered to add incremental value to an open pit mining operation"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 17,
+          "title": "Operations Report for Sandfire Agreement and Drilling Activities",
+          "data": [
+            {
+              "key": "Exploration Commitment",
+              "value": "US$4,000,000"
+            },
+            {
+              "key": "Drilling Intersection",
+              "value": "Visible copper mineralisation at 242.7m in core hole BDDD004 on PL366/2018"
+            },
+            {
+              "key": "Expired Licence",
+              "value": "PL 368/2018 removed from transfer list and relinquished"
+            },
+            {
+              "key": "Success Payment Terms",
+              "value": "To be paid in cash, option to pay in Sandfire shares removed"
+            },
+            {
+              "key": "Recent Drilling Results",
+              "value": "Drilling completed on PL40/2018 and PL253/2018 with significant intersections"
+            },
+            {
+              "key": "Completion Date",
+              "value": "Licence Sale Agreement completed on 22 September 2021"
+            },
+            {
+              "key": "Drilling Campaign Update",
+              "value": "8 November 2021 update on Kalahari Copper Belt drilling, over 5,000 metres completed on five licenses"
+            },
+            {
+              "key": "Focus of Drilling",
+              "value": "Testing airborne EM targets on PL39/2018 and PL253/2018"
+            },
+            {
+              "key": "Post Period Overview",
+              "value": "First phase drilling programme completed, report in preparation for follow-up drilling on retained licenses."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 52,
+          "title": "Asset Exploration and Evaluation Summary",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Asset",
+              "value": "Exploration and evaluation asset - Botswana"
+            },
+            {
+              "key": "Currency",
+              "value": "BWP"
+            },
+            {
+              "key": "Opening Balance",
+              "value": "342946"
+            },
+            {
+              "key": "Additions",
+              "value": "118423"
+            },
+            {
+              "key": "Total",
+              "value": "461368"
+            },
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Asset",
+              "value": "Exploration and evaluation asset - Zambia"
+            },
+            {
+              "key": "Currency",
+              "value": "ZMK"
+            },
+            {
+              "key": "Opening Balance",
+              "value": "0"
+            },
+            {
+              "key": "Additions",
+              "value": "44210"
+            },
+            {
+              "key": "Total",
+              "value": "44210"
+            },
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Asset",
+              "value": "Exploration and evaluation asset - Botswana"
+            },
+            {
+              "key": "Currency",
+              "value": "BWP"
+            },
+            {
+              "key": "Opening Balance",
+              "value": "0"
+            },
+            {
+              "key": "Additions",
+              "value": "342946"
+            },
+            {
+              "key": "Total",
+              "value": "342946"
+            }
+          ],
+          "currency": "BRL"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 31,
+          "title": "Directors’ Report",
+          "data": [
+            {
+              "key": "Related Party Transactions",
+              "value": "Related party transactions are disclosed in note 25 of the financial statements."
+            },
+            {
+              "key": "Financial Instruments",
+              "value": "For the period under review the Group held no financial instruments, outside of cash and receivables."
+            },
+            {
+              "key": "Financial Risk Management Policies",
+              "value": "Financial risk management policies are disclosed in note 28 of the financial statements."
+            },
+            {
+              "key": "Political and Charitable Contributions",
+              "value": "The Group made no charitable donations and no political donations during the year."
+            },
+            {
+              "key": "Auditors",
+              "value": "The Company’s independent auditors, PKF Littlejohn LLP, audited the Group’s consolidated annual financial statement."
+            },
+            {
+              "key": "Approval Date",
+              "value": "Approved by the Board and signed on its behalf by Colin Bird Chairman 20 September 2022."
+            },
+            {
+              "key": "Company Name",
+              "value": "GALILEO RESOURCES PLC."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Independent Auditors’ Report",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Galileo Resources Plc"
+            },
+            {
+              "key": "Group Financial Statements Audited",
+              "value": "Year ended 31 March 2022"
+            },
+            {
+              "key": "Opinion",
+              "value": "The financial statements give a true and fair view of the state of the Group's and Company's affairs."
+            },
+            {
+              "key": "Preparation Standards",
+              "value": "UK-adopted international accounting standards"
+            },
+            {
+              "key": "Audit Standards",
+              "value": "International Standards on Auditing (UK) (ISAs (UK))"
+            },
+            {
+              "key": "Going Concern Basis",
+              "value": "Appropriate"
+            },
+            {
+              "key": "Material Uncertainties",
+              "value": "None identified"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Independent Auditors’ Report",
+          "data": [
+            {
+              "key": "Key Audit Matter",
+              "value": "Valuation and appropriate capitalisation of Intangible Assets (Note 3)"
+            },
+            {
+              "key": "Description",
+              "value": "The Group has intangible assets in relation to capitalised exploration costs in the US, Zambia, and Botswana. Risk of incorrect capitalisation and unidentifiable impairment indicators as of 31 March 2022."
+            },
+            {
+              "key": "Audit Work",
+              "value": "Confirmation of exploration licences, review of capitalised costs, assessment of project progress, management's impairment assessment, including key assumptions and sensitivity tests."
+            },
+            {
+              "key": "Outcome",
+              "value": "Directors' judgements regarding impairment are reasonable; no impairment indicators identified."
+            },
+            {
+              "key": "Shared Profit and Valuation of Investments in Joint Ventures (Note 5)",
+              "value": "The Group has joint venture interest over Glenover Phosphate. Audited profit from joint venture amounting to £3,433,000 with dividend distributions."
+            },
+            {
+              "key": "Risk",
+              "value": "Treatment might not be appropriate; potential indicators of impairment not identified."
+            },
+            {
+              "key": "Outcome",
+              "value": "No material misstatement found."
+            },
+            {
+              "key": "Other Information",
+              "value": "Directors responsible for other information in the report, responsibility to identify material misstatements."
+            },
+            {
+              "key": "Conclusion",
+              "value": "No material misstatements reported."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Balance Sheet Statement",
+          "data": [
+            {
+              "key": "Total assets",
+              "value": "13,674.21M"
+            },
+            {
+              "key": "Total assets (2021)",
+              "value": "10,160.76M"
+            },
+            {
+              "key": "Equity (2022)",
+              "value": "31,996.73M"
+            },
+            {
+              "key": "Equity (2021)",
+              "value": "29,705.24M"
+            },
+            {
+              "key": "Total liabilities (2022)",
+              "value": "380.49M"
+            },
+            {
+              "key": "Total liabilities (2021)",
+              "value": "752.73M"
+            },
+            {
+              "key": "Accumulated loss (2022)",
+              "value": "-19,351.35M"
+            },
+            {
+              "key": "Accumulated loss (2021)",
+              "value": "-21,134.92M"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Comprehensive Income Statement",
+          "data": [
+            {
+              "key": "Operating expenses March 2022",
+              "value": "(753,321)"
+            },
+            {
+              "key": "Operating expenses March 2021",
+              "value": "(1,472,816)"
+            },
+            {
+              "key": "Operating loss March 2022",
+              "value": "(753,321)"
+            },
+            {
+              "key": "Operating loss March 2021",
+              "value": "(1,472,816)"
+            },
+            {
+              "key": "Investment revenue March 2022",
+              "value": "332,904"
+            },
+            {
+              "key": "Investment revenue March 2021",
+              "value": "-"
+            },
+            {
+              "key": "Fair value adjustments March 2022",
+              "value": "141,205"
+            },
+            {
+              "key": "Fair value adjustments March 2021",
+              "value": "-"
+            },
+            {
+              "key": "Loss on sale of assets March 2022",
+              "value": "(1,266,967)"
+            },
+            {
+              "key": "Loss on sale of assets March 2021",
+              "value": "-"
+            },
+            {
+              "key": "Provision for impairments March 2022",
+              "value": "(495,842)"
+            },
+            {
+              "key": "Provision for impairments March 2021",
+              "value": "-"
+            },
+            {
+              "key": "Gain on bargain purchase through business combinations March 2022",
+              "value": "-"
+            },
+            {
+              "key": "Gain on bargain purchase through business combinations March 2021",
+              "value": "1,569,776"
+            },
+            {
+              "key": "Profit/(loss) from equity accounted investments March 2022",
+              "value": "3,433,034"
+            },
+            {
+              "key": "Profit/(loss) from equity accounted investments March 2021",
+              "value": "(9,088)"
+            },
+            {
+              "key": "Profit/(loss) for the year before taxation March 2022",
+              "value": "1,391,013"
+            },
+            {
+              "key": "Profit/(loss) for the year before taxation March 2021",
+              "value": "87,872"
+            },
+            {
+              "key": "Taxation March 2022",
+              "value": "151,563"
+            },
+            {
+              "key": "Taxation March 2021",
+              "value": "-"
+            },
+            {
+              "key": "Profit/(loss) for the year March 2022",
+              "value": "1,542,576"
+            },
+            {
+              "key": "Profit/(loss) for the year March 2021",
+              "value": "87,872"
+            },
+            {
+              "key": "Exchange differences on translating foreign operations March 2022",
+              "value": "483,319"
+            },
+            {
+              "key": "Exchange differences on translating foreign operations March 2021",
+              "value": "(66,549)"
+            },
+            {
+              "key": "Total comprehensive income/(loss) for the year March 2022",
+              "value": "2,025,895"
+            },
+            {
+              "key": "Total comprehensive income/(loss) for the year March 2021",
+              "value": "21,323"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Reserves and Equity Statement",
+          "data": [
+            {
+              "key": "currency_transaction_reserve",
+              "value": "(709,946)"
+            },
+            {
+              "key": "shares_to_be_issued_reserve",
+              "value": "-"
+            },
+            {
+              "key": "merger_reserve",
+              "value": "1,047,821"
+            },
+            {
+              "key": "share_based_payment_reserve",
+              "value": "283,292"
+            },
+            {
+              "key": "total_reserves",
+              "value": "621,167"
+            },
+            {
+              "key": "accumulated_loss",
+              "value": "(21,222,788)"
+            },
+            {
+              "key": "total_equity",
+              "value": "5,867,698"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Reserves and Equity Statement",
+          "data": [
+            {
+              "key": "currency_transaction_reserve",
+              "value": ""
+            },
+            {
+              "key": "shares_to_be_issued_reserve",
+              "value": "-"
+            },
+            {
+              "key": "merger_reserve",
+              "value": "-"
+            },
+            {
+              "key": "share_based_payment_reserve",
+              "value": "-"
+            },
+            {
+              "key": "total_reserves",
+              "value": "-"
+            },
+            {
+              "key": "accumulated_loss",
+              "value": "87,872"
+            },
+            {
+              "key": "total_equity",
+              "value": "87,872"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Reserves and Equity Statement",
+          "data": [
+            {
+              "key": "currency_transaction_reserve",
+              "value": ""
+            },
+            {
+              "key": "shares_to_be_issued_reserve",
+              "value": "(66,549)"
+            },
+            {
+              "key": "merger_reserve",
+              "value": "-"
+            },
+            {
+              "key": "share_based_payment_reserve",
+              "value": "-"
+            },
+            {
+              "key": "total_reserves",
+              "value": "(66,549)"
+            },
+            {
+              "key": "accumulated_loss",
+              "value": "-"
+            },
+            {
+              "key": "total_equity",
+              "value": "(66,549)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Reserves and Equity Statement",
+          "data": [
+            {
+              "key": "currency_transaction_reserve",
+              "value": "(776,495)"
+            },
+            {
+              "key": "shares_to_be_issued_reserve",
+              "value": "-"
+            },
+            {
+              "key": "merger_reserve",
+              "value": "1,047,821"
+            },
+            {
+              "key": "share_based_payment_reserve",
+              "value": "566,374"
+            },
+            {
+              "key": "total_reserves",
+              "value": "837,700"
+            },
+            {
+              "key": "accumulated_loss",
+              "value": "(21,134,916)"
+            },
+            {
+              "key": "total_equity",
+              "value": "9,408,029"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Cash flows from operating activities: Cash used in operations (March 2022 and March 2021)",
+              "value": "(901,221) / (1,186,567) and (716,617) / (1,110,605)"
+            },
+            {
+              "key": "Cash flows from investing activities: Additions to intangible assets (March 2022 and March 2021)",
+              "value": "(1,559,823) / (453,724) and (162,633) / (342,946)"
+            },
+            {
+              "key": "Cash flows from investing activities: Dividends received from Joint Venture (March 2022 and March 2021)",
+              "value": "238,827 / - and - / -"
+            },
+            {
+              "key": "Cash flows from financing activities: Net proceeds from share issues (March 2022 and March 2021)",
+              "value": "2,060,529 / 2,761,000 and 2,066,529 / 2,761,000"
+            },
+            {
+              "key": "Total cash movement",
+              "value": "Increase of 3,256,041 in the first column"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents a cash flow statement showing operating, investing, and financing activities for the periods ending March 2022 and March 2021, with two different sets of figures (possibly consolidated and standalone). Key observations include:\n1) Operating activities show negative cash flows for all periods.\n2) Investing activities turned positive in March 2022 (first column) mainly due to distributions from Joint Venture.\n3) Financing activities show consistent positive cash flows from share issues."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Notes to the Financial Statements",
+          "data": [
+            {
+              "key": "Jointly Controlled Assets",
+              "value": "Company recognises its share of assets and liabilities."
+            },
+            {
+              "key": "Investments in Associates",
+              "value": "Carried at cost less accumulated impairment."
+            },
+            {
+              "key": "Financial Instruments Recognition",
+              "value": "Recognised when the Group becomes a party to the contractual provision."
+            },
+            {
+              "key": "Initial Measurement",
+              "value": "Recognised initially at fair value."
+            },
+            {
+              "key": "Subsequent Measurement",
+              "value": "Measured at fair value through profit or loss or amortised cost."
+            },
+            {
+              "key": "Trade and Other Receivables",
+              "value": "Measured at initial recognition at fair value."
+            },
+            {
+              "key": "Trade and Other Payables",
+              "value": "Initially measured at fair value."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Exploration and Evaluation Assets by Geographic Location",
+          "data": [
+            {
+              "key": "Exploration asset - Botswana",
+              "value": "Cost Valuation 1: 1467320, Accumulated Amortisation 1: 2, Carrying Value 1: 1467320, Cost Valuation 2: 418324, Accumulated Amortisation 2: 0, Carrying Value 2: 418324"
+            },
+            {
+              "key": "Exploration asset - U.S.A.",
+              "value": "Cost Valuation 1: 1893024, Accumulated Amortisation 1: 2, Carrying Value 1: 1893024, Cost Valuation 2: 1696493, Accumulated Amortisation 2: 0, Carrying Value 2: 1696493"
+            },
+            {
+              "key": "Exploration asset - Zambia",
+              "value": "Cost Valuation 1: 515226, Accumulated Amortisation 1: 0, Carrying Value 1: 515226, Cost Valuation 2: 0, Accumulated Amortisation 2: 0, Carrying Value 2: 0"
+            },
+            {
+              "key": "Company Total",
+              "value": "Cost Valuation 1: 3875570, Accumulated Amortisation 1: 2, Carrying Value 1: 3875570, Cost Valuation 2: 2114817, Accumulated Amortisation 2: 0, Carrying Value 2: 2114817"
+            },
+            {
+              "key": "Exploration asset - Botswana (Company)",
+              "value": "Cost Valuation 1: 505578, Accumulated Amortisation 1: 2, Carrying Value 1: 505578, Cost Valuation 2: 342946, Accumulated Amortisation 2: 0, Carrying Value 2: 342946"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Exploration and Evaluation Assets by Country - 2022",
+          "data": [
+            {
+              "key": "Exploration asset - Botswana",
+              "value": "Opening: 418324, Additions: 1047628, Total: 1467320, Currency: BWP"
+            },
+            {
+              "key": "Exploration asset - U.S.A.",
+              "value": "Opening: 1696493, Additions: 114723, Total: 1893024, Currency: USS"
+            },
+            {
+              "key": "Exploration asset - Zambia",
+              "value": "Opening: 0, Additions: 515226, Total: 515226, Currency: ZMK"
+            },
+            {
+              "key": "Total",
+              "value": "Opening: 2114817, Additions: 1677577, Total: 3875570, Currency: N/A"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Asset Movement and Evaluation Summary 2021",
+          "data": [
+            {
+              "key": "Exploration asset - Botswana",
+              "value": "Opening: 0, Additions: 342946, Business Combinations: 2531022, Total: 418324, Currency: BWP"
+            },
+            {
+              "key": "Exploration asset - U.S.A.",
+              "value": "Opening: 1773859, Additions: 110778, Total: 1696493, Currency: USS"
+            },
+            {
+              "key": "Exploration asset - Zambia",
+              "value": "Opening: 1574160, Additions: 0, Total: 0, Currency: ZMW"
+            },
+            {
+              "key": "Total",
+              "value": "Opening: 3348019, Additions: 453724, Total: 2114817, Currency: N/A"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Investments in Subsidiaries",
+          "data": [
+            {
+              "key": "Skiptons Global Investments Limited - Country of incorporation",
+              "value": "British Virgin Islands"
+            },
+            {
+              "key": "Skiptons Global Investments Limited - 2022 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "Skiptons Global Investments Limited - 2021 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "Galileo Resource 5 SA (Pty) Ltd - Country of incorporation",
+              "value": "South Africa"
+            },
+            {
+              "key": "Galileo Resource 5 SA (Pty) Ltd - 2022 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "Galileo Resource 5 SA (Pty) Ltd - 2021 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "St Vincent Minerals Incorporated - Country of incorporation",
+              "value": "United States"
+            },
+            {
+              "key": "St Vincent Minerals Incorporated - 2022 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "St Vincent Minerals Incorporated - 2021 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "St Vincent Minerals Incorporated - 2022 Carrying amount",
+              "value": "1,696,493"
+            },
+            {
+              "key": "St Vincent Minerals Incorporated - 2021 Carrying amount",
+              "value": "1,696,493"
+            },
+            {
+              "key": "Enviro Zambia Limited - Country of incorporation",
+              "value": "Mauritius"
+            },
+            {
+              "key": "Enviro Zambia Limited - 2022 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "Enviro Zambia Limited - 2021 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "Enviro Zambia Limited - 2021 Carrying amount",
+              "value": "1,574,160"
+            },
+            {
+              "key": "Enviro Processing Zambia Limited - Country of incorporation",
+              "value": "Zambia"
+            },
+            {
+              "key": "Enviro Processing Zambia Limited - 2022 % voting power",
+              "value": "95"
+            },
+            {
+              "key": "Enviro Processing Zambia Limited - 2021 % voting power",
+              "value": "95"
+            },
+            {
+              "key": "Camel Valley Holdings Inc - Country of incorporation",
+              "value": "British Virgin Islands"
+            },
+            {
+              "key": "Camel Valley Holdings Inc - 2022 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "Camel Valley Holdings Inc - 2021 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "Crocus-Serv (Pty) Ltd - Country of incorporation",
+              "value": "Botswana"
+            },
+            {
+              "key": "Crocus-Serv (Pty) Ltd - 2022 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "Crocus-Serv (Pty) Ltd - 2021 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "Crocus-Serv (Pty) Ltd - 2021 Carrying amount",
+              "value": "176,191"
+            },
+            {
+              "key": "Africibum Co (Pty) Ltd - Country of incorporation",
+              "value": "Botswana"
+            },
+            {
+              "key": "Africibum Co (Pty) Ltd - 2022 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "Africibum Co (Pty) Ltd - 2021 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "Africibum Co (Pty) Ltd - 2021 Carrying amount",
+              "value": "311,220"
+            },
+            {
+              "key": "Virgo Business Solutions (Pty) Ltd - Country of incorporation",
+              "value": "Botswana"
+            },
+            {
+              "key": "Virgo Business Solutions (Pty) Ltd - 2022 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "Galileo Mining (Pty) Ltd - Country of incorporation",
+              "value": "Zambia"
+            },
+            {
+              "key": "Galileo Mining (Pty) Ltd - 2022 % voting power",
+              "value": "100"
+            },
+            {
+              "key": "Luansobe Mining Ltd - Country of incorporation",
+              "value": "Zambia"
+            },
+            {
+              "key": "Luansobe Mining Ltd - 2022 % voting power",
+              "value": "75"
+            },
+            {
+              "key": "Luansobe Mining Ltd - 2022 Carrying amount",
+              "value": "353,262"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Investment Holdings by Level - March 2022 vs March 2021",
+          "data": [
+            {
+              "key": "Level 1 investment total (2022)",
+              "value": "1,200,403"
+            },
+            {
+              "key": "Level 3 investment total (2022)",
+              "value": "630,392"
+            },
+            {
+              "key": "Company's Level 3 investment in 2022",
+              "value": "235,149"
+            },
+            {
+              "key": "Group Level 3 investments 2021",
+              "value": "370,101"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Reconciliation of financial assets at fair value through profit or loss measured at level 1",
+          "data": [
+            {
+              "key": "Sandfire opening balance",
+              "value": "N/A"
+            },
+            {
+              "key": "Additions",
+              "value": "1,059,000"
+            },
+            {
+              "key": "Losses in profit or loss",
+              "value": "141,403"
+            },
+            {
+              "key": "Total",
+              "value": "1,200,403"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Reconciliation of financial assets at fair value through profit or loss measured at level 3",
+          "data": [
+            {
+              "key": "Galagen - Ordinary shares total (2022)",
+              "value": "9"
+            },
+            {
+              "key": "Galagen - B Preference shares total (2022)",
+              "value": "395,234"
+            },
+            {
+              "key": "Cordoba - BC Ventures total (2022)",
+              "value": "235,149"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Galagen Shares Movement Statement",
+          "data": [
+            {
+              "key": "B Preference shares opening balance (2021)",
+              "value": "344,515"
+            },
+            {
+              "key": "B Preference shares foreign exchange movement (2021)",
+              "value": "25,578"
+            },
+            {
+              "key": "B Preference shares total (2021)",
+              "value": "370,093"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Warrant Pricing Parameters",
+          "data": [
+            {
+              "key": "Issue price (pence)",
+              "value": "2.25"
+            },
+            {
+              "key": "Share price at issue date (pence)",
+              "value": "1.48"
+            },
+            {
+              "key": "Expected volatility",
+              "value": "93%"
+            },
+            {
+              "key": "Expected warrant life (years)",
+              "value": "2.0"
+            },
+            {
+              "key": "Expected dividends",
+              "value": "-"
+            },
+            {
+              "key": "The risk-free interest rate",
+              "value": "29%"
+            },
+            {
+              "key": "Value of the warrant",
+              "value": "0.57"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Options and Warrants Movement Schedule",
+          "data": [
+            {
+              "key": "Balance at 1 April 2020 New options granted",
+              "value": "149,793 270,595"
+            },
+            {
+              "key": "Warrants exercised",
+              "value": "- (138,057)"
+            },
+            {
+              "key": "Balance at 1 April 2021",
+              "value": "420,388 145,986"
+            },
+            {
+              "key": "New warrants granted",
+              "value": "- 27,560"
+            },
+            {
+              "key": "Options lapsed",
+              "value": "(149,793) -"
+            },
+            {
+              "key": "Warrants expired",
+              "value": "- (91,196)"
+            },
+            {
+              "key": "Warrants exercised",
+              "value": "- (33,789)"
+            },
+            {
+              "key": "Balance 31 March 2022",
+              "value": "270,595 48,560"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Foreign Currency Translation Reserve",
+          "data": [
+            {
+              "key": "Exchange differences on consolidation of foreign subsidiaries 31 March 2022",
+              "value": "1,067,373"
+            },
+            {
+              "key": "Foreign exchange profits or losses on inter-company loan accounts 31 March 2022",
+              "value": "-1,409,364"
+            },
+            {
+              "key": "Foreign intangibles recognised as part of a business combination 31 March 2022",
+              "value": "48,815"
+            },
+            {
+              "key": "Total 31 March 2022",
+              "value": "-293,176"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 65,
+          "title": "Operating Loss, Investment Revenue and Taxation Statement",
+          "data": [
+            {
+              "key": "Operating Premises - contractual amounts",
+              "value": "25,266, 25,200"
+            },
+            {
+              "key": "Employee costs - including management",
+              "value": "110,454, 81,226"
+            },
+            {
+              "key": "(Profit)/loss on exchange differences",
+              "value": "(33,809), 9,728"
+            },
+            {
+              "key": "Share based payment expense",
+              "value": "0, 270,595"
+            },
+            {
+              "key": "Investment Revenue (Dividends received)",
+              "value": "332,904, 0"
+            },
+            {
+              "key": "Current period tax provision",
+              "value": "(274,250), 0"
+            },
+            {
+              "key": "Deferred tax - temporary differences",
+              "value": "425,813, 0"
+            },
+            {
+              "key": "Total tax expense",
+              "value": "151,563, 0"
+            },
+            {
+              "key": "Accounting profit",
+              "value": "1,391,013, 87,877"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 66,
+          "title": "TAXATION",
+          "data": [
+            {
+              "key": "Deferred tax liability recognized from sale of licences",
+              "value": "£425,813"
+            },
+            {
+              "key": "Tax rate for the year",
+              "value": "17.79% (2021: 19.60%)"
+            },
+            {
+              "key": "Group tax losses available",
+              "value": "£10,618,703 (2021: £6,868,214)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 66,
+          "title": "AUDITORS' REMUNERATION",
+          "data": [
+            {
+              "key": "Current year",
+              "value": "31,310"
+            },
+            {
+              "key": "Previous year (31 March 2021)",
+              "value": "31,750"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 66,
+          "title": "Components of comprehensive income",
+          "data": [
+            {
+              "key": "Exchange differences through other comprehensive income",
+              "value": "£483,319 (gross), -£66,549 (net)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 66,
+          "title": "Reconciliation of profit attributable to equity holders of the parent to loss for the year",
+          "data": [
+            {
+              "key": "Foreign exchange differences on translation of foreign operations during the year",
+              "value": "£-483,319"
+            },
+            {
+              "key": "Profit for the year",
+              "value": "£1,542,576"
+            },
+            {
+              "key": "Weighted average number of shares in issue",
+              "value": "1,038,799,984"
+            },
+            {
+              "key": "Basic earnings per share (pence)",
+              "value": "0.15"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 67,
+          "title": "CASH USED IN OPERATIONS",
+          "data": [
+            {
+              "key": "Profit/(loss) before taxation",
+              "value": "1,391,013"
+            },
+            {
+              "key": "31_march_2021 (prior year) Profit/(loss) before taxation",
+              "value": "87,872"
+            },
+            {
+              "key": "company Profit/(loss) 31_march_2022",
+              "value": "(1,411,230)"
+            },
+            {
+              "key": "company Profit/(loss) 31_march_2021",
+              "value": "(2,079,373)"
+            },
+            {
+              "key": "Gain on bargain purchase from business combinations 31_march_2021",
+              "value": "(1,569,776)"
+            },
+            {
+              "key": "(Profit)/loss equity investments",
+              "value": "(3,433,034)"
+            },
+            {
+              "key": "Fair value gains 31_march_2021",
+              "value": "-"
+            },
+            {
+              "key": "Impairments 31_march_2022",
+              "value": "495,842"
+            },
+            {
+              "key": "Loss on sale of non-current assets",
+              "value": "1,266,967"
+            },
+            {
+              "key": "Share based payment expenses 31_march_2021",
+              "value": "270,595"
+            },
+            {
+              "key": "Trade and other receivables",
+              "value": "(118,497)"
+            },
+            {
+              "key": "Net cash used in operations 31_march_2022",
+              "value": "(901,221)"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 24,
+          "title": "Share Issuance Activity",
+          "data": [
+            {
+              "key": "Opening balance",
+              "value": "911,976,317"
+            },
+            {
+              "key": "Date",
+              "value": "19-Apr-21"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "500,000"
+            },
+            {
+              "key": "Price",
+              "value": "0.60"
+            },
+            {
+              "key": "Purpose",
+              "value": "Warrants exercise"
+            },
+            {
+              "key": "Date",
+              "value": "19-May-21"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "250,000"
+            },
+            {
+              "key": "Price",
+              "value": "0.60"
+            },
+            {
+              "key": "Purpose",
+              "value": "Warrants exercise"
+            },
+            {
+              "key": "Date",
+              "value": "19-May-21"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "150,000"
+            },
+            {
+              "key": "Price",
+              "value": "1.25"
+            },
+            {
+              "key": "Purpose",
+              "value": "Warrants exercise"
+            },
+            {
+              "key": "Date",
+              "value": "11-Jun-21"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "133,666,664"
+            },
+            {
+              "key": "Price",
+              "value": "1.50"
+            },
+            {
+              "key": "Purpose",
+              "value": "Placing for cash"
+            },
+            {
+              "key": "Date",
+              "value": "24-Aug-21"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "3,500,000"
+            },
+            {
+              "key": "Price",
+              "value": "0.60"
+            },
+            {
+              "key": "Purpose",
+              "value": "Warrants exercise"
+            },
+            {
+              "key": "Date",
+              "value": "08-Oct-21"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "10,000,000"
+            },
+            {
+              "key": "Price",
+              "value": "0.60"
+            },
+            {
+              "key": "Purpose",
+              "value": "Warrants exercise"
+            },
+            {
+              "key": "Date",
+              "value": "27-Oct-21"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "5,000,000"
+            },
+            {
+              "key": "Price",
+              "value": "0.60"
+            },
+            {
+              "key": "Purpose",
+              "value": "Warrants exercise"
+            },
+            {
+              "key": "Date",
+              "value": "27-Oct-21"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "5,500,000"
+            },
+            {
+              "key": "Price",
+              "value": "0.60"
+            },
+            {
+              "key": "Purpose",
+              "value": "Warrants exercise"
+            },
+            {
+              "key": "Date",
+              "value": "03-Dec-21"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "10,570,862"
+            },
+            {
+              "key": "Price",
+              "value": "2.68"
+            },
+            {
+              "key": "Purpose",
+              "value": "Shares in lieu of director fees"
+            },
+            {
+              "key": "Date",
+              "value": "03-Dec-21"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "5,854,170"
+            },
+            {
+              "key": "Price",
+              "value": "2.68"
+            },
+            {
+              "key": "Purpose",
+              "value": "Shares in lieu of director fees"
+            },
+            {
+              "key": "Date",
+              "value": "03-Dec-21"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "1,233,000"
+            },
+            {
+              "key": "Price",
+              "value": "2.68"
+            },
+            {
+              "key": "Purpose",
+              "value": "Settlement of deb"
+            },
+            {
+              "key": "Date",
+              "value": "03-Dec-21"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "933,331"
+            },
+            {
+              "key": "Price",
+              "value": "1.34"
+            },
+            {
+              "key": "Purpose",
+              "value": "Accrued consulting fees"
+            },
+            {
+              "key": "Date",
+              "value": "31-Dec-21"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "2,812,500"
+            },
+            {
+              "key": "Price",
+              "value": "0.80"
+            },
+            {
+              "key": "Purpose",
+              "value": "Warrants exercise"
+            },
+            {
+              "key": "Date",
+              "value": "28-Feb-22"
+            },
+            {
+              "key": "Ordinary shares issued",
+              "value": "5,000,000"
+            },
+            {
+              "key": "Price",
+              "value": "1.125"
+            },
+            {
+              "key": "Purpose",
+              "value": "Acquisition"
+            },
+            {
+              "key": "Closing balance",
+              "value": "1,096,946,844"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 39,
+          "title": "Group Share Capital Statement",
+          "data": [
+            {
+              "key": "Balance at 1 April 2020",
+              "value": "Share Capital: £6,168,446, Share Premium: £20,300,873, Total Share Capital: £26,469,319"
+            },
+            {
+              "key": "Issue of shares net of issue costs (2020-2021)",
+              "value": "Share Capital: £354,163, Share Premium: £2,894,249, Total Share Capital: £3,248,412"
+            },
+            {
+              "key": "Balance at 1 April 2021",
+              "value": "Share Capital: £6,522,609, Share Premium: £23,182,635, Total Share Capital: £29,705,244"
+            },
+            {
+              "key": "Issue of shares net of issue costs (2021-2022)",
+              "value": "Share Capital: £184,559, Share Premium: £2,100,696, Total Share Capital: £2,285,255"
+            },
+            {
+              "key": "Balance at 1 March 2022",
+              "value": "Share Capital: £6,707,168, Share Premium: £25,289,562, Total Share Capital: £31,996,730"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 41,
+          "title": "Company Share Capital and Premium Statement",
+          "data": [
+            {
+              "key": "Balance at 1 April 2020",
+              "value": "Share Capital: 6,168,446, Share Premium: 20,300,873, Total Share Capital: 26,469,319"
+            },
+            {
+              "key": "Loss for the year",
+              "value": "No change"
+            },
+            {
+              "key": "Issue of shares net of issue costs (2020/21)",
+              "value": "Share Capital: 354,163, Share Premium: 2,894,249, Total Share Capital: 3,248,412"
+            },
+            {
+              "key": "Balance at 1 April 2021",
+              "value": "Share Capital: 6,522,609, Share Premium: 23,182,635, Total Share Capital: 29,705,244"
+            },
+            {
+              "key": "Issue of shares net of issue costs (2021/22)",
+              "value": "Share Capital: 184,559, Share Premium: 2,100,696, Total Share Capital: 2,285,255"
+            },
+            {
+              "key": "Warrants issued",
+              "value": "Share Capital: 0, Share Premium: -27,560, Total Share Capital: -27,560"
+            },
+            {
+              "key": "Warrants exercised",
+              "value": "Share Capital: 0, Share Premium: 33,791, Total Share Capital: 33,791"
+            },
+            {
+              "key": "Balance at 31 March 2022",
+              "value": "Share Capital: 6,707,168, Share Premium: 25,289,562, Total Share Capital: 31,996,730"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 60,
+          "title": "Cash and Cash Equivalents & Share Capital Information",
+          "data": [
+            {
+              "key": "Bank balances (2022)",
+              "value": "4,648,995"
+            },
+            {
+              "key": "Bank balances (2021)",
+              "value": "1,392,955"
+            },
+            {
+              "key": "Credit rating F1 + (ZAF) (2022)",
+              "value": "4,648,995"
+            },
+            {
+              "key": "Credit rating F1 + (ZAF) (2021)",
+              "value": "1,392,955"
+            },
+            {
+              "key": "Reported as at 1 April 2021 (2022)",
+              "value": "911,976,317"
+            },
+            {
+              "key": "Reported as at 1 April 2021 (2021)",
+              "value": "557,811,947"
+            },
+            {
+              "key": "Share issues (2022)",
+              "value": "184,970,527"
+            },
+            {
+              "key": "Share issues (2021)",
+              "value": "354,164,370"
+            },
+            {
+              "key": "Reported as at 31 March 2022 (2022)",
+              "value": "1,096,946,844"
+            },
+            {
+              "key": "Reported as at 31 March 2022 (2021)",
+              "value": "911,976,317"
+            },
+            {
+              "key": "Ordinary shares of 0.1p (2022)",
+              "value": "1,096,534"
+            },
+            {
+              "key": "Ordinary shares of 0.1p (2021)",
+              "value": "911,976"
+            },
+            {
+              "key": "Deferred shares of 4.9p (2022)",
+              "value": "5,610,634"
+            },
+            {
+              "key": "Deferred shares of 4.9p (2021)",
+              "value": "5,610,634"
+            },
+            {
+              "key": "Share premium (2022)",
+              "value": "25,289,562"
+            },
+            {
+              "key": "Share premium (2021)",
+              "value": "23,182,636"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 20,
+          "title": "Directors’ Report - Risk Review",
+          "data": [
+            {
+              "key": "Political risk",
+              "value": "Political risk is the risk that assets will be lost through expropriation and unrest or war. The Group minimises political risk by operating in countries with relatively stable political systems, established fiscal and mining codes and a respect for the rule of law."
+            },
+            {
+              "key": "Commodity risk",
+              "value": "Commodity risk is the risk that the price earned for minerals will fall to a point where it becomes uneconomic to extract them from the ground and process. The principal metals in the Group’s portfolio are gold, copper, lithium, rare earth elements (REEs) and phosphorus (as phosphate). The prices of these elements have been volatile during the year but an uptrend is in place."
+            },
+            {
+              "key": "Financial risk",
+              "value": "The three main types of financial risk faced by the Group are credit risk, liquidity risk and currency risk. Liquidity risk is the risk of insufficient working and investment capital."
+            },
+            {
+              "key": "Strategic risk",
+              "value": "Significant and increasing competition exists for mineral acquisition opportunities throughout the world."
+            },
+            {
+              "key": "Funding risk",
+              "value": "The Group has raised funds via equity contributions from new and existing shareholders ensuring the Company remains a going concern."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "risk_factor",
+          "page": 21,
+          "title": "Exploration Risk",
+          "data": [
+            {
+              "key": "Risk Definition",
+              "value": "Risk of investing cash and resources on projects that may not provide a return."
+            },
+            {
+              "key": "Policy",
+              "value": "Use skills, experience, and local knowledge to select promising areas."
+            },
+            {
+              "key": "Nature of Risk",
+              "value": "Speculative; contingent upon satisfactory exploration results."
+            },
+            {
+              "key": "Operational Risk",
+              "value": "Subject to hazards in exploration, development, and production."
+            },
+            {
+              "key": "Personnel Risk",
+              "value": "Difficulty in recruiting and retaining skilled personnel."
+            },
+            {
+              "key": "Mining Risk",
+              "value": "No guarantee that minerals can be mined practically or economically."
+            },
+            {
+              "key": "Processing Risk",
+              "value": "Complex chemistry for REEs processing; high costs."
+            },
+            {
+              "key": "Political Stability",
+              "value": "Impact of political conditions in Botswana, South Africa, Zambia, USA."
+            },
+            {
+              "key": "Government Compliance",
+              "value": "Complying with mining charter and economic empowerment legislation in South Africa."
+            },
+            {
+              "key": "Economic Contributions",
+              "value": "Mining significant to GDP and exports in Botswana and Zambia."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 22,
+          "title": "Uninsurable risks, Market perception, Environmental factors, Pandemic risk",
+          "data": [
+            {
+              "key": "Uninsurable risks",
+              "value": "The Group may become subject to liability for accidents, pollution and other hazards, which it cannot insure or against which it may elect not to insure."
+            },
+            {
+              "key": "Security of tenure",
+              "value": "The Group investigates its rights to explore and extract minerals from all of its material properties."
+            },
+            {
+              "key": "Environmental factors",
+              "value": "All mining operations have some degree of an environmental risk."
+            },
+            {
+              "key": "Pandemic risk",
+              "value": "The Group acknowledges the pandemic risk which has potential to cause further disruption."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 26,
+          "title": "Risk Management and Assessment",
+          "data": [
+            {
+              "key": "Activity",
+              "value": "Management"
+            },
+            {
+              "key": "Risk",
+              "value": "Recruitment and retention of key staff"
+            },
+            {
+              "key": "Impact",
+              "value": "Reduction in operating capability"
+            },
+            {
+              "key": "Control(s)",
+              "value": "Stimulating and safe working environment. Balancing salary with longer term incentive plans"
+            },
+            {
+              "key": "Activity",
+              "value": "Regulatory adherence"
+            },
+            {
+              "key": "Risk",
+              "value": "Breach of rules"
+            },
+            {
+              "key": "Impact",
+              "value": "Censure or withdrawal of authorisation"
+            },
+            {
+              "key": "Control(s)",
+              "value": "Strong compliance regime instilled at all levels of the Group"
+            },
+            {
+              "key": "Activity",
+              "value": "Strategic"
+            },
+            {
+              "key": "Risk",
+              "value": "Damage to reputation"
+            },
+            {
+              "key": "Impact",
+              "value": "Inability to secure new capital or clients"
+            },
+            {
+              "key": "Control(s)",
+              "value": "Effective communications with shareholders and our joint venture partners."
+            },
+            {
+              "key": "Activity",
+              "value": "Strategic"
+            },
+            {
+              "key": "Risk",
+              "value": "Inadequate disaster recovery procedures"
+            },
+            {
+              "key": "Impact",
+              "value": "Loss of key operational and financial data"
+            },
+            {
+              "key": "Control(s)",
+              "value": "Robust compliance. Secure off-site storage of data"
+            },
+            {
+              "key": "Activity",
+              "value": "Financial"
+            },
+            {
+              "key": "Risk",
+              "value": "Liquidity, market and credit risk"
+            },
+            {
+              "key": "Impact",
+              "value": "Inability to continue as going concern Reduction in asset values"
+            },
+            {
+              "key": "Control(s)",
+              "value": "Robust capital management policies and procedures Appropriate authority"
+            },
+            {
+              "key": "Activity",
+              "value": "Financial"
+            },
+            {
+              "key": "Risk",
+              "value": "Inappropriate controls and accounting policies"
+            },
+            {
+              "key": "Impact",
+              "value": "Incorrect reporting of assets"
+            },
+            {
+              "key": "Control(s)",
+              "value": "Investment levels as set by the Board and Investment Policies Audit and Compliance Committee"
+            },
+            {
+              "key": "Activity",
+              "value": "Exploration"
+            },
+            {
+              "key": "Risk",
+              "value": "Investing cash and resources in projects which may not provide a return"
+            },
+            {
+              "key": "Impact",
+              "value": "Reduction in asset value The degree of risk reduces substantially when a project moves from the exploration phase to the development phase."
+            },
+            {
+              "key": "Control(s)",
+              "value": "Management addresses this risk by using its skills, experience, and local knowledge to select with best endeavours to explore the most promising areas."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 70,
+          "title": "Financial Liabilities Analysis",
+          "data": [
+            {
+              "key": "Liquidity Risk Summary",
+              "value": "The Group’s risk to liquidity results from funds available to cover future commitments. Adequate liquidity is maintained through ongoing reviews and forecasts."
+            },
+            {
+              "key": "Interest Rate Risk Summary",
+              "value": "The Group’s interest rate risk is minimal due to no significant borrowings."
+            },
+            {
+              "key": "Credit Risk Summary",
+              "value": "Credit risk comprises cash deposits with major banks and trade debtors."
+            },
+            {
+              "key": "Key Financial Indicators",
+              "value": "Trade payables increased from 326,916 to 380,482."
+            },
+            {
+              "key": "Company Trade Payables",
+              "value": "Company's trade payables decreased from 317,080 to 96,395."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 71,
+          "title": "Financial Instruments Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Financial instrument",
+              "value": "Trade and other receivables"
+            },
+            {
+              "key": "Group 31 March 2022",
+              "value": "119856"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "1359"
+            },
+            {
+              "key": "Company = 31 March 2022",
+              "value": "0"
+            },
+            {
+              "key": "31 March 2021_company",
+              "value": "0"
+            },
+            {
+              "key": "Financial instrument",
+              "value": "Cash and cash equivalents"
+            },
+            {
+              "key": "Group 31 March 2022",
+              "value": "4648995"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "1392955"
+            },
+            {
+              "key": "Company = 31 March 2022",
+              "value": "1952900"
+            },
+            {
+              "key": "31 March 2021_company",
+              "value": "1389421"
+            },
+            {
+              "key": "Financial instrument",
+              "value": "Other financial assets"
+            },
+            {
+              "key": "Group 31 March 2022",
+              "value": "1994617"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "373521"
+            },
+            {
+              "key": "Company = 31 March 2022",
+              "value": "1500975"
+            },
+            {
+              "key": "31 March 2021_company",
+              "value": "0"
+            },
+            {
+              "key": "Financial instrument",
+              "value": "Loans to Group companies and other related entities"
+            },
+            {
+              "key": "Group 31 March 2022",
+              "value": "792259"
+            },
+            {
+              "key": "31 March 2021",
+              "value": "0"
+            },
+            {
+              "key": "Company = 31 March 2022",
+              "value": "5657509"
+            },
+            {
+              "key": "31 March 2021_company",
+              "value": "5490220"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 71,
+          "title": "Currency Exchange Rates Against British Pound",
+          "data": [
+            {
+              "key": "currency_pair",
+              "value": "ZAR : £"
+            },
+            {
+              "key": "rate_type",
+              "value": "Average"
+            },
+            {
+              "key": "current_rate",
+              "value": "0.0493"
+            },
+            {
+              "key": "previous_rate_2021",
+              "value": "0.0469"
+            },
+            {
+              "key": "currency_pair",
+              "value": "ZAR : £"
+            },
+            {
+              "key": "rate_type",
+              "value": "Spot"
+            },
+            {
+              "key": "current_rate",
+              "value": "0.0524"
+            },
+            {
+              "key": "previous_rate_2021",
+              "value": "0.0490"
+            },
+            {
+              "key": "currency_pair",
+              "value": "USD : £"
+            },
+            {
+              "key": "rate_type",
+              "value": "Average"
+            },
+            {
+              "key": "current_rate",
+              "value": "0.7319"
+            },
+            {
+              "key": "previous_rate_2021",
+              "value": "0.7648"
+            },
+            {
+              "key": "currency_pair",
+              "value": "USD : £"
+            },
+            {
+              "key": "rate_type",
+              "value": "Spot"
+            },
+            {
+              "key": "current_rate",
+              "value": "0.7615"
+            },
+            {
+              "key": "previous_rate_2021",
+              "value": "0.7264"
+            },
+            {
+              "key": "currency_pair",
+              "value": "BWP : £"
+            },
+            {
+              "key": "rate_type",
+              "value": "Average"
+            },
+            {
+              "key": "current_rate",
+              "value": "0.0660"
+            },
+            {
+              "key": "previous_rate_2021",
+              "value": "0.0679"
+            },
+            {
+              "key": "currency_pair",
+              "value": "BWP : £"
+            },
+            {
+              "key": "rate_type",
+              "value": "Spot"
+            },
+            {
+              "key": "current_rate",
+              "value": "0.0675"
+            },
+            {
+              "key": "previous_rate_2021",
+              "value": "0.0663"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 5,
+          "title": "Chairman’s Report Kashitu Project",
+          "data": [
+            {
+              "key": "Kashitu zinc project commitment",
+              "value": "Continued commitment to add value and bring a small initial deposit into production during early 2023."
+            },
+            {
+              "key": "Star Zinc project ownership",
+              "value": "Ceded ownership and operation of the Star Zinc project in March 2021 due to challenges from proximity to municipality housing and industry."
+            },
+            {
+              "key": "Ferber project status",
+              "value": "The Ferber project remains in good standing, with plans to commence a limited drill programme before year end."
+            },
+            {
+              "key": "Market prospects",
+              "value": "The small cap sector of the natural resource stock markets is experiencing downturns due to geopolitical uncertainties and inflation."
+            },
+            {
+              "key": "Future predictions",
+              "value": "Influential commentators predict scarcity of metals leading to high prices for companies in the electric vehicle sector."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 25,
+          "title": "Major Shareholders and Voting Rights",
+          "data": [
+            {
+              "key": "Name of Holder",
+              "value": "Hargreaves Lansdown Asset Management"
+            },
+            {
+              "key": "Ordinary Shares",
+              "value": "155845645"
+            },
+            {
+              "key": "Voting Rights",
+              "value": "14.03"
+            },
+            {
+              "key": "Name of Holder",
+              "value": "Interactive Investor"
+            },
+            {
+              "key": "Ordinary Shares",
+              "value": "120505382"
+            },
+            {
+              "key": "Voting Rights",
+              "value": "10.85"
+            },
+            {
+              "key": "Name of Holder",
+              "value": "Jarvis Investment Management"
+            },
+            {
+              "key": "Ordinary Shares",
+              "value": "114567550"
+            },
+            {
+              "key": "Voting Rights",
+              "value": "10.32"
+            },
+            {
+              "key": "Name of Holder",
+              "value": "Mr Colin Bird"
+            },
+            {
+              "key": "Ordinary Shares",
+              "value": "78605862"
+            },
+            {
+              "key": "Voting Rights",
+              "value": "7.08"
+            },
+            {
+              "key": "Name of Holder",
+              "value": "Raymond James Investment Services"
+            },
+            {
+              "key": "Ordinary Shares",
+              "value": "56336812"
+            },
+            {
+              "key": "Voting Rights",
+              "value": "5.07"
+            },
+            {
+              "key": "Name of Holder",
+              "value": "Barclays Wealth"
+            },
+            {
+              "key": "Ordinary Shares",
+              "value": "54887101"
+            },
+            {
+              "key": "Voting Rights",
+              "value": "4.94"
+            },
+            {
+              "key": "Name of Holder",
+              "value": "Sandfire Resources NL"
+            },
+            {
+              "key": "Ordinary Shares",
+              "value": "41100124"
+            },
+            {
+              "key": "Voting Rights",
+              "value": "3.70"
+            },
+            {
+              "key": "Name of Holder",
+              "value": "Halifax Share Dealing"
+            },
+            {
+              "key": "Ordinary Shares",
+              "value": "35019045"
+            },
+            {
+              "key": "Voting Rights",
+              "value": "3.15"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 50,
+          "title": "Going Concern and New Standards",
+          "data": [
+            {
+              "key": "Going concern review",
+              "value": "The directors have reviewed the Group’s financial position at the balance sheet date and are satisfied that the Group has adequate resources to continue operational existence for the foreseeable future."
+            },
+            {
+              "key": "New Standards and Interpretations",
+              "value": "The IASB and IFRS Interpretations Committee have issued several new standards and interpretations effective for accounting periods beginning on or after 1 January 2021."
+            },
+            {
+              "key": "Interest Rate Benchmark Reform Amendments",
+              "value": "Three key amendments affecting different financial instruments standards (IFRS 9, IAS 39, and IFRS 7)."
+            },
+            {
+              "key": "Effective Dates",
+              "value": "Applicable standards will be effective for accounting periods beginning on or after various dates, spanning January 2021 to January 2023."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 35,
+          "title": "Independent Auditors’ Report Opinions on other matters prescribed by the Companies Act 2006",
+          "data": [
+            {
+              "key": "Adequate accounting records",
+              "value": "Not kept by the parent company"
+            },
+            {
+              "key": "Financial statements agreement",
+              "value": "Not in agreement with the accounting records and returns"
+            },
+            {
+              "key": "Directors’ remuneration disclosures",
+              "value": "Certain disclosures not made as specified by law"
+            },
+            {
+              "key": "Information received for audit",
+              "value": "Not all required information received"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 36,
+          "title": "Independent Auditors’ Report",
+          "data": [
+            {
+              "key": "auditor_name",
+              "value": "PKF Littlejohn LLP"
+            },
+            {
+              "key": "auditor_location",
+              "value": "15 Westferry Circus, Canary Wharf, London E14 4HD"
+            },
+            {
+              "key": "audit_report_date",
+              "value": "20 September 2022"
+            },
+            {
+              "key": "financial_report_period",
+              "value": "31 March 2022"
+            },
+            {
+              "key": "audit_scope",
+              "value": "Compliance with local industry regulations, tax, and employment laws"
+            },
+            {
+              "key": "non_compliance_risks",
+              "value": "Risk of fraud and management override of controls"
+            },
+            {
+              "key": "audit_methods",
+              "value": "Enquires of management, review of board meeting minutes, review of legal expenses, testing of journals, etc."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 10,
+          "title": "Operations Report",
+          "data": [
+            {
+              "key": "Report Title",
+              "value": "Operations Report"
+            },
+            {
+              "key": "Description",
+              "value": "A report detailing geophysical and geological survey results, particularly focusing on the Shinganda outcrop."
+            },
+            {
+              "key": "Key Findings",
+              "value": "Samples show copper content up to 3.77% and gold up to 1.24g/t."
+            },
+            {
+              "key": "Geophysical Survey",
+              "value": "Conducted by Zambian contractor with detailed ground magnetic survey covering 383 line kilometers."
+            },
+            {
+              "key": "Map Description",
+              "value": "Geophysical survey map showing structural interpretations with white lines indicating interpreted structural features."
+            },
+            {
+              "key": "Instrumentation",
+              "value": "Ground magnetic survey conducted with 100m line spacing and 10m station intervals."
+            },
+            {
+              "key": "Color Scale",
+              "value": "Ranges from purple to red indicating different intensity values of measured geophysical properties."
+            },
+            {
+              "key": "Scale Bar Information",
+              "value": "500 meter intervals shown at the bottom of the map."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 59,
+          "title": "Financial Assets Classification",
+          "data": [
+            {
+              "key": "Other financial assets (2022)",
+              "value": "1,994,617"
+            },
+            {
+              "key": "Trade and other receivables (2022)",
+              "value": "119,856"
+            },
+            {
+              "key": "Cash and cash equivalents (2022)",
+              "value": "4,648,995"
+            },
+            {
+              "key": "Total (2022)",
+              "value": "6,763,467"
+            },
+            {
+              "key": "Loans to Group Companies (2022)",
+              "value": "5,657,509"
+            },
+            {
+              "key": "Other financial assets (2022)",
+              "value": "1,500,975"
+            },
+            {
+              "key": "Total assets (2022)",
+              "value": "9,111,384"
+            },
+            {
+              "key": "Trade receivables (2022)",
+              "value": "615,698"
+            },
+            {
+              "key": "Provision for impairment (2022)",
+              "value": "(495,812)"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 46,
+    "EUR": 4,
+    "GBP": 95,
+    "AUD": 102,
+    "CAD": 5,
+    "ZAR": 29
+  },
+  "sha1": "6406e378c1f49a29c836633f187c271b30b50183"
+}

@@ -1,0 +1,3570 @@
+{
+  "letters": 171466,
+  "pages": 79,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 6
+    },
+    "company_name": "Structural Monitoring Systems Plc",
+    "major_industry": "Technology",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "ANNUAL REPORT 2022",
+          "data": [
+            {
+              "key": "Report Year",
+              "value": "2022"
+            },
+            {
+              "key": "Type",
+              "value": "Annual Report"
+            },
+            {
+              "key": "Document Source",
+              "value": "Company/Bank Annual Report"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 4,
+          "title": "BUSINESS ACQUISITION",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Anodyne Electronics Manufacturing Corp (AEM)"
+            },
+            {
+              "key": "Acquisition Target",
+              "value": "Eagle Audio"
+            },
+            {
+              "key": "Acquisition Amount",
+              "value": "N/A"
+            },
+            {
+              "key": "Loan Facility Provider",
+              "value": "HSBC Canada"
+            },
+            {
+              "key": "Loan Amount",
+              "value": "$5.46m"
+            },
+            {
+              "key": "Year of Acquisition",
+              "value": "2022"
+            },
+            {
+              "key": "Impact",
+              "value": "Increasing overall revenue and profit margins"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 6,
+          "title": "STRATEGIC REPORT: Relocation and Acquisition",
+          "data": [
+            {
+              "key": "Relocation Investment",
+              "value": "AEM increased production capacity by relocating to a newly constructed 35,000 sq. ft. (3,251 m2) facility in Kelowna, British Columbia, adding an extra 10,000 sq. ft. compared to previous premises. The purpose-built facility, announced in 2020 and completed in January 2022, aims to boost operational efficiency with new manufacturing equipment and optimized space."
+            },
+            {
+              "key": "Acquisition of Eagle Audio",
+              "value": "In September 2021, AEM, via its wholly owned subsidiary, acquired the key avionics division Eagle Audio from Eagle Copters Ltd for CA$4.12m. The deal was internally funded using cash reserves and existing low‐cost debt facilities with HSBC Canada, complementing the company’s product portfolio and ongoing audio R&D initiatives."
+            },
+            {
+              "key": "Projected Outlook and Financial Indicators",
+              "value": "Looking ahead, further investments in R&D and sales team expansion are expected. As of 30 June 2022, the Group reported approximately $1.80m cash, a loss of $4.03m, and revenue of $15.70m, alongside increased expenditures in royalty fees, depreciation, R&D, and employee costs."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 29,
+          "title": "Notes to the financial statements",
+          "data": [
+            {
+              "key": "Statement of compliance",
+              "value": "The Group’s financial statements have been prepared in accordance with IFRS as adopted by the United Kingdom and in compliance with the Companies Act 2006 for the year ended 30 June 2022."
+            },
+            {
+              "key": "New Accounting Standards",
+              "value": "Directors have reviewed all new and revised Standards and Interpretations, determining no material impact."
+            },
+            {
+              "key": "Basis of consolidation",
+              "value": "The consolidated financial statements incorporate assets, liabilities, and results of controlled entities, eliminating inter-group balances and transactions."
+            },
+            {
+              "key": "Business Combinations",
+              "value": "Business combinations occur when an acquirer obtains control over one or more businesses; they are accounted for using the acquisition method with fair value measurement of identifiable assets and liabilities (including contingent liabilities)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 30,
+          "title": "Notes to the Financial Statements – Business Combination and Currency Translation",
+          "data": [
+            {
+              "key": "Transaction Costs",
+              "value": "All transaction costs incurred in relation to the business combination are expensed to the statement of comprehensive income."
+            },
+            {
+              "key": "Acquisition Impact",
+              "value": "The acquisition of a business may result in the recognition of goodwill or a gain from a bargain purchase."
+            },
+            {
+              "key": "Foreign Currency Translation",
+              "value": "Foreign currency transactions are translated into the presentation currency using prevailing exchange rates. Exchange differences from settlements and year-end translations are recognized in the statement of comprehensive income and Other comprehensive Income, with differences related to net investments taken to a foreign currency translation reserve."
+            },
+            {
+              "key": "Functional Currency",
+              "value": "Structural Monitoring Systems Plc uses Australian dollars as both its functional and presentation currency. Its overseas subsidiary, Structural Monitoring Systems Limited, also uses Australian dollars, while Anodyne Electronics Manufacturing Corp uses Canadian dollars as its functional currency."
+            },
+            {
+              "key": "Impairment of Assets",
+              "value": "The Group reviews property, plant and equipment for indicators of impairment at each reporting date, writing down assets to their recoverable amount when necessary."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 49,
+          "title": "Notes to the financial statements 30 June 2022 - Eagle Audio",
+          "data": [
+            {
+              "key": "Acquisition Date",
+              "value": "September 2021"
+            },
+            {
+              "key": "Acquired Business",
+              "value": "Canadian based business Eagle Audio"
+            },
+            {
+              "key": "Intangible Assets",
+              "value": "Intellectual property (drawings and certifications), Certifications, Licence agreement, Technology, Customer relationships"
+            },
+            {
+              "key": "Amortisation Details",
+              "value": "Certifications: 5 years (2.5 remaining); Licence agreement: 5 years (2.5 remaining); Technology: 10 years (7.5 remaining); Intellectual property: 10 years (9.2 remaining); Customer relationships: 5 years (4.2 remaining)"
+            },
+            {
+              "key": "Goodwill",
+              "value": "$1.61m (allocated to AEM cash generating unit)"
+            },
+            {
+              "key": "Impairment Testing",
+              "value": "Discounted cash flow model over 5 years using budget projections for 2022/2023; key assumptions include revenue growth (30% in 2023, 13% in 2024, 6% p.a. from 2025), EBITDA margin at 17%, and a discount rate of 15.3%"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 2,
+          "title": "CORPORATE DIRECTORY & CONTACT INFORMATION",
+          "data": [
+            {
+              "key": "Executive Chairman",
+              "value": "Ross Love"
+            },
+            {
+              "key": "Non-Executive Director",
+              "value": "Sam Wright"
+            },
+            {
+              "key": "Non-Executive Director",
+              "value": "Hendrik Deurloo"
+            },
+            {
+              "key": "Non-Executive Director",
+              "value": "Bryant McLarty"
+            },
+            {
+              "key": "Non-Executive Director",
+              "value": "Brian Wall"
+            },
+            {
+              "key": "Officer - Company Secretary",
+              "value": "Mr. Sam Wright"
+            },
+            {
+              "key": "Corporate Office Address",
+              "value": "Suite 116, 1 Kyle Way, Claremont WA 6010, Australia"
+            },
+            {
+              "key": "Telephone",
+              "value": "+61 8 6161 7412"
+            },
+            {
+              "key": "Facsimile",
+              "value": "+61 8 9467 6111"
+            },
+            {
+              "key": "Email",
+              "value": "sms@smsystems.com.au"
+            },
+            {
+              "key": "United Kingdom Office & Registered Office",
+              "value": "The Old Court, 8 Tufton Street, Ashford, Kent, TN23 1PF, United Kingdom"
+            },
+            {
+              "key": "Canada Office",
+              "value": "100-966 Crowley Avenue, Kelowna, British Colombia, Canada V1Y OL1"
+            },
+            {
+              "key": "Share Registry",
+              "value": "Computershare Investor Centre Pty Ltd, GPO Box 2975, Melbourne VIC 3001"
+            },
+            {
+              "key": "Stock Exchange Listing",
+              "value": "Australian Securities Exchange (Home Exchange: Perth, Western Australia), Code: SMN"
+            },
+            {
+              "key": "Website",
+              "value": "www.smsystems.com.au"
+            },
+            {
+              "key": "Mailing Address",
+              "value": "PO Box 661, Nedlands, Western Australia 6909"
+            },
+            {
+              "key": "Auditors",
+              "value": "Jeffreys Henry Audit Limited, Finsgate 5-7 Cranwood Street, London EC1V 9EE"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 5,
+          "title": "Strategic Report - Leadership Change and Corporate Updates",
+          "data": [
+            {
+              "key": "Resignations",
+              "value": "Former Chairman Will Rouse and directors Stephen Forman and Mike Reveley resigned earlier this year."
+            },
+            {
+              "key": "New Appointment",
+              "value": "Ross Love was appointed as Executive Chairman on July 13, bringing decades of global executive experience."
+            },
+            {
+              "key": "Background",
+              "value": "Ross Love, formerly a Senior Partner at Boston Consulting Group, has extensive experience in policy reform and business strategy transformation in Australia and the United States."
+            },
+            {
+              "key": "Additional Context",
+              "value": "The page also details a completed Rights issue and legal claim settlements, as well as a financial performance update for the AEM subsidiary."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "leadership_change",
+          "page": 9,
+          "title": "DIRECTORS’ REPORT – Leadership and Appointments",
+          "data": [
+            {
+              "key": "Director Name",
+              "value": "Ross Love"
+            },
+            {
+              "key": "Position",
+              "value": "Executive Chairman"
+            },
+            {
+              "key": "Appointment Date",
+              "value": "13 July 2022"
+            },
+            {
+              "key": "Biography",
+              "value": "Experienced executive and consultant with broad public and private sector expertise in policy reforms and business strategy transformations. Former Senior Partner at the Boston Consulting Group and has held leadership roles in New York and Australia."
+            },
+            {
+              "key": "Director Name",
+              "value": "Sam Wright"
+            },
+            {
+              "key": "Position",
+              "value": "Non-Executive Director and Company Secretary"
+            },
+            {
+              "key": "Appointment Date",
+              "value": "14 October 2020"
+            },
+            {
+              "key": "Biography",
+              "value": "Experienced in corporate governance and corporate finance, with expertise in ASX listed companies administration, compliance, and shareholder relations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 10,
+          "title": "Directors’ Report - Leadership Changes",
+          "data": [
+            {
+              "key": "Bryant McLarty",
+              "value": "Non-Executive Director, appointed 20 October 2021. An Australian Financial Services Licensee with over 25 years’ experience in equities and capital markets. Serves as chairman of Mac Euity Partners and director of several private companies. Past directorships include Avation Plc, Hazer Group Limited, EMVision Limited, and PharmAust Limited. Was director of Park’D Limited from 1 December 2016 to 20 April 2020. Currently, not a director of any ASX listed companies other than Structural Monitoring Systems plc."
+            },
+            {
+              "key": "Hendrik Deurloo",
+              "value": "Non-Executive Director, appointed 1 April 2022. Has over 23 years of experience in management and sales within the global aerospace industry. Currently serves as SVP & Chief Commercial Officer for Pratt & Whitney, overseeing Sales, Marketing, and Customer Support for Pratt & Whitney Commercial Engines and International Aero Engines (IAE). Member of the Board of Governors of the Wings Club Foundation. Holds a bachelor's degree in finance from East Connecticut State University and an MBA from the University of Connecticut. Has not held directorships of any ASX listed companies in the last 3 years."
+            },
+            {
+              "key": "Brian Wall",
+              "value": "Non-Executive Director, appointed 20 June 2022. Brings over 35 years of leadership experience with roles at Cintas, Troika Ventures, The Pattison Group, and most recently as Chief Executive of Anodyne Electronics Corporation (AEM), a subsidiary of SMS. Joined AEM in August 2019 and served as CEO until August 2022, successfully navigating the company through the COVID-19 pandemic and overseeing a move to a new facility in Kelowna, BC. Has not held directorships of any other ASX listed companies in the last 3 years."
+            },
+            {
+              "key": "Will Rouse",
+              "value": "Resigned on 20 June 2022. An experienced senior banker, finance executive, and serial entrepreneur focused on the acquisition and growth of specialised manufacturing-related businesses. Acquired Simcro Ltd in 2007, sold his majority stake in 2013 while retaining a 20% shareholding, and led further acquisitions in 2015. Simcro was later sold to a global multinational. A Chartered Accountant who remains on the Board of Simcro."
+            },
+            {
+              "key": "R. Michael Reveley",
+              "value": "Resigned on 20 October 2021. Previously served as managing partner, chief executive, and co-CIO of SEAL Capital Ltd, a Los Angeles-based hedge fund focused on global macro strategies. His earlier roles include being a founding partner and deputy CIO at Seagate Global Advisors, a director in the derivatives group at SBC Warburg in London and New York, vice-president of global derivatives for Swiss Bank Corporation, and vice-president of the global derivatives group at First Interstate Bank where he co-managed a US$20bn derivatives portfolio."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 11,
+          "title": "DIRECTORS’ REPORT",
+          "data": [
+            {
+              "key": "Director Name",
+              "value": "Stephen Forman"
+            },
+            {
+              "key": "Resignation Date",
+              "value": "20 June 2022"
+            },
+            {
+              "key": "Previous Experience",
+              "value": "Over 25 years of high-level equity capital markets experience in Australia and North America, including senior roles at UBS and JP Morgan"
+            },
+            {
+              "key": "Current Role",
+              "value": "Managing Director at Union Square Capital Advisors"
+            },
+            {
+              "key": "Education & Credentials",
+              "value": "B.Comm – Hons (Accounting & Finance) from UWA; CFA Charterholder"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 12,
+          "title": "Directors’ Report – Subsequent Events",
+          "data": [
+            {
+              "key": "Executive Appointment",
+              "value": "Ross Love was appointed as Executive Chairman subsequent to the reporting date."
+            },
+            {
+              "key": "Event Details",
+              "value": "The report also details a placement of 5,500,000 CDIs at an issue price of $0.35 per CDI with a 1:1 free attaching option exercisable at $1.20 (expiring 6 April 2024), raising $1.93 million before issue costs."
+            },
+            {
+              "key": "Dividend Policy",
+              "value": "No dividends were proposed or paid during the financial year."
+            },
+            {
+              "key": "Financial Performance",
+              "value": "Operating loss after income tax for the year was $4.03m (compared to $1.96m in 2021)."
+            },
+            {
+              "key": "Going Concern",
+              "value": "The financial statements have been prepared on a going concern basis with an established operating loan facility of up to CAD$5 million."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 18,
+          "title": "Directors' Share Holdings as of 30 June 2022",
+          "data": [
+            {
+              "key": "summary",
+              "value": "This table shows the movement in directors' shareholdings during the year ended 30 June 2022. The total number of shares held by directors decreased from 6,987,438 to 3,812,060. Notable points include the resignations or departures of Will Rouse, Stephen Forman, and R Michael Reveley, while Sam Wright and Bryant McLarty significantly increased their holdings. At year-end, Sam Wright held the largest position with 1,923,797 shares, followed by Bryant McLarty with 1,850,045 shares."
+            },
+            {
+              "key": "number_of_rows",
+              "value": "8"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 18,
+          "title": "Director Share Holdings as of 30 June 2021",
+          "data": [
+            {
+              "key": "summary",
+              "value": "This table shows the movement in director shareholdings for the year ending 30 June 2021. Key changes included a significant increase in Will Rouse's holdings (from 270,588 to 1,156,016 shares), the appointment of Sam Wright which brought 1,620,000 shares, and the resignation of Terry Walsh. Overall, the total number of shares held by directors increased from 4,889,439 to 6,987,438, representing a net increase of around 43%."
+            },
+            {
+              "key": "number_of_rows",
+              "value": "6"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 24,
+          "title": "Approved by the Board and authorised for issue on 30th September 2022",
+          "data": [
+            {
+              "key": "Authorization Date",
+              "value": "30th September 2022"
+            },
+            {
+              "key": "Executive",
+              "value": "Ross Love, Executive Chairman"
+            },
+            {
+              "key": "Company",
+              "value": "STRUCTURAL MONITORING SYSTEMS PLC"
+            },
+            {
+              "key": "Report",
+              "value": "ANNUAL REPORT 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 66,
+          "title": "Financial Statements Notes and Subsequent Events",
+          "data": [
+            {
+              "key": "Subsidiary",
+              "value": "Structural Monitoring Systems Limited, incorporated in Australia; owner of intellectual property for structural health monitoring technology."
+            },
+            {
+              "key": "Acquisition",
+              "value": "Anodyne Electronics Manufacturing Corporation was acquired by SMSCC on 8 December 2017 for $10,998,750."
+            },
+            {
+              "key": "Director Loans",
+              "value": "Loans received from three directors: Stephen Forman (principal $1,072,673 in USD at 6% yielding $38,578, collateralized with the Group’s bankers), Will Rouse (principal $92,936 in AUD at 5% yielding $713), and 3ryant McLarty (principal $100,000 in AUD at 5% yielding $781)."
+            },
+            {
+              "key": "Director Payables",
+              "value": "Amounts due to key management personnel: Hendrik Deurloo ($19K), Bryant McLarty ($10K); no amount recorded for Brian Wall."
+            },
+            {
+              "key": "Leadership Change",
+              "value": "Subsequent to the reporting date, Ross Love was appointed as Executive Chairman."
+            },
+            {
+              "key": "Capital Raising",
+              "value": "Completed a placement of 5,500,000 CDIs at $0.35 each with a 1:1 free attaching option exercisable at $1.20, raising $1.93 million before issue costs to fund commercialization of FAA approved CVMTM technology."
+            },
+            {
+              "key": "Extraordinary General Meeting",
+              "value": "The Company is taking steps to convene an EGM (expected around the week commencing 31 October 2022) in compliance with the Companies Act 2006 (UK)."
+            },
+            {
+              "key": "COVID-19 Impact",
+              "value": "The ongoing Coronavirus pandemic has had a financial impact as of 30 June 2022; its future impact remains uncertain."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 14,
+          "title": "REMUNERATION REPORT (AUDITED) - REMUNERATION POLICY",
+          "data": [
+            {
+              "key": "Responsibility",
+              "value": "The Remuneration Committee of the Board of Directors of Structural Monitoring Systems Plc is responsible for determining and reviewing compensation arrangements for directors and executives."
+            },
+            {
+              "key": "Assessment",
+              "value": "The Committee (or the Board of directors) periodically assesses the appropriateness of the nature and amount of emoluments based on employment market conditions to ensure maximum stakeholder benefit."
+            },
+            {
+              "key": "Payment Forms",
+              "value": "Officers can receive their base emoluments in various forms including cash and fringe benefits (such as motor vehicles and expense payment plans) optimal for the recipient without creating undue costs for the company."
+            },
+            {
+              "key": "Performance Linkage",
+              "value": "The Remuneration Committee links the nature and amount of executive directors’ and senior executives’ emoluments to the Company’s financial and operational performance."
+            },
+            {
+              "key": "Employee Incentive",
+              "value": "Executive directors and employees have the opportunity to qualify for participation in the Company Employee Incentive Plan."
+            },
+            {
+              "key": "Employment Agreements",
+              "value": "Employment agreements are entered into with the Executive Chairman and all other executives, with any options or performance rights lapsing upon completion of the service period."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 15,
+          "title": "Director Remuneration Details as of 30 June 2022",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Remuneration details for Group directors and executive officers including salary and share-based payments."
+            },
+            {
+              "key": "Will Rouse Salary",
+              "value": "194505"
+            },
+            {
+              "key": "Stephen Forman Salary",
+              "value": "150000"
+            },
+            {
+              "key": "Stephen Forman Shares",
+              "value": "18416"
+            },
+            {
+              "key": "Sam Wright Salary",
+              "value": "140000"
+            },
+            {
+              "key": "R Michael Reveley Salary",
+              "value": "86250"
+            },
+            {
+              "key": "Bryant McLarty Salary",
+              "value": "45000"
+            },
+            {
+              "key": "Hendrik Deurloo Salary",
+              "value": "18750"
+            },
+            {
+              "key": "Brian Wall Salary",
+              "value": "8349"
+            },
+            {
+              "key": "Total Salary",
+              "value": "642854"
+            },
+            {
+              "key": "Total Shares",
+              "value": "18416"
+            },
+            {
+              "key": "Total Compensation",
+              "value": "661270"
+            },
+            {
+              "key": "Summary",
+              "value": "The table presents the remuneration details for directors as of 30 June 2022. Will Rouse received the highest salary while Stephen Forman was the only director receiving share-based payments."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 15,
+          "title": "Compensation Details - 30 June 2021",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Breakdown of compensation for directors and executives including cash salary, performance rights fees, performance rights, and shares."
+            },
+            {
+              "key": "Will Rouse Total Compensation",
+              "value": "426918"
+            },
+            {
+              "key": "R. Michael Reveley Total Compensation",
+              "value": "247166"
+            },
+            {
+              "key": "Stephen Forman Total Compensation",
+              "value": "157658"
+            },
+            {
+              "key": "Sam Wright Total Compensation",
+              "value": "140324"
+            },
+            {
+              "key": "Terry Walsh Total Compensation",
+              "value": "113912"
+            },
+            {
+              "key": "Toby Chandler Total Compensation",
+              "value": "559531"
+            },
+            {
+              "key": "Aggregate Total Compensation",
+              "value": "1645509"
+            },
+            {
+              "key": "Key Components",
+              "value": "Performance rights (571588) and performance rights fees (539984) were the largest components; no superannuation payments were made."
+            },
+            {
+              "key": "Summary",
+              "value": "This table shows the compensation breakdown for directors and executives as of 30 June 2021, with Toby Chandler receiving the highest total compensation."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 16,
+          "title": "Directors’ Report – Executive Compensation and Service Agreements",
+          "data": [
+            {
+              "key": "Directors Resignations/Appointments",
+              "value": "(1) resigned 20 June 2022; (2) resigned 20 October 2021; (3) appointed 20 October 2021; (4) appointed 1 April 2022; (5) appointed 20 June 2022; (6) appointed as director 14 October 2020; (7) resigned as director 14 October 2020"
+            },
+            {
+              "key": "Legal Counsel Salary",
+              "value": "Mr Walsh receives a salary of $75,000 per annum including superannuation as legal counsel"
+            },
+            {
+              "key": "Share-Based Compensation",
+              "value": "At the 2021 AGM, details of Performance Rights (PRs) for directors and executives are disclosed. Table data: Sam Wright: 155,813; Bryant McLarty: (blank); Hendrik Deurloo: (blank); Brian Wall: (blank); Will Rouse: (blank); Stephen Forman: (blank); R Michael Reveley: 392,929; Total: 548,742. (Summary: Financial listing showing compensation-related values.)"
+            },
+            {
+              "key": "Service Agreements",
+              "value": "Details include Ross Love, Executive Chairman, with an agreement commenced on 13 July 2022, no fixed term, base salary of $325,000 plus statutory superannuation and subject to a 6-month termination notice."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 17,
+          "title": "Directors’ Report - Director Employment Agreements",
+          "data": [
+            {
+              "key": "Bryant McLarty",
+              "value": "Non-Executive Director; Agreement commenced: 20 October 2021; Term of agreement: no fixed term; Details: Base salary of $75,000 to be reviewed annually by the Remuneration Committee. No termination period in place."
+            },
+            {
+              "key": "Hendrik Deurloo",
+              "value": "Non-Executive Director; Agreement commenced: 1 April 2022; Term of agreement: no fixed term; Details: Base salary of $75,000 to be reviewed annually by the Remuneration Committee. No termination period in place."
+            },
+            {
+              "key": "Brian Wall",
+              "value": "Non-Executive Director; Agreement commenced: 20 June 2022; Term of agreement: no fixed term; Details: Base salary of $75,000 to be reviewed annually by the Remuneration Committee. Until his retirement on 24 August 2022 he also served as Chief Executive Officer of wholly owned subsidiary Anodyne Electronics Manufacturing Corp (AEM) and will remain engaged as a consultant for a 12-month term."
+            },
+            {
+              "key": "Sam Wright",
+              "value": "Non-Executive Director & Company Secretary; Agreement commenced: 1 January 2021; Term of agreement: no fixed term; Details: Base salary of $140,000 to be reviewed annually by the Remuneration Committee. Subject to termination notice of 1 month by the director and 2 months’ notice by the company. Directors and executives have no entitlement to termination payments upon removal for misconduct."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 42,
+          "title": "Employees and Directors Remuneration and Numbers",
+          "data": [
+            {
+              "key": "Notes Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Employee and Directors' Numbers",
+              "value": "Table 'Employee and directors' numbers' shows figures for different departments. Production increased from 52 in 2021 to 63 in 2022, Research from 22 to 24, Selling and distribution decreased from 18 to 11, and Administration (including directors) recorded consolidated numbers of 16/114 for 2022 versus 15/107 for 2021. The parent company had 11 employees in Administration for 2022."
+            },
+            {
+              "key": "Employee Remuneration",
+              "value": "Table 'Employee remuneration' details two reporting segments. In the first segment, wages and salaries increased from 4602 to 6222, total employee costs from 5212 to 6863, and total including share‐based payments from 6328 to 6900, while share-based payments dropped from 1116 to 37. In the second segment, figures were 1249 (2022) vs 1070 (2021) for wages and salaries and total costs including share‐based payments decreased from 2186 to 1286."
+            },
+            {
+              "key": "Directors’ Remuneration",
+              "value": "Directors’ fees, including cash, performance rights and superannuation, amounted to $0.63m in 2022 (up from $0.30m in 2021) and are included in employee expenses. Directors’ share‐based payments were $nil in 2022 (compared to $0.16m in 2021). Further details are provided in the Remuneration report."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 54,
+          "title": "Employee Benefits and Share-based Payments – Performance Rights and Share Issues Summary",
+          "data": [
+            {
+              "key": "Employee Incentive Plan Approval Date",
+              "value": "11 December 2018"
+            },
+            {
+              "key": "Plan Description",
+              "value": "Plan for granting non-transferable shares or performance rights (PRs) to directors, employees and relevant contractors with more than six months’ service. Shares vest immediately; PRs vest upon meeting performance hurdles within 3 years."
+            },
+            {
+              "key": "Share Discount",
+              "value": "12.5% discount to the lowest 5-day VWAP for the quarter"
+            },
+            {
+              "key": "Shares Issued under EIP in 2021",
+              "value": "1,843,081 shares"
+            },
+            {
+              "key": "Pension Plan Contributions (2022)",
+              "value": "$0.40m (compared to $0.36m in 2021)"
+            },
+            {
+              "key": "Participants in Pension Plan",
+              "value": "84 employees"
+            },
+            {
+              "key": "Performance Rights – Directors",
+              "value": "No performance rights were granted during the year; $0.02m recorded as share-based payment expense for previously granted PRs (now fully vested)"
+            },
+            {
+              "key": "Performance Rights Table Summary",
+              "value": "The table shows a significant decrease in PRs issued to directors and executives from 545 (2021) to 23 (2022), along with additional entries for shares issued under EIP and PRs to consultants and eligible staff. Note some data quality issues in the parent entity 2021 figures."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 55,
+          "title": "Performance Rights - Consultants (Notes to the Financial Statements 30 June 2022)",
+          "data": [
+            {
+              "key": "Grant Date",
+              "value": "30 July 2021"
+            },
+            {
+              "key": "Consultant Performance Rights Granted",
+              "value": "180,921 PRs (in lieu of fees accrued to 30 June 2021)"
+            },
+            {
+              "key": "Fair Value Determination",
+              "value": "Determined by the closing share price on the grant date"
+            },
+            {
+              "key": "Performance Rights Movement Overview",
+              "value": "At 1 July: 1,692,264 (2022) and 4,082,270 (2021); Granted: 180,921 (2022) and 1,788,325 (2021); Exercised: -1,292,577 (2022) and -1,253,331 (2021); Expired: -150,000 (2022) and -2,925,000 (2021); At 30 June: 430,608 (2022) and 1,692,264 (2021); Exercisable at 30 June: 280,608 (2022) and 1,392,264 (2021)"
+            },
+            {
+              "key": "Weighted Average Exercise Price",
+              "value": "Increased from $0.51 at 1 July 2022 to $0.96 at 30 June 2022; Expired options showed a value of $3.00 in 2022"
+            },
+            {
+              "key": "Weighted Average Contractual Term Outstanding",
+              "value": "14 months as at 30 June 2022 (compared to 24 months in 2021)"
+            },
+            {
+              "key": "Outstanding Performance Rights Schedule",
+              "value": "Detailed table provided with various rates (0.001% up to 3.75%) and corresponding start and end dates. Total outstanding performance rights at 30 June 2022: 430,608 versus 1,692,264 at 30 June 2021."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 56,
+          "title": "Notes to the financial statements 30 June 2022 - Terms of Performance Rights",
+          "data": [
+            {
+              "key": "Non-transferability",
+              "value": "Performance Rights are non-transferable and do not confer rights to attend meetings, vote, receive dividends, or participate in new issues or capital returns."
+            },
+            {
+              "key": "Vesting Condition",
+              "value": "Performance Rights vest upon satisfaction of the relevant performance hurdle within 3 years from issuance and at the holder's election."
+            },
+            {
+              "key": "Expiration",
+              "value": "If the performance hurdle is not met or the conversion election is not made within 3 years, the Performance Rights lapse, except as provided in the Plan."
+            },
+            {
+              "key": "Conversion Terms",
+              "value": "Upon vesting, one ordinary share is issued for each Performance Right upon payment of the par value (£0.0005 per share). Shares will rank equally with existing shares."
+            },
+            {
+              "key": "Reconstruction Clause",
+              "value": "In the event of any reconstruction of the issued capital prior to vesting, adjustments may be made to the number of Performance Rights, share prices related to performance hurdles, and any exercise price in accordance with the Plan."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 59,
+          "title": "Notes to the financial statements 30 June 2022",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Share-based Payment Reserve Movement"
+            },
+            {
+              "key": "Outstanding at 30 June 2020 - Performance Rights",
+              "value": "4082270"
+            },
+            {
+              "key": "Outstanding at 30 June 2020 - Value (000)",
+              "value": "3492"
+            },
+            {
+              "key": "PI Rs grante during prior years (2020) - Value (000)",
+              "value": "624"
+            },
+            {
+              "key": "PI Rs grante during the year in lieu of fees (2020) - Performance Rights",
+              "value": "1788325"
+            },
+            {
+              "key": "PI Rs grante during the year in lieu of fees (2020) - Value (000)",
+              "value": "842"
+            },
+            {
+              "key": "PRs converted during the year (2020) - Performance Rights",
+              "value": "-1253331"
+            },
+            {
+              "key": "PRs converted during the year (2020) - Value (000)",
+              "value": "-815"
+            },
+            {
+              "key": "P Rs expire: during the year (2020) - Performance Rights",
+              "value": "-2925000"
+            },
+            {
+              "key": "P Rs expire: during the year (2020) - Value (000)",
+              "value": "-3978"
+            },
+            {
+              "key": "€ Dls issue under Employee Incentive Plan - Value (000)",
+              "value": "478"
+            },
+            {
+              "key": "Outstanding at 30 June 2021 - Performance Rights",
+              "value": "1692264"
+            },
+            {
+              "key": "Outstanding at 30 June 2021 - Value (000)",
+              "value": "643"
+            },
+            {
+              "key": "PI Rs grante during prior years (2021) - Value (000)",
+              "value": "23"
+            },
+            {
+              "key": "PI Rs grante during the year in lieu of fees (2021) - Performance Rights",
+              "value": "180921"
+            },
+            {
+              "key": "PI Rs grante during the year in lieu of fees (2021) - Value (000)",
+              "value": "83"
+            },
+            {
+              "key": "PI Rs converted during the year (2021) - Performance Rights",
+              "value": "-1292577"
+            },
+            {
+              "key": "PI Rs converted during the year (2021) - Value (000)",
+              "value": "0"
+            },
+            {
+              "key": "PI Rs expire: during the year (2021) - Performance Rights",
+              "value": "-150000"
+            },
+            {
+              "key": "PI Rs expire: during the year (2021) - Value (000)",
+              "value": "0"
+            },
+            {
+              "key": "Outstanding at 30 June 2022 - Performance Rights",
+              "value": "430608"
+            },
+            {
+              "key": "Outstanding at 30 June 2022 - Value (000)",
+              "value": "749"
+            },
+            {
+              "key": "Summary",
+              "value": "The table shows the movement in the share-based payment reserve from June 2020 to June 2022, highlighting significant decreases in both the number of performance rights and the monetary value, with major expirations and conversions noted. New grants were primarily made in lieu of fees."
+            },
+            {
+              "key": "Purpose",
+              "value": "Recording the equity benefits provided to employees and directors as part of their remuneration."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 67,
+          "title": "Auditors’ Remuneration",
+          "data": [
+            {
+              "key": "Audit services",
+              "value": "Fees payable to Jeffreys Henry Audit Limited for the statutory audit of parent and consolidated accounts"
+            },
+            {
+              "key": "Audit of the accounts of subsidiaries",
+              "value": "Fees payable for the audit of the accounts of subsidiaries"
+            },
+            {
+              "key": "Audit-related assurance services",
+              "value": "Fees for audit-related assurance services"
+            },
+            {
+              "key": "Total",
+              "value": "Total fees paid including all services"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 35,
+          "title": "Notes to the financial statements - Research and Development",
+          "data": [
+            {
+              "key": "Research Costs Treatment",
+              "value": "Research costs are expensed in the period incurred."
+            },
+            {
+              "key": "Development Costs Capitalization",
+              "value": "Development costs are capitalised when it is probable that the project will be a success, considering commercial and technical feasibility; the entity can use or sell the asset; it has sufficient resources; there is intent to complete the development; and the costs can be reliably measured."
+            },
+            {
+              "key": "Amortisation Periods",
+              "value": "Capitalised development costs are amortised on a straight-line basis over 10 years. Certifications and licence agreement costs are amortised over 5 years; technological intellectual property over 10 years; customer relationships over 5 years; and supplementary type certificates over 10 years."
+            },
+            {
+              "key": "Impairment of Non-Financial Assets",
+              "value": "Goodwill and indefinite-life intangible assets are not amortised but are tested annually for impairment. Other non-financial assets are reviewed for impairment when indicators show the carrying amount may not be recoverable; an impairment loss is recognised if the carrying amount exceeds the recoverable amount."
+            },
+            {
+              "key": "Income Tax",
+              "value": "The tax charge is based on the profit for the year using the applicable tax rate, including deferred tax computed using the balance sheet method."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 34,
+          "title": "Notes to the financial statements - STRUCTURAL MONITORING SYSTEMS PLC - ANNUAL REPORT 2022",
+          "data": [
+            {
+              "key": "Stock in transit valuation",
+              "value": "Stated at the lower of cost and net realisable value; cost includes purchase and delivery costs net of rebates and discounts, while net realisable value is the estimated selling price less estimated costs of completion and sale."
+            },
+            {
+              "key": "Property, Plant and Equipment",
+              "value": "Stated at historical cost less accumulated depreciation and impairment; historical cost includes directly attributable expenditure. Depreciation is calculated on a straight-line basis with useful lives of 3-5 years for plant and equipment and 5 years for leasehold improvements."
+            },
+            {
+              "key": "Derecognition of Assets",
+              "value": "Assets are derecognised upon disposal or when no future economic benefit is expected; gains or losses on disposal are recognised in profit or loss."
+            },
+            {
+              "key": "Right-of-Use Assets",
+              "value": "Recognised at lease commencement at cost (including initial lease liability adjustments, direct costs and estimated dismantling costs) and depreciated on a straight-line basis over the shorter of the lease term or useful life. Short-term or low-value asset leases are expensed as incurred."
+            },
+            {
+              "key": "Intangible Assets",
+              "value": "For business combinations, measured at fair value; for separate acquisitions, recognised at cost. Finite-life intangible assets are measured at cost less amortisation and impairment, with periodic reviews of useful lives and amortisation methods. Goodwill arising on acquisitions is not amortised."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 47,
+          "title": "Notes to the financial statements 30 June 2022 – Non-current assets – Right-of-use assets",
+          "data": [
+            {
+              "key": "Table Description",
+              "value": "This table shows the movement of balances over two fiscal years (2020-2021 and 2021-2022) for right-of-use assets. It includes line items for Balance at start, Additions, Depreciation expense, FX movement effect, and ending balances."
+            },
+            {
+              "key": "Key Figures (2021-2022)",
+              "value": "Additions: 8750, Depreciation expense: -665, Ending Balance: 8772"
+            },
+            {
+              "key": "Key Figures (2020-2021)",
+              "value": "Additions: 608, Depreciation expense: -418, Ending Balance: 373"
+            },
+            {
+              "key": "Lease Information",
+              "value": "The Group leases land and buildings for its offices and a manufacturing facility under a 10-year agreement. It also leases manufacturing equipment, IT equipment and a motor vehicle under shorter agreements (3 to 5 years)."
+            },
+            {
+              "key": "Document Reference",
+              "value": "STRUCTURAL MONITORING SYSTEMS PLC - ANNUAL REPORT 2022"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 3,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Strategic report",
+              "value": ""
+            },
+            {
+              "key": "Directors' report",
+              "value": ""
+            },
+            {
+              "key": "Statement of profit or loss and other comprehensive income",
+              "value": "22"
+            },
+            {
+              "key": "Statement of financial position",
+              "value": "23"
+            },
+            {
+              "key": "Statement of cash flows",
+              "value": "25"
+            },
+            {
+              "key": "Statement of changes in equity",
+              "value": "26"
+            },
+            {
+              "key": "Notes to the financial statements",
+              "value": "28"
+            },
+            {
+              "key": "Independent auditors' report",
+              "value": "68"
+            },
+            {
+              "key": "Shareholder information",
+              "value": "76"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 7,
+          "title": "STRUCTURAL MONITORING SYSTEMS PLC - ANNUAL REPORT 2022 Nu 7",
+          "data": [
+            {
+              "key": "Capitalised Development Expenses",
+              "value": "$0.57m (2021: $0.90m) capitalised in accordance with IAS 38 for internal product development at the commercialisation stage"
+            },
+            {
+              "key": "Group EBITDA",
+              "value": "($2.27m) (2021: ($0.48m))"
+            },
+            {
+              "key": "Normalised EBITDA (AEM)",
+              "value": "$2.27m (2021: $3.08m)"
+            },
+            {
+              "key": "Loss per Share",
+              "value": "3.26 cents per share (2021: 1.64 cents per share)"
+            },
+            {
+              "key": "Net Tangible Assets per Ordinary Security",
+              "value": "6.56 cents (2021: 8.48 cents)"
+            },
+            {
+              "key": "Net Assets",
+              "value": "$15.56m (2021: $14.01m)"
+            },
+            {
+              "key": "Trade and Other Receivables",
+              "value": "$3.04m"
+            },
+            {
+              "key": "Inventory",
+              "value": "$10.89m, with an increase of $3.81m due in part to acquisition inventory uptake and supply chain considerations"
+            },
+            {
+              "key": "Intangible Assets",
+              "value": "$7.15m, including Goodwill of $1.61m; increased by $3.43m due to the acquisition of Eagle Audio and deferral of R&D costs"
+            },
+            {
+              "key": "Increased Borrowings",
+              "value": "$5.46m raised to fund the acquisition of Eagle Audio and to utilise a working capital facility provided by HSBC Canada"
+            },
+            {
+              "key": "Deposit for Loan Facility",
+              "value": "$1.15m placed on deposit as security"
+            },
+            {
+              "key": "ROU Assets",
+              "value": "Increased by $8.40m due to a new lease on AEM’s manufacturing facility and investment in new plant and equipment"
+            },
+            {
+              "key": "ROU Lease Liabilities",
+              "value": "Increased by $9.51m"
+            },
+            {
+              "key": "Income Tax",
+              "value": "Expense reduced from $0.50m to a benefit of $0.28m, reflecting lower taxable income and associated adjustments"
+            },
+            {
+              "key": "Rights Issue",
+              "value": "$4.91m raised in April 2022 before issue costs, representing the primary movement in equity"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 20,
+          "title": "Directors’ Report Additional Information & Financial Performance",
+          "data": [
+            {
+              "key": "Sales revenue (2018)",
+              "value": "7437"
+            },
+            {
+              "key": "Sales revenue (2019)",
+              "value": "16380"
+            },
+            {
+              "key": "Sales revenue (2020)",
+              "value": "19095"
+            },
+            {
+              "key": "Sales revenue (2021)",
+              "value": "15340"
+            },
+            {
+              "key": "Sales revenue (2022)",
+              "value": "15701"
+            },
+            {
+              "key": "EBITDA (2018)",
+              "value": "-3651"
+            },
+            {
+              "key": "EBITDA (2019)",
+              "value": "-2827"
+            },
+            {
+              "key": "EBITDA (2020)",
+              "value": "-991"
+            },
+            {
+              "key": "EBITDA (2021)",
+              "value": "-478"
+            },
+            {
+              "key": "EBITDA (2022)",
+              "value": "-2273"
+            },
+            {
+              "key": "EBIT (2018)",
+              "value": "-3966"
+            },
+            {
+              "key": "EBIT (2019)",
+              "value": "-3488"
+            },
+            {
+              "key": "EBIT (2020)",
+              "value": "-2043"
+            },
+            {
+              "key": "EBIT (2021)",
+              "value": "-1445"
+            },
+            {
+              "key": "EBIT (2022)",
+              "value": "-3910"
+            },
+            {
+              "key": "Loss after income tax (2018)",
+              "value": "-3895"
+            },
+            {
+              "key": "Loss after income tax (2019)",
+              "value": "-3626"
+            },
+            {
+              "key": "Loss after income tax (2020)",
+              "value": "-2072"
+            },
+            {
+              "key": "Loss after income tax (2021)",
+              "value": "-1959"
+            },
+            {
+              "key": "Loss after income tax (2022)",
+              "value": "-4026"
+            },
+            {
+              "key": "Share price at financial year end (2018)",
+              "value": "0.88"
+            },
+            {
+              "key": "Share price at financial year end (2019)",
+              "value": "0.65"
+            },
+            {
+              "key": "Share price at financial year end (2020)",
+              "value": "0.43"
+            },
+            {
+              "key": "Share price at financial year end (2021)",
+              "value": "0.36"
+            },
+            {
+              "key": "Share price at financial year end (2022)",
+              "value": "0.40"
+            },
+            {
+              "key": "Total dividends declared (2018-2022)",
+              "value": "None"
+            },
+            {
+              "key": "Basic earnings per share (2018)",
+              "value": "(3.55)"
+            },
+            {
+              "key": "Basic earnings per share (2019)",
+              "value": "(3.51)"
+            },
+            {
+              "key": "Basic earnings per share (2020)",
+              "value": "(2.19)"
+            },
+            {
+              "key": "Basic earnings per share (2021)",
+              "value": "(1.64)"
+            },
+            {
+              "key": "Basic earnings per share (2022)",
+              "value": "(3.26)"
+            },
+            {
+              "key": "Summary",
+              "value": "Key financial metrics from 2018 to 2022 indicate that Sales revenue grew from 7437 to 15701, with a peak in 2020 at 19095. However, EBITDA, EBIT and Loss after income tax remained negative, with losses deepening in 2022. In parallel, the share price declined significantly from 0.88 in 2018 to 0.40 in 2022 and no dividends were declared, highlighting ongoing financial challenges."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 22,
+          "title": "Statement of profit or loss and other comprehensive income For the year ended 30 June 2022",
+          "data": [
+            {
+              "key": "Sales",
+              "value": "15,701 (current period) vs 15,340 (previous period); Change: +66"
+            },
+            {
+              "key": "Cost of sales",
+              "value": "-7,875 (current period) vs -8,258 (previous period); Change: -39"
+            },
+            {
+              "key": "Gross profit",
+              "value": "7,826 (current period) vs 7,082 (previous period); Change: +27"
+            },
+            {
+              "key": "Other income",
+              "value": "473 (current), 664 (previous); Additional details: 325 and 337 adjustments"
+            },
+            {
+              "key": "Operating expenses - Depreciation and amortisation",
+              "value": "-1,638 (current) vs -967 (previous)"
+            },
+            {
+              "key": "Operating expenses - Employee expenses",
+              "value": "-6,863 (current) vs -5,212 (previous)"
+            },
+            {
+              "key": "Operating expenses - Impairment charges",
+              "value": "0 (current) vs 0 (previous) with adjustments -1814 and -387"
+            },
+            {
+              "key": "Operating expenses - Loss on debt for equity swap",
+              "value": "0 (current) vs -52 (previous)"
+            },
+            {
+              "key": "Operating expenses - Occupancy expenses",
+              "value": "-16 (current) vs -61 (previous)"
+            },
+            {
+              "key": "Operating expenses - Research and development expenses",
+              "value": "-643 (current) vs -181 (previous)"
+            },
+            {
+              "key": "Operating expenses - Royalty fees",
+              "value": "-692 (current) vs 0 (previous)"
+            },
+            {
+              "key": "Operating expenses - Sales and marketing expenses",
+              "value": "-531 (current) vs -284 (previous)"
+            },
+            {
+              "key": "Operating expenses - Share-based payments expenses",
+              "value": "-37 (current) vs -1,116 (previous)"
+            },
+            {
+              "key": "Operating loss before finance costs and tax",
+              "value": "-4,047 (current period) vs -1,241 (previous period); Additional adjustments: -3,738 vs -3,114"
+            },
+            {
+              "key": "Net loss",
+              "value": "-4,027 (current period) vs -1,959 (previous period); Additional adjustments: -3,739 vs -3,117"
+            },
+            {
+              "key": "Foreign currency translation",
+              "value": "627 vs 100"
+            },
+            {
+              "key": "Total comprehensive income/(loss)",
+              "value": "627 vs 100"
+            },
+            {
+              "key": "Loss for the year attributable to owners of Structural Monitoring Systems Plc",
+              "value": "(3,400) (current) vs (1,859) (previous); Further adjustment: (3,739)"
+            },
+            {
+              "key": "Earnings per share (Basic and Diluted) for loss from continuing operations",
+              "value": "-3.26 cents (current) vs -1.64 cents (previous)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 25,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Report Type",
+              "value": "Statement of cash flows"
+            },
+            {
+              "key": "Period End",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Operating Activities - Receipts from customers 2022",
+              "value": "15007"
+            },
+            {
+              "key": "Operating Activities - Receipts from customers 2021",
+              "value": "-16569"
+            },
+            {
+              "key": "Operating Activities - Alternate Receipts from customers 2022",
+              "value": "391"
+            },
+            {
+              "key": "Operating Activities - Alternate Receipts from customers 2021",
+              "value": "254"
+            },
+            {
+              "key": "Operating Activities - Payments to suppliers and employees 2022",
+              "value": "-19226"
+            },
+            {
+              "key": "Operating Activities - Payments to suppliers and employees 2021",
+              "value": "-14853"
+            },
+            {
+              "key": "Operating Activities - Alternate Payments to suppliers and employees 2022",
+              "value": "-2269"
+            },
+            {
+              "key": "Operating Activities - Alternate Payments to suppliers and employees 2021",
+              "value": "-880"
+            },
+            {
+              "key": "Operating Activities - Net cash from operating activities 2022",
+              "value": "-3960"
+            },
+            {
+              "key": "Operating Activities - Net cash from operating activities 2021",
+              "value": "1291"
+            },
+            {
+              "key": "Operating Activities - Alternate Net cash from operating activities 2022",
+              "value": "-1883"
+            },
+            {
+              "key": "Operating Activities - Alternate Net cash from operating activities 2021",
+              "value": "-629"
+            },
+            {
+              "key": "Investing Activities - Payments for development expenses 2022",
+              "value": "-584"
+            },
+            {
+              "key": "Investing Activities - Payments for development expenses 2021",
+              "value": "-877"
+            },
+            {
+              "key": "Investing Activities - Net cash used in investing activities 2022",
+              "value": "-6489"
+            },
+            {
+              "key": "Investing Activities - Net cash used in investing activities 2021",
+              "value": "-1164"
+            },
+            {
+              "key": "Financing Activities - Proceeds from issue of shares 2022",
+              "value": "4915"
+            },
+            {
+              "key": "Financing Activities - Proceeds from issue of shares 2021",
+              "value": "503"
+            },
+            {
+              "key": "Financing Activities - Alternate Proceeds from issue of shares 2022",
+              "value": "4916"
+            },
+            {
+              "key": "Financing Activities - Alternate Proceeds from issue of shares 2021",
+              "value": "503"
+            },
+            {
+              "key": "Financing Activities - Net cash from financing activities 2022",
+              "value": "9832"
+            },
+            {
+              "key": "Financing Activities - Net cash from financing activities 2021",
+              "value": "27"
+            },
+            {
+              "key": "Financing Activities - Alternate Net cash from financing activities 2022",
+              "value": "1883"
+            },
+            {
+              "key": "Financing Activities - Alternate Net cash from financing activities 2021",
+              "value": "629"
+            },
+            {
+              "key": "Cash Position - Cash and cash equivalents at end of year 2022",
+              "value": "1803"
+            },
+            {
+              "key": "Cash Position - Cash and cash equivalents at end of year 2021",
+              "value": "2381"
+            },
+            {
+              "key": "Cash Position - Cash and cash equivalents net of borrowings 2022",
+              "value": "-3658"
+            },
+            {
+              "key": "Cash Position - Cash and cash equivalents net of borrowings 2021",
+              "value": "2381"
+            },
+            {
+              "key": "Summary",
+              "value": "Operating activities shifted from a positive cash flow in 2021 to negative in 2022. Investment activities increased substantially in 2022 (-$6,489k vs -$1,164k in 2021). Financing activities showed strong growth in 2022 ($9,832k vs $27k in 2021), largely due to share issuance and borrowings. The final cash position deteriorated, with net cash and equivalents dropping from $2,381k in 2021 to -$3,658k in 2022 when accounting for borrowings."
+            },
+            {
+              "key": "Additional Note",
+              "value": "The accompanying notes form an integral part of the financial statements."
+            },
+            {
+              "key": "Company",
+              "value": "STRUCTURAL MONITORING SYSTEMS PLC - ANNUAL REPORT 2022"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 26,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "At 1 July 2020",
+              "value": "Total equity: 13401"
+            },
+            {
+              "key": "Loss for the year",
+              "value": "-1959"
+            },
+            {
+              "key": "Foreign currency translation",
+              "value": "100"
+            },
+            {
+              "key": "Total comprehensive loss for the year",
+              "value": "-1859"
+            },
+            {
+              "key": "At 30 June 2021",
+              "value": "Total equity: 14014"
+            },
+            {
+              "key": "At 1 July 2024",
+              "value": "Total equity: 14014"
+            },
+            {
+              "key": "Loss for the year",
+              "value": "-4027"
+            },
+            {
+              "key": "Foreign currency translation",
+              "value": "627"
+            },
+            {
+              "key": "Total comprehensive loss for the year",
+              "value": "-3400"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 28,
+          "title": "Notes to the Financial Statements and Corporate Information",
+          "data": [
+            {
+              "key": "Reporting Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Authorized Issue Date",
+              "value": "30 September 2022"
+            },
+            {
+              "key": "Company",
+              "value": "Structural Monitoring Systems Plc"
+            },
+            {
+              "key": "Net Loss After Tax",
+              "value": "$4.03m (2021: loss $1.96m)"
+            },
+            {
+              "key": "Operating Cash Flow",
+              "value": "Cash outflow of $4.62m (2021: cash inflow $1.70m) before tax"
+            },
+            {
+              "key": "Working Capital",
+              "value": "$6.94m including cash of $1.80m"
+            },
+            {
+              "key": "Loan Facility",
+              "value": "Up to CA$5 million available; CA$4.63m drawn; two repayments of CA$0.5m each within next 12 months"
+            },
+            {
+              "key": "Subsequent Capital Raise",
+              "value": "Share placement raising $1.93m before issue costs of $0.13m"
+            },
+            {
+              "key": "Presentation Currency",
+              "value": "Australian Dollars (AUD)"
+            },
+            {
+              "key": "Exchange Rates",
+              "value": "Average AUD:CAD rate 0.9184; Reporting spot rate 0.8885"
+            },
+            {
+              "key": "Subsidiary Information",
+              "value": "Anodyne Electronics Manufacturing Corp (presentational currency: CAD)"
+            },
+            {
+              "key": "Material Uncertainty",
+              "value": "There is material uncertainty over going concern if capital raising, debt structure amendments, or reductions in operating/employee costs are not achieved"
+            },
+            {
+              "key": "Forecast Assumptions",
+              "value": "Directors' forecasts include sensitivity analysis based on revenues and exchange rates over a 12-month period"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 31,
+          "title": "Notes to the Financial Statements",
+          "data": [
+            {
+              "key": "Assessment Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Discounting Method",
+              "value": "Estimated future cash flows are discounted to present value using a pre-tax discount rate that reflects current market assessments of the time value of money and asset-specific risks"
+            },
+            {
+              "key": "Financial Assets Recognition",
+              "value": "Financial assets and liabilities are recognized when the Group becomes party to the contractual provisions; cash and cash equivalents are defined as cash at bank, in hand, and short-term deposits (<3 months)"
+            },
+            {
+              "key": "Receivables Measurement",
+              "value": "Trade, Group and other receivables are recorded initially at fair value and subsequently measured at amortised cost"
+            },
+            {
+              "key": "Payables Measurement",
+              "value": "Trade, Group and other payables are initially measured at fair value (net of direct transaction costs) and then at amortised cost"
+            },
+            {
+              "key": "Derecognition Policy",
+              "value": "Derecognition of financial assets occurs when cash flow rights expire or are transferred; similar rules apply for financial liabilities with gains or losses recognized in profit or loss"
+            },
+            {
+              "key": "Impairment Policy",
+              "value": "Impairment losses are recognized for expected credit losses using probability-weighted outcomes and considering the time value of money; for trade receivables, an expected loss rate is applied"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Notes to the financial statements & Revenue Recognition Policies",
+          "data": [
+            {
+              "key": "Cost of equity-settled transactions",
+              "value": "Recognised together with a corresponding increase in equity over the period in which performance conditions are met, ending at the vesting date. The cumulative expense reflects the proportion of the vesting period expired, with fair value determined at grant date."
+            },
+            {
+              "key": "Revenue Recognition – Repair Services",
+              "value": "Revenue is recognised at a point in time when the repair service is completed and the repaired parts/components are delivered to the customer, meeting control transfer criteria such as payment rights, transfer of possession, risks and rewards, and customer acceptance."
+            },
+            {
+              "key": "Revenue Recognition – Product Sales",
+              "value": "Revenue is recognised at a point in time upon delivery of products (stock or customised parts) when control passes to the customer; pricing is fixed and determinable based on agreed pricing lists. No further performance obligations exist for these sales."
+            },
+            {
+              "key": "Shipping Revenue",
+              "value": "Revenue on shipping for stock parts, customized products, and customer products is recognised when the Group satisfies its performance obligations, typically upon shipment or as the service is provided."
+            },
+            {
+              "key": "Rendering of Services",
+              "value": "Revenue from contracts to provide services (e.g. prototyping) is recognised over time as services are rendered, or at shipment if a tangible item is delivered."
+            },
+            {
+              "key": "Inventories",
+              "value": "Raw materials, work in progress, and finished goods are valued at the lower of cost and net realisable value on a FIFO basis. Costs include direct materials, labour, delivery costs, import duties, taxes, and allocated overheads."
+            },
+            {
+              "key": "Document Source",
+              "value": "STRUCTURAL MONITORING SYSTEMS PLC - ANNUAL REPORT 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "Notes to the financial statements – 30 June 2022",
+          "data": [
+            {
+              "key": "VAT/GST Treatment",
+              "value": "Revenues, expenses, and assets are recognized net of VAT/GST, except when not recoverable, in which case it is included in cost or expense. Receivables and payables include VAT/GST amounts and cash flows are reported on a gross basis with VAT/GST components classified as operating cash flows."
+            },
+            {
+              "key": "Borrowings",
+              "value": "Loans and borrowings are initially recognized at the fair value of the consideration received, net of transaction costs, and subsequently measured at amortised cost using the effective interest method."
+            },
+            {
+              "key": "Lease Liabilities",
+              "value": "Lease liabilities are recognized at the commencement date at the present value of lease payments. They are measured at amortised cost using the effective interest method with remeasurement for changes in future lease payments, lease term, residual guarantee, purchase option certainty, and termination penalties."
+            },
+            {
+              "key": "Employee Entitlements",
+              "value": "Short-term employee benefits such as wages, salaries, annual leave, and long service leave are measured at the expected settlement amounts. Defined contribution superannuation expenses are expensed in the period incurred."
+            },
+            {
+              "key": "Investments in Subsidiary Undertakings",
+              "value": "Investments in subsidiary undertakings are accounted for at cost less any appropriate allowances for impairment."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Notes to the Financial Statements – Critical Accounting Estimates and Judgements",
+          "data": [
+            {
+              "key": "Share-based payment transaction",
+              "value": "The cost of equity-settled transactions with employees is measured by referencing the fair value of the equity instruments at the grant date. Fair value is determined using Black-Scholes or binomial pricing models (see note 22 Share-based payments)."
+            },
+            {
+              "key": "Impairment from acquisition (AEM)",
+              "value": "Discusses impairment of goodwill and intangible assets from the acquisition of Anodyne Electronics Manufacturing, involving annual reviews using discounted expected pre-tax cash flows and/or comparison of carrying value to net selling price."
+            },
+            {
+              "key": "Impairment of inter-company receivables",
+              "value": "An expected credit loss provision is calculated for intercompany loans under IFRS 9, based on forecast cash flows, probability-weighted outcomes, and management’s judgement regarding future repayment."
+            },
+            {
+              "key": "COVID-19 impact",
+              "value": "Management has exercised judgement regarding the impact of the Coronavirus (COVID-19) pandemic on operations, noting that there is no significant impact or uncertainty affecting the consolidated financial statements as at 30 June 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Notes to the Financial Statements and Segment Data",
+          "data": [
+            {
+              "key": "Report Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Business Segments",
+              "value": "Design and manufacture of avionics and audio systems; Structural health monitoring (CVM)"
+            },
+            {
+              "key": "Intellectual Property",
+              "value": "CVM™ IP held in another subsidiary"
+            },
+            {
+              "key": "Geographic Areas (Entity Operations)",
+              "value": "USA, Canada, Europe"
+            },
+            {
+              "key": "Group Operations",
+              "value": "USA, Canada, Australia"
+            },
+            {
+              "key": "Parent Company Registration",
+              "value": "UK"
+            },
+            {
+              "key": "Revenue (Sale of Goods - Audio)",
+              "value": "14829"
+            },
+            {
+              "key": "Revenue (Sale of Goods - CVM)",
+              "value": "65"
+            },
+            {
+              "key": "Revenue (Sale of Goods - Total)",
+              "value": "14894"
+            },
+            {
+              "key": "Revenue (Rendering of Services - Audio)",
+              "value": "807"
+            },
+            {
+              "key": "Sales Revenue by Customer Location (Africa)",
+              "value": "6"
+            },
+            {
+              "key": "Sales Revenue by Customer Location (Europe)",
+              "value": "1703"
+            },
+            {
+              "key": "Sales Revenue by Customer Location (Asia_Middle_East)",
+              "value": "125"
+            },
+            {
+              "key": "Sales Revenue by Customer Location (Americas)",
+              "value": "13867"
+            },
+            {
+              "key": "Sales Revenue by Customer Location (Total)",
+              "value": "15701"
+            },
+            {
+              "key": "Result - Loss for the Year (CVM_IP)",
+              "value": "-1814"
+            },
+            {
+              "key": "Result - Loss for the Year (Audio)",
+              "value": "572"
+            },
+            {
+              "key": "Result - Loss for the Year (CVM)",
+              "value": "-2785"
+            },
+            {
+              "key": "Result - Loss for the Year (Total)",
+              "value": "-4027"
+            },
+            {
+              "key": "Assets (Current)",
+              "value": "17397"
+            },
+            {
+              "key": "Assets (Non-current)",
+              "value": "17654"
+            },
+            {
+              "key": "Assets (Total)",
+              "value": "35051"
+            },
+            {
+              "key": "Liabilities (Current)",
+              "value": "10453"
+            },
+            {
+              "key": "Liabilities (Non-current)",
+              "value": "9038"
+            },
+            {
+              "key": "Liabilities (Total)",
+              "value": "19491"
+            },
+            {
+              "key": "Summary",
+              "value": "Total sales revenue of $15,701,000 primarily from the Americas; Net loss of $4,027,000; Total assets of $35,051,000 and total liabilities of $19,491,000; Significant EBITDA loss noted; Focus on the audio segment with considerable regional revenue concentration."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Notes to the financial statements 30 June 2022",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Financial Statement for Year ended 30 June 2021"
+            },
+            {
+              "key": "Revenue - Sale of goods",
+              "value": "CVM_IP: 7, audio: 14337, cvM: 7, Total: 14337"
+            },
+            {
+              "key": "Revenue - Total segment revenue",
+              "value": "CVM_IP: -20, audio: 15765, cvM: 56, Total: 15801"
+            },
+            {
+              "key": "Sales revenue by customer location",
+              "value": "Australasia: 32, Africa: 141, Europe: 1741, Asia/Middle_East: 722, Americas: 12834, Total: 15340"
+            },
+            {
+              "key": "Result",
+              "value": "EBITDA: -478, Loss_for_the_year: -1959"
+            },
+            {
+              "key": "Assets and liabilities",
+              "value": "Total_assets: 16862, Total_liabilities: 2848"
+            },
+            {
+              "key": "Summary",
+              "value": "Total segment revenue of $15,801,000; Americas represents the largest market with sales of $12,834,000; The company recorded a net loss of $1,959,000; Total assets stand at $16,862,000 with liabilities of $2,848,000; The audio segment is the main revenue generator while CVM IP and cvM segments showed losses"
+            },
+            {
+              "key": "Amortisation",
+              "value": "410"
+            },
+            {
+              "key": "EBITDA Note",
+              "value": "EBITDA is gross profit before income tax expense, depreciation, amortisation, finance income and finance costs"
+            },
+            {
+              "key": "Report Title",
+              "value": "STRUCTURAL MONITORING SYSTEMS PLC - ANNUAL REPORT 2022"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Notes to the financial statements 30 June 2022 - Revenue Details",
+          "data": [
+            {
+              "key": "Major Customers Sales Revenue",
+              "value": "Approximately $7.54m in 2022 (2021: $7.08m) from a single US aircraft and parts company."
+            },
+            {
+              "key": "Total Revenue",
+              "value": "Revenue of $15.70m in 2022 (2021: $15.34m) derived solely from customer sales."
+            },
+            {
+              "key": "Revenue Recognition",
+              "value": "In accordance with IFRS 15; goods and services transferred at a point in time."
+            },
+            {
+              "key": "Contract Assets and Liabilities",
+              "value": "None (Group does not fulfil performance obligations prior to invoicing)"
+            },
+            {
+              "key": "Trade Receivables",
+              "value": "Contractual balances exist in the form of trade receivables."
+            },
+            {
+              "key": "Capitalised Contract Costs / Performance Obligations",
+              "value": "None at 30 June 2022 (and nil at 30 June 2021)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Notes to the financial statements 30 June 2022 - Income and expenses",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Financial Statement Details 2021-2022"
+            },
+            {
+              "key": "Income - SRED Recovery",
+              "value": "2022_1: 471; 2021_1: 608; 2022_2: -; 2021_2: (empty)"
+            },
+            {
+              "key": "Income - Management fees",
+              "value": "2022_1: (empty); 2021_1: -; 2022_2: 323; 2021_2: 281"
+            },
+            {
+              "key": "Income - Sub-lease income",
+              "value": "2022_1: 2; 2021_1: 56; 2022_2: 2; 2021_2: 56"
+            },
+            {
+              "key": "Income Subtotal",
+              "value": "2022_1: 473; 2021_1: 664; 2022_2: 325; 2021_2: 337"
+            },
+            {
+              "key": "Finance Income/(costs) - Foreign exchange gains/(losses)",
+              "value": "2022_1: 137; 2021_1: (204); 2022_2: 4; 2021_2: (empty)"
+            },
+            {
+              "key": "Finance Income/(costs) - Bank interest",
+              "value": "2022_1: (empty); 2021_1: 1; 2022_2: -; 2021_2: (empty)"
+            },
+            {
+              "key": "Finance Income/(costs) - Interest and finance charges payable on borrowings",
+              "value": "2022_1: (251); 2021_1: (7); 2022_2: (5); 2021_2: (3)"
+            },
+            {
+              "key": "Finance Income/(costs) - Interest on overdue payables",
+              "value": "2022_1: (46); 2021_1: (empty); 2022_2: -; 2021_2: (empty)"
+            },
+            {
+              "key": "Finance Income/(costs) - Interest and finance charges payable on lease liabilities",
+              "value": "2022_1: (103); 2021_1: (12); 2022_2: -; 2021_2: (empty)"
+            },
+            {
+              "key": "Finance Income/(costs) Subtotal",
+              "value": "2022_1: (263); 2021_1: (222); 2022_2: (1); 2021_2: (3)"
+            },
+            {
+              "key": "Expenses - Employee remuneration",
+              "value": "2022_1: 6,863; 2021_1: 5,212; 2022_2: 1,249; 2021_2: 1,070"
+            },
+            {
+              "key": "Expenses - Depreciation and amortisation",
+              "value": "2022_1: 1,638; 2021_1: 967; 2022_2: -; 2021_2: (empty)"
+            },
+            {
+              "key": "Expenses - Other expenses",
+              "value": "2022_1: 11,720; 2021_1: 10,442; 2022_2: 2,838; 2021_2: 2,327"
+            },
+            {
+              "key": "Additional Note",
+              "value": "Impairment charges relate to loans to subsidiary undertakings which are written down to the net asset values of those entities excluding the loans at the reporting date."
+            },
+            {
+              "key": "Summary Observation",
+              "value": "Employee remuneration increased significantly from 2021 to 2022; finance costs showed higher losses in 2022; overall expenses increased across most categories in 2022 compared to 2021."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Income Tax Benefit/(Expense) Components and Reconciliation",
+          "data": [
+            {
+              "key": "Current tax benefit/(expense)",
+              "value": "2022: -64; 2021: 361"
+            },
+            {
+              "key": "Deferred tax benefit/(expense)",
+              "value": "2022: -219; 2021: 135"
+            },
+            {
+              "key": "Loss before tax",
+              "value": "2022: -4310; 2021: -1463"
+            },
+            {
+              "key": "Statutory income tax rate (27.00%)",
+              "value": "2022: -1164; 2021: -395"
+            },
+            {
+              "key": "Expenses/(income) not assessable",
+              "value": "2022: 610; 2021: 509"
+            },
+            {
+              "key": "Deferred tax assets/liabilities",
+              "value": "Plant and equipment: 1423; Development costs: 333; Lease liabilities: -2397; Tax losses: 13450; Assets not recognised: -13806; Net recognised: 338"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Movement in Deferred Tax Liabilities 2022",
+          "data": [
+            {
+              "key": "Recognised deferred tax liabilities",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Brought forward",
+              "value": "445"
+            },
+            {
+              "key": "Charge/(credit) to Statement of comprehensive income",
+              "value": "(220)"
+            },
+            {
+              "key": "Effect of fx on balances",
+              "value": "1"
+            },
+            {
+              "key": "Carried forward",
+              "value": "1,231"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Recognised deferred tax liabilities movement 2021",
+          "data": [
+            {
+              "key": "Movement in deferred tax liabilities during the year:",
+              "value": ""
+            },
+            {
+              "key": "Brought forward",
+              "value": "553"
+            },
+            {
+              "key": "Charge/(credit) to Statement of comprehensive income",
+              "value": "135"
+            },
+            {
+              "key": "Effect of fx on balances",
+              "value": "7"
+            },
+            {
+              "key": "Carried forward",
+              "value": "445"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Notes to Financial Statements & Key Financial Performance Metrics",
+          "data": [
+            {
+              "key": "Earnings per Share Computation",
+              "value": "Basic earnings per share calculated by dividing net loss attributable to ordinary equity holders by weighted average number of ordinary shares outstanding. Diluted EPS excludes anti-dilutive instruments."
+            },
+            {
+              "key": "Net Loss Attributable to Equity Holders from Continuing Operations",
+              "value": "2022: -4027 (thousands USD), 2021: -1959 (thousands USD)"
+            },
+            {
+              "key": "Weighted Average Number of Ordinary Shares (Basic & Diluted)",
+              "value": "2022: 123,703,164, 2021: 119,578,443"
+            },
+            {
+              "key": "Summary of EPS Tables",
+              "value": "The identical figures for basic and diluted shares indicate that potential dilutive securities were excluded as they are anti-dilutive in a loss-making period."
+            },
+            {
+              "key": "Trade Receivables Comparison",
+              "value": "Consolidated 2022: 3,042 (thousands USD); Parent 2022: 2,347 (thousands USD), Parent 2021: 86 (thousands USD). Significant increase in parent company trade receivables noted."
+            },
+            {
+              "key": "Receivables & Prepayments Comparison",
+              "value": "Includes items such as Prepayments, Bank Guarantee, Other Receivable, GST Receivable and Deposits. Notable increase in GST receivable (47 to 206 thousands USD) while deposits remained stable. Data reported in two separate column sets possibly representing different segments."
+            },
+            {
+              "key": "Additional Note",
+              "value": "Bank guarantee was held as security for a premises lease."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Consolidated Intangible Assets and Goodwill Statement",
+          "data": [
+            {
+              "key": "Balance at 1 July 2021 - Total",
+              "value": "3718"
+            },
+            {
+              "key": "Acquired during the year - Total",
+              "value": "3525"
+            },
+            {
+              "key": "Development expenses capitalised - Total",
+              "value": "565"
+            },
+            {
+              "key": "Amortisation expense - Total",
+              "value": "-737"
+            },
+            {
+              "key": "Allocation of R&D tax offset - Total",
+              "value": "-287"
+            },
+            {
+              "key": "Effect of FX on balances - Total",
+              "value": "365"
+            },
+            {
+              "key": "Balance at 30 June 2022 - Total",
+              "value": "7149"
+            },
+            {
+              "key": "Summary",
+              "value": "This table shows the movement of intangible assets and goodwill from July 2021 to June 2022. The total value increased from $3,718,000 to $7,149,000, primarily due to the acquisition of Eagle Audio IP ($3,203,000) and related customer relationships ($256,000). Notable items include development expenses capitalized ($565,000), amortisation expenses (-$737,000), and R&D tax offset allocation (-$287,000). Foreign exchange effects contributed positively with $365,000. The technology segment saw significant growth, while certifications and licence agreement values decreased due to amortisation."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Consolidated Intangible Assets Movement",
+          "data": [
+            {
+              "key": "Balance at 30 June 2020 - Total",
+              "value": "3201"
+            },
+            {
+              "key": "Capitalised Development expenses - Total",
+              "value": "901"
+            },
+            {
+              "key": "Amortisation expense - Total",
+              "value": "-397"
+            },
+            {
+              "key": "Effect of FX on balances - Total",
+              "value": "13"
+            },
+            {
+              "key": "Balance at 30 June 2021 - Total",
+              "value": "3718"
+            },
+            {
+              "key": "Summary",
+              "value": "This table shows the consolidated movement of intangible assets from June 2020 to June 2021. The total value increased from $3,201,000 to $3,718,000, primarily driven by technology development costs of $901,000. Notable items include amortisation expenses of $397,000 and minor foreign exchange effects. Goodwill remained relatively stable, while certifications and agreement values decreased due to amortisation."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Explanatory Notes on Intangible Assets",
+          "data": [
+            {
+              "key": "Intangible assets",
+              "value": "Certifications: AEM possesses distinct aircraft manufacturing and maintenance certifications required for the sale and maintenance of its products in key markets."
+            },
+            {
+              "key": "Licence agreement",
+              "value": "AEM has a licence agreement with one of its key customers to produce and sell certain aircraft instruments, with identifiable cash flows from future sales to aircraft manufacturing and maintenance providers."
+            },
+            {
+              "key": "Technology",
+              "value": "AEM has developed proprietary aircraft parts and manufacturing technology expected to yield future sales. This intellectual property is separable and identifiable, potentially licensable or acquirable, with future benefits from the sale of resulting products."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 50,
+          "title": "STRUCTURAL MONITORING SYSTEMS PLC - ANNUAL REPORT 2022",
+          "data": [
+            {
+              "key": "Note Title",
+              "value": "Notes to the Financial Statements - Non-current assets/(liabilities) - Loans"
+            },
+            {
+              "key": "Period",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Company Financial Summary",
+              "value": "For the year ended 30 June 2022, the cost increased from 21,948 to 25,282 with an addition of 3,334. The impairment charge increased from 387 in 2021 to 1,814 in 2022, resulting in a net carrying amount of 11,464."
+            },
+            {
+              "key": "Financial Statement Details",
+              "value": "FY2022 shows receipts of 298 leading to a net carrying amount of 298, while FY2021 had an opening balance of 921, receipts of 278 and assignments of -1,199. The net carrying amount at 30 June 2021 is reported as 9,944, indicating a significant reduction."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Notes to the Financial Statements - Loans and Impairment Note",
+          "data": [
+            {
+              "key": "Loan Classification",
+              "value": "Loans to/from subsidiaries are unsecured, have no fixed date for repayment and attract no interest charge. As the parent does not intend to call in the loans within the next 12 months, they are classified as non-current assets."
+            },
+            {
+              "key": "Impairment Reference",
+              "value": "See Note 24 for further details on impairment of intercompany receivables."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Company Ownership and Registration Details",
+          "data": [
+            {
+              "key": "Summary",
+              "value": "The table presents ownership information for three companies: Structural Monitoring Systems Limited (Australia), Structural Monitoring Systems Canada Corp (SMSCC) (Canada), and Anodyne Electronics Manufacturing Corp (AEM) (Canada). All are fully owned (100%) with ordinary shares and no change in ownership between current and previous periods."
+            },
+            {
+              "key": "Structural Monitoring Systems Limited",
+              "value": "Country: Australia; Share Type: Ordinary share; Ownership: 100% (current and previous); Address: Suite 116, 1 Kyle Way, Claremont WA 6010, Australia."
+            },
+            {
+              "key": "Structural Monitoring Systems Canada Corp (SMSCC)",
+              "value": "Country: Canada; Share Type: Ordinary share; Ownership: 100% (current and previous); Address: 100-966 Crowley Kelowna BC Canada."
+            },
+            {
+              "key": "Anodyne Electronics Manufacturing Corp (AEM)",
+              "value": "Country: Canada; Share Type: Ordinary share; Ownership: 100% (current and previous); Address: Unit 100-966 Crowley Avenue, Kelowna BC Canada."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Trade and Other Payables Comparison",
+          "data": [
+            {
+              "key": "Trade Payables (Consolidated)",
+              "value": "2022: 2108; 2021: 897"
+            },
+            {
+              "key": "Trade Payables (Parent)",
+              "value": "2022: 306; 2021: N/A"
+            },
+            {
+              "key": "Other Payables (Consolidated)",
+              "value": "2022: 1569; 2021: 940"
+            },
+            {
+              "key": "Other Payables (Parent)",
+              "value": "2022: 147; 2021: N/A"
+            },
+            {
+              "key": "Taxes Payable - HST, Payroll Tax (Consolidated)",
+              "value": "2022: 33; 2021: 8"
+            },
+            {
+              "key": "Taxes Payable - HST, Payroll Tax (Parent)",
+              "value": "2022: 0; 2021: N/A"
+            },
+            {
+              "key": "Total Payables (Consolidated)",
+              "value": "2022: 3710; 2021: 1845"
+            },
+            {
+              "key": "Total Payables (Parent)",
+              "value": "2022: 453; 2021: N/A"
+            },
+            {
+              "key": "Payment Terms",
+              "value": "Trade payables are non-interest bearing and normally settled within 30 days; Other payables are non-interest bearing with an average term of 56 days (2021: 66 days)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Cash Flow Statement Adjustments",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "Reconciliation of the net loss before tax to the net cash provided by/(used in) operating activities before tax paid. The adjustments include various non-cash items and changes in working capital."
+            },
+            {
+              "key": "Loss before tax for the year",
+              "value": "-4310 (col1), -1463 (col2), -3738 (col3), -3117 (col4)"
+            },
+            {
+              "key": "Loss on debt for equity swap",
+              "value": "0 (col1), 52 (col2), 0 (col3), 52 (col4)"
+            },
+            {
+              "key": "Share based payments",
+              "value": "37 (col1), 1116 (col2), 37 (col3), 1116 (col4)"
+            },
+            {
+              "key": "Expenses settled through equity instruments",
+              "value": "69 (col1), 0 (col2), 69 (col3), 776 (col4)"
+            },
+            {
+              "key": "Depreciation and amortisation",
+              "value": "1638 (col1), 967 (col2), 2 (col3), 2 (col4)"
+            },
+            {
+              "key": "Inventories obsolescence",
+              "value": "65 (col1); other columns not provided"
+            },
+            {
+              "key": "SRED recovery",
+              "value": "-470 (col1); other columns not provided"
+            },
+            {
+              "key": "Impairment of investments in subsidiaries",
+              "value": "Noted in col2 as 0, col3: 1814, col4: 387"
+            },
+            {
+              "key": "Trade receivables",
+              "value": "-696 (col1), 640 (col2), 0 (col3), -88 (col4)"
+            },
+            {
+              "key": "Prepayments and other receivables",
+              "value": "187 (col1), -120 (col2), -50 (col3), 5 (col4)"
+            },
+            {
+              "key": "Inventory",
+              "value": "-3010 (col1), 33 (col2), -37 (col3), 49 (col4)"
+            },
+            {
+              "key": "Trade and other payables",
+              "value": "1865 (col1), 347 (col2), 20 (col3), 189 (col4)"
+            },
+            {
+              "key": "Provisions",
+              "value": "6 (col1), 126 (col2), 0 (col3), 0 (col4)"
+            },
+            {
+              "key": "Net cash provided/(used) in operating activities",
+              "value": "(-4619, 1698, -1883, 20)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Cash and Credit Card Position Statement",
+          "data": [
+            {
+              "key": "Cash at bank",
+              "value": "2022: 1,802; 2021: 2,428"
+            },
+            {
+              "key": "Cash on hand",
+              "value": "2022: 1; 2021: 1"
+            },
+            {
+              "key": "Credit card",
+              "value": "2021: (48)"
+            },
+            {
+              "key": "Credit card total",
+              "value": "2022: 1,803; 2021: 2,381"
+            },
+            {
+              "key": "Summary",
+              "value": "The total cash and credit card balance decreased from 2021 to 2022, with main components being cash at bank and credit card positions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Notes to the Financial Statements – Exposure to Credit and Cash Flow Risk",
+          "data": [
+            {
+              "key": "Exposure Description",
+              "value": "The carrying amount of the Group’s financial assets and liabilities represents the maximum credit exposure. Maximum exposure for trade receivables and cash & cash equivalents is detailed by category and region."
+            },
+            {
+              "key": "Table Title 1",
+              "value": "Carrying Amount Comparison 2021-2022"
+            },
+            {
+              "key": "Cash and cash equivalents 2021",
+              "value": "2381"
+            },
+            {
+              "key": "Cash and cash equivalents 2022",
+              "value": "1803"
+            },
+            {
+              "key": "Trade receivables 2021",
+              "value": "2347"
+            },
+            {
+              "key": "Trade receivables 2022",
+              "value": "3042"
+            },
+            {
+              "key": "Loans to subsidiaries 2021 (amount set 1)",
+              "value": "4728"
+            },
+            {
+              "key": "Loans to subsidiaries 2022 (amount set 1)",
+              "value": "4845"
+            },
+            {
+              "key": "Loans to subsidiaries 2021 (amount set 2)",
+              "value": "10030"
+            },
+            {
+              "key": "Loans to subsidiaries 2022 (amount set 2)",
+              "value": "11469"
+            },
+            {
+              "key": "Table Summary 1",
+              "value": "Comparative data shows a decrease in cash, an increase in trade receivables, and growth in loans to subsidiaries across two perspectives."
+            },
+            {
+              "key": "Table Title 2",
+              "value": "Regional Carrying Amounts Comparison 2021-2022"
+            },
+            {
+              "key": "Region: Americas consolidated 2021",
+              "value": "4226"
+            },
+            {
+              "key": "Region: Americas consolidated 2022",
+              "value": "3929"
+            },
+            {
+              "key": "Region: Americas carrying 2021",
+              "value": "10031"
+            },
+            {
+              "key": "Region: Americas carrying 2022",
+              "value": "11469"
+            },
+            {
+              "key": "Region: Australasia consolidated 2021",
+              "value": "501"
+            },
+            {
+              "key": "Region: Australasia consolidated 2022",
+              "value": "916"
+            },
+            {
+              "key": "Region: Europe consolidated 2021",
+              "value": "1"
+            },
+            {
+              "key": "Region: Europe consolidated 2022",
+              "value": "null"
+            },
+            {
+              "key": "Overall Total consolidated 2021",
+              "value": "4728"
+            },
+            {
+              "key": "Overall Total consolidated 2022",
+              "value": "4845"
+            },
+            {
+              "key": "Overall Total carrying 2021",
+              "value": "10031"
+            },
+            {
+              "key": "Overall Total carrying 2022",
+              "value": "11469"
+            },
+            {
+              "key": "Trade Receivables Debtors' Days",
+              "value": "59 days in 2022 compared to 56 days in 2021"
+            },
+            {
+              "key": "Trade Receivables Impairment Losses",
+              "value": "None recorded at 30 June 2022 (2021: nil)"
+            },
+            {
+              "key": "Table Title 3",
+              "value": "Impairment of Company Receivables from Subsidiaries"
+            },
+            {
+              "key": "Gross Value - Category 1",
+              "value": "14055"
+            },
+            {
+              "key": "Impairment - Category 1",
+              "value": "(13818)"
+            },
+            {
+              "key": "Carrying Value at 30 June 2022 - Category 1",
+              "value": "237"
+            },
+            {
+              "key": "Gross Value - Category 2",
+              "value": "141227"
+            },
+            {
+              "key": "Impairment - Category 2",
+              "value": "0"
+            },
+            {
+              "key": "Carrying Value at 30 June 2022 - Category 2",
+              "value": "411227"
+            },
+            {
+              "key": "Gross Value - Category 3",
+              "value": "25282"
+            },
+            {
+              "key": "Impairment - Category 3",
+              "value": "(13818)"
+            },
+            {
+              "key": "Carrying Value at 30 June 2022 - Category 3",
+              "value": "11464"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Financial Liabilities Analysis",
+          "data": [
+            {
+              "key": "period",
+              "value": "Consolidated - 30 June 2022"
+            },
+            {
+              "key": "category",
+              "value": "Trade and other payables"
+            },
+            {
+              "key": "carrying_amount",
+              "value": "-3677"
+            },
+            {
+              "key": "contractual_cash_flows",
+              "value": "-3677"
+            },
+            {
+              "key": "one_year_or_less",
+              "value": "-3677"
+            },
+            {
+              "key": "more_than_one_year",
+              "value": "0"
+            },
+            {
+              "key": "period",
+              "value": "Consolidated - 30 June 2022"
+            },
+            {
+              "key": "category",
+              "value": "Borrowings"
+            },
+            {
+              "key": "carrying_amount",
+              "value": "-5461"
+            },
+            {
+              "key": "contractual_cash_flows",
+              "value": "-5461"
+            },
+            {
+              "key": "one_year_or_less",
+              "value": "-5461"
+            },
+            {
+              "key": "more_than_one_year",
+              "value": "0"
+            },
+            {
+              "key": "period",
+              "value": "Consolidated - 30 June 2022"
+            },
+            {
+              "key": "category",
+              "value": "Lease liabilities"
+            },
+            {
+              "key": "carrying_amount",
+              "value": "-9850"
+            },
+            {
+              "key": "contractual_cash_flows",
+              "value": "-9850"
+            },
+            {
+              "key": "one_year_or_less",
+              "value": "-1150"
+            },
+            {
+              "key": "more_than_one_year",
+              "value": "-8700"
+            },
+            {
+              "key": "period",
+              "value": "Consolidated - 30 June 2022"
+            },
+            {
+              "key": "category",
+              "value": "Total"
+            },
+            {
+              "key": "carrying_amount",
+              "value": "-18988"
+            },
+            {
+              "key": "contractual_cash_flows",
+              "value": "-18988"
+            },
+            {
+              "key": "one_year_or_less",
+              "value": "-10288"
+            },
+            {
+              "key": "more_than_one_year",
+              "value": "-8700"
+            },
+            {
+              "key": "period",
+              "value": "Consolidated - 30 June 2021"
+            },
+            {
+              "key": "category",
+              "value": "Trade and other payables"
+            },
+            {
+              "key": "carrying_amount",
+              "value": "-1845"
+            },
+            {
+              "key": "contractual_cash_flows",
+              "value": "-1845"
+            },
+            {
+              "key": "one_year_or_less",
+              "value": "-1845"
+            },
+            {
+              "key": "more_than_one_year",
+              "value": "0"
+            },
+            {
+              "key": "period",
+              "value": "Consolidated - 30 June 2021"
+            },
+            {
+              "key": "category",
+              "value": "Borrowings"
+            },
+            {
+              "key": "carrying_amount",
+              "value": "-2521"
+            },
+            {
+              "key": "contractual_cash_flows",
+              "value": "-2521"
+            },
+            {
+              "key": "one_year_or_less",
+              "value": "-2381"
+            },
+            {
+              "key": "more_than_one_year",
+              "value": "-140"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 65,
+          "title": "Notes to the financial statements",
+          "data": [
+            {
+              "key": "Net assets in foreign currencies",
+              "value": "$15.77m (2021: $3.21m)"
+            },
+            {
+              "key": "Impact of AUD fluctuation",
+              "value": "Loss before tax would be $1.58m lower/$0.79m higher"
+            },
+            {
+              "key": "Exchange rate summary",
+              "value": "AUD:CAD decreased from 0.96 to 0.89; AUD:USD declined from 0.75 to 0.69"
+            },
+            {
+              "key": "Capital risk management overview",
+              "value": "Secured overdraft facility available with a credit limit of CA$5 million used to finance acquisition of Eagle Audio (CA$4.28m) and general working capital."
+            },
+            {
+              "key": "Equity ownership summary",
+              "value": "All subsidiaries fully owned (100% equity) as of 2022."
+            },
+            {
+              "key": "Ultimate parent entity",
+              "value": "Structural Monitoring Systems Plc, incorporated in the UK."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 68,
+          "title": "Independent auditor's report to the members of Structural Monitoring Systems Plc",
+          "data": [
+            {
+              "key": "content_type",
+              "value": "audit_report"
+            },
+            {
+              "key": "sections",
+              "value": "Opinion, Basis for opinion, Material uncertainty related to going concern"
+            },
+            {
+              "key": "auditor",
+              "value": "Jeffreys Henry LLP"
+            },
+            {
+              "key": "period",
+              "value": "Year ended 30 June 2022"
+            },
+            {
+              "key": "document_type",
+              "value": "Independent Auditor's Report"
+            },
+            {
+              "key": "contact_address",
+              "value": "5-7 Cranwood Street, London EC1V 9EE"
+            },
+            {
+              "key": "contact_phone",
+              "value": "020 7309 2222"
+            },
+            {
+              "key": "contact_email",
+              "value": "london@jeffreyshenry.com"
+            },
+            {
+              "key": "contact_website",
+              "value": "www.jeffreyshenry.com"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 71,
+          "title": "Independent auditor’s report to the members of Structural Monitoring Systems Plc",
+          "data": [
+            {
+              "key": "Criteria for Determining Materiality",
+              "value": "3% of turnover (Group financial statements); 3% of gross assets (Company financial statements)"
+            },
+            {
+              "key": "Rationale for Benchmark Applied",
+              "value": "Revenue is a primary measure for Group performance; gross assets is appropriate for Company performance."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 72,
+          "title": "Independent auditor’s report to the members of Structural Monitoring Systems Plc",
+          "data": [
+            {
+              "key": "Materiality allocated across components",
+              "value": "Between AUS90,000 and AUS485,000"
+            },
+            {
+              "key": "Misstatement reporting threshold",
+              "value": "Above AUS24,000 (and some below that for qualitative reasons)"
+            },
+            {
+              "key": "Audit scope overview",
+              "value": "Assessment of material misstatement risks in the financial statements including subjective judgments and management override of controls"
+            },
+            {
+              "key": "Group structure",
+              "value": "Consolidation of 3 reporting units comprising operating businesses and holding companies"
+            },
+            {
+              "key": "Other information responsibility",
+              "value": "Directors are responsible; auditor read and compared with financial statements"
+            },
+            {
+              "key": "Opinions on strategic and directors’ reports",
+              "value": "Determined to be consistent with financial statements and prepared in accordance with legal requirements"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 73,
+          "title": "Independent Auditor’s Report to the Members of Structural Monitoring Systems Plc",
+          "data": [
+            {
+              "key": "Report Type",
+              "value": "Independent Auditor’s Report"
+            },
+            {
+              "key": "Company",
+              "value": "Structural Monitoring Systems Plc"
+            },
+            {
+              "key": "Document Year",
+              "value": "2022"
+            },
+            {
+              "key": "Legal Reference",
+              "value": "Companies Act 2006"
+            },
+            {
+              "key": "Audit Conclusion",
+              "value": "No material misstatements identified in the strategic report or the directors’ report"
+            },
+            {
+              "key": "Directors’ Responsibilities",
+              "value": "Preparation of financial statements, ensuring a true and fair view, assessing going concern status, and maintaining adequate internal control"
+            },
+            {
+              "key": "Auditor’s Responsibilities",
+              "value": "Obtaining reasonable assurance on the financial statements, designing procedures to detect material misstatements including fraud and non-compliance with laws and regulations"
+            },
+            {
+              "key": "Risk & Compliance Focus",
+              "value": "Evaluation of potential irregularities including fraud and non-compliance, with reference to applicable laws and regulations"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 75,
+          "title": "Independent auditor’s report to the members of Structural Monitoring Systems Plc",
+          "data": [
+            {
+              "key": "Independence Statement",
+              "value": "The non-audit services prohibited by the FRC’s Ethical Standard were not provided to the group or the parent company, ensuring audit independence."
+            },
+            {
+              "key": "Audit Opinion Consistency",
+              "value": "Our audit opinion is consistent with the additional report to the audit committee."
+            },
+            {
+              "key": "Intended Audience",
+              "value": "This report is made solely to the company’s members as a body in accordance with Chapter 3 of Part 16 of the Companies Act 2006."
+            },
+            {
+              "key": "Usage Limitation",
+              "value": "The report is intended solely for the company and its members; no responsibility is assumed to anyone else."
+            },
+            {
+              "key": "Auditor Signature",
+              "value": "Sanjay Parmar, Senior Statutory Auditor"
+            },
+            {
+              "key": "Audit Firm",
+              "value": "Jeffreys Henry Audit Limited (Statutory Auditors)"
+            },
+            {
+              "key": "Firm Address",
+              "value": "Finsgate 5-7 Cranwood Street, London, EC1V 9EE"
+            },
+            {
+              "key": "Report Date",
+              "value": "2 October 2022"
+            },
+            {
+              "key": "Document Title",
+              "value": "STRUCTURAL MONITORING SYSTEMS PLC - ANNUAL REPORT 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 78,
+          "title": "Информация из изображения",
+          "data": [
+            {
+              "key": "Содержимое",
+              "value": "Изображение не содержит извлекаемых текстовых данных"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 23,
+          "title": "Statement of financial position / Balance Sheet Comparison",
+          "data": [
+            {
+              "key": "Reporting Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Balance Sheet Title",
+              "value": "Balance Sheet Comparison - Consolidated and Parent"
+            },
+            {
+              "key": "Non-current Assets (Consolidated Total)",
+              "value": "17,654"
+            },
+            {
+              "key": "Current Assets (Consolidated Total)",
+              "value": "17,397"
+            },
+            {
+              "key": "Liabilities (Consolidated Total)",
+              "value": "19,491"
+            },
+            {
+              "key": "Net Assets (Consolidated)",
+              "value": "15,560"
+            },
+            {
+              "key": "Issued Capital",
+              "value": "31,954"
+            },
+            {
+              "key": "Share Premium Reserve",
+              "value": "41,327"
+            },
+            {
+              "key": "Accumulated Losses",
+              "value": "-57,221"
+            },
+            {
+              "key": "Other Reserves",
+              "value": "-500"
+            },
+            {
+              "key": "Total Equity",
+              "value": "15,560 (Consolidated), 10,964 (Parent)"
+            },
+            {
+              "key": "Key Observations",
+              "value": "Consolidated total assets, liabilities and equity figures show notable changes from 2021 to 2022, with a significant increase in Right-of-use assets and overall liabilities, and moderate growth in net assets."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 27,
+          "title": "Statement of Changes in Equity For the year ended 30 June 2022",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Statement of Changes in Equity"
+            },
+            {
+              "key": "Reporting Period",
+              "value": "For the year ended 30 June 2022"
+            },
+            {
+              "key": "At 1 July 2020",
+              "value": "Total equity: 10,402 (calculated from summary)"
+            },
+            {
+              "key": "Loss for the year (first period)",
+              "value": "-3,117"
+            },
+            {
+              "key": "Total comprehensive loss for the year",
+              "value": "-3,117"
+            },
+            {
+              "key": "Issue of performance rights to directors and staff/consultants",
+              "value": "1,467"
+            },
+            {
+              "key": "Issue of shares to directors and staff/consultants",
+              "value": "1,023"
+            },
+            {
+              "key": "At 30 June 2021",
+              "value": "Total equity: 9,757 (from table data)"
+            },
+            {
+              "key": "Loss for the year (second period)",
+              "value": "-3,739"
+            },
+            {
+              "key": "Total transactions with owners",
+              "value": "4,946"
+            },
+            {
+              "key": "At 30 June 2022",
+              "value": "31,954 ; Other detailed figures: (60,795), 41,327, 749, (2,271)"
+            },
+            {
+              "key": "Additional Notes",
+              "value": "The accompanying notes form an integral part of the financial statements. The document also indicates continued share issuances and adjustments to equity figures with increasing accumulated losses."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 52,
+          "title": "Notes to the Financial Statements – Current Liabilities, Lease Liabilities and Provisions",
+          "data": [
+            {
+              "key": "Borrowings - Credit card (Consolidated 2022)",
+              "value": "102"
+            },
+            {
+              "key": "Borrowings - Overdraft - secured (Consolidated 2022)",
+              "value": "5,359"
+            },
+            {
+              "key": "Borrowings - Overdraft - secured (Total) (Consolidated 2022)",
+              "value": "5,461"
+            },
+            {
+              "key": "Secured Overdraft Facility Limit",
+              "value": "CA$5 million"
+            },
+            {
+              "key": "Credit Facility Drawn Amount",
+              "value": "CA$4.63m"
+            },
+            {
+              "key": "Variable Interest Rate on Facility",
+              "value": "6.45%"
+            },
+            {
+              "key": "Upcoming Facility Reductions",
+              "value": "2 reductions of CA$0.5m each within next 12 months"
+            },
+            {
+              "key": "Lease Liabilities - Closing Balance",
+              "value": "9850"
+            },
+            {
+              "key": "Lease Liabilities - Current Portion",
+              "value": "1150"
+            },
+            {
+              "key": "Lease Liabilities - Non-current Portion",
+              "value": "8700"
+            },
+            {
+              "key": "Provision for Warranties (Consolidated 2022)",
+              "value": "132"
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 57,
+          "title": "Chess depositary interests",
+          "data": [
+            {
+              "key": "Share count change",
+              "value": "Increased from 121,479,031 in 2021 to 128,233,149 in 2022"
+            },
+            {
+              "key": "Issued and fully paid amount",
+              "value": "31,949 ($000) in 2021 and 31,954 ($000) in 2022"
+            },
+            {
+              "key": "Summary",
+              "value": "Details show Chess depositary interests figures for 2021 and 2022 with identical monetary amounts indicating consolidated and parent company data"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 57,
+          "title": "Share Issuance History",
+          "data": [
+            {
+              "key": "Period covered",
+              "value": "30 June 2020 to 30 June 2022"
+            },
+            {
+              "key": "Total shares at 30 June 2020",
+              "value": "118,382,619"
+            },
+            {
+              "key": "Total shares at 30 June 2021",
+              "value": "121,479,031"
+            },
+            {
+              "key": "Total shares at 30 June 2022",
+              "value": "128,233,149"
+            },
+            {
+              "key": "Major issuance event",
+              "value": "5,461,541 shares issued on 6 April 2022 for cash"
+            },
+            {
+              "key": "Monetary value trend",
+              "value": "Increased slightly from 31,946 to 31,954 ($000)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 58,
+          "title": "Notes to the financial statements 30 June 2022",
+          "data": [
+            {
+              "key": "Share Premium Reserve",
+              "value": "Reserve increased from 36,492 in 2021 to 41,327 in 2022 (approx. 13.2% growth); duplicate columns suggest reporting of both consolidated and non-consolidated figures."
+            },
+            {
+              "key": "Movement in ordinary shares in issue",
+              "value": "Total shares increased from 118,382,619 at 1 July 2020 to 128,233,149 at 30 June 2022. Notable items include issuance on 6 April 2022 (5,461,544 shares for cash adding 4,911 value) and share issue costs recorded (-18 in 2021 and -76 in 2022). Multiple conversions of PRs occurred without impacting the monetary value."
+            },
+            {
+              "key": "Other Reserves",
+              "value": "Comprises two components: Foreign currency translation reserve declining from -1,249 to -2,271 and Share-based payment reserve fluctuating between 643 and 749; all values presented in thousands."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 76,
+          "title": "Shareholder Information - Corporate Governance Disclosure",
+          "data": [
+            {
+              "key": "Corporate Governance Policy",
+              "value": "The Company has established and continually refines procedures to ensure a culture of good corporate governance. It complies with ASX Listing Rules and other regulatory requirements, and detailed information is available on the Company's website (www.smsystems.com.au)."
+            },
+            {
+              "key": "Reporting Date",
+              "value": "28 September 2022"
+            },
+            {
+              "key": "CDI Securities Distribution",
+              "value": "Share distribution table: 1-1,000 shares: 532 shareholders holding 280,940 shares (0.21%); 1,001-5,000: 842 shareholders holding 2,339,132 shares (1.75%); 5,001-10,000: 356 shareholders holding 2,728,962 shares (2.04%); 10,001-100,000: 848 shareholders holding 28,654,087 shares (21.40%); 100,000 Over: 219 shareholders holding 99,876,505 shares (74.60%); Rounding Total: 2,797 shareholders holding 133,879,626 shares (100.00%)."
+            },
+            {
+              "key": "Substantial Shareholders",
+              "value": "Drake Private Investments holds 22,380,142 shares, representing 16.72% of the total."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 77,
+          "title": "Shareholder Information - Top 20 Holders of CHESS Depository Interest",
+          "data": [
+            {
+              "key": "Report Title",
+              "value": "STRUCTURAL MONITORING SYSTEMS PLC - ANNUAL REPORT 2022"
+            },
+            {
+              "key": "Shareholder Information Label",
+              "value": "Shareholder information / CHESS DEPOSITORY INTEREST (Total)"
+            },
+            {
+              "key": "Table Title",
+              "value": "Top 20 Holders of CHESS Depository Interest"
+            },
+            {
+              "key": "Date As Of",
+              "value": "28/09/2022"
+            },
+            {
+              "key": "Composition",
+              "value": "CDI, ES1, ES2"
+            },
+            {
+              "key": "Top Holder Detail",
+              "value": "DRAKE PRIVATE INVESTMENTS LLC: 22,380,142 shares (16.72%)"
+            },
+            {
+              "key": "Top 20 Summary",
+              "value": "The top 20 holders collectively own 55,316,261 shares, representing 41.32% of total shares. Remaining holders balance: 78,563,365 (58.68%)."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 21,
+          "title": "Directors’ Report – Financial and Business Risks",
+          "data": [
+            {
+              "key": "Credit Risk",
+              "value": "The Group is exposed to credit risk associated with selling on credit and manages this through credit control procedures (see note 24 in the financial statements)."
+            },
+            {
+              "key": "Liquidity Risk",
+              "value": "Liquidity risk arises from the management of working capital. The Group monitors monthly cash inflows and outflows and has an operating loan facility for up to CA$5 million, with CA$0.72m currently available."
+            },
+            {
+              "key": "Foreign Exchange Risk",
+              "value": "Exposure to foreign exchange risk from operations in Canada, USA, and Australia, and transactional currency exposures from sales and purchases in currencies other than the unit's functional currency. This risk increased following the acquisition of a Canadian-based subsidiary, and no hedging strategy is currently in place."
+            },
+            {
+              "key": "Customer Concentration Risk",
+              "value": "Reliance on one customer that accounts for $7.54 million of revenues out of total revenues of $15.70 million, secured by a licence agreement."
+            },
+            {
+              "key": "COVID-19 Uncertainty",
+              "value": "The ongoing impact of the Coronavirus (COVID-19) pandemic is uncertain, with potential effects on travel, labour movement, and supply chain constraints."
+            },
+            {
+              "key": "Future Developments",
+              "value": "The directors refer to further details on future developments in the Strategic Report (page 6) and note ongoing progress towards the commercialisation of CVM™ technology."
+            },
+            {
+              "key": "Signatory Information",
+              "value": "By order of the Board, Ross Love, Executive Chairman, dated 30th September 2022. Document from STRUCTURAL MONITORING SYSTEMS PLC - ANNUAL REPORT 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 32,
+          "title": "Notes to the Financial Statements – Default Risk, Provisions and Share-Based Payments",
+          "data": [
+            {
+              "key": "Default Risk Measurement",
+              "value": "Evaluates risk of default based on receivable aging, lifetime expected credit losses, and grouping by product type, customer type, and location."
+            },
+            {
+              "key": "Definition of Default",
+              "value": "Receivables are deemed in default when principal or interest payments are significantly overdue based on historical payment patterns and recovery likelihood."
+            },
+            {
+              "key": "Write-off Policy",
+              "value": "Receivables are written off when there is no reasonable expectation of recovery, such as in cases of bankruptcy, liquidation, or when amounts are materially past due."
+            },
+            {
+              "key": "Provisions",
+              "value": "Provisions are recognized for present obligations with probable outflows, calculated using expected future cash flows and discounted if the effect of time value is material."
+            },
+            {
+              "key": "Share-Based Payment Transactions",
+              "value": "Details the Employee Incentive Plan (EIP) providing equity-settled benefits to directors and employees, with options valued using models such as Black-Scholes or a trinomial option pricing model."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 60,
+          "title": "Notes to the financial statements – Financial Risk Management Overview",
+          "data": [
+            {
+              "key": "Reporting Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Risks Identified",
+              "value": "Market risk (including foreign currency risk, price risk, interest rate risk), Credit and cashflow risk, Liquidity risk"
+            },
+            {
+              "key": "Risk Management Objective and Policies",
+              "value": "The Company and Group establish risk limits and controls, monitor risks, and review policies regularly. The Board of Directors oversees the risk management framework."
+            },
+            {
+              "key": "Financial Instruments Exposure",
+              "value": "Cash, receivables, borrowings, and payables are the principal financial instruments; financial assets are measured at amortised cost."
+            },
+            {
+              "key": "Interest Rate Risk Analysis",
+              "value": "Interest rate risk arises from fluctuations in interest bearing assets and liabilities. A cash flow sensitivity analysis is performed to assess the impact of a 100 basis point change in interest rates."
+            },
+            {
+              "key": "Risk Management Oversight",
+              "value": "The Board of Directors is responsible for establishing, monitoring, and reviewing the adequacy of the risk management policies and systems."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 61,
+          "title": "Notes to the financial statements 30 June 2022 - Financial Position Sensitivity Analysis",
+          "data": [
+            {
+              "key": "table_title",
+              "value": "Financial Position Sensitivity Analysis"
+            },
+            {
+              "key": "table_summary",
+              "value": "The table presents a sensitivity analysis for consolidated periods 30 June 2022 and 30 June 2021, showing base amounts and four scenarios for 'Cash and cash equivalents' and 'Borrowings'. Cash decreased from 2,381 in 2021 to 1,803 in 2022, while borrowings are noted at -5,461 in 2022 with corresponding sensitivity adjustments."
+            },
+            {
+              "key": "risk_description",
+              "value": "The document also discusses credit and cash flow risk, outlining the potential financial loss risks if counterparties fail to meet obligations. It details risk mitigation measures such as trading with creditworthy counterparties, reviewing term deposit exposures, and monitoring receivables."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 69,
+          "title": "Independent auditor’s report to the members of Structural Monitoring Systems Plc",
+          "data": [
+            {
+              "key": "Material Uncertainty",
+              "value": "A material uncertainty exists that may cast significant doubt on the Group’s ability to continue as a going concern."
+            },
+            {
+              "key": "Funding Requirements",
+              "value": "The Group forecasts include the scheduled repayment of CAD 1m of debt and additional equity funding requirements."
+            },
+            {
+              "key": "Management Assessment",
+              "value": "Management performed an assessment using a base case scenario and a reasonable worst-case scenario, considering significant judgements in forecasting future revenues and cash flow."
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "The auditor reviewed management’s assessments, including stress tests, covenant compliance, past forecast accuracy, and subsequent trading performance to support the going concern evaluation."
+            },
+            {
+              "key": "Key Audit Matters",
+              "value": "Key audit matters focused on the significant risks of material misstatement related to the going concern assumptions and compliance with external borrowing covenants."
+            }
+          ],
+          "currency": "CAD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 70,
+          "title": "STRUCTURAL MONITORING SYSTEMS PLC - ANNUAL REPORT 2022",
+          "data": [
+            {
+              "key": "Independent Auditor Report",
+              "value": "Independent auditor’s report to the members of Structural Monitoring Systems Plc in the context of our audit of the financial statements as a whole, with no separate opinion provided on certain matters."
+            },
+            {
+              "key": "Material Uncertainty",
+              "value": "A material uncertainty for the going concern assumption is noted; this key audit matter has not been separately reported."
+            },
+            {
+              "key": "Key Audit Matter: Impairment of Intangible Assets",
+              "value": "The goodwill of AUS1,613,000 is subject to annual impairment reviews."
+            },
+            {
+              "key": "Key Audit Matter: Intangible Assets and Goodwill",
+              "value": "The group holds intangible assets and goodwill valued at AUS7,149,000 (2021: AUS3,718,000), which are being amortised over a 5-10 year period. The risk that the goodwill may be impaired is addressed only when impairment indicators exist."
+            },
+            {
+              "key": "Audit Procedures for Intangible Assets",
+              "value": "Procedures included assessing management’s forecasts, estimates of useful life, discount rate analysis, and verification of underlying contracts for purchase of intangible assets."
+            },
+            {
+              "key": "Audit Procedures for Post-Year End Cashflows",
+              "value": "The latest management accounts were reviewed to assess post-year end cashflows, particularly due to technology influences."
+            },
+            {
+              "key": "Table Summary",
+              "value": "The accompanying table, titled 'Key Audit Matters and Audit Procedures', summarizes the key audit matters related to impairment issues and the corresponding audit procedures."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 74,
+          "title": "Independent auditor’s report to the members of Structural Monitoring Systems Plc",
+          "data": [
+            {
+              "key": "audit_scope",
+              "value": "Assessed compliance with protection, anti-bribery, employment, environmental, health and safety legislation, and anti-money laundering regulations; involved inquiries of management and inspection of legal correspondence."
+            },
+            {
+              "key": "fraud_risk_assessment",
+              "value": "Evaluated susceptibility of financial statements to material misstatement, including inquiries about potential fraud, testing of journal entries, analytical procedures, and review of accounting estimates."
+            },
+            {
+              "key": "audit_procedures",
+              "value": "Designed procedures included agreeing financial statement disclosures to supporting documentation, reading minutes of governance meetings, and reviewing correspondence with HMRC and legal advisors."
+            },
+            {
+              "key": "limitations",
+              "value": "Noted inherent limitations in audit procedures and challenges in detecting fraud due to concealment or collusion, as well as restrictions imposed by auditing standards."
+            },
+            {
+              "key": "additional_reference",
+              "value": "Further details on auditor responsibilities available on the Financial Reporting Council’s website (www.frc.org.uk/auditorsresponsibilities)."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 13,
+          "title": "Directors’ Report - Forecasts, Meetings & R&D",
+          "data": [
+            {
+              "key": "Forecast and Going Concern",
+              "value": "The Directors have prepared forecasts for future trading over a 12-month period. These forecasts rely on assumptions including revenue and exchange rate sensitivity analysis, and require the Group to potentially raise capital through share issues, amend current debt structures, or reduce/defer employee and operating costs. A material uncertainty exists over the Group's going concern if these measures are not executed."
+            },
+            {
+              "key": "Directors' Meetings",
+              "value": "A table lists the attendance of directors, including details on appointments and resignations. Monthly executive meetings were also held throughout the year."
+            },
+            {
+              "key": "Research and Development",
+              "value": "The Group actively reviews technical developments with the aim of maintaining and improving its competitive position. This includes the design and development of customised avionics and structural health monitoring systems for the aviation industry."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": false,
+      "elements": []
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 8,
+          "title": "STRATEGIC REPORT – Board Statement and ESG Commitments",
+          "data": [
+            {
+              "key": "Board Duty",
+              "value": "The Board has a duty under s172 of the Companies Act 2006 to promote the success of the Company for the benefit of its members as a whole, considering the long-term implications of its actions."
+            },
+            {
+              "key": "Stakeholder Engagement",
+              "value": "The Group has a continuous stakeholder engagement programme in which both Executive and Non-Executive Directors participate to ensure awareness of stakeholder interests."
+            },
+            {
+              "key": "Employee Value and Working Environment",
+              "value": "The Group believes its employees are its greatest asset and seeks to establish policies that provide a safe, enjoyable, and rewarding working environment."
+            },
+            {
+              "key": "Community and Environmental Responsibility",
+              "value": "The Group is mindful of its role in local communities and seeks to minimise the impact of its operations on the environment, aiming to be a good neighbour."
+            },
+            {
+              "key": "Signature",
+              "value": "Ross Love, Executive Chairman, signed on 30th September 2022"
+            },
+            {
+              "key": "Document",
+              "value": "STRUCTURAL MONITORING SYSTEMS PLC - ANNUAL REPORT 2022"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 345,
+    "EUR": 19,
+    "GBP": 6,
+    "AUD": 169,
+    "CAD": 12
+  },
+  "sha1": "3e5ccdb58faf901e75e31f154cb8330869ca5efa"
+}

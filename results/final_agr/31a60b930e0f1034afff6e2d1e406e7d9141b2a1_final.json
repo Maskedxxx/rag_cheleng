@@ -1,0 +1,2516 @@
+{
+  "letters": 144143,
+  "pages": 50,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "Weis Markets, Inc.",
+    "major_industry": "Retail",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 28,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Net cash provided by operating activities",
+              "value": "218,024"
+            },
+            {
+              "key": "Net cash used in investing activities",
+              "value": "-111,107"
+            },
+            {
+              "key": "Net cash used in financing activities",
+              "value": "-34,968"
+            },
+            {
+              "key": "Cash and cash equivalents at end of period",
+              "value": "157,997"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 10,
+          "title": "Executive Leadership Team",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Executive Leadership Team"
+            },
+            {
+              "key": "Team Summary",
+              "value": "This table presents the executive leadership team of WEIS MARKETS, INC., including the names, ages, and current positions of 8 senior executives with ages ranging from 50 to 67 years. The average age of the team is approximately 56."
+            },
+            {
+              "key": "Detailed Officer Information",
+              "value": "Robert G. Gleeson: Joined October 2018; promoted to Vice President of Fresh Merchandising in July 2019 and to Senior Vice President of Merchandising and Marketing in March 2021. David W. Gose II: Joined May 2014 as Senior Vice President of Operations, previously held a senior role at Walmart Ohio. Harold G. Graber: Joined October 1989; served as Vice President for Real Estate since 1996, promoted to Senior Vice President of Real Estate and Development in February 2010, and elected Secretary in February 2014. Michael T. Lockard: Joined January 2021 as Senior Vice President and assumed the roles of Chief Financial Officer and Treasurer in March 2021; formerly with K-VA-T Food Stores, Inc. James E. Marcil: Joined September 2002 as Vice President of Human Resources and promoted to Senior Vice President of Human Resources in February 2010. Kurt A. Schertle: Joined March 2009, experienced multiple promotions including Executive Vice President of Sales and Merchandising and eventually became Chief Operating Officer in March 2014. Jonathan H. Weis: Serves as Chairman of the Board, President and Chief Executive Officer. Richard G. Zeh Jr.: Holds the position of Senior Vice President and Chief Information Officer."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 11,
+          "title": "WEIS MARKETS, INC. - Executive Officers Information and Leadership Changes",
+          "data": [
+            {
+              "key": "Jonathan H. Weis",
+              "value": "Employed since 1989. Served as Vice President of Property Management and Development (1996 to April 2002), then appointed Vice President and Secretary (April 2002). In January 2004, appointed as Vice Chairman and Secretary. Became interim President and Chief Executive Officer in September 2013, appointed as President and Chief Executive Officer in February 2014, and elected Chairman of the Board in April 2015."
+            },
+            {
+              "key": "Richard G. Zeh, Jr.",
+              "value": "Joined the Company in September 2016 as Chief Information Officer and was promoted to Senior Vice President, Chief Information Officer in February 2021. Prior to joining the Company, served as Chief Financial Officer of Mazzone Management Group and held senior positions in finance and information technology in the food retail and service industries."
+            },
+            {
+              "key": "Shareholder and Market Information",
+              "value": "The Company’s stock is traded on the NYSE under ticker symbol WMK. As of March 1, 2023, there were approximately 13,868 shareholders."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 48,
+          "title": "Document Signatures",
+          "data": [
+            {
+              "key": "Registrant",
+              "value": "WEIS MARKETS, INC. SIGNATURES"
+            },
+            {
+              "key": "Primary Signatory",
+              "value": "Jonathan H. Weis – Chairman, President and Chief Executive Officer (Principal Executive Officer); signed on 3/1/2023"
+            },
+            {
+              "key": "Senior Vice President, CFO and Treasurer",
+              "value": "Michael T. Lockard – signed on 3/1/2023 (/S/Michael T. Lockard)"
+            },
+            {
+              "key": "Senior Vice President of Real Estate and Development, Secretary and Director",
+              "value": "Harold G. Graber – signed on 3/1/2023 (/S/Harold G. Graber)"
+            },
+            {
+              "key": "Director",
+              "value": "Dennis G. Hatchell – signed on 3/ /2023 (/S/Dennis G. Hatchell Dennis G. Hatchell)"
+            },
+            {
+              "key": "Director",
+              "value": "Edward J. Lauth III – signed on 3/ /2023 (/S/Edward J. Lauth Il Edward J. Lauth III)"
+            },
+            {
+              "key": "Director",
+              "value": "Gerrald B. Silverman – signed on 3/ /2023 (/S/Gerrald B. Silverman Gerrald B. Silverman)"
+            },
+            {
+              "key": "Vice President, Corporate Controller (Principal Accounting Officer)",
+              "value": "Jeanette R. Rogers – signed on 3/ /2023 (/S/Jeanette R. Rogers Jeanette R. Rogers)"
+            },
+            {
+              "key": "Table Summary",
+              "value": "Signature page extracted from a corporate SEC filing, listing key executives and directors with signature dates in March 2023."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 32,
+          "title": "Incorporation of Financial Reporting Policies",
+          "data": [
+            {
+              "key": "Impairment of Long-Lived Assets",
+              "value": "The Company believes that, based on current conditions, materially different reported results are not likely to result from long-lived asset impairments."
+            },
+            {
+              "key": "Self-Insurance Policies",
+              "value": "The Company is self-insured for a majority of its claims and has specific liability thresholds for workers’ compensation."
+            },
+            {
+              "key": "Income Taxes",
+              "value": "The Company recognizes deferred tax assets and liabilities based on existing asset and liability differences and associated tax bases."
+            },
+            {
+              "key": "Earnings Per Share Calculation",
+              "value": "Earnings per share are based on the weighted-average number of common shares outstanding."
+            },
+            {
+              "key": "Revenue Recognition Policies",
+              "value": "Revenue from product sales is recognized at the point of sale, with discounts recognized as a reduction in sales."
+            },
+            {
+              "key": "Cost of Sales Definition",
+              "value": "Cost of sales includes direct product costs, advertising, and distribution center costs."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 45,
+          "title": "WEIS MARKETS, INC. PART III - Executive Compensation & Related Disclosures",
+          "data": [
+            {
+              "key": "Referenced Proxy Statement Sections",
+              "value": "Part I of Form 10-K incorporates by reference several sections of the 2023 definitive proxy statement, including information about Executive Officers, Election of Directors, Board Committees, Audit Committee, Corporate Governance, Compensation Tables and Stock Ownership. Specifically, Item 11 covers Executive Compensation by referencing 'Board Committees and Meeting Attendance, Compensation Committee,' 'Executive Compensation, Compensation Discussion and Analysis,' 'Compensation Committee Report,' 'Compensation Tables,' and related information."
+            },
+            {
+              "key": "Other Incorporated Items",
+              "value": "Other items in Part III include disclosures on Directors, Security Ownership, Related Transactions, Director Independence, and Auditing Fees, all incorporated by reference from the definitive proxy statement."
+            },
+            {
+              "key": "Financial Statements Table",
+              "value": "The document also includes a Financial Statements Table of Contents listing Consolidated Balance Sheets, Income Statements, Comprehensive Income, Shareholders' Equity, Cash Flows, Notes to Financial Statements, and the Report of the Independent Registered Public Accounting Firm (with PCAOB ID: 49)."
+            },
+            {
+              "key": "Additional Financial Schedules",
+              "value": "Schedule II - Valuation and Qualifying Accounts is referenced on page 46, with other schedules omitted as applicable per SEC accounting regulations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 46,
+          "title": "WEIS MARKETS, INC. Item 15. Exhibits, Financial Statement Schedules: (continued)",
+          "data": [
+            {
+              "key": "Exhibit 3-A",
+              "value": "Articles of Incorporation, filed as exhibit 4.1 in Form S-8 on September 13, 2002 and incorporated by reference."
+            },
+            {
+              "key": "Exhibit 3-B",
+              "value": "By-Laws, filed as exhibit under Part IV, Item 14(c) in the Annual Report on Form 10-K for the fiscal year ended December 29, 2001 and incorporated by reference."
+            },
+            {
+              "key": "Exhibit 4-A",
+              "value": "Description of Securities Registered under Section 12 of the Securities Exchange Act of 1934, as amended, filed in the Annual Report on Form 10-K for the fiscal year ended December 28, 2019 and incorporated by reference."
+            },
+            {
+              "key": "Exhibit 10-B",
+              "value": "Supplemental Executive Retirement Plan, filed in the Annual Report on Form 10-K for the fiscal year ended December 28, 2019 and incorporated by reference."
+            },
+            {
+              "key": "Exhibit 10-D",
+              "value": "Supplemental Executive Retirement Plan Amendment, filed in the Annual Report on Form 10-K for the fiscal year ended December 25, 2021 and incorporated by reference."
+            },
+            {
+              "key": "Exhibit 10-E",
+              "value": "Deferred Compensation Agreement between the Company and Mr. Robert F. Weis, filed in the Annual Report on Form 10-K for the fiscal year ended December 26, 2009 and incorporated by reference."
+            },
+            {
+              "key": "Exhibit 10-I",
+              "value": "Executive Employment Agreement between the Company and Jonathan H Weis, Chairman, President and Chief Executive Officer, signed on November 15, 2019 effective January 1, 2020 and continuing through December 31, 2023, filed as Exhibit 10.1 to Form 8-K and incorporated by reference."
+            },
+            {
+              "key": "Exhibit 10-J",
+              "value": "Chief Executive Office Incentive Award Plan between the Company and Jonathan H Weis, Chairman, President and Chief Executive Officer, effective January 1, 2020, amended and restated effective January 1, 2021 and continuing through December 31, 2022, filed as Exhibit 10.2 to Form 8-K and incorporated by reference."
+            },
+            {
+              "key": "Other Exhibits",
+              "value": "Subsidiaries of the Registrant, Rule 13a-14(a) Certifications for CEO and CFO, Certification Pursuant to 18 U.S.C. Section 1350, and a management contract or compensatory plan arrangement."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 14,
+          "title": "Management's Discussion and Analysis: Company Overview (continued)",
+          "data": [
+            {
+              "key": "Company",
+              "value": "WEIS MARKETS, INC."
+            },
+            {
+              "key": "Innovative Programs",
+              "value": "Weis 2 Go Online and Home Delivery"
+            },
+            {
+              "key": "Weis 2 Go Online Details",
+              "value": "Offered in 188 locations in 2022 (up 2 since end of 2021). Enables online ordering with drive-thru pickup."
+            },
+            {
+              "key": "Home Delivery Details",
+              "value": "Started in third quarter 2018; available in 195 locations via Shipt®, DoorDash®, and InstaCart®."
+            },
+            {
+              "key": "Strategic Imperatives",
+              "value": "Focus on a Sales Driven Culture, Building and Supporting Human Capital, Becoming More Relevant to Consumers, and Creating Meaningful Differentiation."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 4,
+          "title": "WEIS MARKETS, INC. - Item 1. Business: Store Operations and Capital Expenditure",
+          "data": [
+            {
+              "key": "Retail Store Size Range",
+              "value": "Stores range from 8,000 to 71,000 square feet, with an average of approximately 49,000 square feet."
+            },
+            {
+              "key": "Store Size Distribution (2022)",
+              "value": "Over 55,000 sq ft: 64 stores (32%); 45,000 to 54,999 sq ft: 70 stores (36%); 35,000 to 44,999 sq ft: 46 stores (23%); 25,000 to 34,999 sq ft: 12 stores (6%); Under 25,000 sq ft: 5 stores (3%); Total: 197 stores."
+            },
+            {
+              "key": "Store Count and Square Footage Trends",
+              "value": "Over five periods, beginning store count ranged from 196 to 205 and ending count from 196 to 202; total square footage ranged between approximately 9,568,000 and 9,800,000 sq ft. Additions/major remodels averaged about 12 per period."
+            },
+            {
+              "key": "Capital Expenditure Allocation",
+              "value": "Approximately one third of the capital expenditure budget is dedicated to new/relocated stores (openings), 15-20% to store remodels, with the remainder for supply chain, technology, in-store projects, maintenance, and support functions."
+            },
+            {
+              "key": "Distribution and Manufacturing",
+              "value": "Approximately 63% of products are self-distributed from its strategically located distribution center and transportation fleet; the company also operates three manufacturing facilities processing milk, ice cream, and fresh meat products."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 31,
+          "title": "Liquor Licenses and Asset Acquisitions Financial Summary (amounts in thousands)",
+          "data": [
+            {
+              "key": "Liquor licenses gross (2022)",
+              "value": "15899"
+            },
+            {
+              "key": "Liquor licenses accumulated amortization (2022)",
+              "value": "0"
+            },
+            {
+              "key": "Liquor licenses net (2022)",
+              "value": "15899"
+            },
+            {
+              "key": "Liquor licenses gross (2021)",
+              "value": "15240"
+            },
+            {
+              "key": "Liquor licenses accumulated amortization (2021)",
+              "value": "0"
+            },
+            {
+              "key": "Liquor licenses net (2021)",
+              "value": "15240"
+            },
+            {
+              "key": "Asset acquisitions gross (2022)",
+              "value": "2566"
+            },
+            {
+              "key": "Asset acquisitions accumulated amortization (2022)",
+              "value": "1433"
+            },
+            {
+              "key": "Asset acquisitions net (2022)",
+              "value": "1133"
+            },
+            {
+              "key": "Asset acquisitions gross (2021)",
+              "value": "5083"
+            },
+            {
+              "key": "Asset acquisitions accumulated amortization (2021)",
+              "value": "3788"
+            },
+            {
+              "key": "Asset acquisitions net (2021)",
+              "value": "1295"
+            },
+            {
+              "key": "Total gross (2022)",
+              "value": "18465"
+            },
+            {
+              "key": "Total accumulated amortization (2022)",
+              "value": "1433"
+            },
+            {
+              "key": "Total net (2022)",
+              "value": "17032"
+            },
+            {
+              "key": "Total gross (2021)",
+              "value": "20323"
+            },
+            {
+              "key": "Total accumulated amortization (2021)",
+              "value": "3788"
+            },
+            {
+              "key": "Total net (2021)",
+              "value": "16535"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "UNITED STATES SECURITIES AND EXCHANGE COMMISSION - FORM 10-K Annual Report",
+          "data": [
+            {
+              "key": "Registrant",
+              "value": "WEIS MARKETS, INC."
+            },
+            {
+              "key": "Filing Type",
+              "value": "Form 10-K"
+            },
+            {
+              "key": "Fiscal Year End",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Commission File Number",
+              "value": "1-5039"
+            },
+            {
+              "key": "IRS Employer Identification Number",
+              "value": "24-0755415"
+            },
+            {
+              "key": "Address",
+              "value": "1000 S. Second Street, P.O. Box 471, Sunbury, Pennsylvania 17801-0471"
+            },
+            {
+              "key": "Phone",
+              "value": "(570) 286-4571"
+            },
+            {
+              "key": "Website",
+              "value": "www.weismarkets.com"
+            },
+            {
+              "key": "Market Value of Common Stock (Non-affiliates)",
+              "value": "$706,000,000"
+            },
+            {
+              "key": "Shares Outstanding",
+              "value": "26,898,443"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 2,
+          "title": "WEIS MARKETS, INC. TABLE OF CONTENTS FORM 10-K",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Form 10-K Table of Contents"
+            },
+            {
+              "key": "Summary",
+              "value": "This table represents the table of contents or index of a Form 10-K financial report, which is an annual report required by the SEC for publicly traded companies. The table is organized into four main parts and contains various items covering business operations, financial statements, corporate governance, and exhibits. It includes standard SEC reporting requirements such as risk factors, financial statements, management discussion and analysis, and various corporate disclosures."
+            },
+            {
+              "key": "Items",
+              "value": "Item 1. Business; Item 1a. Risk Factors; Item 1b. Unresolved Staff Comments; Item 2. Properties; Item 3. Legal Proceedings; Item 4. Mine Safety Disclosures; Information about our Executive Officers; Part II; Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities; Item 6. [Reserved]; Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations; Item 7a. Quantitative and Qualitative Disclosures about Market Risk; Item 8. Financial Statements and Supplementary Data; Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure; Item 9a. Controls and Procedures; Item 9b. Other Information; Item 9c. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections; Part III; Item 10. Directors, Executive Officers and Corporate Governance Item 11. Executive Compensation; Item 12. Security Ownership of Certain Beneficial Owners and and Related Stockholder Matters; Management Item 13. Certain Relationships and Related Transactions, and Director Independence; Item 14. Principal Accountant Fees and Services; Part IV; Item 15. Exhibits, Financial Statement Schedules; Item 15(c)(3). Schedule II - Valuation and Qualifying Accounts; Item 16. Form 10-K Summary; Signatures; Exhibit 21 Subsidiaries of the Registrant; Exhibit 31.1 Rule 13a-14(a) Certification - CEO; Additional parts: Part I, Part II, Part III, Part IV, Signatures, Exhibit 31.2 Rule 13a-14(a) Certification - CFO, Exhibit 32 Certification Pursuant to 18 U.S.C. Section 1350; Page numbers: 1, 4, 7, 7, 7, 7, 8, 9, 9, 10, 11, 20, 22, 42, 42, 42, 42, 43, 43, 43, 43, 43, 43, 45, 45, 46"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 3,
+          "title": "Business Overview and Sales Distribution by Business Segment",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Weis Markets, Inc."
+            },
+            {
+              "key": "Founded",
+              "value": "1912"
+            },
+            {
+              "key": "Incorporated",
+              "value": "1924"
+            },
+            {
+              "key": "Business Description",
+              "value": "A Pennsylvania-based retail food company primarily engaged in the sale of groceries, dairy products, frozen foods, meats, seafood, fresh produce and more. The company’s stock trades under the symbol 'WMK' on the New York Stock Exchange."
+            },
+            {
+              "key": "Ownership",
+              "value": "The Weis family owns approximately 65% of the outstanding shares."
+            },
+            {
+              "key": "Leadership",
+              "value": "Jonathan H. Weis serves as Chairman of the Board of Directors, President and Chief Executive Officer."
+            },
+            {
+              "key": "Store Count and Distribution",
+              "value": "197 retail food stores (3 in Delaware, 49 in Maryland, 6 in New Jersey, 9 in New York, 118 in Pennsylvania, 9 in Virginia, 3 in West Virginia)"
+            },
+            {
+              "key": "Sales Distribution Table Title",
+              "value": "Sales Distribution by Business Segment (Percentage)"
+            },
+            {
+              "key": "Table Data - Center Store",
+              "value": "54.9% (Period 1) and 57.7% (Period 2); consists primarily of groceries, dairy, frozen foods, beer and wine, and general merchandise"
+            },
+            {
+              "key": "Table Data - Fresh",
+              "value": "31.1% (Period 1) and 30.5% (Period 2); consists primarily of meats, seafood, fresh produce, floral, deli, prepared and bakery products"
+            },
+            {
+              "key": "Table Data - Pharmacy Services",
+              "value": "9.4% (Period 1) and 8.7% (Period 2)"
+            },
+            {
+              "key": "Table Data - Fuel",
+              "value": "4.4% (Period 1) and 29% (Period 2)"
+            },
+            {
+              "key": "Table Data - Other",
+              "value": "0.2% for both periods"
+            },
+            {
+              "key": "Table Data - Consolidated Net Sales",
+              "value": "100.0% for both periods"
+            },
+            {
+              "key": "Table Summary",
+              "value": "The table shows the percentage breakdown of consolidated net sales by product category. Notably, the Fuel category jumps from 4.4% to 29% between the two periods."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 12,
+          "title": "Market for Registrant’s Common Equity - Comparative Shareholder Return Analysis",
+          "data": [
+            {
+              "key": "Section",
+              "value": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities (continued)"
+            },
+            {
+              "key": "Analysis Description",
+              "value": "The document provides a comparative analysis of the cumulative total shareholder return for Weis Markets, Inc. versus the S&P 500 and a Peer Group of similar retail grocers over a five- to six-year period. It uses line graphs and tables to depict these performance trends with an index base of 100."
+            },
+            {
+              "key": "Graph Details",
+              "value": "Two separate chart representations titled 'Performance Comparison 2017-2022' are included. They show yearly index values for Weis Markets, S&P 500, and Peer Group, with details such as axis labels, series names, and base investment of $100 reinvesting dividends."
+            },
+            {
+              "key": "Table Summary",
+              "value": "A table compares performance over six periods (2017 to final period) indicating that Weis Markets, Inc. outperformed both the S&P 500 and its Peer Group, reaching an index value of 224.84 versus 143.61 for the S&P 500 and 162.57 for the Peer Group."
+            },
+            {
+              "key": "Key Entities",
+              "value": "Weis Markets, Inc., S&P 500, Peer Group (including Ingles Markets, Inc.; Village Super Market, Inc.; Smart & Final Stores, Inc.; Sprouts Farmers Market, Inc.; and The Kroger Company)"
+            },
+            {
+              "key": "Performance Metrics",
+              "value": "Cumulative total return with dividends reinvested, indexed values (base 100) over the period 2017-2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 13,
+          "title": "Management’s Discussion and Analysis of Financial Condition and Results of Operations: Overview",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "WEIS MARKETS, INC."
+            },
+            {
+              "key": "Section",
+              "value": "Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A)"
+            },
+            {
+              "key": "Purpose",
+              "value": "To help the reader understand the company’s operations, financial condition, and business environment."
+            },
+            {
+              "key": "Company Overview",
+              "value": "Weis Markets is a conventional supermarket chain operating 197 retail stores with approximately 23,000 associates in Pennsylvania and six surrounding states (Delaware, Maryland, New Jersey, New York, Virginia, and West Virginia)."
+            },
+            {
+              "key": "Products and Services",
+              "value": "Groceries, dairy products, frozen foods, meats, seafood, fresh produce, floral, pharmacy services, deli products, prepared foods, bakery products, beer and wine, fuel, and general merchandise such as health and beauty care and household products."
+            },
+            {
+              "key": "Pricing Strategy",
+              "value": "Competitive pricing strategies including Everyday Lower Price, Low Price Guarantee, Low, Low Price, 3 Day Sale, senior and military discounts, and Loyalty programs."
+            },
+            {
+              "key": "Distribution",
+              "value": "Approximately 63% of products are self-distributed using its own distribution center and transportation fleet; the remainder comes from direct store vendors and regional wholesalers."
+            },
+            {
+              "key": "Manufacturing Facilities",
+              "value": "Operates three facilities for processing milk, ice cream, and fresh meat products."
+            },
+            {
+              "key": "Headquarters",
+              "value": "Sunbury, Pennsylvania (founded in 1912)"
+            },
+            {
+              "key": "COVID-19 Impact",
+              "value": "Government mandated shutdowns and emergency legislative acts in early 2020 resulted in increased sales and gross profits compared to pre-pandemic periods."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 15,
+          "title": "Management's Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Organizational Capabilities",
+              "value": "The Company will elevate organizational capacity to support decision effectiveness and consistent execution, including aligning business functions and processes for scalability."
+            },
+            {
+              "key": "Information Technology Investments",
+              "value": "Continued investments in IT systems aim to improve associate engagement, increase productivity, and provide insights into customer behavior/shopping trends, supporting strategic decision measurement and financial returns."
+            },
+            {
+              "key": "Sustainability Strategy",
+              "value": "The Company emphasizes sustainability with four key pillars—green design, natural resource conservation, food and agricultural impact, and social responsibility—with a goal to reduce its overall carbon footprint."
+            },
+            {
+              "key": "Comparable Store Sales Analysis",
+              "value": "Management provides a Two-Year Stacked Comparable Store Sales analysis (both individual year and two-year stacked) to illustrate operating results trends, including adjustments for an additional week in 2022 and comparisons excluding fuel."
+            },
+            {
+              "key": "Table Summary",
+              "value": "The table shows that overall comparable store sales grew 10.9% in 2022 vs 2021 (versus 1.7% for 2021 vs 2020), with similar trends observed when excluding fuel and after adjusting for the additional week in 2022. Two-year stacked metrics indicate cumulative growth, with the highest being 12.6% for overall comparable store sales."
+            },
+            {
+              "key": "Week Composition",
+              "value": "2021 and 2020 comprised 52 weeks, while 2022 comprised 53 weeks."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 16,
+          "title": "Management's Discussion and Analysis of Financial Condition and Results of Operations – Financial Performance",
+          "data": [
+            {
+              "key": "Financial Performance Summary",
+              "value": "For fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020, key metrics were reported. Net sales increased from 4,224,417 in 2021 to 4,695,943 in 2022 (12% increase). Gross profit margin declined from 26.8% (2020) to 25.2% (2022) with 26.4% in 2021. Operating margin fell from 4.0% in 2020 to 3.3% in 2022 (3.5% in 2021). Net income improved by 15% from 108,849 (2021) to 125,196 (2022) despite a slight fluctuation compared to 118,917 in 2020. Net income as a percent of net sales remained relatively stable at 2.7% (2022), 2.6% (2021) and 2.9% (2020)."
+            },
+            {
+              "key": "Individual Year-Over-Year Analysis of Sales",
+              "value": "The analysis shows net sales grew 11.2% from 2021 to 2022 compared to 2.7% from 2020 to 2021. When excluding fuel, growth was 9.6% (2022 vs. 2021) and 1.2% (2021 vs. 2020). Adjustments for an additional week in 2022 yielded 8.8% growth in net sales (2022 vs. 2021) and a striking 75% increase when excluding fuel on that adjusted basis. Comparable store sales increased 10.9% from 2021 to 2022 with a 1.7% change from 2020 to 2021, while comparable store sales excluding fuel were 9.5% (2022) versus 0.2% change. Additional context noted that 2022 comprised 53 weeks, versus 52 weeks for 2021 and 2020, and that only retail food stores are included in this calculation after meeting specific operational criteria."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 17,
+          "title": "Management's Discussion and Analysis of Financial Condition and Results of Operations (continued)",
+          "data": [
+            {
+              "key": "Consumer Price Index Increase 2022",
+              "value": "11.4%"
+            },
+            {
+              "key": "Consumer Price Index Increase 2021",
+              "value": "3.5%"
+            },
+            {
+              "key": "Consumer Price Index Increase 2020",
+              "value": "3.5%"
+            },
+            {
+              "key": "Gasoline Price Increase 2022",
+              "value": "31.4% or $1.00 per gallon (53-week average, Central Atlantic States)"
+            },
+            {
+              "key": "Gasoline Price Increase 2021",
+              "value": "31.2% or $0.76 per gallon (52-week average, Central Atlantic States)"
+            },
+            {
+              "key": "Comparable Store Sales Increase Including Fuel (2022)",
+              "value": "8.8%"
+            },
+            {
+              "key": "Comparable Store Sales Increase Excluding Fuel (2022)",
+              "value": "7.5%"
+            },
+            {
+              "key": "Gross Profit Rate 2022",
+              "value": "25.2%"
+            },
+            {
+              "key": "Gross Profit Rate 2021",
+              "value": "26.4%"
+            },
+            {
+              "key": "Gross Profit Rate 2020",
+              "value": "26.8%"
+            },
+            {
+              "key": "Non-cash LIFO Inventory Adjustment Impact 2022",
+              "value": "-$29.2 million"
+            },
+            {
+              "key": "Non-cash LIFO Inventory Adjustment Impact 2021",
+              "value": "-$4.0 million"
+            },
+            {
+              "key": "Non-cash LIFO Inventory Adjustment Impact 2020",
+              "value": "+$0.275 million"
+            },
+            {
+              "key": "Additional Product Offering",
+              "value": "\"Weis 2 Go Online\" at 188 store locations"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 18,
+          "title": "Management's Discussion and Analysis: Operating, General and Administrative Expenses",
+          "data": [
+            {
+              "key": "Expense Driver",
+              "value": "Increased sales volume; employee-related costs (wages, taxes, health care, retirement) comprise approximately 60.7% of total operating, general and administrative expenses."
+            },
+            {
+              "key": "Direct Store Labor",
+              "value": "Although direct store labor expenses increased in 2022 over 2021 and in 2021 over 2020, the increase in sales outpaced labor expense increases, resulting in a decline in labor as a percentage of sales (decreased by 0.5% in 2022 vs 2021 and by 0.1% in 2021 vs 2020)."
+            },
+            {
+              "key": "Self-insured Health Care Expenses",
+              "value": "Decreased by 0.2% in 2022 compared to 2021, but increased by 0.2% in 2021 compared to 2020."
+            },
+            {
+              "key": "Depreciation and Amortization",
+              "value": "2022 expense was $94.6 million (2.0% of net sales) compared to $93.8 million (2.2%) in 2021 and $90.2 million (2.2%) in 2020."
+            },
+            {
+              "key": "Capital Expenditure",
+              "value": "Referenced in the Liquidity and Capital Resources section; indicates an ongoing discussion on capital expenditure programs."
+            },
+            {
+              "key": "2022 vs 2021 Expense Changes Analysis",
+              "value": "Table data for December 31, 2022 shows: Employee expense increased by $18,910K (-1.0% of sales), Utilities expense increased by $12,375K (0.2%), Fixed expense increased by $5,389K (-0.3%), and Other expenses increased by $21,209K (0.1%). The largest absolute change was in Other expenses, while Employee expense had the greatest percentage decrease."
+            },
+            {
+              "key": "2021 vs 2020 Expense Analysis",
+              "value": "Table data for December 25, 2021 shows: Employee expense increased by $5,517K (-0.2% of sales), Utilities expense increased by $3,819K (0.1%), and Fixed expense increased by $4,007K (-0.1% of sales, encompassing amortization, depreciation, insurance, and occupancy costs)."
+            },
+            {
+              "key": "Additional Expense Observations",
+              "value": "Increases in Other expenses over both periods were attributed to higher financial service fees from increased sales transactions and elevated information technology costs due to higher third-party subscriptions and consulting services."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 19,
+          "title": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Effective Income Tax Rate 2022",
+              "value": "22.1%"
+            },
+            {
+              "key": "Effective Income Tax Rate 2021",
+              "value": "26.6%"
+            },
+            {
+              "key": "Effective Income Tax Rate 2020",
+              "value": "27.3%"
+            },
+            {
+              "key": "Tax Provision Reduction",
+              "value": "$5.5 million reduction in 2022, primarily due to Pennsylvania House Bill 1342 (enacted July 8, 2022) which lowers the tax rate from 9.99% in 2022 to 4.99% in 2031"
+            },
+            {
+              "key": "Revolving Credit Facility",
+              "value": "Unsecured revolving credit facility under a Credit Agreement with Wells Fargo Bank, N.A. with an aggregate principal limit of $30.0 million and an additional discretionary amount of $70.0 million; matures on September 1, 2024"
+            },
+            {
+              "key": "Credit Facility Availability",
+              "value": "$25.5 million available as of December 31, 2022, with $4.5 million in letters of credit outstanding"
+            },
+            {
+              "key": "Investment Portfolio",
+              "value": "Comprises high-grade bonds (maturities between 1 and 20 years) and four high yield, large capitalized public company equity securities; totaled $186.4 million as of December 31, 2022"
+            },
+            {
+              "key": "Capital Expenditure Program",
+              "value": "Plans to invest approximately $150 million in 2023 for new superstores, expansion and remodeling of existing units, site acquisitions, technology purchases, and upgrades to distribution facilities and transportation fleet; includes carryover projects delayed due to labor and supply chain disruptions"
+            },
+            {
+              "key": "Share Repurchase Program",
+              "value": "2004 resolution authorized repurchase of up to one million shares, with a remaining balance of 752,468 shares"
+            },
+            {
+              "key": "Quarterly Cash Dividends",
+              "value": "Dividends per share were $1.30 in 2022, $1.25 in 2021, and $1.24 in 2020; increased quarterly dividend from 32 cents to 34 cents in Q4 2022; dividend payments subject to Board discretion"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 20,
+          "title": "Management's Discussion & Analysis - Cash Flow Information, Capital Expenditures, Dividends & Operating Leases",
+          "data": [
+            {
+              "key": "Operating Activities (2022)",
+              "value": "218024 (in thousands)"
+            },
+            {
+              "key": "Operating Activities (2021)",
+              "value": "227709 (in thousands)"
+            },
+            {
+              "key": "Operating Activities (2020)",
+              "value": "277990 (in thousands)"
+            },
+            {
+              "key": "Change 2022 vs 2021 (Operating)",
+              "value": "-9685 (in thousands)"
+            },
+            {
+              "key": "Change 2021 vs 2020 (Operating)",
+              "value": "-50281 (in thousands)"
+            },
+            {
+              "key": "Investing Activities (2022)",
+              "value": "-111107 (in thousands)"
+            },
+            {
+              "key": "Investing Activities (2021)",
+              "value": "-244650 (in thousands)"
+            },
+            {
+              "key": "Investing Activities (2020)",
+              "value": "-174895 (in thousands)"
+            },
+            {
+              "key": "Change 2022 vs 2021 (Investing)",
+              "value": "133543 (in thousands)"
+            },
+            {
+              "key": "Change 2021 vs 2020 (Investing)",
+              "value": "-69755 (in thousands)"
+            },
+            {
+              "key": "Financing Activities (2022)",
+              "value": "-34968 (in thousands)"
+            },
+            {
+              "key": "Financing Activities (2021)",
+              "value": "-33623 (in thousands)"
+            },
+            {
+              "key": "Financing Activities (2020)",
+              "value": "-33354 (in thousands)"
+            },
+            {
+              "key": "Change 2022 vs 2021 (Financing)",
+              "value": "-1345 (in thousands)"
+            },
+            {
+              "key": "Change 2021 vs 2020 (Financing)",
+              "value": "-269 (in thousands)"
+            },
+            {
+              "key": "Capital Expenditures (Property & Equipment Purchases)",
+              "value": "2022: $122.2M, 2021: $151.8M, 2020: $131.0M"
+            },
+            {
+              "key": "Capital Expenditures as % of Sales",
+              "value": "2022: 2.5%, 2021: 3.6%, 2020: 3.2%"
+            },
+            {
+              "key": "Delays due to Labor and Supply Chain Disruptions",
+              "value": "Multiple projects from 2022 expected to complete in 2023"
+            },
+            {
+              "key": "Dividends Paid",
+              "value": "2022: $35.0M, 2021: $33.6M, 2020: $33.4M"
+            },
+            {
+              "key": "Quarterly Dividend Adjustments",
+              "value": "In Q4 2022 increased from 32 to 34 cents per share; prior increase in Q4 2021 from 31 to 32 cents per share"
+            },
+            {
+              "key": "Operating Leases Payment Schedule",
+              "value": "Total: $208,567K; <1 year: $48,090K; 1-3 years: $77,954K; 3-5 years: $45,846K; >5 years: $36,677K"
+            },
+            {
+              "key": "Off-Balance Sheet Arrangements",
+              "value": "The Company is not a party to any off-balance sheet arrangements impacting financial condition or cash flows"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 21,
+          "title": "Critical Accounting Policies and Estimates",
+          "data": [
+            {
+              "key": "Section",
+              "value": "Management's Discussion and Analysis of Financial Condition and Results of Operations (continued)"
+            },
+            {
+              "key": "Content Summary",
+              "value": "The document outlines critical accounting policies and estimates, including methods for valuing inventories (retail inventory and average cost methods, LIFO for center store and pharmacy, average cost for fresh inventories), recording allowances for inventory shortages, vendor allowances, and income tax estimations. It emphasizes the use of consistent accounting policies and the importance of management judgment, with estimates based on historical factors and periodic evaluations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 24,
+          "title": "Balance Sheet Assets and Liabilities",
+          "data": [
+            {
+              "key": "Current Assets - Cash and cash equivalents",
+              "value": "2022: 157997, 2021: 86048"
+            },
+            {
+              "key": "Current Assets - Marketable securities",
+              "value": "2022: 186419, 2021: 205744"
+            },
+            {
+              "key": "Current Assets - SERP investment",
+              "value": "2022: 22696, 2021: 27059"
+            },
+            {
+              "key": "Current Assets - Accounts receivable, net",
+              "value": "2022: 50863, 2021: 52108"
+            },
+            {
+              "key": "Current Assets - Inventories",
+              "value": "2022: 293274, 2021: 269587"
+            },
+            {
+              "key": "Current Assets - Prepaid expenses and other current assets",
+              "value": "2022: 29921, 2021: 31112"
+            },
+            {
+              "key": "Total Assets - Total current assets",
+              "value": "2022: 741170, 2021: 671658"
+            },
+            {
+              "key": "Non-Current Assets - Property and equipment, net",
+              "value": "2022: 970913, 2021: 977787"
+            },
+            {
+              "key": "Non-Current Assets - Operating lease right-to-use",
+              "value": "2022: 175952, 2021: 191175"
+            },
+            {
+              "key": "Non-Current Assets - Goodwill",
+              "value": "2022: 52330, 2021: 52330"
+            },
+            {
+              "key": "Total Assets - Total assets",
+              "value": "2022: 1959150, 2021: 1910475"
+            },
+            {
+              "key": "Current Liabilities - Accounts payable",
+              "value": "2022: 206849, 2021: 218774"
+            },
+            {
+              "key": "Total Liabilities - Total liabilities",
+              "value": "2022: 657316, 2021: 690733"
+            },
+            {
+              "key": "Shareholders' Equity - Total shareholders' equity",
+              "value": "2022: 1301834, 2021: 1219742"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents a balance sheet comparing financial positions between December 31, 2022 and December 25, 2021 (amounts in thousands). Total assets increased from $1.91B to $1.96B, while total liabilities decreased from $690.7M to $657.3M. Shareholders' equity grew from $1.22B to $1.30B. Notable changes include an 83.6% increase in cash and cash equivalents from $86M to $158M, and a slight decrease in property and equipment. The company maintains a strong financial position with significant shareholders' equity representing about 66% of total assets."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 25,
+          "title": "Financial Statement for Fiscal Years Ended December 31, 2022, December 25, 2021 and December 26, 2020",
+          "data": [
+            {
+              "key": "Net sales",
+              "value": "2022: 4695943, 2021: 4224417, 2020: 4112601"
+            },
+            {
+              "key": "Cost of sales, including advertising, warehousing and distribution expenses",
+              "value": "2022: 3514029, 2021: 3108710, 2020: 3012167"
+            },
+            {
+              "key": "Gross profit on sales",
+              "value": "2022: 1181914, 2021: 1115707, 2020: 1100434"
+            },
+            {
+              "key": "Operating, general and administrative expenses",
+              "value": "2022: 1024862, 2021: 968996, 2020: 937256"
+            },
+            {
+              "key": "Income from operations",
+              "value": "2022: 157052, 2021: 146711, 2020: 163178"
+            },
+            {
+              "key": "Investment income (loss) and interest expense",
+              "value": "2022: -82, 2021: 5007, 2020: 3817"
+            },
+            {
+              "key": "Other income (expense)",
+              "value": "2022: 3807, 2021: -6411, 2020: 68310"
+            },
+            {
+              "key": "Income before provision for income taxes",
+              "value": "2022: 160777, 2021: 148307, 2020: 163676"
+            },
+            {
+              "key": "Provision for income taxes",
+              "value": "2022: 35581, 2021: 39458, 2020: 44762"
+            },
+            {
+              "key": "Net income",
+              "value": "2022: 125196, 2021: 108849, 2020: 118917"
+            },
+            {
+              "key": "Weighted-average shares outstanding, basic and diluted",
+              "value": "2022: 26898443, 2021: 26898443, 2020: 26898442"
+            },
+            {
+              "key": "Cash dividends per share",
+              "value": "2022: 1.30, 2021: 1.25, 2020: 1.20"
+            },
+            {
+              "key": "Basic and diluted earnings per share",
+              "value": "2022: 4.65, 2021: 4.05, 2020: 4.42"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 26,
+          "title": "Comprehensive Income Statement for Fiscal Years 2020-2022",
+          "data": [
+            {
+              "key": "2022 (53 weeks) - Net Income",
+              "value": "125196"
+            },
+            {
+              "key": "2022 (53 weeks) - Unrealized Gains/Losses",
+              "value": "-8135"
+            },
+            {
+              "key": "2022 (53 weeks) - Comprehensive Income",
+              "value": "117061"
+            },
+            {
+              "key": "2021 (52 weeks) - Net Income",
+              "value": "108849"
+            },
+            {
+              "key": "2021 (52 weeks) - Unrealized Gains/Losses",
+              "value": "-1599"
+            },
+            {
+              "key": "2021 (52 weeks) - Comprehensive Income",
+              "value": "107250"
+            },
+            {
+              "key": "2020 (52 weeks) - Net Income",
+              "value": "118917"
+            },
+            {
+              "key": "2020 (52 weeks) - Unrealized Gains/Losses",
+              "value": "1806"
+            },
+            {
+              "key": "2020 (52 weeks) - Comprehensive Income",
+              "value": "120723"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents comprehensive income data for three fiscal years (2020-2022). In 2022, net income increased to 125196 with significant unrealized losses (-8135), resulting in total comprehensive income of 117061. In 2021, net income was 108849 with smaller losses (-1599) yielding 107250 comprehensive income, while 2020 uniquely showed a positive unrealized gain (1806) with net income of 118917 and comprehensive income of 120723. The trend indicates increasing net income alongside deteriorating performance in marketable securities investments."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 27,
+          "title": "Shareholders' Equity Statement",
+          "data": [
+            {
+              "key": "Balance at December 28, 2019",
+              "value": "Total shareholders' equity: 1,058,745"
+            },
+            {
+              "key": "FY2020 Changes",
+              "value": "Net income: 118,917, Other comprehensive income: 1,806, Dividends paid: (33,354)"
+            },
+            {
+              "key": "Balance at December 26, 2020",
+              "value": "Total shareholders' equity: 1,146,115"
+            },
+            {
+              "key": "FY2021 Changes",
+              "value": "Net income: 108,849, Other comprehensive income: (1,599), Dividends paid: (33,623)"
+            },
+            {
+              "key": "Balance at December 25, 2021",
+              "value": "Total shareholders' equity: 1,219,742"
+            },
+            {
+              "key": "FY2022 Changes",
+              "value": "Net income: 125,196, Other comprehensive income: (8,135), Dividends paid: (34,968)"
+            },
+            {
+              "key": "Balance at December 31, 2022",
+              "value": "Total shareholders' equity: 1,301,834"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 30,
+          "title": "Summary of Significant Accounting Policies - Marketable Securities, Accounts Receivable, Inventories, Property and Equipment",
+          "data": [
+            {
+              "key": "Marketable Securities Total Amount 2022",
+              "value": "186.4 million"
+            },
+            {
+              "key": "Marketable Securities Total Amount 2021",
+              "value": "205.7 million"
+            },
+            {
+              "key": "Unrealized Loss 2022",
+              "value": "1.3 million"
+            },
+            {
+              "key": "Unrealized Loss 2021",
+              "value": "900 thousand"
+            },
+            {
+              "key": "Accounts Receivable Allowance 2022",
+              "value": "4.6 million"
+            },
+            {
+              "key": "Accounts Receivable Allowance 2021",
+              "value": "3.4 million"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Marketable Securities",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Level 1 - Equity securities"
+            },
+            {
+              "key": "Fair Value",
+              "value": "$5,185,000"
+            },
+            {
+              "key": "Category",
+              "value": "Level 2 - Corporate and municipal bonds"
+            },
+            {
+              "key": "Amortized Cost",
+              "value": "$190,025,000"
+            },
+            {
+              "key": "Unrealized Gains",
+              "value": "$2,110,000"
+            },
+            {
+              "key": "Unrealized Losses",
+              "value": "($10,901,000)"
+            },
+            {
+              "key": "Fair Value",
+              "value": "$181,234,000"
+            },
+            {
+              "key": "Total Fair Value",
+              "value": "$186,419,000"
+            },
+            {
+              "key": "Summary",
+              "value": "The total portfolio indicates a net unrealized loss primarily driven by Level 2 securities."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Available-for-sale Securities as of December 25, 2021",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Level 1 - Equity securities"
+            },
+            {
+              "key": "Fair Value",
+              "value": "$6,509,000"
+            },
+            {
+              "key": "Category",
+              "value": "Level 2 - Corporate and municipal bonds"
+            },
+            {
+              "key": "Amortized Cost",
+              "value": "$151,947,000"
+            },
+            {
+              "key": "Unrealized Gains",
+              "value": "$4,753,000"
+            },
+            {
+              "key": "Unrealized Losses",
+              "value": "($2,384,000)"
+            },
+            {
+              "key": "Fair Value",
+              "value": "$154,315,000"
+            },
+            {
+              "key": "Category",
+              "value": "Level 2 - Commercial paper"
+            },
+            {
+              "key": "Amortized Cost",
+              "value": "$44,931,000"
+            },
+            {
+              "key": "Unrealized Gains",
+              "value": "$2,000"
+            },
+            {
+              "key": "Unrealized Losses",
+              "value": "($13,000)"
+            },
+            {
+              "key": "Fair Value",
+              "value": "$44,920,000"
+            },
+            {
+              "key": "Total Amortized Cost",
+              "value": "$196,878,000"
+            },
+            {
+              "key": "Total Unrealized Gains",
+              "value": "$4,755,000"
+            },
+            {
+              "key": "Total Unrealized Losses",
+              "value": "($2,397,000)"
+            },
+            {
+              "key": "Total Fair Value",
+              "value": "$205,744,000"
+            },
+            {
+              "key": "Summary",
+              "value": "Level 2 securities, primarily corporate bonds, contribute to the majority of the portfolio value."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Available-for-sale Securities Maturity Schedule",
+          "data": [
+            {
+              "key": "Maturity Schedule Summary",
+              "value": "The table shows the maturity schedule for available-for-sale securities as of December 31, 2022. The total portfolio has an amortized cost of 190,025 (in thousands) and a fair value of 181,234 (in thousands), indicating an unrealized loss. The majority (45%) of the securities mature between one and five years with an amortized cost of 86,011."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "SERP Investments and Investment Income/Loss",
+          "data": [
+            {
+              "key": "SERP Investments Classification",
+              "value": "Reported as trading securities measured at fair value using Level 1 inputs. Gains and losses are included in Investment income and interest expense."
+            },
+            {
+              "key": "Investment Loss FY 2022",
+              "value": "3.8 million"
+            },
+            {
+              "key": "Investment Income FY 2021",
+              "value": "3.4 million"
+            },
+            {
+              "key": "Investment Income FY 2020",
+              "value": "3.3 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Inventory Valuation Methods Comparison",
+          "data": [
+            {
+              "key": "LIFO Inventory (Dec 31, 2022)",
+              "value": "192,984 (in thousands)"
+            },
+            {
+              "key": "LIFO Inventory (Dec 25, 2021)",
+              "value": "178,520 (in thousands)"
+            },
+            {
+              "key": "Average Cost Inventory (Dec 31, 2022)",
+              "value": "100,290 (in thousands)"
+            },
+            {
+              "key": "Average Cost Inventory (Dec 25, 2021)",
+              "value": "91,067 (in thousands)"
+            },
+            {
+              "key": "Total Inventory (LIFO, Dec 31, 2022)",
+              "value": "293,274 (in thousands)"
+            },
+            {
+              "key": "Total Inventory (LIFO, Dec 25, 2021)",
+              "value": "269,587 (in thousands)"
+            },
+            {
+              "key": "Impact if Valued at Average Cost",
+              "value": "Total inventories would have been approximately $103.6 million higher in 2022 and $74.5 million higher in 2021"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Property, Plant and Equipment Summary",
+          "data": [
+            {
+              "key": "Land (Dec 31, 2022)",
+              "value": "137,132 (in thousands)"
+            },
+            {
+              "key": "Buildings and Improvements (Dec 31, 2022)",
+              "value": "828,407 (in thousands)"
+            },
+            {
+              "key": "Equipment (Dec 31, 2022)",
+              "value": "1,313,676 (in thousands)"
+            },
+            {
+              "key": "Leasehold Improvements (Dec 31, 2022)",
+              "value": "233,300 (in thousands)"
+            },
+            {
+              "key": "Total at Cost (Dec 31, 2022)",
+              "value": "2,512,515 (in thousands)"
+            },
+            {
+              "key": "Less: Accumulated Depreciation (Dec 31, 2022)",
+              "value": "1,541,602 (in thousands)"
+            },
+            {
+              "key": "Net PP&E (Dec 31, 2022)",
+              "value": "970,913 (in thousands)"
+            },
+            {
+              "key": "Total at Cost (Dec 25, 2021)",
+              "value": "2,421,140 (in thousands)"
+            },
+            {
+              "key": "Less: Accumulated Depreciation (Dec 25, 2021)",
+              "value": "1,443,353 (in thousands)"
+            },
+            {
+              "key": "Net PP&E (Dec 25, 2021)",
+              "value": "977,787 (in thousands)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "WEIS MARKETS, INC. Note 5 Lease Commitments",
+          "data": [
+            {
+              "key": "Lease Cost Analysis Title",
+              "value": "Lease Cost Analysis (amounts in thousands)"
+            },
+            {
+              "key": "Operating lease cost 2022",
+              "value": "48289"
+            },
+            {
+              "key": "Operating lease cost 2021",
+              "value": "45435"
+            },
+            {
+              "key": "Variable lease cost 2022",
+              "value": "11221"
+            },
+            {
+              "key": "Variable lease cost 2021",
+              "value": "10875"
+            },
+            {
+              "key": "Lease or sublease income 2022",
+              "value": "-9744"
+            },
+            {
+              "key": "Lease or sublease income 2021",
+              "value": "-10055"
+            },
+            {
+              "key": "Net lease cost 2022",
+              "value": "49766"
+            },
+            {
+              "key": "Net lease cost 2021",
+              "value": "46255"
+            },
+            {
+              "key": "Future Minimum Rental Payments 2023",
+              "value": "48090"
+            },
+            {
+              "key": "Other Adjustments 2023",
+              "value": "-4363"
+            },
+            {
+              "key": "Future Minimum Rental Payments 2024",
+              "value": "42838"
+            },
+            {
+              "key": "Other Adjustments 2024",
+              "value": "-3504"
+            },
+            {
+              "key": "Future Minimum Rental Payments 2025",
+              "value": "35116"
+            },
+            {
+              "key": "Other Adjustments 2025",
+              "value": "-2925"
+            },
+            {
+              "key": "Future Minimum Rental Payments 2026",
+              "value": "26841"
+            },
+            {
+              "key": "Other Adjustments 2026",
+              "value": "-2166"
+            },
+            {
+              "key": "Future Minimum Rental Payments 2027",
+              "value": "19005"
+            },
+            {
+              "key": "Other Adjustments 2027",
+              "value": "-1721"
+            },
+            {
+              "key": "Future Minimum Rental Payments Thereafter",
+              "value": "36677"
+            },
+            {
+              "key": "Other Adjustments Thereafter",
+              "value": "-4902"
+            },
+            {
+              "key": "Total Lease Payments",
+              "value": "208567"
+            },
+            {
+              "key": "Less: Interest",
+              "value": "22616"
+            },
+            {
+              "key": "Present Value of Lease Liabilities",
+              "value": "185951"
+            },
+            {
+              "key": "Weighted-average remaining lease term (as of Dec 31, 2022)",
+              "value": "4.06"
+            },
+            {
+              "key": "Weighted-average discount rate (as of Dec 31, 2022)",
+              "value": "3.36%"
+            },
+            {
+              "key": "Cash paid for operating lease liabilities (Dec 31, 2022)",
+              "value": "48744"
+            },
+            {
+              "key": "Right-of-use assets obtained (Dec 31, 2022)",
+              "value": "27364"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Retirement Plans and Revenue Recognition",
+          "data": [
+            {
+              "key": "Company",
+              "value": "WEIS MARKETS, INC."
+            },
+            {
+              "key": "RetirementPlans_NoteTitle",
+              "value": "Note 6 Retirement Plans"
+            },
+            {
+              "key": "RetirementPlans_Description",
+              "value": "Schedule of retirement plan costs for fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020. Includes Retirement savings plan, Profit Sharing, Deferred compensation plan, Supplemental executive retirement plan and Totals."
+            },
+            {
+              "key": "RetirementPlans_RetirementSavingsPlan_2022",
+              "value": "5155"
+            },
+            {
+              "key": "RetirementPlans_RetirementSavingsPlan_2021",
+              "value": "3692"
+            },
+            {
+              "key": "RetirementPlans_RetirementSavingsPlan_2020",
+              "value": "2249"
+            },
+            {
+              "key": "RetirementPlans_ProfitSharing_2021",
+              "value": "2450"
+            },
+            {
+              "key": "RetirementPlans_ProfitSharing_2020",
+              "value": "2700"
+            },
+            {
+              "key": "RetirementPlans_DeferredCompensationPlan_2022",
+              "value": "815"
+            },
+            {
+              "key": "RetirementPlans_DeferredCompensationPlan_2021",
+              "value": "810"
+            },
+            {
+              "key": "RetirementPlans_DeferredCompensationPlan_2020",
+              "value": "806"
+            },
+            {
+              "key": "RetirementPlans_SupplementalExecutiveRetirementPlan_2022",
+              "value": "709"
+            },
+            {
+              "key": "RetirementPlans_SupplementalExecutiveRetirementPlan_2021",
+              "value": "703"
+            },
+            {
+              "key": "RetirementPlans_SupplementalExecutiveRetirementPlan_2020",
+              "value": "463"
+            },
+            {
+              "key": "RetirementPlans_Total_2022",
+              "value": "6679"
+            },
+            {
+              "key": "RetirementPlans_Total_2021",
+              "value": "7655"
+            },
+            {
+              "key": "RetirementPlans_Total_2020",
+              "value": "6218"
+            },
+            {
+              "key": "RevenueRecognition_NoteTitle",
+              "value": "Note 7 Revenue Recognition"
+            },
+            {
+              "key": "RevenueRecognition_Description",
+              "value": "Net sales by product category for years ending December 31, 2022, December 25, 2021 and December 26, 2020. Sales distribution is provided by Grocery, Pharmacy, Fuel, and Manufacturing segments, with total net sales figures reported."
+            },
+            {
+              "key": "RevenueRecognition_SalesDistribution_Grocery_2022",
+              "value": "3978397"
+            },
+            {
+              "key": "RevenueRecognition_SalesDistribution_Grocery_2021",
+              "value": "3633023"
+            },
+            {
+              "key": "RevenueRecognition_SalesDistribution_Grocery_2020",
+              "value": "3627898"
+            },
+            {
+              "key": "RevenueRecognition_SalesDistribution_Pharmacy_2022",
+              "value": "441840"
+            },
+            {
+              "key": "RevenueRecognition_SalesDistribution_Pharmacy_2021",
+              "value": "399128"
+            },
+            {
+              "key": "RevenueRecognition_SalesDistribution_Pharmacy_2020",
+              "value": "356630"
+            },
+            {
+              "key": "RevenueRecognition_SalesDistribution_Fuel_2022",
+              "value": "263265"
+            },
+            {
+              "key": "RevenueRecognition_SalesDistribution_Fuel_2021",
+              "value": "183631"
+            },
+            {
+              "key": "RevenueRecognition_SalesDistribution_Fuel_2020",
+              "value": "117800"
+            },
+            {
+              "key": "RevenueRecognition_SalesDistribution_Manufacturing_2022",
+              "value": "12441"
+            },
+            {
+              "key": "RevenueRecognition_SalesDistribution_Manufacturing_2021",
+              "value": "8635"
+            },
+            {
+              "key": "RevenueRecognition_SalesDistribution_Manufacturing_2020",
+              "value": "10273"
+            },
+            {
+              "key": "RevenueRecognition_TotalNetSales_2022",
+              "value": "4695943"
+            },
+            {
+              "key": "RevenueRecognition_TotalNetSales_2021",
+              "value": "4224417"
+            },
+            {
+              "key": "RevenueRecognition_TotalNetSales_2020",
+              "value": "4112601"
+            },
+            {
+              "key": "RevenueRecognition_GroceryPercentage_2020",
+              "value": "88.2%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Accumulated Other Comprehensive Income (Loss) Statement",
+          "data": [
+            {
+              "key": "Accumulated other comprehensive income (loss) balance as of December 26, 2020",
+              "value": "3,286"
+            },
+            {
+              "key": "Other comprehensive income (loss)",
+              "value": "-1,599"
+            },
+            {
+              "key": "Net current period other comprehensive income (loss)",
+              "value": "-1,599"
+            },
+            {
+              "key": "Accumulated other comprehensive income (loss) balance as of December 25, 2021",
+              "value": "1,687"
+            },
+            {
+              "key": "Other comprehensive income (loss)",
+              "value": "-8,135"
+            },
+            {
+              "key": "Net current period other comprehensive income (loss)",
+              "value": "-8,135"
+            },
+            {
+              "key": "Accumulated other comprehensive income (loss) balance as of December 31, 2022",
+              "value": "-6,449"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Tax Breakdown by Year (amounts in thousands)",
+          "data": [
+            {
+              "key": "Federal Current (2022)",
+              "value": "28536"
+            },
+            {
+              "key": "Federal Current (2021)",
+              "value": "20771"
+            },
+            {
+              "key": "Federal Current (2020)",
+              "value": "29121"
+            },
+            {
+              "key": "State Current (2022)",
+              "value": "7896"
+            },
+            {
+              "key": "State Current (2021)",
+              "value": "6374"
+            },
+            {
+              "key": "State Current (2020)",
+              "value": "9984"
+            },
+            {
+              "key": "Federal Deferred (2022)",
+              "value": "3191"
+            },
+            {
+              "key": "Federal Deferred (2021)",
+              "value": "8074"
+            },
+            {
+              "key": "Federal Deferred (2020)",
+              "value": "4090"
+            },
+            {
+              "key": "State Deferred (2022)",
+              "value": "-4042"
+            },
+            {
+              "key": "State Deferred (2021)",
+              "value": "4239"
+            },
+            {
+              "key": "State Deferred (2020)",
+              "value": "1567"
+            },
+            {
+              "key": "Total (2022)",
+              "value": "35581"
+            },
+            {
+              "key": "Total (2021)",
+              "value": "39458"
+            },
+            {
+              "key": "Total (2020)",
+              "value": "44762"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Income Tax Components Analysis",
+          "data": [
+            {
+              "key": "Income taxes at federal statutory rate (2022)",
+              "value": "33763"
+            },
+            {
+              "key": "Income taxes at federal statutory rate (2021)",
+              "value": "31144"
+            },
+            {
+              "key": "Income taxes at federal statutory rate (2020)",
+              "value": "34373"
+            },
+            {
+              "key": "State income taxes, net of federal income tax benefit (2022)",
+              "value": "4700"
+            },
+            {
+              "key": "State income taxes, net of federal income tax benefit (2021)",
+              "value": "6207"
+            },
+            {
+              "key": "State income taxes, net of federal income tax benefit (2020)",
+              "value": "7261"
+            },
+            {
+              "key": "Nondeductible employee-related expenses (2022)",
+              "value": "2235"
+            },
+            {
+              "key": "Nondeductible employee-related expenses (2021)",
+              "value": "2530"
+            },
+            {
+              "key": "Nondeductible employee-related expenses (2020)",
+              "value": "2223"
+            },
+            {
+              "key": "State deferred rate change (2022)",
+              "value": "-5462"
+            },
+            {
+              "key": "State deferred rate change (2021)",
+              "value": "0"
+            },
+            {
+              "key": "State deferred rate change (2020)",
+              "value": "0"
+            },
+            {
+              "key": "Other (2022)",
+              "value": "345"
+            },
+            {
+              "key": "Other (2021)",
+              "value": "-423"
+            },
+            {
+              "key": "Other (2020)",
+              "value": "905"
+            },
+            {
+              "key": "Provision for income taxes (2022)",
+              "value": "35581"
+            },
+            {
+              "key": "Provision for income taxes (2021)",
+              "value": "39458"
+            },
+            {
+              "key": "Provision for income taxes (2020)",
+              "value": "44762"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Note 9 Income Taxes (continued)",
+          "data": [
+            {
+              "key": "Deferred Tax Assets (current period)",
+              "value": "31183 (in thousands)"
+            },
+            {
+              "key": "Deferred Tax Assets (previous period)",
+              "value": "34710 (in thousands)"
+            },
+            {
+              "key": "Deferred Tax Liabilities (current period)",
+              "value": "-142408 (in thousands)"
+            },
+            {
+              "key": "Deferred Tax Liabilities (previous period)",
+              "value": "-149806 (in thousands)"
+            },
+            {
+              "key": "Net Deferred Tax Liability (current period)",
+              "value": "-111225 (in thousands)"
+            },
+            {
+              "key": "Net Deferred Tax Liability (previous period)",
+              "value": "-115087 (in thousands)"
+            },
+            {
+              "key": "Unrecognized Tax Benefits at Beginning of Year",
+              "value": "10036 (in thousands)"
+            },
+            {
+              "key": "Unrecognized Tax Benefits - Increase from Current Year Positions",
+              "value": "2376 (in thousands)"
+            },
+            {
+              "key": "Unrecognized Tax Benefits - Additions for Prior Year Positions",
+              "value": "1249 (in thousands)"
+            },
+            {
+              "key": "Unrecognized Tax Benefits at End of Year",
+              "value": "13661 (in thousands)"
+            },
+            {
+              "key": "Potential Impact on Effective Tax Rate (2022)",
+              "value": "$3.6 million"
+            },
+            {
+              "key": "Potential Impact on Effective Tax Rate (2021)",
+              "value": "$1.7 million"
+            },
+            {
+              "key": "Potential Impact on Effective Tax Rate (2020)",
+              "value": "$1.7 million"
+            },
+            {
+              "key": "Additional Tax Information",
+              "value": "Tax years examined in the U.S. and Pennsylvania are 2016 to 2022; net operating loss carryforwards of $46 million available, expiring starting in 2027"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "WEIS MARKETS, INC. REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+          "data": [
+            {
+              "key": "Audit Opinion",
+              "value": "In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and December 25, 2021."
+            },
+            {
+              "key": "Scope of Audit",
+              "value": "The audit covered the consolidated balance sheets, statements of income, comprehensive income, shareholders’ equity, cash flows, and related notes for the periods ending December 31, 2022, December 25, 2021, and December 26, 2020."
+            },
+            {
+              "key": "Internal Control",
+              "value": "The audit also addressed the Company's internal control over financial reporting as of December 31, 2022, with an unqualified opinion on its effectiveness provided."
+            },
+            {
+              "key": "Critical Audit Matters",
+              "value": "Critical audit matters include the evaluation of the Company’s provision for state income taxes and the assessment of state tax positions, which involved complex judgments and increased audit efforts."
+            },
+            {
+              "key": "Audit Standards",
+              "value": "The audits were conducted in accordance with the standards of the Public Company Accounting Oversight Board (PCAOB) and the Internal Control — Integrated Framework."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "Аудиторские процедуры по оценке провизии по государственному налогу и розничного инвентаря",
+          "data": [
+            {
+              "key": "Company",
+              "value": "WEIS MARKETS, INC."
+            },
+            {
+              "key": "Audit Focus",
+              "value": "Процедуры аудита, связанные с провизией по государственному подоходному налогу и оценкой позиций по налогам, а также методикой розничного инвентаря (RIM с использованием метода LIFO)"
+            },
+            {
+              "key": "Control Testing",
+              "value": "Оценка и тестирование контроля за определением текущих и отсроченных налогов, данных и ключевых входных параметров в расчетах эффективной ставки налога, а также автоматизированных процессов и ИТ-систем, задействованных в учете инвентаря"
+            },
+            {
+              "key": "Critical Audit Matter",
+              "value": "Аудит оценок розничного инвентаря по методу RIM признан критически важным из-за его зависимости от многочисленных источников данных и необходимости привлечения опытных аудиторских и ИТ-специалистов"
+            },
+            {
+              "key": "Audit Firm",
+              "value": "RSM US LLP"
+            },
+            {
+              "key": "Audit Engagement",
+              "value": "С 2016 года"
+            },
+            {
+              "key": "Report Date",
+              "value": "March 1, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "WEIS MARKETS, INC. REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Weis Markets, Inc."
+            },
+            {
+              "key": "Report Type",
+              "value": "Independent Audit Report on Internal Control Over Financial Reporting and Consolidated Financial Statements"
+            },
+            {
+              "key": "Internal Control Date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "Unqualified opinion – effective internal control over financial reporting maintained in all material respects"
+            },
+            {
+              "key": "Reporting Periods",
+              "value": "Balance sheets as of December 31, 2022 and December 25, 2021; Income and other statements for the 53-week period ended December 31, 2022 and 52-week periods ended December 25, 2021 and December 26, 2020"
+            },
+            {
+              "key": "Audit Criteria",
+              "value": "Internal Control – Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013)"
+            },
+            {
+              "key": "Audit Standards",
+              "value": "Conducted in accordance with PCAOB standards"
+            },
+            {
+              "key": "Audit Firm",
+              "value": "RSM US LLP"
+            },
+            {
+              "key": "Report Date",
+              "value": "March 1, 2023"
+            },
+            {
+              "key": "Legal and Regulatory Context",
+              "value": "Audit performed under U.S. federal securities laws and SEC regulations"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Item 9 - Changes in and Disagreements with Accountants; Internal Controls and Procedures",
+          "data": [
+            {
+              "key": "Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+              "value": "None"
+            },
+            {
+              "key": "Management’s Report on Disclosure Controls and Procedures",
+              "value": "The CEO and CFO evaluated that the Company's disclosure controls and procedures are effective, ensuring timely recording, processing, summarization, and reporting of required disclosures under the Securities Exchange Act of 1934."
+            },
+            {
+              "key": "Management’s Report on Internal Control Over Financial Reporting",
+              "value": "Management, under the supervision of the CEO and CFO, conducted an evaluation based on the COSO framework (2013) and concluded that internal control over financial reporting was effective as of December 31, 2022. RSM US LLP audited the consolidated financial statements and issued their attestation report."
+            },
+            {
+              "key": "Changes in Internal Control Over Financial Reporting",
+              "value": "There were no changes during the fiscal year ended December 31, 2022 that materially affected the internal control over financial reporting."
+            },
+            {
+              "key": "Other Information (Item 9b)",
+              "value": "There was no information required on Form 8-K during this quarter that was not reported."
+            },
+            {
+              "key": "Disclosure Regarding Foreign Jurisdictions that Prevent Inspections (Item 9c)",
+              "value": "None"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Allowance for Uncollectible Accounts - Year-End Summary",
+          "data": [
+            {
+              "key": "2022 - Beginning Balance",
+              "value": "3451"
+            },
+            {
+              "key": "2022 - Charged to Costs",
+              "value": "2489"
+            },
+            {
+              "key": "2022 - Charged to Accounts",
+              "value": "0"
+            },
+            {
+              "key": "2022 - Deductions",
+              "value": "1363"
+            },
+            {
+              "key": "2022 - Ending Balance",
+              "value": "4577"
+            },
+            {
+              "key": "2021 - Beginning Balance",
+              "value": "2427"
+            },
+            {
+              "key": "2021 - Charged to Costs",
+              "value": "2986"
+            },
+            {
+              "key": "2021 - Charged to Accounts",
+              "value": "0"
+            },
+            {
+              "key": "2021 - Deductions",
+              "value": "1962"
+            },
+            {
+              "key": "2021 - Ending Balance",
+              "value": "3451"
+            },
+            {
+              "key": "2020 - Beginning Balance",
+              "value": "2757"
+            },
+            {
+              "key": "2020 - Charged to Costs",
+              "value": "1556"
+            },
+            {
+              "key": "2020 - Charged to Accounts",
+              "value": "0"
+            },
+            {
+              "key": "2020 - Deductions",
+              "value": "1886"
+            },
+            {
+              "key": "2020 - Ending Balance",
+              "value": "2427"
+            },
+            {
+              "key": "Summary",
+              "value": "The table presents the allowance for uncollectible accounts for fiscal years 2020-2022. The ending balance has shown an upward trend from 2427 in 2020 to 4577 in 2022, with charges to costs and deductions provided for each year, and no amounts charged to accounts."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "DEI Information / Cover Page",
+          "data": [
+            {
+              "key": "Entity Central Index Key",
+              "value": "0000105418"
+            },
+            {
+              "key": "Document Fiscal Period Focus",
+              "value": "FY"
+            },
+            {
+              "key": "Amendment Flag Amendment Description",
+              "value": "False"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": false,
+      "elements": []
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 6,
+          "title": "Business and Risk Factors",
+          "data": [
+            {
+              "key": "Corporate Governance Materials",
+              "value": "The Company’s Corporate Governance materials, including Corporate Governance Guidelines, Audit, Compensation and Disclosure Committee Charters, and Codes of Ethics, are available on the 'Governance' page of its website and by written request."
+            },
+            {
+              "key": "Competitive Risks",
+              "value": "The industry is highly competitive with intense price competition, online retail growth, aggressive expansion, entry of non-traditional competitors, market consolidation, and fragmentation in retail formats, which may force the Company to reduce prices and affect sales and gross margins."
+            },
+            {
+              "key": "Food Safety Risks",
+              "value": "Food safety issues could lead to a loss of consumer confidence, potentially reducing customer demand and adversely impacting the Company's operations."
+            },
+            {
+              "key": "Management Retention Risks",
+              "value": "The loss of key senior management personnel could delay or hinder the Company’s ability to implement its business plans effectively."
+            },
+            {
+              "key": "Capital Investment Risks",
+              "value": "Failure to execute expansion plans, including investments in stores, distribution, manufacturing projects, IT, and equipment, as well as unforeseen expenses and delays, may adversely affect the Company's results and operational benefits."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 7,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Investment and Market Risk",
+              "value": "The Company’s investment portfolio—which includes corporate and municipal bonds, commercial paper, and equity securities—is exposed to changes in market interest rates, credit, liquidity, and market risks. Such risks may lead to a reduction in value or loss of liquidity, adversely affecting operations and financial results."
+            },
+            {
+              "key": "Self-Insurance and Liability Risk",
+              "value": "Unexpected factors impacting self-insurance claims, reserve estimates, inflation, litigation trends, legal interpretations, benefit adjustments and claim settlement patterns could lead to significant variability and negatively impact the Company's financial condition."
+            },
+            {
+              "key": "Information Security and Cybersecurity Risk",
+              "value": "Disruptions or breaches in the Company’s complex information technology systems may result in loss of valuable proprietary and personal data, leading to operational disruptions, reputational damage, potential litigation, and financial penalties."
+            },
+            {
+              "key": "Supply Chain and Third-Party Risk",
+              "value": "The Company faces risks from rising operating costs including wage increases, oil price fluctuations, union-related disruptions, and changes in vendor promotion practices, each potentially impacting margins and overall profitability."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 8,
+          "title": "Risk Factors: Legal, Regulatory and Other External Risks",
+          "data": [
+            {
+              "key": "Trade Area Location",
+              "value": "The Company operates in regions with varying economic, social, and climate conditions, with stores concentrated in central and northeast Pennsylvania, central Maryland, suburban Washington, DC, Baltimore, and New York’s Southern Tier."
+            },
+            {
+              "key": "Economic and Social Variables",
+              "value": "Fluctuations in inflation, changes in population, employment, job growth, and government benefits (e.g., SNAP/EBT or child care credits) affect customer shopping habits."
+            },
+            {
+              "key": "Weather and Catastrophic Events",
+              "value": "Extreme annual snowfall variance in geographic regions may materially impact sales and expenses."
+            },
+            {
+              "key": "Regulatory Compliance",
+              "value": "Subject to extensive federal, state, and local laws (health, sanitation, food labeling, equal employment opportunity, minimum wages, licensing) which might necessitate additional capital expenditures and operational adjustments."
+            },
+            {
+              "key": "Tax Law Changes",
+              "value": "Changes in tax laws could lead to a higher income tax rate and an increase in the Company's future effective tax rate."
+            },
+            {
+              "key": "Corporate Control",
+              "value": "The Weis family controls approximately 65% of the combined voting power of the Company's common stock, influencing director elections and major corporate decisions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 9,
+          "title": "Risk Factors (continued)",
+          "data": [
+            {
+              "key": "Pandemic Impact",
+              "value": "The COVID-19 pandemic caused significant volatility, uncertainty, and economic disruption affecting the Company's business, operations, and its supply chain."
+            },
+            {
+              "key": "Employee Risk",
+              "value": "Reduced workforces due to illness, quarantine, or government mandates."
+            },
+            {
+              "key": "Supply Chain Disruption",
+              "value": "Interruption in the supply chain due to the novel coronavirus."
+            },
+            {
+              "key": "Legal Risks",
+              "value": "Potential future litigation and impact from government regulations related to COVID-19."
+            },
+            {
+              "key": "Customer Trends",
+              "value": "Changes in customer procurement methods impacting demand."
+            },
+            {
+              "key": "Cyber Security",
+              "value": "Increased cyber-attacks due to remote work or work-from-home requirements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 22,
+          "title": "Item 7. MD&A: Critical Accounting Policies – Leases, Self-Insurance and Market Risk Disclosures",
+          "data": [
+            {
+              "key": "Leases Description",
+              "value": "The Company leases approximately 49% of its open store facilities under operating leases expiring through 2036. These leases generally have fixed annual rentals with some including variable costs related to real estate taxes, insurance, and contingent rentals based on annual sales or inflation adjustments. Multiple renewal options (5 to 20 years) exist for most leases, and additional leases exist for transportation and equipment."
+            },
+            {
+              "key": "Subleasing",
+              "value": "The Company leases or subleases space to tenants in owned, vacated, and open store facilities, with rental income recorded as part of operating, general and administrative expenses."
+            },
+            {
+              "key": "Self-Insurance",
+              "value": "The Company is self-insured for most workers’ compensation, general liability, vehicle accident, and associate medical benefit claims. Liability estimates use historical data and actuarial methods for claims, including specific details about healthcare claims, stop-loss coverage, and workers’ compensation limits."
+            },
+            {
+              "key": "Forward-Looking Statements & Risk Factors",
+              "value": "The MD&A contains forward-looking statements subject to risks and uncertainties including economic conditions, retail industry business conditions, regulatory environment, technology, competition, and price pressures. Readers are cautioned regarding reliance on these statements."
+            },
+            {
+              "key": "Market Risk - Rate Sensitive Assets Table Summary",
+              "value": "Under Item 7a, the table presents rate sensitive assets with fixed interest rate exposures and average interest rates from 2023 to 2027 and thereafter. The total fixed interest rate assets amount to $182,136,000 with a fair value of $181,234,000 as of December 31, 2022. Average interest rates range from 3.02% to 4.05%, with an overall average of 3.80%."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 23,
+          "title": "WEIS MARKETS, INC. - Other Relevant Market Risks",
+          "data": [
+            {
+              "key": "Equity Securities Fair Value",
+              "value": "$5.2 million as of December 31, 2022"
+            },
+            {
+              "key": "Dividend Yield on Equity Investments",
+              "value": "6.6% in 2022"
+            },
+            {
+              "key": "Market Risk Exposure",
+              "value": "Exposure inherent in fixed interest rate securities and equity investments; deemed not material by the Company"
+            },
+            {
+              "key": "Interest Rate Risk",
+              "value": "Revolving credit agreement exposed to interest rate fluctuations (SOFR rate) but considered not material due to availability of liquid assets"
+            },
+            {
+              "key": "Risk Quantification",
+              "value": "Not quantifiable or predictable with precision due to market volatility"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 29,
+          "title": "Summary of Significant Accounting Policies",
+          "data": [
+            {
+              "key": "business_description",
+              "value": "Weis Markets, Inc. is a Pennsylvania business corporation founded in 1912 and incorporated in 1924, primarily engaged in the retail sale of food in Pennsylvania and surrounding states."
+            },
+            {
+              "key": "fiscal_year_end",
+              "value": "last Saturday in December"
+            },
+            {
+              "key": "fiscal_2022",
+              "value": "comprised of 53 weeks, ending on December 31, 2022"
+            },
+            {
+              "key": "fiscal_2021",
+              "value": "comprised of 52 weeks, ending on December 25, 2021"
+            },
+            {
+              "key": "fiscal_2020",
+              "value": "comprised of 52 weeks, ending on December 26, 2020"
+            },
+            {
+              "key": "consolidation_principles",
+              "value": "The Consolidated Financial Statements include the accounts of the Company and its subsidiaries with all significant intercompany accounts and transactions eliminated."
+            },
+            {
+              "key": "use_of_estimates",
+              "value": "Management estimates and assumptions affect reporting of assets and liabilities, and actual results could differ from these estimates."
+            },
+            {
+              "key": "cash_equivalents",
+              "value": "Cash balances maintained in core checking and money market accounts with investments as cash equivalents totaling $80.5 million as of December 31, 2022, and $692 thousand as of December 25, 2021."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 33,
+          "title": "Summary of Significant Accounting Policies (continued)",
+          "data": [
+            {
+              "key": "Vendor Allowances",
+              "value": "$120.0 million in 2022, $100.1 million in 2021 and $133.5 million in 2020"
+            },
+            {
+              "key": "Vendor paid cooperative advertising credits",
+              "value": "$2.9 million in 2022, $3.4 million in 2021 and $21.7 million in 2020"
+            },
+            {
+              "key": "Accounts receivable due from vendors",
+              "value": "$617 thousand and $585 thousand for earned advertising credits; $3.5 million and $3.6 million for earned promotional discounts as of December 31, 2022 and December 25, 2021, respectively"
+            },
+            {
+              "key": "Unearned income",
+              "value": "$3.3 million and $2.5 million in unearned income included in accrued liabilities as of December 31, 2022 and December 25, 2021, respectively"
+            },
+            {
+              "key": "Advertising expense",
+              "value": "$23.7 million in 2022, $24.9 million in 2021 and $24.5 million in 2020"
+            },
+            {
+              "key": "Commission income from services",
+              "value": "$18.0 million in 2022, $18.9 million in 2021 and $17.7 million in 2020"
+            },
+            {
+              "key": "Current Relevant Accounting Standards",
+              "value": "There are no accounting standard updates that have or will have a material or significant impact on the Company’s accounting policies."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 40,
+          "title": "Notes 11-13: Commitments, Long-Term Debt and COVID-19 Disclosures",
+          "data": [
+            {
+              "key": "Legal Actions",
+              "value": "The Company is involved in various legal actions arising out of the normal course of business."
+            },
+            {
+              "key": "Contingency Accrual",
+              "value": "Contingencies are accrued when it is probable that a liability has been incurred and the amount can be reasonably estimated based on past experience."
+            },
+            {
+              "key": "Credit Agreement",
+              "value": "On September 1, 2016, Weis Markets entered into a revolving credit agreement with Wells Fargo Bank, N.A., amended on September 29, 2021, maturing on September 1, 2024. It provides an unsecured revolving credit facility with an aggregate principal amount not to exceed $30.0 million plus an additional discretionary amount of $70.0 million."
+            },
+            {
+              "key": "Credit Availability",
+              "value": "As of December 31, 2022, the availability under the credit agreement was $25.5 million with $4.5 million of letters of credit outstanding, maintained primarily to support performance, payment, deposit, or surety obligations."
+            },
+            {
+              "key": "Interest Expense",
+              "value": "Interest expense related to long-term debt was $32K in 2022, $32K in 2021, and $35K in 2020."
+            },
+            {
+              "key": "COVID-19 Impact",
+              "value": "The COVID-19 pandemic led to a national state of emergency in March 2020, with the CARES Act enacted on March 27, 2020. This resulted in incremental financial performance and increased uncertainty and risks regarding employees, customers, supply chain, and government regulation."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 5,
+          "title": "WEIS MARKETS ESG and Sustainability Initiatives",
+          "data": [
+            {
+              "key": "Sustainability Strategy",
+              "value": "The Company focuses on a four-pillared strategy: green design, natural resource conservation, food and agricultural impact, and social responsibility."
+            },
+            {
+              "key": "Environmental Goals",
+              "value": "Aims to reduce overall carbon footprint by lowering greenhouse gas emissions and mitigating climate change impact."
+            },
+            {
+              "key": "EPA GreenChill Program",
+              "value": "Member of the program with eighteen stores registered, with plans to expand further."
+            },
+            {
+              "key": "Fleet Modernization",
+              "value": "Since 2016, 100% of the tractor fleet has been replaced with more fuel-efficient and lower-emission models."
+            },
+            {
+              "key": "Waste Reduction",
+              "value": "Diverted 45 thousand tons of waste from landfills through enhanced recycling efforts."
+            },
+            {
+              "key": "Human Capital",
+              "value": "Employs approximately 23,000 associates with a focus on talent management, development, and creating a strong employment brand."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 298,
+    "AUD": 41,
+    "BRL": 2
+  },
+  "sha1": "31a60b930e0f1034afff6e2d1e406e7d9141b2a1"
+}

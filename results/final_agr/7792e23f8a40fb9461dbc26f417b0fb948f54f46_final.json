@@ -1,0 +1,86 @@
+{
+  "letters": 682897,
+  "pages": 181,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "MongoDB, Inc.",
+    "major_industry": "Technology",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": false,
+      "elements": []
+    },
+    "has_leadership_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": false,
+      "elements": []
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": false,
+      "elements": []
+    },
+    "has_financial_performance_indicators": {
+      "value": false,
+      "elements": []
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": false,
+      "elements": []
+    },
+    "mentions_new_risk_factors": {
+      "value": false,
+      "elements": []
+    },
+    "has_guidance_updates": {
+      "value": false,
+      "elements": []
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": false,
+      "elements": []
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 265,
+    "EUR": 1,
+    "CAD": 565
+  },
+  "sha1": "7792e23f8a40fb9461dbc26f417b0fb948f54f46"
+}

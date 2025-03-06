@@ -1,0 +1,2023 @@
+{
+  "letters": 93167,
+  "pages": 44,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 6
+    },
+    "company_name": "Benjamin Hornigold Ltd",
+    "major_industry": "Financial Services",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 25,
+          "title": "Income Tax Expense Components and Reconciliation",
+          "data": [
+            {
+              "key": "(a) Components of Income tax Expense",
+              "value": "$"
+            },
+            {
+              "key": "Deferred tax",
+              "value": "120,894"
+            },
+            {
+              "key": "Unrecognised tax losses used",
+              "value": "(120,894)"
+            },
+            {
+              "key": "Profit/(loss) before income tax (expense)/benefit",
+              "value": "(1,239,019)"
+            },
+            {
+              "key": "Tax at the statutory tax rate of 25% (2021: 26%)",
+              "value": "(309,755)"
+            },
+            {
+              "key": "Non-deductible expenses",
+              "value": "136,594"
+            },
+            {
+              "key": "Other income not included as assessable",
+              "value": "(122,951)"
+            },
+            {
+              "key": "Timing differences not recognised",
+              "value": "417,006"
+            },
+            {
+              "key": "Tax losses used/effect of reduction in tax rate",
+              "value": "(120,894)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 35,
+          "title": "Directors' Declaration of Benjamin Hornigold Ltd",
+          "data": [
+            {
+              "key": "Compliance Statement",
+              "value": "The attached financial statements and notes comply with the Corporations Act 2001, the Accounting Standards, the Corporations Regulations 2001 and other mandatory professional reporting requirements."
+            },
+            {
+              "key": "International Standards Compliance",
+              "value": "The attached financial statements and notes comply with International Financial Reporting Standards as issued by the International Accounting Standards Board."
+            },
+            {
+              "key": "Financial Position Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Financial Performance Period",
+              "value": "Financial year ended on 30 June 2022"
+            },
+            {
+              "key": "Future Financial Obligation",
+              "value": "There are reasonable grounds to believe that the Company will be able to pay its debts as and when they become due and payable."
+            },
+            {
+              "key": "Section 295A Declaration",
+              "value": "The Directors have been given the declarations required by section 295A of the Corporations Act 2001."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 36,
+          "title": "Independent Auditor’s Report to the Members of Benjamin Hornigold Ltd",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Benjamin Hornigold Ltd"
+            },
+            {
+              "key": "Reporting Period End",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Auditor's Opinion",
+              "value": "The accompanying financial report is in accordance with the Corporations Act 2001."
+            },
+            {
+              "key": "Audit Basis",
+              "value": "Conducted in accordance with Australian Auditing Standards."
+            },
+            {
+              "key": "Key Audit Matters",
+              "value": "Most significant matters in the audit."
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 2,
+          "title": "Board of Directors",
+          "data": [
+            {
+              "key": "Director Name",
+              "value": "Mr Michael Glennon"
+            },
+            {
+              "key": "Position",
+              "value": "Non-Executive Director and Chairman"
+            },
+            {
+              "key": "Director Name",
+              "value": "Mr Sulieman Ravell"
+            },
+            {
+              "key": "Position",
+              "value": "Non-Executive Director"
+            },
+            {
+              "key": "Director Name",
+              "value": "Mr Gary Miller"
+            },
+            {
+              "key": "Position",
+              "value": "Non-Executive Director"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 2,
+          "title": "Company Secretary",
+          "data": [
+            {
+              "key": "Company Secretary Name",
+              "value": "Mr Michael Glennon"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 4,
+          "title": "Directors' Appointments and Resignations",
+          "data": [
+            {
+              "key": "Directors' name",
+              "value": "Michael Glennon"
+            },
+            {
+              "key": "Date appointed",
+              "value": "12 Jun 2019"
+            },
+            {
+              "key": "Date resigned",
+              "value": ""
+            },
+            {
+              "key": "Directors' name",
+              "value": "Gary Miller"
+            },
+            {
+              "key": "Date appointed",
+              "value": "12 Jun 2019"
+            },
+            {
+              "key": "Date resigned",
+              "value": ""
+            },
+            {
+              "key": "Directors' name",
+              "value": "Sulieman Ravell"
+            },
+            {
+              "key": "Date appointed",
+              "value": "12 Jun 2019"
+            },
+            {
+              "key": "Date resigned",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 5,
+          "title": "Directors Report For the year ended 30 June 2022",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Sulieman Ravell"
+            },
+            {
+              "key": "Title",
+              "value": "Non-Executive Director, appointed 12 June 2019"
+            },
+            {
+              "key": "Qualifications",
+              "value": "Beng (Hons), AFPC (UK), ADFP, Cert IV Mortgage Services"
+            },
+            {
+              "key": "Experience and expertise",
+              "value": "Mr Ravell has over 25 years' experience in the financial services industry. He is a Representative Director and the Responsible Manager of NW Advice Pty Ltd and Wealth Focus Pty Ltd, and is responsible for providing advice to clients, principally focused on strategy and asset allocation. He was previously a member of the Filtered Research Committee, a service aimed at avoiding product failures and assisting adviser groups in constructing"
+            },
+            {
+              "key": "Other current Directorships",
+              "value": "Glennon Small Companies Ltd (ASX code: GC1) from 9 June 2020."
+            },
+            {
+              "key": "Former listed Directorships (last 3 years)",
+              "value": "Nil"
+            },
+            {
+              "key": "Special responsibilities",
+              "value": "Nil"
+            },
+            {
+              "key": "Interests in shares",
+              "value": "Indirect interest in 1,247,549 ordinary shares at 30 June 2022: ordinary shares held by Wealth Focus Pty Ltd and 505,567 ordinary shares held by S4 Family Services Pty Ltd ATF S4 Family Trust"
+            },
+            {
+              "key": "Interests in options",
+              "value": "Nil"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 6,
+          "title": "Non-Executive Director Profile",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Gary Miller"
+            },
+            {
+              "key": "Title",
+              "value": "Non-Executive Director, appointed 12 June 2019"
+            },
+            {
+              "key": "Qualifications",
+              "value": "Diploma of Financial Advising"
+            },
+            {
+              "key": "Experience and expertise",
+              "value": "Mr Miller has a Diploma of Financial Advising and 30 years of broad experience in financial markets."
+            },
+            {
+              "key": "Additional experience",
+              "value": "Director (2011 to April 2020) and Responsible Officer of Miller Wealth Management Pty Ltd which held an Australian Financial Services License from 2011 to 2020. He was previously a partner in a Brisbane based financial planning firm and a member of the investment committee of an ASX listed financial services group. Mr Miller is also experienced in commercial property investment, development finance and property development."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 6,
+          "title": "Meeting Attendance Record",
+          "data": [
+            {
+              "key": "Name",
+              "value": "M Glennon"
+            },
+            {
+              "key": "Meetings Attended",
+              "value": "9 (held 9)"
+            },
+            {
+              "key": "Meetings Attended (2)",
+              "value": "3 (held 3)"
+            },
+            {
+              "key": "Name",
+              "value": "G Miller"
+            },
+            {
+              "key": "Meetings Attended (1)",
+              "value": "9 (held 9)"
+            },
+            {
+              "key": "Meetings Attended (2)",
+              "value": "3 (held 3)"
+            },
+            {
+              "key": "Name",
+              "value": "S Ravell"
+            },
+            {
+              "key": "Meetings Attended (1)",
+              "value": "9 (held 9)"
+            },
+            {
+              "key": "Meetings Attended (2)",
+              "value": "3 (held 3)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 13,
+          "title": "Auditor’s Independence Declaration",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Benjamin Hornigold Ltd"
+            },
+            {
+              "key": "Address",
+              "value": "Suite 1, Level 17 25 Bligh Street Sydney NSW 2000"
+            },
+            {
+              "key": "Auditor's Declaration Date",
+              "value": "29th August 2022"
+            },
+            {
+              "key": "Year Ended",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Independence Statement",
+              "value": "no contraventions of the auditor independence requirements of the Corporations Act 2001; and (ii) no contraventions of APES 110 Code of Ethics for Professional Accountants (including Independence Standards)"
+            },
+            {
+              "key": "Auditor Firm",
+              "value": "Pitcher Partners"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 40,
+          "title": "Corporate Governance Statement of Benjamin Hornigold Ltd",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Benjamin Hornigold Ltd"
+            },
+            {
+              "key": "Document Type",
+              "value": "Corporate Governance Statement"
+            },
+            {
+              "key": "Board Approval Date",
+              "value": "29 August 2022"
+            },
+            {
+              "key": "Financial Year Ending",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "ASX Guidance Adoption Date",
+              "value": "27 February 2019"
+            },
+            {
+              "key": "Effective Date",
+              "value": "1 July 2020"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 3,
+          "title": "Directors’ Letter",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Benjamin Hornigold Ltd"
+            },
+            {
+              "key": "Financial Year End",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Gross Return",
+              "value": "(-5.97%)"
+            },
+            {
+              "key": "S&P/ASX 200 Accumulation Index Return",
+              "value": "(-6.47%)"
+            },
+            {
+              "key": "S&P/ASX Small Ordinaries Accumulation Index Return",
+              "value": "(-19.5%)"
+            },
+            {
+              "key": "Insurance Payout",
+              "value": "$116k"
+            },
+            {
+              "key": "Director Ownership",
+              "value": "over 30%"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 9,
+          "title": "Remuneration Report (audited)",
+          "data": [
+            {
+              "key": "KMP definition",
+              "value": "Persons having authority and responsibility for planning, directing and controlling activities of the Company, including any Director."
+            },
+            {
+              "key": "KMP for the Company",
+              "value": "Directors of the Company."
+            },
+            {
+              "key": "Remuneration arrangements",
+              "value": "Details the KMP remuneration arrangements for the year ended 30 June 2022."
+            },
+            {
+              "key": "Shareholders AGM votes",
+              "value": "45.57% ‘yes’ votes on the adoption of the Remuneration Report for the year ended 30 June 2021."
+            },
+            {
+              "key": "First strike consequence",
+              "value": "Annual General Meeting will include a Conditional Spill Resolution."
+            },
+            {
+              "key": "Total remuneration for Directors",
+              "value": "Maximum of $450,000."
+            },
+            {
+              "key": "Conditions for fee increase",
+              "value": "Any increase over $450,000 must be approved by shareholders."
+            },
+            {
+              "key": "Independent advice",
+              "value": "Sought when required."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 10,
+          "title": "Financial Performance Metrics (30 June)",
+          "data": [
+            {
+              "key": "Profit/(loss) attributable to owners of the Company",
+              "value": "(1,239,019) / 1,260,803 / (750,237) / (9,821,543) / (2,993,948)"
+            },
+            {
+              "key": "Dividends paid per share",
+              "value": "N/A / N/A / N/A / N/A / 0.12"
+            },
+            {
+              "key": "Share price",
+              "value": "0.22 / 0.31 / 0.21 / 0.71 / 0.71"
+            },
+            {
+              "key": "NTA before deferred tax",
+              "value": "0.30 / 0.35 / 0.30 / 0.33 / 0.68"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 10,
+          "title": "Agreement Terms and Compensation",
+          "data": [
+            {
+              "key": "Term of agreement",
+              "value": "No fixed term"
+            },
+            {
+              "key": "Non-executive fee",
+              "value": "$50,000 pa"
+            },
+            {
+              "key": "Chairman fee",
+              "value": "$25,000 pa"
+            },
+            {
+              "key": "Superannuation guarantee",
+              "value": "10%"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 10,
+          "title": "Non-Executive Director Agreement Details",
+          "data": [
+            {
+              "key": "Name/title",
+              "value": "Sulieman Ravell — Non-Executive Director"
+            },
+            {
+              "key": "Agreement commenced",
+              "value": "1 July 2019"
+            },
+            {
+              "key": "Term of agreement",
+              "value": "No fixed term"
+            },
+            {
+              "key": "Additional info 1",
+              "value": "Non-executive fee $50,000 pa"
+            },
+            {
+              "key": "Additional info 2",
+              "value": "Superannuation guarantee at 10%"
+            },
+            {
+              "key": "Details",
+              "value": "Director's fees are 100% of remuneration"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 11,
+          "title": "Agreement Terms and Compensation Details",
+          "data": [
+            {
+              "key": "Agreement commenced",
+              "value": "1 July 2019"
+            },
+            {
+              "key": "Term of agreement",
+              "value": "No fixed term"
+            },
+            {
+              "key": "Non-executive fee",
+              "value": "$50,000"
+            },
+            {
+              "key": "Additional fees",
+              "value": "$50,000 pa (until default loans and advances recovered)"
+            },
+            {
+              "key": "Superannuation",
+              "value": "10% guarantee"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 11,
+          "title": "2022 Executive Compensation Summary",
+          "data": [
+            {
+              "key": "M Glennon",
+              "value": "$82,500"
+            },
+            {
+              "key": "G Miller",
+              "value": "$110,000"
+            },
+            {
+              "key": "S Ravell",
+              "value": "$110,000"
+            },
+            {
+              "key": "Total KMP",
+              "value": "$302,500"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 11,
+          "title": "Key Management Personnel Compensation",
+          "data": [
+            {
+              "key": "M Glennon",
+              "value": "$82,129"
+            },
+            {
+              "key": "G Miller",
+              "value": "$109,500"
+            },
+            {
+              "key": "S Ravell",
+              "value": "$109,500"
+            },
+            {
+              "key": "Total KMP",
+              "value": "$301,129"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 12,
+          "title": "Shareholding Movements 2021-2022",
+          "data": [
+            {
+              "key": "2022 M Glennon",
+              "value": "Shares: 4,828,094 (2021: 4,529,094) through Glennon Small Companies Limited"
+            },
+            {
+              "key": "G Miller",
+              "value": "Shares: 1,207,130 (2021: 1,086,963) via GTM Family Super Pty Ltd"
+            },
+            {
+              "key": "S Ravel",
+              "value": "Shares: 1,247,549 indirect holdings"
+            },
+            {
+              "key": "Total Shares",
+              "value": "Total increased from 6,598,233 to 7,282,773"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 38,
+          "title": "Responsibilities of the Directors for the Financial Report",
+          "data": [
+            {
+              "key": "Directors' Responsibility",
+              "value": "Preparation of financial report that gives a true and fair view in accordance with Australian Accounting Standards and the Corporations Act 2001."
+            },
+            {
+              "key": "Auditor's Responsibility",
+              "value": "Obtain reasonable assurance about whether the financial report is free from material misstatement."
+            },
+            {
+              "key": "Going Concern Disclosure",
+              "value": "Responsibility to assess the Company’s ability to continue as a going concern."
+            },
+            {
+              "key": "Audit Evidence",
+              "value": "Obtain sufficient and appropriate audit evidence to provide a basis for opinion."
+            },
+            {
+              "key": "Red Flag Warning",
+              "value": "If material uncertainty exists about going concern, the auditor’s report will be modified."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 39,
+          "title": "Opinion on the Remuneration Report",
+          "data": [
+            {
+              "key": "Audit Compliance",
+              "value": "The Remuneration Report complies with section 300A of the Corporations Act 2001."
+            },
+            {
+              "key": "Audit Responsibility",
+              "value": "Responsibilities of the directors include preparation of the Remuneration Report according to the legislation."
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "Expressed by Pitcher Partners after auditing the Remuneration Report."
+            },
+            {
+              "key": "Location",
+              "value": "Brisbane, Queensland"
+            },
+            {
+              "key": "Date",
+              "value": "29th August 2022"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 41,
+          "title": "Investors Supplementary Information",
+          "data": [
+            {
+              "key": "Date",
+              "value": "23 August 2022"
+            },
+            {
+              "key": "Total Ordinary Shares",
+              "value": "24,155,241"
+            },
+            {
+              "key": "Total Shareholders",
+              "value": "404"
+            },
+            {
+              "key": "Top Shareholder",
+              "value": "J P MORGAN NOMINEES AUSTRALIA PTY LIMITED"
+            },
+            {
+              "key": "Top Shareholder Percentage",
+              "value": "21.19"
+            },
+            {
+              "key": "Top Shareholder Shares",
+              "value": "5,119,460"
+            },
+            {
+              "key": "Top 20 Shareholders Percentage",
+              "value": "70.81"
+            },
+            {
+              "key": "Balance of Register Percentage",
+              "value": "29.19"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 41,
+          "title": "Major Shareholders Holdings",
+          "data": [
+            {
+              "key": "Shareholder Name",
+              "value": "Glennon Capital Pty Limited"
+            },
+            {
+              "key": "Entity",
+              "value": "Glennon Small Companies Pty Ltd"
+            },
+            {
+              "key": "Shares Held",
+              "value": "4,828,094"
+            },
+            {
+              "key": "Percentage Held",
+              "value": "19.99"
+            },
+            {
+              "key": "Shareholder Name 2",
+              "value": "Dawney & Co Ltd"
+            },
+            {
+              "key": "Entity 2",
+              "value": "Dawney & Co Ltd"
+            },
+            {
+              "key": "Shares Held 2",
+              "value": "3,013,344"
+            },
+            {
+              "key": "Percentage Held 2",
+              "value": "12.47"
+            },
+            {
+              "key": "Shareholder Name 3",
+              "value": "Sulieman Ravell"
+            },
+            {
+              "key": "Entity 3",
+              "value": "S4 Super Pty Ltd & S4 Family Services Pty Ltd"
+            },
+            {
+              "key": "Shares Held 3",
+              "value": "1,247,549"
+            },
+            {
+              "key": "Percentage Held 3",
+              "value": "5.16"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": false,
+      "elements": []
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "Financial Report for ACN 614 854 045",
+          "data": [
+            {
+              "key": "Reporting Period",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Company Name",
+              "value": "ACN 614 854 045"
+            },
+            {
+              "key": "Report Type",
+              "value": "Financial Report"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 13,
+          "title": "Statement of profit or loss and other comprehensive income",
+          "data": [
+            {
+              "key": "Document",
+              "value": "Statement of profit or loss and other comprehensive income"
+            },
+            {
+              "key": "Summary",
+              "value": "This is the statement indicating the profits or losses of the company for the accounting period."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 14,
+          "title": "Statement of financial position",
+          "data": [
+            {
+              "key": "Document",
+              "value": "Statement of financial position"
+            },
+            {
+              "key": "Summary",
+              "value": "This statement provides a snapshot of the company’s financial position at a specific point in time, detailing assets, liabilities, and equity."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 15,
+          "title": "Statement of changes in equity",
+          "data": [
+            {
+              "key": "Document",
+              "value": "Statement of changes in equity"
+            },
+            {
+              "key": "Summary",
+              "value": "It summarizes the changes in equity from the beginning to the end of an accounting period, detailing movements in shares, dividends, and retained earnings."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 15,
+          "title": "Revenue and Expense Statement",
+          "data": [
+            {
+              "key": "Net realised gain on trading activities",
+              "value": "146367"
+            },
+            {
+              "key": "Net (loss)/gain on investment activities",
+              "value": "-1287158"
+            },
+            {
+              "key": "Other income from investments",
+              "value": "270319"
+            },
+            {
+              "key": "Net (loss)/gain from investment portfolio",
+              "value": "-870472"
+            },
+            {
+              "key": "Other revenue/Other income",
+              "value": "139268"
+            },
+            {
+              "key": "Interest revenue",
+              "value": "559950"
+            },
+            {
+              "key": "Impairment of receivables",
+              "value": "-446520"
+            },
+            {
+              "key": "Directors' fees",
+              "value": "-302500"
+            },
+            {
+              "key": "Professional fees",
+              "value": "-266781"
+            },
+            {
+              "key": "Other expenses",
+              "value": "-51964"
+            },
+            {
+              "key": "(Loss)/Profit before income tax",
+              "value": "-1239019"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 16,
+          "title": "Statement of cash flows",
+          "data": [
+            {
+              "key": "Document",
+              "value": "Statement of cash flows"
+            },
+            {
+              "key": "Summary",
+              "value": "This statement shows the cash inflows and outflows of the company during the reporting period, indicating how cash is generated and spent."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 16,
+          "title": "Balance Sheet",
+          "data": [
+            {
+              "key": "Total assets 2022",
+              "value": "$7,710,615"
+            },
+            {
+              "key": "Total assets 2021",
+              "value": "$8,818,186"
+            },
+            {
+              "key": "Total liabilities 2022",
+              "value": "$395,062"
+            },
+            {
+              "key": "Total liabilities 2021",
+              "value": "$263,614"
+            },
+            {
+              "key": "Net assets 2022",
+              "value": "$7,315,553"
+            },
+            {
+              "key": "Net assets 2021",
+              "value": "$8,554,572"
+            },
+            {
+              "key": "Cash and cash equivalents 2022",
+              "value": "$1,334,877"
+            },
+            {
+              "key": "Investments at fair value 2022",
+              "value": "$6,115,535"
+            },
+            {
+              "key": "Profit reserve 2022",
+              "value": "$278,143"
+            },
+            {
+              "key": "Accumulated gains/(losses) 2022",
+              "value": "-$16,490,719"
+            },
+            {
+              "key": "Issued capital 2022",
+              "value": "$23,528,129"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 17,
+          "title": "Notes to the financial statements",
+          "data": [
+            {
+              "key": "Document",
+              "value": "Notes to the financial statements"
+            },
+            {
+              "key": "Summary",
+              "value": "This includes additional information regarding the financial statements, accounting policies, and any contingencies or commitments."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 17,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Balance at 1 July 2020",
+              "value": "Issued Capital: 23528129, Profit Reserve: 0, Accumulated Losses: -16234360, Total Equity: 7293769"
+            },
+            {
+              "key": "Balance at 30 June 2021",
+              "value": "Issued Capital: 23528129, Profit Reserve: 0, Accumulated Losses: -14973557, Total Equity: 8554572"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "Issued Capital: 23528129, Profit Reserve: 278143, Accumulated Losses: -16490719, Total Equity: 7315553"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 18,
+          "title": "Cash Flow Statement Details",
+          "data": [
+            {
+              "key": "Payments for operating and administrative expenses Interest received",
+              "value": "-591,796 / 13,574"
+            },
+            {
+              "key": "Cost reimbursed",
+              "value": "22,500"
+            },
+            {
+              "key": "Other revenue",
+              "value": "213,636"
+            },
+            {
+              "key": "for investments",
+              "value": "-7,201,081"
+            },
+            {
+              "key": "Payments",
+              "value": "-11,314,901"
+            },
+            {
+              "key": "Proceeds from sale of investments",
+              "value": "6,721,355"
+            },
+            {
+              "key": "Dividends received",
+              "value": "153,247"
+            },
+            {
+              "key": "Commissions and brokerage fees paid",
+              "value": "-7,398"
+            },
+            {
+              "key": "Receipts from Government Grants",
+              "value": "54,651"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 19,
+          "title": "Financial Reporting Entity and Significant Accounting Policies",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Benjamin Hornigold Ltd"
+            },
+            {
+              "key": "Domicile",
+              "value": "Australia"
+            },
+            {
+              "key": "Incorporation Date",
+              "value": "28 September 2016"
+            },
+            {
+              "key": "Commencement of Operations",
+              "value": "11 May 2017"
+            },
+            {
+              "key": "Investment Objective",
+              "value": "moderate to high portfolio returns"
+            },
+            {
+              "key": "Accounting Standards Adopted",
+              "value": "Australian Accounting Standards, IFRS"
+            },
+            {
+              "key": "Presentation Currency",
+              "value": "Australian dollars"
+            },
+            {
+              "key": "Financial Statements Authorised By",
+              "value": "Board of Directors"
+            },
+            {
+              "key": "Authorisation Date",
+              "value": "29 August 2022"
+            },
+            {
+              "key": "Accounting Policies Consistency",
+              "value": "Consistently applied unless stated otherwise"
+            },
+            {
+              "key": "Critical Accounting Estimates",
+              "value": "Management judgement required"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 20,
+          "title": "Financial assets, liabilities and dividend provisions",
+          "data": [
+            {
+              "key": "Financial assets derecognition",
+              "value": "Financial assets are derecognised when the rights to receive cash flows from the financial assets have expired or have been transferred."
+            },
+            {
+              "key": "Investments at fair value",
+              "value": "Investments at fair value through profit or loss are either held for trading or designated as upon initial recognition."
+            },
+            {
+              "key": "Loans",
+              "value": "Loans are financial assets initially recognised at fair value plus directly attributable transaction costs."
+            },
+            {
+              "key": "Impairment of financial assets",
+              "value": "An assessment is made for expected credit losses impacting future cash flows."
+            },
+            {
+              "key": "Profit reserve",
+              "value": "A profit reserve has been created for future dividend payments."
+            },
+            {
+              "key": "Dividends provision",
+              "value": "Provision is made for declared dividends on fully paid ordinary shares."
+            },
+            {
+              "key": "Critical accounting judgements",
+              "value": "Management must make judgements, estimates, and assumptions for financial statements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 21,
+          "title": "Fair value measurement hierarchy and allowances for expected credit losses",
+          "data": [
+            {
+              "key": "Fair Value Measurement Hierarchy",
+              "value": "The Company classifies all assets and liabilities measured at fair value using a three-level hierarchy: Level 1: Quoted prices in active markets; Level 2: Observable inputs other than quoted prices; Level 3: Unobservable inputs."
+            },
+            {
+              "key": "Allowance for Expected Credit Losses",
+              "value": "The assessment requires estimation and judgement, based on lifetime expected credit loss grouped by overdue days, impacted by factors like recent sales experience and COVID-19."
+            },
+            {
+              "key": "Recovery of Deferred Tax Assets",
+              "value": "Recognised for deductible temporary differences only if future taxable amounts are probable to utilise those differences."
+            },
+            {
+              "key": "Impact of COVID-19",
+              "value": "Judgements on potential impacts revealed no significant operational or financial effects during the reported year."
+            },
+            {
+              "key": "Operating Segments",
+              "value": "The Company operates in a single financial services segment and only in Australia."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 22,
+          "title": "Net gain/(loss) from investment portfolio",
+          "data": [
+            {
+              "key": "Fully franked dividends received",
+              "value": "128,204"
+            },
+            {
+              "key": "Unfranked dividends",
+              "value": "8,866"
+            },
+            {
+              "key": "Overseas dividends",
+              "value": "9,297"
+            },
+            {
+              "key": "Subtotal",
+              "value": "146,367"
+            },
+            {
+              "key": "Net realised gain on investment activities",
+              "value": "536,603"
+            },
+            {
+              "key": "Net unrealised gain/(loss) on investment activities",
+              "value": "(1,823,761)"
+            },
+            {
+              "key": "Net gain/(loss) subtotal",
+              "value": "(1,287,158)"
+            },
+            {
+              "key": "Other income from investments",
+              "value": "270,319"
+            },
+            {
+              "key": "Total investment income",
+              "value": "(870,472)"
+            },
+            {
+              "key": "Cost recoveries",
+              "value": "139,268"
+            },
+            {
+              "key": "COVID-19 Government Stimulus",
+              "value": "54,651"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 23,
+          "title": "Financial Position Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Total assets (2022)",
+              "value": "$6,115,535"
+            },
+            {
+              "key": "Total assets (2021)",
+              "value": "$6,268,287"
+            },
+            {
+              "key": "Listed ordinary shares (2022)",
+              "value": "$4,938,213"
+            },
+            {
+              "key": "Listed ordinary shares (2021)",
+              "value": "$4,467,078"
+            },
+            {
+              "key": "Other investments (2022)",
+              "value": "$1,177,322"
+            },
+            {
+              "key": "Other investments (2021)",
+              "value": "$1,801,205"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 23,
+          "title": "Loan Balance Movement Summary",
+          "data": [
+            {
+              "key": "Net gain/(loss) on investment activities",
+              "value": "($307,896)"
+            },
+            {
+              "key": "Accrued interest on convertible loan",
+              "value": "$307,896"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 24,
+          "title": "Notes to the financial statements",
+          "data": [
+            {
+              "key": "Net gain/(loss) on investment activities",
+              "value": "(279,680)"
+            },
+            {
+              "key": "Accrued interest on convertible loan",
+              "value": "279,680"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 26,
+          "title": "Financial Performance Indicators for Benjamin Hornigold Ltd",
+          "data": [
+            {
+              "key": "Convertible Loan Default Amount (including interest)",
+              "value": "$3,359,866"
+            },
+            {
+              "key": "Interest Impaired in the Period",
+              "value": "$307,896"
+            },
+            {
+              "key": "Fair Value at 30 June 2021",
+              "value": "$6,268,287"
+            },
+            {
+              "key": "Purchased Investments at Cost",
+              "value": "$7,388,681"
+            },
+            {
+              "key": "Sales at Cost Net of Reinvestment",
+              "value": "($6,565,360)"
+            },
+            {
+              "key": "Net Recognised Gain/Loss on Investment Activities",
+              "value": "($1,283,969)"
+            },
+            {
+              "key": "Accrued Interest on Convertible Loan",
+              "value": "$307,896"
+            },
+            {
+              "key": "Fair Value at 30 June 2022",
+              "value": "$6,115,535"
+            },
+            {
+              "key": "Trading Fee Receivable on JBFX",
+              "value": "$71,632"
+            },
+            {
+              "key": "Overpaid Performance Fees",
+              "value": "$53,773"
+            },
+            {
+              "key": "Allowance for Expected Credit Losses",
+              "value": "($125,405)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 27,
+          "title": "Loans and advances to previously related parties measured at amortised cost",
+          "data": [
+            {
+              "key": "Loans and advances to previously related parties",
+              "value": "measured at amortised cost"
+            },
+            {
+              "key": "Total JBL loan current",
+              "value": "1,302,066"
+            },
+            {
+              "key": "Total JBL loan previous",
+              "value": "1,161,253"
+            },
+            {
+              "key": "Total JBFG loan current",
+              "value": "1,138,835"
+            },
+            {
+              "key": "Total JBFG loan previous",
+              "value": "1,041,167"
+            },
+            {
+              "key": "Allowance for expected credit losses current",
+              "value": "(2,440,901)"
+            },
+            {
+              "key": "Allowance for expected credit losses previous",
+              "value": "(2,202,420)"
+            },
+            {
+              "key": "Other receivables current",
+              "value": "225,709"
+            },
+            {
+              "key": "Other receivables previous",
+              "value": "513,965"
+            },
+            {
+              "key": "Loss allowance Opening balance current",
+              "value": "2,327,825"
+            },
+            {
+              "key": "Loss allowance Opening balance previous",
+              "value": "2,112,946"
+            },
+            {
+              "key": "Loss allowances recognised current",
+              "value": "238,480"
+            },
+            {
+              "key": "Loss allowances recognised previous",
+              "value": "214,876"
+            },
+            {
+              "key": "Loss allowance Closing balance current",
+              "value": "2,566,305"
+            },
+            {
+              "key": "Loss allowance Closing balance previous",
+              "value": "2,327,825"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 27,
+          "title": "Loan Details and ECL Provisions",
+          "data": [
+            {
+              "key": "Opening loan",
+              "value": "-"
+            },
+            {
+              "key": "Interest charged current",
+              "value": "238,480"
+            },
+            {
+              "key": "Interest charged previous",
+              "value": "214,870"
+            },
+            {
+              "key": "ECL provision current",
+              "value": "(238,480)"
+            },
+            {
+              "key": "ECL provision previous",
+              "value": "(214,876)"
+            },
+            {
+              "key": "Closing loan current",
+              "value": "0"
+            },
+            {
+              "key": "Closing loan previous",
+              "value": ""
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 28,
+          "title": "2022 Loan Performance and ECL Provision Analysis",
+          "data": [
+            {
+              "key": "Net loan and interest",
+              "value": "1,302,066"
+            },
+            {
+              "key": "Performing Stage 1",
+              "value": "-"
+            },
+            {
+              "key": "Performing Stage 2",
+              "value": "-"
+            },
+            {
+              "key": "Non-Performing Stage 3",
+              "value": "1,302,066"
+            },
+            {
+              "key": "Total provision for ECL",
+              "value": "(1,302,066)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 29,
+          "title": "2021 Loan Performance and ECL Provisions",
+          "data": [
+            {
+              "key": "Net loan and interest",
+              "value": "2,202,420"
+            },
+            {
+              "key": "Total provision for ECL",
+              "value": "(2,202,420)"
+            },
+            {
+              "key": "Trade payables (current)",
+              "value": "395,062 and 263,610"
+            },
+            {
+              "key": "Ordinary shares - fully paid",
+              "value": "24,155,241"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 30,
+          "title": "Benjamin Hornigold Ltd Notes to the financial statements",
+          "data": [
+            {
+              "key": "Dividends",
+              "value": "There were no dividends paid during the financial year (2021: $nil)."
+            },
+            {
+              "key": "Franking Credits",
+              "value": "25% (2021: 26%)"
+            },
+            {
+              "key": "Monetary Values Increase",
+              "value": "Increase from $370,849 to $425,422, representing approximately 14.7% growth."
+            },
+            {
+              "key": "Accounting Policy for Dividends",
+              "value": "Dividends are recognised when declared during the financial year and no longer at the discretion of the Company."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 31,
+          "title": "Price Risk Sensitivity and Financial Liabilities Notes",
+          "data": [
+            {
+              "key": "Market Price Increase Profit Impact",
+              "value": "$305,777"
+            },
+            {
+              "key": "Market Price Decrease Profit Impact",
+              "value": "$305,777"
+            },
+            {
+              "key": "Interest Rate Risk",
+              "value": "Not significantly exposed"
+            },
+            {
+              "key": "Maximum Credit Risk Exposure Rating A+",
+              "value": "1,334,867"
+            },
+            {
+              "key": "Maximum Credit Risk Exposure Unrated",
+              "value": "10"
+            },
+            {
+              "key": "Liquidity Risk Exposure",
+              "value": "$395,062"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Employee Benefits Breakdown",
+          "data": [
+            {
+              "key": "Short term benefits",
+              "value": "$275,000"
+            },
+            {
+              "key": "Post-employment benefits",
+              "value": "$27,500"
+            },
+            {
+              "key": "Total benefits",
+              "value": "$302,500"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Note 17. Basic and diluted earnings per share",
+          "data": [
+            {
+              "key": "Total Audit Services Fees 2022",
+              "value": "$53,750"
+            },
+            {
+              "key": "Total Audit Services Fees 2021",
+              "value": "$52,500"
+            },
+            {
+              "key": "Profit/(loss) after income tax 2022",
+              "value": "$(1,239,019)"
+            },
+            {
+              "key": "Profit/(loss) after income tax 2021",
+              "value": "$1,260,803"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "2021 Financial Liabilities Cash Flow Analysis",
+          "data": [
+            {
+              "key": "Carrying amount of Payables",
+              "value": "$263,614"
+            },
+            {
+              "key": "Contractual cash flow of Payables",
+              "value": "$263,614"
+            },
+            {
+              "key": "Due within 6 months",
+              "value": "$263,614"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Directors' declaration",
+          "data": [
+            {
+              "key": "Document",
+              "value": "Directors' declaration"
+            },
+            {
+              "key": "Summary",
+              "value": "A formal statement made by the directors regarding the accuracy of the financial statements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Basic and diluted earnings per share",
+          "data": [
+            {
+              "key": "Weighted average number of ordinary shares used in calculating basic earnings per share",
+              "value": "24,155,241"
+            },
+            {
+              "key": "Weighted average number of ordinary shares used in calculating diluted earnings per share",
+              "value": "24,155,241"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Independent auditor's report to the members of Benjamin Hornigold Ltd",
+          "data": [
+            {
+              "key": "Document",
+              "value": "Independent auditor's report"
+            },
+            {
+              "key": "Summary",
+              "value": "This report provides the auditor's opinion on the truthfulness and fairness of the financial statements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Reconciliation of profit/(loss) after income tax to net cash used in operating activities",
+          "data": [
+            {
+              "key": "Profit/(loss) after income tax (expense)/benefit for the year",
+              "value": "Current Period: -1239019, Previous Period: 1260803"
+            },
+            {
+              "key": "(Increase)/decrease in prepayments",
+              "value": "Current Period: -9401, Previous Period: 0"
+            },
+            {
+              "key": "(Increase)/decrease in receivables",
+              "value": "Current Period: 288255, Previous Period: -513755"
+            },
+            {
+              "key": "(Increase)/decrease in investments",
+              "value": "Current Period: 152752, Previous Period: -6268287"
+            },
+            {
+              "key": "Increase/(decrease) in payables",
+              "value": "Current Period: 131450, Previous Period: -9022"
+            },
+            {
+              "key": "Net cash used in operating activities",
+              "value": "Current Period: -675963, Previous Period: -5530261"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Valuation of financial assets",
+          "data": [
+            {
+              "key": "Key Audit Matter",
+              "value": "Valuation of financial assets"
+            },
+            {
+              "key": "Financial assets total (2022)",
+              "value": "$6,115,535"
+            },
+            {
+              "key": "Financial assets total (2021)",
+              "value": "$6,268,287"
+            },
+            {
+              "key": "Significance of financial assets",
+              "value": "79% of total assets"
+            },
+            {
+              "key": "Nature of assets",
+              "value": "Listed and unlisted securities at fair value through profit or loss"
+            },
+            {
+              "key": "Fair value hierarchy",
+              "value": "Level 1, Level 2, Level 3"
+            },
+            {
+              "key": "Key audit procedures",
+              "value": "Understanding controls, supporting documentation, recalculating fair value gains/losses, assessing disclosures"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Corporate Governance Statement",
+          "data": [
+            {
+              "key": "Document",
+              "value": "Corporate Governance Statement"
+            },
+            {
+              "key": "Summary",
+              "value": "This statement outlines the governance framework and practices of Benjamin Hornigold Ltd."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Additional Information for Listed Public Companies",
+          "data": [
+            {
+              "key": "Document",
+              "value": "Additional Information for Listed Public Companies"
+            },
+            {
+              "key": "Summary",
+              "value": "This contains regulatory disclosures required for listed public companies."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Listed Investments Portfolio Value",
+          "data": [
+            {
+              "key": "Total Listed investments",
+              "value": "4938213"
+            },
+            {
+              "key": "Largest holding",
+              "value": "Link Administration Holdings Limited (547348)"
+            },
+            {
+              "key": "Smallest investment",
+              "value": "Kogan.Com Ltd (47845)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Other Security Investments Portfolio",
+          "data": [
+            {
+              "key": "Total other security investments",
+              "value": "1177322"
+            },
+            {
+              "key": "Largest investment",
+              "value": "Ellerston Global Mid Small Unhedged Class B (618562)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Investment income and expenses year ended 30 June 2022",
+          "data": [
+            {
+              "key": "Net gains(losses) from investment portfolio (Note 5)",
+              "value": "-870472"
+            },
+            {
+              "key": "Impairment of receivables",
+              "value": "-446520"
+            },
+            {
+              "key": "Broker fees",
+              "value": "-7398"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "dividend_policy",
+          "page": 7,
+          "title": "Financial Performance Overview",
+          "data": [
+            {
+              "key": "Net trading (loss)/gain on financial instruments",
+              "value": "(870,472) vs 1,439,709"
+            },
+            {
+              "key": "Other revenue",
+              "value": "139,268 vs 125,879"
+            },
+            {
+              "key": "Government Grants",
+              "value": "- vs 54,651"
+            },
+            {
+              "key": "Interest received",
+              "value": "559,950 vs 524,460"
+            },
+            {
+              "key": "Impairment of receivables",
+              "value": "(446,520) vs (214,876)"
+            },
+            {
+              "key": "Legal fees",
+              "value": "(180,611) vs (152,394)"
+            },
+            {
+              "key": "Directors' fees",
+              "value": "(302,500) vs (301,129)"
+            },
+            {
+              "key": "Income tax (expense)/ benefit",
+              "value": "- vs -"
+            },
+            {
+              "key": "Other expenses",
+              "value": "(138,134) vs (215,497)"
+            },
+            {
+              "key": "Total (loss)/profit",
+              "value": "(1,239,019) vs 1,260,803"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 8,
+          "title": "Dividends",
+          "data": [
+            {
+              "key": "Dividends Paid/Proposed",
+              "value": "No dividends have been paid or proposed during the year."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 42,
+          "title": "Distribution of Shareholder Numbers",
+          "data": [
+            {
+              "key": "Number of shareholders",
+              "value": "404"
+            },
+            {
+              "key": "Total shares held",
+              "value": "24,155,241"
+            },
+            {
+              "key": "Percentage held by largest shareholders",
+              "value": "78.79%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 42,
+          "title": "Asset Valuation and Provisions Summary",
+          "data": [
+            {
+              "key": "Total original value of assets",
+              "value": "$10,199,209"
+            },
+            {
+              "key": "Total provisions",
+              "value": "$2,440,901"
+            },
+            {
+              "key": "Final balance sheet value",
+              "value": "$7,450,412"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 42,
+          "title": "Listed Shares at 30 Jun 2022",
+          "data": [
+            {
+              "key": "Total portfolio value",
+              "value": "$1,005,701"
+            },
+            {
+              "key": "Largest holding",
+              "value": "CD Private Equity Fund II: $429,455"
+            },
+            {
+              "key": "Smallest holding",
+              "value": "CD Private Equity Fund |: $87,785"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": false,
+      "elements": []
+    },
+    "has_guidance_updates": {
+      "value": false,
+      "elements": []
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": false,
+      "elements": []
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 172,
+    "AUD": 93
+  },
+  "sha1": "e2850fff8d9dee77f3a6520d0b1aba46adddc2c0"
+}

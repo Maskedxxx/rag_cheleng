@@ -1,0 +1,2168 @@
+{
+  "letters": 93649,
+  "pages": 49,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "Armadale Capital Plc",
+    "major_industry": "Financial Services",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 15,
+          "title": "Armadale Capital Plc Directors’ Report (continued) - Events after the balance sheet date",
+          "data": [
+            {
+              "key": "Subscription Transaction",
+              "value": "The Company subscribed for 1.6 million shares in Celsius Resources Limited for a consideration of £125,000 in cash."
+            },
+            {
+              "key": "Risk Disclosures",
+              "value": "The Group’s risks and use of financial instruments are described in Note 4 to the financial statements, and other risks in the Strategic Report."
+            },
+            {
+              "key": "Directors' Confirmation",
+              "value": "Directors confirmed no undisclosed audit information and that all appropriate enquiries were undertaken."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 30,
+          "title": "Notes to the Financial Statements - Consolidation, Acquisitions & Foreign Currencies",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Armadale Capital Plc"
+            },
+            {
+              "key": "Year End",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "Basis of Consolidation",
+              "value": "The consolidated financial statements incorporate the financial statements of the Company and its controlled subsidiaries with adjustments to align accounting policies and elimination of intra‐group transactions."
+            },
+            {
+              "key": "Acquisitions of Exploration Licences",
+              "value": "The Group’s exploration projects were acquired principally as mining licences through non‐operating structures. These transactions are accounted for as the acquisition of assets rather than as business combinations, including recognition of contingent share consideration at fair value."
+            },
+            {
+              "key": "Foreign Currencies",
+              "value": "The individual financial statements are presented in the entity’s functional currency. For consolidation, results are expressed in pounds sterling with foreign currency transactions and retranslation adjustments applied as per prevailing exchange rates."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 44,
+          "title": "Armadale Capital Plc Notes to the financial statements (continued) – Acquisition Contingent Shares",
+          "data": [
+            {
+              "key": "Acquisition Target",
+              "value": "Netcom Global Inc (former subsidiary)"
+            },
+            {
+              "key": "Contingent Share Terms - Milestone Shares",
+              "value": "Up to 160 million Ordinary Shares (now 1.07 million* shares), issued upon completion of two key milestones"
+            },
+            {
+              "key": "Milestone 1",
+              "value": "60 million (now 0.4 million*) Ordinary Shares issued upon delineation of a JORC reserve of at least 120,000 ounces of gold. Assessed 100% likelihood."
+            },
+            {
+              "key": "Milestone 2",
+              "value": "100 million (now 0.667 million*) Ordinary Shares issued upon production of the first 5,000 ounces of gold. Assessed 50% likelihood."
+            },
+            {
+              "key": "Share Valuation",
+              "value": "0.26p per share"
+            },
+            {
+              "key": "Additional Note",
+              "value": "Conditions for Milestone Shares not yet fulfilled; obligation retained despite disposal of Netcom Global Inc; refer to note 15 for details on share consolidation and restructure."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 44,
+          "title": "Trade and other receivables",
+          "data": [
+            {
+              "key": "Group Other receivables 2022 (£'000)",
+              "value": "150"
+            },
+            {
+              "key": "Group Other receivables 2021 (£'000)",
+              "value": "150"
+            },
+            {
+              "key": "Group Total current receivables 2022 (£'000)",
+              "value": "150"
+            },
+            {
+              "key": "Group Total current receivables 2021 (£'000)",
+              "value": "150"
+            },
+            {
+              "key": "Company Amounts owed by group undertakings 2022 (£'000)",
+              "value": "5,532"
+            },
+            {
+              "key": "Company Amounts owed by group undertakings 2021 (£'000)",
+              "value": "4,325"
+            },
+            {
+              "key": "Company Provision for impairment 2022 (£'000)",
+              "value": "(1,106)"
+            },
+            {
+              "key": "Company Provision for impairment 2021 (£'000)",
+              "value": "(865)"
+            },
+            {
+              "key": "Company Total current receivables 2022 (£'000)",
+              "value": "4,426"
+            },
+            {
+              "key": "Company Total current receivables 2021 (£'000)",
+              "value": "3,460"
+            },
+            {
+              "key": "Company Other receivables 2022 (£'000)",
+              "value": "126"
+            },
+            {
+              "key": "Company Other receivables 2021 (£'000)",
+              "value": "136"
+            },
+            {
+              "key": "Company Total current receivables (Company Level) 2022 (£'000)",
+              "value": "4,552"
+            },
+            {
+              "key": "Company Total current receivables (Company Level) 2021 (£'000)",
+              "value": "3,596"
+            },
+            {
+              "key": "Summary",
+              "value": "The table details receivables for both Group and Company levels for 2021 and 2022, showing stability at Group level and an increase for the Company due to higher amounts owed by group undertakings partially offset by a higher provision for impairment."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "Officers and Professional Advisers",
+          "data": [
+            {
+              "key": "Directors",
+              "value": "Nicholas Johansen – Chairman; Matt Bull"
+            },
+            {
+              "key": "Secretary",
+              "value": "Timothy Jones"
+            },
+            {
+              "key": "Registered office",
+              "value": "I Arbrook Lane, Esher, Surrey, KT10 9EG"
+            },
+            {
+              "key": "Nominated Adviser and Broker",
+              "value": "finnCap Ltd; 1 Bartholomew Close, London, EC1A 7BL"
+            },
+            {
+              "key": "Auditors",
+              "value": "James Cowper; Kreston Audit Reading; Bridge House, George Street, Reading, RG1 8LS"
+            },
+            {
+              "key": "Solicitors",
+              "value": "Druces LLP; Salisbury House, London Wall, London, EC2M 5PS"
+            },
+            {
+              "key": "Registrars",
+              "value": "Share Registrars Limited; 3 Millennium Centre, Crosby Way, Farnham, Surrey, GU9 7XX; Armadale Capital Plc"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 12,
+          "title": "Armadale Capital Plc Directors’ Report – Remuneration of Directors",
+          "data": [
+            {
+              "key": "Issue of Shares",
+              "value": "Details of Ordinary Shares issued during the year are set out in note 15 to the financial statements."
+            },
+            {
+              "key": "Shares under option or issued on exercise of options and warrants",
+              "value": "Detailed in notes 16 and 17 to the financial statements."
+            },
+            {
+              "key": "Indemnification of officers",
+              "value": "The Company paid a premium in respect of a contract insuring the Directors against liability when acting for the Company."
+            },
+            {
+              "key": "Remuneration of Directors",
+              "value": "The directors received fees as outlined in the following compensation table."
+            },
+            {
+              "key": "Compensation Table Title",
+              "value": "Individual Compensation Table (in £'000)"
+            },
+            {
+              "key": "N Johansen",
+              "value": "2022: £30,000; 2021: £30,000"
+            },
+            {
+              "key": "M Bull",
+              "value": "2022: £93,000; 2021: £69,000"
+            },
+            {
+              "key": "ES Mahede",
+              "value": "2022: No record; 2021: £22,000"
+            },
+            {
+              "key": "A Suedi",
+              "value": "No compensation recorded for 2021 or 2022"
+            },
+            {
+              "key": "Table Summary",
+              "value": "M Bull's compensation increased significantly from 2021 to 2022, while N Johansen remained stable. Other directors show either no record or data only for 2021."
+            },
+            {
+              "key": "Determination of Remuneration",
+              "value": "The Remuneration of Directors is determined by the Board within the limits set out in the Articles of Association of the Company."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 31,
+          "title": "Armadale Capital Plc Notes to the financial statements (continued)",
+          "data": [
+            {
+              "key": "Financial Year",
+              "value": "For the year ended 31 December 2022"
+            },
+            {
+              "key": "Accounting Policies Overview",
+              "value": "Includes sections on Foreign Currencies, Cash and Cash Equivalents, and Share‐based Payments"
+            },
+            {
+              "key": "Foreign Currencies",
+              "value": "Foreign operations’ assets and liabilities are translated into Pounds using prevailing exchange rates at period end; income and expense items use average rates unless rates fluctuate significantly"
+            },
+            {
+              "key": "Cash and Cash Equivalents",
+              "value": "Comprise cash at bank and in hand with a maturity date of less than three months from inception"
+            },
+            {
+              "key": "Share‐based Payments",
+              "value": "Under IFRS 2, equity‐settled share‐based payments are recognized at fair value at grant using a Black‐Scholes model, with expense recognized over the vesting period. Applies to employees and service providers, including senior executives"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 32,
+          "title": "Armadale Capital Plc Notes to the Financial Statements (continued)",
+          "data": [
+            {
+              "key": "Share-based payments",
+              "value": "Describes the accounting treatment for equity‐settled awards including cancellation, vesting, substitution with replacement awards, and expense recognition upon cancellation. Also mentions the dilutive effect of outstanding options on earnings per share."
+            },
+            {
+              "key": "Warrants",
+              "value": "Issued as part of financing transactions, warrants are fair valued at grant date using the Black Scholes model and subsequently recorded within the warrant reserve with changes in equity on expiry or exercise."
+            },
+            {
+              "key": "Taxation",
+              "value": "Explains current tax based on taxable profit and the recognition of deferred tax on temporary differences between the carrying amounts of assets/liabilities and their tax bases, including treatment of deferred tax assets and liabilities."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 41,
+          "title": "Remuneration of Directors",
+          "data": [
+            {
+              "key": "Aggregate emoluments 2022",
+              "value": "123"
+            },
+            {
+              "key": "Aggregate emoluments 2021",
+              "value": "129"
+            },
+            {
+              "key": "Percentage Change",
+              "value": "Approximately -4.7%"
+            },
+            {
+              "key": "Key Management Personnel",
+              "value": "Directors of the Group and Company"
+            },
+            {
+              "key": "Tax Reconciliation Summary",
+              "value": "Pre-tax losses improved from (333) in 2021 to (206) in 2022; theoretical tax credits of (63) and (39) respectively at 19% UK Corporation Tax; additional adjustments include non-taxable gains and unrecognized deferred tax assets."
+            },
+            {
+              "key": "Additional Note",
+              "value": "A deferred tax asset of approximately £2,338,000 (2021: £2,279,000) remains unrecognized due to uncertainty over recoverability."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 48,
+          "title": "Share Options Movement Schedule 2021-2022",
+          "data": [
+            {
+              "key": "Document Context",
+              "value": "Armadale Capital Plc Notes to the Financial Statements (continued), for the year ended 31 December 2022"
+            },
+            {
+              "key": "Arrangement Type",
+              "value": "Share based payment arrangements and share option movements"
+            },
+            {
+              "key": "Table Details",
+              "value": "Movement of share options between 2021 and 2022 showing category, grant dates, exercise prices, balances for 2021, options lapsed, and balances for 2022"
+            },
+            {
+              "key": "Notable Changes",
+              "value": "5,000,000 options held by former director P Johnson lapsed; Consultants maintained holdings with a weighted adjustment to an exercise price of 15p; Overall decrease from 5,366,667 to 3,366,667 options"
+            },
+            {
+              "key": "Capital Adjustments",
+              "value": "Options and exercise prices adjusted for share capital sub‐division and subsequent share capital consolidation and reorganisation"
+            },
+            {
+              "key": "Subsequent Event",
+              "value": "Subscription for 1.6 million shares in Celsius Resources Limited for a consideration of £125,000 in cash"
+            },
+            {
+              "key": "Related Party Transactions",
+              "value": "Increased receivables from subsidiary undertakings from £3,460,000 (2021) to £4,426,000 (2022)"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 4,
+          "title": "Armadale Capital Plc Strategic Report Final Results 2022 - Operational and Corporate Highlights",
+          "data": [
+            {
+              "key": "Exploration Licences",
+              "value": "In February 2022, the Company applied for three incremental exploration licences to enhance the Mahenge Liandu Graphite Project's exploration potential."
+            },
+            {
+              "key": "Environmental Compliance",
+              "value": "In March 2022, a weather station was installed to collect data (temperature, pressure, wind, moon phase, humidity, solar radiation, rainfall) at 5-second intervals; data is automatically uploaded to the cloud for mining operations planning."
+            },
+            {
+              "key": "Hydrological Studies",
+              "value": "Installed 7 stream gauges and one barotroll in March 2022 at the mine site to record temperature, pressure, and depth data at 5-second intervals; data is manually downloaded monthly."
+            },
+            {
+              "key": "Geotechnical Studies",
+              "value": "Cleared pads for geotechnical drilling as part of the ongoing FEED study, with 10 pads cleared at the tailing storage facility and 6 at the proposed plant site."
+            },
+            {
+              "key": "Test Pit Program",
+              "value": "A test pit program was completed with 41 pits excavated (11 at the plant site, 25 at the tailings area, and 5 along the access road), including DCP testing, strata logging, sampling, and backfilling."
+            },
+            {
+              "key": "Prospecting License",
+              "value": "The prospecting license PL 119961/2022 was granted on 28 June 2022 for graphite mineral exploration over 19.99 square kilometres in Ulanga District, Morogoro Region."
+            },
+            {
+              "key": "Project Funding",
+              "value": "The Company focused on securing project development funding, progressing discussions with potential finance partners."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 18,
+          "title": "Armadale Capital Plc Independent Auditor’s Report – Key Audit Matters",
+          "data": [
+            {
+              "key": "Reporting Period",
+              "value": "Year ended 31 December 2022"
+            },
+            {
+              "key": "Focus Area",
+              "value": "Key audit matters related to going concern and the carrying value of exploration and evaluation assets"
+            },
+            {
+              "key": "Exploration and Evaluation Assets",
+              "value": "Assets represent a key item on the Group’s statement of financial position; subject to significant estimates and judgements regarding impairment (see notes 2.10, 2.13 and note 3)"
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "Reviewed impairment indicators for the Mahenge Liandu exploration asset per IFRS 6, assessed capitalised costs, reviewed management’s discussions and documentation, and evaluated disclosures"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 33,
+          "title": "Accounting Policies: Taxation and Exploration Costs",
+          "data": [
+            {
+              "key": "Deferred Tax Policy",
+              "value": "Deferred tax assets and liabilities are measured at expected tax rates based on enacted laws and are offset when there is a legally enforceable right."
+            },
+            {
+              "key": "Tax Recognition",
+              "value": "Current and deferred tax are recognized as expense or income in profit or loss, except when related items are recognized outside profit or loss."
+            },
+            {
+              "key": "Exploration and Evaluation Costs",
+              "value": "Costs incurred following an exploration licence are capitalized on a project-by-project basis, including technical, administrative expenses, and a pro-rata share of finance costs (excluding general overheads)."
+            },
+            {
+              "key": "Amortisation",
+              "value": "If a mining property project is successful, related expenditures are amortised over the life of the commercial ore reserves on a unit of production basis."
+            },
+            {
+              "key": "Impairment and Write-off",
+              "value": "Costs are written off if a licence is relinquished, a project is abandoned, or is deemed to have no commercial value."
+            },
+            {
+              "key": "Reclassification",
+              "value": "Deferred exploration and development costs are reclassified as development and production assets within property, plant and equipment upon development of commercial reserves."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 40,
+          "title": "Financial Statements Note – Exploration Project Costs & Related Items",
+          "data": [
+            {
+              "key": "Exploration and Evaluation Assets (Tanzania)",
+              "value": "£5,483,000 in 2022; £4,727,000 in 2021"
+            },
+            {
+              "key": "Liquid and Near Liquid Resources",
+              "value": "£1,605,000 in 2022; £1,024,000 in 2021"
+            },
+            {
+              "key": "Directors' Emoluments - Fees",
+              "value": "£123,000 in 2022; £129,000 in 2021"
+            },
+            {
+              "key": "Audit Fees for Financial Statements",
+              "value": "£28,000 in 2022; £25,000 in 2021"
+            },
+            {
+              "key": "Change in Fair Value of Investments",
+              "value": "£103,000 recorded in 2022"
+            },
+            {
+              "key": "Group Wages and Salaries Capitalised as Exploration Expenditure",
+              "value": "£93,000 in 2022; £69,000 in 2021"
+            },
+            {
+              "key": "Employment – Management",
+              "value": "3 persons (both 2022 and 2021)"
+            },
+            {
+              "key": "Employment – Group Wages and Salaries",
+              "value": "£136,000 in 2022; £141,000 in 2021"
+            },
+            {
+              "key": "Employment – Company Wages and Salaries",
+              "value": "£77,000 in 2022; £50,000 in 2021"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "Armadale Capital Plc Annual Report and Accounts 31 December 2022",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Armadale Capital Plc"
+            },
+            {
+              "key": "Report Type",
+              "value": "Annual Report and Accounts"
+            },
+            {
+              "key": "Report Date",
+              "value": "31 December 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 2,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Section_1",
+              "value": "Officers and Professional ACVISELS"
+            },
+            {
+              "key": "Section_2",
+              "value": "Strategic Report and Directors' Report"
+            },
+            {
+              "key": "Section_3",
+              "value": "Independent Auditor's Report"
+            },
+            {
+              "key": "Section_4",
+              "value": "Consolidated Statement of Comprehensive Income"
+            },
+            {
+              "key": "Section_5",
+              "value": "Consolidated Statement of Financial Position"
+            },
+            {
+              "key": "Section_6",
+              "value": "Company Statement of Financial Position"
+            },
+            {
+              "key": "Section_7",
+              "value": "Consolidated Statement of Changes in Equity"
+            },
+            {
+              "key": "Section_8",
+              "value": "Company Statement of Changes in Equity"
+            },
+            {
+              "key": "Section_9",
+              "value": "Consolidated Statement of Cash Flows"
+            },
+            {
+              "key": "Section_10",
+              "value": "Company Statement of Cash Flows"
+            },
+            {
+              "key": "Section_11",
+              "value": "Notes to the financial statements"
+            },
+            {
+              "key": "Additional_Item",
+              "value": "Notice of Annual General Meeting ........................................................................................................ 49"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 9,
+          "title": "Armadale Capital Plc Strategic Report (Continued) - Financial Results and Board Overview",
+          "data": [
+            {
+              "key": "Reporting Period",
+              "value": "Year ended 31 December 2022"
+            },
+            {
+              "key": "Revenue",
+              "value": "No revenues earned as business focused on non‐revenue producing resource projects"
+            },
+            {
+              "key": "Loss after Tax",
+              "value": "£0.206 million (2021: £0.333 million)"
+            },
+            {
+              "key": "Capitalised Expenditure",
+              "value": "£0.468 million on Mahenge Liandu project (2021: £0.272 million)"
+            },
+            {
+              "key": "Funds Raised",
+              "value": "£1.3 million from the exercise of warrants and options"
+            },
+            {
+              "key": "Cash at 31 December 2022",
+              "value": "£1,046,000 (2021: £886,000)"
+            },
+            {
+              "key": "Cash and Investments as of 4 May 2023",
+              "value": "Cash: £737,000; Listed investments: £1,245,000"
+            },
+            {
+              "key": "Board Update",
+              "value": "No changes in the Board during the year; potential replacement for former Board members considered with focus on a UK based appointment"
+            },
+            {
+              "key": "Outlook",
+              "value": "Mahenge Liandu project remains an exciting opportunity; further fundraising is critical to achieving strategy; other investment opportunities under review"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 10,
+          "title": "Results and Dividends - Armadale Capital Plc Directors’ Report",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Armadale Capital Plc"
+            },
+            {
+              "key": "Report Period",
+              "value": "Year ended 31 December 2022"
+            },
+            {
+              "key": "Loss for the Year",
+              "value": "£206,000"
+            },
+            {
+              "key": "Previous Year Loss",
+              "value": "£333,000"
+            },
+            {
+              "key": "Impairment Charge",
+              "value": "No impairment charge required"
+            },
+            {
+              "key": "Accounting Standards",
+              "value": "International Financial Reporting Standards as adopted by the United Kingdom"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 13,
+          "title": "Armadale Capital Plc Directors’ Report (continued) – Statement of Directors’ responsibilities",
+          "data": [
+            {
+              "key": "Document Context",
+              "value": "Directors’ Report for the year ended 31 December 2022 detailing the Directors’ responsibilities in preparing strategic, annual, and financial reports in compliance with applicable law and IFRS as adopted by the United Kingdom."
+            },
+            {
+              "key": "Key Responsibilities",
+              "value": "Preparation of financial statements in accordance with IFRS and the rules of the London Stock Exchange, selection and consistent application of accounting policies, making reasonable judgements and estimates, ensuring a true and fair view of the company’s state of affairs and financial performance, maintaining adequate accounting records, safeguarding assets, and ensuring website publication of the financial reports."
+            },
+            {
+              "key": "Compliance",
+              "value": "Directors must ensure the financial statements comply with the Companies Act 2006 and relevant regulatory requirements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 17,
+          "title": "Independent Auditor’s Report – Audit Scope & Directors’ Forecast Assessment",
+          "data": [
+            {
+              "key": "Report Title",
+              "value": "Armadale Capital Plc Independent Auditor’s Report to the Shareholders (Continued)"
+            },
+            {
+              "key": "Year End",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "Audit Scope Overview",
+              "value": "Review of Directors’ forecasts, cash flow assumptions, funding options, and related disclosures to assess the Parent Company’s and Group’s ability to meet short-term financial obligations."
+            },
+            {
+              "key": "Audit Standards",
+              "value": "International Standards on Auditing (UK and Ireland)"
+            },
+            {
+              "key": "Risk Assessment",
+              "value": "Assessment of risks of material misstatement including management override of internal controls and subjective judgments applied by directors."
+            },
+            {
+              "key": "Key Focus Areas",
+              "value": "Directors’ forecasts, cash flow forecast assumptions, potential funding options, and evaluation of material misstatement risks."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 19,
+          "title": "Armadale Capital Plc Independent Auditor’s Report – Materiality and Audit Thresholds",
+          "data": [
+            {
+              "key": "Reporting Period End",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "Materiality (Consolidated Financial Statements)",
+              "value": "£150,000"
+            },
+            {
+              "key": "Materiality (Parent Company Financial Statements)",
+              "value": "£140,000 (based on 2% of net assets)"
+            },
+            {
+              "key": "Audit Difference Reporting Threshold",
+              "value": "£6,000"
+            },
+            {
+              "key": "Currency",
+              "value": "GBP"
+            },
+            {
+              "key": "Notes",
+              "value": "The auditor’s report describes the application of materiality in planning and evaluating the audit and confirms that the Directors’ and strategic reports are consistent with the financial statements."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 20,
+          "title": "Independent Auditor’s Report to the Shareholders (Continued)",
+          "data": [
+            {
+              "key": "Report Scope",
+              "value": "Independent Auditor’s report for Armadale Capital Plc for the year ended 31 December 2022."
+            },
+            {
+              "key": "Report Findings",
+              "value": "No material misstatements were identified in the strategic report or the Directors’ report."
+            },
+            {
+              "key": "Directors' Responsibilities",
+              "value": "Directors are responsible for preparing the financial statements and ensuring they give a true and fair view, including assessing the going concern status."
+            },
+            {
+              "key": "Auditor's Responsibilities",
+              "value": "The auditor aims to obtain reasonable assurance that the financial statements are free from material misstatement, though inherent limitations exist."
+            },
+            {
+              "key": "Compliance Considerations",
+              "value": "Matters such as adequate accounting records, consistency between financial statements and records, and proper disclosure of directors’ remuneration have been reviewed."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 22,
+          "title": "Armadale Capital Plc Consolidated Statement of Comprehensive Income For the year ended 31 December 2022 - Financial Statement Summary",
+          "data": [
+            {
+              "key": "Administrative expenses 2022",
+              "value": "-309"
+            },
+            {
+              "key": "Administrative expenses 2021",
+              "value": "-330"
+            },
+            {
+              "key": "Change in fair value of investments 2022",
+              "value": "103"
+            },
+            {
+              "key": "Change in fair value of investments 2021",
+              "value": "8"
+            },
+            {
+              "key": "Operating loss 2022",
+              "value": "-206"
+            },
+            {
+              "key": "Operating loss 2021",
+              "value": "-322"
+            },
+            {
+              "key": "Finance costs 2022",
+              "value": "0"
+            },
+            {
+              "key": "Finance costs 2021",
+              "value": "-11"
+            },
+            {
+              "key": "Loss before taxation 2022",
+              "value": "-206"
+            },
+            {
+              "key": "Loss before taxation 2021",
+              "value": "-333"
+            },
+            {
+              "key": "Taxation 2022",
+              "value": "0"
+            },
+            {
+              "key": "Taxation 2021",
+              "value": "0"
+            },
+            {
+              "key": "Loss after taxation 2022",
+              "value": "-206"
+            },
+            {
+              "key": "Loss after taxation 2021",
+              "value": "-333"
+            },
+            {
+              "key": "Exchange differences on translating foreign entities 2022",
+              "value": "252"
+            },
+            {
+              "key": "Exchange differences on translating foreign entities 2021",
+              "value": "-61"
+            },
+            {
+              "key": "Total comprehensive profit/(loss) 2022",
+              "value": "46"
+            },
+            {
+              "key": "Total comprehensive profit/(loss) 2021",
+              "value": "-394"
+            },
+            {
+              "key": "Basic and diluted loss per share",
+              "value": "(0.04) for 2022; (0.07) for 2021"
+            },
+            {
+              "key": "Summary",
+              "value": "Improvement in operating loss, significant positive change in fair value of investments, and favorable swing in exchange differences led to overall comprehensive profit in 2022 versus a loss in 2021."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 23,
+          "title": "Balance Sheet Statement",
+          "data": [
+            {
+              "key": "Exploration and evaluation assets",
+              "value": "2022: 5483; 2021: 4727; note: 10"
+            },
+            {
+              "key": "Investments",
+              "value": "2022: 562; 2021: 138; note: 11"
+            },
+            {
+              "key": "Trade and other receivables",
+              "value": "2022: 150; 2021: 150; note: 12"
+            },
+            {
+              "key": "Cash and cash equivalents",
+              "value": "2022: 1046; 2021: 886"
+            },
+            {
+              "key": "Share capital",
+              "value": "2022: 3324; 2021: 3275; note: 14"
+            },
+            {
+              "key": "Share premium",
+              "value": "2022: 25153; 2021: 23906; note: 17"
+            },
+            {
+              "key": "Shares to be issued",
+              "value": "2022: 286; 2021: 286; note: 17"
+            },
+            {
+              "key": "Share option and warrant reserve",
+              "value": "2022: 362; 2021: 925; note: 17"
+            },
+            {
+              "key": "Foreign exchange reserve",
+              "value": "2022: 318; 2021: 66; note: 17"
+            },
+            {
+              "key": "Retained earnings",
+              "value": "2022: -22279; 2021: -22636; note: 17"
+            },
+            {
+              "key": "Trade and other payables",
+              "value": "2022: 77; 2021: 79; note: 13"
+            },
+            {
+              "key": "Total equity and liabilities",
+              "value": "2022: 7241; 2021: 5901"
+            },
+            {
+              "key": "Summary",
+              "value": "This balance sheet shows the company's financial position for 2021 and 2022. Total assets increased from £5,901,000 in 2021 to £7,241,000 in 2022. The company's main assets are exploration and evaluation assets (£5,483,000 in 2022). The company has minimal liabilities (£77,000 in 2022) and significant shareholders' equity, with notable increases in share premium from £23,906,000 to £25,153,000. The company continues to carry accumulated losses (negative retained earnings) though these improved slightly from -£22,636,000 to -£22,279,000."
+            },
+            {
+              "key": "Notes",
+              "value": "The notes on page 29 to 48 form part of the financial statements. Approved by the Board and authorised for issue on 11 May 2023. Signed on behalf of the Board by M Bull and N Johansen (Directors)."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 27,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Loss before taxation (2022)",
+              "value": "-206"
+            },
+            {
+              "key": "Loss before taxation (2021)",
+              "value": "-333"
+            },
+            {
+              "key": "Change in fair value of investments (2022)",
+              "value": "-102"
+            },
+            {
+              "key": "Change in fair value of investments (2021)",
+              "value": "-8"
+            },
+            {
+              "key": "Finance costs (2022)",
+              "value": "0"
+            },
+            {
+              "key": "Finance costs (2021)",
+              "value": "11"
+            },
+            {
+              "key": "Payables (2022)",
+              "value": "12"
+            },
+            {
+              "key": "Payables (2021)",
+              "value": "-39"
+            },
+            {
+              "key": "Net cash used in operating activities (2022)",
+              "value": "-307"
+            },
+            {
+              "key": "Net cash used in operating activities (2021)",
+              "value": "-368"
+            },
+            {
+              "key": "Expenditure on exploration and evaluation assets (2022)",
+              "value": "-518"
+            },
+            {
+              "key": "Expenditure on exploration and evaluation assets (2021)",
+              "value": "-399"
+            },
+            {
+              "key": "Purchase of listed investments (2022)",
+              "value": "-411"
+            },
+            {
+              "key": "Purchase of listed investments (2021)",
+              "value": "0"
+            },
+            {
+              "key": "Sale of listed investments (2022)",
+              "value": "39"
+            },
+            {
+              "key": "Sale of listed investments (2021)",
+              "value": "152"
+            },
+            {
+              "key": "Net cash used in investing activities (2022)",
+              "value": "-340"
+            },
+            {
+              "key": "Net cash used in investing activities (2021)",
+              "value": "-247"
+            },
+            {
+              "key": "Proceeds from share issues (2022)",
+              "value": "1307"
+            },
+            {
+              "key": "Proceeds from share issues (2021)",
+              "value": "1249"
+            },
+            {
+              "key": "Net cash from financing activities (2022)",
+              "value": "1307"
+            },
+            {
+              "key": "Net cash from financing activities (2021)",
+              "value": "1249"
+            },
+            {
+              "key": "Net increase in cash and cash equivalents (2022)",
+              "value": "160"
+            },
+            {
+              "key": "Net increase in cash and cash equivalents (2021)",
+              "value": "634"
+            },
+            {
+              "key": "Cash and cash equivalents at 1 January (2022)",
+              "value": "886"
+            },
+            {
+              "key": "Cash and cash equivalents at 1 January (2021)",
+              "value": "252"
+            },
+            {
+              "key": "Cash and cash equivalents at 31 December (2022)",
+              "value": "1046"
+            },
+            {
+              "key": "Cash and cash equivalents at 31 December (2021)",
+              "value": "886"
+            },
+            {
+              "key": "Statement Summary",
+              "value": "This cash flow statement shows the company's cash movements for 2021 and 2022. Despite operating losses in both years (-£206k in 2022, -£333k in 2021), the company maintained positive cash flow through financing activities, primarily share issues (£1,307k in 2022, £1,249k in 2021). Investment activities resulted in net outflows, with significant expenditure on exploration and evaluation assets. The year-end cash position improved from £886k in 2021 to £1,046k in 2022, though the net increase in cash was smaller in 2022 (£160k) compared to 2021 (£634k)."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 28,
+          "title": "Cash Flow Statement - Armadale Capital Plc Company Statement of Cash Flows For the year ended 31 December 2022",
+          "data": [
+            {
+              "key": "Loss before taxation",
+              "value": "2022: -238, 2021: -383"
+            },
+            {
+              "key": "Impairment charge",
+              "value": "2022: 241, 2021: 170"
+            },
+            {
+              "key": "Change in fair value of investments",
+              "value": "2022: -120, 2021: -8"
+            },
+            {
+              "key": "Finance costs",
+              "value": "2022: 0, 2021: 11"
+            },
+            {
+              "key": "Receivables",
+              "value": "2022: -1, 2021: 6"
+            },
+            {
+              "key": "Payables",
+              "value": "2022: 17, 2021: -28"
+            },
+            {
+              "key": "Net cash used in operating activities",
+              "value": "2022: -101, 2021: -232"
+            },
+            {
+              "key": "Advances to subsidiaries",
+              "value": "2022: -1207, 2021: -825"
+            },
+            {
+              "key": "Sale of listed investments",
+              "value": "2022: 89, 2021: 152"
+            },
+            {
+              "key": "Net cash used in investing activities",
+              "value": "2022: -1118, 2021: -673"
+            },
+            {
+              "key": "Proceeds from share issues",
+              "value": "2022: 1307, 2021: 1249"
+            },
+            {
+              "key": "Net increase in cash and cash equivalents",
+              "value": "2022: 88, 2021: 344"
+            },
+            {
+              "key": "Cash and cash equivalents at 1 January",
+              "value": "2022: 562, 2021: 218"
+            },
+            {
+              "key": "Cash and cash equivalents at 31 December",
+              "value": "650 (as noted) vs 562 (table figure)"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents a cash flow statement comparing years 2022 and 2021 (in thousands of pounds). The company showed operating losses in both years (-£238k in 2022, improved from -£383k in 2021). Operating cash flow improved from -£232k to -£101k, while investing activities consumed more cash in 2022 (-£1,118k vs -£673k in 2021) mainly due to increased advances to subsidiaries. This was offset by financing activities, primarily through share issues (£1,307k in 2022). The year ended with a net increase in cash of £88k, though lower than 2021's increase of £344k. The closing cash position improved from £218k to £562k."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Armadale Capital Plc Notes to the financial statements (continued)",
+          "data": [
+            {
+              "key": "Year Ended",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "Investments Accounting Policy",
+              "value": "Investments in subsidiary companies and joint ventures are stated at cost less any provision for impairment, with other investments measured at fair value and changes recognized in the statement of comprehensive income."
+            },
+            {
+              "key": "Impairment of Assets",
+              "value": "At the end of each reporting period, directors review asset carrying amounts to identify potential impairments. If the recoverable amount is less than the carrying amount, an impairment loss is recognized immediately in profit or loss (or adjusted against a revaluation reserve if applicable). Reversals, when they occur, are treated similarly."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Armadale Capital Plc - Notes to the Financial Statements (Accounting Policies)",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Armadale Capital Plc"
+            },
+            {
+              "key": "Reporting Period",
+              "value": "For the year ended 31 December 2022"
+            },
+            {
+              "key": "Section 2.13 Financial Assets",
+              "value": "Loans and receivables are recognised when the company becomes party to contractual provisions; measured at amortised cost using the effective interest method; impairment assessed via the expected credit loss model."
+            },
+            {
+              "key": "Section 2.14 Financial Liabilities",
+              "value": "Financial liabilities are recognised when the company becomes party to a financial liability; includes trade payables and borrowings; modifications under IFRS 9 recorded as immediate gain or loss."
+            },
+            {
+              "key": "Section 2.15 New Accounting Standards",
+              "value": "No significant changes effective for 2022. Upcoming amendments include IAS 1 (Presentation), IAS 8 (Accounting Estimates) and IAS 12 (Income Taxes) effective from periods commencing on or after 1 January 2023."
+            },
+            {
+              "key": "Relevant IFRS Standards",
+              "value": "IFRS 9, IAS 1, IAS 8, IAS 12"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Armadale Capital Plc Notes to the financial statements (continued)",
+          "data": [
+            {
+              "key": "Year Ended",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "Section",
+              "value": "Significant judgements and sources of estimation uncertainty"
+            },
+            {
+              "key": "Estimation Process",
+              "value": "Management makes estimates and assumptions that affect the amounts in the annual financial statements. The process involves using available information and judgment."
+            },
+            {
+              "key": "Key Areas of Uncertainty",
+              "value": "Value of the Group’s exploration assets, share based payment charges, and accounting treatment of compound financial instruments"
+            },
+            {
+              "key": "Going Concern",
+              "value": "The financial statements are prepared on a going concern basis with the Directors expecting continued operational existence in the foreseeable future."
+            },
+            {
+              "key": "Exploration and Evaluation Assets",
+              "value": "Include accumulated costs and capitalised finance costs; their commercial realisation depends on the economic development of graphite deposits with potential impairment if development is not achieved. No indicators of impairment for the Mahenge project were noted."
+            },
+            {
+              "key": "Impairment of Investments",
+              "value": "Investments in subsidiaries are subject to potential impairment if the economic development of graphite deposits does not occur, with expected credit losses assessed in line with IFRS 9."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "Notes to the Financial Statements - Loss Per Share & Asset Movements",
+          "data": [
+            {
+              "key": "loss_2022",
+              "value": "£206,000"
+            },
+            {
+              "key": "loss_2021",
+              "value": "£333,000"
+            },
+            {
+              "key": "weighted_average_shares_2022",
+              "value": "574,589,300"
+            },
+            {
+              "key": "weighted_average_shares_2021",
+              "value": "505,019,431"
+            },
+            {
+              "key": "Group Cost Analysis Summary",
+              "value": "Cost increased from £4,727,000 (2021) to £5,483,000 (2022) with exchange movements rising from £38,000 to £288,000 and additions from £272,000 to £468,000"
+            },
+            {
+              "key": "Capitalised Finance Costs",
+              "value": "Nil in 2022 (2021: £24,000)"
+            },
+            {
+              "key": "Non-current Asset Investments Summary",
+              "value": "Investment value moved from £282,000 at 1 January 2021 to £138,000 at 31 December 2021 (after disposals and a decrease in fair value) and then increased to £562,000 at 31 December 2022 following additions, disposals, and an increase in fair value"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Armadale Capital Plc - Investments and Subsidiary Details",
+          "data": [
+            {
+              "key": "Investment in Forum Energy Metal Corp",
+              "value": "Acquired in 2019 (originally 2 million common shares). During 2022, 550,000 shares were sold, realizing a profit of £72,000 (compared to £137,000 in 2021)."
+            },
+            {
+              "key": "Investment in Montengu Mining Limited",
+              "value": "Holding of 228.5 million shares reinstated at fair value following a reverse takeover and relisting on the Johannesburg Stock Exchange (formerly Mine Restoration Investments Limited)."
+            },
+            {
+              "key": "Investment in Lindian Resources Limited",
+              "value": "Acquired 4.5 million shares by subsidiary Graphite Advancements Pty Ltd for A$729,000 (approximately £411,000) in cash on the Australian Stock Exchange."
+            },
+            {
+              "key": "Investment Position Changes (2021-2022)",
+              "value": "Table shows subsidiaries held constant at £1,600,000; Listed investments decreased from £282,000 at 1 January 2021 to £169,000 at 31 December 2022, with disposals and fair value changes affecting the totals (total investment declined from £1,882,000 to £1,769,000)."
+            },
+            {
+              "key": "Subsidiary Companies",
+              "value": "Includes Graphite Advancements Pty Ltd, Armadale Graphite Pty Ltd, Graphite Advancements (Tanzania) Limited* and Battery Graphite Resources Limitedt. All are 100% owned with ordinary shares; holding structures indicate control via Australian intermediate holding companies over Tanzanian mining project operators."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Notes to the financial statements – Trade and Other Receivables and Payables",
+          "data": [
+            {
+              "key": "Project",
+              "value": "Mahenge Liandu Graphite Project"
+            },
+            {
+              "key": "Expected Credit Loss Recognition (Current Year)",
+              "value": "£241,000"
+            },
+            {
+              "key": "Expected Credit Loss Recognition (Prior Year)",
+              "value": "£170,000"
+            },
+            {
+              "key": "Accumulated Provision (Current Year)",
+              "value": "£1,106,000"
+            },
+            {
+              "key": "Accumulated Provision (Prior Year)",
+              "value": "£865,000"
+            },
+            {
+              "key": "Trade Payables – Group (2022)",
+              "value": "£8k"
+            },
+            {
+              "key": "Trade Payables – Group (2021)",
+              "value": "£22k"
+            },
+            {
+              "key": "Other Creditors and Accruals – Group (2022)",
+              "value": "£69k"
+            },
+            {
+              "key": "Other Creditors and Accruals – Group (2021)",
+              "value": "£57k"
+            },
+            {
+              "key": "Subtotal – Group (2022)",
+              "value": "£77k"
+            },
+            {
+              "key": "Subtotal – Group (2021)",
+              "value": "£79k"
+            },
+            {
+              "key": "Trade Payables – Company (2022)",
+              "value": "£8k"
+            },
+            {
+              "key": "Trade Payables – Company (2021)",
+              "value": "£6k"
+            },
+            {
+              "key": "Other Creditors and Accruals – Company (2022)",
+              "value": "£66k"
+            },
+            {
+              "key": "Other Creditors and Accruals – Company (2021)",
+              "value": "£51k"
+            },
+            {
+              "key": "Subtotal – Company (2022)",
+              "value": "£74k"
+            },
+            {
+              "key": "Subtotal – Company (2021)",
+              "value": "£57k"
+            },
+            {
+              "key": "Repayment Terms",
+              "value": "All trade and other payables are due within three months."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 5,
+          "title": "Armadale Capital Plc Strategic Report (Continued)",
+          "data": [
+            {
+              "key": "Environmental Baseline Data",
+              "value": "Collection of environmental data (temperature, pressure, wind, moon phase, humidity, solar radiation, rainfall, and stream flow) for mining lease compliance and design/planning of proposed mining operations."
+            },
+            {
+              "key": "Geotech Drilling",
+              "value": "Sites prepared for drill rig; planned geotech drilling will support detailed design of plant and tails storage area."
+            },
+            {
+              "key": "Logistics Routes Assessment",
+              "value": "Assessment of logistics routes to ensure the finalized product enters the market at the desired price level."
+            },
+            {
+              "key": "Government Ownership Discussions",
+              "value": "Ongoing discussions with the Government of Tanzania regarding framework for 16% ownership; submission of draft Shareholder Agreements, Articles of Association and a Joint Financial Model for review."
+            },
+            {
+              "key": "Investment Strategy",
+              "value": "Active management of investments (e.g. Mahenge Liandu Graphite Project) alongside passive investments with portfolio review for capital gains opportunities; reinstatement of holding in Mantengu Mining Limited reported."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 11,
+          "title": "Armadale Capital Plc Directors’ Report – Shareholdings and Ownership Disclosures",
+          "data": [
+            {
+              "key": "Directors' Interests in Ordinary Shares",
+              "value": "Disclosure of directors' interests in Ordinary Share capital as at 31 December 2022 and 31 December 2021. N Johansen held 2,012,122 shares (2022) versus 2,012,12 (2021); M Bull held 47,783,284 shares (2022) versus 39,931,01 (2021)."
+            },
+            {
+              "key": "Directors' Interests in Warrants",
+              "value": "Disclosure of directors' interests in warrants to subscribe for Ordinary Shares. M Bull held 7,852,273 (2.2p warrants) and 1,666,667 (3p warrants) as at 31 December 2021 with no data provided for 2022. The warrants later expired during the year."
+            },
+            {
+              "key": "Substantial Shareholdings",
+              "value": "At 4 May 2022, the company identified significant interests of shareholders holding 3% or more of the issued share capital. Key stakes include: Interactive Investor Services Clients (14.1%), Hargreaves Lansdown Clients (13.0%), Halifax Share Dealing Clients (8.5%), Matt Bull (8.1%), UBS Nominees (5.9%), Kabunga Holdings Pty Ltd (5.9%), Barclays Clients (3.4%), IG Markets Clients (3.4%), and AJ Bell Clients (3.2%)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 24,
+          "title": "Armadale Capital Plc Company Statement of Financial Position At 31 December 2022",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Balance Sheet"
+            },
+            {
+              "key": "Non-current assets - Investments (2022)",
+              "value": "1,769"
+            },
+            {
+              "key": "Non-current assets - Other receivables (2022)",
+              "value": "4,426"
+            },
+            {
+              "key": "Current assets - Trade and other receivables (2022)",
+              "value": "126"
+            },
+            {
+              "key": "Current assets - Cash and cash equivalents (2022)",
+              "value": "650"
+            },
+            {
+              "key": "Total assets (2022)",
+              "value": "6,971"
+            },
+            {
+              "key": "Share capital (2022)",
+              "value": "3,324"
+            },
+            {
+              "key": "Share premium (2022)",
+              "value": "25,153"
+            },
+            {
+              "key": "Shares to be issued (2022)",
+              "value": "286"
+            },
+            {
+              "key": "Share option and warrant reserve (2022)",
+              "value": "362"
+            },
+            {
+              "key": "Retained earnings (2022)",
+              "value": "(22,228)"
+            },
+            {
+              "key": "Total equity (2022)",
+              "value": "6,897"
+            },
+            {
+              "key": "Trade and other payables (2022)",
+              "value": "74"
+            },
+            {
+              "key": "Total liabilities (2022)",
+              "value": "74"
+            },
+            {
+              "key": "Equity change",
+              "value": "Improved from £5,839K in 2021 to £6,897K in 2022"
+            },
+            {
+              "key": "Total assets change",
+              "value": "Increased from £5,896K in 2021 to £6,971K in 2022"
+            },
+            {
+              "key": "Loss after taxation",
+              "value": "£238K (Included in parent company statements)"
+            },
+            {
+              "key": "Exemption under Companies Act",
+              "value": "Exempted (section 408) from presenting a full Statement of Comprehensive Income"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 25,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "At 1 January 2021 - Share Capital",
+              "value": "3208"
+            },
+            {
+              "key": "At 1 January 2021 - Share Premium",
+              "value": "22348"
+            },
+            {
+              "key": "At 1 January 2021 - Shares to be issued",
+              "value": "286"
+            },
+            {
+              "key": "At 1 January 2021 - Share Option and Warrant Reserve",
+              "value": "762"
+            },
+            {
+              "key": "At 1 January 2021 - Foreign Exchange Reserve",
+              "value": "127"
+            },
+            {
+              "key": "At 1 January 2021 - Retained Earnings",
+              "value": "-22406"
+            },
+            {
+              "key": "At 1 January 2021 - Total",
+              "value": "4325"
+            },
+            {
+              "key": "At 31 December 2021 - Share Capital",
+              "value": "3275"
+            },
+            {
+              "key": "At 31 December 2021 - Share Premium",
+              "value": "23906"
+            },
+            {
+              "key": "At 31 December 2021 - Shares to be issued",
+              "value": "286"
+            },
+            {
+              "key": "At 31 December 2021 - Share Option and Warrant Reserve",
+              "value": "925"
+            },
+            {
+              "key": "At 31 December 2021 - Foreign Exchange Reserve",
+              "value": "66"
+            },
+            {
+              "key": "At 31 December 2021 - Retained Earnings",
+              "value": "-22636"
+            },
+            {
+              "key": "At 31 December 2021 - Total",
+              "value": "5822"
+            },
+            {
+              "key": "Final Position - Share Capital",
+              "value": "3324"
+            },
+            {
+              "key": "Final Position - Share Premium",
+              "value": "25153"
+            },
+            {
+              "key": "Final Position - Shares to be issued",
+              "value": "286"
+            },
+            {
+              "key": "Final Position - Share Option and Warrant Reserve",
+              "value": "362"
+            },
+            {
+              "key": "Final Position - Foreign Exchange Reserve",
+              "value": "318"
+            },
+            {
+              "key": "Final Position - Retained Earnings",
+              "value": "-22279"
+            },
+            {
+              "key": "Final Position - Total",
+              "value": "7164"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 25,
+          "title": "Equity Components and Reserves Definitions",
+          "data": [
+            {
+              "key": "Share capital",
+              "value": "amount subscribed for share capital at nominal value"
+            },
+            {
+              "key": "Share premium",
+              "value": "amount subscribed for share capital in excess of nominal value, net ot allowable expenses"
+            },
+            {
+              "key": "Shares to be issued",
+              "value": "share capital to be issued in connection with historical acquisition"
+            },
+            {
+              "key": "Share option and warrant reserve",
+              "value": "cumulative charge recognised under IFRS 2 in respect of share-based payment awards"
+            },
+            {
+              "key": "Foreign exchange reserve",
+              "value": "gains/losses arising on re-translating the net assets of overseas operations into sterling"
+            },
+            {
+              "key": "Retained earnings",
+              "value": "cumulative net gains and losses recognised in the statement of comprehensive income"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 26,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Company and Reporting Period",
+              "value": "Armadale Capital Plc Company Statement of Changes in Equity for the year ended 31 December 2022"
+            },
+            {
+              "key": "At 1 January 2021 - Total Equity",
+              "value": "4,331 (in thousands)"
+            },
+            {
+              "key": "Loss for the period (2021)",
+              "value": "-383 (in thousands)"
+            },
+            {
+              "key": "Issue of shares and warrants (2021)",
+              "value": "1,891 (in thousands)"
+            },
+            {
+              "key": "At 31 December 2021 - Total Equity",
+              "value": "5,839 (in thousands)"
+            },
+            {
+              "key": "Loss for the period (subsequent)",
+              "value": "-238 (in thousands)"
+            },
+            {
+              "key": "Issue of shares (subsequent)",
+              "value": "1,296 (in thousands)"
+            },
+            {
+              "key": "At 31 December 2022 - Equity Components",
+              "value": "Share Capital: 3,324; Share Premium: 25,153; Shares to be issued: 286; Share Option & Warrant Reserve: 362; Retained Earnings: -22,228; Total Equity: 6,897 (all in thousands)"
+            },
+            {
+              "key": "Summary",
+              "value": "The statement shows movements in shareholders' equity over the periods with noted changes from share issues, losses, and reserve adjustments, indicating an overall increase in total equity despite significant negative retained earnings."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 26,
+          "title": "Equity Components Definitions",
+          "data": [
+            {
+              "key": "Share capital",
+              "value": "amount subscribed for share capital at nominal value"
+            },
+            {
+              "key": "Share premium",
+              "value": "amount subscribed for share capital in excess of nominal value, net of allowable expenses"
+            },
+            {
+              "key": "Shares to be issued",
+              "value": "share capital to be issued in connection with historical acquisition"
+            },
+            {
+              "key": "Share option and warrant reserve",
+              "value": "cumulative charge recognised under IFRS 2 in respect of share-based payment awards"
+            },
+            {
+              "key": "Foreign exchange reserve",
+              "value": "gains/losses arising on re-translating the net assets of overseas operations into sterling"
+            },
+            {
+              "key": "Retained earnings",
+              "value": "cumulative net gains and losses recognised in the statement of comprehensive income"
+            },
+            {
+              "key": "Additional Note",
+              "value": "The notes on pages 29 to 48 form part of the financial statements."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 36,
+          "title": "Armadale Capital Plc Notes to the financial statements (continued)",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Armadale Capital Plc"
+            },
+            {
+              "key": "Year End",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "Accounting Policies - New Accounting Standards",
+              "value": "Effective for periods commencing on or after 1 January 2024: IAS 1 – Presentation of Financial Statements – Classification of liabilities as current or non‐current; IAS 1 – Presentation of Financial Statements – Non‐current liabilities with covenants; IFRS 16 – Leases – Lease liability in a sale and leaseback."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 46,
+          "title": "Share Capital Movement Summary / 14. Share capital",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Armadale Capital Plc"
+            },
+            {
+              "key": "Document Section",
+              "value": "Notes to the financial statements (continued) for the year ended 31 December 2022 - 14. Share capital"
+            },
+            {
+              "key": "Period Covered",
+              "value": "From 1 January 2021 to 31 December 2022"
+            },
+            {
+              "key": "Share Classes",
+              "value": "Ordinary shares in three classes: 0.01p, 0.14p, and 1.4p"
+            },
+            {
+              "key": "Transactions",
+              "value": "Issues of shares, placings, exercise of warrants, and conversion of loan notes"
+            },
+            {
+              "key": "Movement Summary",
+              "value": "Total share capital value increased from £3,208,000 to £3,324,000. Key movements include placings and warrant exercises (notably, a placing of approximately 18.9M shares and warrant exercises involving 48,868,969 shares raising £1,296,000)"
+            },
+            {
+              "key": "Nominal Value Note",
+              "value": "The nominal value of each Ordinary Share was 0.01p until the reorganisation on 22 June 2015 and 0.1p thereafter"
+            },
+            {
+              "key": "Warrant Details",
+              "value": "During the year, warrants to subscribe for Ordinary Shares were exercised, details are provided in note 16"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 47,
+          "title": "Warrant Activity Summary and Warrants Note",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Armadale Capital Plc"
+            },
+            {
+              "key": "Document Section",
+              "value": "Notes to the financial statements – Warrants to subscribe for Ordinary Shares"
+            },
+            {
+              "key": "Financial Year End",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "February 2019 Warrants",
+              "value": "Issued at 2.2p per share with a three-year expiry; outstanding warrants lapsed on expiry"
+            },
+            {
+              "key": "September 2019 Warrants",
+              "value": "Issued at 3.0p per share with a three-year expiry; outstanding warrants lapsed on expiry"
+            },
+            {
+              "key": "April 2020 Warrants",
+              "value": "Issued at 3.25p per share with a two-year expiry; outstanding warrants lapsed on expiry"
+            },
+            {
+              "key": "May 2021 Warrants",
+              "value": "Issued at 7.0p per share with a three-year expiry; 18,888,889 warrants remained outstanding"
+            },
+            {
+              "key": "Warrant Activity Summary",
+              "value": "The table details warrant activity from January 2021 to December 2022, showing a decrease in total outstanding warrants from 95,291,000 to 18,888,889 due to exercises and expirations. The remaining warrants represent 3.21% of issued share capital."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 6,
+          "title": "Principal Risks and Uncertainties",
+          "data": [
+            {
+              "key": "Quoted Portfolio Value",
+              "value": "£1,245,000 on 4 May 2023"
+            },
+            {
+              "key": "Investment Strategy",
+              "value": "Exposure in resource companies with potential for short to medium term returns and diversification across commodities"
+            },
+            {
+              "key": "Sustainable Development",
+              "value": "Commitment to ethical business practices with a focus on health and safety, environmental responsibility, and community support in the mining sector"
+            },
+            {
+              "key": "COVID-19 Impact",
+              "value": "Risks in terms of travel restrictions and site access; impact minimal as site activities were largely completed in 2019"
+            },
+            {
+              "key": "Commodity Risk",
+              "value": "High exposure to graphite via the Mahenge Liandu Graphite Project; vulnerable to shifts in global energy policies"
+            },
+            {
+              "key": "Brexit Impact",
+              "value": "Under monitoring; so far no impact on the Group’s ability to raise funds"
+            },
+            {
+              "key": "Exploration and Development Risks",
+              "value": "Technical, infrastructure, and logistical challenges that may affect full project development"
+            },
+            {
+              "key": "Funding Risk",
+              "value": "Future development work and financial returns may be adversely affected by the global economic environment and funding availability"
+            },
+            {
+              "key": "Sovereign and Regulatory Risk",
+              "value": "Vulnerability to changes in government policies across multiple national jurisdictions; mining regulation changes in Tanzania under evaluation with minimal current impact"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 7,
+          "title": "Armadale Capital Plc Strategic Report (Continued)",
+          "data": [
+            {
+              "key": "Year Ended",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "Principal Risks and Uncertainties",
+              "value": "The Group is exposed to gold due to a royalty on gold production from its previously held gold project. Its future royalty stream is affected by fluctuations in the prevailing market price of gold and variations in the US dollar."
+            },
+            {
+              "key": "Mitigation Strategies",
+              "value": "Proactive management to reduce fixed costs, rationalisation of capital expenditures, maintaining strong relationships with government (including local staff and partial government ownership), community engagement, and exploring alternative and continued funding activities."
+            },
+            {
+              "key": "Risk Management Approach",
+              "value": "The Directors monitor risks regularly, ensure compliance with agreements, apply appropriate policies and procedures, and rely on a skilled team to manage risks."
+            },
+            {
+              "key": "Key Performance Indicators",
+              "value": "Performance of underlying investments is measured by development progress, increase in capital value since investment, and earnings generated; however, it is considered too early in the investment cycle for meaningful KPIs."
+            },
+            {
+              "key": "Section 172 Statement",
+              "value": "Statement regarding a director's duty to promote the success of the company for the benefit of its members, as included in the report."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 14,
+          "title": "Armadale Capital Plc Directors’ Report (continued) - Going Concern",
+          "data": [
+            {
+              "key": "Year Ended",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "Cash at 31 December 2022",
+              "value": "£1,046,000 (Group), compared to £886,000 in 2021"
+            },
+            {
+              "key": "Debt Finance",
+              "value": "No debt finance at 31 December 2022 (2021: nil)"
+            },
+            {
+              "key": "Cash at 4 May 2023",
+              "value": "£737,000"
+            },
+            {
+              "key": "Listed Investments",
+              "value": "Traded value of £1,245,000"
+            },
+            {
+              "key": "Cash Flow Forecast",
+              "value": "Forecast for the next twelve months indicates sufficient cash to meet current commitments, but further fundraising will be required thereafter"
+            },
+            {
+              "key": "Risk Factor - Going Concern",
+              "value": "Material uncertainty exists regarding the Group’s and Company’s ability to continue as a going concern due to dependency on further fundraising; absence of binding agreements may result in inability to realise assets or discharge liabilities."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "risk_factor",
+          "page": 16,
+          "title": "Independent Auditor’s Report to the Shareholders of Armadale Capital Plc",
+          "data": [
+            {
+              "key": "Audit Period",
+              "value": "For the year ended 31 December 2022"
+            },
+            {
+              "key": "Financial Statements Audited",
+              "value": "Consolidated statement of comprehensive income, statements of financial position, changes in equity, cash flows and accompanying notes, including significant accounting policies"
+            },
+            {
+              "key": "Reporting Framework",
+              "value": "Applicable law and IFRSs as adopted by the United Kingdom; for the Parent Company, also in accordance with the Companies Act 2006"
+            },
+            {
+              "key": "Opinion",
+              "value": "The financial statements give a true and fair view of the state of the Group’s and Parent Company’s affairs as at 31 December 2022 and disclose a loss for the year"
+            },
+            {
+              "key": "Auditing Standards",
+              "value": "International Standards on Auditing (UK) (ISAs (UK))"
+            },
+            {
+              "key": "Material Uncertainty – Going Concern",
+              "value": "The Parent Company’s and the Group’s ability to continue as a going concern is dependent on further fundraising, which introduces a material uncertainty that may cast significant doubt over their ability to continue"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 29,
+          "title": "Armadale Capital Plc Notes to the financial statements",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Armadale Capital Plc"
+            },
+            {
+              "key": "Original Company Name",
+              "value": "Watermark Global Plc"
+            },
+            {
+              "key": "Incorporation Date",
+              "value": "19 August 2005"
+            },
+            {
+              "key": "Country of Incorporation",
+              "value": "United Kingdom"
+            },
+            {
+              "key": "Name Change Date",
+              "value": "2 July 2013"
+            },
+            {
+              "key": "Registered Office",
+              "value": "1 Arbrook Lane, Esher, Surrey, KT10 9EG"
+            },
+            {
+              "key": "Accounting Compliance",
+              "value": "International Financial Reporting Standards (IFRSs) as adopted by the United Kingdom"
+            },
+            {
+              "key": "Going Concern Basis",
+              "value": "Prepared on a going concern basis with a cash balance of £1,046,000 at 31 December 2022 and a subsequent cash position of £737,000 as of 4 May 2023; further fundraising is required beyond 12 months."
+            },
+            {
+              "key": "Listed Investments (4 May 2023)",
+              "value": "£1,245,000"
+            },
+            {
+              "key": "Material Uncertainty",
+              "value": "Exists due to dependence on further fundraising to continue operations and develop exploration projects."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "risk_factor",
+          "page": 38,
+          "title": "Financial Risk Management and Risk Factors",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Armadale Capital Plc"
+            },
+            {
+              "key": "Document Section",
+              "value": "Notes to the financial statements (continued)"
+            },
+            {
+              "key": "Year End",
+              "value": "31 December 2022"
+            },
+            {
+              "key": "Financial Risks",
+              "value": "Liquidity risk, Currency risk, Capital risk management"
+            },
+            {
+              "key": "Currency Exposures",
+              "value": "US Dollar, Australian Dollar; Loans denominated in GBP"
+            },
+            {
+              "key": "Risk Description",
+              "value": "The Group and Company manages financial risks through monitoring cash flows, maintaining reserves, and aligning asset-liability maturities, with receivables recovery dependent on mining project success."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 39,
+          "title": "Armadale Capital Plc - Notes to the Financial Statements: Financial Risk Management (continued)",
+          "data": [
+            {
+              "key": "Commodity risk",
+              "value": "The Group’s exploration and evaluation assets are principally exposed to graphite, making the projects vulnerable to fluctuations in the commodity's market price."
+            },
+            {
+              "key": "Other market price risk",
+              "value": "The Group holds strategic equity investments in other companies; exposure to market price risk from this activity is considered acceptable."
+            },
+            {
+              "key": "Credit risk",
+              "value": "Credit risk is primarily attributable to cash balances held at reputable institutions. The total credit risk amounted to £1,196,000 at year-end, which includes the sum of receivables and cash."
+            },
+            {
+              "key": "Fair value estimation",
+              "value": "Financial assets and liabilities approximate their carrying amounts at the reporting date. Non‐current asset investments (excluding subsidiary investments) are measured at fair value."
+            },
+            {
+              "key": "Financial instruments classification",
+              "value": "The Group’s financial instruments, including cash, receivables, and payables, are initially recognized at fair value with subsequent measurement at amortised cost, except for listed investments and derivative liabilities which are recognized at fair value."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": false,
+      "elements": []
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 21,
+          "title": "Armadale Capital Plc Independent Auditor’s Report to the Shareholders (Continued)",
+          "data": [
+            {
+              "key": "Reporting Period",
+              "value": "Year ended 31 December 2022"
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "Enquiry of management regarding actual and potential litigation and claims; enquiry to identify material non‐compliance with laws and regulations; review of financial statement disclosures and supporting documentation; testing of journal entries and adjustments to address risk of irregularities from management override of controls; evaluation of significant transactions outside normal business and review of financial reporting judgments and accounting estimates."
+            },
+            {
+              "key": "Additional Information",
+              "value": "Further description of auditor responsibilities available on the Financial Reporting Council's website at www.frc.org.uk/auditorsresponsibilities."
+            },
+            {
+              "key": "Report Usage",
+              "value": "This report is made solely to the Parent Company’s members as a body in accordance with the Companies Act 2006."
+            },
+            {
+              "key": "Auditor",
+              "value": "Alan Poole BA (Hons) FCA (Senior Statutory Auditor)"
+            },
+            {
+              "key": "Audit Firm",
+              "value": "James Cowper Kreston Audit Statutory Auditors"
+            },
+            {
+              "key": "Report Date",
+              "value": "11 May 2023"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 8,
+          "title": "Armadale Capital Plc Strategic Report (Continued)",
+          "data": [
+            {
+              "key": "Employees",
+              "value": "Directors consider continuing active work on the Mahenge Liandu Graphite Project in the best interest of contractor employees, ensuring skills utilization and community development. Regular feedback from key stakeholders, including staff and advisers, is actively sought to maintain an ethical corporate culture."
+            },
+            {
+              "key": "Suppliers",
+              "value": "Directors ensure supplier availability and commitment through periodic and ad-hoc briefings. Effective communication with staff and other stakeholders, including shareholders, is maintained via regulatory news releases, updated investor relations, and reports."
+            },
+            {
+              "key": "Community and Environment",
+              "value": "The Company engages with communities through employment and business development arrangements. It adheres to environmental and social management plans on the Mahenge Liandu Graphite Project, utilizing a local manager in Liandu to manage local affairs and feedback."
+            },
+            {
+              "key": "Business Conduct",
+              "value": "The board has a collective responsibility for maintaining high standards of business conduct. They define corporate governance frameworks, set strategic goals, and ensure adherence to ethical values throughout all dealings."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 2,
+    "GBP": 102,
+    "AUD": 83
+  },
+  "sha1": "a85dba6c75031912d56a811637f803ba4ddeb257"
+}

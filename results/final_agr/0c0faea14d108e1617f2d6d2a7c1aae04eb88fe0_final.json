@@ -1,0 +1,3258 @@
+{
+  "letters": 163932,
+  "pages": 69,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 6
+    },
+    "company_name": "Odyssey Gold Limited",
+    "major_industry": "Pharmaceuticals",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "2022 Annual Report",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "ODYSSEY GOLD LTD"
+            },
+            {
+              "key": "Contact Address",
+              "value": "Level 9, 28 The Esplanade, Perth WA 6000"
+            },
+            {
+              "key": "Telephone",
+              "value": "+61 8 9322 6322"
+            },
+            {
+              "key": "Facsimile",
+              "value": "+61 8 9322 6558"
+            },
+            {
+              "key": "Website",
+              "value": "odysseygold.com.au"
+            },
+            {
+              "key": "Ticker",
+              "value": "ASX:ODY"
+            },
+            {
+              "key": "ABN",
+              "value": "73 116 151 636"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 5,
+          "title": "DIRECTORS' REPORT",
+          "data": [
+            {
+              "key": "drill_results",
+              "value": "Highway Zone Drilling defined high grade mineralisation"
+            },
+            {
+              "key": "total_drill_holes",
+              "value": "131 holes (23,131m) of RC, 15 holes (3,649m) of DD"
+            },
+            {
+              "key": "location",
+              "value": "Highway Zone, Cable-Bollard, Bottle Dump, Maybelle"
+            },
+            {
+              "key": "significant_assays",
+              "value": "Various assays reported with details on lengths and grades."
+            },
+            {
+              "key": "future_proposals",
+              "value": "Potential for open pit and underground mining at Tuckanarra Project."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 12,
+          "title": "Directors' Report (Continued)",
+          "data": [
+            {
+              "key": "Trends",
+              "value": "Maybelle and Lucknow"
+            },
+            {
+              "key": "Drilling Details",
+              "value": "Detailed field mapping and geochemical surveys integrated for exploration model"
+            },
+            {
+              "key": "Soil Geochemistry",
+              "value": "1,535 soil samples collected with findings of >10ppb soil anomalism"
+            },
+            {
+              "key": "XRF Data",
+              "value": "35,537 XRF readings classified with machine learning"
+            },
+            {
+              "key": "Mining Company",
+              "value": "ODYSSEY"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 33,
+          "title": "Balance Sheet Statement",
+          "data": [
+            {
+              "key": "Total Current Assets 2022",
+              "value": "3,678,285"
+            },
+            {
+              "key": "Total Current Assets Previous Year",
+              "value": "13,197,445"
+            },
+            {
+              "key": "Cash and cash equivalents 2022",
+              "value": "3,480,120"
+            },
+            {
+              "key": "Cash and cash equivalents Previous Year",
+              "value": "12,689,470"
+            },
+            {
+              "key": "Total Liabilities 2022",
+              "value": "2,800,376"
+            },
+            {
+              "key": "Total Liabilities Previous Year",
+              "value": "2,900,778"
+            },
+            {
+              "key": "Contributed Equity 2022",
+              "value": "47,952,321"
+            },
+            {
+              "key": "Contributed Equity Previous Year",
+              "value": "47,946,671"
+            },
+            {
+              "key": "Accumulated Losses 2022",
+              "value": "(39,612,443)"
+            },
+            {
+              "key": "Accumulated Losses Previous Year",
+              "value": "(30,074,175)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 39,
+          "title": "Financial Statement Notes for Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Impairment of Non-Financial Assets",
+              "value": "The Group assesses at each reporting date."
+            },
+            {
+              "key": "Operating Segments",
+              "value": "Operating segments are components that engage in business activities."
+            },
+            {
+              "key": "Provisions",
+              "value": "Recognised when there is a present obligation."
+            },
+            {
+              "key": "Other Income Recognition",
+              "value": "Interest income is recognised as the interest accrues."
+            },
+            {
+              "key": "Trade and Other Payables",
+              "value": "Recognised at amortised cost."
+            },
+            {
+              "key": "Income Tax",
+              "value": "Based on the national income tax rate."
+            },
+            {
+              "key": "Deferred Consideration",
+              "value": "Recognised on the acquisition of an asset."
+            },
+            {
+              "key": "Contingent Consideration",
+              "value": "Recognised on the basis of performance criteria."
+            },
+            {
+              "key": "Contributed Equity",
+              "value": "Ordinary shares are classified as equity."
+            },
+            {
+              "key": "Dividends",
+              "value": "Provision is made for amounts declared but not distributed."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 50,
+          "title": "Financial Balance Statement",
+          "data": [
+            {
+              "key": "Balance at 1 July",
+              "value": "-30074175"
+            },
+            {
+              "key": "Net loss for the year",
+              "value": "-9538268"
+            },
+            {
+              "key": "Balance at 30 June",
+              "value": "-39612443"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 50,
+          "title": "Recognised Share-based Payment Expense",
+          "data": [
+            {
+              "key": "Expense arising from equity-settled share-based payment transactions",
+              "value": "239844"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 50,
+          "title": "Summary of Unlisted Securities Granted as Share-based Payments",
+          "data": [
+            {
+              "key": "Security Type",
+              "value": "Options"
+            },
+            {
+              "key": "Number",
+              "value": "50,000,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "11-Dec-20"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "23-Dec-23"
+            },
+            {
+              "key": "Vesting Date",
+              "value": "23-Dec-20"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.025"
+            },
+            {
+              "key": "Fair Value",
+              "value": "$0.015"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 50,
+          "title": "Stock Options and Rights Movement Summary",
+          "data": [
+            {
+              "key": "Outstanding at beginning of year - 2022_number",
+              "value": "116500000"
+            },
+            {
+              "key": "Outstanding at beginning of year - 2022_waep",
+              "value": "0.04"
+            },
+            {
+              "key": "Options granted during the year - 2022_number",
+              "value": "2000000"
+            },
+            {
+              "key": "Options granted during the year - 2022_waep",
+              "value": "0.125"
+            },
+            {
+              "key": "Rights granted during the year - 2022_number",
+              "value": "9220000"
+            },
+            {
+              "key": "Outstanding at end of year - 2022_number",
+              "value": "127720000"
+            },
+            {
+              "key": "Outstanding at end of year - 2022_waep",
+              "value": "0.04"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 16,
+          "title": "Directors' Report - Leadership Change",
+          "data": [
+            {
+              "key": "New Appointment",
+              "value": "Mr Matthew Briggs"
+            },
+            {
+              "key": "Position",
+              "value": "Managing Director and Chief Executive Officer (CEO)"
+            },
+            {
+              "key": "Effective Date",
+              "value": "17 January 2022"
+            },
+            {
+              "key": "Previous Role",
+              "value": "Managing Director of Prodigy Gold Ltd"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 17,
+          "title": "Appointment of New Managing Director and CEO",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Matthew Briggs"
+            },
+            {
+              "key": "Position",
+              "value": "Managing Director and Chief Executive Officer"
+            },
+            {
+              "key": "Effective Date",
+              "value": "17 January 2022"
+            },
+            {
+              "key": "Background",
+              "value": "Experienced professional exploration geologist with a background in gold exploration and mining in Australia, previously Managing Director of Prodigy Gold Ltd."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 19,
+          "title": "Current Directors",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Mir Matthew Briggs"
+            },
+            {
+              "key": "Position",
+              "value": "Managing Director and CEO"
+            },
+            {
+              "key": "Appointment Date",
+              "value": "17 January 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 19,
+          "title": "Current Directors",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Mir Matthew Syme"
+            },
+            {
+              "key": "Position",
+              "value": "Executive Director"
+            },
+            {
+              "key": "Appointment Date",
+              "value": "N/A"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 19,
+          "title": "Current Directors",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Mr Levi Mochkin"
+            },
+            {
+              "key": "Position",
+              "value": "Executive Director"
+            },
+            {
+              "key": "Appointment Date",
+              "value": "1 November 2021"
+            },
+            {
+              "key": "Previous Role",
+              "value": "Non-Executive"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 19,
+          "title": "Current Directors",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Mr Robert Behets"
+            },
+            {
+              "key": "Position",
+              "value": "Non-Executive Director"
+            },
+            {
+              "key": "Appointment Date",
+              "value": "N/A"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 20,
+          "title": "Directors' Report - Directors and Officers",
+          "data": [
+            {
+              "key": "Mr Levi Mochkin",
+              "value": "Executive Director; appointed on 31 August 2020; has been involved in the resources sector for over 28 years."
+            },
+            {
+              "key": "Mr Robert Behets",
+              "value": "Non-Executive Director; appointed on 28 August 2020; geologist with 30 years’ experience in the mineral exploration and mining industry."
+            },
+            {
+              "key": "Mr Gregory Swan",
+              "value": "Company Secretary; appointed on 4 November 2020; Chartered Accountant with over 15 years’ experience in the resources sector."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 21,
+          "title": "Appointment of Mr Matthew Briggs as CEO",
+          "data": [
+            {
+              "key": "Appointment Date",
+              "value": "8 December 2021"
+            },
+            {
+              "key": "Position",
+              "value": "Managing Director and Chief Executive Officer"
+            },
+            {
+              "key": "Effective Date",
+              "value": "17 January 2022"
+            },
+            {
+              "key": "Previous Directors",
+              "value": "- Mr Levi Mochkin: Executive Director"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "leadership_change",
+          "page": 21,
+          "title": "Directorships of Mr Levi Mochkin",
+          "data": [
+            {
+              "key": "Current Position",
+              "value": "Key member of Ledger Holdings Pty Ltd"
+            },
+            {
+              "key": "Experience",
+              "value": "28 years in resources sector"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "leadership_change",
+          "page": 21,
+          "title": "Executive Compensation Overview",
+          "data": [
+            {
+              "key": "Total Shareholders' Equity",
+              "value": "A$800 million"
+            },
+            {
+              "key": "Key Executive Summary",
+              "value": "Each Director's interest in securities of the Company as at the date of this report."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "leadership_change",
+          "page": 30,
+          "title": "DIRECTORS' REPORT",
+          "data": [
+            {
+              "key": "non_audit_services",
+              "value": "During the year, the Group’s auditors, William Buck Audit (WA) Pty Ltd did not receive any fees for non-audit services. Non-audit services provided by the Group's former auditors, Deloitte Touche Tohmatsu, amounted to nil (2021: $28,875)."
+            },
+            {
+              "key": "auditor_independence_declaration",
+              "value": "The auditor's independence declaration is on page 29 of the Annual Report."
+            },
+            {
+              "key": "resolution_of_directors",
+              "value": "This report is made in accordance with a resolution of the directors."
+            },
+            {
+              "key": "chair_name",
+              "value": "MATTHEW BRIGGS"
+            },
+            {
+              "key": "chair_position",
+              "value": "Managing Director and CEO"
+            },
+            {
+              "key": "report_date",
+              "value": "29 September 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 52,
+          "title": "Board of Directors and Executive Appointments",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Mir Matthew Briggs Mir Matthew Syme"
+            },
+            {
+              "key": "Position",
+              "value": "Managing Director and CEO (appointed 17 January 2022) Executive Director"
+            },
+            {
+              "key": "Name",
+              "value": "Mr Levi Mochkin"
+            },
+            {
+              "key": "Position",
+              "value": "Executive Director (appointed Executive 1 November 2021, previously Non-Executive)"
+            },
+            {
+              "key": "Name",
+              "value": "Vir Robert Behets"
+            },
+            {
+              "key": "Position",
+              "value": "Non-Executive Director"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 52,
+          "title": "Employee Compensation Summary",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Short-term employee benefits"
+            },
+            {
+              "key": "2022 $",
+              "value": "738,923"
+            },
+            {
+              "key": "Previous Period $",
+              "value": "253,815"
+            },
+            {
+              "key": "Category",
+              "value": "Post-employment benefits"
+            },
+            {
+              "key": "2022 $",
+              "value": "44,492"
+            },
+            {
+              "key": "Previous Period $",
+              "value": "8,610"
+            },
+            {
+              "key": "Category",
+              "value": "Share based payment expenses"
+            },
+            {
+              "key": "2022 $",
+              "value": "231,514"
+            },
+            {
+              "key": "Previous Period $",
+              "value": "141,549"
+            },
+            {
+              "key": "Category",
+              "value": "Total compensation"
+            },
+            {
+              "key": "2022 $",
+              "value": "1,014,929"
+            },
+            {
+              "key": "Previous Period $",
+              "value": "403,974"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 59,
+          "title": "Independent Auditor's Report to the Members of Odyssey Gold Limited",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Odyssey Gold Limited"
+            },
+            {
+              "key": "Report Date",
+              "value": "29 September 2022"
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "The accompanying financial report of the Group is in accordance with the Corporations Act 2001."
+            },
+            {
+              "key": "Compliance Standards",
+              "value": "International Financial Reporting Standards"
+            },
+            {
+              "key": "Financial Position Date",
+              "value": "30 June 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 63,
+          "title": "Corporate Governance Overview",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Odyssey Gold Limited"
+            },
+            {
+              "key": "Report Type",
+              "value": "Independent Auditor’s Report"
+            },
+            {
+              "key": "Governance Statement Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Website",
+              "value": "www.odysseygold.com.au"
+            },
+            {
+              "key": "Note",
+              "value": "Corporate Governance Statement available on Company website; lodged with ASX along with Appendix 4G."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 68,
+          "title": "Contact Information for Odyssey Gold Ltd",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "ODYSSEY GOLD LTD"
+            },
+            {
+              "key": "Address",
+              "value": "Level 9, 28 The Esplanade, Perth WA 6000"
+            },
+            {
+              "key": "Phone",
+              "value": "+61 8 9322 6322"
+            },
+            {
+              "key": "Fax",
+              "value": "+61 8 9322 6558"
+            },
+            {
+              "key": "Website",
+              "value": "odysseygold.com.au"
+            },
+            {
+              "key": "Stock Code",
+              "value": "ASX:ODY"
+            },
+            {
+              "key": "ABN",
+              "value": "73 116 151 636"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": true,
+      "elements": [
+        {
+          "type": "layoff",
+          "page": 7,
+          "title": "Directors' Report",
+          "data": [
+            {
+              "key": "significant intercepts",
+              "value": "84m @ 2.5g/t Au from 25m (CBRC0055); 44m @ 1.8g/t Au from 156m (CBRC0057); 40m @ 3.9g/t Au from 170m (CBRC0056); 12m @ 6.5g/t Au from 132m (TCKRC0100); 44m @ 0.6g/t Au from 32m (TCKRC0117); 14m @ 1.9g/t Au from 165m (TCKRC0101); 4m @ 7.1g/t Au from 176m (CBRC0058); 7m @ 2.5g/t Au from 153m (TCKRC0101); 3m @ 4.9g/t Au from 124m (TCKRC0102); 5m @ 2.2g/t Au from 189m (TCKRC0101)"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 3,
+          "title": "DIRECTORS' REPORT Corporate Directory",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Odyssey Gold Limited"
+            },
+            {
+              "key": "Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Chairman",
+              "value": "Mr Ian Middlemas"
+            },
+            {
+              "key": "Managing Director & CEO",
+              "value": "Mr Matthew Briggs"
+            },
+            {
+              "key": "Company Secretary",
+              "value": "Mr Gregory Swan"
+            },
+            {
+              "key": "Directors",
+              "value": "Mr Matthew Syme, Mr Levi Mochkin, Mr Robert Behets"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 23,
+          "title": "Remuneration Report – Audited",
+          "data": [
+            {
+              "key": "Key Management Personnel",
+              "value": "Mr Ian Middlemas, Mr Matthew Briggs, Mr Matthew Syme, Mr Levi Mochkin, Mr Robert Behets, Mr Steven Le Brun"
+            },
+            {
+              "key": "Number of Board Meetings Held",
+              "value": "3"
+            },
+            {
+              "key": "Number of Meetings Attended by Mr Ian Middlemas",
+              "value": "3"
+            },
+            {
+              "key": "Number of Meetings Attended by Mr Matthew Briggs",
+              "value": "2"
+            },
+            {
+              "key": "Number of Meetings Attended by Mr Matthew Syme",
+              "value": "3"
+            },
+            {
+              "key": "Number of Meetings Attended by Mr Levi Mochkin",
+              "value": "3"
+            },
+            {
+              "key": "Number of Meetings Attended by Mr Robert Behets",
+              "value": "3"
+            },
+            {
+              "key": "Remuneration Policy Principles",
+              "value": "Size of the Group, management team, nature/stage of development, market conditions."
+            },
+            {
+              "key": "Performance Based Remuneration – Short Term Incentive",
+              "value": "Criteria include successful exploration and development activities, corporate activities, and business development activities."
+            },
+            {
+              "key": "Fixed Remuneration Components",
+              "value": "Base salary, employer contributions to superannuation funds, non-cash benefits."
+            },
+            {
+              "key": "Insurance of Officers",
+              "value": "Indemnity against certain liabilities provided by the Company."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 24,
+          "title": "Executive Remuneration Report",
+          "data": [
+            {
+              "key": "STI Cash Bonuses Awarded 2022",
+              "value": "0"
+            },
+            {
+              "key": "STI Cash Bonuses Awarded 2021",
+              "value": "nil"
+            },
+            {
+              "key": "Performance Rights Granted 2022",
+              "value": "8,400,000"
+            },
+            {
+              "key": "Performance Rights Granted 2021",
+              "value": "nil"
+            },
+            {
+              "key": "Incentive Options Granted 2022",
+              "value": "2,000,000"
+            },
+            {
+              "key": "Incentive Options Granted 2021",
+              "value": "27,000,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 25,
+          "title": "Directors' Report - Remuneration Report",
+          "data": [
+            {
+              "key": "Remuneration Policy for Non-Executive Directors",
+              "value": "The Board’s policy is to remunerate Non-Executive Directors at market rates for comparable companies for time, commitment, and responsibilities."
+            },
+            {
+              "key": "Total Directors' Fees Cap",
+              "value": "Total directors' fees paid to all non-executive directors are not to exceed $150,000 per annum."
+            },
+            {
+              "key": "Current Fees for Chairman",
+              "value": "$36,000 per annum."
+            },
+            {
+              "key": "Current Fees for Other Non-Executive Directors",
+              "value": "$25,000."
+            },
+            {
+              "key": "STI Cash Bonuses Awarded",
+              "value": "No STI cash bonuses were awarded to KMP during the 2022 financial year."
+            },
+            {
+              "key": "Performance Rights Issued to KMP",
+              "value": "8,400,000 Performance Rights were granted to KMP during the financial year ended 30 June 2022."
+            },
+            {
+              "key": "Incentive Options Granted to KMP",
+              "value": "2,000,000 Incentive Options were granted to KMP during the financial year ended 30 June 2022."
+            },
+            {
+              "key": "Relationship to Shareholder Value",
+              "value": "The Group’s Incentive Plan aligns the financial interest of participants with those of Shareholders."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 26,
+          "title": "Directors and KMP Compensation Summary",
+          "data": [
+            {
+              "key": "Year Ended",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Total Compensation",
+              "value": "$1,014,929"
+            },
+            {
+              "key": "Highest Paid Individual",
+              "value": "Steven Le Brun ($288,384)"
+            },
+            {
+              "key": "Second Highest Paid Individual",
+              "value": "Mr Matthew Briggs ($229,772)"
+            },
+            {
+              "key": "Performance Related Range",
+              "value": "8% to 37%"
+            },
+            {
+              "key": "Total Compensation (2021)",
+              "value": "$398,564"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 27,
+          "title": "Directors and KMP Shareholding Changes 2021-2022",
+          "data": [
+            {
+              "key": "Mr Ian Middlemas",
+              "value": "Salary: 36,000, Total Remuneration: 39,600"
+            },
+            {
+              "key": "Mr Matthew Briggs",
+              "value": "Salary: 131,923, Total Remuneration: 229,772"
+            },
+            {
+              "key": "Mr Matthew Syme",
+              "value": "Salary: 150,000, Total Remuneration: 217,930"
+            },
+            {
+              "key": "Mr Levi Mochkin",
+              "value": "Salary: 156,000, Total Remuneration: 198,157"
+            },
+            {
+              "key": "Mr Robert Behets",
+              "value": "Salary: 25,000, Total Remuneration: 41,086"
+            },
+            {
+              "key": "Steven Le Brun",
+              "value": "Salary: 240,000, Total Remuneration: 288,384"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 28,
+          "title": "Summary of Options and Rights Grants to Directors and KMP",
+          "data": [
+            {
+              "key": "Total options granted to Matthew Briggs",
+              "value": "2,000,000"
+            },
+            {
+              "key": "Total rights granted to Matthew Briggs",
+              "value": "6,000,000"
+            },
+            {
+              "key": "Total rights granted to Steven Le Brun",
+              "value": "2,400,000"
+            },
+            {
+              "key": "Vesting dates for Matthew Briggs' options and rights",
+              "value": "2023-2025"
+            },
+            {
+              "key": "Fair value range of grants",
+              "value": "$0.044 to $0.069"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 28,
+          "title": "Inputs for Option Valuation",
+          "data": [
+            {
+              "key": "Exercise prices",
+              "value": "A$0.10 and A$0.15"
+            },
+            {
+              "key": "Grant date share price",
+              "value": "A$0.069"
+            },
+            {
+              "key": "Volatility",
+              "value": "130%"
+            },
+            {
+              "key": "Risk-free interest rate",
+              "value": "0.903%"
+            },
+            {
+              "key": "Grant date",
+              "value": "7-Dec-21"
+            },
+            {
+              "key": "Expiry dates",
+              "value": "8-Dec-24"
+            },
+            {
+              "key": "Expected life of options",
+              "value": "3 years"
+            },
+            {
+              "key": "Fair value at grant date",
+              "value": "A$0.048 and A$0.044"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 29,
+          "title": "Remuneration Report – Audited",
+          "data": [
+            {
+              "key": "Matthew Briggs: Options Granted Count",
+              "value": "8,000,000"
+            },
+            {
+              "key": "Matthew Briggs: Options Vested Count",
+              "value": "0"
+            },
+            {
+              "key": "Matthew Briggs: Options Granted Value",
+              "value": "505,574"
+            },
+            {
+              "key": "Matthew Briggs: Options Exercised",
+              "value": "0"
+            },
+            {
+              "key": "Matthew Briggs: Remuneration Options",
+              "value": "84,657"
+            },
+            {
+              "key": "Matthew Briggs: Remuneration Percentage",
+              "value": "37%"
+            },
+            {
+              "key": "Matthew Syme: Options Granted Count",
+              "value": "0"
+            },
+            {
+              "key": "Matthew Syme: Options Vested Count",
+              "value": "10,000,000"
+            },
+            {
+              "key": "Matthew Syme: Options Granted Value",
+              "value": "0"
+            },
+            {
+              "key": "Matthew Syme: Options Exercised",
+              "value": "0"
+            },
+            {
+              "key": "Matthew Syme: Remuneration Options",
+              "value": "67,930"
+            },
+            {
+              "key": "Matthew Syme: Remuneration Percentage",
+              "value": "31%"
+            },
+            {
+              "key": "Levi Mochkin: Options Granted Count",
+              "value": "0"
+            },
+            {
+              "key": "Levi Mochkin: Options Vested Count",
+              "value": "6,000,000"
+            },
+            {
+              "key": "Levi Mochkin: Options Granted Value",
+              "value": "0"
+            },
+            {
+              "key": "Levi Mochkin: Options Exercised",
+              "value": "0"
+            },
+            {
+              "key": "Levi Mochkin: Remuneration Options",
+              "value": "40,957"
+            },
+            {
+              "key": "Levi Mochkin: Remuneration Percentage",
+              "value": "21%"
+            },
+            {
+              "key": "Robert Behets: Options Granted Count",
+              "value": "0"
+            },
+            {
+              "key": "Robert Behets: Options Vested Count",
+              "value": "2,000,000"
+            },
+            {
+              "key": "Robert Behets: Options Granted Value",
+              "value": "0"
+            },
+            {
+              "key": "Robert Behets: Options Exercised",
+              "value": "0"
+            },
+            {
+              "key": "Robert Behets: Remuneration Options",
+              "value": "13,586"
+            },
+            {
+              "key": "Robert Behets: Remuneration Percentage",
+              "value": "33%"
+            },
+            {
+              "key": "Steven Le Brun: Options Granted Count",
+              "value": "2,400,000"
+            },
+            {
+              "key": "Steven Le Brun: Options Vested Count",
+              "value": "0"
+            },
+            {
+              "key": "Steven Le Brun: Options Granted Value",
+              "value": "160,800"
+            },
+            {
+              "key": "Steven Le Brun: Options Exercised",
+              "value": "0"
+            },
+            {
+              "key": "Steven Le Brun: Remuneration Options",
+              "value": "24,384"
+            },
+            {
+              "key": "Steven Le Brun: Remuneration Percentage",
+              "value": "8%"
+            },
+            {
+              "key": "Total Options Granted Count",
+              "value": "10,400,000"
+            },
+            {
+              "key": "Total Options Vested Count",
+              "value": "18,000,000"
+            },
+            {
+              "key": "Total Options Granted Value",
+              "value": "666,374"
+            },
+            {
+              "key": "Total Options Exercised",
+              "value": "0"
+            },
+            {
+              "key": "Total Remuneration Options",
+              "value": "231,514"
+            },
+            {
+              "key": "Total Remuneration Percentage",
+              "value": "N/A"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 42,
+          "title": "Notable Accounting Policies and Estimates",
+          "data": [
+            {
+              "key": "Goods and Services Tax",
+              "value": "Revenues, expenses and assets are recognised net of GST."
+            },
+            {
+              "key": "Share-Based Payments",
+              "value": "Equity-settled share-based payments are measured at fair value at grant date."
+            },
+            {
+              "key": "Business Combinations",
+              "value": "Directors may evaluate acquisitions to determine if they constitute business combinations."
+            },
+            {
+              "key": "Joint Operations",
+              "value": "A joint operation is where parties have joint control and rights to assets."
+            },
+            {
+              "key": "Critical Accounting Estimates",
+              "value": "Management evaluates judgements, estimates, and assumptions in applying accounting policies."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 43,
+          "title": "Employee Benefits Expense and Depreciation",
+          "data": [
+            {
+              "key": "Short-term employee benefits",
+              "value": "1586373"
+            },
+            {
+              "key": "Post-employment benefits",
+              "value": "86800"
+            },
+            {
+              "key": "Share-based payment expenses",
+              "value": "239844"
+            },
+            {
+              "key": "Total Employee Benefits",
+              "value": "1913017"
+            },
+            {
+              "key": "Depreciation and amortisation of plant and equipment",
+              "value": "62012"
+            },
+            {
+              "key": "Total Depreciation",
+              "value": "62012"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 48,
+          "title": "Share-based Payments Reserve Comparison",
+          "data": [
+            {
+              "key": "2022 $",
+              "value": "1,637,893"
+            },
+            {
+              "key": "2021 $",
+              "value": "1,398,049"
+            },
+            {
+              "key": "Percentage Increase",
+              "value": "17.2%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 48,
+          "title": "Movements in Share-based Payments Reserve",
+          "data": [
+            {
+              "key": "Opening balance (1-Jul-21)",
+              "value": "1,398,049"
+            },
+            {
+              "key": "Issue of unlisted incentive securities to a director (8-Dec-21)",
+              "value": "84,657"
+            },
+            {
+              "key": "Issue of unlisted incentive securities to employees and consultants (21-Jan-22)",
+              "value": "32,715"
+            },
+            {
+              "key": "Share based payment expenses (30-Jun-22)",
+              "value": "122,472"
+            },
+            {
+              "key": "Closing balance (30-Jun-22)",
+              "value": "1,637,893"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 49,
+          "title": "Notes to the Financial Statements - Share-based Payments Reserve",
+          "data": [
+            {
+              "key": "Share-based payments reserve 2022",
+              "value": "1,637,893"
+            },
+            {
+              "key": "Share-based payments reserve 2021",
+              "value": "1,398,049"
+            },
+            {
+              "key": "Total Unlisted Options",
+              "value": "118,500,000"
+            },
+            {
+              "key": "Total Performance Rights",
+              "value": "9,220,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 51,
+          "title": "Summary of Unlisted Securities Granted as Share-based Payments",
+          "data": [
+            {
+              "key": "Total unlisted securities issued as share-based payments (2022)",
+              "value": "$50,000,000"
+            },
+            {
+              "key": "Vendor options exercisable at $0.025",
+              "value": "50,000,000"
+            },
+            {
+              "key": "Vendor options exercisable at $0.03",
+              "value": "25,000,000"
+            },
+            {
+              "key": "Adviser options exercisable at $0.04",
+              "value": "2,500,000"
+            },
+            {
+              "key": "Unlisted incentive options exercisable at $0.04",
+              "value": "13,000,000"
+            },
+            {
+              "key": "Unlisted incentive options exercisable at $0.07",
+              "value": "13,000,000"
+            },
+            {
+              "key": "Unlisted incentive options exercisable at $0.10",
+              "value": "13,000,000"
+            },
+            {
+              "key": "Unlisted options exercisable at $0.10 expiring 2024",
+              "value": "1,000,000"
+            },
+            {
+              "key": "Unlisted options exercisable at $0.15 expiring 2024",
+              "value": "1,000,000"
+            },
+            {
+              "key": "Performance rights that vest upon mineral resource estimates on projects (various conditions)",
+              "value": "Total of 9,215,000 rights with various vesting conditions"
+            },
+            {
+              "key": "Net loss for 2022",
+              "value": "$9,538,268"
+            },
+            {
+              "key": "Expense arising from equity-settled share-based payment transactions",
+              "value": "$265,549"
+            },
+            {
+              "key": "Weighted average remaining contractual life of unlisted securities",
+              "value": "1.6 years"
+            },
+            {
+              "key": "Weighted average fair value of unlisted securities granted in the past two years",
+              "value": "$0.0177"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Key Management Personnel Compensation",
+          "data": [
+            {
+              "key": "Short-term employee benefits",
+              "value": "738,923"
+            },
+            {
+              "key": "Post-employment benefits",
+              "value": "44,492"
+            },
+            {
+              "key": "Share based payment expenses",
+              "value": "231,514"
+            },
+            {
+              "key": "Total compensation",
+              "value": "1,014,929"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Weighted Average Number of Ordinary Shares Used for EPS Calculations",
+          "data": [
+            {
+              "key": "Weighted average number of shares in 2022",
+              "value": "612,403,606"
+            },
+            {
+              "key": "Weighted average number of shares in 2021",
+              "value": "438,558,400"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Earnings per Share (EPS) Metrics",
+          "data": [
+            {
+              "key": "Basic and diluted loss per share from continuing operations (2022 cents)",
+              "value": "-1.56"
+            },
+            {
+              "key": "Basic and diluted loss per share from continuing operations (2021 cents)",
+              "value": "-1.00"
+            },
+            {
+              "key": "Total basic and diluted loss per share (2022 cents)",
+              "value": "-1.56"
+            },
+            {
+              "key": "Total basic and diluted loss per share (2021 cents)",
+              "value": "-1.00"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 62,
+          "title": "INDEPENDENT AUDITOR’S REPORT ON REMUNERATION REPORT",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Odyssey Gold Ltd"
+            },
+            {
+              "key": "Year Ended",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Opinion",
+              "value": "complies with section 300A of the Corporations Act 2001"
+            },
+            {
+              "key": "Auditor",
+              "value": "William Buck Audit (WA) Pty Ltd"
+            },
+            {
+              "key": "Director",
+              "value": "Amar Nathwani"
+            },
+            {
+              "key": "Dated",
+              "value": "29th day of September 2022"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 8,
+          "title": "Drilling and Financial Review",
+          "data": [
+            {
+              "key": "Total Holes Completed",
+              "value": "89 RC holes"
+            },
+            {
+              "key": "Total Meters Drilled",
+              "value": "17,485m"
+            },
+            {
+              "key": "Cable-Bollard Trend Length",
+              "value": "1.6km"
+            },
+            {
+              "key": "Deepest Drilling Depth",
+              "value": "150m"
+            },
+            {
+              "key": "Significant Gold Intercepts",
+              "value": "21 total intercepts with notable grades"
+            },
+            {
+              "key": "Mineralization Type",
+              "value": "Gold-bearing structures in quartz veins and sulphides"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 14,
+          "title": "ODYSSEY TUCKANARRA PROJECT Highway Zone Gram Metres Au",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "A geological map showing a mining/exploration zone with drilling results and geological features."
+            },
+            {
+              "key": "Main Zone Details",
+              "value": "Highway Zone - 1.4km length with notable area Bollard Pit."
+            },
+            {
+              "key": "Geological Units",
+              "value": "Granodiorite, Basalt, High Mg Basalt."
+            },
+            {
+              "key": "Drill Intersections",
+              "value": "9m at 6.1g/t, 44m at 1.8g/t, 3m at 3.0g/t, 11m at 7.8g/t, 12m at 9.1g/t, 4m at 7.1g/t."
+            },
+            {
+              "key": "Legend Categories",
+              "value": "<0.5, 0.5-5, 5-10, 10-20, >20."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 4,
+          "title": "Directors' Report Highlights",
+          "data": [
+            {
+              "key": "Drilling Program",
+              "value": "Successful completion of the 2022 drill program with significant results from both RC and DD drilling."
+            },
+            {
+              "key": "Total Holes",
+              "value": "131 holes (23,131m) of RC, 15 holes (3,649m) of DD, 11 holes (3,152) with RC pre-collars and DD tails."
+            },
+            {
+              "key": "Tuckanarra Project",
+              "value": "Demonstrates potential for near-term open pit development and future underground mining."
+            },
+            {
+              "key": "Highway Zone Assays",
+              "value": "84m @ 2.5g/t Au from 25m; 11m @ 7.8g/t Au from 199m; 13m @ 3.7g/t Au from 180m; 16m @ 3.3g/t Au from 184m."
+            },
+            {
+              "key": "Cable-Bollard Assays",
+              "value": "16.6m @ 16.2g/t Au from 56m; 12m @ 4.7g/t Au from 128.5m; 14m @ 2.4g/t Au from 115m; 11m @ 4.6g/t Au from 167m."
+            },
+            {
+              "key": "Bottle Dump Assays",
+              "value": "14m @ 8.2g/t Au from 95m; 3.6m @ 10.0g/t Au from 225m."
+            },
+            {
+              "key": "Maybelle Pit Assays",
+              "value": "4m @ 53.9g/t Au from 124m; 8m @ 3.9g/t Au from 80m; 8m @ 6.2g/t Au from 60m."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 22,
+          "title": "Board Meeting Attendance Records",
+          "data": [
+            {
+              "key": "name",
+              "value": "Mr Ian Middlemas"
+            },
+            {
+              "key": "meetings_eligible",
+              "value": "3"
+            },
+            {
+              "key": "meetings_attended",
+              "value": "3"
+            },
+            {
+              "key": "name",
+              "value": "Mr Matthew Briggs"
+            },
+            {
+              "key": "meetings_eligible",
+              "value": "w])nry"
+            },
+            {
+              "key": "meetings_attended",
+              "value": ""
+            },
+            {
+              "key": "name",
+              "value": "Mr Matthew Syme"
+            },
+            {
+              "key": "meetings_eligible",
+              "value": "Wl"
+            },
+            {
+              "key": "meetings_attended",
+              "value": "wlwolwlrn"
+            },
+            {
+              "key": "name",
+              "value": "Mr Levi Mochkin"
+            },
+            {
+              "key": "meetings_eligible",
+              "value": "wl]"
+            },
+            {
+              "key": "meetings_attended",
+              "value": ""
+            },
+            {
+              "key": "name",
+              "value": "Mr Robert Behets"
+            },
+            {
+              "key": "meetings_eligible",
+              "value": ""
+            },
+            {
+              "key": "meetings_attended",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 22,
+          "title": "Loss Per Share Comparison",
+          "data": [
+            {
+              "key": "metric",
+              "value": "Basic and diluted loss per share"
+            },
+            {
+              "key": "2022 Cents",
+              "value": "-1.56"
+            },
+            {
+              "key": "2021 Cents",
+              "value": "-1.00"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 45,
+          "title": "Plant and equipment movement schedule",
+          "data": [
+            {
+              "key": "Carrying amount at 1 July",
+              "value": "179578"
+            },
+            {
+              "key": "Additions",
+              "value": "87660"
+            },
+            {
+              "key": "Depreciation and amortisation",
+              "value": "-62012"
+            },
+            {
+              "key": "Carrying amount at 30 June",
+              "value": "205226"
+            },
+            {
+              "key": "at cost",
+              "value": "268228"
+            },
+            {
+              "key": "accumulated depreciation and amortisation",
+              "value": "-63002"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 45,
+          "title": "Trade and Other Payables Statement",
+          "data": [
+            {
+              "key": "current",
+              "value": "null"
+            },
+            {
+              "key": "Accounts payable",
+              "value": "1222893"
+            },
+            {
+              "key": "Accrued expenses",
+              "value": "35000"
+            },
+            {
+              "key": "Total trade and other payables",
+              "value": "1257893"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 45,
+          "title": "Deferred consideration figures",
+          "data": [
+            {
+              "key": "Deferred consideration",
+              "value": "500000"
+            },
+            {
+              "key": "Total current deferred consideration",
+              "value": "500000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 45,
+          "title": "Exploration and Evaluation Assets",
+          "data": [
+            {
+              "key": "Carrying amount at 1 July",
+              "value": "5,285,320"
+            },
+            {
+              "key": "Additions",
+              "value": "13,287"
+            },
+            {
+              "key": "Carrying amount at 30 June",
+              "value": "5,372,369"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 6,
+          "title": "Drilling Intercepts and Highway Zone Schematic",
+          "data": [
+            {
+              "key": "mineral_intercepts",
+              "value": "84m @ 2.5g/t Au from 25m (CBRC0055)"
+            },
+            {
+              "key": "mineral_intercepts",
+              "value": "44m @ 1.8g/t Au from 156m (CBRC0057)"
+            },
+            {
+              "key": "mineral_intercepts",
+              "value": "40m @ 3.9g/t Au from 170m (CBRC0056)"
+            },
+            {
+              "key": "mineral_intercepts",
+              "value": "12m @ 6.5g/t Au from 132m (TCKRC0100)"
+            },
+            {
+              "key": "mineral_intercepts",
+              "value": "44m @ 0.6g/t Au from 32m (TCKRC0117)"
+            },
+            {
+              "key": "mineral_intercepts",
+              "value": "14m @ 1.9g/t Au from 165m (TCKRC0101)"
+            },
+            {
+              "key": "mineral_intercepts",
+              "value": "4m @ 7.1g/t Au from 176m (CBRC0058)"
+            },
+            {
+              "key": "mineral_intercepts",
+              "value": "7m @ 2.5g/t Au from 153m (TCKRC0101)"
+            },
+            {
+              "key": "mineral_intercepts",
+              "value": "3m @ 4.9g/t Au from 124m (TCKRC0102)"
+            },
+            {
+              "key": "mineral_intercepts",
+              "value": "5m @ 2.2g/t Au from 189m (TCKRC0101)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 9,
+          "title": "DIRECTORS' REPORT (Continued)",
+          "data": [
+            {
+              "key": "Drilling Summary",
+              "value": "Completed 89 RC holes for 17,485m and 13 DD holes for 2,980m"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 10,
+          "title": "Bottle Dump Plan and Drilling Results",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Odyssey Gold Ltd"
+            },
+            {
+              "key": "Location",
+              "value": "Tuckanarra Project - Bottle Dump"
+            },
+            {
+              "key": "High-grade intercepts",
+              "value": "14m @ 8.2g/t for BDRC0125; 2m @ 1.0g/t for BDRC00126"
+            },
+            {
+              "key": "Historical mining results at Maybelle",
+              "value": "~554t @ 5.7g/t Au for 103oz produced, 52kt @ 3.6g/t Au for 6,020oz"
+            },
+            {
+              "key": "Total RC holes completed",
+              "value": "28 RC holes for 3,645m"
+            },
+            {
+              "key": "Notable result",
+              "value": "4m @ 53g/t Au"
+            },
+            {
+              "key": "Coordinate System",
+              "value": "MGA94 Zone 50 South"
+            },
+            {
+              "key": "Capacity for future evaluation",
+              "value": "Potential for higher grade mineralisation underground following further drilling results"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 15,
+          "title": "DIRECTORS' REPORT (Continued)",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Odyssey Gold Ltd"
+            },
+            {
+              "key": "Main Projects",
+              "value": "Stakewell Project, Tuckanarra Project"
+            },
+            {
+              "key": "Key Targets",
+              "value": "Regal Target, Greenstone Target"
+            },
+            {
+              "key": "Coordinate System",
+              "value": "MGA94 Zone 50 South"
+            },
+            {
+              "key": "Scale",
+              "value": "5 Kilometres"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 29,
+          "title": "Auditor Independence Declaration",
+          "data": [
+            {
+              "key": "document type",
+              "value": "Auditor Independence Declaration"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 30,
+          "title": "Consolidated Statement of Profit or Loss and Other Comprehensive Income",
+          "data": [
+            {
+              "key": "document type",
+              "value": "Consolidated Statement of Profit or Loss and Other Comprehensive Income"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 31,
+          "title": "Consolidated Statement of Financial Position",
+          "data": [
+            {
+              "key": "document type",
+              "value": "Consolidated Statement of Financial Position"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Consolidated Statement of Cash Flows",
+          "data": [
+            {
+              "key": "document type",
+              "value": "Consolidated Statement of Cash Flows"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Consolidated Statement of Profit or Loss and Other Comprehensive Income",
+          "data": [
+            {
+              "key": "Interest income",
+              "value": "28,249"
+            },
+            {
+              "key": "Other (expenses)/income",
+              "value": "(14,025)"
+            },
+            {
+              "key": "Exploration and evaluation expenses",
+              "value": "(8,282,758)"
+            },
+            {
+              "key": "General and administrative expenses",
+              "value": "(461,534)"
+            },
+            {
+              "key": "Business development expenses",
+              "value": "(568,356)"
+            },
+            {
+              "key": "Share based payment expenses",
+              "value": "(239,844)"
+            },
+            {
+              "key": "Loss before income tax expense",
+              "value": "(9,538,268)"
+            },
+            {
+              "key": "Loss for the year",
+              "value": "(9,538,268)"
+            },
+            {
+              "key": "Total comprehensive loss for the year",
+              "value": "(9,538,268)"
+            },
+            {
+              "key": "Basic and diluted loss per share from operations (cents per share)",
+              "value": "(1.56)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Consolidated Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "document type",
+              "value": "Consolidated Statement of Changes in Equity"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Notes to and forming Part of the Financial Statements",
+          "data": [
+            {
+              "key": "document type",
+              "value": "Notes to and forming Part of the Financial Statements"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Interest received",
+              "value": "28234"
+            },
+            {
+              "key": "Payments to suppliers and employees",
+              "value": "-8607543"
+            },
+            {
+              "key": "Net cash outflow from operating activities",
+              "value": "-8579309"
+            },
+            {
+              "key": "Payments for exploration and evaluation assets",
+              "value": "-486648"
+            },
+            {
+              "key": "GST receipts/(payments) on acquisition of exploration and evaluation assets",
+              "value": "150000"
+            },
+            {
+              "key": "Payments for property, plant and equipment",
+              "value": "-249089"
+            },
+            {
+              "key": "Net cash outflow from investing activities",
+              "value": "-585737"
+            },
+            {
+              "key": "Proceeds from issue of shares",
+              "value": "0"
+            },
+            {
+              "key": "Capital return ($0.02 per share)",
+              "value": "0"
+            },
+            {
+              "key": "Transaction costs from issue of shares",
+              "value": "-44304"
+            },
+            {
+              "key": "Net cash (outflow)/inflow from financing activities",
+              "value": "-44304"
+            },
+            {
+              "key": "Net (decrease) in cash and cash equivalents held",
+              "value": "-9209350"
+            },
+            {
+              "key": "Cash and cash equivalents at the beginning of financial year",
+              "value": "12689470"
+            },
+            {
+              "key": "Cash and cash equivalents at the end of the financial year",
+              "value": "3480120"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "CONSOLIDATED STATEMENT OF CHANGES IN EQUITY FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Balance at 1 July 2021",
+              "value": "$19,270,545"
+            },
+            {
+              "key": "Net loss for the year",
+              "value": "-$9,538,268"
+            },
+            {
+              "key": "Total comprehensive loss for the year",
+              "value": "-$9,538,268"
+            },
+            {
+              "key": "Issue of shares to vendor",
+              "value": "$8,800"
+            },
+            {
+              "key": "Share issue costs",
+              "value": "-$3,150"
+            },
+            {
+              "key": "Share based payment expenses",
+              "value": "$239,844"
+            },
+            {
+              "key": "Balance 30 June 2022",
+              "value": "$9,977,771"
+            },
+            {
+              "key": "Balance at 1 July 2020",
+              "value": "$14,230,257"
+            },
+            {
+              "key": "Net loss for the year",
+              "value": "-$4,372,043"
+            },
+            {
+              "key": "Total comprehensive loss for the year",
+              "value": "-$4,372,043"
+            },
+            {
+              "key": "Acquisition of Stakewell Project",
+              "value": "$3,132,500"
+            },
+            {
+              "key": "Capital return",
+              "value": "-$6,550,609"
+            },
+            {
+              "key": "Issue of public offer shares",
+              "value": "$3,125,000"
+            },
+            {
+              "key": "Issue of placement shares",
+              "value": "$9,975,000"
+            },
+            {
+              "key": "Share issue costs",
+              "value": "-$535,109"
+            },
+            {
+              "key": "Share based payment expenses",
+              "value": "$265,549"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "NOTES TO AND FORMING PART OF THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Investments and Other Financial Assets",
+              "value": "Financial assets and financial liabilities are recognised when the entity becomes a party to the contractual provisions to the instrument."
+            },
+            {
+              "key": "Classification and Measurement",
+              "value": "Financial assets are classified into the following categories: amortised cost, fair value through profit or loss (FVPL), equity instruments at fair value through other comprehensive income (FVOCI), and debt instruments at FVOCI."
+            },
+            {
+              "key": "Loans and Receivables",
+              "value": "Loans and receivables are measured at amortised cost using the effective interest method."
+            },
+            {
+              "key": "Fair Value Estimation",
+              "value": "The fair value of financial assets and liabilities must be estimated for recognition and measurement or for disclosure purposes."
+            },
+            {
+              "key": "Impairment of Financial Assets",
+              "value": "The Group recognises a loss allowance for expected credit losses on receivables."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Deferred Tax Assets and Liabilities",
+          "data": [
+            {
+              "key": "Deferred Tax Liabilities",
+              "value": ""
+            },
+            {
+              "key": "Exploration and evaluation assets",
+              "value": "2,668,391"
+            },
+            {
+              "key": "Deferred tax assets used to offset deferred tax liabilities",
+              "value": "-2,668,391"
+            },
+            {
+              "key": "Accrued expenditure",
+              "value": "10,500"
+            },
+            {
+              "key": "Provisions",
+              "value": "12,745"
+            },
+            {
+              "key": "Capital Allowances",
+              "value": "141,259"
+            },
+            {
+              "key": "Capital losses available to offset against future capital gains",
+              "value": "7,353,585"
+            },
+            {
+              "key": "Tax losses available to offset against future taxable income",
+              "value": "8,008,816"
+            },
+            {
+              "key": "Deferred tax assets not brought to account",
+              "value": "-12,858,514"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Other Receivables",
+          "data": [
+            {
+              "key": "Accrued interest",
+              "value": "23"
+            },
+            {
+              "key": "GST and fuel tax credit receivable",
+              "value": "198,142"
+            },
+            {
+              "key": "Total other receivables",
+              "value": "198,165"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Exploration and Evaluation Assets",
+          "data": [
+            {
+              "key": "Carrying amount at 1 July Tuckanarra",
+              "value": "5,285,320"
+            },
+            {
+              "key": "Carrying amount at 1 July Stakewell",
+              "value": "3,508,980"
+            },
+            {
+              "key": "Total",
+              "value": "8,794,300"
+            },
+            {
+              "key": "Additions Tuckanarra",
+              "value": "87,049"
+            },
+            {
+              "key": "Additions Stakewell",
+              "value": "13,287"
+            },
+            {
+              "key": "Total",
+              "value": "100,336"
+            },
+            {
+              "key": "Carrying amount at 30 June Tuckanarra",
+              "value": "5,372,369"
+            },
+            {
+              "key": "Carrying amount at 30 June Stakewell",
+              "value": "3,522,267"
+            },
+            {
+              "key": "Total",
+              "value": "8,894,636"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Contingent Consideration Statement",
+          "data": [
+            {
+              "key": "Current Contingent Consideration 2022",
+              "value": "$1,000,000"
+            },
+            {
+              "key": "Total Non-Current Contingent Consideration 2022",
+              "value": "$985,975"
+            },
+            {
+              "key": "Total Contingent Consideration 2022",
+              "value": "$1,985,975"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Contributed Equity",
+          "data": [
+            {
+              "key": "Ordinary Shares 2022",
+              "value": "$47,952,321"
+            },
+            {
+              "key": "Ordinary Shares 2021",
+              "value": "$47,946,671"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Movements in Issued Capital",
+          "data": [
+            {
+              "key": "Opening Balance (01-Jul-21)",
+              "value": "$47,946,671"
+            },
+            {
+              "key": "Closing Balance (30-Jun-22)",
+              "value": "$47,952,321"
+            },
+            {
+              "key": "Total Ordinary Shares 2022",
+              "value": "612,430,455"
+            },
+            {
+              "key": "Performance Shares 2022",
+              "value": "50,000,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Financial Statements for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Current Assets",
+              "value": "3,678,285"
+            },
+            {
+              "key": "Non-Current Assets",
+              "value": "8,095,600"
+            },
+            {
+              "key": "Current Liabilities",
+              "value": "11,773,885"
+            },
+            {
+              "key": "Non-Current Liabilities",
+              "value": "1,796,114"
+            },
+            {
+              "key": "Total Liabilities",
+              "value": "1,796,114"
+            },
+            {
+              "key": "Total Assets",
+              "value": "11,773,885"
+            },
+            {
+              "key": "Contributed Equity",
+              "value": "47,952,321"
+            },
+            {
+              "key": "Reserves",
+              "value": "1,637,893"
+            },
+            {
+              "key": "Accumulated Losses",
+              "value": "-39,612,443"
+            },
+            {
+              "key": "Total Equity",
+              "value": "9,977,771"
+            },
+            {
+              "key": "Loss for the Year",
+              "value": "-9,538,268"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Directors Declaration",
+          "data": [
+            {
+              "key": "document type",
+              "value": "Directors Declaration"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Financial Performance Overview",
+          "data": [
+            {
+              "key": "Loss for the year",
+              "value": "(9,538,268) (4,372,043)"
+            },
+            {
+              "key": "Total comprehensive income",
+              "value": "(9,538,268) (4,372,043)"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "Financial Liabilities Analysis - 2021 and 2022",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Trade and other payables",
+              "value": "$1,257,893"
+            },
+            {
+              "key": "Deferred consideration",
+              "value": "$500,000"
+            },
+            {
+              "key": "Contingent consideration",
+              "value": "$1,000,000"
+            },
+            {
+              "key": "Total liabilities",
+              "value": "$2,757,893"
+            },
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Trade and other payables",
+              "value": "$4,414,319"
+            },
+            {
+              "key": "Deferred consideration",
+              "value": "$500,000"
+            },
+            {
+              "key": "Contingent consideration",
+              "value": "$985,975"
+            },
+            {
+              "key": "Total liabilities",
+              "value": "$2,900,294"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "Auditor's Remuneration Comparison",
+          "data": [
+            {
+              "key": "Current Auditor",
+              "value": "William Buck Audit (WA) Pty Ltd"
+            },
+            {
+              "key": "Former Auditor",
+              "value": "Deloitte Touche Tohmatsu"
+            },
+            {
+              "key": "Audit and review of financial report",
+              "value": "$20,600"
+            },
+            {
+              "key": "Other assurance and agreed-upon procedures",
+              "value": "$0"
+            },
+            {
+              "key": "Total Auditor's Remuneration - Current",
+              "value": "$38,600"
+            },
+            {
+              "key": "Total Auditor's Remuneration - Former",
+              "value": "$68,015"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Independent Auditor's Report",
+          "data": [
+            {
+              "key": "document type",
+              "value": "Independent Auditor's Report"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Financial Statements for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Interests in Joint Operations",
+              "value": "The Company has interests in the following joint operations."
+            },
+            {
+              "key": "Tuckanarra Project",
+              "value": "Exploration for gold in the Murchison Goldfields."
+            },
+            {
+              "key": "Stakewell Project",
+              "value": "Exploration for gold in the Murchison Goldfields."
+            },
+            {
+              "key": "Capital Management",
+              "value": "The Board's policy is to maintain a suitable capital base."
+            },
+            {
+              "key": "Financial Performance Overview",
+              "value": "The Group's approach to capital management and financial risks."
+            },
+            {
+              "key": "2022 % Ownership Tuckanarra",
+              "value": "80%"
+            },
+            {
+              "key": "2021 % Ownership Tuckanarra",
+              "value": "80%"
+            },
+            {
+              "key": "2022 $ Value Tuckanarra",
+              "value": "$5,372,369"
+            },
+            {
+              "key": "2021 $ Value Tuckanarra",
+              "value": "$5,285,320"
+            },
+            {
+              "key": "2022 % Ownership Stakewell",
+              "value": "80%"
+            },
+            {
+              "key": "2021 % Ownership Stakewell",
+              "value": "80%"
+            },
+            {
+              "key": "2022 $ Value Stakewell",
+              "value": "$3,522,267"
+            },
+            {
+              "key": "2021 $ Value Stakewell",
+              "value": "$3,508,980"
+            },
+            {
+              "key": "Total Exploration Expenditure Commitments 2022",
+              "value": "$843,175"
+            },
+            {
+              "key": "Total Exploration Expenditure Commitments 2021",
+              "value": "$834,298"
+            },
+            {
+              "key": "Total Auditor's Remuneration 2022",
+              "value": "$68,015"
+            },
+            {
+              "key": "Total Auditor's Remuneration 2021",
+              "value": "$38,600"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 61,
+          "title": "Corporate Governance",
+          "data": [
+            {
+              "key": "document type",
+              "value": "Corporate Governance"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 37,
+          "title": "Upcoming Changes to Australian Accounting Standards",
+          "data": [
+            {
+              "key": "Standard/Interpretation",
+              "value": "AASB 2020-3 Amendments to Australian Accounting Standards — Annual Improvements 2018-2020 and Other Amendments"
+            },
+            {
+              "key": "Application Date of Standard",
+              "value": "1 January 2022"
+            },
+            {
+              "key": "Ap Date for Group",
+              "value": "1 July 2022"
+            },
+            {
+              "key": "Standard/Interpretation",
+              "value": "AASB 2020-1 Amendments to Australian Accounting Standards — Classification of Liabilities as Current or Non-Current"
+            },
+            {
+              "key": "Application Date of Standard",
+              "value": "4 January 2023"
+            },
+            {
+              "key": "Ap Date for Group",
+              "value": "4 July 2023"
+            },
+            {
+              "key": "Standard/Interpretation",
+              "value": "AASB 2020-6 Amendments to Australian Accounting Standards — Classification of Liabilities as Current or Non-Current — Deferral of Effective Date"
+            },
+            {
+              "key": "Application Date of Standard",
+              "value": "1 January 2023"
+            },
+            {
+              "key": "Ap Date for Group",
+              "value": "1 July 2023"
+            },
+            {
+              "key": "Standard/Interpretation",
+              "value": "AASB 2021-2 Amendments to Australian Accounting Standards — Disclosure of Accounting Policies and Definition of Accounting Estimates"
+            },
+            {
+              "key": "Application Date of Standard",
+              "value": "1 January 2023"
+            },
+            {
+              "key": "Ap Date for Group",
+              "value": "1 July 2023"
+            },
+            {
+              "key": "Standard/Interpretation",
+              "value": "AASB 2022-1 Amendments to Australian Accounting Standards — Initial Application of AASB 17 and AASB 9 — Comparative Information"
+            },
+            {
+              "key": "Application Date of Standard",
+              "value": "4 January 2023"
+            },
+            {
+              "key": "Ap Date for Group",
+              "value": "4 July 2023"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 65,
+          "title": "Shareholder Information",
+          "data": [
+            {
+              "key": "Total Ordinary Shares on Issue",
+              "value": "612,430,455"
+            },
+            {
+              "key": "Total Top 20 Holdings",
+              "value": "333,853,997"
+            },
+            {
+              "key": "Others",
+              "value": "278,576,458"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 65,
+          "title": "Distribution of Equity Securities",
+          "data": [
+            {
+              "key": "Ordinary Shares Range",
+              "value": "1 - 1,000"
+            },
+            {
+              "key": "Number of Shareholders",
+              "value": "129"
+            },
+            {
+              "key": "Number of Shares",
+              "value": "58,413"
+            },
+            {
+              "key": "Ordinary Shares Range",
+              "value": "1,001 - 5,000"
+            },
+            {
+              "key": "Number of Shareholders",
+              "value": "223"
+            },
+            {
+              "key": "Number of Shares",
+              "value": "716,865"
+            },
+            {
+              "key": "Ordinary Shares Range",
+              "value": "5,001 - 10,000"
+            },
+            {
+              "key": "Number of Shareholders",
+              "value": "238"
+            },
+            {
+              "key": "Number of Shares",
+              "value": "1,852,737"
+            },
+            {
+              "key": "Ordinary Shares Range",
+              "value": "10,001 - 100,000"
+            },
+            {
+              "key": "Number of Shareholders",
+              "value": "775"
+            },
+            {
+              "key": "Number of Shares",
+              "value": "33,460,953"
+            },
+            {
+              "key": "Ordinary Shares Range",
+              "value": "More than 100,000"
+            },
+            {
+              "key": "Number of Shareholders",
+              "value": "489"
+            },
+            {
+              "key": "Number of Shares",
+              "value": "576,341,487"
+            },
+            {
+              "key": "Total Shareholders",
+              "value": "1,854"
+            },
+            {
+              "key": "Total Shares",
+              "value": "612,430,455"
+            },
+            {
+              "key": "Holders of Less than a Marketable Parcel",
+              "value": "634"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 18,
+          "title": "Operating and Financial Review - Risk Factors",
+          "data": [
+            {
+              "key": "Exploration Delays",
+              "value": "The Group's exploration activities are being delayed due to lack of available equipment and services."
+            },
+            {
+              "key": "Higher Exploration Costs",
+              "value": "High demand for drilling equipment and exploration-related services in Western Australia is resulting in higher costs and delays."
+            },
+            {
+              "key": "Capital Requirements",
+              "value": "Further capital will be needed for exploration and development of properties, and failure to obtain financing may delay activities."
+            },
+            {
+              "key": "Commodity Price Fluctuations",
+              "value": "The Group may be adversely affected by fluctuations in commodity prices which are unpredictable."
+            },
+            {
+              "key": "Global Financial Conditions",
+              "value": "Adverse global financial conditions may negatively impact growth and profitability of the Group."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 11,
+          "title": "Highlights of the Maybelle and Lucknow Trend drilling",
+          "data": [
+            {
+              "key": "Drilling result 1",
+              "value": "4m @ 53.9g/t Au from 124m (MBSRC0098)"
+            },
+            {
+              "key": "Drilling result 2",
+              "value": "7m @ 4.5g/t Au from 112m (MBNRC0105)"
+            },
+            {
+              "key": "Drilling result 3",
+              "value": "4m @ 3.8g/t Au from 119m (MBNRC0103)"
+            },
+            {
+              "key": "Drilling result 4",
+              "value": "7m @ 2.3g/t Au from 70m (MBNRC0102)"
+            },
+            {
+              "key": "Drilling result 5",
+              "value": "3m @ 3.8g/t Au from 52m (MBNRC0109)"
+            },
+            {
+              "key": "Visible gold logged range",
+              "value": "124-128m from hole MBSRC0098"
+            },
+            {
+              "key": "Mining summary",
+              "value": "Ore treated from Maybelle reported as ~554t @ 5.7g/t Au for 103oz produced."
+            },
+            {
+              "key": "RC program summary",
+              "value": "Total of 28 RC holes for 3,645m was completed."
+            },
+            {
+              "key": "Notable drilling result",
+              "value": "4m @ 53g/t Au confirming mineralisation continuity."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 13,
+          "title": "Operating and Financial Review - Geophysics and Future Work",
+          "data": [
+            {
+              "key": "Geophysics Survey Area",
+              "value": "17.2 km2"
+            },
+            {
+              "key": "Drilling Focus for FY2023",
+              "value": "Strike extensions at Highway Zone"
+            },
+            {
+              "key": "Highway Zone Potential",
+              "value": "Strong open pit and underground mining potential"
+            },
+            {
+              "key": "Detailed Mapping Area",
+              "value": "Approximately 6.4 km2"
+            },
+            {
+              "key": "Samples Collected",
+              "value": "156 samples of historic RAB and aircore drill spoils"
+            },
+            {
+              "key": "Soil Samples Collected",
+              "value": "1,535 samples"
+            },
+            {
+              "key": "Greenstone Target RAB Drilling Preparation",
+              "value": "High priority for drilling due to favourable structural setting"
+            },
+            {
+              "key": "XRF Data Collected",
+              "value": "35,537 XRF readings classified using a machine learning algorithm"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 36,
+          "title": "NOTES TO AND FORMING PART OF THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Loss after tax",
+              "value": "$9,538,268 (2021: $4,372,043)"
+            },
+            {
+              "key": "Cash inflows",
+              "value": "No source other than interest income and capital raising activities"
+            },
+            {
+              "key": "Cash and cash equivalents",
+              "value": "$3,480,120 (30 June 2021: $12,689,470)"
+            },
+            {
+              "key": "Net working capital",
+              "value": "$877,909 (30 June 2021: $11,282,642)"
+            },
+            {
+              "key": "Project funding",
+              "value": "Entitlements Offer to raise up to $4.6 million"
+            },
+            {
+              "key": "Directors' commitment",
+              "value": "Directors have agreed to take up their full entitlements and to partially underwrite it"
+            },
+            {
+              "key": "Material uncertainty",
+              "value": "There is material uncertainty that may cast significant doubt on going concern status"
+            },
+            {
+              "key": "Compliance",
+              "value": "Complies with Australian Accounting Standards and IFRS"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 38,
+          "title": "Notes to and forming part of the financial statements for the year ended 30 June 2022",
+          "data": [
+            {
+              "key": "Operating Segments",
+              "value": "An operating segment is a component of an entity that engages in business activities from which it may earn revenues and incur expenses including revenues and expenses relating to transactions with other components of the same entity. Management will consider other factors in determining operating segments."
+            },
+            {
+              "key": "Income Tax",
+              "value": "The income tax expense for the year is the tax payable on the current year's taxable income adjusted by changes in deferred tax assets and liabilities attributable to temporary differences."
+            },
+            {
+              "key": "Dividends",
+              "value": "Provision is made for the amount of any dividend declared on or before the end of the year but not distributed at balance date."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 41,
+          "title": "Notes to and forming part of the financial statements for the year ended 30 June 2022 (Continued)",
+          "data": [
+            {
+              "key": "Derecognition of financial assets",
+              "value": "The Group derecognises a financial asset when rights expire or when it transfers asset and risks to another entity."
+            },
+            {
+              "key": "Investments and Other Financial Assets",
+              "value": "Financial assets are recognised when the entity becomes a party to the contractual provisions."
+            },
+            {
+              "key": "Measurement of financial assets",
+              "value": "Initial measurement at fair value; transaction costs attributed to acquisition added or deducted."
+            },
+            {
+              "key": "Exploration and Evaluation Expenditure",
+              "value": "Expenditures incurred in connection with exploration and evaluation of mineral resources before technical feasibility."
+            },
+            {
+              "key": "Impairment of Financial Assets",
+              "value": "Loss allowance for expected credit losses recognised based on historical credit loss experience."
+            },
+            {
+              "key": "Plant and Equipment",
+              "value": "All classes measured at cost; depreciation provided on a straight-line basis."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 47,
+          "title": "Notes to the Financial Statements for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Current Contingent consideration",
+              "value": "1,000,000"
+            },
+            {
+              "key": "Total current contingent consideration",
+              "value": "1,000,000"
+            },
+            {
+              "key": "Non-Current Contingent consideration",
+              "value": "985,975"
+            },
+            {
+              "key": "Total non-current contingent consideration",
+              "value": "985,975"
+            },
+            {
+              "key": "Total contingent consideration",
+              "value": "1,000,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 58,
+          "title": "Directors' Declaration",
+          "data": [
+            {
+              "key": "Financial Compliance",
+              "value": "The attached financial statements comply with the Corporations Act 2001."
+            },
+            {
+              "key": "True and Fair View",
+              "value": "The financial position as at 30 June 2022 gives a true and fair view."
+            },
+            {
+              "key": "Going Concern",
+              "value": "Reasonable grounds to believe the Company can pay its debts as they become due."
+            },
+            {
+              "key": "International Reporting Standards",
+              "value": "The financial statements comply with International Financial Reporting Standards."
+            },
+            {
+              "key": "Directors' Declaration Date",
+              "value": "29 September 2022"
+            },
+            {
+              "key": "Managing Director",
+              "value": "Matthew Briggs"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 60,
+          "title": "Material Uncertainty Related to Going Concern",
+          "data": [
+            {
+              "key": "Loss after tax",
+              "value": "$9,538,268 (2021: $4,372,043)"
+            },
+            {
+              "key": "Net cash outflows",
+              "value": "$9,165,046 (2021: $7,611,009)"
+            },
+            {
+              "key": "Cash and cash equivalents",
+              "value": "$3,480,120 (30 June 2021: $12,689,470)"
+            },
+            {
+              "key": "Net working capital",
+              "value": "$877,909 (30 June 2021: $11,282,642)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 60,
+          "title": "Audit Focus Area - Exploration Assets Recognition",
+          "data": [
+            {
+              "key": "Capitalized acquisition costs",
+              "value": "$8,894,636 (30 June 2021: $8,794,300)"
+            },
+            {
+              "key": "Significant asset of the Group",
+              "value": "Yes"
+            },
+            {
+              "key": "Recognition criteria",
+              "value": "AASB 6"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 61,
+          "title": "Independent Auditor’s Report to the Members of Odyssey Gold Limited",
+          "data": [
+            {
+              "key": "Year Ended",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Auditor Opinion",
+              "value": "Does not cover other information"
+            },
+            {
+              "key": "Previous Audit Opinion Date",
+              "value": "24 September 2021"
+            },
+            {
+              "key": "Director Responsibilities",
+              "value": "Preparation of financial report that gives a true and fair view"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 64,
+          "title": "Top 20 Shareholders",
+          "data": [
+            {
+              "key": "Total Ordinary Shares on Issue",
+              "value": "612,430,455"
+            },
+            {
+              "key": "Largest Shareholder",
+              "value": "Diversified Asset Holdings Pty Ltd"
+            },
+            {
+              "key": "Percentage of Largest Shareholder",
+              "value": "11.51%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 64,
+          "title": "Distribution of Ordinary Shares",
+          "data": [
+            {
+              "key": "Total Shareholders",
+              "value": "1,854"
+            },
+            {
+              "key": "Total Shares Held",
+              "value": "612,430,455"
+            },
+            {
+              "key": "Majority Shareholders (more than 100,000 shares)",
+              "value": "489"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 66,
+          "title": "Mining Exploration Tenements",
+          "data": [
+            {
+              "key": "Tuckanarra Gold Project, Western Australia - Tenements",
+              "value": "M20/527, E20/782, E20/783, P20/2399, P20/2400, P20/2401, P20/2415, P20/2416, P20/2417, P20/2418, E20/924, E20/925, E20/996"
+            },
+            {
+              "key": "Stakewell Gold Project, Western Australia - Tenements",
+              "value": "E51/1806, P51/2870, P51/2871, P51/2872, P51/2873, P51/2874, P51/2875, P51/2876, P51/2877, P51/2878, L51/27, L51/28"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 31,
+          "title": "Auditor's Independence Declaration",
+          "data": [
+            {
+              "key": "Auditor Name",
+              "value": "William Buck Audit (WA) Pty Ltd"
+            },
+            {
+              "key": "Non-Audit Services Fees 2022",
+              "value": "0"
+            },
+            {
+              "key": "Non-Audit Services Fees 2021",
+              "value": "$28,875"
+            },
+            {
+              "key": "Declaration Date",
+              "value": "29 September 2022"
+            },
+            {
+              "key": "Director Name",
+              "value": "Matthew Briggs"
+            },
+            {
+              "key": "Company",
+              "value": "Odyssey Gold Limited"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 260,
+    "EUR": 1,
+    "AUD": 89
+  },
+  "sha1": "0c0faea14d108e1617f2d6d2a7c1aae04eb88fe0"
+}

@@ -1,0 +1,3704 @@
+{
+  "ASX_KPG_2022.pdf.txt": {
+    "letters": 215641,
+    "pages": 93,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "Kelly Partners Group Holdings Limited",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 487,
+      "AUD": 47
+    },
+    "sha1": "c8af22dbedd95ee719273792e5964ab8bbba17b2"
+  },
+  "LSE_ACP_2022.pdf.txt": {
+    "letters": 93649,
+    "pages": 49,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Armadale Capital Plc",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 2,
+      "GBP": 102,
+      "AUD": 83
+    },
+    "sha1": "a85dba6c75031912d56a811637f803ba4ddeb257"
+  },
+  "NYSE_TPHS_2022.pdf.txt": {
+    "letters": 391755,
+    "pages": 120,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Trinity Place Holdings Inc.",
+      "major_industry": "Retail",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 304,
+      "GBP": 2,
+      "AUD": 27,
+      "ZAR": 4,
+      "BRL": 8
+    },
+    "sha1": "e229fc9f5c694e93b02ac312c231607a04e3e528"
+  },
+  "NYSE_WMK_2022.pdf.txt": {
+    "letters": 144143,
+    "pages": 50,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Weis Markets, Inc.",
+      "major_industry": "Retail",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 298,
+      "AUD": 41,
+      "BRL": 2
+    },
+    "sha1": "31a60b930e0f1034afff6e2d1e406e7d9141b2a1"
+  },
+  "TSX_EMP-A_2022.pdf.txt": {
+    "letters": 308762,
+    "pages": 95,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 5
+      },
+      "company_name": "Empire Company Limited",
+      "major_industry": "Food & Beverage",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 403,
+      "EUR": 3,
+      "GBP": 3,
+      "AUD": 80,
+      "CAD": 19,
+      "ZAR": 2
+    },
+    "sha1": "8f5e29eea4f4a3e944707c71148439ca1fd4b2d8"
+  },
+  "ASX_AM7_2022.pdf.txt": {
+    "letters": 163336,
+    "pages": 69,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "Arcadia Minerals Limited",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": false,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 101,
+      "EUR": 2,
+      "AUD": 127,
+      "CAD": 166
+    },
+    "sha1": "b33bd2220c0fc0939ef08b1bdd8d2ebea158aa59"
+  },
+  "TSX_CRR.UN_2022.pdf.txt": {
+    "letters": 460057,
+    "pages": 135,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Crombie REIT",
+      "major_industry": "Retail",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 715,
+      "EUR": 1,
+      "AUD": 5,
+      "CAD": 5
+    },
+    "sha1": "14fa568899745270c4ff2c10073f97f2c2e7764b"
+  },
+  "NYSE_JEF_2022.pdf.txt": {
+    "letters": 743885,
+    "pages": 208,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 11
+      },
+      "company_name": "Jefferies Financial Group Inc.",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": true,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 221,
+      "EUR": 32,
+      "GBP": 2,
+      "AUD": 5,
+      "CAD": 10,
+      "INR": 9
+    },
+    "sha1": "f7324f3868005b3aae6aafd30441c9bb6c8823e8"
+  },
+  "NASDAQ_ZD_2022.pdf.txt": {
+    "letters": 541530,
+    "pages": 147,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Ziff Davis, Inc.",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 56,
+      "EUR": 11,
+      "GBP": 1,
+      "JPY": 1,
+      "AUD": 22,
+      "CAD": 2,
+      "NZD": 1,
+      "NOK": 1,
+      "HKD": 1
+    },
+    "sha1": "ecabab4934d4b80570c4bb3b8e35b7476694b3fb"
+  },
+  "NASDAQ_BNGO_2022.pdf.txt": {
+    "letters": 940989,
+    "pages": 241,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Bionano Genomics, Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 31,
+      "EUR": 31,
+      "GBP": 2,
+      "AUD": 12,
+      "CAD": 10,
+      "ZAR": 8
+    },
+    "sha1": "5a24fa827d172a7669eca206b2a5f47c2b19b48d"
+  },
+  "ASX_MOZ_2022.pdf.txt": {
+    "letters": 199797,
+    "pages": 101,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 7
+      },
+      "company_name": "Mosaic Brands Limited",
+      "major_industry": "Retail",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 409,
+      "EUR": 1,
+      "AUD": 103,
+      "CAD": 4
+    },
+    "sha1": "12bff07b957b1c8f8cad9d917ca18005720cce9b"
+  },
+  "NASDAQ_MSFT_2022.pdf.txt": {
+    "letters": 278999,
+    "pages": 94,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "Microsoft Corporation",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 246,
+      "EUR": 5,
+      "GBP": 1,
+      "JPY": 1,
+      "AUD": 23,
+      "CAD": 3,
+      "ZAR": 6,
+      "RUB": 3
+    },
+    "sha1": "91caa5884d3fbc344a05ac2f1d113a5d8725e4cb"
+  },
+  "duni-ab_2022.pdf.txt": {
+    "letters": 510876,
+    "pages": 153,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Duni Group",
+      "major_industry": "Food & Beverage",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 1,
+      "EUR": 47,
+      "AUD": 38,
+      "CAD": 5,
+      "ZAR": 2,
+      "SEK": 37
+    },
+    "sha1": "e7a45fed0d7ebfd13a524e7fcc443318bac654e2"
+  },
+  "NASDAQ_RPD_2022.pdf.txt": {
+    "letters": 437229,
+    "pages": 109,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Rapid7",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 560,
+      "CAD": 3
+    },
+    "sha1": "99cd0edaf5bfb233e5f46ee55af837de0b725274"
+  },
+  "ASX_BHD_2022.pdf.txt": {
+    "letters": 93167,
+    "pages": 44,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "Benjamin Hornigold Ltd",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 172,
+      "AUD": 93
+    },
+    "sha1": "e2850fff8d9dee77f3a6520d0b1aba46adddc2c0"
+  },
+  "ASX_SUN_2022.pdf.txt": {
+    "letters": 595062,
+    "pages": 205,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "Suncorp Group",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 112,
+      "AUD": 55,
+      "CAD": 3,
+      "NZD": 23,
+      "ZAR": 74
+    },
+    "sha1": "e6ce8ed579e95d2cfeabbbed872beb0c3f8396d7"
+  },
+  "TSX_RBA_2022.pdf.txt": {
+    "letters": 478704,
+    "pages": 144,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Ritchie Bros. Auctioneers Incorporated",
+      "major_industry": "Transport & Logistics",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 118,
+      "EUR": 19,
+      "AUD": 17,
+      "CAD": 6,
+      "ZAR": 6
+    },
+    "sha1": "78c71282723c2d66216cbba13183d19349d302b8"
+  },
+  "ASX_ODY_2022.pdf.txt": {
+    "letters": 163932,
+    "pages": 69,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "Odyssey Gold Limited",
+      "major_industry": "Pharmaceuticals",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 260,
+      "EUR": 1,
+      "AUD": 89
+    },
+    "sha1": "0c0faea14d108e1617f2d6d2a7c1aae04eb88fe0"
+  },
+  "NASDAQ_VRCA_2022.pdf.txt": {
+    "letters": 479037,
+    "pages": 124,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Verrica Pharmaceuticals Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 30,
+      "EUR": 8,
+      "AUD": 14,
+      "CAD": 2
+    },
+    "sha1": "e1edf72618e9d6ae2e72bb3ac7a9ddc15240e4ef"
+  },
+  "TSX_KPT_2022.pdf.txt": {
+    "letters": 199159,
+    "pages": 71,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "KP Tissue Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": true,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 367,
+      "AUD": 68,
+      "CAD": 34
+    },
+    "sha1": "d14ae2b6284e48b5c1e6659a0a5863d84697b3b9"
+  },
+  "ASX_DOW_2022.pdf.txt": {
+    "letters": 445228,
+    "pages": 149,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "Downer EDI Limited",
+      "major_industry": "Transport & Logistics",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": true,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 206,
+      "AUD": 106,
+      "CAD": 1,
+      "CNY": 1,
+      "ZAR": 2
+    },
+    "sha1": "0a61a353b1ea9fd9b8f63b60239634ca3007d58f"
+  },
+  "OTC_EPIHF_2022.pdf.txt": {
+    "letters": 373981,
+    "pages": 173,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "EPI (HOLDINGS) LIMITED",
+      "major_industry": "Energy and Utilities",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 185,
+      "EUR": 1,
+      "AUD": 103,
+      "CAD": 12,
+      "CNY": 2,
+      "ZAR": 33,
+      "HKD": 4
+    },
+    "sha1": "674a255d82495ef40189645697460801193e5a2d"
+  },
+  "LSE_GLR_2022.pdf.txt": {
+    "letters": 203804,
+    "pages": 75,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 3
+      },
+      "company_name": "Galileo Resources Plc",
+      "major_industry": "Pharmaceuticals",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 46,
+      "EUR": 4,
+      "GBP": 95,
+      "AUD": 102,
+      "CAD": 5,
+      "ZAR": 29
+    },
+    "sha1": "6406e378c1f49a29c836633f187c271b30b50183"
+  },
+  "NASDAQ_SNTI_2022.pdf.txt": {
+    "letters": 1028487,
+    "pages": 306,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Senti Biosciences, Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 20,
+      "EUR": 20,
+      "AUD": 9,
+      "CAD": 3
+    },
+    "sha1": "6159f86f38ec4f82453d99a01c22f1847de133c6"
+  },
+  "NASDAQ_SAH_2022.pdf.txt": {
+    "letters": 467315,
+    "pages": 138,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Sonic Automotive, Inc.",
+      "major_industry": "Automotive",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 572,
+      "EUR": 3,
+      "AUD": 7,
+      "CAD": 1,
+      "ZAR": 3
+    },
+    "sha1": "682de8e45fd9688f3452bc0e18257132a8f3cff6"
+  },
+  "NASDAQ_FLWS_2022.pdf.txt": {
+    "letters": 317637,
+    "pages": 101,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 7
+      },
+      "company_name": "1-800-FLOWERS.COM, INC.",
+      "major_industry": "Retail",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 222,
+      "AUD": 21,
+      "BRL": 2
+    },
+    "sha1": "30f64d1043f4cb425eb636763580ae27094ffef1"
+  },
+  "LSE_AJIT_2022.pdf.txt": {
+    "letters": 267244,
+    "pages": 109,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 3
+      },
+      "company_name": "abrdn Japan Investment Trust plc",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 2,
+      "EUR": 3,
+      "GBP": 180,
+      "JPY": 17,
+      "AUD": 170,
+      "CNY": 2,
+      "INR": 1
+    },
+    "sha1": "d5ad1d288230072e3f6654bb6182d76f8af2ba0a"
+  },
+  "motability-operations-group-plc_2022.pdf.txt": {
+    "letters": 440059,
+    "pages": 151,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 9
+      },
+      "company_name": "Motability Operations Group plc",
+      "major_industry": "Transport & Logistics",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "EUR": 4,
+      "GBP": 117,
+      "AUD": 56,
+      "CAD": 3
+    },
+    "sha1": "2e315764be39701457b88c23f70c5ddede4b2453"
+  },
+  "NASDAQ_ABIO_2022.pdf.txt": {
+    "letters": 410191,
+    "pages": 92,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "ARCA Biopharma, Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 29,
+      "EUR": 22,
+      "AUD": 14,
+      "ZAR": 6
+    },
+    "sha1": "a533b44fe091a8aa62d1fa4f0a3262b311df8bd9"
+  },
+  "NASDAQ_TERN_2022.pdf.txt": {
+    "letters": 751603,
+    "pages": 201,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Terns Pharmaceuticals, Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 20,
+      "EUR": 23,
+      "AUD": 3,
+      "CAD": 6,
+      "CNY": 2,
+      "INR": 1
+    },
+    "sha1": "79ffb9b8682aa565172233c070a47d944464644c"
+  },
+  "NYSE_ORH_2022.pdf.txt": {
+    "letters": 184526,
+    "pages": 61,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Odyssey Group Holdings, Inc.",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": false,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 794,
+      "EUR": 7,
+      "AUD": 43,
+      "ZAR": 1
+    },
+    "sha1": "31e16caf2a6d45fb9cc41fb158b49933df4895f7"
+  },
+  "ASX_RFT_2022.pdf.txt": {
+    "letters": 129034,
+    "pages": 57,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "Rectifier Technologies Ltd",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": false,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 199,
+      "EUR": 5,
+      "AUD": 113
+    },
+    "sha1": "3bb894b4201667baf60b0b2c8a47109fa2357acb"
+  },
+  "NASDAQ_INCY_2022.pdf.txt": {
+    "letters": 541365,
+    "pages": 131,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Incyte Corporation",
+      "major_industry": "Pharmaceuticals",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 3,
+      "EUR": 42,
+      "AUD": 3,
+      "CAD": 7,
+      "ZAR": 1
+    },
+    "sha1": "4d3e52b69b4b5366e54ce87cf641b01b1419bdee"
+  },
+  "NYSE_CCRD_2022.pdf.txt": {
+    "letters": 200425,
+    "pages": 64,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "CoreCard Corporation",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 286,
+      "EUR": 4,
+      "AUD": 86,
+      "RUB": 2,
+      "BRL": 7
+    },
+    "sha1": "f015d4bfeec43fe65c003b6f4420ae864efbb58f"
+  },
+  "LSE_BBSN_2022.pdf.txt": {
+    "letters": 181097,
+    "pages": 69,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Brave Bison Group plc",
+      "major_industry": "Media & Entertainment",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 8,
+      "EUR": 8,
+      "GBP": 298,
+      "AUD": 173,
+      "SGD": 5
+    },
+    "sha1": "ddd10e4612006205c4b1ba050a11648071e6e429"
+  },
+  "NYSE_FC_2022.pdf.txt": {
+    "letters": 510146,
+    "pages": 161,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 8
+      },
+      "company_name": "Franklin Covey Co.",
+      "major_industry": "Media & Entertainment",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": false,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 170,
+      "EUR": 2,
+      "AUD": 79,
+      "CAD": 5
+    },
+    "sha1": "e30ece688caf7602b734bbbcf39559b4acdb2739"
+  },
+  "NASDAQ_TELL_2022.pdf.txt": {
+    "letters": 397381,
+    "pages": 114,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Tellurian Inc.",
+      "major_industry": "Energy and Utilities",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 140,
+      "EUR": 1,
+      "AUD": 26,
+      "CAD": 1,
+      "ZAR": 30
+    },
+    "sha1": "b3c406f0cd22d58b25d0f52852e1c4a5d73daf35"
+  },
+  "NYSE_HCA_2022.pdf.txt": {
+    "letters": 559523,
+    "pages": 133,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "HCA Healthcare, Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 54,
+      "EUR": 1,
+      "AUD": 46
+    },
+    "sha1": "a69ebee82a9acd54117407ca3697db0d7bfbfdac"
+  },
+  "ASX_NZM_2022.pdf.txt": {
+    "letters": 253313,
+    "pages": 119,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "NZME Limited",
+      "major_industry": "Media & Entertainment",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": true,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 299,
+      "EUR": 6,
+      "AUD": 146,
+      "CAD": 11,
+      "NZD": 1,
+      "RUB": 4
+    },
+    "sha1": "c7475e1d98f9a46a4652e503881d4a67232b41d3"
+  },
+  "ASX_OFX_2022.pdf.txt": {
+    "letters": 250116,
+    "pages": 135,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 3
+      },
+      "company_name": "OFX Group Limited",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 272,
+      "EUR": 14,
+      "GBP": 3,
+      "AUD": 100,
+      "CAD": 4,
+      "NZD": 3,
+      "HKD": 1,
+      "SGD": 3
+    },
+    "sha1": "1bd670f9cdf088266db849722c3aded77a2f4894"
+  },
+  "NYSE_NSP_2022.pdf.txt": {
+    "letters": 297966,
+    "pages": 98,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Insperity, Inc.",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 258,
+      "EUR": 1,
+      "AUD": 6,
+      "CAD": 1
+    },
+    "sha1": "7be0f16625505fb48ad135c1a3fccd75ce06671c"
+  },
+  "OTC_RWNEF_2022.pdf.txt": {
+    "letters": 797057,
+    "pages": 286,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "RWE AG",
+      "major_industry": "Energy and Utilities",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": true,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 13,
+      "EUR": 292,
+      "GBP": 10,
+      "AUD": 39,
+      "CAD": 14
+    },
+    "sha1": "cc0fc5888b99758100a7ff024863fc4337b6b3c5"
+  },
+  "NASDAQ_INMB_2022.pdf.txt": {
+    "letters": 373125,
+    "pages": 65,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "INMUNE BIO INC.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 12,
+      "EUR": 64,
+      "AUD": 12,
+      "CAD": 10
+    },
+    "sha1": "553afbf09b6d83166b17acb02431c6cf38e4defc"
+  },
+  "LSE_STHR_2022.pdf.txt": {
+    "letters": 661828,
+    "pages": 130,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 11
+      },
+      "company_name": "SThree plc",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 6,
+      "EUR": 13,
+      "GBP": 134,
+      "AUD": 11,
+      "CAD": 15
+    },
+    "sha1": "67185fca2a09b3c46ee961b2c1ae160dab8b5231"
+  },
+  "NYSE_AA_2022.pdf.txt": {
+    "letters": 595434,
+    "pages": 157,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Alcoa Corporation",
+      "major_industry": "Energy and Utilities",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": true,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 45,
+      "EUR": 16,
+      "AUD": 26,
+      "CAD": 2,
+      "ZAR": 8,
+      "NOK": 1,
+      "BRL": 1
+    },
+    "sha1": "9af0a7f8db3954c3e74851c8c1807a09ece8ef00"
+  },
+  "NASDAQ_CLDX_2022.pdf.txt": {
+    "letters": 424107,
+    "pages": 111,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Celldex Therapeutics, Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 18,
+      "EUR": 13,
+      "AUD": 6,
+      "CAD": 4,
+      "ZAR": 3,
+      "RUB": 1
+    },
+    "sha1": "2cdfd39bbf896b0f6651ebb0fe697cdf8c7ef0e8"
+  },
+  "NASDAQ_DMAC_2022.pdf.txt": {
+    "letters": 661193,
+    "pages": 205,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "DiaMedica Therapeutics Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": false,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 62,
+      "EUR": 4,
+      "AUD": 93,
+      "CAD": 10,
+      "RUB": 1
+    },
+    "sha1": "6e36d57320ec525da93b3ce2c7269580c746475b"
+  },
+  "ASX_IPL_2022.pdf.txt": {
+    "letters": 447187,
+    "pages": 137,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 9
+      },
+      "company_name": "Incitec Pivot Limited",
+      "major_industry": "Energy and Utilities",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 299,
+      "EUR": 10,
+      "AUD": 84,
+      "CAD": 7,
+      "ZAR": 6
+    },
+    "sha1": "6529fba868216a923407fb0d4e15a811a8e89ebc"
+  },
+  "NASDAQ_WWR_2022.pdf.txt": {
+    "letters": 246817,
+    "pages": 77,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Westwater Resources, Inc.",
+      "major_industry": "Energy and Utilities",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 197,
+      "EUR": 6,
+      "AUD": 26,
+      "CAD": 6,
+      "ZAR": 3
+    },
+    "sha1": "92d9de8e4db96e0b95a484afcd1c54c6beb62c03"
+  },
+  "NASDAQ_MDB_2022.pdf.txt": {
+    "letters": 682897,
+    "pages": 181,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "MongoDB, Inc.",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 265,
+      "EUR": 1,
+      "CAD": 565
+    },
+    "sha1": "7792e23f8a40fb9461dbc26f417b0fb948f54f46"
+  },
+  "NASDAQ_CSGS_2022.pdf.txt": {
+    "letters": 358760,
+    "pages": 106,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "CSG Systems International, Inc.",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": true,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 282,
+      "EUR": 8,
+      "AUD": 39,
+      "CAD": 4,
+      "ZAR": 1
+    },
+    "sha1": "ad1613dac24a1349ec293100e3ea19fe913bb930"
+  },
+  "OTC_TOSYY_2022.pdf.txt": {
+    "letters": 257958,
+    "pages": 87,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 3
+      },
+      "company_name": "Toshiba Corporation",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "EUR": 7,
+      "AUD": 34,
+      "CAD": 8,
+      "ZAR": 1,
+      "RUB": 1
+    },
+    "sha1": "e273ed0d9626b9feaf50c09405c2b70d461e41d7"
+  },
+  "ASX_BET_2022.pdf.txt": {
+    "letters": 217875,
+    "pages": 86,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "BetMakers Technology Group Ltd",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 454,
+      "EUR": 5,
+      "GBP": 2,
+      "AUD": 91,
+      "CAD": 1
+    },
+    "sha1": "1af8f906e34af6e0acfe4f73e37093bbe34700f3"
+  },
+  "NYSE_MGM_2022.pdf.txt": {
+    "letters": 462783,
+    "pages": 121,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "MGM Resorts International",
+      "major_industry": "Hospitality",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 374,
+      "EUR": 9,
+      "CAD": 1,
+      "NZD": 1,
+      "HKD": 3,
+      "SGD": 5,
+      "KRW": 46
+    },
+    "sha1": "e117005fc313bf0d49429d34bc8e1ef64de54898"
+  },
+  "NASDAQ_IART_2022.pdf.txt": {
+    "letters": 698125,
+    "pages": 186,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Integra LifeSciences Holdings Corporation",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 96,
+      "EUR": 54,
+      "GBP": 1,
+      "JPY": 1,
+      "AUD": 10,
+      "CAD": 1,
+      "CHF": 1,
+      "CNY": 1,
+      "ZAR": 11
+    },
+    "sha1": "f85f0ccbbc59f1423d52d44e5ab70e3a01164499"
+  },
+  "ASX_PKO_2022.pdf.txt": {
+    "letters": 116167,
+    "pages": 61,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "Peako Limited",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 133,
+      "AUD": 90
+    },
+    "sha1": "105688726e097505beef4934896193ac51295037"
+  },
+  "LSE_AZN_2022.pdf.txt": {
+    "letters": 1041538,
+    "pages": 229,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "AstraZeneca",
+      "major_industry": "Pharmaceuticals",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 250,
+      "EUR": 44,
+      "GBP": 1,
+      "AUD": 10,
+      "CAD": 12,
+      "INR": 1
+    },
+    "sha1": "5bb5f71d1457f3272adab97d64a79c300da75cea"
+  },
+  "NASDAQ_ACT_2022.pdf.txt": {
+    "letters": 924793,
+    "pages": 275,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Enact Holdings, Inc.",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 40,
+      "EUR": 1,
+      "AUD": 6,
+      "CAD": 3,
+      "ZAR": 1
+    },
+    "sha1": "1ab89c81bdb49d4bfba2202eeb8e1c93bed414c7"
+  },
+  "poste-italiane_2022.pdf.txt": {
+    "letters": 2895922,
+    "pages": 1044,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Poste Italiane",
+      "major_industry": "Transport & Logistics",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "EUR": 190,
+      "AUD": 8,
+      "CAD": 3,
+      "ZAR": 3
+    },
+    "sha1": "c74139ce26a6f803725f5074a8a0f539abb99c09"
+  },
+  "aa-plc_2022.pdf.txt": {
+    "letters": 364277,
+    "pages": 62,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 1
+      },
+      "company_name": "AA Limited",
+      "major_industry": "Transport & Logistics",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "EUR": 2,
+      "GBP": 214,
+      "AUD": 140,
+      "CAD": 1,
+      "ZAR": 1
+    },
+    "sha1": "aa781901e117281bfee6f8e4bea6fc9c9bada62e"
+  },
+  "LSE_BEZ_2022.pdf.txt": {
+    "letters": 828046,
+    "pages": 238,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Beazley plc",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 46,
+      "EUR": 13,
+      "GBP": 2,
+      "AUD": 26,
+      "CAD": 1,
+      "ZAR": 1
+    },
+    "sha1": "c5fc5890205fe5326d690fc017f7153fb09924e4"
+  },
+  "datalogic_2022.pdf.txt": {
+    "letters": 430027,
+    "pages": 241,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Datalogic",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 8,
+      "EUR": 152,
+      "GBP": 3,
+      "JPY": 2,
+      "AUD": 22,
+      "CAD": 3,
+      "CNY": 6,
+      "ZAR": 1,
+      "SEK": 2,
+      "BRL": 2,
+      "HKD": 2,
+      "SGD": 2,
+      "MXN": 2
+    },
+    "sha1": "980742aa08ea64d552c153bcefbd7e8243fb9efd"
+  },
+  "LSE_SVE_2022.pdf.txt": {
+    "letters": 124076,
+    "pages": 49,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 9
+      },
+      "company_name": "Starvest plc",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 16,
+      "EUR": 7,
+      "GBP": 109,
+      "AUD": 131,
+      "CAD": 1,
+      "CHF": 1
+    },
+    "sha1": "53aa4bfb3b29d7fc064e97626fc4f860942ca9fd"
+  },
+  "NASDAQ_WHLR_2022.pdf.txt": {
+    "letters": 284415,
+    "pages": 93,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+      "major_industry": "Retail",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 474,
+      "AUD": 41,
+      "CHF": 2
+    },
+    "sha1": "b947c33b370d8a3251ef9c36ce7d71e8d16f4f8e"
+  },
+  "NASDAQ_NCNA_2022.pdf.txt": {
+    "letters": 826509,
+    "pages": 220,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "NuCana plc",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 2,
+      "EUR": 43,
+      "GBP": 39,
+      "AUD": 14,
+      "CAD": 1,
+      "ZAR": 3
+    },
+    "sha1": "9b7fdb871fc4d4a8babc25448257ae0b81a6442d"
+  },
+  "ASX_EXR_2022.pdf.txt": {
+    "letters": 135611,
+    "pages": 62,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "Elixir Energy Limited",
+      "major_industry": "Energy and Utilities",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 251,
+      "EUR": 2,
+      "AUD": 94,
+      "CAD": 2
+    },
+    "sha1": "f879b3a802ccd6e8e6ca0a07ed8464318b7c0724"
+  },
+  "NYSE_NAT_2022.pdf.txt": {
+    "letters": 464849,
+    "pages": 122,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Nordic American Tankers Limited",
+      "major_industry": "Transport & Logistics",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 46,
+      "EUR": 17,
+      "AUD": 9,
+      "CAD": 1,
+      "ZAR": 7,
+      "NOK": 4,
+      "RUB": 4
+    },
+    "sha1": "91ba1d46cdde9c1c0cf34f6bcc107741244f8f3d"
+  },
+  "NASDAQ_AUR_2022.pdf.txt": {
+    "letters": 397554,
+    "pages": 110,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Aurora Innovation, Inc.",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 13,
+      "EUR": 4,
+      "AUD": 8,
+      "CAD": 2,
+      "ZAR": 5
+    },
+    "sha1": "13999998018cc53440310d94a26d1e8957e2277f"
+  },
+  "NASDAQ_OBNK_2022.pdf.txt": {
+    "letters": 851754,
+    "pages": 268,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Origin Bancorp, Inc.",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": false,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 98,
+      "EUR": 3,
+      "AUD": 78,
+      "CAD": 4
+    },
+    "sha1": "3f36d4f26ada778d89cf5a7344be0b9e9a5223a3"
+  },
+  "NYSE_ACR_2022.pdf.txt": {
+    "letters": 605389,
+    "pages": 161,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "ACRES Commercial Realty Corp.",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 97,
+      "EUR": 1,
+      "AUD": 5,
+      "ZAR": 2,
+      "RUB": 1
+    },
+    "sha1": "0279901b645e568591ad95dac2c2bf939ef0c00d"
+  },
+  "LSE_SHI_2022.pdf.txt": {
+    "letters": 828275,
+    "pages": 228,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "SIG plc",
+      "major_industry": "Retail",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "EUR": 36,
+      "GBP": 111,
+      "AUD": 17,
+      "CAD": 10,
+      "ZAR": 8,
+      "SEK": 1
+    },
+    "sha1": "2db41ba86cc015db1f5f7de00b764a06e6de3dcc"
+  },
+  "NASDAQ_MFIN_2022.pdf.txt": {
+    "letters": 410712,
+    "pages": 105,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Medallion Financial Corp.",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 199,
+      "AUD": 15
+    },
+    "sha1": "1a12ef3f11a64e92eeca39e493a17d2860c014a6"
+  },
+  "ASX_AR9_2022.pdf.txt": {
+    "letters": 176251,
+    "pages": 85,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "archTIS Limited",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 223,
+      "EUR": 2,
+      "AUD": 94,
+      "INR": 1
+    },
+    "sha1": "c06d5ad4b6408fec26675d30b37a6042c007095a"
+  },
+  "NASDAQ_LBRDA_2022.pdf.txt": {
+    "letters": 547494,
+    "pages": 162,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Liberty Broadband Corporation",
+      "major_industry": "Telecommunications",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 154,
+      "AUD": 112
+    },
+    "sha1": "446545ae548543d8744f8d885ff75face3424ba4"
+  },
+  "NASDAQ_INFN_2022.pdf.txt": {
+    "letters": 867524,
+    "pages": 233,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Infinera Corporation",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": false,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 124,
+      "EUR": 1,
+      "AUD": 62,
+      "CAD": 1,
+      "ZAR": 1
+    },
+    "sha1": "51bae8eeb78cf7d8d96c5cb66c36c41c6bd71491"
+  },
+  "LSE_PTEC_2022.pdf.txt": {
+    "letters": 887439,
+    "pages": 233,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Playtech plc",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 17,
+      "EUR": 77,
+      "GBP": 1,
+      "AUD": 17,
+      "CAD": 5
+    },
+    "sha1": "ded965ce7e3ea0ad9b83272b8c36f529793a2887"
+  },
+  "NASDAQ_BCEL_2022.pdf.txt": {
+    "letters": 708755,
+    "pages": 199,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Atreca, Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 9,
+      "EUR": 13,
+      "AUD": 10,
+      "ZAR": 4
+    },
+    "sha1": "5f226fe96206888930e3baaf0bff70d4b0a1db40"
+  },
+  "NYSE_APTV_2022.pdf.txt": {
+    "letters": 657404,
+    "pages": 153,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Aptiv PLC",
+      "major_industry": "Automotive",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 58,
+      "EUR": 25,
+      "AUD": 8,
+      "CAD": 6,
+      "CNY": 2,
+      "ZAR": 5,
+      "RUB": 1
+    },
+    "sha1": "957f31e694198a1695d14aa512a972ab6f3c55b5"
+  },
+  "NASDAQ_KNSA_2022.pdf.txt": {
+    "letters": 810938,
+    "pages": 198,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Kiniksa Pharmaceuticals, Ltd.",
+      "major_industry": "Pharmaceuticals",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 40,
+      "EUR": 21,
+      "AUD": 11,
+      "CAD": 1,
+      "INR": 5,
+      "ZAR": 2,
+      "RUB": 1
+    },
+    "sha1": "74c690176ce433301f4d1e808bb002a2f4dc321a"
+  },
+  "LSE_JHD_2022.pdf.txt": {
+    "letters": 217000,
+    "pages": 81,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "James Halstead plc",
+      "major_industry": "Retail",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 5,
+      "EUR": 28,
+      "GBP": 252,
+      "AUD": 129,
+      "CAD": 5,
+      "CHF": 4,
+      "INR": 1,
+      "NZD": 3,
+      "SEK": 1,
+      "NOK": 2,
+      "HKD": 1
+    },
+    "sha1": "71d137454a1524843e1f49b34603438510232919"
+  },
+  "NASDAQ_SNDX_2022.pdf.txt": {
+    "letters": 425152,
+    "pages": 118,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Syndax Pharmaceuticals, Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 24,
+      "EUR": 9,
+      "AUD": 27,
+      "CAD": 3,
+      "ZAR": 3
+    },
+    "sha1": "e2923f240db86d0096f462f6cb398339d3251b50"
+  },
+  "NYSE_APRN_2022.pdf.txt": {
+    "letters": 662949,
+    "pages": 172,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Blue Apron Holdings, Inc.",
+      "major_industry": "Food & Beverage",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": true,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 71,
+      "AUD": 11,
+      "CAD": 1,
+      "ZAR": 4
+    },
+    "sha1": "35839effbc332f23d5f34263aab3dcb2c6976420"
+  },
+  "commerzbank_2022.pdf.txt": {
+    "letters": 1116902,
+    "pages": 325,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Commerzbank",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": true,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 1,
+      "EUR": 82,
+      "AUD": 116,
+      "CAD": 4,
+      "CHF": 4
+    },
+    "sha1": "696ddc4c80febe0f1559ed3b1272487c74ca91cc"
+  },
+  "TSX_SWP_2022.pdf.txt": {
+    "letters": 288113,
+    "pages": 97,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "SWISS WATER DECAFFEINATED COFFEE INC.",
+      "major_industry": "Food & Beverage",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 422,
+      "EUR": 9,
+      "AUD": 75,
+      "CAD": 58,
+      "ZAR": 1
+    },
+    "sha1": "d86be8a2fa1aab721d7de6de7fd4f5267c914cb2"
+  },
+  "ASX_SMN_2022.pdf.txt": {
+    "letters": 171466,
+    "pages": 79,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "Structural Monitoring Systems Plc",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 345,
+      "EUR": 19,
+      "GBP": 6,
+      "AUD": 169,
+      "CAD": 12
+    },
+    "sha1": "3e5ccdb58faf901e75e31f154cb8330869ca5efa"
+  },
+  "NASDAQ_PT_2022.pdf.txt": {
+    "letters": 1040610,
+    "pages": 268,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Pintec Technology Holdings Limited",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": false,
+      "has_layoffs": true,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 25,
+      "AUD": 53,
+      "CNY": 44,
+      "RUB": 1
+    },
+    "sha1": "9e794a58e511f6a6a9a13b201d652deff9f9f69a"
+  },
+  "ASX_AER_2022.pdf.txt": {
+    "letters": 125772,
+    "pages": 75,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 6
+      },
+      "company_name": "Aeeris Ltd",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 90,
+      "AUD": 80,
+      "CAD": 1,
+      "ZAR": 10
+    },
+    "sha1": "f6a1077a46cb36761604f8f4840698e22837f5f7"
+  },
+  "NASDAQ_OCGN_2022.pdf.txt": {
+    "letters": 741337,
+    "pages": 178,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Ocugen, Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 11,
+      "EUR": 8,
+      "AUD": 16,
+      "CAD": 5,
+      "ZAR": 2
+    },
+    "sha1": "36dd058d3237202cbb94139611c8b8a35ff8c158"
+  },
+  "OTC_SEKEY_2022.pdf.txt": {
+    "letters": 462524,
+    "pages": 182,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 3
+      },
+      "company_name": "Seiko Epson Corporation",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": true,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 13,
+      "EUR": 31,
+      "GBP": 2,
+      "JPY": 75,
+      "AUD": 109,
+      "CNY": 71,
+      "INR": 1,
+      "SEK": 1,
+      "HKD": 1,
+      "SGD": 2,
+      "KRW": 1
+    },
+    "sha1": "6d76ccb75bbf1b27ca60b8419c5343ac050cebb0"
+  },
+  "TSX_EMA_2022.pdf.txt": {
+    "letters": 480154,
+    "pages": 145,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Emera Inc.",
+      "major_industry": "Energy and Utilities",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 809,
+      "GBP": 31,
+      "AUD": 5,
+      "CAD": 28,
+      "ZAR": 1
+    },
+    "sha1": "e21ac6c083a56192fab027ebd2ab0fad71de5d7d"
+  },
+  "NASDAQ_GNTY_2022.pdf.txt": {
+    "letters": 26268,
+    "pages": 12,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Guaranty Bancshares, Inc.",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": false,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 79,
+      "EUR": 1,
+      "AUD": 1,
+      "RUB": 2
+    },
+    "sha1": "4e3efdc544140b872a59e124443a64c34f356911"
+  },
+  "NYSE_AIN_2022.pdf.txt": {
+    "letters": 370415,
+    "pages": 131,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Albany International Corp.",
+      "major_industry": "Aerospace & Defense",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 372,
+      "EUR": 11,
+      "AUD": 42,
+      "CAD": 1
+    },
+    "sha1": "da663e46fbf02ec8a90b3f3c1079ef4c9f7907e1"
+  },
+  "NASDAQ_BCBP_2022.pdf.txt": {
+    "letters": 340815,
+    "pages": 84,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "BCB Bancorp, Inc.",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": false,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": true,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 377,
+      "AUD": 43,
+      "RUB": 6
+    },
+    "sha1": "2fd79ae4ebe4943384c119eb1d1e9286ba3c5074"
+  },
+  "NASDAQ_NN_2022.pdf.txt": {
+    "letters": 337638,
+    "pages": 94,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "NextNav Inc.",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 116,
+      "EUR": 11,
+      "AUD": 10
+    },
+    "sha1": "0f111d244aee3d976684995a222fa177a64571c4"
+  },
+  "OTC_FNCB_2022.pdf.txt": {
+    "letters": 519620,
+    "pages": 129,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "FNCB Bancorp, Inc.",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": true,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": true,
+      "has_share_buyback_plans": true,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 335,
+      "AUD": 11,
+      "RUB": 1
+    },
+    "sha1": "23b2c590c4887dfb86761730dd7156fe3b216ab7"
+  },
+  "NASDAQ_RMBL_2022.pdf.txt": {
+    "letters": 478486,
+    "pages": 141,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "RumbleOn, Inc.",
+      "major_industry": "Technology",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": false
+    },
+    "currency": {
+      "USD": 232,
+      "AUD": 11,
+      "CAD": 1,
+      "CNY": 5,
+      "ZAR": 2
+    },
+    "sha1": "e7f655f43bc2abf6216519187d9fc907e9224937"
+  },
+  "NASDAQ_APVO_2022.pdf.txt": {
+    "letters": 445924,
+    "pages": 120,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Aptevo Therapeutics Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 18,
+      "EUR": 9,
+      "AUD": 8,
+      "CAD": 5,
+      "INR": 1,
+      "ZAR": 2,
+      "RUB": 5
+    },
+    "sha1": "0981826b4b43a88920f3e01c71ae73539bab84cc"
+  },
+  "NASDAQ_NEO_2022.pdf.txt": {
+    "letters": 549905,
+    "pages": 143,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "NeoGenomics, Inc.",
+      "major_industry": "Healthcare",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": true,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": true,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": true,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 15,
+      "EUR": 12,
+      "AUD": 21,
+      "CAD": 6,
+      "ZAR": 14
+    },
+    "sha1": "f9736aa2f56c40b127bced09ce1c8e8cbf7aa0e3"
+  },
+  "NASDAQ_MNSB_2022.pdf.txt": {
+    "letters": 385818,
+    "pages": 97,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "MainStreet Bancshares, Inc.",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": false,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": false,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 89,
+      "EUR": 2,
+      "AUD": 29,
+      "INR": 1,
+      "ZAR": 1,
+      "RUB": 1
+    },
+    "sha1": "53a00624418f6c5c2d044344a4125bba7743614f"
+  },
+  "NASDAQ_BWB_2022.pdf.txt": {
+    "letters": 597683,
+    "pages": 159,
+    "meta": {
+      "end_of_period": {
+        "year": 2022,
+        "month": 12
+      },
+      "company_name": "Bridgewater Bancshares, Inc.",
+      "major_industry": "Financial Services",
+      "mentions_recent_mergers_and_acquisitions": true,
+      "has_leadership_changes": false,
+      "has_layoffs": false,
+      "has_executive_compensation": true,
+      "has_rnd_investment_numbers": false,
+      "has_new_product_launches": true,
+      "has_capital_expenditures": false,
+      "has_financial_performance_indicators": true,
+      "has_dividend_policy_changes": false,
+      "has_share_buyback_plans": false,
+      "has_capital_structure_changes": false,
+      "mentions_new_risk_factors": true,
+      "has_guidance_updates": true,
+      "has_regulatory_or_litigation_issues": true,
+      "has_strategic_restructuring": false,
+      "has_supply_chain_disruptions": false,
+      "has_esg_initiatives": true
+    },
+    "currency": {
+      "USD": 59,
+      "EUR": 9,
+      "AUD": 24,
+      "CAD": 1,
+      "ZAR": 2,
+      "RUB": 2
+    },
+    "sha1": "8467b7fce0d860b56e30c79d253d0bb5e9a32e95"
+  }
+}

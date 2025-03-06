@@ -1,0 +1,5182 @@
+{
+  "letters": 391755,
+  "pages": 120,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "Trinity Place Holdings Inc.",
+    "major_industry": "Retail",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Form 10-K - Annual Report for Fiscal Year Ended December 31, 2022",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "TRINITY PLACE HOLDINGS INC."
+            },
+            {
+              "key": "State of Incorporation",
+              "value": "Delaware"
+            },
+            {
+              "key": "I.R.S. Employer Identification No.",
+              "value": "22-2465228"
+            },
+            {
+              "key": "Principal Executive Offices Address",
+              "value": "340 Madison Avenue, New York, New York 10173"
+            },
+            {
+              "key": "Commission File Number",
+              "value": "1-08546"
+            },
+            {
+              "key": "Securities Registered Pursuant to Section 12(b)",
+              "value": "Common Stock $0.01 Par Value Per Share"
+            },
+            {
+              "key": "Trading Symbol",
+              "value": "TPHS"
+            },
+            {
+              "key": "Market Value of Non-Affiliate Shares",
+              "value": "$25,710,000"
+            },
+            {
+              "key": "Shares Outstanding as of March 31, 2023",
+              "value": "37,163,137"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 5,
+          "title": "Chapter 11 Cases and Plan of Reorganization of Syms",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Syms"
+            },
+            {
+              "key": "Successor Company",
+              "value": "Trinity"
+            },
+            {
+              "key": "Plan Effective Date",
+              "value": "September 2012"
+            },
+            {
+              "key": "Restructuring Details",
+              "value": "Syms and its subsidiaries consummated their reorganization under Chapter 11 through a series of transactions and emerged from bankruptcy."
+            },
+            {
+              "key": "Merger Details",
+              "value": "Reorganized Syms merged with and into Trinity, with Trinity as the surviving corporation."
+            },
+            {
+              "key": "Final Payment Date",
+              "value": "January 2020"
+            },
+            {
+              "key": "Final Payment Amount",
+              "value": "$109,000"
+            },
+            {
+              "key": "Underfunded Pension Plan Amount",
+              "value": "$651,000"
+            },
+            {
+              "key": "Pension Plans Note",
+              "value": "See Note 9 – Pension Plans to our consolidated financial statements for further information."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 8,
+          "title": "Strategic Transactions and Risks",
+          "data": [
+            {
+              "key": "Business Plan Focus",
+              "value": "Completion of and the sale of condominiums at 77 Greenwich."
+            },
+            {
+              "key": "Market Risks",
+              "value": "Adverse trends in the New York City residential condominium market could have a material adverse effect."
+            },
+            {
+              "key": "Revenue Dependency",
+              "value": "Future growth is heavily dependent on the success of the business plan for 77 Greenwich."
+            },
+            {
+              "key": "Sales Volatility",
+              "value": "Sales of residential condominium units have historically experienced greater volatility than detached single family houses."
+            },
+            {
+              "key": "Impact of COVID-19",
+              "value": "The pandemic exacerbated the softness of the market when sales commenced in 2019."
+            },
+            {
+              "key": "Strategic Transactions",
+              "value": "Evaluating and consummating a strategic transaction could disrupt the business and affect results."
+            },
+            {
+              "key": "Risks of Strategic Transactions",
+              "value": "Risks include disruption of ongoing business, regulatory risks, and financial resource utilization."
+            },
+            {
+              "key": "Potential Outcomes of Failure",
+              "value": "Failure to realize benefits could exacerbate liabilities and harm financial condition."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 11,
+          "title": "Risks Related to Acquisitions and Investments in Real Estate Properties",
+          "data": [
+            {
+              "key": "Rent Stabilization Regulations",
+              "value": "Multi-family residential properties may be subject to rent stabilization regulations, which limit our ability to raise rents above specified maximum amounts."
+            },
+            {
+              "key": "Rent Control Impact",
+              "value": "The limitations established by present or future rent stabilization regulations may impair our ability to maintain rents at market levels."
+            },
+            {
+              "key": "Housing Stability and Tenant Protection Act of 2019",
+              "value": "Vacancy lease increases were eliminated, impacting landlords’ ability to raise rents for new tenants."
+            },
+            {
+              "key": "Rent Guidelines Board Increases",
+              "value": "In 2022, the Rent Guidelines Board approved a 3.25% increase on 12-month lease renewals."
+            },
+            {
+              "key": "Proposed Good Cause Eviction Bill",
+              "value": "A proposed New York State bill that may impose further restrictions on rent increases."
+            },
+            {
+              "key": "Competitive Acquisition Risks",
+              "value": "We face competition for acquisition and investment opportunities which may increase costs."
+            },
+            {
+              "key": "Risks of Abandoning Acquisition Goals",
+              "value": "If we are unable to successfully acquire properties, our ability to grow our business would be adversely affected."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 19,
+          "title": "Property Portfolio Overview",
+          "data": [
+            {
+              "key": "Property Location",
+              "value": "77 Greenwich, New York, New York (1)"
+            },
+            {
+              "key": "Type of Property",
+              "value": "Residential condominium units for sale"
+            },
+            {
+              "key": "Building (estimated rentable square feet)",
+              "value": "N/A"
+            },
+            {
+              "key": "Number of Units",
+              "value": "N/A"
+            },
+            {
+              "key": "Leased at December 31, 2022",
+              "value": "N/A"
+            },
+            {
+              "key": "Property Location",
+              "value": "Paramus, New Jersey (2)"
+            },
+            {
+              "key": "Type of Property",
+              "value": "Retail"
+            },
+            {
+              "key": "Building (estimated rentable square feet)",
+              "value": "77000"
+            },
+            {
+              "key": "Number of Units",
+              "value": "N/A"
+            },
+            {
+              "key": "Leased at December 31, 2022",
+              "value": "100.0"
+            },
+            {
+              "key": "Property Location",
+              "value": "237 11th Street, Brooklyn, New York (3)"
+            },
+            {
+              "key": "Type of Property",
+              "value": "Multi-family"
+            },
+            {
+              "key": "Building (estimated rentable square feet)",
+              "value": "80000"
+            },
+            {
+              "key": "Number of Units",
+              "value": "105"
+            },
+            {
+              "key": "Leased at December 31, 2022",
+              "value": "100.0"
+            },
+            {
+              "key": "Property Location",
+              "value": "250 North 10th Street, Brooklyn, New York (4)"
+            },
+            {
+              "key": "Type of Property",
+              "value": "Multi-family"
+            },
+            {
+              "key": "Building (estimated rentable square feet)",
+              "value": "158000"
+            },
+            {
+              "key": "Number of Units",
+              "value": "234"
+            },
+            {
+              "key": "Leased at December 31, 2022",
+              "value": "98.3"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 30,
+          "title": "77 Mortgage Loan Details and Mezzanine Loan Agreement",
+          "data": [
+            {
+              "key": "PIK Interest",
+              "value": "Interest will continue to accrue on unpaid amounts until certain threshold."
+            },
+            {
+              "key": "Threshold Amount",
+              "value": "$4.5 million"
+            },
+            {
+              "key": "Loan Amount",
+              "value": "Original $7.5 million for Mezzanine Loan."
+            },
+            {
+              "key": "Interest Rate",
+              "value": "10.2% annual"
+            },
+            {
+              "key": "Final Completion Date",
+              "value": "September 29, 2023"
+            },
+            {
+              "key": "Loan Pay Down",
+              "value": "$47.8 million paid down from sales."
+            },
+            {
+              "key": "Outstanding Balance",
+              "value": "$120.5 million as of December 31, 2022."
+            },
+            {
+              "key": "Covenants Compliance",
+              "value": "In compliance with all covenants."
+            },
+            {
+              "key": "Loan Origination Date",
+              "value": "December 2020"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 34,
+          "title": "Critical Accounting Policies and Estimates",
+          "data": [
+            {
+              "key": "Accounting Policy Summary",
+              "value": "Management’s discussion and analysis of financial condition and results of operations is based upon our consolidated financial statements, prepared in accordance with GAAP."
+            },
+            {
+              "key": "Long-Lived Assets Valuation",
+              "value": "We periodically review long-lived assets for impairment whenever changes in circumstances indicate that the carrying amount of the assets may not be fully recoverable."
+            },
+            {
+              "key": "Capitalization Policy",
+              "value": "Costs related to the development of real estate including initial project acquisition costs, pre-construction costs and construction costs are capitalized."
+            },
+            {
+              "key": "Depreciation Schedule",
+              "value": "Useful life ranges for different asset types: Buildings (10-39 years), Tenant Improvements (Shorter of remaining lease term or useful life), Furniture and Fixtures (5-8 years)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 53,
+          "title": "Summary of Significant Accounting Policies",
+          "data": [
+            {
+              "key": "Basis of Presentation",
+              "value": "The consolidated financial statements include accounts of our subsidiaries which are or were wholly-owned or controlled. Entities we do not control through voting interest, where we are not the primary beneficiary, are accounted for under equity method."
+            },
+            {
+              "key": "Principles of Consolidation",
+              "value": "Significant intercompany balances and transactions have been eliminated. Investments in unconsolidated joint ventures are accounted for under equity method."
+            },
+            {
+              "key": "Use of Estimates",
+              "value": "Management makes estimates affecting reported amounts of assets and liabilities and disclosures at the date of the financial statements."
+            },
+            {
+              "key": "Reportable Segments",
+              "value": "We operate in one reportable segment, commercial real estate."
+            },
+            {
+              "key": "Concentrations of Credit Risk",
+              "value": "Financial instruments exposed to credit risk consist primarily of cash and cash equivalents."
+            },
+            {
+              "key": "Real Estate Accounting",
+              "value": "Real estate assets are stated at historical cost, less accumulated depreciation and amortization."
+            },
+            {
+              "key": "Depreciation Schedule",
+              "value": "Buildings and improvements: 10 - 39 years, Tenant improvements: shorter of remaining lease term or useful life, Furniture and fixtures: 5 - 8 years."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 74,
+          "title": "Property Description and Costs Schedule",
+          "data": [
+            {
+              "key": "Property Description",
+              "value": "Brooklyn, New York"
+            },
+            {
+              "key": "Encumbrances",
+              "value": ""
+            },
+            {
+              "key": "Land and Land Improvements",
+              "value": ""
+            },
+            {
+              "key": "Real Estate Under Development",
+              "value": ""
+            },
+            {
+              "key": "Building Improvements",
+              "value": "249"
+            },
+            {
+              "key": "Total",
+              "value": ""
+            },
+            {
+              "key": "Accumulated Depreciation",
+              "value": ""
+            },
+            {
+              "key": "Date of Acquisition",
+              "value": "2018"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 74,
+          "title": "Balance Period Comparison 2021-2022",
+          "data": [
+            {
+              "key": "metric",
+              "value": "Balance at beginning of period"
+            },
+            {
+              "key": "Year Ended December 31, 2022",
+              "value": "80,963"
+            },
+            {
+              "key": "Year Ended December 31, 2021",
+              "value": "80,908"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 74,
+          "title": "Real Estate Financial Summary - Years Ended December 31, 2022 and 2021",
+          "data": [
+            {
+              "key": "category",
+              "value": "Balance at beginning of period"
+            },
+            {
+              "key": "2022",
+              "value": "13629"
+            },
+            {
+              "key": "2021",
+              "value": "10868"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 75,
+          "title": "Exhibit 10.17 EXECUTION VERSION AMENDMENT NO. 5 TO CREDIT AGREEMENT",
+          "data": [
+            {
+              "key": "Amendment Date",
+              "value": "November 30, 2022"
+            },
+            {
+              "key": "Borrower",
+              "value": "TRINITY PLACE HOLDINGS INC."
+            },
+            {
+              "key": "Administrative Agent",
+              "value": "TPHS LENDER LLC"
+            },
+            {
+              "key": "Credit Agreement Date",
+              "value": "December 19, 2019"
+            },
+            {
+              "key": "Amendment No. 1 Date",
+              "value": "January 30, 2020"
+            },
+            {
+              "key": "Amendment No. 2 Date",
+              "value": "December 22, 2020"
+            },
+            {
+              "key": "Amendment No. 3 Date",
+              "value": "October 22, 2021"
+            },
+            {
+              "key": "Amendment No. 4 Date",
+              "value": "November 10, 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 77,
+          "title": "Amendment of Credit Agreement",
+          "data": [
+            {
+              "key": "Amendment Type",
+              "value": "Loan Document"
+            },
+            {
+              "key": "Sections Incorporated",
+              "value": "Sections 9.14 (Jurisdiction, Etc.) and 9.15 (Governing Law) of the Credit Agreement"
+            },
+            {
+              "key": "Borrower Obligation",
+              "value": "Pay and reimburse out-of-pocket costs and expenses incurred in connection with this Amendment"
+            },
+            {
+              "key": "Jurisdiction Clause",
+              "value": "Effective upon delivery of executed counterpart"
+            },
+            {
+              "key": "Severability Clause",
+              "value": "Invalid provisions shall not affect other jurisdictions"
+            },
+            {
+              "key": "Effect of Amendment",
+              "value": "Shall not modify other obligations under the Credit Agreement"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 82,
+          "title": "Amendment No. 5 to Credit Agreement",
+          "data": [
+            {
+              "key": "Lender",
+              "value": "TPHS LENDER LLC"
+            },
+            {
+              "key": "Acting By",
+              "value": "Midtown Acquisitions GP LLC, its Manager"
+            },
+            {
+              "key": "Manager Name",
+              "value": "Joshua D. Morris"
+            },
+            {
+              "key": "Title",
+              "value": "Manager"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 83,
+          "title": "FIRST AMENDMENT TO AMENDED AND RESTATED MEZZANINE LOAN AGREEMENT",
+          "data": [
+            {
+              "key": "Amendment Execution Date",
+              "value": "November 30, 2022"
+            },
+            {
+              "key": "Amendment Effective Date",
+              "value": "September 28, 2022"
+            },
+            {
+              "key": "Lender",
+              "value": "TPHS LENDER II LLC, 520 Madison Avenue, 30th Floor, New York, New York 10022"
+            },
+            {
+              "key": "Administrative Agent",
+              "value": "TPHS LENDER II LLC, 520 Madison Avenue, 30th Floor, New York, New York 10022"
+            },
+            {
+              "key": "Borrower",
+              "value": "TPHGREENWICH SUBORDINATE MEZZ LLC, c/o Trinity Place Holdings Inc., 340 Madison Avenue, 3rd Floor, Suite 3C, New York, New York 10173"
+            },
+            {
+              "key": "Additional Pledgor",
+              "value": "TPHGREENWICH MEZZ LLC, c/o Trinity Place Holdings Inc., 340 Madison Avenue, 3rd Floor, Suite 3C, New York, New York 10173"
+            },
+            {
+              "key": "Guarantor",
+              "value": "TRINITY PLACE HOLDINGS INC., 340 Madison Avenue, 3rd Floor, Suite 3C, New York, New York 10173"
+            },
+            {
+              "key": "Original Loan Agreement Date",
+              "value": "October 22, 2021"
+            },
+            {
+              "key": "Loan Amount",
+              "value": "$30,270,789.73"
+            },
+            {
+              "key": "Closing Date",
+              "value": "October 22, 2021"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Loan Agreement References and Amendment Details",
+          "data": [
+            {
+              "key": "Loan Agreement References",
+              "value": "All references to the 'Agreement' contained in the Original Loan Agreement or to the 'Loan Agreement' contained in any of the other Loan Documents, shall mean the Original Loan Agreement, as amended by this Amendment."
+            },
+            {
+              "key": "Loan Document References",
+              "value": "All references to any Loan Document contained in the Original Loan Agreement or any of the other Loan Documents shall mean such Loan Document, in each case, as amended and ratified by this Amendment."
+            },
+            {
+              "key": "Further Modification Clause",
+              "value": "Except as expressly set forth in this Amendment, all of the terms and provisions of the Loan Documents shall remain unmodified."
+            },
+            {
+              "key": "Consent Clause",
+              "value": "Administrative Agent and Lender hereby consent to the execution and delivery of that certain First Amendment to the Master Loan Agreement and Loan Documents."
+            },
+            {
+              "key": "Financial Representation",
+              "value": "As of November 1, 2022, the outstanding principal balance of the Loan was $35,184,194.43."
+            },
+            {
+              "key": "Authority Representation",
+              "value": "Each of Borrower and Additional Pledgor has the power and requisite authority to execute, deliver and perform its obligations under this Amendment."
+            },
+            {
+              "key": "Legal Validity",
+              "value": "This Amendment constitutes legal, valid and binding obligations of Borrower and Additional Pledgor enforceable in accordance with its terms."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 96,
+          "title": "FIRST AMENDMENT TO MASTER LOAN AGREEMENT AND LOAN DOCUMENTS",
+          "data": [
+            {
+              "key": "Amendment Execution Date",
+              "value": "November 30, 2022"
+            },
+            {
+              "key": "Amendment Effective Date",
+              "value": "September 28, 2022"
+            },
+            {
+              "key": "Lender",
+              "value": "MACQUARIE PF INC."
+            },
+            {
+              "key": "Borrower",
+              "value": "TPHGREENWICH OWNER LLC"
+            },
+            {
+              "key": "Guarantor",
+              "value": "TRINITY PLACE HOLDINGS INC."
+            },
+            {
+              "key": "Term Loan Amount",
+              "value": "$28,961,945.00"
+            },
+            {
+              "key": "Building Loan Amount",
+              "value": "$128,197,878.00"
+            },
+            {
+              "key": "Project Loan Amount",
+              "value": "$9,540,177.00"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 97,
+          "title": "Amendment to Original Loan Agreement",
+          "data": [
+            {
+              "key": "Mortgage Details",
+              "value": "Includes Term Loan Mortgage, Building Loan Mortgage, and Project Loan Mortgage."
+            },
+            {
+              "key": "Termination Payment",
+              "value": "Funding requested by Borrower for Termination Payment confirmed by MTA."
+            },
+            {
+              "key": "Letter of Credit",
+              "value": "Lender to draw upon for PIK Interest Reserve Account and payments."
+            },
+            {
+              "key": "Agreement Details",
+              "value": "Parties agree to amend Loan Documents under specified conditions."
+            },
+            {
+              "key": "Conditions Precedent",
+              "value": "Execution of Amendment and delivery of Loan Documents required."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 114,
+          "title": "List of Subsidiaries",
+          "data": [
+            {
+              "key": "Trinity Place Condominium",
+              "value": "DE"
+            },
+            {
+              "key": "470 4th Avenue Fee Owner LLC",
+              "value": "DE"
+            },
+            {
+              "key": "470 4th Avenue Owner LLC",
+              "value": "DE"
+            },
+            {
+              "key": "Filene’s Basement, LLC",
+              "value": "DE"
+            },
+            {
+              "key": "TPH 223 N 8th Investor LLC",
+              "value": "DE"
+            },
+            {
+              "key": "TPH 250 N 10 Investor LLC",
+              "value": "DE"
+            },
+            {
+              "key": "TPH 470 4th Avenue Investor LLC",
+              "value": "DE"
+            },
+            {
+              "key": "TPH Forest Hill LLC",
+              "value": "DE"
+            },
+            {
+              "key": "TPH IP LLC",
+              "value": "DE"
+            },
+            {
+              "key": "TPH Merrick LLC",
+              "value": "DE"
+            },
+            {
+              "key": "TPH Route 17 LLC",
+              "value": "DE"
+            },
+            {
+              "key": "TPH Greenwich Holdings LLC",
+              "value": "DE"
+            },
+            {
+              "key": "TPH Greenwich Owner LLC",
+              "value": "DE"
+            },
+            {
+              "key": "TPH Greenwich Mezz LLC",
+              "value": "DE"
+            },
+            {
+              "key": "TPH Greenwich Subordinate Mezz LLC",
+              "value": "DE"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 2,
+          "title": "TABLE OF CONTENTS Form 10-K Index",
+          "data": [
+            {
+              "key": "Item",
+              "value": "Item 1A."
+            },
+            {
+              "key": "Description",
+              "value": "BUSINESS RISK FACTORS"
+            },
+            {
+              "key": "Page",
+              "value": ""
+            },
+            {
+              "key": "Item",
+              "value": "Item 1B."
+            },
+            {
+              "key": "Description",
+              "value": "UNRESOLVED STAFF COMMENTS"
+            },
+            {
+              "key": "Page",
+              "value": "16"
+            },
+            {
+              "key": "Item",
+              "value": "Item 2."
+            },
+            {
+              "key": "Description",
+              "value": "PROPERTIES"
+            },
+            {
+              "key": "Page",
+              "value": "17"
+            },
+            {
+              "key": "Item",
+              "value": "Item 3."
+            },
+            {
+              "key": "Description",
+              "value": "LEGAL PROCEEDINGS"
+            },
+            {
+              "key": "Page",
+              "value": "19"
+            },
+            {
+              "key": "Item",
+              "value": "Item 4."
+            },
+            {
+              "key": "Description",
+              "value": "MINE SAFETY DISCLOSURES"
+            },
+            {
+              "key": "Page",
+              "value": "19"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 45,
+          "title": "Company Officers and Directors Signatures",
+          "data": [
+            {
+              "key": "Signature",
+              "value": "/s/ Matthew Messinger"
+            },
+            {
+              "key": "Position",
+              "value": "President, Chief Executive Officer and Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 31, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "Matthew Messinger"
+            },
+            {
+              "key": "Position",
+              "value": "(Principal Executive Officer)"
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Signature",
+              "value": "/s/ Steven Kahn"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Date",
+              "value": "March 31, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "Steven Kahn"
+            },
+            {
+              "key": "Position",
+              "value": "(Principal Financial Officer)"
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Signature",
+              "value": "/s/ Richard Pyontek"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Accounting Officer (Principal Accounting Officer)"
+            },
+            {
+              "key": "Date",
+              "value": "March 31, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "Richard Pyontek"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Accounting Officer (Principal Accounting Officer)"
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Signature",
+              "value": "/s/ Alexander Matina"
+            },
+            {
+              "key": "Position",
+              "value": "Director (Chairman of the Board)"
+            },
+            {
+              "key": "Date",
+              "value": "March 31, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "/s/ Jeffrey Citrin"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 31, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "/s/ Alan Cohen"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 31, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "/s/ Joanne Minieri"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 31, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "/s/ Keith Pattiz"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 31, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 79,
+          "title": "Leadership Confirmation",
+          "data": [
+            {
+              "key": "Company",
+              "value": "TRINITY PLACE HOLDINGS INC."
+            },
+            {
+              "key": "Position",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Name",
+              "value": "Steven Kahn"
+            },
+            {
+              "key": "Guarantors",
+              "value": "TPH 250 N 10 INVESTOR LLC, TPH 223 N 8TH INVESTOR LLC, TPHGREENWICH HOLDINGS LLC"
+            },
+            {
+              "key": "Guarantor Name",
+              "value": "Steven Kahn"
+            },
+            {
+              "key": "Guarantor Position",
+              "value": "Chief Financial Officer"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 80,
+          "title": "Leadership Confirmation under Credit Agreement Amendment",
+          "data": [
+            {
+              "key": "Guarantor Name",
+              "value": "TPH IP LLC"
+            },
+            {
+              "key": "Guarantor Title",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Guarantor Signature",
+              "value": "/s/ Steven Kahn"
+            },
+            {
+              "key": "Guarantor Name 2",
+              "value": "FILENE’S BASEMENT, LLC"
+            },
+            {
+              "key": "Guarantor Title 2",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Guarantor Signature 2",
+              "value": "/s/ Steven Kahn"
+            },
+            {
+              "key": "Guarantor Name 3",
+              "value": "TPH MERRICK LLC"
+            },
+            {
+              "key": "Guarantor Title 3",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Guarantor Signature 3",
+              "value": "/s/ Steven Kahn"
+            },
+            {
+              "key": "Guarantor Name 4",
+              "value": "TPH 470 4TH AVENUE INVESTOR LLC"
+            },
+            {
+              "key": "Guarantor Title 4",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Guarantor Signature 4",
+              "value": "/s/ Steven Kahn"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 81,
+          "title": "Leadership Change Details",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "TPHS LENDER LLC"
+            },
+            {
+              "key": "Role",
+              "value": "Administrative Agent"
+            },
+            {
+              "key": "Manager Name",
+              "value": "Joshua D. Morris"
+            },
+            {
+              "key": "Title",
+              "value": "Manager"
+            },
+            {
+              "key": "Document Title",
+              "value": "Amendment No. 5 to Credit Agreement"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 93,
+          "title": "Leadership Change in TPHGREENWICH Companies",
+          "data": [
+            {
+              "key": "Borrower",
+              "value": "TPHGREENWICH SUBORDINATE MEZZ LLC"
+            },
+            {
+              "key": "Pledgor",
+              "value": "TPHGREENWICH MEZZ LLC"
+            },
+            {
+              "key": "Signed By",
+              "value": "Steven Kahn"
+            },
+            {
+              "key": "Title",
+              "value": "Chief Financial Officer"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 94,
+          "title": "Leadership details for TPHS LENDER II LLC",
+          "data": [
+            {
+              "key": "Administrative Agent",
+              "value": "TPHS LENDER II LLC, a Delaware limited liability company"
+            },
+            {
+              "key": "Manager Name",
+              "value": "Joshua D. Morris"
+            },
+            {
+              "key": "Manager Title",
+              "value": "Manager"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 95,
+          "title": "Acknowledgment of Amendment by Trinity Place Holdings Inc.",
+          "data": [
+            {
+              "key": "guarantor",
+              "value": "Trinity Place Holdings Inc."
+            },
+            {
+              "key": "state",
+              "value": "Delaware"
+            },
+            {
+              "key": "signatory_name",
+              "value": "Steven Kahn"
+            },
+            {
+              "key": "signatory_title",
+              "value": "Chief Financial Officer"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 111,
+          "title": "Leadership Change at TPHGREENWICH OWNER LLC",
+          "data": [
+            {
+              "key": "Borrower",
+              "value": "TPHGREENWICH OWNER LLC"
+            },
+            {
+              "key": "State",
+              "value": "Delaware"
+            },
+            {
+              "key": "Signatory Name",
+              "value": "Steven Kahn"
+            },
+            {
+              "key": "Title",
+              "value": "Chief Financial Officer"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 112,
+          "title": "Leadership Signatories",
+          "data": [
+            {
+              "key": "Lender and Administrative Agent",
+              "value": "Macquarie PF Inc."
+            },
+            {
+              "key": "Location",
+              "value": "Delaware"
+            },
+            {
+              "key": "Signatory 1 Name",
+              "value": "Jackie Hamilton"
+            },
+            {
+              "key": "Signatory 1 Title",
+              "value": "Authorized Signatory"
+            },
+            {
+              "key": "Signatory 2 Name",
+              "value": "Gautham Srinivas"
+            },
+            {
+              "key": "Signatory 2 Title",
+              "value": "Authorized Signatory"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 113,
+          "title": "Acknowledgment of Amendment",
+          "data": [
+            {
+              "key": "Guarantor",
+              "value": "Trinity Place Holdings Inc."
+            },
+            {
+              "key": "State of Incorporation",
+              "value": "Delaware"
+            },
+            {
+              "key": "Name of Acknowledging Officer",
+              "value": "Steven Kahn"
+            },
+            {
+              "key": "Title of Acknowledging Officer",
+              "value": "Chief Financial Officer"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 118,
+          "title": "Certification Pursuant to 18 U.S.C. Section 1350",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Trinity Place Holdings Inc."
+            },
+            {
+              "key": "Form",
+              "value": "10-K"
+            },
+            {
+              "key": "Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Signer",
+              "value": "Matthew Messinger"
+            },
+            {
+              "key": "Position",
+              "value": "President and Chief Executive Officer"
+            },
+            {
+              "key": "Certification Date",
+              "value": "March 31, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 119,
+          "title": "Certification Pursuant to 18 U.S.C. Section 1350",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Trinity Place Holdings Inc."
+            },
+            {
+              "key": "Report Type",
+              "value": "Annual Report"
+            },
+            {
+              "key": "Form",
+              "value": "10-K"
+            },
+            {
+              "key": "Fiscal Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "CFO Name",
+              "value": "Steven Kahn"
+            },
+            {
+              "key": "Certification Date",
+              "value": "March 31, 2023"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 25,
+          "title": "Executive Compensation and Related Costs",
+          "data": [
+            {
+              "key": "Stock-based Compensation 2022",
+              "value": "$463,000"
+            },
+            {
+              "key": "Payroll and Related Expenses 2022",
+              "value": "$2.6 million"
+            },
+            {
+              "key": "Other Corporate Expenses 2022",
+              "value": "$1.5 million"
+            },
+            {
+              "key": "Legal and Professional Fees 2022",
+              "value": "$1.2 million"
+            },
+            {
+              "key": "Stock-based Compensation 2021",
+              "value": "$477,000"
+            },
+            {
+              "key": "Payroll and Related Expenses 2021",
+              "value": "$2.7 million"
+            },
+            {
+              "key": "Other Corporate Expenses 2021",
+              "value": "$1.1 million"
+            },
+            {
+              "key": "Legal and Professional Fees 2021",
+              "value": "$854,000"
+            },
+            {
+              "key": "Pension Related Costs 2022",
+              "value": "$548,000"
+            },
+            {
+              "key": "Pension Related Costs 2021",
+              "value": "$67,000"
+            },
+            {
+              "key": "Transaction Related Costs 2022",
+              "value": "$163,000"
+            },
+            {
+              "key": "Depreciation and Amortization 2022",
+              "value": "$4.0 million"
+            },
+            {
+              "key": "Equity in Net Income from Joint Ventures 2022",
+              "value": "$804,000"
+            },
+            {
+              "key": "Equity in Net Income from Joint Ventures 2021",
+              "value": "-$555,000"
+            },
+            {
+              "key": "Gain on Sale of Joint Venture Property 2022",
+              "value": "$4.5 million"
+            },
+            {
+              "key": "Unrealized Compensation Gain 2022",
+              "value": "$1.1 million"
+            },
+            {
+              "key": "Interest Expense 2022",
+              "value": "$15.7 million"
+            },
+            {
+              "key": "Interest Expense 2021",
+              "value": "$7.9 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 40,
+          "title": "Executive Compensation",
+          "data": [
+            {
+              "key": "reference",
+              "value": "2023 Proxy Statement"
+            },
+            {
+              "key": "filing_date",
+              "value": "on or before April 28, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 41,
+          "title": "Financial Statements Index",
+          "data": [
+            {
+              "key": "PCAOB ID",
+              "value": "#243"
+            },
+            {
+              "key": "Consolidated Balance Sheets",
+              "value": "as of December 31, 2022 and December 31, 2021"
+            },
+            {
+              "key": "Consolidated Statements of Operations",
+              "value": "and Comprehensive (Loss) Income for the years ended December 31, 2022, December 31, 2021 and December 31, 2020"
+            },
+            {
+              "key": "Consolidated Statements of Stockholders' Equity",
+              "value": "for the years ended December 31, 2022, December 31, 2021 and December 31, 2020 Consolidated Statements of Cash Flows for the years ended December 31, 2022, December 31, 2021 and December 31, 2020"
+            },
+            {
+              "key": "Notes to Consolidated Financial Statements",
+              "value": ""
+            },
+            {
+              "key": "Schedule II",
+              "value": "— Consolidated Real Estate and Accumulated Depreciation"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 68,
+          "title": "Loan and Credit Line Payment Schedule",
+          "data": [
+            {
+              "key": "2023",
+              "value": "226429"
+            },
+            {
+              "key": "2024",
+              "value": "35750"
+            },
+            {
+              "key": "2025",
+              "value": ""
+            },
+            {
+              "key": "2026",
+              "value": ""
+            },
+            {
+              "key": "2027",
+              "value": ""
+            },
+            {
+              "key": "Gross Total",
+              "value": "262179"
+            },
+            {
+              "key": "Less: deferred finance costs, net",
+              "value": "-3375"
+            },
+            {
+              "key": "Total net",
+              "value": "258804"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 68,
+          "title": "Interest Expense Summary",
+          "data": [
+            {
+              "key": "Interest expense 2022",
+              "value": "20616"
+            },
+            {
+              "key": "Interest expense 2021",
+              "value": "21238"
+            },
+            {
+              "key": "Interest expense 2020",
+              "value": "17174"
+            },
+            {
+              "key": "Interest capitalized 2022",
+              "value": "-4915"
+            },
+            {
+              "key": "Interest capitalized 2021",
+              "value": "-13314"
+            },
+            {
+              "key": "Interest capitalized 2020",
+              "value": "-15577"
+            },
+            {
+              "key": "Interest income 2022",
+              "value": "0"
+            },
+            {
+              "key": "Interest income 2021",
+              "value": "-2"
+            },
+            {
+              "key": "Interest income 2020",
+              "value": "-57"
+            },
+            {
+              "key": "Net interest expense 2022",
+              "value": "15701"
+            },
+            {
+              "key": "Net interest expense 2021",
+              "value": "7922"
+            },
+            {
+              "key": "Net interest expense 2020",
+              "value": "1540"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 70,
+          "title": "Stock-Based Compensation and RSUs Summary",
+          "data": [
+            {
+              "key": "Total Stock-Based Compensation Expense (2022)",
+              "value": "$507,000"
+            },
+            {
+              "key": "Total Stock-Based Compensation Expense (2021)",
+              "value": "$604,000"
+            },
+            {
+              "key": "Total Stock-Based Compensation Expense (2020)",
+              "value": "$1.0 million"
+            },
+            {
+              "key": "Total RSUs Granted During 2022",
+              "value": "333,500"
+            },
+            {
+              "key": "Fair Value of RSUs Granted to Employees",
+              "value": "$1.84"
+            },
+            {
+              "key": "Fair Value of RSUs Granted to Non-Employee Directors",
+              "value": "$1.25"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 71,
+          "title": "RSU Activity and Fair Value Summary",
+          "data": [
+            {
+              "key": "Non-vested at beginning of period",
+              "value": "2022: 551083, 2021: 469000"
+            },
+            {
+              "key": "Granted RSUs",
+              "value": "2022: 333500, 2021: 310000"
+            },
+            {
+              "key": "Vested",
+              "value": "2022: -296084, 2021: -227917"
+            },
+            {
+              "key": "Forfeited by former employees",
+              "value": "2022: -60500, 2021: 0"
+            },
+            {
+              "key": "Non-vested at end of period",
+              "value": "2022: 527999, 2021: 551083"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 103,
+          "title": "Loan Agreement Amendments",
+          "data": [
+            {
+              "key": "Reserve Funds Requirement",
+              "value": "Amounts funded or to be funded by the SCA but not yet applied may not count in the calculation if defaults occur."
+            },
+            {
+              "key": "School Unit Purchase Agreement Compliance",
+              "value": "SCA's obligations under the School Unit Purchase Agreement can affect the loan balance."
+            },
+            {
+              "key": "Milestone Construction Hurdle",
+              "value": "Borrower must meet specific construction milestones by set deadlines."
+            },
+            {
+              "key": "Original Loan Agreement Section Deletions",
+              "value": "Sections referencing Letter of Credit and others have been deleted."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 27,
+          "title": "Contractual Obligations Summary",
+          "data": [
+            {
+              "key": "Obligation Type",
+              "value": "Operating lease (1)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 28,
+          "title": "Capital Expenditures",
+          "data": [
+            {
+              "key": "Funds Required",
+              "value": "We will not require any funds for capital expenditures and development or redevelopment expenditures on existing properties, other than for 77 Greenwich which will be funded under the 77 Mortgage Loan."
+            },
+            {
+              "key": "77 Greenwich Financing",
+              "value": "Proceeds available under the 77 Mortgage Loan will be sufficient to close out the construction project at 77 Greenwich."
+            },
+            {
+              "key": "Cash Position",
+              "value": "The Company’s cash and cash equivalents will not be sufficient to fund operations, debt service, and corporate expenses over the next 12 months."
+            },
+            {
+              "key": "Funding Strategies",
+              "value": "Management is exploring additional funding through asset sales, refinancing, and other sources."
+            },
+            {
+              "key": "Strategic Alternatives",
+              "value": "Evaluating potential alternatives includes securing equity/debt financing, refinancing existing debt, or a sale or merger."
+            },
+            {
+              "key": "Corporate Credit Facility Amount",
+              "value": "The CCF provides credit in multiple draws aggregating $70.0 million, with a potential increase of $25.0 million."
+            },
+            {
+              "key": "CCF Maturity Date",
+              "value": "The CCF matures on December 19, 2024, with possible extensions until June 19, 2026."
+            },
+            {
+              "key": "Interest Rate",
+              "value": "CCF bears interest at 5.25% plus a Cash Pay Interest Rate, initially 4%."
+            },
+            {
+              "key": "Outstanding Balance",
+              "value": "As of December 31, 2022, the CCF had an outstanding balance of $35.75 million."
+            },
+            {
+              "key": "Effective Interest Rate",
+              "value": "The effective interest rate of the CCF is 9.875%."
+            },
+            {
+              "key": "Accrued Interest",
+              "value": "Accrued interest totaled approximately $6.1 million at December 31, 2022."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 32,
+          "title": "Berkley Partner Loan and Secured Line of Credit Details",
+          "data": [
+            {
+              "key": "Loan Amount",
+              "value": "$10.5 million"
+            },
+            {
+              "key": "Interest Rate",
+              "value": "10% per year"
+            },
+            {
+              "key": "Loan Balance at Repayment",
+              "value": "$10.1 million"
+            },
+            {
+              "key": "Secured Line of Credit",
+              "value": "$11.75 million"
+            },
+            {
+              "key": "Effective Interest Rate on Line of Credit",
+              "value": "7.5%"
+            },
+            {
+              "key": "Outstanding Balance of Line of Credit as of December 31, 2022",
+              "value": "$9.75 million"
+            },
+            {
+              "key": "Equity in 250 North 10th",
+              "value": "$5.9 million"
+            },
+            {
+              "key": "Proceeds from Sale of Interest in 250 North 10th",
+              "value": "$1.2 million"
+            },
+            {
+              "key": "Amounts from Private Placement and Rights Offering",
+              "value": "$4.8 million from private placement; $1.7 million from rights offering"
+            },
+            {
+              "key": "ATM Program Sales in 2021",
+              "value": "701,327 shares for approximately $1.4 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 54,
+          "title": "Capitalization of Development Costs",
+          "data": [
+            {
+              "key": "Description",
+              "value": "We capitalize certain costs related to the development and redevelopment of real estate including initial project acquisition costs, pre-construction costs and construction costs."
+            },
+            {
+              "key": "Project",
+              "value": "77 Greenwich"
+            },
+            {
+              "key": "Cost Evaluation",
+              "value": "Residential condominium units are stated at the lower of cost or net realizable value."
+            },
+            {
+              "key": "Impairment Assessment",
+              "value": "Management considers relevant cash flows relating to budgeted project costs and estimated costs to complete."
+            },
+            {
+              "key": "Impairment Provision",
+              "value": "No provision for impairment was recorded for unsold residential condominium units at December 31, 2022 or 2021."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 61,
+          "title": "Interest Rate Caps",
+          "data": [
+            {
+              "key": "fair_value_2022",
+              "value": "2005"
+            },
+            {
+              "key": "fair_value_2021",
+              "value": "89"
+            },
+            {
+              "key": "change_in_value_2022",
+              "value": "1916"
+            },
+            {
+              "key": "change_in_value_2021",
+              "value": "-14"
+            },
+            {
+              "key": "description",
+              "value": "Included in prepaid expenses and other assets, net"
+            },
+            {
+              "key": "notional_amount",
+              "value": "60000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 65,
+          "title": "77 Greenwich Construction Facility",
+          "data": [
+            {
+              "key": "Construction Facility Amount",
+              "value": "$189.5 million"
+            },
+            {
+              "key": "Loan Amount",
+              "value": "$166.7 million"
+            },
+            {
+              "key": "Amount at Repayment",
+              "value": "$159.4 million"
+            },
+            {
+              "key": "Borrowed on Closing Date",
+              "value": "$133.1 million"
+            },
+            {
+              "key": "Interest Rate Backend",
+              "value": "7.00% in excess of LIBOR, 7.25%"
+            },
+            {
+              "key": "Interest Rate Threshold",
+              "value": "9.00% in excess of LIBOR, 9.25%"
+            },
+            {
+              "key": "Prepayment Penalty Minimum Return",
+              "value": "$15.26 million"
+            },
+            {
+              "key": "Final Completion Date Amended to",
+              "value": "September 29, 2023"
+            },
+            {
+              "key": "Total Draw under Letter of Credit",
+              "value": "$3.0 million"
+            },
+            {
+              "key": "Payment towards PIK Balance",
+              "value": "$1.0 million"
+            },
+            {
+              "key": "Sale Covenant Compliance Date",
+              "value": "April 2023"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 66,
+          "title": "Table of Contents and Loan Details",
+          "data": [
+            {
+              "key": "77 Mortgage Loan Balance",
+              "value": "$120.5 million"
+            },
+            {
+              "key": "PIK Interest on 77 Mortgage Loan",
+              "value": "$4.7 million"
+            },
+            {
+              "key": "Mortgage Loan Paid Down in 2022",
+              "value": "$47.8 million"
+            },
+            {
+              "key": "Mezzanine Loan Amount",
+              "value": "$7.5 million"
+            },
+            {
+              "key": "Final Completion Date of Mezzanine Loan",
+              "value": "September 29, 2023"
+            },
+            {
+              "key": "Balance of Mezzanine Loan as of December 31, 2022",
+              "value": "$30.3 million"
+            },
+            {
+              "key": "Accrued Interest on Mezzanine Loan",
+              "value": "$5.8 million"
+            },
+            {
+              "key": "Total 237 11th Loans Principal",
+              "value": "$67.8 million"
+            },
+            {
+              "key": "237 11th Senior Loan Amount",
+              "value": "$50.0 million"
+            },
+            {
+              "key": "237 11th Loans Interest Rate",
+              "value": "3.05% per annum"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 10,
+          "title": "Financial Risks and Liabilities Regarding Leasing Properties",
+          "data": [
+            {
+              "key": "Impact on Financial Performance",
+              "value": "The company could see adverse impacts on operations, liquidity, and financial condition due to events affecting leased premises."
+            },
+            {
+              "key": "Competitive Pressure on Rental Rates",
+              "value": "Competitors offering lower rental rates may lead to tenant losses and pressure to reduce rates."
+            },
+            {
+              "key": "Risk of Tenant Defaults",
+              "value": "Inability to renew leases or lease vacant spaces can adversely affect financial condition."
+            },
+            {
+              "key": "Potential Losses from Tenant Bankruptcies",
+              "value": "Bankruptcies of major tenants could significantly impact cash flows and property values."
+            },
+            {
+              "key": "Purchasing Risks of Properties",
+              "value": "Acquired properties may pose unknown liabilities and repair costs that impact financial performance."
+            },
+            {
+              "key": "Environmental Liabilities",
+              "value": "Unknown environmental contamination may incur unexpected cleanup and repair costs."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 24,
+          "title": "Results of Operations",
+          "data": [
+            {
+              "key": "Total rental revenues",
+              "value": "$5.5 million for year ended December 31, 2022"
+            },
+            {
+              "key": "Total rental revenues previous year",
+              "value": "$3.2 million for year ended December 31, 2021"
+            },
+            {
+              "key": "Base rent revenues for 2022",
+              "value": "$5.3 million"
+            },
+            {
+              "key": "Base rent revenues for 2021",
+              "value": "$3.0 million"
+            },
+            {
+              "key": "Tenant reimbursement revenue for 2022",
+              "value": "$224,000"
+            },
+            {
+              "key": "Tenant reimbursement revenue for 2021",
+              "value": "$188,000"
+            },
+            {
+              "key": "Sales of residential condominium units for 2022",
+              "value": "$37.3 million"
+            },
+            {
+              "key": "Sales of residential condominium units for 2021",
+              "value": "$23.7 million"
+            },
+            {
+              "key": "Property operating expenses for 2022",
+              "value": "$4.2 million"
+            },
+            {
+              "key": "Property operating expenses for 2021",
+              "value": "$5.6 million"
+            },
+            {
+              "key": "Real estate tax expense for 2022",
+              "value": "$1.7 million"
+            },
+            {
+              "key": "Real estate tax expense for 2021",
+              "value": "$724,000"
+            },
+            {
+              "key": "General and administrative expenses for 2022",
+              "value": "$5.7 million"
+            },
+            {
+              "key": "General and administrative expenses for 2021",
+              "value": "$5.1 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 26,
+          "title": "Financial Performance Overview",
+          "data": [
+            {
+              "key": "Gross Interest Expense (2022)",
+              "value": "$20.6 million"
+            },
+            {
+              "key": "Capitalized Interest Expense (2022)",
+              "value": "$4.9 million"
+            },
+            {
+              "key": "Gross Interest Expense (2021)",
+              "value": "$21.2 million"
+            },
+            {
+              "key": "Capitalized Interest Expense (2021)",
+              "value": "$13.3 million"
+            },
+            {
+              "key": "Interest Income",
+              "value": "$2,000"
+            },
+            {
+              "key": "Decrease in Gross Interest Expense",
+              "value": "Due to lower average borrowings"
+            },
+            {
+              "key": "Amortization of Deferred Finance Costs (2022)",
+              "value": "$2.4 million"
+            },
+            {
+              "key": "Amortization of Deferred Finance Costs (2021)",
+              "value": "$1.5 million"
+            },
+            {
+              "key": "Increase in Tax Expense (2022)",
+              "value": "$288,000"
+            },
+            {
+              "key": "Increase in Tax Expense (2021)",
+              "value": "$265,000"
+            },
+            {
+              "key": "Net Loss (2022)",
+              "value": "$20.7 million"
+            },
+            {
+              "key": "Net Loss (2021)",
+              "value": "$20.8 million"
+            },
+            {
+              "key": "Impact Factors",
+              "value": "Economic downturn, increased interest rates, high inflation"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Cash Flows and Net Operating Losses Analysis",
+          "data": [
+            {
+              "key": "Cash Flows Operating Activities Increase",
+              "value": "$22.6 million to $1.4 million"
+            },
+            {
+              "key": "Investing Activities Increased Cash",
+              "value": "$17.5 million to $17.3 million"
+            },
+            {
+              "key": "Financing Activities Increased Cash Used",
+              "value": "$51.6 million to $21.5 million"
+            },
+            {
+              "key": "NOLs as of Emergence Date",
+              "value": "$162.8 million"
+            },
+            {
+              "key": "NOLs as of December 31, 2022",
+              "value": "$275.8 million"
+            },
+            {
+              "key": "Utilized NOLs since 2009 through 2022",
+              "value": "$20.1 million"
+            },
+            {
+              "key": "Valuation Allowance",
+              "value": "$78.3 million"
+            },
+            {
+              "key": "Ownership Change Under Section 382",
+              "value": "Qualify for treatment under Section 382(l)(5) of the Code."
+            },
+            {
+              "key": "Deductibility Limit of NOLs",
+              "value": "Limited to 80% of taxable income post TCJA."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Income Taxes and Revenue Recognition",
+          "data": [
+            {
+              "key": "Income Taxes Method",
+              "value": "Asset and liability method as required by ASC 740"
+            },
+            {
+              "key": "Deferred Tax Assets",
+              "value": "Valuation allowance provided for deferred tax assets considered unlikely to be realized"
+            },
+            {
+              "key": "Tax Benefits Recognition",
+              "value": "Tax benefits recognized only if it is more likely than not that the tax position will be sustained"
+            },
+            {
+              "key": "Lease Revenue Recognition",
+              "value": "Leases accounted for as operating leases, recognized on a straight-line basis over the term"
+            },
+            {
+              "key": "Rents Recognized",
+              "value": "Excess of recognized rents over contract amounts included in deferred rents receivable"
+            },
+            {
+              "key": "Revenue from Condominium Sales",
+              "value": "Recognized at closing when title and possession are transferred"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Independent Auditors' Report",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Trinity Place Holdings Inc."
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "The consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2022 and 2021."
+            },
+            {
+              "key": "Going Concern Uncertainty",
+              "value": "The financial statements have been prepared assuming the Company will continue as a going concern, raising substantial doubt about the ability to continue."
+            },
+            {
+              "key": "Audit Standards",
+              "value": "Performed in accordance with PCAOB standards."
+            },
+            {
+              "key": "Critical Audit Matter",
+              "value": "A matter arising from the current period audit that involves especially challenging, subjective, or complex judgments."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Balance Sheet Assets and Liabilities Comparison",
+          "data": [
+            {
+              "key": "Total assets 2022",
+              "value": "$306927"
+            },
+            {
+              "key": "Total assets 2021",
+              "value": "$341170"
+            },
+            {
+              "key": "Total liabilities 2022",
+              "value": "$279586"
+            },
+            {
+              "key": "Total liabilities 2021",
+              "value": "$291163"
+            },
+            {
+              "key": "Largest asset category",
+              "value": "Residential condominium units for sale ($202,999 in 2022)"
+            },
+            {
+              "key": "Largest liability",
+              "value": "Loans payable, net ($208,762 in 2022)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Stockholders' Equity and Capital Structure Summary",
+          "data": [
+            {
+              "key": "Total stockholders' equity 2022",
+              "value": "$27341"
+            },
+            {
+              "key": "Total stockholders' equity 2021",
+              "value": "$50007"
+            },
+            {
+              "key": "Total liabilities and stockholders' equity 2022",
+              "value": "$306927"
+            },
+            {
+              "key": "Total liabilities and stockholders' equity 2021",
+              "value": "$341170"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Revenue and Operating Results",
+          "data": [
+            {
+              "key": "Rental revenues",
+              "value": "2022: 5502, 2021: 3225, 2020: 1563"
+            },
+            {
+              "key": "Other income",
+              "value": "2022: 182, 2021: 355, 2020: 263"
+            },
+            {
+              "key": "Sales of residential condominium units",
+              "value": "2022: 37300, 2021: 23685, 2020: 0"
+            },
+            {
+              "key": "Total revenues",
+              "value": "2022: 42984, 2021: 27265, 2020: 1826"
+            },
+            {
+              "key": "Total operating expenses",
+              "value": "2022: 51596, 2021: 37880, 2020: 18976"
+            },
+            {
+              "key": "Operating (loss) income",
+              "value": "2022: -8612, 2021: -10615, 2020: 7046"
+            },
+            {
+              "key": "Net (loss) income attributable to common stockholders",
+              "value": "2022: -20690, 2021: -20805, 2020: 4333"
+            },
+            {
+              "key": "(Loss) income per share - basic",
+              "value": "2022: -0.56, 2021: -0.62, 2020: 0.13"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 50,
+          "title": "Stockholders' Equity Statement",
+          "data": [
+            {
+              "key": "Date",
+              "value": "December 31, 2019"
+            },
+            {
+              "key": "Common Stock Shares",
+              "value": "37,612"
+            },
+            {
+              "key": "Common Stock Amount",
+              "value": "376"
+            },
+            {
+              "key": "Additional Paid-in Capital",
+              "value": "134,217"
+            },
+            {
+              "key": "Treasury Stock Shares",
+              "value": "-5,731"
+            },
+            {
+              "key": "Treasury Stock Amount",
+              "value": "-55,731"
+            },
+            {
+              "key": "Accumulated Deficit",
+              "value": "-19,724"
+            },
+            {
+              "key": "Other Comprehensive Loss",
+              "value": "-3,174"
+            },
+            {
+              "key": "Total Equity",
+              "value": "55,964"
+            },
+            {
+              "key": "Date",
+              "value": "December 31, 2020"
+            },
+            {
+              "key": "Common Stock Shares",
+              "value": "38,345"
+            },
+            {
+              "key": "Common Stock Amount",
+              "value": "383"
+            },
+            {
+              "key": "Additional Paid-in Capital",
+              "value": "135,978"
+            },
+            {
+              "key": "Treasury Stock Shares",
+              "value": "-6,173"
+            },
+            {
+              "key": "Treasury Stock Amount",
+              "value": "-56,791"
+            },
+            {
+              "key": "Accumulated Deficit",
+              "value": "-15,391"
+            },
+            {
+              "key": "Other Comprehensive Loss",
+              "value": "-2,159"
+            },
+            {
+              "key": "Total Equity",
+              "value": "62,020"
+            },
+            {
+              "key": "Date",
+              "value": "December 31, 2021"
+            },
+            {
+              "key": "Common Stock Shares",
+              "value": "43,024"
+            },
+            {
+              "key": "Common Stock Amount",
+              "value": "430"
+            },
+            {
+              "key": "Additional Paid-in Capital",
+              "value": "144,282"
+            },
+            {
+              "key": "Treasury Stock Shares",
+              "value": "-6,398"
+            },
+            {
+              "key": "Treasury Stock Amount",
+              "value": "-57,166"
+            },
+            {
+              "key": "Accumulated Deficit",
+              "value": "-36,196"
+            },
+            {
+              "key": "Other Comprehensive Loss",
+              "value": "-1,343"
+            },
+            {
+              "key": "Total Equity",
+              "value": "50,007"
+            },
+            {
+              "key": "Date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Common Stock Shares",
+              "value": "43,448"
+            },
+            {
+              "key": "Common Stock Amount",
+              "value": "435"
+            },
+            {
+              "key": "Additional Paid-in Capital",
+              "value": "144,879"
+            },
+            {
+              "key": "Treasury Stock Shares",
+              "value": "-6,541"
+            },
+            {
+              "key": "Treasury Stock Amount",
+              "value": "-57,461"
+            },
+            {
+              "key": "Accumulated Deficit",
+              "value": "-56,886"
+            },
+            {
+              "key": "Other Comprehensive Loss",
+              "value": "-3,626"
+            },
+            {
+              "key": "Total Equity",
+              "value": "27,341"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Operating Activities",
+              "value": "The company reported net losses for 2021 and 2022, at -$20,805 and -$20,690 respectively, while experiencing a net income of $4,333 in 2020. The net cash from operations improved in 2022 to $1,351 compared to -$65,881 in 2020."
+            },
+            {
+              "key": "Investing Activities",
+              "value": "Investing activities showed significant net cash from investing of $17,325 in 2022, an improvement from -$40 in 2021 after a considerable -$662 in 2020."
+            },
+            {
+              "key": "Financing Activities",
+              "value": "Financing activities reflected substantial loan proceeds of $30,239 in 2022 and repayments of -$48,415, a notable decrease from $24,9984 in loan proceeds in 2021."
+            },
+            {
+              "key": "Cash Position",
+              "value": "Total cash and equivalents slightly reduced to $22,055 in 2022 from $24,845 in 2021, indicating stability in cash management despite operational challenges."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Revenue Recognition",
+          "data": [
+            {
+              "key": "Lease accounting",
+              "value": "Leases with tenants are accounted for as operating leases. Minimum rents are recognized on a straight-line basis over the term of the respective lease."
+            },
+            {
+              "key": "Deferred rents receivable",
+              "value": "The excess of rents recognized over amounts contractually due pursuant to the underlying leases are included in deferred rents receivable."
+            },
+            {
+              "key": "Revenue reporting",
+              "value": "Lease revenues and reimbursement of real estate taxes, insurance and other property operating expenses are presented in the consolidated statements as 'rental revenues.'"
+            },
+            {
+              "key": "Tenant revenue collectability",
+              "value": "We assess the collectability of our accounts receivable related to tenant revenues."
+            },
+            {
+              "key": "Residential condominium sales",
+              "value": "Revenues from the sale of residential condominiums reflects the gross sales price from sales of condominium units recognized at closing."
+            },
+            {
+              "key": "Income taxes accounting methodology",
+              "value": "We account for income taxes under the asset and liability method as required by ASC 740."
+            },
+            {
+              "key": "Earnings per share",
+              "value": "Basic earnings per share is computed by dividing net income by the weighted average number of shares."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "Deferred Finance Costs, Lease Costs, and Accounting Standards Updates",
+          "data": [
+            {
+              "key": "Deferred Finance Costs",
+              "value": "Capitalized and deferred finance costs represent commitment fees, legal, title and other third party costs associated with obtaining commitments for mortgage financings."
+            },
+            {
+              "key": "Unamortized Balance",
+              "value": "$2.1 million and $5.1 million at December 31, 2022 and 2021, respectively."
+            },
+            {
+              "key": "Corporate Credit Facility Costs",
+              "value": "Unamortized balance of $1.3 million and $2.9 million at December 31, 2022 and 2021, respectively."
+            },
+            {
+              "key": "Deferred Lease Costs",
+              "value": "Amortized to depreciation and amortization over the related non-cancelable lease term."
+            },
+            {
+              "key": "Accounting Standards Updates",
+              "value": "Recently adopted ASU 2021-05, and ASU 2016-13, with their respective impacts on financial reporting."
+            },
+            {
+              "key": "Residential Condominium Units",
+              "value": "Includes 77 Greenwich, with 14 closings through December 31, 2021."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Finances Overview at 77 Greenwich and the New York City School Construction Authority",
+          "data": [
+            {
+              "key": "Total Construction Agreement",
+              "value": "$41.5 million"
+            },
+            {
+              "key": "Construction Supervision Fee",
+              "value": "$5.0 million"
+            },
+            {
+              "key": "Total Received from SCA by Dec 31, 2022",
+              "value": "$46.3 million"
+            },
+            {
+              "key": "Remaining Payment to be Received",
+              "value": "$243,000"
+            },
+            {
+              "key": "Total Reimbursable Construction Costs Received",
+              "value": "$54.7 million"
+            },
+            {
+              "key": "School Opening Date",
+              "value": "September 2022"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Prepaid Expenses and Other Assets",
+          "data": [
+            {
+              "key": "Prepaid expenses 2022",
+              "value": "$2,494"
+            },
+            {
+              "key": "Prepaid expenses 2021",
+              "value": "$673"
+            },
+            {
+              "key": "Deferred finance costs warrants 2022",
+              "value": "$2,184"
+            },
+            {
+              "key": "Deferred finance costs warrants 2021",
+              "value": "$2,184"
+            },
+            {
+              "key": "Other 2022",
+              "value": "$1,066"
+            },
+            {
+              "key": "Other 2021",
+              "value": "$2,736"
+            },
+            {
+              "key": "Subtotal 2022",
+              "value": "$5,744"
+            },
+            {
+              "key": "Subtotal 2021",
+              "value": "$5,593"
+            },
+            {
+              "key": "Accumulated amortization 2022",
+              "value": "$1,970"
+            },
+            {
+              "key": "Accumulated amortization 2021",
+              "value": "$1,467"
+            },
+            {
+              "key": "Net Total 2022",
+              "value": "$3,774"
+            },
+            {
+              "key": "Net Total 2021",
+              "value": "$4,126"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Income Taxes Overview (2020-2022)",
+          "data": [
+            {
+              "key": "State Tax Expense 2022",
+              "value": "$288"
+            },
+            {
+              "key": "State Tax Expense 2021",
+              "value": "$265"
+            },
+            {
+              "key": "State Tax Expense 2020",
+              "value": "$306"
+            },
+            {
+              "key": "Total Tax Expense 2022",
+              "value": "$288"
+            },
+            {
+              "key": "Total Tax Expense 2021",
+              "value": "$265"
+            },
+            {
+              "key": "Total Tax Expense 2020",
+              "value": "$306"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 59,
+          "title": "Tax Rate Reconciliation",
+          "data": [
+            {
+              "key": "Statutory federal income tax rate State",
+              "value": "21.0% 13.6% (2022), 21.0% 16.7% (2021), 21.0% 6.3% (2020)"
+            },
+            {
+              "key": "Permanent non-deductible expenses",
+              "value": "-0.1% (2022), -0.3% (2021), 5.0% (2020)"
+            },
+            {
+              "key": "Change of valuation allowance",
+              "value": "-36.0% (2022), -38.5% (2021), -27.8% (2020)"
+            },
+            {
+              "key": "Effective income tax rate",
+              "value": "-1.5% (2022), -1.1% (2021), 4.5% (2020)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 59,
+          "title": "Deferred Tax Assets and Liabilities",
+          "data": [
+            {
+              "key": "Charitable contributions",
+              "value": "Current: 6, Previous: 1"
+            },
+            {
+              "key": "Net operating loss carry forwards",
+              "value": "Current: 74313, Previous: 66851"
+            },
+            {
+              "key": "Depreciation (including air rights)",
+              "value": "Current: 5717, Previous: 5737"
+            },
+            {
+              "key": "Lease liability",
+              "value": "Current: 359, Previous: 507"
+            },
+            {
+              "key": "Other",
+              "value": "Current: 212, Previous: 256"
+            },
+            {
+              "key": "Pension costs",
+              "value": "Current: 225, Previous: N/A"
+            },
+            {
+              "key": "Investment in joint ventures",
+              "value": "Current: 448, Previous: 777"
+            },
+            {
+              "key": "Accrued expenses",
+              "value": "Current: 356, Previous: 332"
+            },
+            {
+              "key": "Total deferred tax assets",
+              "value": "Current: 81636, Previous: 74461"
+            },
+            {
+              "key": "Valuation allowance",
+              "value": "Current: -78285, Previous: -70134"
+            },
+            {
+              "key": "Deferred tax asset after valuation allowance",
+              "value": "Current: 3351, Previous: 4327"
+            },
+            {
+              "key": "Intangibles",
+              "value": "Current: -2706, Previous: -3003"
+            },
+            {
+              "key": "Other (liabilities)",
+              "value": "Current: -261, Previous: -253"
+            },
+            {
+              "key": "Pension costs (liabilities)",
+              "value": "Current: N/A, Previous: -871"
+            },
+            {
+              "key": "Right-of-use asset",
+              "value": "Current: -384, Previous: -500"
+            },
+            {
+              "key": "Total deferred tax liabilities",
+              "value": "Current: -3351, Previous: -4327"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 60,
+          "title": "Future Minimum Rent Schedule",
+          "data": [
+            {
+              "key": "2023",
+              "value": "3372"
+            },
+            {
+              "key": "2024",
+              "value": "831"
+            },
+            {
+              "key": "2025",
+              "value": "467"
+            },
+            {
+              "key": "2026",
+              "value": "484"
+            },
+            {
+              "key": "2027",
+              "value": "445"
+            },
+            {
+              "key": "Thereafter",
+              "value": "2220"
+            },
+            {
+              "key": "",
+              "value": "7819"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "CHANGE IN BENEFIT OBLIGATION AND PLAN ASSETS",
+          "data": [
+            {
+              "key": "Net benefit obligation - beginning of period",
+              "value": "14308"
+            },
+            {
+              "key": "Interest cost",
+              "value": "694"
+            },
+            {
+              "key": "Actuarial (gain) loss",
+              "value": "-888"
+            },
+            {
+              "key": "Gross benefits paid",
+              "value": "-846"
+            },
+            {
+              "key": "Net benefit obligation - end of period",
+              "value": "13268"
+            },
+            {
+              "key": "Fair value of plan assets - beginning of period",
+              "value": "15940"
+            },
+            {
+              "key": "Employer contributions",
+              "value": "400"
+            },
+            {
+              "key": "Loss return on plan assets",
+              "value": "-2877"
+            },
+            {
+              "key": "Fair value of plan assets - end of period",
+              "value": "12617"
+            },
+            {
+              "key": "(Under) over funded status at end of period",
+              "value": "-651"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Components of Net Periodic Cost and Weighted-Average Assumptions",
+          "data": [
+            {
+              "key": "Interest cost",
+              "value": "694"
+            },
+            {
+              "key": "Gain on assets",
+              "value": "-953"
+            },
+            {
+              "key": "Amortization of loss",
+              "value": "0"
+            },
+            {
+              "key": "Net periodic (benefit) cost",
+              "value": "-259"
+            },
+            {
+              "key": "Discount rate",
+              "value": "5.0%"
+            },
+            {
+              "key": "Rate of compensation increase",
+              "value": "0.0%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Expected Benefits Payment Schedule (2023-2032)",
+          "data": [
+            {
+              "key": "2023",
+              "value": "1078"
+            },
+            {
+              "key": "2024",
+              "value": "1069"
+            },
+            {
+              "key": "2025",
+              "value": "1072"
+            },
+            {
+              "key": "2026",
+              "value": "1061"
+            },
+            {
+              "key": "2027",
+              "value": "1061"
+            },
+            {
+              "key": "2028-2032",
+              "value": "4147"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Asset Allocation and Fair Values",
+          "data": [
+            {
+              "key": "Asset Category - Cash and equivalents",
+              "value": "0% to 10% (Fair Value: $748, $928) (Percentage: 6%)"
+            },
+            {
+              "key": "Asset Category - Equity securities",
+              "value": "40% to 57% (Fair Value: $8,870, $9,678) (Percentage: 61%)"
+            },
+            {
+              "key": "Asset Category - Fixed income securities",
+              "value": "35% to 50% (Fair Value: $2,999, $5,334) (Percentage: 33%)"
+            },
+            {
+              "key": "Total Assets",
+              "value": "Total Fair Value: $12,617 to $15,940 (Percentage: 100%)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Future Minimum Rental Payments Schedule",
+          "data": [
+            {
+              "key": "Year Ended (2023)",
+              "value": "Future Minimum Rentals: $470,000"
+            },
+            {
+              "key": "Year Ended (2024)",
+              "value": "Future Minimum Rentals: $470,000"
+            },
+            {
+              "key": "Year Ended (2025)",
+              "value": "Future Minimum Rentals: $116,000"
+            },
+            {
+              "key": "Total undiscounted lease payments",
+              "value": "$1,056,000"
+            },
+            {
+              "key": "Discount",
+              "value": "$(19,000)"
+            },
+            {
+              "key": "Lease Liability",
+              "value": "N/A"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 67,
+          "title": "237 11th Senior Loan and Other Debt Details",
+          "data": [
+            {
+              "key": "237 11th Senior Loan outstanding balance",
+              "value": "$50.0 million"
+            },
+            {
+              "key": "237 11th Mezz Loan outstanding balance",
+              "value": "$10.0 million"
+            },
+            {
+              "key": "Berkley Partner Loan amount",
+              "value": "$10.5 million"
+            },
+            {
+              "key": "Berkley Partner Loan interest rate",
+              "value": "10% per year"
+            },
+            {
+              "key": "Secured Line of Credit amount",
+              "value": "$11.75 million"
+            },
+            {
+              "key": "Secured Line of Credit maturity date",
+              "value": "May 22, 2023"
+            },
+            {
+              "key": "Secured Line of Credit outstanding balance (Dec 31, 2022)",
+              "value": "$9.75 million"
+            },
+            {
+              "key": "Secured Line of Credit outstanding balance (Dec 31, 2021)",
+              "value": "$12.75 million"
+            },
+            {
+              "key": "Interest rate on Secured Line of Credit (Dec 31, 2022)",
+              "value": "7.5%"
+            },
+            {
+              "key": "Interest rate on Secured Line of Credit (Dec 31, 2021)",
+              "value": "3.25%"
+            },
+            {
+              "key": "Partner Loan outstanding balance",
+              "value": "$5.9 million"
+            },
+            {
+              "key": "Partner Loan interest rate",
+              "value": "7.0%"
+            },
+            {
+              "key": "Minimum liquidity requirement",
+              "value": "Waived through July 9, 2023"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 72,
+          "title": "Balance Sheet",
+          "data": [
+            {
+              "key": "Total assets (Period 1)",
+              "value": "188,345"
+            },
+            {
+              "key": "Total assets (Period 2)",
+              "value": "127,076"
+            },
+            {
+              "key": "Total liabilities (Period 1)",
+              "value": "114,783"
+            },
+            {
+              "key": "Total liabilities (Period 2)",
+              "value": "82,002"
+            },
+            {
+              "key": "Members' equity (Period 1)",
+              "value": "87,654"
+            },
+            {
+              "key": "Members' equity (Period 2)",
+              "value": "48,677"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 72,
+          "title": "Members' Equity Statement",
+          "data": [
+            {
+              "key": "Total members' equity (Period 1)",
+              "value": "73,562"
+            },
+            {
+              "key": "Total members' equity (Period 2)",
+              "value": "45,074"
+            },
+            {
+              "key": "Accumulated deficit (Period 1)",
+              "value": "(14,092)"
+            },
+            {
+              "key": "Accumulated deficit (Period 2)",
+              "value": "(3,603)"
+            },
+            {
+              "key": "Investments in unconsolidated joint ventures (Period 1)",
+              "value": "17,938"
+            },
+            {
+              "key": "Investments in unconsolidated joint ventures (Period 2)",
+              "value": "4,386"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 73,
+          "title": "Financial Statement Comparison 2020-2022",
+          "data": [
+            {
+              "key": "Rental revenues",
+              "value": "2022: 11383, 2021: 12679, 2020: 12747"
+            },
+            {
+              "key": "Total revenues",
+              "value": "2022: 11383, 2021: 12679, 2020: 12747"
+            },
+            {
+              "key": "Property operating expenses",
+              "value": "2022: 3596, 2021: 4065, 2020: 3605"
+            },
+            {
+              "key": "Real estate taxes Amortization",
+              "value": "2022: 72 1,974, 2021: 100 2,479, 2020: 94 5,676"
+            },
+            {
+              "key": "Gain on sale of real estate",
+              "value": "2022: 8981, 2021: 0, 2020: 0"
+            },
+            {
+              "key": "Operating income (loss)",
+              "value": "2022: 11690, 2021: 2098, 2020: -461"
+            },
+            {
+              "key": "Net income (loss)",
+              "value": "2022: 10489, 2021: -2150, 2020: -6122"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 98,
+          "title": "Loan Agreement Amendments and Financial Terms",
+          "data": [
+            {
+              "key": "Required L/C Amount",
+              "value": "$4,000,000.00"
+            },
+            {
+              "key": "PIK Interest Paid",
+              "value": "$1,000,000.00"
+            },
+            {
+              "key": "PIK Interest Reserve Account Deposit",
+              "value": "$3,000,000.00"
+            },
+            {
+              "key": "Completion Date",
+              "value": "September 29, 2023"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 100,
+          "title": "Sales Hurdle Agreement Details",
+          "data": [
+            {
+              "key": "Sales Hurdle Threshold Amount",
+              "value": "$7,500,000.00"
+            },
+            {
+              "key": "Quarterly Sales Hurdle",
+              "value": "Required Sales Amount for Loan Repayment"
+            },
+            {
+              "key": "Quarterly Sales Hurdle Shortfall Payment",
+              "value": "Difference between Threshold and Actual Sales Proceeds"
+            },
+            {
+              "key": "Sales Hurdle Surplus Amount",
+              "value": "Excess Sales Proceeds over Threshold"
+            },
+            {
+              "key": "Reserve Account",
+              "value": "Carry Cost Reserve Account and PIK Interest Reserve Account"
+            },
+            {
+              "key": "Interest Earnings",
+              "value": "Interest allocated to Borrower for tax purposes, part of Reserve Accounts"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 115,
+          "title": "Consent of Independent Registered Public Accounting Firm",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Trinity Place Holdings Inc."
+            },
+            {
+              "key": "Location",
+              "value": "New York, New York"
+            },
+            {
+              "key": "Report Date",
+              "value": "March 31, 2023"
+            },
+            {
+              "key": "Audit Firm",
+              "value": "BDO USA, LLP"
+            },
+            {
+              "key": "Explanatory Paragraph",
+              "value": "regarding the Company’s ability to continue as a going concern."
+            },
+            {
+              "key": "Registration Statements",
+              "value": "Form S-3 (Nos. 333-193396, 333-208740, 333-216754, 333-235276 and 333-262293), Form S-8 (Nos. 333-207324, 333-232266 and 333-257650)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 116,
+          "title": "Certification by Matthew Messinger",
+          "data": [
+            {
+              "key": "Registrant",
+              "value": "Trinity Place Holdings Inc."
+            },
+            {
+              "key": "Date",
+              "value": "March 31, 2023"
+            },
+            {
+              "key": "Position",
+              "value": "President and Chief Executive Officer"
+            },
+            {
+              "key": "Certification Details",
+              "value": "The financial statements fairly present the financial condition, results of operations, and cash flows."
+            },
+            {
+              "key": "Disclosure Controls",
+              "value": "Designed to ensure material information is made known to certifying officers."
+            },
+            {
+              "key": "Internal Control Evaluation",
+              "value": "Evaluated effectiveness of disclosure controls and reported conclusions."
+            },
+            {
+              "key": "Reporting Changes",
+              "value": "Disclosed changes in internal control over financial reporting."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 117,
+          "title": "Certification of Chief Financial Officer - Steven Kahn",
+          "data": [
+            {
+              "key": "Certifier Name",
+              "value": "Steven Kahn"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Company",
+              "value": "Trinity Place Holdings Inc."
+            },
+            {
+              "key": "Report Type",
+              "value": "Annual Report on Form 10-K"
+            },
+            {
+              "key": "Certification Date",
+              "value": "March 31, 2023"
+            },
+            {
+              "key": "Responsibilities",
+              "value": "Reviewed financial statements, established disclosure controls and procedures, evaluated the effectiveness of internal controls."
+            },
+            {
+              "key": "Key Statements",
+              "value": "The report does not contain any untrue statement or omit any material fact; financial statements fairly present the financial condition and results of operations."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": true,
+      "elements": [
+        {
+          "type": "share_buyback",
+          "page": 69,
+          "title": "Share Repurchase Program Details",
+          "data": [
+            {
+              "key": "Program Approval Date",
+              "value": "December 2019"
+            },
+            {
+              "key": "Total Amount Authorized for Repurchase",
+              "value": "$5.0 million"
+            },
+            {
+              "key": "Total Shares Repurchased",
+              "value": "250,197 shares"
+            },
+            {
+              "key": "Total Amount Spent on Repurchases",
+              "value": "$483,361"
+            },
+            {
+              "key": "Average Price Per Share",
+              "value": "$1.93"
+            },
+            {
+              "key": "Remaining Amount Available for Repurchase as of December 31, 2022",
+              "value": "$4.5 million"
+            },
+            {
+              "key": "Conditions for Repurchases",
+              "value": "Subject to market conditions, regulatory requirements, and management's discretion."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 16,
+          "title": "Capital Structure Overview",
+          "data": [
+            {
+              "key": "Authorized Shares",
+              "value": "120,000,000"
+            },
+            {
+              "key": "Common Stock Authorized",
+              "value": "79,999,997"
+            },
+            {
+              "key": "Outstanding Shares (Dec 31, 2022)",
+              "value": "36,907,862"
+            },
+            {
+              "key": "Warrants Outstanding",
+              "value": "7,179,000"
+            },
+            {
+              "key": "Dilution Risk",
+              "value": "High due to potential issuance of additional shares"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 23,
+          "title": "Corporate Expenses and Strategic Alternatives Overview",
+          "data": [
+            {
+              "key": "Maturities and Corporate Expenses",
+              "value": "Substantial doubt about ability to continue as a going concern."
+            },
+            {
+              "key": "Funding Opportunities",
+              "value": "Exploring refinancing options and asset sales to secure funding."
+            },
+            {
+              "key": "Strategic Features",
+              "value": "Maximizing stockholder value, evaluating sale or merger alternatives."
+            },
+            {
+              "key": "Debt Refinancing",
+              "value": "In discussions with lenders regarding deferment of payment obligations."
+            },
+            {
+              "key": "Restructuring Plans",
+              "value": "Potential restructuring or bankruptcy if unable to secure funding."
+            },
+            {
+              "key": "COVID-19 Impact",
+              "value": "Construction at 77 Greenwich delayed; financial impacts observed."
+            },
+            {
+              "key": "Business Strategy",
+              "value": "Maximizing risk-adjusted returns, exploring acquisition opportunities."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 64,
+          "title": "Amendments to CCF and Financial Covenants",
+          "data": [
+            {
+              "key": "Amendment Dates",
+              "value": "October 22, 2021; November 10, 2021"
+            },
+            {
+              "key": "CCF Outstanding Balance as of Dec 31, 2022",
+              "value": "$35.75 million"
+            },
+            {
+              "key": "Deferred Finance Fees Dec 31, 2022",
+              "value": "$1.3 million"
+            },
+            {
+              "key": "Deferred Finance Fees Dec 31, 2021",
+              "value": "$2.9 million"
+            },
+            {
+              "key": "Accrued Interest Dec 31, 2022",
+              "value": "$6.1 million"
+            },
+            {
+              "key": "Accrued Interest Dec 31, 2021",
+              "value": "$3.8 million"
+            },
+            {
+              "key": "Effective Interest Rates",
+              "value": "10.0% (2022); 9.5% (2021)"
+            },
+            {
+              "key": "Commitment Fee Paid",
+              "value": "$1.85 million"
+            },
+            {
+              "key": "CCF Annual Fee",
+              "value": "$2.45 million"
+            },
+            {
+              "key": "Prepayment Provision Details",
+              "value": "CCF may be prepaid at any time subject to a prepayment premium."
+            },
+            {
+              "key": "Collateral Details",
+              "value": "100% equity interests, cash, cash equivalents, non-real estate assets."
+            },
+            {
+              "key": "Covenants Compliance Status",
+              "value": "In compliance with all covenants."
+            },
+            {
+              "key": "Permitted Share Repurchase Amount",
+              "value": "Up to $2.0 million with CCF proceeds."
+            },
+            {
+              "key": "Commitment Reduction Amount",
+              "value": "$7.5 million."
+            },
+            {
+              "key": "Warrant Exercise Price Amended",
+              "value": "From $6.50 to $4.31."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 86,
+          "title": "Mortgage Loan Agreement Information",
+          "data": [
+            {
+              "key": "Sales Hurdle Threshold Amount",
+              "value": "$7,500,000.00"
+            },
+            {
+              "key": "Quarterly Sales Hurdle",
+              "value": "Amount applied towards repayment of Mortgage Loan"
+            },
+            {
+              "key": "Quarterly Sales Hurdle Shortfall Payment",
+              "value": "Difference between Sales Hurdle Threshold Amount and aggregate sales proceeds applied towards repayment"
+            },
+            {
+              "key": "Sales Hurdle Surplus Amount",
+              "value": "Excess sales proceeds above Sales Hurdle Threshold Amount"
+            },
+            {
+              "key": "Milestone Construction Hurdle",
+              "value": "Conditions for achievement by Mortgage Borrower"
+            },
+            {
+              "key": "Sections affected",
+              "value": "2.9, 2.10, 2.11, 2.13 of Mortgage Loan Agreement"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 101,
+          "title": "Section 2.13 PIK Interest Reserve",
+          "data": [
+            {
+              "key": "PIK Interest Reserve Funds",
+              "value": "$3,000,000.00"
+            },
+            {
+              "key": "Monthly PIK Interest Reserve Funds Maximum Amount",
+              "value": "$335,000.00"
+            },
+            {
+              "key": "Interest Period for Payment",
+              "value": "December 1, 2022"
+            },
+            {
+              "key": "Borrower's obligation",
+              "value": "pay the monthly installments of interest and/or PIK Interest as required"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 3,
+          "title": "Business Overview and Recent Developments",
+          "data": [
+            {
+              "key": "Business Impact Factors",
+              "value": "COVID-19 pandemic, economic downturn, increased interest rates, high inflation."
+            },
+            {
+              "key": "Total Cash and Restricted Cash",
+              "value": "$22.1 million."
+            },
+            {
+              "key": "Expected Funding Needs",
+              "value": "Insufficient cash to fund operations over the next 12 months."
+            },
+            {
+              "key": "Strategic Alternatives Considered",
+              "value": "Debt refinancing, asset sales, equity or debt financings."
+            },
+            {
+              "key": "Engaged Advisors",
+              "value": "Houlihan Lokey, Ackman-Ziff."
+            },
+            {
+              "key": "Potential transactions",
+              "value": "Securing financing, refinancing existing debt, sale or merger of the Company."
+            },
+            {
+              "key": "Risks of achieving capital strategies",
+              "value": "Market conditions may preclude achieving necessary financing."
+            },
+            {
+              "key": "Possible outcomes",
+              "value": "Restructuring business and capital structure, including bankruptcy."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 6,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Our business, operations and financial condition are subject to various risks. Some of these risks are described below, and stockholders should take such risks into account when evaluating us or any investment decision involving us."
+            },
+            {
+              "key": "Liquidity Concerns",
+              "value": "We have a limited amount of unrestricted cash and liquidity and variable cash needs."
+            },
+            {
+              "key": "Consequences of Insufficient Capital",
+              "value": "If we are not successful in consummating a strategic transaction, raising significant additional capital and/or receiving significant amounts on account of our claims involving 237 11th in a timely manner, we will have insufficient cash and liquidity to service our debt and pay operating expenses and other obligations over the next 12 months."
+            },
+            {
+              "key": "Management's Strategy",
+              "value": "Management is currently in discussions with the Company’s lenders regarding the deferment of upcoming payments and exploring opportunities to secure additional funding."
+            },
+            {
+              "key": "Potential Strategic Alternatives",
+              "value": "Evaluating potential alternatives include securing an equity and/or debt financing, refinancing of existing debt, and/or a sale or merger or reverse merger of the Company."
+            },
+            {
+              "key": "Dilution Risk",
+              "value": "If funds are raised by issuing equity securities, dilution to existing shareholders will result."
+            },
+            {
+              "key": "Bankruptcy Consideration",
+              "value": "We may be required to evaluate additional alternatives in restructuring our business, including filing for bankruptcy protection."
+            },
+            {
+              "key": "Funding Reliance",
+              "value": "We have limited cash resources, generate minimal revenues from operations, and are reliant on external sources of capital."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 9,
+          "title": "Risks in Property Development and Investment Returns",
+          "data": [
+            {
+              "key": "Risk of Investment Returns",
+              "value": "Investment returns from 77 Greenwich and other properties may be less than anticipated."
+            },
+            {
+              "key": "Sales and Leasing Risks",
+              "value": "Sales of condominium units and leasing of properties may yield less profitable returns than projected."
+            },
+            {
+              "key": "Operational Cost Risks",
+              "value": "Operating expenses and taxes may exceed projections, affecting profitability."
+            },
+            {
+              "key": "Financing Risks",
+              "value": "Inability to secure financing on favorable terms may hinder development."
+            },
+            {
+              "key": "Construction Cost Risks",
+              "value": "Construction costs may exceed estimates due to unforeseen factors, impacting profit."
+            },
+            {
+              "key": "Permitting and Approval Risks",
+              "value": "Delays in obtaining necessary permits can inflate costs or halt projects."
+            },
+            {
+              "key": "Development Abandonment Risks",
+              "value": "Abandonment of development opportunities may result in unrecoverable expenses."
+            },
+            {
+              "key": "Project Completion Risks",
+              "value": "Inability to complete constructions on schedule can result in financial losses."
+            },
+            {
+              "key": "Economic Condition Risks",
+              "value": "Economic changes may necessitate suspension of projects, leading to write-offs."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 12,
+          "title": "Risks Related to Property Acquisitions and Joint Ventures",
+          "data": [
+            {
+              "key": "Risk of Non-Completion",
+              "value": "We may expend funds on, and devote management time to, opportunities which we do not complete, and which may include non-refundable deposits."
+            },
+            {
+              "key": "Lease Terms",
+              "value": "We may be unable to lease our acquired properties on the same terms as contemplated as part of our underwriting."
+            },
+            {
+              "key": "Property Performance",
+              "value": "Properties that we acquire or in which we invest may fail to perform as we expected."
+            },
+            {
+              "key": "Cost Estimates",
+              "value": "Our estimates of the costs we incur in renovating, improving, developing or redeveloping acquired properties may be inaccurate."
+            },
+            {
+              "key": "Insurance Coverage",
+              "value": "We may not be able to obtain adequate insurance coverage for acquired properties."
+            },
+            {
+              "key": "Integration Challenges",
+              "value": "We may be unable to quickly and efficiently integrate new acquisitions, investments and developments into our existing operations."
+            },
+            {
+              "key": "Joint Venture Risks",
+              "value": "Joint venture investments may involve risks not otherwise present for investments made solely by us."
+            },
+            {
+              "key": "LIBOR Transition Risks",
+              "value": "Changes in LIBOR may affect our financial results and lead to renegotiation of obligations."
+            },
+            {
+              "key": "Tax Benefits Compliance",
+              "value": "Failure to comply with NYC requirements may result in loss of tax benefits."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 15,
+          "title": "Risk Factors Related to Common Stock Volatility",
+          "data": [
+            {
+              "key": "Impact of Market Volatility",
+              "value": "Extreme volatility in fixed income, credit, currency and equity markets could adversely affect business, financial condition and operating results."
+            },
+            {
+              "key": "Information Technology Risks",
+              "value": "Breaches of information technology systems could materially harm business and reputation, including the unauthorized access to sensitive information."
+            },
+            {
+              "key": "Common Stock Trading Dynamics",
+              "value": "Common stock is thinly traded on the NYSE American, with significant price fluctuations impacting market."
+            },
+            {
+              "key": "Stockholder Resale Risks",
+              "value": "Market price volatility and lack of liquidity may prevent stockholders from selling shares at or above the price paid."
+            },
+            {
+              "key": "Influential Factors on Stock Price",
+              "value": "Factors affecting stock price include the ability to raise additional capital, changes in real estate markets, and general economic conditions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 36,
+          "title": "Cautionary Note Regarding Forward-Looking Statements",
+          "data": [
+            {
+              "key": "Stock-based compensation cost measurement",
+              "value": "Measured at grant date based on fair value and expensed as per ASC 718-10-35."
+            },
+            {
+              "key": "Forward-looking statements",
+              "value": "Reflect management beliefs and assumptions involving risks and uncertainties."
+            },
+            {
+              "key": "Capital resources expectation",
+              "value": "Existing capital resources may not fund operations for the next 12 months without a strategic transaction or capital raising."
+            },
+            {
+              "key": "Debt and financing risks",
+              "value": "Risks involve debt maturities, defaults, and covenants that may restrict business plans."
+            },
+            {
+              "key": "Property development investment risks",
+              "value": "Investment may be more costly than anticipated with less favorable returns."
+            },
+            {
+              "key": "Market condition risks",
+              "value": "Adverse trends in the New York City residential condominium market."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 37,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Lease and tenant risks",
+              "value": "Ability to enter into new leases and renew existing leases with tenants at commercial and residential properties."
+            },
+            {
+              "key": "Liabilities on acquired properties",
+              "value": "Acquiring properties subject to unknown or known liabilities, limited or no recourse to the seller."
+            },
+            {
+              "key": "Rent stabilization regulations risks",
+              "value": "Effects of rent stabilization regulations on ability to raise and collect rents."
+            },
+            {
+              "key": "Competition risk",
+              "value": "Competition for new acquisitions and investments."
+            },
+            {
+              "key": "Investment risks",
+              "value": "Risks associated with acquisitions and investments in owned and leased real estate."
+            },
+            {
+              "key": "Joint ventures risks",
+              "value": "Risks associated with joint ventures."
+            },
+            {
+              "key": "State tax benefits",
+              "value": "Ability to maintain state tax benefits for certain properties."
+            },
+            {
+              "key": "Permit and approval risks",
+              "value": "Ability to obtain required permits, site plan approvals, and governmental approvals for property development."
+            },
+            {
+              "key": "Environmental laws compliance",
+              "value": "Costs associated with complying with environmental laws and contamination."
+            },
+            {
+              "key": "Loss of key personnel",
+              "value": "Risks related to loss of key personnel."
+            },
+            {
+              "key": "New tax laws effects",
+              "value": "Effects of new tax laws."
+            },
+            {
+              "key": "Utilization of NOLs",
+              "value": "Ability to utilize NOLs to offset future taxable income and capital gains."
+            },
+            {
+              "key": "Political and economic uncertainty risks",
+              "value": "Risks associated with current political and economic uncertainty, including outbreaks of contagious diseases."
+            },
+            {
+              "key": "IT system breaches",
+              "value": "Risks associated with breaches of information technology systems."
+            },
+            {
+              "key": "Stock price volatility",
+              "value": "Stock price volatility and other risks associated with lightly traded stock."
+            },
+            {
+              "key": "Stockholder dilution",
+              "value": "Stockholders may be diluted by issuance of additional shares."
+            },
+            {
+              "key": "Declining stock price challenges",
+              "value": "A declining stock price may hinder capital raising."
+            },
+            {
+              "key": "Significant stockholders influence",
+              "value": "Influence of significant stockholders."
+            },
+            {
+              "key": "Limitations in common stock transactions",
+              "value": "Limitations on transactions in common stock may impact liquidity."
+            },
+            {
+              "key": "Charter provisions on control changes",
+              "value": "Charter provisions may make takeovers more difficult."
+            },
+            {
+              "key": "Judicial forum limitations",
+              "value": "Certain charter provisions may limit stockholder's ability to obtain favorable judicial forums."
+            },
+            {
+              "key": "Unanticipated difficulties",
+              "value": "Unanticipated difficulties and factors outside our control."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 104,
+          "title": "Milestone Construction Hurdle and Loan Agreement Amendments",
+          "data": [
+            {
+              "key": "Milestone Deadline 1",
+              "value": "Substantial Completion and Temporary Certificate(s) of Occupancy for all Residential Units and the 41st floor Cloud Club amenities due March 1, 2023"
+            },
+            {
+              "key": "Milestone Deadline 2",
+              "value": "Substantial Completion and Temporary Certificate of Occupancy for the 42nd floor roof deck amenities due June 30, 2023"
+            },
+            {
+              "key": "Milestone Deadline 3",
+              "value": "Temporary Certificate of Occupancy for the 12th floor terrace and dog run due September 29, 2023"
+            },
+            {
+              "key": "Milestone Deadline 4",
+              "value": "Final Completion due September 29, 2023"
+            },
+            {
+              "key": "Section 9.1(a)(v) updates",
+              "value": "Details regarding sales and marketing reports required from the Borrower to the Lender."
+            },
+            {
+              "key": "Event of Default Clause",
+              "value": "Failure to provide required statements and reports constitutes an immediate Event of Default."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 7,
+          "title": "Financial Condition and Results of Operations - Liquidity and Capital Resources",
+          "data": [
+            {
+              "key": "Operating Profit",
+              "value": "We have not generated an operating profit."
+            },
+            {
+              "key": "Long-term Viability",
+              "value": "Our long-term viability cannot be assured."
+            },
+            {
+              "key": "Capital Expenditures",
+              "value": "Substantial capital expenditures required."
+            },
+            {
+              "key": "Debt Risks",
+              "value": "We face risks generally associated with our debt."
+            },
+            {
+              "key": "Increased Risk of Default",
+              "value": "Increased risk of default on obligations."
+            },
+            {
+              "key": "Significant Payment Obligations",
+              "value": "Several loans have near-term maturities."
+            },
+            {
+              "key": "Interest Rate Cap Agreements",
+              "value": "Loans require interest rate cap agreements."
+            },
+            {
+              "key": "Cash Constraints",
+              "value": "May not have funds available to purchase required interest rate cap."
+            },
+            {
+              "key": "Default Consequences",
+              "value": "Failure to meet obligations leads to cross-defaults."
+            },
+            {
+              "key": "Loan Agreement Covenants",
+              "value": "Covenants could limit flexibility and adversely affect financial condition."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 14,
+          "title": "Potential Compliance and Financial Implications of ADA and Economic Uncertainty",
+          "data": [
+            {
+              "key": "ADA Compliance",
+              "value": "Potential costs and regulatory requirements related to the Americans with Disabilities Act."
+            },
+            {
+              "key": "Noncompliance Risks",
+              "value": "Could face fines and damages due to noncompliance with safety regulations."
+            },
+            {
+              "key": "Capital Expenditures",
+              "value": "Potential substantial capital expenditures related to compliance with ADA."
+            },
+            {
+              "key": "Loss of Key Personnel",
+              "value": "Risks associated with losing key management personnel affecting operations."
+            },
+            {
+              "key": "NOLs Utilization",
+              "value": "Limitations on using net operating losses due to ownership changes and tax legislation."
+            },
+            {
+              "key": "Political and Economic Uncertainty",
+              "value": "Potential adverse effects on business due to political or economic changes."
+            },
+            {
+              "key": "Contagious Disease Outbreaks",
+              "value": "Difficulties in predicting impacts on consumer spending and business operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 17,
+          "title": "Ownership and Control Rights",
+          "data": [
+            {
+              "key": "Ownership Influence",
+              "value": "Third Avenue and CCF Lender can exert influence over policies and management."
+            },
+            {
+              "key": "Special Stock Ownership Threshold",
+              "value": "Threshold of 2,345,000 shares of common stock for director election rights."
+            },
+            {
+              "key": "Dividend Policy",
+              "value": "No dividends have been paid on common stock and none expected for the foreseeable future."
+            },
+            {
+              "key": "Takeover Provisions",
+              "value": "Charter documents and Delaware law contain provisions to prevent favorable takeovers."
+            },
+            {
+              "key": "Board Structure",
+              "value": "Classified board of directors with two-year staggered terms."
+            },
+            {
+              "key": "Transfer Restrictions",
+              "value": "Certificates of incorporation include transfer restrictions affecting liquidity."
+            },
+            {
+              "key": "Hypothetical Tax Attributes",
+              "value": "Restrictions may affect ability to use NOLs and tax attributes."
+            },
+            {
+              "key": "Market Price Risk",
+              "value": "Provisions could reduce stock value or discourage investors."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 22,
+          "title": "MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES",
+          "data": [
+            {
+              "key": "Common Stock Trading Symbol",
+              "value": "TPHS"
+            },
+            {
+              "key": "Shares Issued",
+              "value": "43,903,363"
+            },
+            {
+              "key": "Shares Outstanding",
+              "value": "37,163,137"
+            },
+            {
+              "key": "Record Holders",
+              "value": "137"
+            },
+            {
+              "key": "Recent Sales of Unregistered Securities",
+              "value": "None"
+            },
+            {
+              "key": "Issuer Purchases of Equity Securities",
+              "value": "None"
+            },
+            {
+              "key": "NOLs",
+              "value": "$275.8 million"
+            },
+            {
+              "key": "Total Cash and Restricted Cash",
+              "value": "$22.1 million"
+            },
+            {
+              "key": "Cash and Cash Equivalents",
+              "value": "$1.6 million"
+            },
+            {
+              "key": "Restricted Cash",
+              "value": "$20.5 million"
+            },
+            {
+              "key": "Available Under Secured Line of Credit",
+              "value": "$2.0 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 29,
+          "title": "Amendment to Corporate Credit Facility and Loan Agreements",
+          "data": [
+            {
+              "key": "Deferment of interest payments",
+              "value": "The company defers upcoming interest payments and a $7.0 million amortization payment due on May 1, 2023."
+            },
+            {
+              "key": "Corporate Facility Amendment",
+              "value": "Amendments include allowing entry into the Mezzanine Loan Agreement, reducing commitment under the Corporate Credit Facility from $70.0 million to $62.5 million."
+            },
+            {
+              "key": "Considering MOIC",
+              "value": "The provision for calculating the MOIC amount combined the CCF and Mezzanine Loan."
+            },
+            {
+              "key": "Prepayment condition",
+              "value": "Company agrees to prepay outstanding principal balance of CCF no less than $7.0 million by May 1, 2023."
+            },
+            {
+              "key": "Capital reduction",
+              "value": "The amount of the CCF used to calculate the MOIC was reduced to $35.75 million."
+            },
+            {
+              "key": "Waiving liquidity requirement",
+              "value": "In November 2022, minimum liquidity requirement was eliminated."
+            },
+            {
+              "key": "Warrants issued",
+              "value": "The company issued warrants to purchase up to 7,179,000 shares of common stock."
+            },
+            {
+              "key": "Warrants exercise price",
+              "value": "Exercise price of the Warrants amended from $6.50 per share to $4.31 per share."
+            },
+            {
+              "key": "CCF compliance",
+              "value": "As of December 31, 2022, the CCF was fully drawn and compliant with covenants."
+            },
+            {
+              "key": "77 Mortgage Loan amount",
+              "value": "Loan agreement extended credit up to $166.7 million with $133.1 million borrowed at closing."
+            },
+            {
+              "key": "Interest rate on 77 Mortgage Loan",
+              "value": "Interest rate set at 7.00% over LIBOR; adjusted rate applicable if balance exceeds $91.0 million."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 39,
+          "title": "Material Weakness in Internal Control over Financial Reporting",
+          "data": [
+            {
+              "key": "Material Weakness",
+              "value": "Identified errors in accounting treatment regarding the overcapitalization of construction costs."
+            },
+            {
+              "key": "Property Classification",
+              "value": "77 Greenwich property reclassified from real estate under development to residential condominium units."
+            },
+            {
+              "key": "Remediation Measures",
+              "value": "Commenced additional procedures to ensure property classification is correct."
+            },
+            {
+              "key": "GAAP Compliance",
+              "value": "Continued analysis and post-closing procedures until material weakness remediated."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 42,
+          "title": "Table of Contents for Financing and Agreements",
+          "data": [
+            {
+              "key": "10.2",
+              "value": "Motion for an Order Authorizing the Reorganized Debtors to Enter into Secured Debt Financing and Effectuate the Transactions Contemplated Therein"
+            },
+            {
+              "key": "10.3",
+              "value": "Investment Agreement among MFP Partners, L.P. and the Company, dated as of September 11, 2015"
+            },
+            {
+              "key": "10.4",
+              "value": "Investment Agreement among Third Avenue Trust and the Company, dated as of September 11, 2015"
+            },
+            {
+              "key": "10.5",
+              "value": "Employment Agreement dated as of October 1, 2013, between Trinity Place Holdings Inc. and Matthew Messinger"
+            },
+            {
+              "key": "10.6",
+              "value": "Amendment to Employment Agreement dated as of September 11, 2015, by Trinity Place Holdings Inc. and Matthew Messinger"
+            },
+            {
+              "key": "10.7",
+              "value": "Trinity Place Holdings Inc. Restricted Stock Unit Agreement, entered into as of January 28, 2016"
+            },
+            {
+              "key": "10.8",
+              "value": "Letter Agreement between Trinity Place Holdings Inc. and Steven Kahn, dated September 16, 2015"
+            },
+            {
+              "key": "10.9",
+              "value": "Letter Agreement between Trinity Place Holdings Inc. and Richard Pyontek, dated June 24, 2011"
+            },
+            {
+              "key": "10.10",
+              "value": "Trinity Place Holdings Inc. 2015 Stock Incentive Plan (as amended, effective April 23, 2021)"
+            },
+            {
+              "key": "10.11",
+              "value": "Form of Restricted Stock Unit Agreement for employees"
+            },
+            {
+              "key": "10.12",
+              "value": "Private Placement Agreement among the Company and investors dated as of February 14, 2017"
+            },
+            {
+              "key": "10.13",
+              "value": "Credit Agreement dated as of December 19, 2019, among Trinity Place Holdings Inc. and parties named therein"
+            },
+            {
+              "key": "10.14",
+              "value": "Amendment No. 2 to Credit Agreement dated as of December 22, 2020, among Trinity Place Holdings Inc. and parties named therein"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 43,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Amendment No. 3 to Credit Agreement",
+              "value": "dated as of October 22, 2021, among Trinity Place Holdings Inc., as Borrower, each subsidiary of Borrower listed on the signature pages thereto, as a guarantor, the lenders party thereto, and Trimont Real Estate Advisors, LLC, as administrative agent"
+            },
+            {
+              "key": "Amendment No. 4 to Credit Agreement",
+              "value": "dated as of November 10, 2021, among Trinity Place Holdings Inc., as Borrower, each subsidiary of Borrower listed on the signature pages thereto, as a guarantor, the lenders party thereto, and Trimont Real Estate Advisors, LLC, as administrative agent"
+            },
+            {
+              "key": "Amendment No. 5 to Credit Agreement",
+              "value": "dated as of November 30, 2022, among Trinity Place Holdings Inc. as Borrower, each subsidiary of Borrower listed on the signature pages thereto, as a guarantor, the lenders party thereto, and Trimont Real Estate Advisor, LLC, as administrative agent"
+            },
+            {
+              "key": "Warrant Agreement",
+              "value": "dated as of December 19, 2019, among Trinity Place Holdings Inc. and TPHS Lender LLC."
+            },
+            {
+              "key": "Amendment to Warrant Agreement",
+              "value": "dated as of December 22, 2020, between Trinity Place Holdings Inc. and TPHS Lender LLC"
+            },
+            {
+              "key": "Registration Rights Agreement",
+              "value": "dated as of December 19, 2019, by and between Trinity Place Holdings Inc. and the investors set forth on Schedule A thereof"
+            },
+            {
+              "key": "Letter Agreement",
+              "value": "dated as of December 19, 2019, between Trinity Place Holdings Inc. and TPHS Lender LLC"
+            },
+            {
+              "key": "Amended and Restated Mezzanine Loan Agreement",
+              "value": "dated as of October 22, 2021 by and among TPHGreenwich Subordinate Mezz LLC, as borrower, TPHGreenwich Mezz LLC, as additional pledger, TPHS Lender II LLC, as lender and TPHS Lender II LLC, as administrative agent"
+            },
+            {
+              "key": "First Amendment to Amended and Restated Mezzanine Agreement and Loan Documents",
+              "value": "dated as of November 30, 2022, by and among TPHS Lender II LLC, as lender and TPHS Lender II LLC, as administrative agent, TPHGreenwich Subordinate Mezz LLC, as borrower, TPHGreenwich Mezz LLC, as additional pledger and Trinity Place Holdings Inc., as guarantor."
+            },
+            {
+              "key": "Master Loan Agreement",
+              "value": "dated as of October 22, 2021 by and between TPHGreenwich Owner LLC, as borrower, and Macquarie PF Inc., as lender and administrative agent"
+            },
+            {
+              "key": "Guaranty of Payment and Completion",
+              "value": "dated as of October 22, 2021, by TPHGreenwich Owner LLC, as borrower, and Trinity Place Holdings Inc., to and for the benefit of Macquarie PF Inc., as lender and administrative agent"
+            },
+            {
+              "key": "Interest and Carry Guaranty",
+              "value": "made as of October 22, 2021 by Trinity Place Holdings Inc. to Macquarie PF Inc."
+            },
+            {
+              "key": "First Amendment to Master Loan Agreement and Loan Documents",
+              "value": "dated as of November 30, 2022, by and among Macquarie PF Inc., as lender, TPHGreenwich Owner LLC, as borrower, and Trinity Place Holdings Inc., as guarantor."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 47,
+          "title": "Impairment Assessment of Residential Condominium Units for Sale",
+          "data": [
+            {
+              "key": "Date",
+              "value": "As of December 31, 2022"
+            },
+            {
+              "key": "Total Value of Units for Sale",
+              "value": "$203 million"
+            },
+            {
+              "key": "Assessment Description",
+              "value": "Evaluated for impairment based on the contracted and projected sales prices compared to the total estimated cost to construct"
+            },
+            {
+              "key": "Critical Audit Matter",
+              "value": "Assessment of impairment of residential condominium units for sale"
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "Evaluating the reasonableness of management’s determination of the expected sales proceeds from the sale of completed condominium units"
+            },
+            {
+              "key": "Audit Involvement",
+              "value": "Personnel with specialized skill and knowledge in valuation"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 52,
+          "title": "Liquidity and Going Concern; Management’s Plans; Recent Developments",
+          "data": [
+            {
+              "key": "Total cash and restricted cash",
+              "value": "$22.1 million"
+            },
+            {
+              "key": "Cash and cash equivalents",
+              "value": "$1.5 million"
+            },
+            {
+              "key": "Restricted cash",
+              "value": "$20.5 million"
+            },
+            {
+              "key": "Available under secured line of credit",
+              "value": "$2.0 million"
+            },
+            {
+              "key": "Financial challenges",
+              "value": "Inability to fund operations, debt service, and corporate expenses over next 12 months without refinancing or raising capital."
+            },
+            {
+              "key": "Management's exploration",
+              "value": "Securing additional funding through asset sales, refinancing, and financing alternatives."
+            },
+            {
+              "key": "Potential strategic alternatives",
+              "value": "Equity/Debt financing, refinancing existing debt, sale/merger of the Company."
+            },
+            {
+              "key": "Challenges in facility construction and unit sales",
+              "value": "Construction delays at 77 Greenwich, market conditions affecting unit sales."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 76,
+          "title": "Representations and Warranties",
+          "data": [
+            {
+              "key": "Amendment Effective Date",
+              "value": "Amendment No. 5 Effective Date"
+            },
+            {
+              "key": "Legal Validity",
+              "value": "Amendment is a legal, valid and binding obligation of each Loan Party"
+            },
+            {
+              "key": "Corporate Authority",
+              "value": "Execution and delivery authorized by necessary action"
+            },
+            {
+              "key": "Compliance with Law",
+              "value": "No violation of law or breach of contract"
+            },
+            {
+              "key": "Material Adverse Effect",
+              "value": "No Loan Party in violation that could result in Material Adverse Effect"
+            },
+            {
+              "key": "False Representations",
+              "value": "Representations are true and correct in all material respects"
+            },
+            {
+              "key": "Default Status",
+              "value": "No Default or Event of Default has occurred under Credit Agreement"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 85,
+          "title": "Amendments to Original Loan Agreement",
+          "data": [
+            {
+              "key": "Completion Date",
+              "value": "September 29, 2023"
+            },
+            {
+              "key": "Amendment Execution Date",
+              "value": "November 30, 2022"
+            },
+            {
+              "key": "Sales Hurdle Period",
+              "value": "Each period commencing on the first calendar day of a calendar quarter and ending on the last day of such calendar quarter"
+            },
+            {
+              "key": "Sales Hurdle Threshold Amount",
+              "value": "Defined in Section 2.7(f)"
+            },
+            {
+              "key": "Quarterly Sales Hurdle Shortfall Payment",
+              "value": "Defined in Section 2.7(f)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 87,
+          "title": "Milestone Deadlines and Reporting Requirements",
+          "data": [
+            {
+              "key": "Deadline for Substantial Completion and Temporary Certificate(s) of Occupancy for all Residential Units",
+              "value": "March 1, 2023"
+            },
+            {
+              "key": "Deadline for Substantial Completion and Temporary Certificate of Occupancy for the 42nd floor roof deck",
+              "value": "June 30, 2023"
+            },
+            {
+              "key": "Deadline for Temporary Certificate of Occupancy for the 12th floor terrace and dog run",
+              "value": "September 29, 2023"
+            },
+            {
+              "key": "Final Completion Deadline",
+              "value": "September 29, 2023"
+            },
+            {
+              "key": "Weekly Traffic Report Submission Deadline",
+              "value": "Every Monday by 5:00 PM EST"
+            },
+            {
+              "key": "Bi-weekly Summary of Deposits and Escrow Accounts Deadline",
+              "value": "Every other Monday by 5:00 PM EST"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 90,
+          "title": "Guarantor Representations and Warranties",
+          "data": [
+            {
+              "key": "Guarantor Defense",
+              "value": "Does not have any defense, off-set, claim against Lender or Administrative Agent."
+            },
+            {
+              "key": "Representations Accuracy",
+              "value": "True and correct in all material respects as of the Amendment Execution Date."
+            },
+            {
+              "key": "Reaffirmation of Guaranties",
+              "value": "Guarantor reaffirms obligations under the amended Guaranties."
+            },
+            {
+              "key": "Ratification",
+              "value": "Original Loan Agreement ratified and will continue in full effect."
+            },
+            {
+              "key": "Waiver and Release",
+              "value": "Borrower Party Releasors release Administrative from claims."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 102,
+          "title": "Loan Balance and Disbursement Terms",
+          "data": [
+            {
+              "key": "Loan Agreement Section",
+              "value": "Section 3.11"
+            },
+            {
+              "key": "Borrower Obligation",
+              "value": "To keep the Loan 'in balance' at all times."
+            },
+            {
+              "key": "Conditions for Disbursement",
+              "value": "Borrower must make an additional Equity Deposit if Loan is Out of Balance."
+            },
+            {
+              "key": "Definition of Out of Balance",
+              "value": "Loan is Out of Balance if certain financial ratios and conditions are not met."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 107,
+          "title": "Guarantor Representations and Warranties",
+          "data": [
+            {
+              "key": "Legal Binding Obligations",
+              "value": "This Amendment constitutes legal, valid and binding obligations of Guarantor enforceable in accordance with its terms."
+            },
+            {
+              "key": "Power and Authority",
+              "value": "Guarantor has the power and requisite authority to execute, deliver and perform its obligations under this Amendment."
+            },
+            {
+              "key": "Consent Requirements",
+              "value": "No consent, approval, authorization or order is required in connection with the execution and delivery by Guarantor of this Amendment."
+            },
+            {
+              "key": "Defenses or Claims",
+              "value": "Guarantor does not have any defense, off-set, claim, counterclaim or cause of action against Lender."
+            },
+            {
+              "key": "Truth of Representations",
+              "value": "Representations and warranties made by Guarantor are true and correct in all material respects as if remade on the Amendment Execution Date."
+            },
+            {
+              "key": "Reaffirmation of Guaranties",
+              "value": "Guarantor reaffirms the Guaranties and acknowledges they remain in full force and effect."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 4,
+          "title": "Regulatory Matters - Environmental Compliance",
+          "data": [
+            {
+              "key": "Key Issues",
+              "value": "Under various federal, state and local laws, current or previous owners or operators of real estate may need to investigate and remediate hazardous substances."
+            },
+            {
+              "key": "Potential Liability",
+              "value": "Liability may be imposed regardless of knowledge of contamination."
+            },
+            {
+              "key": "Impact on Real Estate",
+              "value": "Contamination may adversely affect ability to sell, lease, or borrow against real estate."
+            },
+            {
+              "key": "Asbestos Regulations",
+              "value": "Requires abatement or removal of asbestos during renovations."
+            },
+            {
+              "key": "Financial Risks",
+              "value": "Potential substantial costs associated with regulation compliance."
+            },
+            {
+              "key": "Underground Storage Tanks",
+              "value": "Regulated operation and removal by federal and state laws."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 13,
+          "title": "Environmental Compliance and Risks",
+          "data": [
+            {
+              "key": "Section 421-a Tax Benefits Compliance",
+              "value": "The ability to maintain compliance with Section 421-a requirements is uncertain."
+            },
+            {
+              "key": "Permit and Approval Requirements",
+              "value": "Obtaining necessary permits and approvals for property development may not be timely or assured."
+            },
+            {
+              "key": "Environmental Compliance Costs",
+              "value": "Significant costs may be incurred for environmental compliance and potential liabilities."
+            },
+            {
+              "key": "Environmental Assessment Outcomes",
+              "value": "No significant environmental conditions were found in past assessments."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 18,
+          "title": "Court of Chancery Designation and Tax Implications for Non-U.S. Investors",
+          "data": [
+            {
+              "key": "exclusive forum designation",
+              "value": "The Court of Chancery in the State of Delaware for certain actions by stockholders."
+            },
+            {
+              "key": "impact on stockholders",
+              "value": "Discourages claims or limits stockholders’ ability to make claims against the Company."
+            },
+            {
+              "key": "FIRPTA Rules",
+              "value": "Non-U.S. holders subject to U.S. federal income tax on gain from sale or exchange."
+            },
+            {
+              "key": "withholding obligation",
+              "value": "Purchasers may need to withhold 15% of the purchase price."
+            },
+            {
+              "key": "tax consultation advice",
+              "value": "Non-U.S. stockholders should consult tax advisors."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 20,
+          "title": "Legal Actions Related to Property Damage at 237 11th Street",
+          "data": [
+            {
+              "key": "Claim Submission Date",
+              "value": "September 2018"
+            },
+            {
+              "key": "Insurance Carrier Response",
+              "value": "Disclaimed coverage for losses"
+            },
+            {
+              "key": "Filed Complaint Against",
+              "value": "Insurance carrier, seller, parent company, general contractor"
+            },
+            {
+              "key": "Nature of Damage Claims",
+              "value": "Property damage and business interruption (lost revenue)"
+            },
+            {
+              "key": "Date of Repairs Commencement",
+              "value": "September 2019"
+            },
+            {
+              "key": "Repairs Completion Date",
+              "value": "December 31, 2021"
+            },
+            {
+              "key": "Expected Recovery",
+              "value": "Uncertain amount from litigations and/or settlement negotiations"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 21,
+          "title": "Legal Proceedings",
+          "data": [
+            {
+              "key": "Type",
+              "value": "Routine legal proceedings"
+            },
+            {
+              "key": "Location",
+              "value": "New York"
+            },
+            {
+              "key": "Lease",
+              "value": "Expires in March 2025"
+            },
+            {
+              "key": "Impact on Financial Position",
+              "value": "No material adverse effect expected"
+            },
+            {
+              "key": "Mine Safety Disclosures",
+              "value": "Not applicable"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 31,
+          "title": "237 11th Loans and Berkley Loan Overview",
+          "data": [
+            {
+              "key": "Brazen litigation regarding construction defects",
+              "value": "Due to water damage in apartment units and other property at 237 11th resulting from construction defects, a notice of claim was submitted to the insurance carrier. The insurance carrier disclaimed coverage, leading to legal action."
+            },
+            {
+              "key": "Compliance status",
+              "value": "As of December 31, 2022, compliance with covenants of the 237 11th Loans, except for minimum liquidity requirement."
+            },
+            {
+              "key": "Legal claims filed",
+              "value": "Filed complaints against insurer and contractors to recover damages."
+            },
+            {
+              "key": "Lender agreement",
+              "value": "The lender has agreed to waive the minimum liquidity requirement through the initial maturity date of July 9, 2023."
+            },
+            {
+              "key": "Financial details of loans",
+              "value": "237 11th Loans: $50M senior loan and $10M mezzanine loan; New Berkley Loan: $33M, fixed at 2.717%."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 38,
+          "title": "Risks and Uncertainties in Financial Reporting",
+          "data": [
+            {
+              "key": "Risk Factors",
+              "value": "Evaluating risks that could cause actual results to differ from anticipated results."
+            },
+            {
+              "key": "Disclosure Controls",
+              "value": "Controls and procedures designed to ensure accurate disclosure in reports."
+            },
+            {
+              "key": "Material Weakness",
+              "value": "Deficiency in internal control over financial reporting."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 57,
+          "title": "Real Estate, Net and Intangible Assets, Net",
+          "data": [
+            {
+              "key": "Building and building improvements (2022)",
+              "value": "51,141"
+            },
+            {
+              "key": "Building and building improvements (2021)",
+              "value": "51,141"
+            },
+            {
+              "key": "Tenant improvements (2022)",
+              "value": "221"
+            },
+            {
+              "key": "Tenant improvements (2021)",
+              "value": "200"
+            },
+            {
+              "key": "Furniture and fixtures (2022)",
+              "value": "847"
+            },
+            {
+              "key": "Furniture and fixtures (2021)",
+              "value": "775"
+            },
+            {
+              "key": "Land and land improvements (2022)",
+              "value": "28,847"
+            },
+            {
+              "key": "Land and land improvements (2021)",
+              "value": "28,847"
+            },
+            {
+              "key": "Subtotal (2022)",
+              "value": "81,056"
+            },
+            {
+              "key": "Subtotal (2021)",
+              "value": "80,963"
+            },
+            {
+              "key": "Less: accumulated depreciation (2022)",
+              "value": "16,405"
+            },
+            {
+              "key": "Less: accumulated depreciation (2021)",
+              "value": "13,629"
+            },
+            {
+              "key": "Net total (2022)",
+              "value": "64,651"
+            },
+            {
+              "key": "Net total (2021)",
+              "value": "67,334"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 57,
+          "title": "Real Estate Tax Abatement Amortization Schedule",
+          "data": [
+            {
+              "key": "Year 2023",
+              "value": "$"
+            },
+            {
+              "key": "Year 2024",
+              "value": ""
+            },
+            {
+              "key": "Year 2025",
+              "value": ""
+            },
+            {
+              "key": "Year 2026",
+              "value": ""
+            },
+            {
+              "key": "Year 2027",
+              "value": ""
+            },
+            {
+              "key": "Year Thereafter",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 78,
+          "title": "Release of Claims and Replacement of Administrative Agent",
+          "data": [
+            {
+              "key": "Release of Claims",
+              "value": "Each Loan Party releases the Administrative Agent and Lenders from all claims related to the Indebtedness and Obligations."
+            },
+            {
+              "key": "Replacement of Administrative Agent",
+              "value": "Effective August 31, 2022, TPHS Lender LLC has been appointed as administrative agent under the Credit Agreement."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 84,
+          "title": "Amendment to the Original Loan Agreement",
+          "data": [
+            {
+              "key": "Mortgage Borrower",
+              "value": "Not specified"
+            },
+            {
+              "key": "Mortgage Lender",
+              "value": "Not specified"
+            },
+            {
+              "key": "Termination Payment Funding",
+              "value": "Confirmed by MTA on October 27, 2022"
+            },
+            {
+              "key": "Amended TIA",
+              "value": "Transit Improvement Agreement as amended"
+            },
+            {
+              "key": "Effective Date of Amendments",
+              "value": "March 28, 2019 and September 15, 2022"
+            },
+            {
+              "key": "Conditions Precedent",
+              "value": "Execution of Amendment, payment of fees, approval of Mortgage Loan Amendment, approval of updated budget"
+            },
+            {
+              "key": "Updated Approved Budget",
+              "value": "Attached as Exhibit A"
+            },
+            {
+              "key": "Current Obligations",
+              "value": "All obligations have been satisfied in full."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 89,
+          "title": "Guarantor Representations and Warranties",
+          "data": [
+            {
+              "key": "Representation 1",
+              "value": "No consent, approval, authorization or order of any court or Governmental Authority or any third party is required in connection with the execution and delivery by Borrower and Additional Pledgor of this Amendment."
+            },
+            {
+              "key": "Representation 2",
+              "value": "Each of Borrower and Additional Pledgor does not have any defense, off-set, claim, counterclaim or cause of action against Lender or Administrative Agent regarding the Loan."
+            },
+            {
+              "key": "Representation 3",
+              "value": "The representations and warranties made by Borrower and Additional Pledgor are true and correct in all material respects."
+            },
+            {
+              "key": "Representation 4",
+              "value": "Borrower has delivered to Administrative Agent all relevant formation and organizational documents."
+            },
+            {
+              "key": "Guarantor Power",
+              "value": "Guarantor has the power and requisite authority to execute, deliver and perform its obligations under this Amendment."
+            },
+            {
+              "key": "Legal Binding Nature",
+              "value": "This Amendment constitutes legal, valid and binding obligations of Guarantor, enforceable in accordance with its terms."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 91,
+          "title": "Release of Claims and Waiver of Unknown Claims",
+          "data": [
+            {
+              "key": "Releasees",
+              "value": "Lender Party Releasees"
+            },
+            {
+              "key": "Claims",
+              "value": "Any and all claims, demands, obligations, duties, liabilities, damages, expenses, debts, breaches of contract."
+            },
+            {
+              "key": "Loan",
+              "value": "The Loan, the Loan Documents, and/or the Collateral"
+            },
+            {
+              "key": "Governing Clause",
+              "value": "Borrower Party Releasors waive provisions of any laws restricting release of claims."
+            },
+            {
+              "key": "Acknowledgment",
+              "value": "Borrower Party Releasors acknowledge realization of unknown factual matters."
+            },
+            {
+              "key": "Reliance Clause",
+              "value": "Borrower Party Releasors acknowledge not relying on any representations made by Administrative Agent, Lender or their Affiliates."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 92,
+          "title": "Loan Agreement Amendment Clauses",
+          "data": [
+            {
+              "key": "Borrower Party Releasors",
+              "value": "Represent and warrant to Administrative Agent and Lender regarding assignment or transfer of matters released."
+            },
+            {
+              "key": "Counterparts",
+              "value": "Amendment may be executed in multiple counterparts."
+            },
+            {
+              "key": "Exculpation",
+              "value": "Section 13.1 of Original Loan Agreement is incorporated."
+            },
+            {
+              "key": "Incorporation by Reference",
+              "value": "Provisions in other Loan Document survive termination."
+            },
+            {
+              "key": "Miscellaneous",
+              "value": "Headings are for convenience; time is of the essence; severability clause included."
+            },
+            {
+              "key": "Governing Law",
+              "value": "Section 14.19 of Original Loan Agreement is incorporated."
+            },
+            {
+              "key": "Trial by Jury",
+              "value": "Section 14.18 of Original Loan is incorporated."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 99,
+          "title": "Amendments to the Original Loan Agreement",
+          "data": [
+            {
+              "key": "Amendment Execution Date",
+              "value": "November 30, 2022"
+            },
+            {
+              "key": "Excess PIK Interest Reserve Funds",
+              "value": "Defined in Section 2.13(b)"
+            },
+            {
+              "key": "Monthly PIK Interest Reserve Funds Maximum Amount",
+              "value": "Defined in Section 2.13(b)"
+            },
+            {
+              "key": "Quarterly Sales Hurdle",
+              "value": "Defined in Section 2.7(f)"
+            },
+            {
+              "key": "Quarterly Sales Hurdle Shortfall Payment",
+              "value": "Defined in Section 2.7(f)"
+            },
+            {
+              "key": "PIK Interest Balance Trigger Shortfall",
+              "value": "Defined in Section 2.13(b)"
+            },
+            {
+              "key": "PIK Interest Reserve Account",
+              "value": "Defined in Section 2.13(a)"
+            },
+            {
+              "key": "PIK Interest Reserve Funds",
+              "value": "Defined in Section 2.13(a)"
+            },
+            {
+              "key": "Sales Hurdle Period",
+              "value": "From first day of calendar quarter to last day of that quarter, ending March 31, 2023"
+            },
+            {
+              "key": "Sales Hurdle Surplus Amount",
+              "value": "Defined in Section 2.7(f)"
+            },
+            {
+              "key": "Sales Hurdle Threshold Amount",
+              "value": "Defined in Section 2.7(f)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 105,
+          "title": "Amendment to Loan Agreement",
+          "data": [
+            {
+              "key": "Amendment Effective Date",
+              "value": "Not specified"
+            },
+            {
+              "key": "Payments Related to PIK Interest",
+              "value": "Subject to Section 2.13(b), contingent on availability in PIK Interest Reserve Account"
+            },
+            {
+              "key": "Maturity Date Condition",
+              "value": "Payment of the entire amount due under the Loan Documents"
+            },
+            {
+              "key": "Quarterly Sales Hurdle",
+              "value": "Condition for Borrower to satisfy"
+            },
+            {
+              "key": "Exhibit B Changes",
+              "value": "Deleted and replaced with Updated Approved Budget as Exhibit A"
+            },
+            {
+              "key": "Agreement References",
+              "value": "Means the Original Loan Agreement, amended by this Amendment"
+            },
+            {
+              "key": "Modification waiver",
+              "value": "Does not waive any right of Lender, Borrower or Guarantor"
+            },
+            {
+              "key": "Consent to Mezzanine Loan Amendment",
+              "value": "Lender consents to First Amendment to the Mezzanine Loan Agreement"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 106,
+          "title": "Representations and Warranties Details",
+          "data": [
+            {
+              "key": "Outstanding Principal Balances",
+              "value": "Term Loan: $31,501,369.00, Building Loan: $85,008,318.00, Project Loan: $10,012,762.00"
+            },
+            {
+              "key": "Remaining Unadvanced Loan Advances",
+              "value": "$3,000,000.00"
+            },
+            {
+              "key": "Borrower Authorization",
+              "value": "Borrower has necessary power and authority to perform obligations."
+            },
+            {
+              "key": "Binding Obligations",
+              "value": "Amendment constitutes legal and binding obligations."
+            },
+            {
+              "key": "Required Approvals",
+              "value": "No further consents required other than those already obtained."
+            },
+            {
+              "key": "Defenses Against Lender",
+              "value": "No defense, offset, or claims against Lender."
+            },
+            {
+              "key": "Accuracy of Representations",
+              "value": "Representations and warranties are true as of Amendment Execution Date."
+            },
+            {
+              "key": "Formation Documents Status",
+              "value": "All formation documents remain in full force and have not been modified."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 108,
+          "title": "Ratification and Waiver Release",
+          "data": [
+            {
+              "key": "Section",
+              "value": "11"
+            },
+            {
+              "key": "Subject",
+              "value": "Waiver and Release by Borrower and Guarantor"
+            },
+            {
+              "key": "Details",
+              "value": "Release of claims against Lender and associated parties"
+            },
+            {
+              "key": "Implications",
+              "value": "Affects claims related to the Loan and the Amendment execution"
+            },
+            {
+              "key": "Limitations",
+              "value": "Excludes future breaches of obligations or agreements in the Amendment"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 109,
+          "title": "Legal Release Agreement Clause",
+          "data": [
+            {
+              "key": "Introduction",
+              "value": "The Borrower Party Releasors recognize unknown factual matters may lead to causes of action related to the Loan."
+            },
+            {
+              "key": "Release Statement",
+              "value": "Borrower Party Releasors intend to release any unknown claims related to the Loan."
+            },
+            {
+              "key": "Non-Reliance Clause",
+              "value": "Borrower Party Releasors acknowledge no reliance on representations by the Lender."
+            },
+            {
+              "key": "Indemnification Clause",
+              "value": "Borrower Party Releasors agree to protect Lender against claims arising from any prior transfers."
+            },
+            {
+              "key": "Counterparts Clause",
+              "value": "This Amendment can be executed in multiple counterparts."
+            },
+            {
+              "key": "Exculpation Clause",
+              "value": "Section 13.1 of the Original Loan Agreement is incorporated by reference."
+            },
+            {
+              "key": "Survival Clause",
+              "value": "Terms from other Loan Documents survive until obligations are fully paid."
+            },
+            {
+              "key": "Miscellaneous Clauses",
+              "value": "Headings for convenience, time is essential, invalid portions severable."
+            },
+            {
+              "key": "Entire Agreement Clause",
+              "value": "The Loan Documents, as modified, contain the entire agreement of parties."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 110,
+          "title": "Governing Law and Trial by Jury Clauses in Loan Documents",
+          "data": [
+            {
+              "key": "Governing Law Clause",
+              "value": "Section 14.19 of the Original Loan Agreement is hereby incorporated in this Amendment by reference."
+            },
+            {
+              "key": "Trial by Jury Clause",
+              "value": "Section 14.18 of the Original Loan is hereby incorporated in this Amendment by reference."
+            },
+            {
+              "key": "Future References",
+              "value": "Any future reference to the Loan Documents shall include any amendments, renewals or extensions now or hereafter approved by Lender in writing."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 304,
+    "GBP": 2,
+    "AUD": 27,
+    "ZAR": 4,
+    "BRL": 8
+  },
+  "sha1": "e229fc9f5c694e93b02ac312c231607a04e3e528"
+}

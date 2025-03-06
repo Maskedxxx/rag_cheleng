@@ -1,0 +1,4405 @@
+{
+  "letters": 284415,
+  "pages": 93,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "Wheeler Real Estate Investment Trust, Inc.",
+    "major_industry": "Retail",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Corporate Registration and Location Information",
+          "data": [
+            {
+              "key": "Location",
+              "value": "Maryland"
+            },
+            {
+              "key": "Description",
+              "value": "(LR.S. Employer Identification No.)"
+            },
+            {
+              "key": "Type",
+              "value": "State or Other Jurisdiction of incorporation or Organization"
+            },
+            {
+              "key": "Address",
+              "value": "529 Virginia Beach Blvd, Virginia Beach, Virginia"
+            },
+            {
+              "key": "Note",
+              "value": "Principal Executive Offices"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Wheeler Real Estate Investment Trust Securities Listing",
+          "data": [
+            {
+              "key": "Security",
+              "value": "on Stock, $0.01 par value per share"
+            },
+            {
+              "key": "Symbol",
+              "value": "WHLR"
+            },
+            {
+              "key": "Exchange",
+              "value": "Nasdaq Capital Market"
+            },
+            {
+              "key": "Security",
+              "value": "B Convertible Preferred Stock"
+            },
+            {
+              "key": "Symbol",
+              "value": "WHLRP"
+            },
+            {
+              "key": "Exchange",
+              "value": "Nasdaq Capital Market"
+            },
+            {
+              "key": "Security",
+              "value": "D Cumulative Convertible Preferred Stock"
+            },
+            {
+              "key": "Symbol",
+              "value": "WHLRD"
+            },
+            {
+              "key": "Exchange",
+              "value": "Nasdaq Capital Market"
+            },
+            {
+              "key": "Security",
+              "value": "Subordinated Convertible Notes due 2031"
+            },
+            {
+              "key": "Symbol",
+              "value": "WHLRL"
+            },
+            {
+              "key": "Exchange",
+              "value": "Nasdaq Capital Market"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 6,
+          "title": "Part I Item 1. Business. Overview",
+          "data": [
+            {
+              "key": "Corporate Formation",
+              "value": "Wheeler Real Estate Investment Trust, Inc. is a Maryland corporation formed on June 23, 2011."
+            },
+            {
+              "key": "Operating Partnership",
+              "value": "The Trust serves as the general partner of Wheeler REIT, L.P., a Virginia limited partnership formed on April 5, 2012. As of December 31, 2022, 99.05% of the Operating Partnership is owned by the Company."
+            },
+            {
+              "key": "Merger Transaction Details",
+              "value": "On August 22, 2022, the Company completed a merger transaction with Cedar Realty Trust, Inc. In the transaction, all outstanding shares of Cedar’s common stock were acquired, cancelled and converted into the right to receive a cash payment of $9.48 per share. Cedar’s 7.25% Series B Preferred Stock and 6.50% Series C Preferred Stock continue to trade on the NYSE, and Cedar became a subsidiary of the REIT."
+            },
+            {
+              "key": "Business Focus",
+              "value": "The Company is a fully-integrated, self-managed commercial real estate investment company focused on owning, leasing and operating income-producing retail properties, primarily grocery-anchored centers."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 16,
+          "title": "Cedar Acquisition Details",
+          "data": [
+            {
+              "key": "Merger Participants",
+              "value": "WHLR Merger Sub Inc., WHLR OP Merger Sub LLC, Cedar Realty Trust Partnership, L.P."
+            },
+            {
+              "key": "Merger Agreement Date",
+              "value": "Cedar Closing Date"
+            },
+            {
+              "key": "Cash Payment Per Share",
+              "value": "$9.48"
+            },
+            {
+              "key": "Acquired Shares",
+              "value": "All outstanding shares of Cedar’s common stock"
+            },
+            {
+              "key": "Cedar Notes",
+              "value": "7.25% Series B Preferred Stock and 6.50% Series C Preferred Stock remain outstanding and trade on NYSE"
+            },
+            {
+              "key": "Acquired Properties",
+              "value": "19 shopping centers, approximately 2.9 million square feet"
+            },
+            {
+              "key": "Loan Agreement",
+              "value": "KeyBank-Cedar Loan Agreement, $130.00 million"
+            },
+            {
+              "key": "Loan Agreement Due Date",
+              "value": "August 22, 2023"
+            },
+            {
+              "key": "Exchange Offer Date",
+              "value": "November 22, 2022"
+            },
+            {
+              "key": "Outstanding Shares in Exchange Offer",
+              "value": "Up to 2,112,103 shares of Series D Preferred (67% of outstanding)"
+            },
+            {
+              "key": "Exchange Offer Consideration",
+              "value": "6.00% Subordinated Convertible Notes due 2028 and Common Stock"
+            },
+            {
+              "key": "Required Tender Percentage for Exchange Offer",
+              "value": "66 2/3%"
+            },
+            {
+              "key": "Consolidation Status",
+              "value": "Cedar not a variable interest entity; consolidated under voting model."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 19,
+          "title": "Lease Renewal and New Lease Statistics",
+          "data": [
+            {
+              "key": "Leases renewed with rate increase (sq feet)",
+              "value": "676,814"
+            },
+            {
+              "key": "Leases renewed with rate decrease (sq feet)",
+              "value": "62,71"
+            },
+            {
+              "key": "Leases renewed with no rate change (sq feet)",
+              "value": "284,461"
+            },
+            {
+              "key": "Total leases renewed (sq feet)",
+              "value": "1,024,046"
+            },
+            {
+              "key": "Leases renewed with rate increase (count)",
+              "value": "104"
+            },
+            {
+              "key": "Leases renewed with no rate change (count)",
+              "value": "28"
+            },
+            {
+              "key": "Total leases renewed (count)",
+              "value": "143"
+            },
+            {
+              "key": "Option exercised (count)",
+              "value": "18"
+            },
+            {
+              "key": "Weighted average rate (per sq foot)",
+              "value": "$0.78"
+            },
+            {
+              "key": "Weighted average change over prior rates",
+              "value": "8.29%"
+            },
+            {
+              "key": "New leases (sq feet)",
+              "value": "374,149"
+            },
+            {
+              "key": "New leases (count)",
+              "value": "79"
+            },
+            {
+              "key": "GLA expiring during next 12 months",
+              "value": "6.77%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 31,
+          "title": "Internal Control Evaluation & Cedar Acquisition Integration",
+          "data": [
+            {
+              "key": "Assessment Date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Acquisition Event",
+              "value": "Cedar Acquisition completed on August 22, 2022"
+            },
+            {
+              "key": "Framework",
+              "value": "INTERNAL CONTROL-INTEGRATED FRAMEWORK issued by COSO (2013)"
+            },
+            {
+              "key": "Effectiveness",
+              "value": "Internal controls over financial reporting were determined effective as of December 31, 2022"
+            },
+            {
+              "key": "Integration Impact",
+              "value": "Cedar’s operations were integrated into the internal control system without material impact"
+            },
+            {
+              "key": "Limitations",
+              "value": "Even effective systems have inherent limitations and may only provide reasonable assurance"
+            },
+            {
+              "key": "Attestation",
+              "value": "Management’s report was not subject to independent attestation per SEC rules"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 35,
+          "title": "Valuation of Purchase Price Allocation for Acquisition",
+          "data": [
+            {
+              "key": "Acquisition Date",
+              "value": "August 22, 2022"
+            },
+            {
+              "key": "Acquired Entity",
+              "value": "Cedar Realty Trust"
+            },
+            {
+              "key": "Portfolio Details",
+              "value": "2.9 million square foot shopping center portfolio consisting of 19 properties"
+            },
+            {
+              "key": "Transaction Value",
+              "value": "$135.5 million (cash merger consideration and acquisition costs)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 36,
+          "title": "How We Addressed the Matter in Our Audit",
+          "data": [
+            {
+              "key": "Audit Procedure",
+              "value": "Tested the accounting for the purchase price allocation by inspecting purchase and sale agreements and verifying the completeness and accuracy of the data used in the fair value determination."
+            },
+            {
+              "key": "Methodology Evaluation",
+              "value": "Evaluated management’s application of relevant accounting guidance and assessed the reasonableness of the methodology and underlying inputs with the help of valuation specialists."
+            },
+            {
+              "key": "Auditor Signature",
+              "value": "/s/ Cherry Bekaert LLP"
+            },
+            {
+              "key": "Auditor Tenure",
+              "value": "Served as the Company's auditor since 2012."
+            },
+            {
+              "key": "Location and Date",
+              "value": "Virginia Beach, Virginia; March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 41,
+          "title": "Table of Contents & Acquisition of Cedar Realty Trust",
+          "data": [
+            {
+              "key": "Trust Formation",
+              "value": "Wheeler Real Estate Investment Trust, Inc. was formed on June 23, 2011 in Maryland."
+            },
+            {
+              "key": "Operating Partnership Formation",
+              "value": "Wheeler REIT, L.P. was formed on April 5, 2012 in Virginia; as of December 31, 2022, the Trust owned 99.05% of the Operating Partnership."
+            },
+            {
+              "key": "Portfolio Overview",
+              "value": "As of December 31, 2022, the Trust, through the Operating Partnership, owned and operated 75 centers and 4 undeveloped properties with a total gross rentable space of approximately 8,173,000 square feet and a lease level of approximately 92.9%."
+            },
+            {
+              "key": "Merger Agreement Date",
+              "value": "March 2, 2022"
+            },
+            {
+              "key": "Transaction Type",
+              "value": "All-cash merger acquisition"
+            },
+            {
+              "key": "Payment Per Share",
+              "value": "$9.48 per common share for Cedar Realty Trust common shareholders"
+            },
+            {
+              "key": "Merger Completion Date",
+              "value": "August 22, 2022"
+            },
+            {
+              "key": "Acquisition Costs",
+              "value": "$5.51 million of acquisition related costs were capitalized, primarily comprising professional and legal fees"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 47,
+          "title": "Summary of Significant Accounting Policies",
+          "data": [
+            {
+              "key": "Noncontrolling interest of the Operating Partnership",
+              "value": "Calculated by multiplying the noncontrolling interest ownership percentage at the balance sheet date by the Operating Partnership’s net assets."
+            },
+            {
+              "key": "Noncontrolling interest percentage calculation",
+              "value": "Divided the number of units not owned by the Company by the total number of units outstanding."
+            },
+            {
+              "key": "Noncontrolling interest attributable to acquisition of Cedar",
+              "value": "Fair value of Cedar's outstanding 7.25% Series B Preferred Stock and 6.50% Series C Preferred Stock as of August 22, 2022."
+            },
+            {
+              "key": "Total cumulative dividends",
+              "value": "For Cedar Series B Preferred and Cedar Series C Preferred was $3.91 million as of December 31, 2022."
+            },
+            {
+              "key": "Recently Adopted Accounting Standards",
+              "value": "ASU 2020-06 simplifies accounting for convertible instruments."
+            },
+            {
+              "key": "Adoption date of ASU 2020-06",
+              "value": "Effective January 1, 2021 under the modified retrospective adoption approach."
+            },
+            {
+              "key": "FASB ASU 2016-13",
+              "value": "Enhances methodology of measuring expected credit losses by including forward-looking information."
+            },
+            {
+              "key": "Effective date of FASB ASU 2016-13",
+              "value": "Beginning after December 15, 2022; Company early adopting January 1, 2022."
+            },
+            {
+              "key": "Impact of ASU 2018-19",
+              "value": "No material impact on the Company’s consolidated financial statements."
+            },
+            {
+              "key": "Recent Accounting Pronouncements",
+              "value": "Other standards not currently applicable or expected to have significant impact."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 49,
+          "title": "Real Estate Transactions and Cedar Acquisition",
+          "data": [
+            {
+              "key": "Property Sales Table Summary",
+              "value": "The table lists real estate properties sold during 2021 and 2022 (e.g., Butler Square, Walnut Hill Plaza, Columbia Fire Station, etc.) with details on gross values, adjustments, and net values. Some entries contain incomplete data."
+            },
+            {
+              "key": "Acquisition Date",
+              "value": "August 22, 2022"
+            },
+            {
+              "key": "Acquisition Target",
+              "value": "Cedar Portfolio – a 2.9 million square foot shopping center portfolio consisting of 19 properties primarily located in the Northeast from Virginia to Massachusetts"
+            },
+            {
+              "key": "Consideration",
+              "value": "$135.51 million cash merger consideration and acquisition costs"
+            },
+            {
+              "key": "Acquisition Method",
+              "value": "Acquisition achieved through the purchase of Cedar’s common stock and common units of Cedar OP held by non-Cedar shareholders"
+            },
+            {
+              "key": "Valuation Approach",
+              "value": "Purchase price allocation performed in accordance with ASU 2017-01, considering factors such as cash flows, market capitalization rates, location, occupancy rates, appraisals, and comparable acquisitions"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 50,
+          "title": "Purchase Price Allocation Statement",
+          "data": [
+            {
+              "key": "Building and building improvements (a)",
+              "value": "137120"
+            },
+            {
+              "key": "Land and land improvements (a)",
+              "value": "47899"
+            },
+            {
+              "key": "Lease intangibles (b)",
+              "value": "28215"
+            },
+            {
+              "key": "Above market lease (c)",
+              "value": "1718"
+            },
+            {
+              "key": "Right of use asset adjustment, ground lease (d)",
+              "value": "2913"
+            },
+            {
+              "key": "Cash, accounts receivable and other assets",
+              "value": "14242"
+            },
+            {
+              "key": "Total assets acquired",
+              "value": "232107"
+            },
+            {
+              "key": "Below market lease (c)",
+              "value": "null"
+            },
+            {
+              "key": "Lease Liabilities, ground lease (d)",
+              "value": "null"
+            },
+            {
+              "key": "Accounts payable and other liabilities",
+              "value": "null"
+            },
+            {
+              "key": "Total liabilities acquired",
+              "value": "null"
+            },
+            {
+              "key": "Noncontrolling interest (e)",
+              "value": "-64845"
+            },
+            {
+              "key": "Purchase price allocation of net assets acquired, excluding noncontrolling interests",
+              "value": "135510"
+            },
+            {
+              "key": "Purchase consideration: Cash merger consideration",
+              "value": "130000"
+            },
+            {
+              "key": "Capitalized acquisition costs",
+              "value": "5510"
+            },
+            {
+              "key": "Total purchase consideration",
+              "value": "135510"
+            },
+            {
+              "key": "Summary",
+              "value": "This table represents a purchase price allocation statement showing the acquisition of assets and liabilities. The total assets acquired amount to $232,107, with buildings and improvements being the largest component at $137,120. After accounting for noncontrolling interests of ($64,845), the net purchase price is $135,510, funded through cash merger consideration of $130,000 and capitalized acquisition costs of $5,510."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 66,
+          "title": "Notes to Consolidated Financial Statements – Commitments and Contingencies, Tax Protection Agreement, Related Party Transactions, and Subsequent Events",
+          "data": [
+            {
+              "key": "Harbor Pointe Agreement",
+              "value": "Infrastructure development financed by bonds; future total principal obligation capped at $2.04 million as of December 31, 2022; potential interest obligations based on principal balance and LIBOR rates."
+            },
+            {
+              "key": "Debt Service Shortfalls",
+              "value": "Company funded approximately $42K in 2022 and $87K in 2021 in debt service shortfalls with no accrual recorded as of December 31, 2022."
+            },
+            {
+              "key": "Acquisition of Harbor Pointe Associates, LLC",
+              "value": "Harbor Pointe Associates, LLC, formerly owned by an affiliate of former CEO Jon Wheeler, was acquired by the Company in 2014."
+            },
+            {
+              "key": "Tax Protection Agreement",
+              "value": "In 2016, in connection with the acquisition of Berkley, Sangaree and Tri-County, the Operating Partnership entered an agreement to reimburse former CEO Jon Wheeler for tax liabilities triggered by recognition of certain taxable income or gain, with no liability recorded as of December 31, 2022."
+            },
+            {
+              "key": "Related Party Transactions",
+              "value": "Cedar, a subsidiary, paid $1.05 million for property management and leasing services during 2022; related party amounts of $7.33 million, primarily tied to financing costs and other expenses, were eliminated in consolidation."
+            },
+            {
+              "key": "Reimbursement of Proxy Solicitation Expenses",
+              "value": "The Company reimbursed the Stilwell Group for solicitation-related expenses, recording $369K in 2021, with full reimbursement completed by year-end 2021."
+            },
+            {
+              "key": "Subsequent Event – Land Purchase",
+              "value": "On February 21, 2023, the Company purchased a 2.5 acre land parcel in St. George, SC for $160K."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 67,
+          "title": "Wheeler Real Estate Investment Trust, Inc. and Subsidiaries Schedule II-Valuation and Qualifying Accounts December 31, 2022 - Allowance for Doubtful Accounts Movement Schedule",
+          "data": [
+            {
+              "key": "Year Ended December 31, 2022 Beginning Balance",
+              "value": "$4,262,000"
+            },
+            {
+              "key": "Year Ended December 31, 2022 Charged to Costs",
+              "value": "$361,000"
+            },
+            {
+              "key": "Year Ended December 31, 2022 Deductions",
+              "value": "$1,477,000"
+            },
+            {
+              "key": "Year Ended December 31, 2022 Ending Balance",
+              "value": "$3,140,000"
+            },
+            {
+              "key": "Year Ended December 31, 2021 Beginning Balance",
+              "value": "$994,000"
+            },
+            {
+              "key": "Year Ended December 31, 2021 Charged to Costs",
+              "value": "$239,000"
+            },
+            {
+              "key": "Year Ended December 31, 2021 Deductions",
+              "value": "$600,000"
+            },
+            {
+              "key": "Year Ended December 31, 2021 Ending Balance",
+              "value": "$633,000"
+            },
+            {
+              "key": "Cedar Acquisition Purchase Price Allocation for Allowance",
+              "value": "$3.63 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 73,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Item Number",
+              "value": "2.4"
+            },
+            {
+              "key": "Description",
+              "value": "Agreement and Plan of Merger, dated as of March 2, 2022, by and among Wheeler Real Estate Investment Trust, Inc., WHLR Merger Sub Inc., WHLR OP Merger Sub LLC, Cedar Realty Trust, Inc., and Cedar Realty Trust Partnership, L.P.(Filed as an exhibit to Form 8-K, filed on March 7, 2022)."
+            },
+            {
+              "key": "Item Number",
+              "value": "2.2"
+            },
+            {
+              "key": "Description",
+              "value": "First Amendment to Merger Agreement, dated as of April 19, 2022, by and among Wheeler Real Estate Investment Trust, Inc., WHLR Merger Sub Inc. WHLR OP Merger Sub LLC, Cedar Realty Trust, Inc., and Cedar Realty Trust Partnership, L.P. (Filed as an exhibit to Form 10-Q, filed on May 11, 2022)."
+            },
+            {
+              "key": "Item Number",
+              "value": "2.3"
+            },
+            {
+              "key": "Description",
+              "value": "Second Amendment to Merger Agreement, entered into as of August 9, 2022 by and among Wheeler Real Estate Investment Trust, Inc., WHLR Merger Sub Inc., WHLR OP Merger Sub LLC, Cedar Realty Trust, Inc. and Cedar Realty Trust Partnership, L.P. (Filed as an exhibit to Form 8-K, filed on August 25, 2022)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 75,
+          "title": "Consent of Cherry Bekaert LLP",
+          "data": [
+            {
+              "key": "exhibit_number",
+              "value": "31.1"
+            },
+            {
+              "key": "description",
+              "value": "Certification of the Chief Executive Officer of Wheeler Real Estate Investment Trust, Inc. pursuant to Rule 13a-14 of the Securities Exchange Act of 1934, amended, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (Filed herewith)."
+            },
+            {
+              "key": "exhibit_number",
+              "value": "312"
+            },
+            {
+              "key": "description",
+              "value": "Certification of the Chief Financial Officer of Wheeler Real Estate Investment Trust, Inc. pursuant to Rule 13a-14 of the Securities Exchange Act of 1934, amended, adopted to Section 302 of the Sarbanes-Oxley Act of 2002 (Filed herewith)."
+            },
+            {
+              "key": "exhibit_number",
+              "value": "32.1"
+            },
+            {
+              "key": "description",
+              "value": "Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Filed herewith)."
+            },
+            {
+              "key": "exhibit_number",
+              "value": "32.2"
+            },
+            {
+              "key": "description",
+              "value": "Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Filed herewith)."
+            },
+            {
+              "key": "exhibit_number",
+              "value": ")L.INS XBRL"
+            },
+            {
+              "key": "description",
+              "value": "Instance Document (Filed herewith)."
+            },
+            {
+              "key": "exhibit_number",
+              "value": "101.SCH"
+            },
+            {
+              "key": "description",
+              "value": "XBRL Taxonomy Extension Schema Document (Filed herewith)."
+            },
+            {
+              "key": "exhibit_number",
+              "value": "101.CAL"
+            },
+            {
+              "key": "description",
+              "value": "XBRL Taxonomy Extension Calculation Linkbase (Filed herewith),"
+            },
+            {
+              "key": "exhibit_number",
+              "value": "101.DEF"
+            },
+            {
+              "key": "description",
+              "value": "XBRL Taxonomy Extension Definition Linkbase (Filed herewith)."
+            },
+            {
+              "key": "exhibit_number",
+              "value": "101.LAB"
+            },
+            {
+              "key": "description",
+              "value": "XBRL Taxonomy Extension Labels Linkbase (Filed herewith)."
+            },
+            {
+              "key": "exhibit_number",
+              "value": "101.PRE"
+            },
+            {
+              "key": "description",
+              "value": "XBRL Taxonomy Extension Presentation Linkbase (Filed herewith)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 84,
+          "title": "Wheeler Development Subsidiaries",
+          "data": [
+            {
+              "key": "Wheeler Development, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "Wheeler Interests, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "Wheeler Real Estate, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR Management, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "Brook Run Associates, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "Chesapeake Square Associates, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "DF I - Courtland, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "DF I - Moyock II, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "Harbor Point Associates, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "LaGrange Associates, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "Lumber River Associates, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "Northpointe Investors, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "PCSC Associates, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "Perimeter Associates, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "Riversedge Office Associates, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "Tuckernuck Associates, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "Walnut Hill Plaza Associates, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WD III Associates, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Alex City Marketplace, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Beaver Ruin Village II, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Beaver Ruin Village, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Brook Run Property, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Bryan Station LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Butler Square, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Cardinal Plaza, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Carolina Place, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Clover LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Conyers Crossing, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Crockett Square, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Cypress LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Darien, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Devine Street, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Folly Road Crossing, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Ft. Howard Square, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Franklinton Square, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Freeway Junction LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Georgetown, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Grove Park, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Harrodsburg Marketplace LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Ladson Crossing, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Lake Greenwood Crossing, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Lake Murray, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Litchfield Market Village, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Moncks Corner, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Mullins South Park, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Nashville Commons, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Parkway Plaza, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Pierpont Center, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Ridgeland, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Shoppes at Myrtle Park, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - South Lake Pointe, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - South Square LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - St. George LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Sunshine Shopping Plaza, LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Waterway LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Westland LLC",
+              "value": "Subsidiary"
+            },
+            {
+              "key": "WHLR - Winslow LLC",
+              "value": "Subsidiary"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 7,
+          "title": "Leadership and Executive Appointment Details",
+          "data": [
+            {
+              "key": "Mr. Franklin Experience",
+              "value": "Mr. Franklin is responsible for overseeing property management, lease administration, and leasing divisions for the commercial assets portfolio. Previously, he was a partner at Broad Reach Retail Partners managing day-to-day operations, including asset, property and construction management for a portfolio totaling $50 million. He holds a Bachelor of Science in Finance from the University of Maryland."
+            },
+            {
+              "key": "Crystal Plum Appointment",
+              "value": "Crystal Plum, age 41, was appointed as Chief Financial Officer (CFO) in February 2020. Prior to her current role, she served as Vice President of Financial Reporting and Corporate Accounting (March 2018 - February 2020) and as Director of Financial Reporting (September 2016 - March 2018). She also held managerial roles at Dixon Hughes Goodman LLP, and is a Certified Public Accountant with a Bachelor of Science degree in Business Administration - Accounting and Finance from Old Dominion University."
+            },
+            {
+              "key": "Employee Count",
+              "value": "As of December 31, 2022, the company has 47 full-time employees."
+            },
+            {
+              "key": "Employee Benefits",
+              "value": "The company offers competitive wage and benefit programs, including medical insurance, wellness programs, short and long term disability insurance, basic life insurance with accidental death and dismemberment, employee assistance programs, gym memberships, volunteer time off, and tuition assistance (including language learning opportunities)."
+            },
+            {
+              "key": "Business Objectives and Investment Strategy",
+              "value": "The company aims to provide attractive risk-adjusted returns to its stockholders with strategies focusing on necessity-based retail, secondary/tertiary markets, optimized lease management (including triple net lease arrangements), and targeted capital investments in retail properties."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 76,
+          "title": "Signatures",
+          "data": [
+            {
+              "key": "Signature",
+              "value": "/S/M. ANDREW FRANKLIN"
+            },
+            {
+              "key": "Title",
+              "value": "CEO and President"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "M. Andrew Franklin (Principal Executive Officer)"
+            },
+            {
+              "key": "Title",
+              "value": ""
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Signature",
+              "value": "/S/ CRYSTAL PLUM"
+            },
+            {
+              "key": "Title",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "Crystal Plum"
+            },
+            {
+              "key": "Title",
+              "value": "(Principal Financial Officer and Principal Accounting Officer)"
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Signature",
+              "value": "/S/ STEFANI D. CARTER,"
+            },
+            {
+              "key": "Title",
+              "value": "Chair of Board"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "Stefani D. Carter"
+            },
+            {
+              "key": "Title",
+              "value": ""
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Signature",
+              "value": "fS/ SAVERIO M FLEMMA"
+            },
+            {
+              "key": "Title",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "Saverio M Flemma"
+            },
+            {
+              "key": "Title",
+              "value": ""
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Signature",
+              "value": "/S/ MICHELLE D. BERGMAN"
+            },
+            {
+              "key": "Title",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "Michelle D. Bergman"
+            },
+            {
+              "key": "Title",
+              "value": ""
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Signature",
+              "value": "/S/ JOSEPH D. STILWELL"
+            },
+            {
+              "key": "Title",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            },
+            {
+              "key": "Signature",
+              "value": "Joseph D. Stilwell"
+            },
+            {
+              "key": "Title",
+              "value": ""
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Signature",
+              "value": "/S/ MEGAN PARISI"
+            },
+            {
+              "key": "Title",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 77,
+          "title": "Leadership Change Announcement",
+          "data": [
+            {
+              "key": "Current Leadership",
+              "value": "Kerry G. Campbell, Director"
+            },
+            {
+              "key": "Current Leadership",
+              "value": "E.J. Borrack, Director"
+            },
+            {
+              "key": "Announcement Date",
+              "value": "March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 87,
+          "title": "CERTIFICATION OF CHIEF EXECUTIVE OFFICER",
+          "data": [
+            {
+              "key": "CEO Name",
+              "value": "M. Andrew Franklin"
+            },
+            {
+              "key": "Certification Date",
+              "value": "N/A"
+            },
+            {
+              "key": "Report Type",
+              "value": "Form 10-K"
+            },
+            {
+              "key": "Company",
+              "value": "Wheeler Real Estate Investment Trust, Inc."
+            },
+            {
+              "key": "Disclosure Controls",
+              "value": "Established and maintained internal controls over financial reporting."
+            },
+            {
+              "key": "Evaluation of Controls",
+              "value": "Evaluated effectiveness of disclosure controls."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 88,
+          "title": "Leadership Change Announcement",
+          "data": [
+            {
+              "key": "date",
+              "value": "March 2, 2023"
+            },
+            {
+              "key": "name",
+              "value": "M. Andrew Franklin"
+            },
+            {
+              "key": "position",
+              "value": "Chief Executive Officer"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 90,
+          "title": "Chief Financial Officer Update",
+          "data": [
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "Crystal Plum"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Financial Officer"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 91,
+          "title": "Certification of Chief Executive Officer",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Wheeler Real Estate Investment Trust, Inc."
+            },
+            {
+              "key": "CEO",
+              "value": "M. Andrew Franklin"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            },
+            {
+              "key": "Compliance Statement",
+              "value": "The Annual Report on Form 10-K fully complies with the Securities Exchange Act of 1934."
+            },
+            {
+              "key": "Financial Statement Representation",
+              "value": "The information in the Report fairly presents the financial condition and results of operations."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 2,
+          "title": "Filing Classification & Disclosure Details",
+          "data": [
+            {
+              "key": "Filer Classification Table",
+              "value": "Matrix detailing classifications such as Large Accelerated Filer, Non-accelerated Filer, Smaller Reporting Company, and Emerging Growth Company with noted text extraction artifacts."
+            },
+            {
+              "key": "Extended Transition Period Election",
+              "value": "Registrant's indication on whether to use the extended transition period for new/revised financial accounting standards per Section 13(a) of the Exchange Act."
+            },
+            {
+              "key": "Management’s Internal Control Attestation",
+              "value": "Registrant's filing of a report and attestation regarding the effectiveness of internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act."
+            },
+            {
+              "key": "Error Correction Recovery Analysis",
+              "value": "Checkbox for indicating if error corrections are restatements that required a recovery analysis of incentive-based compensation received by executive officers."
+            },
+            {
+              "key": "Shell Company Status",
+              "value": "Registrant’s checkbox response regarding whether it is a shell company as defined in Rule 12b-2 of the Exchange Act."
+            },
+            {
+              "key": "Market Value of Common Stock",
+              "value": "Non-affiliate market value of Common Stock reported as $21,457,917 as of June 30, 2022."
+            },
+            {
+              "key": "Shares Outstanding",
+              "value": "9,793,957 shares of Common Stock outstanding as of February 28, 2023."
+            },
+            {
+              "key": "Incorporation by Reference",
+              "value": "Portions of the registrant’s Proxy Statement for its 2023 Meeting are incorporated by reference into Part III of the Annual Report."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 32,
+          "title": "Item 11. Executive Compensation & Equity Compensation Plans Summary",
+          "data": [
+            {
+              "key": "Executive Compensation Reference",
+              "value": "The detailed executive compensation information is incorporated by reference in the Proxy Statement."
+            },
+            {
+              "key": "Equity Compensation Plans - Approved by Stockholders",
+              "value": "15,000 securities to be issued upon exercise of outstanding options, warrants and rights; 153.81 securities remaining available for future issuance."
+            },
+            {
+              "key": "Equity Compensation Plans - Not Approved",
+              "value": "No securities data provided for plans not approved by stockholders."
+            },
+            {
+              "key": "Weighted-Average Exercise Price",
+              "value": "Data incomplete or missing (displayed as 'a')."
+            },
+            {
+              "key": "Table Summary",
+              "value": "The table summarizes equity compensation plans details as of December 31, 2022. Note: There appears to be a discrepancy regarding the available securities (153.81 vs 153,811 later in the text)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 32,
+          "title": "Report of Independent Registered Public Accounting Firm",
+          "data": [
+            {
+              "key": "Consolidated Balance Sheets",
+              "value": ""
+            },
+            {
+              "key": "Consolidated Statements of Operations",
+              "value": ""
+            },
+            {
+              "key": "Consolidated Statements of Equity",
+              "value": ""
+            },
+            {
+              "key": "Consolidated Statements of Cash Flows",
+              "value": ""
+            },
+            {
+              "key": "Table Summary",
+              "value": "This table lists the financial statements included in the auditor's report as part of the Annual Report on Form 10-K."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 81,
+          "title": "Indenture and Notes terms",
+          "data": [
+            {
+              "key": "Interest Payment",
+              "value": "Interest or premium shall be payable on demand in the form provided in Article Fourteen the Indenture."
+            },
+            {
+              "key": "Denominations",
+              "value": "Notes issued in denominations of $25."
+            },
+            {
+              "key": "Repayment Options",
+              "value": "Holders will not have the option to have the Notes repaid prior to the stated maturity date."
+            },
+            {
+              "key": "Covenants",
+              "value": "Standard covenants regarding payment of principal and interest, maintaining an office for payments, and related matters."
+            },
+            {
+              "key": "Trustee",
+              "value": "Wilmington Savings Fund Society, FSB, acts as Trustee."
+            },
+            {
+              "key": "Duties of Trustee",
+              "value": "Trustee will perform duties specific in the Indenture and will not exercise rights unless holders provide sufficient indemnity."
+            },
+            {
+              "key": "Optional Redemption",
+              "value": "Company may redeem the Notes at a price equal to 100% of the principal plus accrued interest after January 1, 2024."
+            },
+            {
+              "key": "Redemption Price Payment Options",
+              "value": "Cash, shares of Common Stock, or a combination."
+            },
+            {
+              "key": "Conversion upon Change of Control",
+              "value": "Each Note converts into shares of Common Stock based on the principal amount divided by a specified value."
+            },
+            {
+              "key": "Maturity Date Payment Options",
+              "value": "Principal may be paid in cash, shares of Common Stock, or a combination."
+            },
+            {
+              "key": "Conversion Price",
+              "value": "Convertible at $6.25 per share, with adjustments based on preferred stock redemption conditions."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 85,
+          "title": "List of WHLR entities",
+          "data": [
+            {
+              "key": "WHLR - Forrest Gallery, LLC",
+              "value": ""
+            },
+            {
+              "key": "Jenks Plaza Associates, LLC",
+              "value": ""
+            },
+            {
+              "key": "Surrey Plaza Associates, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - Tampa Festival, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - Twin City Associates, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - Graystone Crossing LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - Sangaree Associates, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - TriCounty Associates, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - LaGrange, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - Riverbridge Shopping Center, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - Rivergate, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - Franklin Village, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - Laburnum Square, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - Village of Martinsville, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - New Market Crossing, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - JANAF, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - JANAF BRAVO, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - JANAF BJ’s, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR - JANAF OFFICE, LLC",
+              "value": ""
+            },
+            {
+              "key": "WHLR – Pierpont Center, LLC",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 89,
+          "title": "Certification of Chief Financial Officer",
+          "data": [
+            {
+              "key": "CEO",
+              "value": "Crystal Plum"
+            },
+            {
+              "key": "Compliance Statement",
+              "value": "Reviewed annual report on Form 10-K; no untrue statements or omissions."
+            },
+            {
+              "key": "Financial Fairness",
+              "value": "Financial statements fairly present the financial condition and operations."
+            },
+            {
+              "key": "Controls Responsibility",
+              "value": "Responsible for establishing and maintaining disclosure controls and procedures."
+            },
+            {
+              "key": "Internal Control Assessment",
+              "value": "Evaluated effectiveness of disclosure controls and internal control over financial reporting."
+            },
+            {
+              "key": "Recent Changes in Internal Control",
+              "value": "Disclosed any changes in internal controls that materially affect reporting."
+            },
+            {
+              "key": "Audit Communication",
+              "value": "Disclosed significant deficiencies and material weaknesses in internal control."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 42,
+          "title": "Table of Contents Wheeler Real Estate Investment Trust, Inc. and Subsidiaries - Notes to Consolidated and Combined Financial Statements",
+          "data": [
+            {
+              "key": "Organization and Basis of Presentation",
+              "value": "The document includes a continuation of the note on consolidation, indicating that control is determined if the company has greater than 50% of the voting rights directly or indirectly."
+            },
+            {
+              "key": "Investment Properties",
+              "value": "The Company records investment properties and related intangibles at fair value upon acquisition, capitalizing improvements and major repairs that extend useful life, increase capacity or improve efficiency."
+            },
+            {
+              "key": "Cost Allocation and Valuation",
+              "value": "The purchase price of acquisitions is allocated to various components such as buildings, land, and intangible assets with fair value determined by observable or unobservable inputs; third party valuation specialists may be utilized."
+            },
+            {
+              "key": "Depreciation and Amortization",
+              "value": "Buildings and improvements are depreciated using the straight-line method over an estimated 5 to 40 years while tenant improvements and lease intangibles are amortized over the term of related leases."
+            },
+            {
+              "key": "Impairment Testing",
+              "value": "Investment properties are reviewed for impairment when events suggest that carrying values may not be recoverable; impairment is measured when estimated undiscounted future operating income plus residual value is less than the carrying value."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 68,
+          "title": "Property Cost and Improvements Analysis",
+          "data": [
+            {
+              "key": "Amscot Building",
+              "value": "Initial Land Cost: 0; Initial Building Cost: 462; Improvements: 31; Final Land Value: 0; Final Building Value: 493; Total Value: 493"
+            },
+            {
+              "key": "Tampa Festival",
+              "value": "Initial Land Cost: 4653; Initial Building Cost: 6691; Improvements: 1144; Final Land Value: 4695; Final Building Value: 7793; Total Value: 12488"
+            },
+            {
+              "key": "Brook Run Shopping Center",
+              "value": "Initial Land Cost: 2209; Initial Building Cost: 12919; Improvements: 326; Final Land Value: 2377; Final Building Value: 13077; Total Value: 15454"
+            },
+            {
+              "key": "Summary",
+              "value": "This table provides a detailed breakdown of property costs and improvements for various commercial properties. Values are presented in thousands of dollars, reflecting initial costs, improvements, and final carrying values. It also notes 'Costs Capitalized' as 64."
+            },
+            {
+              "key": "Costs Capitalized",
+              "value": "64"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 69,
+          "title": "Property Cost and Carrying Value Analysis",
+          "data": [
+            {
+              "key": "Property Name",
+              "value": "Ladson Crossing"
+            },
+            {
+              "key": "Initial Land Cost (in thousands)",
+              "value": "2,981"
+            },
+            {
+              "key": "Initial Building Cost (in thousands)",
+              "value": "3,920"
+            },
+            {
+              "key": "Improvements (in thousands)",
+              "value": "206"
+            },
+            {
+              "key": "Final Land Value (in thousands)",
+              "value": "3,146"
+            },
+            {
+              "key": "Final Building Value (in thousands)",
+              "value": "3,961"
+            },
+            {
+              "key": "Total Cost (in thousands)",
+              "value": "7,107"
+            },
+            {
+              "key": "Property Name",
+              "value": "Lake Greenwood Crossing"
+            },
+            {
+              "key": "Initial Land Cost (in thousands)",
+              "value": "550"
+            },
+            {
+              "key": "Initial Building Cost (in thousands)",
+              "value": "2,499"
+            },
+            {
+              "key": "Improvements (in thousands)",
+              "value": "17"
+            },
+            {
+              "key": "Final Land Value (in thousands)",
+              "value": "550"
+            },
+            {
+              "key": "Final Building Value (in thousands)",
+              "value": "2,516"
+            },
+            {
+              "key": "Total Cost (in thousands)",
+              "value": "3,066"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 70,
+          "title": "Property Details and Depreciation Summary",
+          "data": [
+            {
+              "key": "Property Name",
+              "value": "Amscot Building"
+            },
+            {
+              "key": "Accumulated Depreciation",
+              "value": "264"
+            },
+            {
+              "key": "Date of Construction",
+              "value": "5/15/2004"
+            },
+            {
+              "key": "Term",
+              "value": "5-40 years"
+            },
+            {
+              "key": "Property Name",
+              "value": "Lumber River Village"
+            },
+            {
+              "key": "Accumulated Depreciation",
+              "value": "1415"
+            },
+            {
+              "key": "Date Acquired",
+              "value": "11/16/2012"
+            },
+            {
+              "key": "Term",
+              "value": "5-40 years"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 71,
+          "title": "Property Asset and Depreciation Schedule",
+          "data": [
+            {
+              "key": "Property Name",
+              "value": "Folly Road"
+            },
+            {
+              "key": "Depreciation",
+              "value": "851"
+            },
+            {
+              "key": "Date of Acquisition",
+              "value": "4/12/2016"
+            },
+            {
+              "key": "Term",
+              "value": "5-40 years"
+            },
+            {
+              "key": "Property Name",
+              "value": "Georgetown Ladson"
+            },
+            {
+              "key": "Depreciation",
+              "value": "715"
+            },
+            {
+              "key": "Date of Acquisition",
+              "value": "4/12/2016"
+            },
+            {
+              "key": "Term",
+              "value": "5-40 years"
+            },
+            {
+              "key": "Property Name",
+              "value": "Rivergate Shopping Center"
+            },
+            {
+              "key": "Encumbrances",
+              "value": "18003"
+            },
+            {
+              "key": "Depreciation",
+              "value": "5121"
+            },
+            {
+              "key": "Date of Acquisition",
+              "value": "12/21/2016"
+            },
+            {
+              "key": "Term",
+              "value": "5-40 years"
+            },
+            {
+              "key": "Property Name",
+              "value": "JANAF Shopping Center"
+            },
+            {
+              "key": "Encumbrances",
+              "value": "60000"
+            },
+            {
+              "key": "Depreciation",
+              "value": "9685"
+            },
+            {
+              "key": "Date of Acquisition",
+              "value": "1/18/2018"
+            },
+            {
+              "key": "Term",
+              "value": "5-40 years"
+            },
+            {
+              "key": "Property Name",
+              "value": "WHLR Totals"
+            },
+            {
+              "key": "Depreciation Total",
+              "value": "75492"
+            },
+            {
+              "key": "Encumbrances",
+              "value": ""
+            },
+            {
+              "key": "Date of Acquisition",
+              "value": ""
+            },
+            {
+              "key": "Term",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 72,
+          "title": "CDR and Property Mortgage Notes Summary",
+          "data": [
+            {
+              "key": "CDR Totals",
+              "value": "2,252"
+            },
+            {
+              "key": "Combined Totals",
+              "value": "71,744"
+            },
+            {
+              "key": "Note 1",
+              "value": "Properti secure a $6.1 million mortgage note"
+            },
+            {
+              "key": "Note 2",
+              "value": "Properties ecure a $9.4 million mortgage note"
+            },
+            {
+              "key": "Note 3",
+              "value": "Properti ecure a $75.0 million mortgage note"
+            },
+            {
+              "key": "Note 4",
+              "value": "Properti ecure a $110.0 million mortgage note"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 10,
+          "title": "Commercial Property Portfolio Overview",
+          "data": [
+            {
+              "key": "Total Properties Owned",
+              "value": "79"
+            },
+            {
+              "key": "Income Producing Properties",
+              "value": "75"
+            },
+            {
+              "key": "Undeveloped Land Parcels",
+              "value": "4"
+            },
+            {
+              "key": "Gross Leasable Square Feet",
+              "value": "8,173,000"
+            },
+            {
+              "key": "Portfolio Locations",
+              "value": "South Carolina, Georgia, Virginia, Pennsylvania, North Carolina, Massachusetts, New Jersey, Florida, Connecticut, Kentucky, Tennessee, Alabama, Maryland, West Virginia, Oklahoma"
+            },
+            {
+              "key": "Table Summary",
+              "value": "The table presents detailed commercial real estate metrics for properties, including leasable square footage, number of tenants, occupancy and lease percentages, total occupied square feet, annualized base rent, and base rent per square foot. Notable entries include Marketplace Building Beaver, Village Beaver, and JANAF, which is the largest property by leasable square footage and annualized base rent."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 11,
+          "title": "Данные для анализа",
+          "data": [
+            {
+              "key": "анализ",
+              "value": "7"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 12,
+          "title": "Property Portfolio Analysis",
+          "data": [
+            {
+              "key": "Property",
+              "value": "Port Crossing"
+            },
+            {
+              "key": "Location",
+              "value": "Harrisonburg, VA"
+            },
+            {
+              "key": "Number_of_Tenants",
+              "value": "7"
+            },
+            {
+              "key": "Total_Leasable_Square_Feet",
+              "value": "65365"
+            },
+            {
+              "key": "Percentage_Leased",
+              "value": "95.9%"
+            },
+            {
+              "key": "Percentage_Occupied",
+              "value": "95.9%"
+            },
+            {
+              "key": "Base_Total_SF_Occupied",
+              "value": "62715"
+            },
+            {
+              "key": "Annualized_Rent",
+              "value": "313"
+            },
+            {
+              "key": "Annualized_Base_Foot",
+              "value": "12.97"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents detailed property information for retail/commercial properties managed by two entities: WHLR and CDR. The data includes property locations, occupancy rates, tenant counts, and financial metrics. Key findings include high lease and occupancy rates, aggregated square footage details, and annualized base rent values."
+            },
+            {
+              "key": "Combined_Total",
+              "value": "1,006 properties; 8,172,527 total square feet; 92.9% lease rate; 90.4% occupancy; 7,384,871 square feet occupied; Annualized metric of $73,240; additional notes on lease execution and adjustments."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 13,
+          "title": "Major Tenants, Lease Expirations & Property Management Strategy",
+          "data": [
+            {
+              "key": "Major Tenants Summary",
+              "value": "The table presents the top ten largest tenants in the operating portfolio as of December 31, 2022. Food Lion is the largest tenant with an annualized base rent of approximately $4.4M and 549,000 sqft occupied. Other key tenants include Kroger Co, Dollar Tree, Piggly Wiggly, and Planet Fitness, among others. Total annualized base rent across these tenants is about $17M, representing 23.19% of the portfolio with an average rent per sqft of $7.64."
+            },
+            {
+              "key": "Lease Expiration Schedule Summary",
+              "value": "The lease expiration schedule table outlines lease expirations by period from 'Available' through 2032 and thereafter. The portfolio comprises 1,006 leases covering 8.17 million sqft with total annualized base rent of $73.24M. Notably, 2025 shows the highest occupied square footage at 14.71% and annualized base rent of approximately $11.8M, with near-term expirations in 2023 and 2024 representing around 17% of the total square footage."
+            },
+            {
+              "key": "Property Management and Leasing Strategy",
+              "value": "The document states that property management and leasing activities are self-administered, covering leasing, legal, acquisitions, development, data processing, finance, and accounting functions along with on-site management."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 20,
+          "title": "Critical Accounting Estimates and Policies",
+          "data": [
+            {
+              "key": "Revenue Recognition",
+              "value": "Principal components of total revenues include base and percentage rents."
+            },
+            {
+              "key": "Tenant Receivables",
+              "value": "Amount due from tenants for base rents, tenant reimbursements, and other charges."
+            },
+            {
+              "key": "Impairment of Long-Lived Assets",
+              "value": "Review investment properties for impairment and estimate fair value."
+            },
+            {
+              "key": "Lease Intangibles",
+              "value": "Allocation of purchase price to land, building, and identifiable intangible assets."
+            },
+            {
+              "key": "Fair Value Estimates",
+              "value": "Based on cash flow projections and cost estimates."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 21,
+          "title": "Cash Flow Activities Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Operating Activities",
+              "value": "Our cash flows from operating activities were $30.76 million and $17.04 million during the year ended December 31, 2022 and 2021, representing an increase of 80.49% or $13.72 million."
+            },
+            {
+              "key": "Investing Activities",
+              "value": "Our cash flows used in investing activities were $133.51 million during the year ended December 31, 2022, compared to cash flows from investing activities of $5.10 million during the year ended December 31, 2021, representing a decrease of (2,717.37)% or $138.61 million."
+            },
+            {
+              "key": "Financing Activities",
+              "value": "Our cash flows from financing activities were $118.20 million during the year ended December 31, 2022, compared to cash flows used in financing activities of $24.49 million for the year ended December 31, 2021, respectively, representing an increase of 582.63% or $142.69 million."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 25,
+          "title": "Financial and Property Data Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Period",
+              "value": "Year Ended December 31, 2022 vs Year Ended December 31, 2021"
+            },
+            {
+              "key": "Acquisition Note",
+              "value": "Cedar Acquisition on August 22, 2022; combined operations reflected for future periods"
+            },
+            {
+              "key": "Total Revenue 2022 (in thousands USD)",
+              "value": "76645"
+            },
+            {
+              "key": "Total Revenue 2021 (in thousands USD)",
+              "value": "61310"
+            },
+            {
+              "key": "Revenue Increase",
+              "value": "25.01%"
+            },
+            {
+              "key": "Rental Revenues 2022 (in thousands USD)",
+              "value": "75195"
+            },
+            {
+              "key": "Rental Revenues 2021 (in thousands USD)",
+              "value": "60368"
+            },
+            {
+              "key": "Rental Revenues Increase (in thousands USD)",
+              "value": "14827"
+            },
+            {
+              "key": "Operating Income 2022 (in thousands USD)",
+              "value": "24598"
+            },
+            {
+              "key": "Operating Income 2021 (in thousands USD)",
+              "value": "19510"
+            },
+            {
+              "key": "Operating Income Increase (in thousands USD)",
+              "value": "5088"
+            },
+            {
+              "key": "Net Loss 2022 (in thousands USD)",
+              "value": "-8470"
+            },
+            {
+              "key": "Net Loss 2021 (in thousands USD)",
+              "value": "-9351"
+            },
+            {
+              "key": "Net Loss Change (in thousands USD)",
+              "value": "881"
+            },
+            {
+              "key": "Net Loss Attributable to Wheeler REIT 2022 (in thousands USD)",
+              "value": "-12454"
+            },
+            {
+              "key": "Net Loss Attributable to Wheeler REIT 2021 (in thousands USD)",
+              "value": "-9443"
+            },
+            {
+              "key": "Net Loss Attributable Change",
+              "value": "-3011 (a 31.89% worsening)"
+            },
+            {
+              "key": "Property Portfolio 2022",
+              "value": "75 properties owned and leased"
+            },
+            {
+              "key": "Property Portfolio 2021",
+              "value": "58 properties owned and leased"
+            },
+            {
+              "key": "Property Portfolio Change",
+              "value": "29.31% increase (17 properties)"
+            },
+            {
+              "key": "Aggregate Gross Leasable Area 2022",
+              "value": "8172527"
+            },
+            {
+              "key": "Aggregate Gross Leasable Area 2021",
+              "value": "5478855"
+            },
+            {
+              "key": "Aggregate Gross Leasable Area Change",
+              "value": "49.16% increase (2693672)"
+            },
+            {
+              "key": "Additional Note",
+              "value": "Excludes undeveloped land parcels; includes assets held for sale"
+            },
+            {
+              "key": "Summary",
+              "value": "The company showed growth in operational metrics, with increases in total revenue, rental revenues, operating income, and property portfolio metrics, but experienced a worsening in net loss attributable to Wheeler REIT."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 26,
+          "title": "Detailed Financial Performance Metrics – Operating Expenses, Interest Expense, and Other Income/Expense",
+          "data": [
+            {
+              "key": "Total operating expenses (2022)",
+              "value": "$54.65 million"
+            },
+            {
+              "key": "Total operating expenses (2021)",
+              "value": "$43.86 million"
+            },
+            {
+              "key": "Operating expenses increase percentage",
+              "value": "24.62%"
+            },
+            {
+              "key": "Primary driver for operating expense increase",
+              "value": "Cedar Acquisition"
+            },
+            {
+              "key": "Impairment of assets held for sale (2022)",
+              "value": "$760 thousand"
+            },
+            {
+              "key": "Impairment of assets held for sale (2021)",
+              "value": "$2.30 million"
+            },
+            {
+              "key": "Depreciation and amortization increase",
+              "value": "32.05% (primarily due to Cedar Acquisition)"
+            },
+            {
+              "key": "Corporate General & Administrative Expenses (2022)",
+              "value": "$8.62 million"
+            },
+            {
+              "key": "Corporate General & Administrative Expenses (2021)",
+              "value": "$7.14 million"
+            },
+            {
+              "key": "Corporate G&A increase percentage",
+              "value": "20.73%"
+            },
+            {
+              "key": "Key components driving Corporate G&A expense change",
+              "value": "Increase in compensation and benefits (+$811K), professional fees (+$694K due to Cedar preferred litigation), advertising costs (+$200K), corporate administration (+$130K), partially offset by decrease in other expenses (-$355K)"
+            },
+            {
+              "key": "Net gain on disposal of properties",
+              "value": "$549 thousand increase (2022 vs 2021)"
+            },
+            {
+              "key": "Interest Expense (2022)",
+              "value": "$30.11 million"
+            },
+            {
+              "key": "Interest Expense (2021)",
+              "value": "$33.03 million"
+            },
+            {
+              "key": "Total Interest Expense change percentage",
+              "value": "-8.84%"
+            },
+            {
+              "key": "Breakdown - Property debt interest (excluding Cedar debt) (2022)",
+              "value": "14,717 thousand"
+            },
+            {
+              "key": "Breakdown - Property debt interest (excluding Cedar debt) (2021)",
+              "value": "14,611 thousand"
+            },
+            {
+              "key": "Breakdown - Convertible Notes interest (2022)",
+              "value": "3,739 thousand"
+            },
+            {
+              "key": "Breakdown - Convertible Notes interest (2021)",
+              "value": "1,610 thousand"
+            },
+            {
+              "key": "Breakdown - Defeasance paid (2022)",
+              "value": "2,614 thousand"
+            },
+            {
+              "key": "Breakdown - Defeasance paid (2021)",
+              "value": "687 thousand"
+            },
+            {
+              "key": "Breakdown - Amortization of deferred financing costs (2022)",
+              "value": "6,098 thousand"
+            },
+            {
+              "key": "Breakdown - Amortization of deferred financing costs (2021)",
+              "value": "12,710 thousand"
+            },
+            {
+              "key": "Breakdown - Interest on corporate debt (2022)",
+              "value": "$0"
+            },
+            {
+              "key": "Breakdown - Interest on corporate debt (2021)",
+              "value": "3,410 thousand"
+            },
+            {
+              "key": "Breakdown - Property debt interest (Cedar) (2022)",
+              "value": "2,939 thousand"
+            },
+            {
+              "key": "Net change in fair value of derivative liabilities",
+              "value": "2022: loss of $2.34 million; 2021: gain of $3.77 million (non-cash adjustment)"
+            },
+            {
+              "key": "Other Income",
+              "value": "2022: $0; 2021: $552 thousand (from PPP Promissory Note forgiveness)"
+            },
+            {
+              "key": "Other Expense",
+              "value": "2022: $691 thousand; 2021: $185 thousand"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 28,
+          "title": "Financial Performance Comparison 2022 vs 2021",
+          "data": [
+            {
+              "key": "Net (Loss) Income",
+              "value": "Net loss improved from -$9.3M in 2021 to -$8.4M in 2022"
+            },
+            {
+              "key": "Property Net Operating Income",
+              "value": "Increased from $41.67M in 2021 to $48.81M in 2022, a 17.14% growth attributed to the Cedar Acquisition"
+            },
+            {
+              "key": "Property Revenues",
+              "value": "Total property revenues increased from $61.2M in 2021 to $74.5M in 2022, a growth of 4.29% in same-store revenue"
+            },
+            {
+              "key": "Property Expenses",
+              "value": "Increased from $18.96M in 2021 to $20.28M in 2022, a growth of 6.98% due to increases in insurance and maintenance expenses"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 29,
+          "title": "Net Loss and Financial Performance Metrics Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Depreciation and Amortization of Real Estate Assets",
+              "value": "32.05% YoY increase; 2022 total of 19,540 compared to 14,797 in 2021"
+            },
+            {
+              "key": "Impairment of Assets Held for Sale",
+              "value": "-66.96% YoY change; 2022 value of 760 versus 2300 in 2021"
+            },
+            {
+              "key": "Gain on Disposal of Properties",
+              "value": "-26.72% YoY change; negative values in both years with a further decline in 2022"
+            },
+            {
+              "key": "FFO (Funds From Operations)",
+              "value": "62.12% YoY increase; total FFO increased from 5,691 in 2021 to 9,226 in 2022, driven by same-store performance"
+            },
+            {
+              "key": "AFFO (Adjusted FFO)",
+              "value": "Management adjusts FFO by excluding non-recurring and non-cash items such as legal settlements, share-based compensation, amortization on loans, and acquisition costs to provide a clearer view of operating performance"
+            },
+            {
+              "key": "Comparative Tables",
+              "value": "Two tables provided: one comparing same-store and non-same-store FFO metrics for 2021 and 2022; a second table reconciling FFO adjustments for 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 30,
+          "title": "Other Non-Recurring and Non-Cash Expenses Disclosure",
+          "data": [
+            {
+              "key": "Other nonrecurring expenses 2022",
+              "value": "$3.07 million"
+            },
+            {
+              "key": "Loan defeasance payments (2022)",
+              "value": "$2.61 million"
+            },
+            {
+              "key": "Legal settlement costs (2022)",
+              "value": "$691 thousand"
+            },
+            {
+              "key": "Severance offset with nonrecurring revenue (2022)",
+              "value": "$353 thousand"
+            },
+            {
+              "key": "Other nonrecurring expenses 2021",
+              "value": "$352 thousand"
+            },
+            {
+              "key": "Legal settlement costs (2021)",
+              "value": "$185 thousand"
+            },
+            {
+              "key": "Loan prepayment penalty on Berkley Shopping Center sale (2021)",
+              "value": "$687 thousand"
+            },
+            {
+              "key": "PPP Promissory Note forgiveness offset (2021)",
+              "value": "$552 thousand"
+            },
+            {
+              "key": "Preferred stock redemption",
+              "value": "$0 (2022) and $70 thousand (2021)"
+            },
+            {
+              "key": "Net changes in fair value of derivative liabilities",
+              "value": "Non-cash adjustments from warrant and embedded derivative liabilities; details in Note 6"
+            },
+            {
+              "key": "Preferred stock accretion adjustments",
+              "value": "Amortization of offering costs for Series B Preferred and Series D Preferred"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Schedule II- Valuation and Qualifying Accounts / Schedule III- Real Estate and Accumulated Depreciation",
+          "data": [
+            {
+              "key": "Omitted Schedules",
+              "value": "All other financial statement schedules have been omitted because the required information of such schedules is not present, is not present in amounts sufficient to require a schedule or is included in the consolidated financial statements."
+            },
+            {
+              "key": "Exhibits",
+              "value": "See the Exhibit Index at the end of this Annual Report on Form 10-K, which is incorporated by reference."
+            },
+            {
+              "key": "Additional Note",
+              "value": "29"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Report of Independent Registered Public Accounting Firm To the Board of Directors and Stockholders",
+          "data": [
+            {
+              "key": "Entity",
+              "value": "Wheeler Real Estate Investment Trust, Inc. and Subsidiaries"
+            },
+            {
+              "key": "Document Type",
+              "value": "Audit Report on Consolidated Financial Statements"
+            },
+            {
+              "key": "Financial Statement Dates",
+              "value": "December 31, 2022 and December 31, 2021"
+            },
+            {
+              "key": "Audit Period",
+              "value": "Two-year period ended December 31, 2022"
+            },
+            {
+              "key": "Opinion Summary",
+              "value": "The consolidated financial statements present fairly, in all material respects, the financial position of the Company, and the results of its operations and cash flows for the periods audited."
+            },
+            {
+              "key": "Basis for Opinion",
+              "value": "Audits conducted in accordance with PCAOB standards, with the auditors being independent as required by U.S. federal securities laws."
+            },
+            {
+              "key": "Investment Properties Evaluation",
+              "value": "$561.0 million in investment properties as of December 31, 2022, evaluated for potential impairment."
+            },
+            {
+              "key": "Critical Audit Matters",
+              "value": "Included evaluation of investment properties for impairment, involving challenging and complex judgments."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Balance Sheet",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Wheeler Real Estate Investment Trust, Inc. and Subsidiaries"
+            },
+            {
+              "key": "Statement Date",
+              "value": "December 31"
+            },
+            {
+              "key": "Currency and Scale",
+              "value": "In thousands; values in USD"
+            },
+            {
+              "key": "Total Assets 2022",
+              "value": "684536"
+            },
+            {
+              "key": "Total Assets 2021",
+              "value": "465281"
+            },
+            {
+              "key": "Total Liabilities 2022",
+              "value": "531984"
+            },
+            {
+              "key": "Total Liabilities 2021",
+              "value": "368931"
+            },
+            {
+              "key": "Total Equity 2022",
+              "value": "51034"
+            },
+            {
+              "key": "Total Equity 2021",
+              "value": "3802"
+            },
+            {
+              "key": "Notable Observations",
+              "value": "Assets increased primarily due to growth in investment properties; liabilities rose mainly because of higher loans payable; equity position shifted markedly with a move to a stockholders' deficit in 2022 alongside a substantial increase in noncontrolling interests."
+            },
+            {
+              "key": "Additional Note",
+              "value": "Series D Cumulative Convertible Preferred Stock details provided; see accompanying notes to consolidated financial statements."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Financial Statement of Revenue and Expenses",
+          "data": [
+            {
+              "key": "Rental revenues (2022)",
+              "value": "75195"
+            },
+            {
+              "key": "Rental revenues (2021)",
+              "value": "60368"
+            },
+            {
+              "key": "Other revenues (2022)",
+              "value": "1450"
+            },
+            {
+              "key": "Other revenues (2021)",
+              "value": "942"
+            },
+            {
+              "key": "Total Revenue (2022)",
+              "value": "76645"
+            },
+            {
+              "key": "Total Revenue (2021)",
+              "value": "61310"
+            },
+            {
+              "key": "Property operations (2022)",
+              "value": "25731"
+            },
+            {
+              "key": "Property operations (2021)",
+              "value": "19618"
+            },
+            {
+              "key": "Depreciation and amortization (2022)",
+              "value": "19540"
+            },
+            {
+              "key": "Depreciation and amortization (2021)",
+              "value": "14797"
+            },
+            {
+              "key": "Corporate general & administrative (2022)",
+              "value": "8620"
+            },
+            {
+              "key": "Corporate general & administrative (2021)",
+              "value": "7140"
+            },
+            {
+              "key": "Total Operating Expenses (2022)",
+              "value": "54651"
+            },
+            {
+              "key": "Total Operating Expenses (2021)",
+              "value": "43855"
+            },
+            {
+              "key": "Net Loss Attributable to Wheeler REIT Common Stockholders (2022)",
+              "value": "-21510"
+            },
+            {
+              "key": "Net Loss Attributable to Wheeler REIT Common Stockholders (2021)",
+              "value": "-13240"
+            },
+            {
+              "key": "Loss per share (Basic and Diluted) (2022)",
+              "value": "-2.20"
+            },
+            {
+              "key": "Loss per share (Basic and Diluted) (2021)",
+              "value": "-1.36"
+            },
+            {
+              "key": "Summary",
+              "value": "Total revenue increased from $61.3M in 2021 to $76.6M in 2022; operating expenses rose from $43.9M to $54.7M; net loss attributable to common stockholders worsened from -$13.2M to -$21.5M; loss per share increased from -$1.36 to -$2.20."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Cash Flow Statement and Reconciliation",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Wheeler Real Estate Investment Trust, Inc. and Subsidiaries"
+            },
+            {
+              "key": "Net Loss (Current)",
+              "value": "-8470K"
+            },
+            {
+              "key": "Net Loss (Previous)",
+              "value": "-9351K"
+            },
+            {
+              "key": "Depreciation (Current)",
+              "value": "13489K"
+            },
+            {
+              "key": "Depreciation (Previous)",
+              "value": "11072K"
+            },
+            {
+              "key": "Amortization (Current)",
+              "value": "6051K"
+            },
+            {
+              "key": "Amortization (Previous)",
+              "value": "3725K"
+            },
+            {
+              "key": "Operating Cash Flow (Current)",
+              "value": "30758K"
+            },
+            {
+              "key": "Operating Cash Flow (Previous)",
+              "value": "17041K"
+            },
+            {
+              "key": "Investing Cash Flow (Current)",
+              "value": "-133512K"
+            },
+            {
+              "key": "Investing Cash Flow (Previous)",
+              "value": "3101K"
+            },
+            {
+              "key": "Financing Cash Flow (Current)",
+              "value": "118200K"
+            },
+            {
+              "key": "Financing Cash Flow (Previous)",
+              "value": "-24491K"
+            },
+            {
+              "key": "Cash & Cash Equivalents (Current)",
+              "value": "28491K"
+            },
+            {
+              "key": "Cash & Cash Equivalents (Previous)",
+              "value": "22898K"
+            },
+            {
+              "key": "Restricted Cash (Current)",
+              "value": "21374K"
+            },
+            {
+              "key": "Restricted Cash (Previous)",
+              "value": "17521K"
+            },
+            {
+              "key": "Total Cash Position (Current)",
+              "value": "55865K"
+            },
+            {
+              "key": "Total Cash Position (Previous)",
+              "value": "40419K"
+            },
+            {
+              "key": "Summary",
+              "value": "The statement shows an improved net loss (-8470K vs -9351K) and increased operating cash flow (30758K vs 17041K). Significant investing cash outflow (-133512K) primarily due to property acquisitions was offset by strong financing cash inflow (118200K), leading to an improved overall cash position."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Summary of Significant Accounting Policies (Continued) – Assets Held for Sale, Asset Retirement Obligations, Cash & Receivables",
+          "data": [
+            {
+              "key": "Properties Held for Sale",
+              "value": "Recorded at the lower of carrying value or fair value less estimated costs to sell. If carrying value exceeds fair value less costs, an impairment expense is recognized."
+            },
+            {
+              "key": "Fair Value Measurement",
+              "value": "Estimates based on Level 2 (quoted prices for similar assets) and Level 3 (unobservable inputs) inputs from similar real estate sales."
+            },
+            {
+              "key": "Conditional Asset Retirement Obligation",
+              "value": "No conditional asset retirement obligations recorded as of December 31, 2022 and 2021."
+            },
+            {
+              "key": "Cash and Cash Equivalents",
+              "value": "Highly liquid investments with an original maturity of 90 days or less, carried at cost which approximates fair value; primarily include bank operating accounts and money markets."
+            },
+            {
+              "key": "Restricted Cash",
+              "value": "Amounts held for real estate taxes, insurance, capital improvements, leasing costs, and tenant security deposits, placed in FDIC-insured financial institutions."
+            },
+            {
+              "key": "Tenant Receivables",
+              "value": "Includes base rents, tenant reimbursements, and straight-lined rent receivables with an allowance for uncollectible amounts; allowances totaled $3.15 million for 2022 and $633 thousand for 2021."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Summary of Significant Accounting Policies (Continued)",
+          "data": [
+            {
+              "key": "Above and Below Market Lease Intangibles, net",
+              "value": "Determined upon acquiring a property; amortized over the life of the leases and recorded as a component of rental revenues."
+            },
+            {
+              "key": "Deferred Costs and Other Assets, net",
+              "value": "Consists primarily of leasing commissions, leases in place, capitalized legal and marketing costs, tenant relationships, and ground lease sandwich interest intangibles. Amortized on a straight‐line basis over lease terms, recorded as a component of depreciation and amortization expense."
+            },
+            {
+              "key": "Paycheck Protection Program",
+              "value": "Received proceeds of $552 thousand pursuant to the PPP under the CARES Act. The promissory note was forgiven during the year ended December 31, 2021 and recorded as 'other income'."
+            },
+            {
+              "key": "Derivative Financial Instruments",
+              "value": "The Company does not use derivatives to hedge exposures; evaluates all financial instruments for embedded derivatives. Liability-accounted derivatives are recorded at fair value with revaluations based on Level 3 inputs."
+            },
+            {
+              "key": "Debt Issuance Costs",
+              "value": "Costs incurred in connection with raising funds are either paid in cash or equity, and are amortized to interest expense. These are presented as a direct deduction from the related debt liability."
+            },
+            {
+              "key": "Revenue Recognition – Lease Contract Revenue",
+              "value": "The Company combines lease and nonlease components in contracts. Minimum rents are accrued on a straight-line basis leading to an unbilled rent asset. As of December 31, 2022, unbilled rent was $6.52 million compared to $5.77 million in 2021."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Lease Revenue Components Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Minimum rent",
+              "value": "57533"
+            },
+            {
+              "key": "Tenant reimbursements - variable lease revenue",
+              "value": "16665"
+            },
+            {
+              "key": "Straight-line rents",
+              "value": "800"
+            },
+            {
+              "key": "Percentage rent - variable lease revenue",
+              "value": "558"
+            },
+            {
+              "key": "Lease termination fees",
+              "value": "134"
+            },
+            {
+              "key": "Other",
+              "value": "1316"
+            },
+            {
+              "key": "Total",
+              "value": "77006"
+            },
+            {
+              "key": "Credit losses on operating lease receivables",
+              "value": "-361"
+            },
+            {
+              "key": "Total after credit losses",
+              "value": "76645"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Professional fees comparison 2021-2022",
+          "data": [
+            {
+              "key": "Professional fees: Compensation and benefits",
+              "value": "$2,276K in 2022, up from $1,460K in 2021"
+            },
+            {
+              "key": "Professional fees: Corporate administration",
+              "value": "$1,901K in 2022, up from $1,771K in 2021"
+            },
+            {
+              "key": "Professional fees: Advertising costs for leasing activities",
+              "value": "$319K in 2022, up from $115K in 2021"
+            },
+            {
+              "key": "Professional fees: Other Total",
+              "value": "$8,620K in 2022, up from $7,140K in 2021"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Investment Properties Breakdown and Comparison",
+          "data": [
+            {
+              "key": "Land and land improvements",
+              "value": "144,537"
+            },
+            {
+              "key": "Buildings and improvements",
+              "value": "494,668"
+            },
+            {
+              "key": "Investment properties at cost",
+              "value": "639,205"
+            },
+            {
+              "key": "Less accumulated depreciation",
+              "value": "(78,225)"
+            },
+            {
+              "key": "Investment properties, net",
+              "value": "560,980"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Arbor Pointe Land Parcel Financial Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Walnut Hill Plaza (2021)",
+              "value": "100"
+            },
+            {
+              "key": "Columbia Fire Station Total (2021)",
+              "value": "2,300"
+            },
+            {
+              "key": "Columbia Fire Station Total (2022)",
+              "value": "760"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Investment properties, net",
+          "data": [
+            {
+              "key": "Investment properties, net (2021)",
+              "value": "1,824"
+            },
+            {
+              "key": "Rents and other tenant receivables, net (2021)",
+              "value": "18"
+            },
+            {
+              "key": "Deferred costs and other assets, net (2021)",
+              "value": "205"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Accounts Payable and Liabilities Comparison",
+          "data": [
+            {
+              "key": "Total liabilities associated with assets held for sale (2021)",
+              "value": "3,381"
+            },
+            {
+              "key": "Total liabilities associated with assets held for sale (2022)",
+              "value": "—"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Consolidated Financial Information: Pro Forma Performance, Deferred Costs, and Amortization Forecast",
+          "data": [
+            {
+              "key": "Rental revenues 2022",
+              "value": "100,315"
+            },
+            {
+              "key": "Rental revenues 2021",
+              "value": "98,802"
+            },
+            {
+              "key": "Net loss from continuing operations 2022",
+              "value": "(6,950)"
+            },
+            {
+              "key": "Net loss from continuing operations 2021",
+              "value": "(9,252)"
+            },
+            {
+              "key": "Net loss attributable to Wheeler REIT 2022",
+              "value": "(7,022)"
+            },
+            {
+              "key": "Net loss attributable to Wheeler REIT 2021",
+              "value": "(20,096)"
+            },
+            {
+              "key": "Net loss attributable to Wheeler REIT common shareholders 2022",
+              "value": "(26,830)"
+            },
+            {
+              "key": "Net loss attributable to Wheeler REIT common shareholders 2021",
+              "value": "(23,893)"
+            },
+            {
+              "key": "Basic loss per share 2022",
+              "value": "(2.75)"
+            },
+            {
+              "key": "Basic loss per share 2021",
+              "value": "(2.46)"
+            },
+            {
+              "key": "Diluted loss per share 2022",
+              "value": "(2.75)"
+            },
+            {
+              "key": "Diluted loss per share 2021",
+              "value": "(2.46)"
+            },
+            {
+              "key": "Deferred Costs and Other Assets, net 2022",
+              "value": "35,880"
+            },
+            {
+              "key": "Deferred Costs and Other Assets, net 2021",
+              "value": "11,970"
+            },
+            {
+              "key": "Intangible accumulated amortization 2022 (in millions)",
+              "value": "62.35"
+            },
+            {
+              "key": "Intangible accumulated amortization 2021 (in millions)",
+              "value": "62.94"
+            },
+            {
+              "key": "Intangible amortization expense 2022 (in millions)",
+              "value": "6.05"
+            },
+            {
+              "key": "Intangible amortization expense 2021 (in millions)",
+              "value": "3.73"
+            },
+            {
+              "key": "Future Amortization Total for 2024",
+              "value": "6,780"
+            },
+            {
+              "key": "Future Amortization Total for 2025",
+              "value": "4,991"
+            },
+            {
+              "key": "Future Amortization Total for 2026",
+              "value": "3,557"
+            },
+            {
+              "key": "Future Amortization Total for 2027",
+              "value": "2,923"
+            },
+            {
+              "key": "Future Amortization Total for Thereafter",
+              "value": "6,590"
+            },
+            {
+              "key": "Aggregate Future Amortization Total",
+              "value": "34,403"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Derivative Liabilities Valuation – Fair Value Changes",
+          "data": [
+            {
+              "key": "Valuation Model",
+              "value": "Multinomial lattice model (Level 3 valuation technique)"
+            },
+            {
+              "key": "Initial Conversion Price",
+              "value": "$6.25"
+            },
+            {
+              "key": "Common Stock Price (from model inputs)",
+              "value": "$2.94"
+            },
+            {
+              "key": "Dividend Rate",
+              "value": "0%"
+            },
+            {
+              "key": "Expected Common Stock Volatility",
+              "value": "50.00%"
+            },
+            {
+              "key": "Risk-free Interest Rate (input)",
+              "value": "1.53%"
+            },
+            {
+              "key": "Contractual Term to Maturity",
+              "value": "10.3 years"
+            },
+            {
+              "key": "Table 1 – Conversion and Market Metrics Summary",
+              "value": "Conversion price fixed at $6.25; Common Stock price increased from $1.40 to $1.94; contractual term increased from 9.0 to 10.1 years; expected volatility decreased from 205.00% to 80.00%; risk-free rate decreased from 3.87% to 1.51%."
+            },
+            {
+              "key": "Table 2 – Fair Value Changes Summary",
+              "value": "Opening balance of $4,776 (in thousands); Wilmington Warrant issuance of $2,018; embedded derivative issuance of $5,932; negative fair value adjustment of $(3,768); ending balance reported as $4,776."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Lease Commitments and Operating Lease Payment Schedule",
+          "data": [
+            {
+              "key": "Lease Note Description",
+              "value": "The note details lease commitments including a ground lease recorded as an operating lease expiring in 2071. It also provides supplemental information on operating lease liabilities and undiscounted cash flows associated with future lease payments."
+            },
+            {
+              "key": "Table 1 Summary",
+              "value": "A year-over-year comparison template for 2021 and 2022 for lease-related metrics, however, no actual data is provided."
+            },
+            {
+              "key": "Table 2 Title",
+              "value": "Operating Lease Payment Schedule"
+            },
+            {
+              "key": "2023 Payment",
+              "value": "1113"
+            },
+            {
+              "key": "2024 Payment",
+              "value": "1115"
+            },
+            {
+              "key": "2025 Payment",
+              "value": "1119"
+            },
+            {
+              "key": "2026 Payment",
+              "value": "1148"
+            },
+            {
+              "key": "2027 Payment",
+              "value": "1152"
+            },
+            {
+              "key": "Thereafter Payment",
+              "value": "30829"
+            },
+            {
+              "key": "Total Minimum Lease Payments",
+              "value": "36476"
+            },
+            {
+              "key": "Discount",
+              "value": "-19998"
+            },
+            {
+              "key": "Operating Lease Liabilities",
+              "value": "16478"
+            },
+            {
+              "key": "Additional Context",
+              "value": "The operating lease payments include an additional $7.54 million related to options to extend lease terms that are reasonably certain of being exercised."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 92,
+          "title": "Certification of Chief Financial Officer",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Crystal Plum"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Company",
+              "value": "Wheeler Real Estate Investment Trust, Inc."
+            },
+            {
+              "key": "Report Compliance",
+              "value": "The Annual Report on Form 10-K fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934."
+            },
+            {
+              "key": "Fair Presentation",
+              "value": "The information contained in the Report fairly presents the financial condition and results of operations of the Company."
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "dividend_policy",
+          "page": 14,
+          "title": "Dividend Policy Changes",
+          "data": [
+            {
+              "key": "Suspension of Dividends on Common Stock",
+              "value": "In March 2018, the Board of Directors suspended the payment of dividends on our Common Stock."
+            },
+            {
+              "key": "Suspension of Preferred Stock Dividends",
+              "value": "The Board of Directors also suspended the quarterly dividends on shares of our Series A, B, and D Preferred Stock beginning December 31, 2018."
+            },
+            {
+              "key": "Reason for Suspension",
+              "value": "Dividends were suspended to retain cash flow to pay operating expenses and reduce debt."
+            },
+            {
+              "key": "Impact on Series D Preferred Stock",
+              "value": "Failed to pay cash dividends on Series D Preferred resulted in an increased annual dividend rate to 10.75% starting January 1, 2019."
+            },
+            {
+              "key": "Amendment of Charter",
+              "value": "On November 3, 2021, common stockholders voted to amend the charter to remove cumulative dividend rights of Series A and B Preferred."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 15,
+          "title": "Dividend Suspension on Series D Preferred",
+          "data": [
+            {
+              "key": "Suspension Details",
+              "value": "The Company has suspended dividends on the Series D Preferred and therefore no dividends may be declared or paid on Common Stock or other preferred until the suspended amount is paid in full."
+            },
+            {
+              "key": "Current Dividend Intent",
+              "value": "The Company does not intend to pay dividends other than those required to maintain REIT status."
+            },
+            {
+              "key": "Impact of COVID-19",
+              "value": "COVID-19 has significantly impacted rent collections and could lead to increased tenant bankruptcies."
+            },
+            {
+              "key": "Recent Acquisition",
+              "value": "Acquisition of Cedar Realty Trust consummated on August 22, 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 23,
+          "title": "Preferred Dividend Policy Changes and Redemption Details",
+          "data": [
+            {
+              "key": "Suspension of Dividend Payments",
+              "value": "The Board suspended dividend payments for Series A Preferred, Series B Preferred, and Series D Preferred starting with Q4 2018."
+            },
+            {
+              "key": "Charter Amendments",
+              "value": "On November 3, 2021, common stockholders approved amendments to remove the cumulative dividend feature for Series A and Series B Preferred."
+            },
+            {
+              "key": "Redemption Terms for Series D Preferred",
+              "value": "After September 21, 2023, Series D Preferred Holders may require redemption at $25.00 per share plus accrued dividends, payable in cash, common stock, or a combination."
+            },
+            {
+              "key": "Dividend Accrual on Series D Preferred",
+              "value": "Since January 2019, Series D Preferred accrues dividends at 10.75% per annum on a $25.00 liquidation preference, equating to $2.6875 per share per annum."
+            },
+            {
+              "key": "Aggregate Valuation",
+              "value": "As of December 31, 2022, the Series D Preferred had an aggregate liquidation preference of approximately $78.81 million and accrued dividends of approximately $34.63 million, totaling $113.44 million. Estimated values on the Redemption Date are approximately $119.80 million."
+            },
+            {
+              "key": "Convertible Feature of Series D Preferred",
+              "value": "Series D Preferred is convertible into common stock at a conversion price of $16.96 per share, though conversion is considered unlikely before the Redemption Date."
+            },
+            {
+              "key": "Modified Dutch Auction Tender Offers",
+              "value": "The company conducted two modified Dutch auction tender offers (December 2020 and April 2021) for Series D Preferred shares."
+            },
+            {
+              "key": "Convertible Notes Interest Payments",
+              "value": "Interest payments on Convertible Notes were made in the form of Series D Preferred (December 2021) and Series B Preferred (June 2022), with values determined using volume-weighted average prices and a factor of 0.55."
+            },
+            {
+              "key": "Capital Structure Improvement",
+              "value": "The actions taken were intended to support liquidity needs and improve the Company's capital structure."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 60,
+          "title": "Notes to Consolidated Financial Statements – Series D Preferred Stock",
+          "data": [
+            {
+              "key": "Issued and Outstanding Shares",
+              "value": "3,152,392"
+            },
+            {
+              "key": "Liquidation Preference per Share",
+              "value": "$25.00"
+            },
+            {
+              "key": "Aggregate Liquidation Value (2022)",
+              "value": "$113.44 million"
+            },
+            {
+              "key": "Aggregate Liquidation Value (2021)",
+              "value": "$104.97 million"
+            },
+            {
+              "key": "Initial Dividend Rate",
+              "value": "8.75% per annum (equivalent to $2.1875 per share annually)"
+            },
+            {
+              "key": "Dividend Payment Frequency",
+              "value": "Quarterly in arrears (on or before January 15, April 15, July 15, and October 15)"
+            },
+            {
+              "key": "Post-September 21, 2023 Dividend Increase",
+              "value": "Increases by an additional 2% of the $25.00 liquidation preference per subsequent anniversary, up to a maximum annual rate of 14%"
+            },
+            {
+              "key": "Redemption Option",
+              "value": "Company may redeem Series D Preferred at $25.00 per share plus accrued and unpaid dividends; holders may elect redemption after September 21, 2023"
+            },
+            {
+              "key": "Conversion Rate",
+              "value": "$16.96 per share of Common Stock"
+            },
+            {
+              "key": "Asset Coverage Ratio Requirement",
+              "value": "Must maintain at least 200% asset coverage; failure may trigger redemption provisions"
+            },
+            {
+              "key": "Dividend Suspension",
+              "value": "Suspended on December 20, 2018"
+            },
+            {
+              "key": "Dividend Accumulation Rate Post Suspension",
+              "value": "Accumulation at 10.75% per annum beginning January 1, 2019 until accrued dividends are paid"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 62,
+          "title": "Dividend Rights Amendment and Series D Preferred Dividend Disclosures",
+          "data": [
+            {
+              "key": "Amendment Date",
+              "value": "November 3, 2021"
+            },
+            {
+              "key": "Action",
+              "value": "Amended the Company’s Charter to remove the cumulative dividend rights of Series A Preferred and Series B Preferred."
+            },
+            {
+              "key": "Series D Preferred Dividends Table Title",
+              "value": "Record Date/Arrears Date Annual Comparison"
+            },
+            {
+              "key": "Series D Preferred Dividends Data",
+              "value": "For the year ended December 31, 2022: arrears = 8472 (in thousands), per share = 2.69; For the year ended December 31, 2021: arrears = 8167 (in thousands), per share = 2.59. Summary noted a 3.7% increase in arrears and 3.9% increase in per share value."
+            },
+            {
+              "key": "Series D Preferred Dividend Details",
+              "value": "Per share dividend is $10.99. Total cumulative dividends in arrears as of December 31, 2022 is $34.63 million."
+            },
+            {
+              "key": "Dividend Declarations",
+              "value": "No dividends were declared to holders of Common Stock, Series A Preferred, Series B Preferred, or Series D Preferred during the years ended December 31, 2022 and 2021."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 80,
+          "title": "Dividend Policy Changes for Series D Preferred Stock",
+          "data": [
+            {
+              "key": "Redemption Price",
+              "value": "$25.00 per share plus accrued but unpaid dividends"
+            },
+            {
+              "key": "Dividend Accumulation",
+              "value": "Cumulate from the end of the most recent dividend period"
+            },
+            {
+              "key": "Dividend Rate Increase",
+              "value": "Increases by 2.0% if any dividend is unpaid within 3 business days"
+            },
+            {
+              "key": "Suspension Date",
+              "value": "December 20, 2018"
+            },
+            {
+              "key": "Accrual Rate Post-Suspension",
+              "value": "10.75% from January 1, 2019"
+            },
+            {
+              "key": "Voting Rights Condition",
+              "value": "Holders have no voting rights unless dividends are in arrears for six or more quarters"
+            },
+            {
+              "key": "Voting Rights Approval",
+              "value": "Requires affirmative vote of two-thirds of Series D Preferred shares for amendments"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_share_buyback_plans": {
+      "value": true,
+      "elements": [
+        {
+          "type": "share_buyback",
+          "page": 61,
+          "title": "Preferred and Parity Preferred Stock – Redemption & Balance Changes",
+          "data": [
+            {
+              "key": "Modified Dutch Auction Tender Offers",
+              "value": "On March 12, 2021, 387,097 Series D Preferred shares purchased at $15.50 each; On May 15, 2021, 103,513 Series D Preferred shares purchased at $18.00 each, excluding fees and expenses"
+            },
+            {
+              "key": "Aggregate Purchase Costs",
+              "value": "$6.00 million on March 12, 2021; $1.86 million on May 15, 2021"
+            },
+            {
+              "key": "Redemption Transaction",
+              "value": "Redemption of Preferred Stock recorded as -13,375 (in thousands)"
+            },
+            {
+              "key": "Preferred Stock Balances",
+              "value": "Balance December 31, 2021: 92,548 (in thousands); Balance December 31, 2022: 101,518 (in thousands)"
+            },
+            {
+              "key": "Summary of Change",
+              "value": "Increase from 2021 to 2022 due primarily to undeclared dividends and accretion adjustments totaling an $8,970 (in thousands) rise"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "share_buyback",
+          "page": 61,
+          "title": "Dilutive Shares and Earnings Per Share Disclosure",
+          "data": [
+            {
+              "key": "Common Units",
+              "value": "Outstanding: 144,942 -> 215,343; Potential Dilutive: Same as outstanding"
+            },
+            {
+              "key": "Series B Preferred Stock",
+              "value": "Outstanding decreased from 3,379,142 to 1,872,448; Potential Dilutive: 2,111,964 -> 1,170,280"
+            },
+            {
+              "key": "Series D Preferred Stock",
+              "value": "Outstanding constant at 3,152,392; Potential Dilutive increased from 6,688,898 to 6,189,366"
+            },
+            {
+              "key": "Warrants",
+              "value": "0 outstanding; Potential Dilutive: 1,558,134 shares in both periods"
+            },
+            {
+              "key": "Convertible Notes",
+              "value": "0 outstanding; Potential Dilutive: 38,562,586 -> 31,801,297"
+            },
+            {
+              "key": "Earnings Per Share Calculation",
+              "value": "Basic and diluted EPS computed excluding amounts attributable to preferred stock and noncontrolling interests; dilutive instruments excluded when antidilutive"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "share_buyback",
+          "page": 61,
+          "title": "Dividends Reference",
+          "data": [
+            {
+              "key": "Dividends",
+              "value": "57"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 8,
+          "title": "Capital Structure Management and Asset Integration Strategy",
+          "data": [
+            {
+              "key": "Capital Structure Strategy",
+              "value": "Recycling and sensible management of capital structure. The company intends to sell non-income producing land parcels and use the sales proceeds to deleverage the balance sheet. In 2022, two properties were sold for a total of $10.51 million net proceeds which were used to reduce outstanding indebtedness. Additional dispositions may be considered based on periodic portfolio reviews and Board approval."
+            },
+            {
+              "key": "Asset Integration",
+              "value": "Strategy for integrating Cedar Assets through software and personnel integrations aimed at increasing scale and maximizing efficiencies at both the property and corporate level. The acquisition complements the existing portfolio by diversifying tenant credit profiles and micro-market risks."
+            },
+            {
+              "key": "Regulatory and Compliance",
+              "value": "The properties are subject to a variety of federal, state, and local environmental, health, safety, tax, and similar laws. Compliance has not had a material adverse effect on financial condition or operations."
+            },
+            {
+              "key": "Risk Factors",
+              "value": "The report outlines risks including competition from other developers and online retailers, potential impacts from natural or severe weather events, and cybersecurity threats affecting information systems."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 17,
+          "title": "Assets Held for Sale and Dispositions Summary",
+          "data": [
+            {
+              "key": "Exchange Offer expiration date",
+              "value": "January 20, 2023"
+            },
+            {
+              "key": "Series D Preferred shares validly tendered",
+              "value": "864,391"
+            },
+            {
+              "key": "Percentage of Series D Preferred tendered",
+              "value": "26.8%"
+            },
+            {
+              "key": "Condition for tender",
+              "value": "66 2/3% of outstanding Series D Preferred"
+            },
+            {
+              "key": "Impairment expense 2022",
+              "value": "$760,000"
+            },
+            {
+              "key": "Impairment expense 2021",
+              "value": "$2.30 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 22,
+          "title": "Debt Structure Overview",
+          "data": [
+            {
+              "key": "Fixed-rate notes 2022",
+              "value": "482,447"
+            },
+            {
+              "key": "Fixed-rate notes 2021",
+              "value": "344,177"
+            },
+            {
+              "key": "Adjustable-rate mortgages 2022",
+              "value": "="
+            },
+            {
+              "key": "Adjustable-rate mortgages 2021",
+              "value": "2,085"
+            },
+            {
+              "key": "Total debt 2022",
+              "value": "482,447"
+            },
+            {
+              "key": "Total debt 2021",
+              "value": "346,262"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 39,
+          "title": "Stockholders' Equity Statement",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Wheeler Real Estate Investment Trust, Inc. and Subsidiaries"
+            },
+            {
+              "key": "Reporting Period",
+              "value": "December 31, 2020 to December 31, 2021 (in thousands, except share data)"
+            },
+            {
+              "key": "Initial Total Equity (Dec 31, 2020)",
+              "value": "16,849"
+            },
+            {
+              "key": "Series A - Shares and Value (Dec 31, 2020 & 2021)",
+              "value": "562 shares; $453"
+            },
+            {
+              "key": "Series B - Shares and Value (Dec 31, 2020)",
+              "value": "1,875,748 shares; $41,174"
+            },
+            {
+              "key": "Series B - Shares and Value (Dec 31, 2021)",
+              "value": "1,872,448 shares; $41,189"
+            },
+            {
+              "key": "Accretion of Series B Preferred Stock Discount",
+              "value": "$87 added to equity"
+            },
+            {
+              "key": "Conversion of Operating Partnership Units",
+              "value": "Conversion to Common Stock: +9,086 common shares; noncontrolling interests adjustment: -33"
+            },
+            {
+              "key": "Balance Total Equity (Dec 31, 2021)",
+              "value": "3,802"
+            },
+            {
+              "key": "Accumulated Deficit (Dec 31, 2021)",
+              "value": "-274,107"
+            },
+            {
+              "key": "Summary of Observations",
+              "value": "The table presents multiple equity transactions, including adjustments via accretion on Series B Preferred Stock, conversion of partnership units to common stock, and a significant decline in total equity from $16,849 to $3,802 along with a substantial accumulated deficit."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 52,
+          "title": "Loan Schedule and Payment Details",
+          "data": [
+            {
+              "key": "Context",
+              "value": "Notes to Consolidated Financial Statements – Loans Payable for Wheeler Real Estate Investment Trust, Inc. and Subsidiaries. The table details multiple loan agreements including monthly payments, interest rates, maturities, and outstanding balances for 2021 and 2022."
+            },
+            {
+              "key": "Cypress Shopping Center",
+              "value": "Monthly Payment: 34,360; Interest Rate: 4.70%; Maturity: July 2024; Balance 2022: 5,903; Balance 2021: 6,031"
+            },
+            {
+              "key": "Port Crossing",
+              "value": "Monthly Payment: 34,788; Interest Rate: 4.84%; Maturity: August 2024; Balance 2022: 5,641; Balance 2021: 5,778"
+            },
+            {
+              "key": "Summary Observations",
+              "value": "The table (truncated sample shown) indicates a comprehensive schedule of loans with notable increases in total loan principal balances, changes in interest rates, and maturities ranging mainly between 2024 and 2033. Additional details note that loans are subject to prepayment penalties or defeasance costs and are collateralized by various assets."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 53,
+          "title": "For the years ended December 31, 2021 – Rights Offering and Convertible Notes",
+          "data": [
+            {
+              "key": "Rights Offering Start Date",
+              "value": "July 22, 2021"
+            },
+            {
+              "key": "Rights Offering Expiry Date",
+              "value": "August 13, 2021"
+            },
+            {
+              "key": "Maximum Convertible Notes Principal Amount",
+              "value": "$30.00 million"
+            },
+            {
+              "key": "Common Stock Record Date",
+              "value": "June 1, 2021"
+            },
+            {
+              "key": "Subscription Rights Ratio",
+              "value": "1 right per 8 shares (each right for $25.00 principal of Convertible Notes)"
+            },
+            {
+              "key": "Backstop Contribution",
+              "value": "$2.19 million aggregate principal by Backstop Parties"
+            },
+            {
+              "key": "Additional Backstop Purchase",
+              "value": "$3.00 million aggregate principal purchased on October 12, 2021"
+            },
+            {
+              "key": "Debt Issuance Costs",
+              "value": "$7.10 million (being amortized over the life of the Convertible Notes)"
+            },
+            {
+              "key": "Interest Rate on Convertible Notes",
+              "value": "7.00% per annum"
+            },
+            {
+              "key": "Interest Payment Dates",
+              "value": "Semi-annually in arrears on June 30 and December 31 (commencing December 31, 2021)"
+            },
+            {
+              "key": "Payment Options for Interest",
+              "value": "Cash, Series B Preferred, Series D Preferred, or any combination thereof"
+            },
+            {
+              "key": "Conversion Price",
+              "value": "$6.25 per share of Common Stock"
+            },
+            {
+              "key": "Conversion Price Adjustment Condition",
+              "value": "If after September 21, 2023, holders of Series D Preferred require redemption of at least 100,000 shares, then the Conversion Price will be adjusted to the lower of 55% of the original or a 45% discount to the lowest conversion price achieved"
+            },
+            {
+              "key": "Mandatory Change of Control Conversion",
+              "value": "Each Convertible Note converts into Common Stock equal to the note's principal divided by (VWAP average × 0.55)"
+            },
+            {
+              "key": "2022 Convertible Notes Interest Data - Series B Preferred Shares",
+              "value": "1,511,541"
+            },
+            {
+              "key": "2022 Convertible Notes Interest Data - Series D Preferred Shares",
+              "value": "—"
+            },
+            {
+              "key": "2022 Convertible Note Interest",
+              "value": "$2,310 thousand"
+            },
+            {
+              "key": "2022 Fair Value Adjustment",
+              "value": "$1,429 thousand"
+            },
+            {
+              "key": "2022 Paid-in-Kind Interest",
+              "value": "$3,739 thousand"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 54,
+          "title": "Loans Payable (continued) – Financing Agreements and Warrants",
+          "data": [
+            {
+              "key": "Redemption Price",
+              "value": "Option to redeem at 100% of principal plus accrued and unpaid interest; can be paid in cash, shares of Common Stock, or combination."
+            },
+            {
+              "key": "Powerscourt Financing Agreement",
+              "value": "Entered on December 22, 2020 with Powerscourt Investments XXII, LP. The Company issued a warrant to purchase 496,415 shares of Common Stock at $3.12 per share. Registration rights agreement executed; the resale was registered on Form S-11 effective May 25, 2021. The $25.00 million financing was paid in full on March 12, 2021. The related warrant and registration rights agreement remain in effect as of December 31, 2022."
+            },
+            {
+              "key": "Wilmington Financing Agreement",
+              "value": "Entered on March 12, 2021 as borrower with various subsidiaries and guarantors. Provided a term loan of $35.00 million at an 8.00% rate, maturing in March 2026 with quarterly interest-only payments starting April 15, 2021. Principal repayments incur a premium of 5% (totaling $1.75 million). The financing is secured by liens, including mortgages on properties. Covenants restrict further indebtedness, asset disposals, equity issuances, and other transactions. A warrant to purchase a total of 1,061,719 shares is issued, exercisable from March 12, 2021 until the loan's maturity. A registration rights agreement was executed with the warrant holders, with registration on Form S-11 effective May 25, 2021. The principal balance was fully paid on December 21, 2021."
+            },
+            {
+              "key": "First National Bank Amendment",
+              "value": "Referenced as Amendment 50 at the end of the note."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 55,
+          "title": "Notes to Consolidated Financial Statements - Loans Payable (continued)",
+          "data": [
+            {
+              "key": "Fourth Amendment - First National Bank Loan",
+              "value": "On September 22, 2021, extended the $875K First National Bank Loan to August 15, 2023 with monthly principal and interest payments of $25K. Interest is LIBOR plus 350 basis points with a minimum rate of 4.25%. Principal was paid in full under the Guggenheim Loan Agreement on June 17, 2022."
+            },
+            {
+              "key": "Fifth Amendment - Lumber River Loan",
+              "value": "On September 22, 2021, extended the $1.31M Lumber River Loan to September 10, 2023 with monthly principal and interest payments of $11K. It bears interest at LIBOR plus 350 basis points with a minimum interest rate of 4.25%. Principal was paid in full via the Guggenheim Loan Agreement on June 17, 2022."
+            },
+            {
+              "key": "Tuckernuck Loan Refinance",
+              "value": "On February 2, 2021, refinanced the Tuckernuck Loan for $5.15M at an interest rate of 5.00%. The loan matures on March 1, 2026 with monthly principal and interest payments of $32K."
+            },
+            {
+              "key": "Rivergate Loan Extension and Refinance",
+              "value": "On May 28, 2021, extended the maturity of the Rivergate Loan with Synovus Bank from April 21, 2021 to October 20, 2021 with monthly principal payments of $60K plus accrued interest. A $3.54M principal payment was made on August 31, 2021 in conjunction with an outparcel sale. On September 30, 2021, refinanced the loan for $18.50M at 4.25% interest; the loan matures on September 30, 2031 with structured payment adjustments beginning in September 2026."
+            },
+            {
+              "key": "Columbia Fire Station Loan Forbearance and Payoff",
+              "value": "On January 21, 2021, entered into a Forbearance Agreement with Pinnacle Bank at an interest rate of 14% and made a $500K principal payment, extending the loan’s maturity to July 21, 2021. The loan was paid in full on July 21, 2021."
+            },
+            {
+              "key": "Berkley/Sangaree/Tri-County Loan Paydown",
+              "value": "On March 25, 2021, made a $3.22M principal payment on the Berkley/Sangaree/Tri-County loan, funded by the sale of the Berkley Shopping Center, along with $687K in defeasance."
+            },
+            {
+              "key": "JANAF Bravo Loan Refinance",
+              "value": "On May 5, 2021, refinanced the JANAF Bravo Loan for $6.00M at an interest rate of 5.00%. The loan matures on May 5, 2024 with monthly principal and interest payments of $35K. The principal was subsequently paid in full under the JANAF Loan Agreement on July 6, 2022."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 56,
+          "title": "Loans Payable and Refinancing Activities",
+          "data": [
+            {
+              "key": "Walnut Hill Plaza Payoff",
+              "value": "Company made a $1.79 million principal paydown on the Walnut Hill Plaza loan and paid the remaining balance of $1.34 million on February 17, 2022, in connection with the sale of the property."
+            },
+            {
+              "key": "Guggenheim Loan Agreement",
+              "value": "On June 17, 2022, the Company entered into a term loan for $75.00 million at a fixed rate of 4.25% with interest-only monthly payments; principal and interest payments based on a 30-year amortization schedule will commence on August 10, 2027. Proceeds were used to refinance eleven loans including a $1.46 million defeasance payment."
+            },
+            {
+              "key": "JANAF Loan Agreement",
+              "value": "On July 6, 2022, the Company secured a $60.00 million loan from CITI Real Estate Funding Inc. at a fixed rate of 5.31%, with interest-only monthly payments through maturity on July 6, 2032. Proceeds refinanced three loans with $1.16 million in defeasance."
+            },
+            {
+              "key": "KeyBank-Cedar Loan Agreement",
+              "value": "On August 22, 2022, a $130.00 million loan was entered into with KeyBank National Association. It featured interest-only monthly payments through maturity on August 22, 2023, and an interest rate comprising the Secured Overnight Financing Rate plus 0.10% and an adjustable margin. The obligations were later satisfied using proceeds from subsequent loan agreements."
+            },
+            {
+              "key": "Guggenheim-Cedar Loan Agreement",
+              "value": "On October 28, 2022, the Company secured a $110.00 million loan at a fixed rate of 5.25% with interest-only monthly payments until November 2027. Wheeler REIT, L.P. provided a guarantee. From December 10, 2027, principal and interest payments will be made on a 30-year amortization schedule; the proceeds refinanced a portion of Cedar’s property portfolio."
+            },
+            {
+              "key": "Butler Square Payoff",
+              "value": "On December 9, 2022, the Company made a $5.64 million principal payment on the Butler Square loan associated with the sale of the Butler Square property."
+            },
+            {
+              "key": "Patuxent Crossing/Coliseum Marketplace Loan Agreement",
+              "value": "On December 21, 2022, a $25.00 million loan was entered into with CITI Real Estate Funding, Inc. at a fixed rate of 6.35%, with interest-only monthly payments through maturity on January 6, 2033. Proceeds were used to satisfy remaining obligations of the KeyBank-Cedar Loan Agreement and release collateral."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 57,
+          "title": "Loans Payable, Debt Maturities & Derivative Liabilities",
+          "data": [
+            {
+              "key": "Debt Maturities - Principal Repayments 2023",
+              "value": "2343"
+            },
+            {
+              "key": "Debt Maturities - Principal Repayments 2024",
+              "value": "33690"
+            },
+            {
+              "key": "Debt Maturities - Principal Repayments 2025",
+              "value": "79697"
+            },
+            {
+              "key": "Debt Maturities - Principal Repayments 2026",
+              "value": "19347"
+            },
+            {
+              "key": "Debt Maturities - Principal Repayments 2027",
+              "value": "9440"
+            },
+            {
+              "key": "Debt Maturities - Principal Repayments Thereafter",
+              "value": "337930"
+            },
+            {
+              "key": "Debt Maturities - Total Principal Repayments",
+              "value": "482447"
+            },
+            {
+              "key": "Warrant Valuation Method",
+              "value": "Monte Carlo simulation (Level 3 valuation)"
+            },
+            {
+              "key": "Warrant Details - Tranche A",
+              "value": "Quantity: 496,415 and 510,204; Strike Prices: $3.120, $3.430; Expiration Dates: 12/22/2023 and 3/12/2026"
+            },
+            {
+              "key": "Warrant Details - Tranche B",
+              "value": "Quantity: 424,242; Strike Price: $4.125; Expiration Date: 3/12/2026"
+            },
+            {
+              "key": "Warrant Details - Tranche C",
+              "value": "Quantity: 127,273; Strike Price: $6.875; Expiration Date: 3/12/2026"
+            },
+            {
+              "key": "Yommon Stock Price 2022",
+              "value": "$1.40"
+            },
+            {
+              "key": "Yommon Stock Price 2021",
+              "value": "$1.94"
+            },
+            {
+              "key": "Weighted Average Contractual Term 2022",
+              "value": "2.5 years"
+            },
+            {
+              "key": "Weighted Average Contractual Term 2021",
+              "value": "3.5 years"
+            },
+            {
+              "key": "Expected Market Volatility Range 2022",
+              "value": "66.00% - 72.88%"
+            },
+            {
+              "key": "Expected Market Volatility Range 2021",
+              "value": "70.12% - 81.00%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 59,
+          "title": "Minimum Rent Payment Schedule and Equity and Mezzanine Equity",
+          "data": [
+            {
+              "key": "Minimum Rent Payment Schedule",
+              "value": "The table outlines future minimum rents under noncancelable operating leases (in thousands). Values are: 2023 – 71,562; 2024 – 66,076; 2025 – 56,970; 2026 – 46,507; 2027 – 37,195; Thereafter – 104,546; with a total minimum rent of 382,856. The schedule shows a declining trend year-over-year."
+            },
+            {
+              "key": "Authorized Shares",
+              "value": "The Company is authorized to issue 215,000,000 shares: 200,000,000 shares of $0.01 par value Common Stock and 15,000,000 shares of preferred stock."
+            },
+            {
+              "key": "Series A Preferred Stock",
+              "value": "562 shares outstanding with no par value and a $1,000 liquidation preference per share. These shares are redeemable on a pro rata basis at 103% of the purchase price."
+            },
+            {
+              "key": "Series B Preferred Stock",
+              "value": "As of December 31, 2022, 3,379,142 shares outstanding without par value, carrying a $25.00 liquidation preference per share and a 9% annual dividend when declared. Automatic conversion is triggered once the 20‐trading day volume‐weighted average price exceeds $58, converting at a price of $40.00 per share. Holders also have the option to convert at $40.00 per share at any time."
+            },
+            {
+              "key": "Series D Preferred Stock",
+              "value": "6,000,000 shares outstanding without par value."
+            },
+            {
+              "key": "Operating Partnership",
+              "value": "The Trust is the sole general partner of the Operating Partnership and held approximately 99.05% interest as of December 31, 2022, with limited partners having rights to redeem common units for cash or common shares."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 78,
+          "title": "Description of Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934",
+          "data": [
+            {
+              "key": "Date",
+              "value": "As of December 31, 2022"
+            },
+            {
+              "key": "Common Stock Authorized",
+              "value": "200,000,000"
+            },
+            {
+              "key": "Common Stock Issued and Outstanding",
+              "value": "9,793,957"
+            },
+            {
+              "key": "Preferred Stock Series A Authorized",
+              "value": "4,500"
+            },
+            {
+              "key": "Preferred Stock Series A Issued and Outstanding",
+              "value": "562"
+            },
+            {
+              "key": "Preferred Stock Series B Authorized",
+              "value": "5,000,000"
+            },
+            {
+              "key": "Preferred Stock Series B Issued and Outstanding",
+              "value": "3,379,142"
+            },
+            {
+              "key": "Preferred Stock Series D Authorized",
+              "value": "6,000,000"
+            },
+            {
+              "key": "Preferred Stock Series D Issued and Outstanding",
+              "value": "3,152,392"
+            },
+            {
+              "key": "Notes",
+              "value": "7.00% Subordinated Convertible Notes due 2031"
+            },
+            {
+              "key": "Exchange",
+              "value": "Nasdaq Capital Market"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 4,
+          "title": "CAUTIONARY STATEMENT ON FORWARD-LOOKING STATEMENTS",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Wheeler Real Estate Investment Trust, Inc."
+            },
+            {
+              "key": "Document Type",
+              "value": "Annual Report Form 10-K Forward-Looking Statements Disclosure"
+            },
+            {
+              "key": "Description",
+              "value": "This section contains forward-looking statements that are based on management’s current expectations and are subject to significant risks and uncertainties. It warns investors that actual future results may differ materially due to various factors."
+            },
+            {
+              "key": "Risk Factors Highlighted",
+              "value": "COVID-19 pandemic and future infectious disease outbreaks; economic and retail market conditions; tenant bankruptcies; dilution of common stock; litigation risks; interest rate changes; challenges in integrating acquisitions (e.g., Cedar Realty Trust, Inc.); natural disasters and climate change; IT security breaches; and risks related to maintaining REIT qualification and tax status."
+            },
+            {
+              "key": "Forward-Looking Language Indicators",
+              "value": "May, will, should, potential, predicts, anticipates, expects, intends, plans, believes, seeks, estimates, and their negatives."
+            },
+            {
+              "key": "Disclaimer",
+              "value": "No obligation to update or revise forward-looking statements even if assumptions change or events occur."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 5,
+          "title": "Risk Factors and Forward-Looking Statements",
+          "data": [
+            {
+              "key": "Impact on Tenants' Business",
+              "value": "The impact of e-commerce on our tenants’ business"
+            },
+            {
+              "key": "Cash Flow Challenges",
+              "value": "Inability to generate sufficient cash flows due to market conditions, competition, uninsured losses, changes in tax or other applicable laws"
+            },
+            {
+              "key": "Forward-Looking Disclaimer",
+              "value": "Forward-looking statements should be read in light of these factors"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 9,
+          "title": "Risk Disclosure: Cybersecurity, Insurance, and Reporting Requirements",
+          "data": [
+            {
+              "key": "Cybersecurity Attack Risk",
+              "value": "The company acknowledges that despite multiple measures to prevent and mitigate threats, there is no guarantee that a cyber attack will be prevented. A successful attack could compromise confidential information and disrupt business operations."
+            },
+            {
+              "key": "Insurance Coverage",
+              "value": "The company carries comprehensive liability, fire, extended coverage, business interruption, rental loss, and additional coverages including trademark and pollution insurance, as well as directors’ and officers’ liability insurance. However, these policies may not fully cover all losses resulting from cybersecurity breaches."
+            },
+            {
+              "key": "SEC Filings and Website Disclosure",
+              "value": "The company is subject to information reporting requirements under the Exchange Act and provides access to its annual report, quarterly reports, and other filings via the SEC website and its own website. The content on the website is not incorporated by reference into official reports."
+            },
+            {
+              "key": "Risk Factor Context",
+              "value": "The disclosures relate to potential risks from cybersecurity breaches, limitations of insurance coverage, and the absence of any known security breaches in the past two years."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 24,
+          "title": "Convertible Notes Interest, Series D Preferred Redemption, and Economic Risk Factors",
+          "data": [
+            {
+              "key": "Interest Payment",
+              "value": "On January 3, 2023, interest on Convertible Notes was paid in Series B Preferred; each share valued based on a volume-weighted average price multiplied by 0.55."
+            },
+            {
+              "key": "Exchange Offer & Consent Solicitation",
+              "value": "Initiated on November 22, 2022 to address Series D Preferred redemption risk; condition required 66 2/3% of outstanding shares tendered and consented, but only 26.8% (864,391 shares) were received by January 20, 2023, leading to offer expiration."
+            },
+            {
+              "key": "Redemption and Dilution Risk",
+              "value": "Failure to meet redemption conditions means Series D Preferred remains outstanding. Future redemption of Series D Preferred may force redemption settlement in Common Stock, causing substantial dilution."
+            },
+            {
+              "key": "Financial & Economic Risk Factors",
+              "value": "Discussion on inflation, deflation, and interest rate increases impacting operations. Although lease provisions partially mitigate inflation impacts, prolonged changes may result in material adverse effects."
+            },
+            {
+              "key": "Accounting Reference",
+              "value": "Reference to related recent Accounting Pronouncements in Note 2 of the consolidated financial statements (page 38 of the Annual Report on Form 10-K)."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 18,
+          "title": "Interest Payments and Financial Data Summary",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Shares",
+              "value": "1,511,541"
+            },
+            {
+              "key": "Interest at 7%",
+              "value": "$2,310"
+            },
+            {
+              "key": "Fair value adjustment",
+              "value": "$1,429"
+            },
+            {
+              "key": "Total Expense",
+              "value": "$3,739"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 74,
+          "title": "Amendment to the Amended and Restated Agreement of Limited Partnership of Wheeler REIT, L.P.",
+          "data": [
+            {
+              "key": "Date",
+              "value": "March 12, 2021"
+            },
+            {
+              "key": "Filing",
+              "value": "Filed as an exhibit to Form 8-K"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 74,
+          "title": "Document Exhibits and Filings Reference Table",
+          "data": [
+            {
+              "key": "Exhibit Number",
+              "value": "4.1"
+            },
+            {
+              "key": "Description",
+              "value": "Form of Certificate of Common Stock of Wheeler Real Estate Investment Trust, Inc. (Filed as exhibit to Form 8-K, filed on April 3, 2017)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 79,
+          "title": "Series B and Series D Preferred Stock Dividends and Rights",
+          "data": [
+            {
+              "key": "Series B Preferred Dividend Rate",
+              "value": "9% per annum"
+            },
+            {
+              "key": "Series B Liquidation Preference",
+              "value": "$25 per share"
+            },
+            {
+              "key": "Series D Preferred Dividend Rate (until Sep 21, 2023)",
+              "value": "8.75% per annum"
+            },
+            {
+              "key": "Series D Initial Annual Dividend Amount",
+              "value": "$2.1875 per share"
+            },
+            {
+              "key": "Series D Maximum Annual Dividend Rate",
+              "value": "14% per annum"
+            },
+            {
+              "key": "Redemption Price for Series D",
+              "value": "$25.00 per share"
+            },
+            {
+              "key": "Series D Conversion Rate to Common Stock",
+              "value": "$16.96 per share"
+            },
+            {
+              "key": "Asset Coverage Required for Series D",
+              "value": "200%"
+            },
+            {
+              "key": "Dividends Payment Schedule for Series D",
+              "value": "Quarterly in arrears on January 15, April 15, July 15, October 15"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 3,
+          "title": "Form 10-K Table of Contents",
+          "data": [
+            {
+              "key": "Item 1.",
+              "value": "Status: 1B"
+            },
+            {
+              "key": "Item 1A.",
+              "value": "Risk Factors; Status: Ia"
+            },
+            {
+              "key": "Item 1B.",
+              "value": "Unresolved Staff Comments"
+            },
+            {
+              "key": "Item 2.",
+              "value": "Properties; Status: NID"
+            },
+            {
+              "key": "Item 3.",
+              "value": "Legal Proceedings; Status: IS"
+            },
+            {
+              "key": "Item 4.",
+              "value": "Mine Safety Disclosures; Status: Is"
+            },
+            {
+              "key": "PART I",
+              "value": ""
+            },
+            {
+              "key": "Item 5.",
+              "value": "Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities; Status: Is"
+            },
+            {
+              "key": "Item 6.",
+              "value": "Reserved"
+            },
+            {
+              "key": "Item 7.",
+              "value": "Management's Discussion and Analysis of Financial Condition and Results of Operations"
+            },
+            {
+              "key": "Item 7A.",
+              "value": "Quantitative and Qualitative Disclosures About Market Risk"
+            },
+            {
+              "key": "Item 8.",
+              "value": "Financial Statements and Supplementary Data"
+            },
+            {
+              "key": "Item 9.",
+              "value": "Changes in and Disagreements with Accountants on Accounting and Financial Disclosure"
+            },
+            {
+              "key": "Item 9A.",
+              "value": "Controls and Procedures; Status: BSBRBBRBEEI"
+            },
+            {
+              "key": "Item 9B.",
+              "value": "Other Information"
+            },
+            {
+              "key": "Item 9C.",
+              "value": "Disclosure Regarding Foreign Jurisdictions that Prevent Inspections PART IT"
+            },
+            {
+              "key": "Item 10.",
+              "value": "Directors, Executive Officers and Corporate Governance; Status: IR"
+            },
+            {
+              "key": "Item 11.",
+              "value": "Executive Comper n; Status: mW I BRRBBIR"
+            },
+            {
+              "key": "Item 12.",
+              "value": "Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters; Status: Pe"
+            },
+            {
+              "key": "Item 13.",
+              "value": "Certain Relationships and Related Transactions, and Director Independence"
+            },
+            {
+              "key": "Item 14.",
+              "value": "Principal Accountant Fees and Services PART IV"
+            },
+            {
+              "key": "Item 15.",
+              "value": "Exhibits and Financial Statement Schedules; Status: Io Io"
+            },
+            {
+              "key": "Item 16.",
+              "value": "Form 10-K Summary; Status: a"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 64,
+          "title": "Commitments and Contingencies – Regulatory and Environmental; Litigation",
+          "data": [
+            {
+              "key": "Environmental Risks",
+              "value": "The Company faces potential liability for hazardous materials (e.g., asbestos, lead) and adverse building conditions, which may result in fines, remediation expenses, and impact tenant rental payments."
+            },
+            {
+              "key": "Litigation - Former CEO",
+              "value": "David Kelly filed suit alleging breach of his employment contract. The court awarded $340K plus fees; $691K was paid, fulfilling the Company's obligations."
+            },
+            {
+              "key": "Litigation - JCP Investment Partnership",
+              "value": "Multiple related suits alleging violation of charter provisions regarding Series D Preferred and securities law violations. Proceedings include denial of motions to dismiss, discovery schedules, mediation orders, and a settlement agreement among some parties."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 65,
+          "title": "Commitments and Contingencies - Litigation and Other Commitments",
+          "data": [
+            {
+              "key": "Dismissal",
+              "value": "On November 3, 2022, the Stipulation of Dismissal was filed, dismissing with prejudice all of the JCP Plaintiffs’ claims against the Company."
+            },
+            {
+              "key": "Steamboat Litigation",
+              "value": "In the case involving Steamboat Capital Partners Master Fund, LP and Steamboat Capital Partners II, LP, summary judgment was concluded in the Company's favor on September 20, 2022, with plaintiffs not appealing."
+            },
+            {
+              "key": "Cedar Preferred Shareholder Litigation",
+              "value": "Multiple related lawsuits regarding Cedar Realty Trust, Inc. include a putative class action (Case No.: 1:22-cv-1103) alleging breach of contract and fiduciary duty, with a consolidated amended complaint and uncertain litigation outcomes."
+            },
+            {
+              "key": "Krasner Litigation",
+              "value": "A putative class action was filed on October 14, 2022, in Nassau, New York, alleging similar claims as in the Cedar litigation, with procedural motions pending and uncertain outcome."
+            },
+            {
+              "key": "High Income Securities Litigation",
+              "value": "A complaint was filed by a purported holder of the Company's preferred stock alleging violations of Section 10(b) of the Exchange Act and SEC Rule 10b-5, with a motion to dismiss granted; outcome remains uncertain."
+            },
+            {
+              "key": "Harbor Pointe Tax Increment Financing",
+              "value": "On September 1, 2011, the Grove Economic Development Authority issued a Tax Increment Revenue Note for $2.42 million at a variable interest rate of 2.29%, payable in 50 semi-annual installments, intended to fund economic projects."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 82,
+          "title": "Ranking and Events of Default for Notes",
+          "data": [
+            {
+              "key": "Notes Status",
+              "value": "subordinate and junior in right of payment"
+            },
+            {
+              "key": "Senior Indebtedness Payment Priority",
+              "value": "Obligations to holders of senior indebtedness paid in full before Notes"
+            },
+            {
+              "key": "Events of Default",
+              "value": "1. Failure to pay principal or premium; 2. Failure to pay interest installment; 3. Failure to provide notice for conversion or redemption; 4. Compliance failure with terms of Notes or Indenture; 5. Voluntary insolvency of the Company or subsidiaries; 6. Involuntary insolvency if unstayed for 60 days."
+            },
+            {
+              "key": "Default Declaration",
+              "value": "Trustee or holders of at least 25% principal amount may declare Notes due and payable."
+            },
+            {
+              "key": "Modification and Waiver",
+              "value": "Requires written consent of majority holders to amend or supplement Indenture or Notes."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 83,
+          "title": "Provisions Modification Details",
+          "data": [
+            {
+              "key": "modification_provisions",
+              "value": "The ranking provisions of the Indenture relative to other indebtedness could be modified in a manner adverse to the holders."
+            },
+            {
+              "key": "consent_reduction",
+              "value": "The percentage in the aggregate principal amount of Outstanding Notes whose holders must consent to a modification or amendment could be reduced."
+            },
+            {
+              "key": "waiver_percentage",
+              "value": "The percentage for a waiver of compliance or Default could be reduced."
+            },
+            {
+              "key": "modification_exceptions",
+              "value": "The provisions regarding modification and waiver cannot be modified except to increase the percentage required for modification or waiver."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 86,
+          "title": "Consent of Independent Registered Public Accounting Firm",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Wheeler Real Estate Investment Trust, Inc."
+            },
+            {
+              "key": "Location",
+              "value": "Virginia Beach, Virginia"
+            },
+            {
+              "key": "Report Date",
+              "value": "March 2, 2023"
+            },
+            {
+              "key": "Consolidated Financial Statements Date",
+              "value": "December 31, 2022 and 2021"
+            },
+            {
+              "key": "Financial Period",
+              "value": "Two-year period ended December 31, 2022"
+            },
+            {
+              "key": "Accounting Firm",
+              "value": "Cherry Bekaert LLP"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 474,
+    "AUD": 41,
+    "CHF": 2
+  },
+  "sha1": "b947c33b370d8a3251ef9c36ce7d71e8d16f4f8e"
+}

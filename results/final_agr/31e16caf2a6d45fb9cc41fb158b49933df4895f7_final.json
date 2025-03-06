@@ -1,0 +1,5003 @@
+{
+  "letters": 184526,
+  "pages": 61,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "Odyssey Group Holdings, Inc.",
+    "major_industry": "Financial Services",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 2,
+          "title": "Report of Independent Auditors",
+          "data": [
+            {
+              "key": "Audit Opinion",
+              "value": "Audited the accompanying consolidated financial statements of Odyssey Group Holdings, Inc. and its subsidiaries."
+            },
+            {
+              "key": "Financial Position Date",
+              "value": "December 31, 2022 and 2021"
+            },
+            {
+              "key": "GAAP Compliance",
+              "value": "In accordance with accounting principles generally accepted in the United States of America"
+            },
+            {
+              "key": "Auditor's Responsibility",
+              "value": "Require to be independent of the Company and meet ethical responsibilities"
+            },
+            {
+              "key": "Management Responsibility",
+              "value": "Preparation and fair presentation of the consolidated financial statements"
+            },
+            {
+              "key": "Going Concern",
+              "value": "Evaluate whether conditions raise doubt about the Company's ability to continue as a going concern for one year after issuance date"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 9,
+          "title": "Acquisition by Fairfax Financial Holdings Limited",
+          "data": [
+            {
+              "key": "Acquirer",
+              "value": "Fairfax Financial Holdings Limited"
+            },
+            {
+              "key": "Target",
+              "value": "Odyssey Group Holdings, Inc."
+            },
+            {
+              "key": "Acquisition Date",
+              "value": "December 15, 2021"
+            },
+            {
+              "key": "Equity Interest Issued",
+              "value": "9.99%"
+            },
+            {
+              "key": "Consideration Amount",
+              "value": "$900.0m"
+            },
+            {
+              "key": "Dividends Distributed to Acquirer",
+              "value": "Yes"
+            },
+            {
+              "key": "Control Structure",
+              "value": "Fairfax owns 90.01% of common shares of OGHI"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 11,
+          "title": "Revenue Recognition and Deferred Acquisition Costs",
+          "data": [
+            {
+              "key": "Reinsurance assumed premiums written",
+              "value": "Estimated at individual contract level based on historical patterns and judgment."
+            },
+            {
+              "key": "Unearned premium reserves",
+              "value": "Established for portion of premiums not yet recognized over contract period."
+            },
+            {
+              "key": "Reserve for uncollectible premiums",
+              "value": "$3.8m as of Dec 31, 2022, and $10.3m as of Dec 31, 2021."
+            },
+            {
+              "key": "Acquisition costs",
+              "value": "Deferred and amortized over the period related to premiums earned."
+            },
+            {
+              "key": "Amortized deferred acquisition costs",
+              "value": "$1,105.5m for 2022 and $769.8m for 2021."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 12,
+          "title": "Goodwill and Intangible Assets",
+          "data": [
+            {
+              "key": "Goodwill Balance (1/1/2021)",
+              "value": "52.3"
+            },
+            {
+              "key": "Intangible Assets with Indefinite Lives (1/1/2021)",
+              "value": "5.8"
+            },
+            {
+              "key": "Intangible Assets with Finite Lives (1/1/2021)",
+              "value": "15.1"
+            },
+            {
+              "key": "Total Intangible Assets (1/1/2021)",
+              "value": "73.2"
+            },
+            {
+              "key": "Acquired during 2021",
+              "value": "0.0"
+            },
+            {
+              "key": "Amortization during 2021",
+              "value": "-6.7"
+            },
+            {
+              "key": "Balance (12/31/2021)",
+              "value": "72.2"
+            },
+            {
+              "key": "Acquired during 2022",
+              "value": "0.0"
+            },
+            {
+              "key": "Amortization during 2022",
+              "value": "-6.8"
+            },
+            {
+              "key": "Balance (12/31/2022)",
+              "value": "66.7"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 18,
+          "title": "Fair Value Measurements",
+          "data": [
+            {
+              "key": "category",
+              "value": "Fixed income securities, available for sale"
+            },
+            {
+              "key": "reported_fair_value",
+              "value": "4.4"
+            },
+            {
+              "key": "level_1",
+              "value": "0.0"
+            },
+            {
+              "key": "level_2",
+              "value": "4.4"
+            },
+            {
+              "key": "level_3",
+              "value": "0.0"
+            },
+            {
+              "key": "category",
+              "value": "Fixed income securities, held for trading"
+            },
+            {
+              "key": "reported_fair_value",
+              "value": "2016.2"
+            },
+            {
+              "key": "level_1",
+              "value": "13.2"
+            },
+            {
+              "key": "level_2",
+              "value": "1684.5"
+            },
+            {
+              "key": "level_3",
+              "value": "318.5"
+            },
+            {
+              "key": "category",
+              "value": "Preferred stocks, held for trading"
+            },
+            {
+              "key": "reported_fair_value",
+              "value": "194.5"
+            },
+            {
+              "key": "level_1",
+              "value": "0.2"
+            },
+            {
+              "key": "level_2",
+              "value": "174.0"
+            },
+            {
+              "key": "level_3",
+              "value": "20.3"
+            },
+            {
+              "key": "category",
+              "value": "Common stocks, at fair value"
+            },
+            {
+              "key": "reported_fair_value",
+              "value": "596.7"
+            },
+            {
+              "key": "level_1",
+              "value": "521.7"
+            },
+            {
+              "key": "level_2",
+              "value": "0.0"
+            },
+            {
+              "key": "level_3",
+              "value": "75.0"
+            },
+            {
+              "key": "category",
+              "value": "Short-term investments, held for trading"
+            },
+            {
+              "key": "reported_fair_value",
+              "value": "2319.8"
+            },
+            {
+              "key": "level_1",
+              "value": "2291.0"
+            },
+            {
+              "key": "level_2",
+              "value": "28.8"
+            },
+            {
+              "key": "level_3",
+              "value": "0.0"
+            },
+            {
+              "key": "category",
+              "value": "Cash equivalents"
+            },
+            {
+              "key": "reported_fair_value",
+              "value": "1968.2"
+            },
+            {
+              "key": "level_1",
+              "value": "1968.2"
+            },
+            {
+              "key": "level_2",
+              "value": "0.0"
+            },
+            {
+              "key": "level_3",
+              "value": "0.0"
+            },
+            {
+              "key": "category",
+              "value": "Derivatives"
+            },
+            {
+              "key": "reported_fair_value",
+              "value": "41.1"
+            },
+            {
+              "key": "level_1",
+              "value": "0.0"
+            },
+            {
+              "key": "level_2",
+              "value": "31.0"
+            },
+            {
+              "key": "level_3",
+              "value": "10.1"
+            },
+            {
+              "key": "category",
+              "value": "Other investments"
+            },
+            {
+              "key": "reported_fair_value",
+              "value": "172.9"
+            },
+            {
+              "key": "level_1",
+              "value": "0.0"
+            },
+            {
+              "key": "level_2",
+              "value": "24.9"
+            },
+            {
+              "key": "level_3",
+              "value": "148.0"
+            },
+            {
+              "key": "category",
+              "value": "Total assets measured at fair value"
+            },
+            {
+              "key": "reported_fair_value",
+              "value": "7313.8"
+            },
+            {
+              "key": "level_1",
+              "value": "4794.3"
+            },
+            {
+              "key": "level_2",
+              "value": "1947.6"
+            },
+            {
+              "key": "level_3",
+              "value": "571.9"
+            },
+            {
+              "key": "category",
+              "value": "Total liabilities measured at fair value"
+            },
+            {
+              "key": "reported_fair_value",
+              "value": "15.2"
+            },
+            {
+              "key": "level_1",
+              "value": "0.0"
+            },
+            {
+              "key": "level_2",
+              "value": "15.2"
+            },
+            {
+              "key": "level_3",
+              "value": "0.0"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 18,
+          "title": "Investment Securities Balance and Activity Summary 2021-2022",
+          "data": [
+            {
+              "key": "period",
+              "value": "Balance, January 1, 2021"
+            },
+            {
+              "key": "fixed_income",
+              "value": "272.3"
+            },
+            {
+              "key": "other_invested",
+              "value": "204.7"
+            },
+            {
+              "key": "equity",
+              "value": "15.4"
+            },
+            {
+              "key": "period",
+              "value": "Change in value related to securities sold"
+            },
+            {
+              "key": "fixed_income",
+              "value": "-0.2"
+            },
+            {
+              "key": "other_invested",
+              "value": "2.8"
+            },
+            {
+              "key": "equity",
+              "value": "0.4"
+            },
+            {
+              "key": "period",
+              "value": "Change in value related to securities held"
+            },
+            {
+              "key": "fixed_income",
+              "value": "55.8"
+            },
+            {
+              "key": "other_invested",
+              "value": "2.1"
+            },
+            {
+              "key": "equity",
+              "value": "-0.2"
+            },
+            {
+              "key": "period",
+              "value": "Purchases / additions"
+            },
+            {
+              "key": "fixed_income",
+              "value": "null"
+            },
+            {
+              "key": "other_invested",
+              "value": "60.1"
+            },
+            {
+              "key": "equity",
+              "value": "82.6"
+            },
+            {
+              "key": "period",
+              "value": "Settlements / paydowns"
+            },
+            {
+              "key": "fixed_income",
+              "value": "-9.4"
+            },
+            {
+              "key": "other_invested",
+              "value": "-111.6"
+            },
+            {
+              "key": "equity",
+              "value": "-2.9"
+            },
+            {
+              "key": "period",
+              "value": "Balance, December 31, 2021"
+            },
+            {
+              "key": "fixed_income",
+              "value": "318.5"
+            },
+            {
+              "key": "other_invested",
+              "value": "158.1"
+            },
+            {
+              "key": "equity",
+              "value": "95.3"
+            },
+            {
+              "key": "period",
+              "value": "Change in value related to securities sold"
+            },
+            {
+              "key": "fixed_income",
+              "value": "null"
+            },
+            {
+              "key": "other_invested",
+              "value": "-5.1"
+            },
+            {
+              "key": "equity",
+              "value": "1.5"
+            },
+            {
+              "key": "period",
+              "value": "Change in value related to securities held"
+            },
+            {
+              "key": "fixed_income",
+              "value": "-146.6"
+            },
+            {
+              "key": "other_invested",
+              "value": "-26.4"
+            },
+            {
+              "key": "equity",
+              "value": "-52.0"
+            },
+            {
+              "key": "period",
+              "value": "Purchases / additions"
+            },
+            {
+              "key": "fixed_income",
+              "value": "null"
+            },
+            {
+              "key": "other_invested",
+              "value": "59.3"
+            },
+            {
+              "key": "equity",
+              "value": "203.5"
+            },
+            {
+              "key": "period",
+              "value": "Settlements / paydowns"
+            },
+            {
+              "key": "fixed_income",
+              "value": "-2.7"
+            },
+            {
+              "key": "other_invested",
+              "value": "-2.5"
+            },
+            {
+              "key": "equity",
+              "value": "-14.3"
+            },
+            {
+              "key": "period",
+              "value": "Balance, December 31, 2022"
+            },
+            {
+              "key": "fixed_income",
+              "value": "169.2"
+            },
+            {
+              "key": "other_invested",
+              "value": "183.4"
+            },
+            {
+              "key": "equity",
+              "value": "234.0"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 30,
+          "title": "Regulatory Requirements and Collateral Distribution",
+          "data": [
+            {
+              "key": "Foreign regulatory/Lloyd's requirements",
+              "value": "$419.4 million"
+            },
+            {
+              "key": "Derivative collateral requirements",
+              "value": "N/A"
+            },
+            {
+              "key": "Reinsurance collateral requirements",
+              "value": "$22.7 million"
+            },
+            {
+              "key": "Guarantee collateral requirements",
+              "value": "$729.1 million"
+            },
+            {
+              "key": "Total",
+              "value": "$1,309.7 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 30,
+          "title": "Accumulated Other Comprehensive Income",
+          "data": [
+            {
+              "key": "Beginning balance of unrealized depreciation on securities (2021)",
+              "value": "-$52.0 million"
+            },
+            {
+              "key": "Ending balance of unrealized net depreciation on securities (2021)",
+              "value": "-$53.6 million"
+            },
+            {
+              "key": "Current period change in unrealized net depreciation on securities (2022)",
+              "value": "$5.7 million"
+            },
+            {
+              "key": "Beginning balance of foreign currency translation on securities (2021)",
+              "value": "$10.3 million"
+            },
+            {
+              "key": "Ending balance of foreign currency translation adjustments (2021)",
+              "value": "-$36.9 million"
+            },
+            {
+              "key": "Current period change in foreign currency translation adjustments (2022)",
+              "value": "-$47.2 million"
+            },
+            {
+              "key": "Beginning balance of benefit plan liabilities on securities (2021)",
+              "value": "-$40.0 million"
+            },
+            {
+              "key": "Ending balance of benefit plan liabilities (2022)",
+              "value": "$21.7 million"
+            },
+            {
+              "key": "Current period change in benefit plan liabilities (2022)",
+              "value": "$61.7 million"
+            },
+            {
+              "key": "Other comprehensive income (2022)",
+              "value": "$20.2 million"
+            },
+            {
+              "key": "Beginning balance of accumulated other comprehensive loss (2021)",
+              "value": "-$129.5 million"
+            },
+            {
+              "key": "Ending balance of accumulated other comprehensive loss (2022)",
+              "value": "-$63.1 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 39,
+          "title": "Accident Year Claims Development Table",
+          "data": [
+            {
+              "key": "2013 Initial Value",
+              "value": "212.2"
+            },
+            {
+              "key": "2013 Final Value",
+              "value": "196.0"
+            },
+            {
+              "key": "2013 Reported Claims",
+              "value": "10604"
+            },
+            {
+              "key": "2014 Initial Value",
+              "value": "227.2"
+            },
+            {
+              "key": "2014 Final Value",
+              "value": "229.3"
+            },
+            {
+              "key": "2014 Reported Claims",
+              "value": "12402"
+            },
+            {
+              "key": "2015 Initial Value",
+              "value": "187.3"
+            },
+            {
+              "key": "2015 Final Value",
+              "value": "193.9"
+            },
+            {
+              "key": "2015 Reported Claims",
+              "value": "13916"
+            },
+            {
+              "key": "2016 Initial Value",
+              "value": "221.6"
+            },
+            {
+              "key": "2016 Final Value",
+              "value": "205.9"
+            },
+            {
+              "key": "2016 Reported Claims",
+              "value": "14008"
+            },
+            {
+              "key": "2017 Initial Value",
+              "value": "230.7"
+            },
+            {
+              "key": "2017 Final Value",
+              "value": "221.2"
+            },
+            {
+              "key": "2017 Reported Claims",
+              "value": "19611"
+            },
+            {
+              "key": "2018 Initial Value",
+              "value": "289.1"
+            },
+            {
+              "key": "2018 Final Value",
+              "value": "265.9"
+            },
+            {
+              "key": "2018 Reported Claims",
+              "value": "25128"
+            },
+            {
+              "key": "2019 Initial Value",
+              "value": "374.7"
+            },
+            {
+              "key": "2019 Final Value",
+              "value": "371.0"
+            },
+            {
+              "key": "2019 Reported Claims",
+              "value": "30462"
+            },
+            {
+              "key": "2020 Initial Value",
+              "value": "360.4"
+            },
+            {
+              "key": "2020 Final Value",
+              "value": "357.1"
+            },
+            {
+              "key": "2020 Reported Claims",
+              "value": "32435"
+            },
+            {
+              "key": "2021 Initial Value",
+              "value": "395.3"
+            },
+            {
+              "key": "2021 Final Value",
+              "value": "386.2"
+            },
+            {
+              "key": "2021 Reported Claims",
+              "value": "31906"
+            },
+            {
+              "key": "2022 Initial Value",
+              "value": "528.2"
+            },
+            {
+              "key": "2022 Final Value",
+              "value": "528.2"
+            },
+            {
+              "key": "2022 Reported Claims",
+              "value": "32566"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 39,
+          "title": "Year 2013 Financial Time Series",
+          "data": [
+            {
+              "key": "2014",
+              "value": "80.3"
+            },
+            {
+              "key": "2015",
+              "value": "221.2"
+            },
+            {
+              "key": "2016",
+              "value": "228.8"
+            },
+            {
+              "key": "2017",
+              "value": "230.6"
+            },
+            {
+              "key": "2018",
+              "value": "230.5"
+            },
+            {
+              "key": "2019",
+              "value": "229.2"
+            },
+            {
+              "key": "2020",
+              "value": "229.2"
+            },
+            {
+              "key": "2021",
+              "value": "229.2"
+            },
+            {
+              "key": "2022",
+              "value": "229.2"
+            },
+            {
+              "key": "2015",
+              "value": "774"
+            },
+            {
+              "key": "2016",
+              "value": "181.6"
+            },
+            {
+              "key": "2017",
+              "value": "193.6"
+            },
+            {
+              "key": "2018",
+              "value": "193.5"
+            },
+            {
+              "key": "2019",
+              "value": "193.6"
+            },
+            {
+              "key": "2020",
+              "value": "193.7"
+            },
+            {
+              "key": "2021",
+              "value": "193.7"
+            },
+            {
+              "key": "2022",
+              "value": "193.8"
+            },
+            {
+              "key": "2016",
+              "value": "75.3"
+            },
+            {
+              "key": "2017",
+              "value": "199.4"
+            },
+            {
+              "key": "2018",
+              "value": "203.2"
+            },
+            {
+              "key": "2019",
+              "value": "204.1"
+            },
+            {
+              "key": "2020",
+              "value": "204.2"
+            },
+            {
+              "key": "2021",
+              "value": "205.2"
+            },
+            {
+              "key": "2022",
+              "value": "205.2"
+            },
+            {
+              "key": "2017",
+              "value": "774"
+            },
+            {
+              "key": "2018",
+              "value": "208.7"
+            },
+            {
+              "key": "2019",
+              "value": "217.1"
+            },
+            {
+              "key": "2020",
+              "value": "219.4"
+            },
+            {
+              "key": "2021",
+              "value": "220.1"
+            },
+            {
+              "key": "2022",
+              "value": "220.4"
+            },
+            {
+              "key": "2018",
+              "value": "113.1"
+            },
+            {
+              "key": "2019",
+              "value": "259.6"
+            },
+            {
+              "key": "2020",
+              "value": "263.5"
+            },
+            {
+              "key": "2021",
+              "value": "263.5"
+            },
+            {
+              "key": "2022",
+              "value": "264.3"
+            },
+            {
+              "key": "2019",
+              "value": "205.9"
+            },
+            {
+              "key": "2020",
+              "value": "358.9"
+            },
+            {
+              "key": "2021",
+              "value": "364.3"
+            },
+            {
+              "key": "2022",
+              "value": "365.5"
+            },
+            {
+              "key": "2020",
+              "value": "194.8"
+            },
+            {
+              "key": "2021",
+              "value": "342.5"
+            },
+            {
+              "key": "2022",
+              "value": "349.2"
+            },
+            {
+              "key": "2021",
+              "value": "182.3"
+            },
+            {
+              "key": "2022",
+              "value": "370.1"
+            },
+            {
+              "key": "2022",
+              "value": "348.5"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 39,
+          "title": "Average Annual Percentage Payout of Incurred Loss and Allocated Loss Adjustment Expenses by Age, Net of Reinsurance",
+          "data": [
+            {
+              "key": "Year 1",
+              "value": "49.3%"
+            },
+            {
+              "key": "Year 2",
+              "value": "46.8%"
+            },
+            {
+              "key": "Year 3",
+              "value": "2.5%"
+            },
+            {
+              "key": "Year 4",
+              "value": "0.7%"
+            },
+            {
+              "key": "Year 5",
+              "value": "0.4%"
+            },
+            {
+              "key": "Year 6",
+              "value": "0.1%"
+            },
+            {
+              "key": "Year 7",
+              "value": "0.1%"
+            },
+            {
+              "key": "Year 8",
+              "value": "0.1%"
+            },
+            {
+              "key": "Year 9",
+              "value": "0.0%"
+            },
+            {
+              "key": "Year 10",
+              "value": "0.0%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 46,
+          "title": "Federal and Foreign Income Tax Provisions",
+          "data": [
+            {
+              "key": "Current: United States 2022",
+              "value": ""
+            },
+            {
+              "key": "Current: United States 2021",
+              "value": ""
+            },
+            {
+              "key": "Foreign 2022",
+              "value": ""
+            },
+            {
+              "key": "Foreign 2021",
+              "value": ""
+            },
+            {
+              "key": "Total current income tax provision 2022",
+              "value": ""
+            },
+            {
+              "key": "Total current income tax provision 2021",
+              "value": ""
+            },
+            {
+              "key": "United States tax (benefit) expense 2022",
+              "value": ""
+            },
+            {
+              "key": "United States tax (benefit) expense 2021",
+              "value": ""
+            },
+            {
+              "key": "United States change in valuation allowance on certain foreign tax credits 2022",
+              "value": ""
+            },
+            {
+              "key": "United States change in valuation allowance on certain foreign tax credits 2021",
+              "value": ""
+            },
+            {
+              "key": "Foreign tax expense (benefit) 2022",
+              "value": ""
+            },
+            {
+              "key": "Foreign tax expense (benefit) 2021",
+              "value": ""
+            },
+            {
+              "key": "Total deferred income tax (benefit) provision 2022",
+              "value": ""
+            },
+            {
+              "key": "Total deferred income tax (benefit) provision 2021",
+              "value": ""
+            },
+            {
+              "key": "Total federal and foreign income tax (benefit) provision 2022",
+              "value": ""
+            },
+            {
+              "key": "Total federal and foreign income tax (benefit) provision 2021",
+              "value": ""
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 52,
+          "title": "Financial Notes and Employee Benefits",
+          "data": [
+            {
+              "key": "Loans to Farmers Edge IPO Conversion Gain",
+              "value": "$11.9 million"
+            },
+            {
+              "key": "New Credit Facility Loan to Farmers Edge",
+              "value": "$5.9 million; due January 31, 2025; interest 6%"
+            },
+            {
+              "key": "Loan to Fairfax (US)",
+              "value": "$200.0 million; interest 0.12%; converted into an in-kind dividend"
+            },
+            {
+              "key": "Loan to Fairfax (US) repayment",
+              "value": "$50.0 million; interest 2.21%; repaid August 8, 2022"
+            },
+            {
+              "key": "Loan to Sigma Co International Corp",
+              "value": "$6.5 million; interest 5%; maturity June 19, 2024"
+            },
+            {
+              "key": "Loan to AGT Food and Ingredients Inc.",
+              "value": "$70.8 million; interest 6%; matured on April 16, 2020; extended multiple times, latest to April 16, 2024"
+            },
+            {
+              "key": "Loan to Alliance Pulse Processors Inc.",
+              "value": "$16.7 million; interest 6%; matured on April 16, 2020; extended multiple times, latest to April 16, 2024"
+            },
+            {
+              "key": "Loan to Toys \"R\" Us (Canada) Ltd.",
+              "value": "$18.9 million; interest 9.5%; matured on January 28, 2023; forgiven during the sale of stock"
+            },
+            {
+              "key": "Loan to Arbel Bakliyat Hububat Sanayi Ve Ticaret A.S",
+              "value": "$25.0 million; interest 6%; maturity extended several times, latest to April 15, 2023"
+            },
+            {
+              "key": "Defined Benefit Pension Plan",
+              "value": "Non-contributory Plan for employees hired before August 1, 2011; minimum funding requirements of ERISA 1974."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 40,
+          "title": "Incurred Loss and Allocated Loss Adjustment Expenses, Net of Reinsurance",
+          "data": [
+            {
+              "key": "Accident Year 2013",
+              "value": "86.7"
+            },
+            {
+              "key": "Accident Year 2014",
+              "value": "87.0"
+            },
+            {
+              "key": "Accident Year 2015",
+              "value": "88.0"
+            },
+            {
+              "key": "Accident Year 2016",
+              "value": "82.2"
+            },
+            {
+              "key": "Accident Year 2017",
+              "value": "93.2"
+            },
+            {
+              "key": "Accident Year 2018",
+              "value": "106.1"
+            },
+            {
+              "key": "Accident Year 2019",
+              "value": "143.4"
+            },
+            {
+              "key": "Accident Year 2020",
+              "value": "167.3"
+            },
+            {
+              "key": "Accident Year 2021",
+              "value": "209.2"
+            },
+            {
+              "key": "Accident Year 2022",
+              "value": "223.3"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 40,
+          "title": "Cumulative Paid Loss and Allocated Loss Adjustment Expenses, Net of Reinsurance",
+          "data": [
+            {
+              "key": "2014",
+              "value": "12.2"
+            },
+            {
+              "key": "2015",
+              "value": "4.0"
+            },
+            {
+              "key": "2016",
+              "value": "9.0"
+            },
+            {
+              "key": "2017",
+              "value": "10.7"
+            },
+            {
+              "key": "2018",
+              "value": "5.2"
+            },
+            {
+              "key": "2019",
+              "value": "14.0"
+            },
+            {
+              "key": "2020",
+              "value": "12.9"
+            },
+            {
+              "key": "2021",
+              "value": "14.1"
+            },
+            {
+              "key": "2022",
+              "value": "16.4"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 40,
+          "title": "Average of each year",
+          "data": [
+            {
+              "key": "Year 1",
+              "value": "6.9%"
+            },
+            {
+              "key": "Year 2",
+              "value": "10.0%"
+            },
+            {
+              "key": "Year 3",
+              "value": "11.6%"
+            },
+            {
+              "key": "Year 4",
+              "value": "10.6%"
+            },
+            {
+              "key": "Year 5",
+              "value": "9.5%"
+            },
+            {
+              "key": "Year 6",
+              "value": "7.0%"
+            },
+            {
+              "key": "Year 7",
+              "value": "5.6%"
+            },
+            {
+              "key": "Year 8",
+              "value": "5.7%"
+            },
+            {
+              "key": "Year 9",
+              "value": "8.6%"
+            },
+            {
+              "key": "Year 10",
+              "value": "5.3%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 51,
+          "title": "Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Dividends paid on preferred shares owned by TIG",
+              "value": "$0.3m"
+            },
+            {
+              "key": "Net income 2022",
+              "value": "$396.6"
+            },
+            {
+              "key": "Net income 2021",
+              "value": "$94.3"
+            },
+            {
+              "key": "Policyholders' surplus 2022",
+              "value": "$4,310.6"
+            },
+            {
+              "key": "Policyholders' surplus 2021",
+              "value": "$4,049.8"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Pension Plan Benefit Obligation and Plan Assets Changes",
+          "data": [
+            {
+              "key": "Change in projected benefit obligation:",
+              "value": ""
+            },
+            {
+              "key": "Benefit obligation at beginning of year",
+              "value": "281.3"
+            },
+            {
+              "key": "Service cost",
+              "value": "8.4"
+            },
+            {
+              "key": "Interest cost",
+              "value": "8.5"
+            },
+            {
+              "key": "Actuarial gain",
+              "value": "-80.5"
+            },
+            {
+              "key": "Benefits paid",
+              "value": "-10.8"
+            },
+            {
+              "key": "Benefit obligation at end of year",
+              "value": "206.9"
+            },
+            {
+              "key": "Change in Plan assets:",
+              "value": ""
+            },
+            {
+              "key": "Fair value of Pension Plan assets at beginning of year",
+              "value": "187.6"
+            },
+            {
+              "key": "Actual (depreciation) appreciation on Pension Plan assets",
+              "value": "-9.1"
+            },
+            {
+              "key": "Actual contributions during the year",
+              "value": "9.8"
+            },
+            {
+              "key": "Benefits paid",
+              "value": "-10.8"
+            },
+            {
+              "key": "Fair value of Pension Plan assets at end of year",
+              "value": "177.5"
+            },
+            {
+              "key": "Funded status and accrued pension cost",
+              "value": "-29.4"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Plan Assets Distribution",
+          "data": [
+            {
+              "key": "Equity securities",
+              "value": "78.7%"
+            },
+            {
+              "key": "Mutual funds - fixed income securities",
+              "value": "6.9%"
+            },
+            {
+              "key": "Money market",
+              "value": "14.4%"
+            },
+            {
+              "key": "Fair value of Plan assets",
+              "value": "100.0%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 54,
+          "title": "Net Periodic Benefit Cost",
+          "data": [
+            {
+              "key": "Service cost",
+              "value": "5"
+            },
+            {
+              "key": "Interest cost",
+              "value": ""
+            },
+            {
+              "key": "Return on Plan assets",
+              "value": ""
+            },
+            {
+              "key": "Recognized actuarial loss",
+              "value": ""
+            },
+            {
+              "key": "Net periodic benefit cost",
+              "value": "5"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 58,
+          "title": "Post Retirement Benefit Obligations Summary",
+          "data": [
+            {
+              "key": "Accrued Benefit Cost (2022)",
+              "value": "$38.8m"
+            },
+            {
+              "key": "Accrued Benefit Cost (2021)",
+              "value": "$49.9m"
+            },
+            {
+              "key": "Accumulated Other Comprehensive Income (2022)",
+              "value": "$28.9m"
+            },
+            {
+              "key": "Accumulated Other Comprehensive Income (2021)",
+              "value": "$27.4m"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 59,
+          "title": "Assumptions on Health Care Costs and Their Impact",
+          "data": [
+            {
+              "key": "Annual assumed rate of increase in health care costs",
+              "value": "6.84% in 2023, decreasing to 4.00% in 2048"
+            },
+            {
+              "key": "Impact of increasing health care costs",
+              "value": "Increase accumulated postretirement benefit obligation by $4.2m"
+            },
+            {
+              "key": "Impact of decreasing health care costs",
+              "value": "Decrease accumulated postretirement benefit obligation by $3.6m"
+            },
+            {
+              "key": "Profit sharing amounts for years 2022 and 2021",
+              "value": "$4.5m and $3.7m, respectively"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 59,
+          "title": "Time-Based Rate Structure",
+          "data": [
+            {
+              "key": "Less than or equal to 5 years",
+              "value": "6%"
+            },
+            {
+              "key": "More than 5 years but less than or equal to 15",
+              "value": "7%"
+            },
+            {
+              "key": "More than 15 years",
+              "value": "8%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 59,
+          "title": "Vesting Schedule for Profit Sharing Contributions",
+          "data": [
+            {
+              "key": "Less than 2 years",
+              "value": "0%"
+            },
+            {
+              "key": "2 years but less than 3",
+              "value": "20%"
+            },
+            {
+              "key": "3 years but less than 4",
+              "value": "40%"
+            },
+            {
+              "key": "4 years but less than 5",
+              "value": "60%"
+            },
+            {
+              "key": "5 years but less than 6",
+              "value": "80%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 60,
+          "title": "Stock-Based Compensation Plans and Employee Share Purchase Plans",
+          "data": [
+            {
+              "key": "Awards outstanding as of December 31, 2021",
+              "value": "600940"
+            },
+            {
+              "key": "Average value of awards outstanding as of December 31, 2021",
+              "value": "393.55"
+            },
+            {
+              "key": "Granted",
+              "value": "62772"
+            },
+            {
+              "key": "Average value of granted",
+              "value": "471.39"
+            },
+            {
+              "key": "Vested",
+              "value": "-33341"
+            },
+            {
+              "key": "Average value of vested",
+              "value": "428.55"
+            },
+            {
+              "key": "Forfeited",
+              "value": "-6229"
+            },
+            {
+              "key": "Average value of forfeited",
+              "value": "438.43"
+            },
+            {
+              "key": "Unallocated",
+              "value": "-30451"
+            },
+            {
+              "key": "Average value of unallocated",
+              "value": "469.54"
+            },
+            {
+              "key": "Awards outstanding as of December 31, 2022",
+              "value": "593691"
+            },
+            {
+              "key": "Average value of awards outstanding as of December 31, 2022",
+              "value": "392.42"
+            },
+            {
+              "key": "Vested and exercisable as of December 31, 2022",
+              "value": "22036"
+            },
+            {
+              "key": "Average value of vested and exercisable as of December 31, 2022",
+              "value": "460.13"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 25,
+          "title": "Investment Funds and Other Invested Assets Summary",
+          "data": [
+            {
+              "key": "Investment funds and partnerships, at fair value",
+              "value": "705.2"
+            },
+            {
+              "key": "Investment funds and partnerships, at equity",
+              "value": "76.7"
+            },
+            {
+              "key": "Real estate",
+              "value": "279.6"
+            },
+            {
+              "key": "Affiliate loans",
+              "value": "123.1"
+            },
+            {
+              "key": "Derivatives, at fair value",
+              "value": "54.6"
+            },
+            {
+              "key": "Mortgage loans",
+              "value": "740.7"
+            },
+            {
+              "key": "Benefit plan funds, at fair value",
+              "value": "22.9"
+            },
+            {
+              "key": "Other",
+              "value": "40.7"
+            },
+            {
+              "key": "Total other invested assets",
+              "value": "2043.5"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 26,
+          "title": "As of December 31, 2022 Derivative Contracts Summary",
+          "data": [
+            {
+              "key": "CPI-linked derivative contracts",
+              "value": "Notional Amount: $16,457.4 million, Cost: $66.2 million, Fair Value Liability: $4.0 million"
+            },
+            {
+              "key": "Forward currency contracts",
+              "value": "Notional Amount: $1,122.3 million, Fair Value Asset: $30.5 million, Fair Value Liability: $23.9 million"
+            },
+            {
+              "key": "Equity warrants",
+              "value": "Notional Amount: $187.7 million, Cost: $30.5 million, Fair Value Asset: $19.6 million"
+            },
+            {
+              "key": "Long total return swaps",
+              "value": "Notional Amount: $81.0 million, Fair Value Asset: $4.6 million"
+            },
+            {
+              "key": "U.S. Treasury bond forward contracts",
+              "value": "Notional Amount: $20.8 million, Fair Value Liability: $0.2 million"
+            },
+            {
+              "key": "Total",
+              "value": "Cost: $96.7 million, Fair Value Asset: $54.7 million, Fair Value Liability: $24.1 million"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Odyssey Group Holdings, Inc."
+            },
+            {
+              "key": "Reporting Dates",
+              "value": "As of December 31, 2022 and 2021"
+            },
+            {
+              "key": "Years Ended",
+              "value": "For the years ended December 31, 2022 and 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 4,
+          "title": "Balance Sheet Assets and Liabilities",
+          "data": [
+            {
+              "key": "Total Assets (current period)",
+              "value": "19325.9"
+            },
+            {
+              "key": "Total Assets (previous period)",
+              "value": "17050.6"
+            },
+            {
+              "key": "Total Liabilities (current period)",
+              "value": "14024.4"
+            },
+            {
+              "key": "Total Liabilities (previous period)",
+              "value": "11830.3"
+            },
+            {
+              "key": "Total Shareholders' Equity (current period)",
+              "value": "5301.5"
+            },
+            {
+              "key": "Total Shareholders' Equity (previous period)",
+              "value": "5220.3"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 4,
+          "title": "Shareholders' Equity Statement",
+          "data": [
+            {
+              "key": "Total Shareholders' Equity",
+              "value": "5301.5"
+            },
+            {
+              "key": "Additional Paid-in Capital (current)",
+              "value": "2907.1"
+            },
+            {
+              "key": "Retained Earnings (current)",
+              "value": "2428.2"
+            },
+            {
+              "key": "Accumulated Other Comprehensive Loss",
+              "value": "(63.1)"
+            },
+            {
+              "key": "Non-controlling interest",
+              "value": "29.3"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "Revenue and Expense Statement",
+          "data": [
+            {
+              "key": "Gross premiums written",
+              "value": "6810.0"
+            },
+            {
+              "key": "Ceded premiums written",
+              "value": "902.0"
+            },
+            {
+              "key": "Net premiums written",
+              "value": "5908.0"
+            },
+            {
+              "key": "Increase in net unearned premiums",
+              "value": "-241.7"
+            },
+            {
+              "key": "Net premiums earned",
+              "value": "5666.3"
+            },
+            {
+              "key": "Net investment income",
+              "value": "430.3"
+            },
+            {
+              "key": "Realized investment (losses) gains",
+              "value": "-486.9"
+            },
+            {
+              "key": "Other-than-temporary impairment losses",
+              "value": "-9.5"
+            },
+            {
+              "key": "Total net realized investment (losses) gains",
+              "value": "-496.4"
+            },
+            {
+              "key": "Total revenues",
+              "value": "5600.2"
+            },
+            {
+              "key": "Losses and loss adjustment expenses",
+              "value": "3900.7"
+            },
+            {
+              "key": "Acquisition costs",
+              "value": "1136.1"
+            },
+            {
+              "key": "Other underwriting expenses",
+              "value": "399.5"
+            },
+            {
+              "key": "Other expenses, net",
+              "value": "2.9"
+            },
+            {
+              "key": "Interest expense",
+              "value": "3.4"
+            },
+            {
+              "key": "Total expenses",
+              "value": "5442.6"
+            },
+            {
+              "key": "Current tax",
+              "value": "89.6"
+            },
+            {
+              "key": "Deferred tax",
+              "value": "-97.5"
+            },
+            {
+              "key": "Total federal and foreign income tax (benefit) provision",
+              "value": "-7.9"
+            },
+            {
+              "key": "Net income",
+              "value": "165.5"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 6,
+          "title": "Comprehensive Income Statement",
+          "data": [
+            {
+              "key": "Net Income",
+              "value": "165.5"
+            },
+            {
+              "key": "Previous Year Net Income",
+              "value": "543.7"
+            },
+            {
+              "key": "Unrealized net depreciation on securities arising during the year",
+              "value": "(28.2)"
+            },
+            {
+              "key": "Previous Year Unrealized net depreciation on securities arising during the year",
+              "value": "(63.9)"
+            },
+            {
+              "key": "Foreign currency translation adjustments",
+              "value": "(59.8)"
+            },
+            {
+              "key": "Previous Year Foreign currency translation adjustments",
+              "value": "24.4"
+            },
+            {
+              "key": "Change in benefit plan liabilities",
+              "value": "78.1"
+            },
+            {
+              "key": "Previous Year Change in benefit plan liabilities",
+              "value": "36.1"
+            },
+            {
+              "key": "Other comprehensive Income, before tax",
+              "value": "25.6"
+            },
+            {
+              "key": "Previous Year Other comprehensive Income, before tax",
+              "value": "58.5"
+            },
+            {
+              "key": "Unrealized net depreciation on securities (tax benefit)",
+              "value": "5.9"
+            },
+            {
+              "key": "Previous Year Unrealized net depreciation on securities (tax benefit)",
+              "value": "13.4"
+            },
+            {
+              "key": "Reclassification adjustment for net realized investment losses (tax)",
+              "value": "(7.5)"
+            },
+            {
+              "key": "Previous Year Reclassification adjustment for net realized investment losses (tax)",
+              "value": "(13.0)"
+            },
+            {
+              "key": "Foreign currency translation adjustments (tax)",
+              "value": "12.6"
+            },
+            {
+              "key": "Previous Year Foreign currency translation adjustments (tax)",
+              "value": "(5.1)"
+            },
+            {
+              "key": "Change in benefit plan liabilities (tax)",
+              "value": "(16.4)"
+            },
+            {
+              "key": "Previous Year Change in benefit plan liabilities (tax)",
+              "value": "(7.6)"
+            },
+            {
+              "key": "Total tax provision",
+              "value": "(5.4)"
+            },
+            {
+              "key": "Previous Year Total tax provision",
+              "value": "(12.3)"
+            },
+            {
+              "key": "Other comprehensive income, net of tax",
+              "value": "20.2"
+            },
+            {
+              "key": "Previous Year Other comprehensive income, net of tax",
+              "value": "46.2"
+            },
+            {
+              "key": "Comprehensive income",
+              "value": "185.7"
+            },
+            {
+              "key": "Previous Year Comprehensive income",
+              "value": "589.9"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 8,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Net income",
+              "value": "165.5"
+            },
+            {
+              "key": "Prior net income",
+              "value": "543.7"
+            },
+            {
+              "key": "Increase in unpaid losses and loss adjustment expenses, net of reinsurance",
+              "value": "1334.2"
+            },
+            {
+              "key": "Prior increase in unpaid losses",
+              "value": "1041.5"
+            },
+            {
+              "key": "Net cash provided by operating activities",
+              "value": "1796.4"
+            },
+            {
+              "key": "Prior net cash provided by operating activities",
+              "value": "1287.2"
+            },
+            {
+              "key": "Sales of trading securities",
+              "value": "5768.4"
+            },
+            {
+              "key": "Prior sales of trading securities",
+              "value": "10357.7"
+            },
+            {
+              "key": "Purchases of trading securities",
+              "value": "-9240.3"
+            },
+            {
+              "key": "Prior purchases of trading securities",
+              "value": "-9472.7"
+            },
+            {
+              "key": "Net cash (used in) provided by investing activities",
+              "value": "-4030.4"
+            },
+            {
+              "key": "Prior net cash provided by investing activities",
+              "value": "931.2"
+            },
+            {
+              "key": "Common shares capital contributions",
+              "value": "0.0"
+            },
+            {
+              "key": "Prior common shares capital contributions",
+              "value": "950.0"
+            },
+            {
+              "key": "Net cash used in financing activities",
+              "value": "-120.3"
+            },
+            {
+              "key": "Prior net cash used in financing activities",
+              "value": "-52.4"
+            },
+            {
+              "key": "Cash and cash equivalents, beginning of year",
+              "value": "3228.2"
+            },
+            {
+              "key": "Prior cash and cash equivalents, beginning of year",
+              "value": "1075.2"
+            },
+            {
+              "key": "Cash and cash equivalents, end of year",
+              "value": "824.7"
+            },
+            {
+              "key": "Prior cash and cash equivalents, end of year",
+              "value": "3228.2"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 13,
+          "title": "Notes to Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Deposit Assets and Liabilities",
+              "value": "The Company records reinsurance contracts using deposit accounting, recognizing profits or losses net over contract periods."
+            },
+            {
+              "key": "Income Taxes",
+              "value": "Deferred tax assets reduced by a valuation allowance; a $39.1m valuation allowance recorded for foreign tax credit carryovers."
+            },
+            {
+              "key": "Derivatives",
+              "value": "Derivatives used for managing asset and liability value changes, categorized as trading securities; gains/losses recorded in the consolidated statement of operations."
+            },
+            {
+              "key": "Foreign Currency",
+              "value": "Transaction gains/losses from foreign currency reflected in consolidated operations."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 14,
+          "title": "Statements of operations",
+          "data": [
+            {
+              "key": "Foreign currency forward contracts gains (losses)",
+              "value": "60.4"
+            },
+            {
+              "key": "Other investment losses",
+              "value": "(7.4)"
+            },
+            {
+              "key": "Non-Investment realized (losses) gains",
+              "value": "(8.9)"
+            },
+            {
+              "key": "Total realized investment gains (losses)",
+              "value": "44.1"
+            },
+            {
+              "key": "Net investment loss",
+              "value": "(0.4)"
+            },
+            {
+              "key": "Income (loss) before income tax",
+              "value": "43.7"
+            },
+            {
+              "key": "Total federal and foreign income tax provision (benefit)",
+              "value": "9.2"
+            },
+            {
+              "key": "Net income (loss)",
+              "value": "34.5"
+            },
+            {
+              "key": "Other comprehensive (loss) income before income tax",
+              "value": "(59.8)"
+            },
+            {
+              "key": "Federal and foreign income tax (benefit) provision before income tax",
+              "value": "(12.6)"
+            },
+            {
+              "key": "Other comprehensive (loss) income, net of tax",
+              "value": "(47.2)"
+            },
+            {
+              "key": "Total effects on comprehensive loss and shareholders' equity",
+              "value": "(12.7)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 14,
+          "title": "Depreciation and useful lives of fixed assets",
+          "data": [
+            {
+              "key": "Electronic data processing equipment and furniture",
+              "value": "5 years"
+            },
+            {
+              "key": "Personal computers and software",
+              "value": "3 years"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 15,
+          "title": "Contingent Liabilities and Recent Accounting Pronouncements",
+          "data": [
+            {
+              "key": "Contingent Liabilities Disclosure",
+              "value": "Amounts are accrued for the resolution of claims that have either been asserted or are deemed probable of assertion, with no contingent liabilities recorded as of December 31, 2022 and 2021."
+            },
+            {
+              "key": "Recent Accounting Pronouncements",
+              "value": "The FASB issued ASU 2016-13 for recognition of credit losses, effective 2023. The Company evaluated it as having an insignificant impact."
+            },
+            {
+              "key": "Equity Method Investments Valuation Misstatement",
+              "value": "The Company concluded that certain investments' values were misstated for 2021, resulting in various overstated and understated amounts which were corrected in the 2022 financial statements."
+            },
+            {
+              "key": "Subsequent Events Disclosure",
+              "value": "Evaluated significance of events occurring after December 31, 2022, as of April 4, 2023."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 16,
+          "title": "Fair Value Measurements",
+          "data": [
+            {
+              "key": "Description",
+              "value": "The Company accounts for a significant portion of its financial instruments at fair value as required by GAAP."
+            },
+            {
+              "key": "Fair Value Hierarchy",
+              "value": "The assets and liabilities recorded at fair value in the consolidated balance sheets are measured and classified in a three-level hierarchy for disclosure purposes."
+            },
+            {
+              "key": "Level 1",
+              "value": "Financial assets and liabilities for which the values are based on unadjusted quoted prices for identical assets or liabilities in an active market."
+            },
+            {
+              "key": "Level 2",
+              "value": "Financial assets and liabilities for which the values are based on quoted prices in markets that are not active."
+            },
+            {
+              "key": "Level 3",
+              "value": "Financial assets and liabilities for which the values are based on prices or valuation techniques that require inputs that are both unobservable and significant."
+            },
+            {
+              "key": "Investments Purchased",
+              "value": "During the years ended December 31, 2022 and 2021, the Company purchased $262.8m and $142.7m, respectively, of investments that are classified as Level 3."
+            },
+            {
+              "key": "Investments Held",
+              "value": "As of December 31, 2022 and 2021, the Company held $586.6m and $571.9m, respectively, of investments that are classified as Level 3."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 17,
+          "title": "Fair Value Measurements Overview",
+          "data": [
+            {
+              "key": "Total assets measured at fair value",
+              "value": "$8711.2 million"
+            },
+            {
+              "key": "Total liabilities measured at fair value",
+              "value": "$24.1 million"
+            },
+            {
+              "key": "Majority of Level 2 assets",
+              "value": "$6,636.4 million"
+            },
+            {
+              "key": "Total fixed income securities, held for trading",
+              "value": "$6472.1 million"
+            },
+            {
+              "key": "Corporate securities distribution across levels",
+              "value": "Level 1: $5.4 million, Level 2: $1005.0 million, Level 3: $169.2 million"
+            },
+            {
+              "key": "Derivative liabilities",
+              "value": "$24.1 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 19,
+          "title": "Investment Value Changes Summary",
+          "data": [
+            {
+              "key": "Year (2022) - Fixed income securities - Investment income",
+              "value": "3.3"
+            },
+            {
+              "key": "Year (2022) - Fixed income securities - Realized capital gains",
+              "value": "-146.5"
+            },
+            {
+              "key": "Year (2022) - Fixed income securities - Currency translation",
+              "value": "-0.1"
+            },
+            {
+              "key": "Year (2022) - Fixed income securities - Total",
+              "value": "-143.3"
+            },
+            {
+              "key": "Year (2022) - Other invested assets - Investment income",
+              "value": "8.9"
+            },
+            {
+              "key": "Year (2022) - Other invested assets - Realized capital gains",
+              "value": "-31.6"
+            },
+            {
+              "key": "Year (2022) - Other invested assets - Currency translation",
+              "value": "0.0"
+            },
+            {
+              "key": "Year (2022) - Other invested assets - Total",
+              "value": "-22.7"
+            },
+            {
+              "key": "Year (2022) - Equity securities - Investment income",
+              "value": "8.2"
+            },
+            {
+              "key": "Year (2022) - Equity securities - Realized capital gains",
+              "value": "-50.6"
+            },
+            {
+              "key": "Year (2022) - Equity securities - Currency translation",
+              "value": "0.0"
+            },
+            {
+              "key": "Year (2022) - Equity securities - Total",
+              "value": "-42.4"
+            },
+            {
+              "key": "Year (2022) - Total changes in value included in net income - Investment income",
+              "value": "20.4"
+            },
+            {
+              "key": "Year (2022) - Total changes in value included in net income - Realized capital gains",
+              "value": "-228.7"
+            },
+            {
+              "key": "Year (2022) - Total changes in value included in net income - Currency translation",
+              "value": "-0.1"
+            },
+            {
+              "key": "Year (2022) - Total changes in value included in net income - Total",
+              "value": "-208.4"
+            },
+            {
+              "key": "Year (2021) - Fixed income securities - Investment income",
+              "value": "43.0"
+            },
+            {
+              "key": "Year (2021) - Fixed income securities - Realized capital gains",
+              "value": "55.4"
+            },
+            {
+              "key": "Year (2021) - Fixed income securities - Currency translation",
+              "value": "0.2"
+            },
+            {
+              "key": "Year (2021) - Fixed income securities - Total",
+              "value": "59.9"
+            },
+            {
+              "key": "Year (2021) - Other invested assets - Investment income",
+              "value": "6.8"
+            },
+            {
+              "key": "Year (2021) - Other invested assets - Realized capital gains",
+              "value": "4.9"
+            },
+            {
+              "key": "Year (2021) - Other invested assets - Currency translation",
+              "value": "0.0"
+            },
+            {
+              "key": "Year (2021) - Other invested assets - Total",
+              "value": "11.7"
+            },
+            {
+              "key": "Year (2021) - Equity securities - Investment income",
+              "value": "5.4"
+            },
+            {
+              "key": "Year (2021) - Equity securities - Realized capital gains",
+              "value": "0.2"
+            },
+            {
+              "key": "Year (2021) - Equity securities - Currency translation",
+              "value": "0.0"
+            },
+            {
+              "key": "Year (2021) - Equity securities - Total",
+              "value": "5.6"
+            },
+            {
+              "key": "Year (2021) - Total changes in value included in net income - Investment income",
+              "value": "16.5"
+            },
+            {
+              "key": "Year (2021) - Total changes in value included in net income - Realized capital gains",
+              "value": "60.5"
+            },
+            {
+              "key": "Year (2021) - Total changes in value included in net income - Currency translation",
+              "value": "0.2"
+            },
+            {
+              "key": "Year (2021) - Total changes in value included in net income - Total",
+              "value": "77.2"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 19,
+          "title": "Valuation Technique/Asset Type Market Approach",
+          "data": [
+            {
+              "key": "Fixed income securities - 2022 value",
+              "value": "169.1"
+            },
+            {
+              "key": "Fixed income securities - 2021 value",
+              "value": "318.5"
+            },
+            {
+              "key": "Fixed income securities - Unobservable inputs",
+              "value": "Credit risk premium"
+            },
+            {
+              "key": "Fixed income securities - Range 2022",
+              "value": "5.3% - 6.0%"
+            },
+            {
+              "key": "Fixed income securities - Range 2021",
+              "value": "1.0% - 5.1%"
+            },
+            {
+              "key": "Fixed income securities - Weighted average 2022",
+              "value": "5.3%"
+            },
+            {
+              "key": "Fixed income securities - Weighted average 2021",
+              "value": "3.9%"
+            },
+            {
+              "key": "Preferred stocks - 2022 value",
+              "value": "109.4"
+            },
+            {
+              "key": "Preferred stocks - 2021 value",
+              "value": "20.3"
+            },
+            {
+              "key": "Preferred stocks - Unobservable inputs",
+              "value": "Credit risk premium, Recent transaction price"
+            },
+            {
+              "key": "Preferred stocks - Range 2022",
+              "value": "5.8%"
+            },
+            {
+              "key": "Preferred stocks - Range 2021",
+              "value": "3.8% - 8.0%"
+            },
+            {
+              "key": "Preferred stocks - Weighted average 2022",
+              "value": "5.8%"
+            },
+            {
+              "key": "Preferred stocks - Weighted average 2021",
+              "value": "5.3%"
+            },
+            {
+              "key": "Warrants - 2022 value",
+              "value": "19.6"
+            },
+            {
+              "key": "Warrants - 2021 value",
+              "value": "10.1"
+            },
+            {
+              "key": "Warrants - Unobservable inputs",
+              "value": "Volatility, Recent transaction price"
+            },
+            {
+              "key": "Warrants - Range 2022",
+              "value": "31.8% - 46.8%"
+            },
+            {
+              "key": "Warrants - Range 2021",
+              "value": "75.1%"
+            },
+            {
+              "key": "Warrants - Weighted average 2022",
+              "value": "34.5%"
+            },
+            {
+              "key": "Warrants - Weighted average 2021",
+              "value": "75.1%"
+            },
+            {
+              "key": "Other investment - 2022 value",
+              "value": "163.8"
+            },
+            {
+              "key": "Other investment - 2021 value",
+              "value": "148.0"
+            },
+            {
+              "key": "Other investment - Unobservable inputs",
+              "value": "Credit risk premium, Discount rate"
+            },
+            {
+              "key": "Other investment - Range 2022",
+              "value": "7.4% - 12.3%, 20.8% - 21.5%"
+            },
+            {
+              "key": "Other investment - Range 2021",
+              "value": "5.6% - 22.1%"
+            },
+            {
+              "key": "Common stocks, held for trading - 2022 value",
+              "value": "124.7"
+            },
+            {
+              "key": "Common stocks, held for trading - 2021 value",
+              "value": "75.0"
+            },
+            {
+              "key": "Common stocks, held for trading - Unobservable inputs",
+              "value": "Credit spread/disc rate/terminal growth rate, Recent transaction price"
+            },
+            {
+              "key": "Common stocks, held for trading - Range 2022",
+              "value": "2.1% / 15.1%/ 1.5%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 20,
+          "title": "Fair Value Movement of HWIC Investment Classes 2021-2022",
+          "data": [
+            {
+              "key": "Fair value as of January 1, 2021",
+              "value": "$308.9 million"
+            },
+            {
+              "key": "Purchases/(Sales) in 2021",
+              "value": "$67.7 million"
+            },
+            {
+              "key": "Purchases/(Sales) in 2022",
+              "value": "$19.3 million"
+            },
+            {
+              "key": "Change in fair value in 2021",
+              "value": "-$4.9 million"
+            },
+            {
+              "key": "Change in fair value in 2022",
+              "value": "-$11.9 million"
+            },
+            {
+              "key": "Fair value as of December 31, 2022",
+              "value": "$3660 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 21,
+          "title": "Investments and Cash",
+          "data": [
+            {
+              "key": "Common stocks at equity 2022",
+              "value": "$2,076.3 million"
+            },
+            {
+              "key": "Common stocks at equity 2021",
+              "value": "$1,585.0 million"
+            },
+            {
+              "key": "Gross unrealized appreciation 2022",
+              "value": "$7.9 million"
+            },
+            {
+              "key": "Gross unrealized appreciation 2021",
+              "value": "$3.2 million"
+            },
+            {
+              "key": "Gross unrealized depreciation 2022",
+              "value": "$71.0 million"
+            },
+            {
+              "key": "Gross unrealized depreciation 2021",
+              "value": "$73.6 million"
+            },
+            {
+              "key": "Total fixed income securities fair value 2022",
+              "value": "$9,238.1 million"
+            },
+            {
+              "key": "Total fixed income securities fair value 2021",
+              "value": "$8,725.9 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 22,
+          "title": "Investment Income Statement",
+          "data": [
+            {
+              "key": "Interest on fixed income securities",
+              "value": "120.0"
+            },
+            {
+              "key": "Dividends on preferred stocks",
+              "value": "20.3"
+            },
+            {
+              "key": "Dividends on common stocks",
+              "value": "19.2"
+            },
+            {
+              "key": "Net income of common stocks, at equity",
+              "value": "221.2"
+            },
+            {
+              "key": "Interest on cash and short-term investments",
+              "value": "17.0"
+            },
+            {
+              "key": "Net income from other invested assets",
+              "value": "100.1"
+            },
+            {
+              "key": "Gross investment income",
+              "value": "497.8"
+            },
+            {
+              "key": "Less: investment expenses",
+              "value": "67.5"
+            },
+            {
+              "key": "Net investment income",
+              "value": "430.3"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 22,
+          "title": "Net Realized Investment Gains and Losses",
+          "data": [
+            {
+              "key": "Available for sale / equity method - From sales",
+              "value": "-26.1"
+            },
+            {
+              "key": "Available for sale / equity method - Other-than-temporary impairments",
+              "value": "-9.4"
+            },
+            {
+              "key": "Available for sale / equity method - Total available for sale",
+              "value": "-35.5"
+            },
+            {
+              "key": "Held for trading - From sales and settlements",
+              "value": "120.3"
+            },
+            {
+              "key": "Held for trading - From mark to market adjustments",
+              "value": "-581.2"
+            },
+            {
+              "key": "Held for trading - Total held for trading",
+              "value": "-460.9"
+            },
+            {
+              "key": "Total - Total net realized investment (losses) gains",
+              "value": "-496.4"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 22,
+          "title": "Components of Net Realized Investment Gains and Losses",
+          "data": [
+            {
+              "key": "Common stocks, at equity",
+              "value": "11.7"
+            },
+            {
+              "key": "Common stocks, at equity - Loss",
+              "value": "-37.8"
+            },
+            {
+              "key": "Common stocks, at equity - Other-than-temporary impairments",
+              "value": "-9.4"
+            },
+            {
+              "key": "Common stocks, at equity - Total available for sale securities: Realized investment gains",
+              "value": "11.7"
+            },
+            {
+              "key": "Common stocks, at equity - Total available for sale securities: Realized investment losses",
+              "value": "-37.8"
+            },
+            {
+              "key": "Common stocks, at equity - Total available for sale securities: Other-than-temporary impairments",
+              "value": "-9.4"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 23,
+          "title": "Fixed Income and Investment Securities Performance",
+          "data": [
+            {
+              "key": "Fixed income securities",
+              "value": "Disposal 2022: -18.8, Disposal 2021: 83.1, Fair value change 2022: -276.4, Fair value change 2021: -103.9, Net result 2022: -295.2, Net result 2021: -20.8"
+            },
+            {
+              "key": "Preferred stock",
+              "value": "Disposal 2022: 2.4, Disposal 2021: 1.7, Fair value change 2022: -70.8, Fair value change 2021: -1.5"
+            },
+            {
+              "key": "Equity securities",
+              "value": "Disposal 2022: 41.0, Disposal 2021: 12.0, Fair value change 2022: -127.0, Fair value change 2021: 99.8, Net result 2022: -122.9, Net result 2021: 111.8"
+            },
+            {
+              "key": "Derivative securities",
+              "value": "Disposal 2022: 55.5, Disposal 2021: -51.9, Fair value change 2022: -24.0, Fair value change 2021: 116.0, Net result 2022: 31.5, Net result 2021: 64.1"
+            },
+            {
+              "key": "Other securities",
+              "value": "Disposal 2022: 71.0, Disposal 2021: 102.8, Fair value change 2022: -83.0, Fair value change 2021: 151.9, Net result 2022: -5.9, Net result 2021: 254.7"
+            },
+            {
+              "key": "Total held for trading securities",
+              "value": "Disposal 2022: 120.3, Disposal 2021: 147.7, Fair value change 2022: -581.2, Fair value change 2021: 262.3, Net result 2022: -460.9, Net result 2021: 410.0"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 23,
+          "title": "Investment Depreciation and Tax Effects Summary",
+          "data": [
+            {
+              "key": "Fixed income securities equity securities",
+              "value": "Value1: 74, Value2: (0.1) (1.9)"
+            },
+            {
+              "key": "Decrease in unrealized net depreciation of investments",
+              "value": "Value1: 74, Value2: (2.0)"
+            },
+            {
+              "key": "Deferred income tax benefit",
+              "value": "Value1: (1.6), Value2: 0.4"
+            },
+            {
+              "key": "Change in net unrealized depreciation of investments included in other comprehensive loss",
+              "value": "Value1: 5.8, Value2: (1.6)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 24,
+          "title": "Investment Portfolio Performance Review",
+          "data": [
+            {
+              "key": "Total Portfolio Carrying Value 2021",
+              "value": "$1,585.0M"
+            },
+            {
+              "key": "Total Portfolio Carrying Value 2022",
+              "value": "$2,076.3M"
+            },
+            {
+              "key": "Total Portfolio Market Value 2021",
+              "value": "$1,348.2M"
+            },
+            {
+              "key": "Total Portfolio Market Value 2022",
+              "value": "$1,505.4M"
+            },
+            {
+              "key": "Major Holdings",
+              "value": "Eurobank Ergasias, Fairfax India Holdings, Recipe Unlimited Corporation"
+            },
+            {
+              "key": "Eurobank Ergasias Ownership Percentage",
+              "value": "11.3%"
+            },
+            {
+              "key": "Recipe Unlimited Corporation Ownership Percentage",
+              "value": "21.3%"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents Atlas Corporation's investment portfolio, showing carrying values, included values, and market values for 2021 and 2022, along with economic ownership percentages. The total portfolio carrying value increased from $1,585.0M in 2021 to $2,076.3M in 2022, while market value grew from $1,348.2M to $1,505.4M. Major holdings include Eurobank Ergasias (11.3% ownership), Fairfax India Holdings, and Recipe Unlimited Corporation (21.3% ownership). The portfolio shows overall growth in both carrying and market values between 2021 and 2022."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 27,
+          "title": "Derivative Instruments and Fair Value",
+          "data": [
+            {
+              "key": "Forward Currency Contracts Fair Value",
+              "value": "Recorded at fair value in other invested assets or other liabilities."
+            },
+            {
+              "key": "Call Options Fair Value",
+              "value": "Recorded at fair value, recognized as realized investment gains or losses."
+            },
+            {
+              "key": "Warrants Fair Value",
+              "value": "Recorded at fair value, recognized as realized investment gains or losses."
+            },
+            {
+              "key": "Written Put Options Fair Value",
+              "value": "Recorded at fair value, recognized as realized gains or losses."
+            },
+            {
+              "key": "Put Options Fair Value",
+              "value": "Recorded at fair value, recognized as realized gains or losses."
+            },
+            {
+              "key": "Collateral Deposited by Company 2022",
+              "value": "$22.7 million"
+            },
+            {
+              "key": "Collateral Deposited by Company 2021",
+              "value": "$68.0 million"
+            },
+            {
+              "key": "Collateral from Counterparties 2022",
+              "value": "$30.3 million"
+            },
+            {
+              "key": "Collateral from Counterparties 2021",
+              "value": "$24.4 million"
+            },
+            {
+              "key": "Credit Risk Summary",
+              "value": "The risk is low due to diversification among highly rated counterparties."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 28,
+          "title": "Derivative Instruments Performance Summary",
+          "data": [
+            {
+              "key": "Net realized investment losses",
+              "value": "(0.1)"
+            },
+            {
+              "key": "Forward currency contracts disposal",
+              "value": "71.8"
+            },
+            {
+              "key": "Forward currency contracts fair value change",
+              "value": "(61.0)"
+            },
+            {
+              "key": "Forward currency contracts net realized",
+              "value": "60.4"
+            },
+            {
+              "key": "U.S. Treasury bond forward contracts disposal",
+              "value": "11.9"
+            },
+            {
+              "key": "U.S. Treasury bond forward contracts fair value change",
+              "value": "(1.4)"
+            },
+            {
+              "key": "U.S. Treasury bond forward contracts net realized",
+              "value": "12.1"
+            },
+            {
+              "key": "Long total return swaps disposal",
+              "value": "(29.2)"
+            },
+            {
+              "key": "Long total return swaps fair value change",
+              "value": "(27.3)"
+            },
+            {
+              "key": "Long total return swaps net realized",
+              "value": "(23.5)"
+            },
+            {
+              "key": "Warrants disposal",
+              "value": "1.0"
+            },
+            {
+              "key": "Warrants fair value change",
+              "value": "78.0"
+            },
+            {
+              "key": "Warrants net realized",
+              "value": "(17.4)"
+            },
+            {
+              "key": "Put options disposal",
+              "value": "(2.5)"
+            },
+            {
+              "key": "Put options fair value change",
+              "value": "2.5"
+            },
+            {
+              "key": "Put options net realized",
+              "value": "0.0"
+            },
+            {
+              "key": "Total derivatives disposal",
+              "value": "55.5"
+            },
+            {
+              "key": "Total derivatives fair value change",
+              "value": "(24.0)"
+            },
+            {
+              "key": "Total derivatives net realized",
+              "value": "116.0"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 29,
+          "title": "Company issued contracts as of December 31, 2022",
+          "data": [
+            {
+              "key": "Government share of issued contracts",
+              "value": "-_ 5.9 (32.9) _-"
+            },
+            {
+              "key": "Purchased commodity options",
+              "value": "Notional Amount: 1894.6M, Cost: 87.0M, Fair Value Asset: 78.6M, Fair Value Liability: - , Pre-Tax Income Impact: -38.7M"
+            },
+            {
+              "key": "Written commodity options",
+              "value": "Notional Amount: -1458.9M, Cost: -31.5M, Fair Value Asset: =, Fair Value Liability: -22.7M, Pre-Tax Income Impact: 29.3M"
+            },
+            {
+              "key": "Total hedging",
+              "value": "Notional Amount: 435.7M, Cost: 55.5M, Fair Value Asset: 78.6M, Fair Value Liability: -22.7M, Pre-Tax Income Impact: -9.4M"
+            },
+            {
+              "key": "Total crop-related derivative instruments",
+              "value": "Notional Amount: N/A, Cost: 55.5M, Fair Value Asset: 123.6M, Fair Value Liability: -67.8M, Pre-Tax Income Impact: 11.4M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 29,
+          "title": "Company issued contracts as of December 31, 2021",
+          "data": [
+            {
+              "key": "Government share of issued contracts",
+              "value": "Notional Amount: N/A, Cost: N/A, Fair Value Asset: -0.3M, Fair Value Liability: -31.9M, Pre-Tax Income Impact: N/A"
+            },
+            {
+              "key": "Purchased commodity options",
+              "value": "Notional Amount: 918.9M, Cost: 29.1M, Fair Value Asset: 14.2M, Fair Value Liability: 0M, Pre-Tax Income Impact: -42.6M"
+            },
+            {
+              "key": "Written commodity options",
+              "value": "Notional Amount: -742.9M, Cost: -10.5M, Fair Value Asset: 0M, Fair Value Liability: -6.4M, Pre-Tax Income Impact: 15.7M"
+            },
+            {
+              "key": "Total hedging",
+              "value": "Notional Amount: 176.0M, Cost: 18.6M, Fair Value Asset: 14.2M, Fair Value Liability: -6.4M, Pre-Tax Income Impact: -26.9M"
+            },
+            {
+              "key": "Total crop-related derivative instruments",
+              "value": "Notional Amount: N/A, Cost: 18.6M, Fair Value Asset: 55.3M, Fair Value Liability: -37.9M, Pre-Tax Income Impact: -16.3M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 31,
+          "title": "Accumulated Other Comprehensive Income",
+          "data": [
+            {
+              "key": "Total accumulated other comprehensive loss, gross of deferred income taxes",
+              "value": "-79.9"
+            },
+            {
+              "key": "Total deferred taxes on accumulated other comprehensive income",
+              "value": "16.8"
+            },
+            {
+              "key": "Previous total accumulated other comprehensive loss, gross",
+              "value": "-105.5"
+            },
+            {
+              "key": "Previous total deferred taxes on accumulated other comprehensive income",
+              "value": "22.2"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Details about Accumulated Other Comprehensive Income Components",
+          "data": [
+            {
+              "key": "Component",
+              "value": "Unrealized net depreciation (appreciation) of securities"
+            },
+            {
+              "key": "2022",
+              "value": "0.0"
+            },
+            {
+              "key": "2021",
+              "value": "61.9"
+            },
+            {
+              "key": "Statement Line",
+              "value": "Net realized investment gains (losses)"
+            },
+            {
+              "key": "Component",
+              "value": "Unrealized net depreciation (tax effect)"
+            },
+            {
+              "key": "2022",
+              "value": "0.0"
+            },
+            {
+              "key": "2021",
+              "value": "-13.0"
+            },
+            {
+              "key": "Statement Line",
+              "value": "Total federal and foreign income tax (benefit) provision"
+            },
+            {
+              "key": "Component",
+              "value": "Unrealized net depreciation (net)"
+            },
+            {
+              "key": "2022",
+              "value": "0.0"
+            },
+            {
+              "key": "2021",
+              "value": "48.9"
+            },
+            {
+              "key": "Statement Line",
+              "value": "Net income"
+            },
+            {
+              "key": "Component",
+              "value": "Foreign currency translations"
+            },
+            {
+              "key": "2022",
+              "value": "0.0"
+            },
+            {
+              "key": "2021",
+              "value": "0.2"
+            },
+            {
+              "key": "Statement Line",
+              "value": "Net realized investment gains (losses)"
+            },
+            {
+              "key": "Component",
+              "value": "Net actuarial gain"
+            },
+            {
+              "key": "2022",
+              "value": "3.2"
+            },
+            {
+              "key": "2021",
+              "value": "11.8"
+            },
+            {
+              "key": "Statement Line",
+              "value": "Other underwriting expenses"
+            },
+            {
+              "key": "Component",
+              "value": "Prior service income"
+            },
+            {
+              "key": "2022",
+              "value": "-11.0"
+            },
+            {
+              "key": "2021",
+              "value": "-11.0"
+            },
+            {
+              "key": "Statement Line",
+              "value": "Other underwriting expenses"
+            },
+            {
+              "key": "Component",
+              "value": "Total reclassifications (final)"
+            },
+            {
+              "key": "2022",
+              "value": "-6.2"
+            },
+            {
+              "key": "2021",
+              "value": "49.7"
+            },
+            {
+              "key": "Statement Line",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Incurred Loss and Allocated Loss Adjustment Expenses, Net of Reinsurance",
+          "data": [
+            {
+              "key": "Accident Year 2013",
+              "value": "Incurred Loss: $173.4M; IBNR Liabilities: $15.5M"
+            },
+            {
+              "key": "Accident Year 2014",
+              "value": "Incurred Loss: $191.0M; IBNR Liabilities: $15.0M"
+            },
+            {
+              "key": "Accident Year 2015",
+              "value": "Incurred Loss: $189.3M; IBNR Liabilities: $15.8M"
+            },
+            {
+              "key": "Accident Year 2016",
+              "value": "Incurred Loss: $202.3M; IBNR Liabilities: $16.3M"
+            },
+            {
+              "key": "Accident Year 2017",
+              "value": "Incurred Loss: $225.2M; IBNR Liabilities: $32.5M"
+            },
+            {
+              "key": "Accident Year 2018",
+              "value": "Incurred Loss: $271.9M; IBNR Liabilities: $66.8M"
+            },
+            {
+              "key": "Accident Year 2019",
+              "value": "Incurred Loss: $266.0M; IBNR Liabilities: $97.0M"
+            },
+            {
+              "key": "Accident Year 2020",
+              "value": "Incurred Loss: $282.1M; IBNR Liabilities: $131.8M"
+            },
+            {
+              "key": "Accident Year 2021",
+              "value": "Incurred Loss: $407.2M; IBNR Liabilities: $300.7M"
+            },
+            {
+              "key": "Accident Year 2022",
+              "value": "Incurred Loss: $509.3M; IBNR Liabilities: $434.1M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Cumulative Paid Loss and Allocated Loss Adjustment Expenses, Net of Reinsurance",
+          "data": [
+            {
+              "key": "Accident Year 2013",
+              "value": "Paid Loss: $100M"
+            },
+            {
+              "key": "Accident Year 2014",
+              "value": "Paid Loss: $13.1M"
+            },
+            {
+              "key": "Accident Year 2015",
+              "value": "Paid Loss: $11.4M"
+            },
+            {
+              "key": "Accident Year 2016",
+              "value": "Paid Loss: $18.1M"
+            },
+            {
+              "key": "Accident Year 2017",
+              "value": "Paid Loss: $19.9M"
+            },
+            {
+              "key": "Accident Year 2018",
+              "value": "Paid Loss: $30.5M"
+            },
+            {
+              "key": "Accident Year 2019",
+              "value": "Paid Loss: $24.4M"
+            },
+            {
+              "key": "Accident Year 2020",
+              "value": "Paid Loss: $19.8M"
+            },
+            {
+              "key": "Accident Year 2021",
+              "value": "Paid Loss: $28.1M"
+            },
+            {
+              "key": "Accident Year 2022",
+              "value": "Paid Loss: $38.9M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Average Annual Percentage Payout of Incurred Loss and Allocated Loss Adjustment Expenses by Age, Net of Reinsurance",
+          "data": [
+            {
+              "key": "Year 1",
+              "value": "74.0%"
+            },
+            {
+              "key": "Year 2",
+              "value": "10.9%"
+            },
+            {
+              "key": "Year 3",
+              "value": "13.7%"
+            },
+            {
+              "key": "Year 4",
+              "value": "12.6%"
+            },
+            {
+              "key": "Year 5",
+              "value": "11.8%"
+            },
+            {
+              "key": "Year 6",
+              "value": "9.0%"
+            },
+            {
+              "key": "Year 7",
+              "value": "6.2%"
+            },
+            {
+              "key": "Year 8",
+              "value": "5.1%"
+            },
+            {
+              "key": "Year 9",
+              "value": "2.9%"
+            },
+            {
+              "key": "Year 10",
+              "value": "2.6%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Incurred Loss and Allocated Loss Adjustment Expenses, Net of Reinsurance",
+          "data": [
+            {
+              "key": "Total incurred loss and loss adjustment expenses",
+              "value": "3,025.9"
+            },
+            {
+              "key": "Total paid loss and loss adjustment expenses",
+              "value": "2,139.4"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Year 2013-2022 Financial Matrix",
+          "data": [
+            {
+              "key": "Cumulative Paid Loss and Allocated Loss Adjustment Expenses, Net of Reinsurance",
+              "value": "327.8"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Average Distribution by Year",
+          "data": [
+            {
+              "key": "Year 1",
+              "value": "31.3%"
+            },
+            {
+              "key": "Year 2",
+              "value": "45.1%"
+            },
+            {
+              "key": "Year 3",
+              "value": "14.9%"
+            },
+            {
+              "key": "Year 4",
+              "value": "4.7%"
+            },
+            {
+              "key": "Year 5",
+              "value": "0.8%"
+            },
+            {
+              "key": "Year 6",
+              "value": "1.6%"
+            },
+            {
+              "key": "Year 7",
+              "value": "0.6%"
+            },
+            {
+              "key": "Year 8",
+              "value": "0.3%"
+            },
+            {
+              "key": "Year 9",
+              "value": "0.2%"
+            },
+            {
+              "key": "Year 10",
+              "value": "0.3%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "Accident Year Analysis and IBNR Liabilities",
+          "data": [
+            {
+              "key": "Accident Year 2013",
+              "value": "IBNR: 5.5"
+            },
+            {
+              "key": "Accident Year 2014",
+              "value": "IBNR: 5.7"
+            },
+            {
+              "key": "Accident Year 2015",
+              "value": "IBNR: 7.6"
+            },
+            {
+              "key": "Accident Year 2016",
+              "value": "IBNR: 9.6"
+            },
+            {
+              "key": "Accident Year 2017",
+              "value": "IBNR: 11.7"
+            },
+            {
+              "key": "Accident Year 2018",
+              "value": "IBNR: 20.6"
+            },
+            {
+              "key": "Accident Year 2019",
+              "value": "IBNR: 48.8"
+            },
+            {
+              "key": "Accident Year 2020",
+              "value": "IBNR: 75.1"
+            },
+            {
+              "key": "Accident Year 2021",
+              "value": "IBNR: 105.2"
+            },
+            {
+              "key": "Accident Year 2022",
+              "value": "IBNR: 190.6"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "Loss Development Triangle 2013-2022",
+          "data": [
+            {
+              "key": "Accident Year 2013 (2022 Total)",
+              "value": "44.2"
+            },
+            {
+              "key": "Accident Year 2014 (2022 Total)",
+              "value": "44.8"
+            },
+            {
+              "key": "Accident Year 2015 (2022 Total)",
+              "value": "42.0"
+            },
+            {
+              "key": "Accident Year 2016 (2022 Total)",
+              "value": "47.6"
+            },
+            {
+              "key": "Accident Year 2017 (2022 Total)",
+              "value": "54.4"
+            },
+            {
+              "key": "Accident Year 2018 (2022 Total)",
+              "value": "60.4"
+            },
+            {
+              "key": "Accident Year 2019 (2022 Total)",
+              "value": "65.1"
+            },
+            {
+              "key": "Accident Year 2020 (2022 Total)",
+              "value": "51.8"
+            },
+            {
+              "key": "Accident Year 2021 (2022 Total)",
+              "value": "43.1"
+            },
+            {
+              "key": "Accident Year 2022 (2022 Total)",
+              "value": "14.5"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "Average Yearly Percentages",
+          "data": [
+            {
+              "key": "Year 1",
+              "value": "9.1%"
+            },
+            {
+              "key": "Year 2",
+              "value": "14.2%"
+            },
+            {
+              "key": "Year 3",
+              "value": "9.9%"
+            },
+            {
+              "key": "Year 4",
+              "value": "7.2%"
+            },
+            {
+              "key": "Year 5",
+              "value": "6.3%"
+            },
+            {
+              "key": "Year 6",
+              "value": "4.7%"
+            },
+            {
+              "key": "Year 7",
+              "value": "4.6%"
+            },
+            {
+              "key": "Year 8",
+              "value": "2.7%"
+            },
+            {
+              "key": "Year 9",
+              "value": "4.1%"
+            },
+            {
+              "key": "Year 10",
+              "value": "6.1%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Unpaid Loss and Loss Adjustment Expenses Breakdown - 2022",
+          "data": [
+            {
+              "key": "Total unpaid loss and allocated loss adjustment expenses",
+              "value": "$7,885.5 million"
+            },
+            {
+              "key": "Total reinsurance recoverable on unpaid losses",
+              "value": "$1,208.9 million"
+            },
+            {
+              "key": "Total gross unpaid loss and loss adjustment expenses",
+              "value": "$9,094.4 million"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "Losses and Loss Adjustment Expenses Statement",
+          "data": [
+            {
+              "key": "Gross unpaid losses and loss adjustment expenses, beginning of year",
+              "value": "2022: 7795.4, 2021: 6844.6"
+            },
+            {
+              "key": "Less: Ceded unpaid losses and loss adjustment expenses, beginning of year",
+              "value": "2022: 1059.4, 2021: 1047.8"
+            },
+            {
+              "key": "Net unpaid losses and loss adjustment expenses, beginning of year",
+              "value": "2022: 6736.0, 2021: 5796.8"
+            },
+            {
+              "key": "Current year",
+              "value": "2022: 3950.6, 2021: 3100.9"
+            },
+            {
+              "key": "Prior years",
+              "value": "2022: -49.9, 2021: -120.1"
+            },
+            {
+              "key": "Total net incurred losses and loss adjustment expenses",
+              "value": "2022: 3900.7, 2021: 2980.8"
+            },
+            {
+              "key": "Current year",
+              "value": "2022: 837.3, 2021: 580.0"
+            },
+            {
+              "key": "Prior years",
+              "value": "2022: 1761.8, 2021: 1353.0"
+            },
+            {
+              "key": "Total net paid losses and loss adjustment expenses",
+              "value": "2022: 2599.1, 2021: 1933.0"
+            },
+            {
+              "key": "Effect of exchange rate changes",
+              "value": "2022: -152.1, 2021: -109.5"
+            },
+            {
+              "key": "Acquired unpaid loss and loss adjustment expenses",
+              "value": "2022: 0, 2021: 0.9"
+            },
+            {
+              "key": "Net unpaid losses and loss adjustment expenses, end of year",
+              "value": "2022: 7885.5, 2021: 6736.0"
+            },
+            {
+              "key": "Add: Ceded unpaid losses and loss adjustment expenses, end of year",
+              "value": "2022: 1208.9, 2021: 1059.4"
+            },
+            {
+              "key": "Gross unpaid losses and loss adjustment expenses, end of year",
+              "value": "2022: 9094.4, 2021: 7795.4"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Insurance Premiums Analysis",
+          "data": [
+            {
+              "key": "Premiums Written (Direct)",
+              "value": "3041.7"
+            },
+            {
+              "key": "Premiums Written (Add: assumed)",
+              "value": "3768.3"
+            },
+            {
+              "key": "Premiums Written (Less: ceded)",
+              "value": "902.0"
+            },
+            {
+              "key": "Premiums Written (Net)",
+              "value": "5908.0"
+            },
+            {
+              "key": "Premiums Earned (Direct)",
+              "value": "2953.1"
+            },
+            {
+              "key": "Premiums Earned (Add: assumed)",
+              "value": "3592.1"
+            },
+            {
+              "key": "Premiums Earned (Less: ceded)",
+              "value": "878.9"
+            },
+            {
+              "key": "Premiums Earned (Net)",
+              "value": "5666.3"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Income Tax Reconciliation",
+          "data": [
+            {
+              "key": "Income before income tax",
+              "value": "157.6"
+            },
+            {
+              "key": "Income tax provision computed at the U.S. tax rate on income",
+              "value": "33.1 (21.0%)"
+            },
+            {
+              "key": "Dividend received deduction",
+              "value": "-12.4 (-7.9%)"
+            },
+            {
+              "key": "Tax-exempt income",
+              "value": "-0.8 (-0.5%)"
+            },
+            {
+              "key": "Proration recovery of tax preferred income",
+              "value": "0.4 (0.3%)"
+            },
+            {
+              "key": "Income earned outside local jurisdictions",
+              "value": "10.7 (6.8%)"
+            },
+            {
+              "key": "State tax expense",
+              "value": "1.3 (0.8%)"
+            },
+            {
+              "key": "True-up of prior year taxes",
+              "value": "-0.3 (-0.2%)"
+            },
+            {
+              "key": "Change in valuation allowance",
+              "value": "-39.1 (-24.8%)"
+            },
+            {
+              "key": "Other, net",
+              "value": "-0.8 (-0.5%)"
+            },
+            {
+              "key": "Total federal and foreign income tax provision",
+              "value": "-7.9 (-5.0%) / 149.2 (21.6%)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Change in accumulated other comprehensive loss",
+          "data": [
+            {
+              "key": "Beginning balance",
+              "value": "67.9"
+            },
+            {
+              "key": "Actuarial gain and return on plan assets arising during the year",
+              "value": "-60.9"
+            },
+            {
+              "key": "Amortization of actuarial gain recognized in net periodic costs",
+              "value": "-2.4"
+            },
+            {
+              "key": "Accumulated other comprehensive loss at end of year",
+              "value": "4.6"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Pension Plan Assumptions",
+          "data": [
+            {
+              "key": "Discount rate",
+              "value": "2022: 4.50%; 2021: 2.50%"
+            },
+            {
+              "key": "Rate of increase",
+              "value": "2022: 3.60%; 2021: 3.60%"
+            },
+            {
+              "key": "Expected long term rate of return on Pension Plan assets",
+              "value": "2022: 6.00%; 2021: 6.00%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Projected Future Benefit Payments",
+          "data": [
+            {
+              "key": "2024",
+              "value": "11.7"
+            },
+            {
+              "key": "2025",
+              "value": "12.5"
+            },
+            {
+              "key": "2026",
+              "value": "13.4"
+            },
+            {
+              "key": "2027",
+              "value": "14.0"
+            },
+            {
+              "key": "2028 - 2032",
+              "value": "81.2"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "Change in Projected Benefit Obligation and Excess Plans' Assets",
+          "data": [
+            {
+              "key": "Benefit obligation at beginning of year",
+              "value": "39.1"
+            },
+            {
+              "key": "Service cost",
+              "value": "1.4"
+            },
+            {
+              "key": "Interest cost",
+              "value": "1.4"
+            },
+            {
+              "key": "Actuarial gain",
+              "value": "-13.3"
+            },
+            {
+              "key": "Settlement loss",
+              "value": "0.4"
+            },
+            {
+              "key": "Settlement payments",
+              "value": "-2.4"
+            },
+            {
+              "key": "Benefits paid",
+              "value": "-0.4"
+            },
+            {
+              "key": "Benefit obligation at end of year",
+              "value": "25.6"
+            },
+            {
+              "key": "Actual contributions during the year",
+              "value": "2.8"
+            },
+            {
+              "key": "Settlement payments",
+              "value": "-2.4"
+            },
+            {
+              "key": "Benefits paid",
+              "value": "-0.4"
+            },
+            {
+              "key": "Funded status and accrued pension cost",
+              "value": "-25.6"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "Weighted Average Assumptions",
+          "data": [
+            {
+              "key": "Discount rate (2022)",
+              "value": "5.00%"
+            },
+            {
+              "key": "Discount rate (2021)",
+              "value": "2.75%"
+            },
+            {
+              "key": "Rate of compensation increase (2022)",
+              "value": "4.35%"
+            },
+            {
+              "key": "Rate of compensation increase (2021)",
+              "value": "3.60%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "Net Periodic Benefit Cost",
+          "data": [
+            {
+              "key": "Service cost",
+              "value": "1.1"
+            },
+            {
+              "key": "Interest cost",
+              "value": "1.1"
+            },
+            {
+              "key": "Recognized net actuarial loss",
+              "value": "0.4"
+            },
+            {
+              "key": "Settlement",
+              "value": "0.1"
+            },
+            {
+              "key": "Net periodic benefit cost",
+              "value": "2.7"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Change in Accumulated Other Comprehensive Loss",
+          "data": [
+            {
+              "key": "Beginning balance",
+              "value": "5"
+            },
+            {
+              "key": "Actuarial gain arising during the year",
+              "value": "(13.3)"
+            },
+            {
+              "key": "Settlement loss arising during the year",
+              "value": "0.4"
+            },
+            {
+              "key": "Amortization of actuarial gain recognized in net periodic costs",
+              "value": "(0.4)"
+            },
+            {
+              "key": "Amortization of settlement gains",
+              "value": "(0.1)"
+            },
+            {
+              "key": "Accumulated other comprehensive (income) loss at end of year",
+              "value": "(3.2)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Weighted Average Assumptions for Net Periodic Benefit Cost",
+          "data": [
+            {
+              "key": "Discount rate - 2022",
+              "value": "4.50%"
+            },
+            {
+              "key": "Discount rate - 2021",
+              "value": "2.50%"
+            },
+            {
+              "key": "Rate of compensation increase - 2022",
+              "value": "3.60%"
+            },
+            {
+              "key": "Rate of compensation increase - 2021",
+              "value": "3.60%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Year 2023 Bell Amounts",
+          "data": [
+            {
+              "key": "Year 2024",
+              "value": "3.6"
+            },
+            {
+              "key": "Year 2025",
+              "value": "2.8"
+            },
+            {
+              "key": "Year 2026",
+              "value": "3.4"
+            },
+            {
+              "key": "Year 2027",
+              "value": "2.4"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Change in accumulated post retirement obligation",
+          "data": [
+            {
+              "key": "Accumulated postretirement obligation at beginning of year",
+              "value": "49.9"
+            },
+            {
+              "key": "Service cost",
+              "value": "1.2"
+            },
+            {
+              "key": "Interest cost",
+              "value": "1.6"
+            },
+            {
+              "key": "Actuarial gain",
+              "value": "(12.0)"
+            },
+            {
+              "key": "Benefits paid",
+              "value": "(2.1)"
+            },
+            {
+              "key": "Participant contributions",
+              "value": "0.2"
+            },
+            {
+              "key": "Accumulated post retirement obligation at end of year",
+              "value": "38.8"
+            },
+            {
+              "key": "Funded status and accrued prepaid pension cost",
+              "value": "(38.8)"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "dividend_policy",
+          "page": 10,
+          "title": "Summary of Significant Accounting Policies",
+          "data": [
+            {
+              "key": "Basis of Presentation",
+              "value": "The accompanying consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (GAAP). The consolidated financial statements include the accounts of the Company and its subsidiaries, with intercompany transactions eliminated."
+            },
+            {
+              "key": "Critical Accounting Estimates",
+              "value": "The Company considers certain accounting policies that are most dependent on the application of estimates and assumptions as critical accounting estimates, including the valuation of reserves for unpaid losses, analysis of recoverability of deferred income tax assets, and valuation of the investment portfolio."
+            },
+            {
+              "key": "Investments",
+              "value": "Majority of the Company's investments are categorized as held for trading and recorded at their estimated fair value based on quoted market prices. Cash equivalents include certificates of deposits totaling $46.2m and $22.4m as of December 31, 2022 and 2021, respectively."
+            },
+            {
+              "key": "Investment Income",
+              "value": "Investment income is recorded as earned net of applicable investment expenses, with realized gains or losses determined based on average cost."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 45,
+          "title": "Form of Collateral Trust agreements and Recoverables",
+          "data": [
+            {
+              "key": "Funds withheld from reinsurers (Collateral)",
+              "value": "165.0"
+            },
+            {
+              "key": "Funds withheld from reinsurers (Recoverables)",
+              "value": "8.9"
+            },
+            {
+              "key": "Letters of credit (Collateral)",
+              "value": "52.3"
+            },
+            {
+              "key": "Letters of credit (Recoverables)",
+              "value": "2.9"
+            },
+            {
+              "key": "Total (Collateral)",
+              "value": "231.9"
+            },
+            {
+              "key": "Total (Recoverables)",
+              "value": "12.6%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 45,
+          "title": "Share Capital Structure",
+          "data": [
+            {
+              "key": "Class A shares (Outstanding)",
+              "value": "5,744"
+            },
+            {
+              "key": "Class B shares (Outstanding)",
+              "value": "51,752"
+            },
+            {
+              "key": "Share capital at the end of the period",
+              "value": "1.0 (2022) / 1.0 (2021)"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 7,
+          "title": "Shareholders' Equity Statement",
+          "data": [
+            {
+              "key": "NON-CONTROLLING INTEREST - PREFERRED SHARES",
+              "value": "Current Year: 29.3, Previous Year: 29.3"
+            },
+            {
+              "key": "COMMON SHARES (par value)",
+              "value": "Current Year: 0.0, Previous Year: 0.5"
+            },
+            {
+              "key": "ADDITIONAL PAID-IN CAPITAL",
+              "value": "Beginning Balance: 2895.3, Ending Balance: 2907.1, Previous Year Ending: 2895.3"
+            },
+            {
+              "key": "ACCUMULATED OTHER COMPREHENSIVE LOSS",
+              "value": "Beginning Balance: -83.3, Ending Balance: -63.1, Previous Year Ending: -83.3"
+            },
+            {
+              "key": "RETAINED EARNINGS",
+              "value": "Beginning Balance: 2379.0, Net Income: 165.5, Ending Balance: 2428.2, Previous Year Ending: 2379.0"
+            },
+            {
+              "key": "TOTAL SHAREHOLDERS' EQUITY",
+              "value": "Current Year: 5301.5, Previous Year: 5220.3"
+            },
+            {
+              "key": "COMMON SHARES OUTSTANDING",
+              "value": "Current Year: 57496, Previous Year: 51752"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": false,
+      "elements": []
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 3,
+          "title": "Audit Procedures and Financial Statement Assessment",
+          "data": [
+            {
+              "key": "Audit Standards",
+              "value": "In performing an audit in accordance with US GAAS."
+            },
+            {
+              "key": "Professional Judgment",
+              "value": "Exercise professional judgment and maintain professional skepticism."
+            },
+            {
+              "key": "Risk Assessment",
+              "value": "Identify and assess the risks of material misstatement."
+            },
+            {
+              "key": "Internal Control",
+              "value": "Obtain an understanding of internal control relevant to the audit."
+            },
+            {
+              "key": "Accounting Policies",
+              "value": "Evaluate the appropriateness of accounting policies used."
+            },
+            {
+              "key": "Going Concern",
+              "value": "Conclude on the Company's ability to continue as a going concern."
+            },
+            {
+              "key": "Communication with Governance",
+              "value": "Communicate with those charged with governance regarding significant audit findings."
+            },
+            {
+              "key": "Historical Claims Information",
+              "value": "Required supplementary information about incurred and paid claims development."
+            },
+            {
+              "key": "Limited Procedures",
+              "value": "Applied certain limited procedures to the required supplementary information."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 33,
+          "title": "Estimating Ultimate Loss Liabilities",
+          "data": [
+            {
+              "key": "ultimate_loss_methods",
+              "value": "The methods utilized for estimating ultimate losses include ratio of losses from previous periods, loss ratio methods, BF methods, and incurred loss development methodology."
+            },
+            {
+              "key": "assumptions_underlying_estimates",
+              "value": "(i) Historical loss emergence trends are indicative of future loss development trends; (ii) Internally developed pricing trends are a reasonable basis for determining loss ratio expectations; (iii) No provision for extraordinary future emergence of new classes/types of loss."
+            },
+            {
+              "key": "annual_loss_review",
+              "value": "The Company completes comprehensive loss reserve reviews on an annual basis."
+            },
+            {
+              "key": "adjustments_to_estimates",
+              "value": "Adjustments to premium estimates generate appropriate adjustments to ultimate loss estimates in the quarter they occur."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 37,
+          "title": "Incurred Loss and Allocated Loss Adjustment Expenses, Net of Reinsurance",
+          "data": [
+            {
+              "key": "Accident Year",
+              "value": "2013"
+            },
+            {
+              "key": "Initial Loss",
+              "value": "355.2"
+            },
+            {
+              "key": "Final Loss 2022",
+              "value": "266.9"
+            },
+            {
+              "key": "IBNR Liabilities",
+              "value": "1.9"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2014"
+            },
+            {
+              "key": "Initial Loss",
+              "value": "345.3"
+            },
+            {
+              "key": "Final Loss 2022",
+              "value": "251.3"
+            },
+            {
+              "key": "IBNR Liabilities",
+              "value": "2.9"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2015"
+            },
+            {
+              "key": "Initial Loss",
+              "value": "350.3"
+            },
+            {
+              "key": "Final Loss 2022",
+              "value": "218.5"
+            },
+            {
+              "key": "IBNR Liabilities",
+              "value": "4.3"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2016"
+            },
+            {
+              "key": "Initial Loss",
+              "value": "354.7"
+            },
+            {
+              "key": "Final Loss 2022",
+              "value": "306.6"
+            },
+            {
+              "key": "IBNR Liabilities",
+              "value": "47.0"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2017"
+            },
+            {
+              "key": "Initial Loss",
+              "value": "371.8"
+            },
+            {
+              "key": "Final Loss 2022",
+              "value": "310.4"
+            },
+            {
+              "key": "IBNR Liabilities",
+              "value": "5.9"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2018"
+            },
+            {
+              "key": "Initial Loss",
+              "value": "381.6"
+            },
+            {
+              "key": "Final Loss 2022",
+              "value": "348.7"
+            },
+            {
+              "key": "IBNR Liabilities",
+              "value": "7.1"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2019"
+            },
+            {
+              "key": "Initial Loss",
+              "value": "473.1"
+            },
+            {
+              "key": "Final Loss 2022",
+              "value": "407.2"
+            },
+            {
+              "key": "IBNR Liabilities",
+              "value": "18.7"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2020"
+            },
+            {
+              "key": "Initial Loss",
+              "value": "561.8"
+            },
+            {
+              "key": "Final Loss 2022",
+              "value": "541.9"
+            },
+            {
+              "key": "IBNR Liabilities",
+              "value": "81.5"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2021"
+            },
+            {
+              "key": "Initial Loss",
+              "value": "626.1"
+            },
+            {
+              "key": "Final Loss 2022",
+              "value": "605.7"
+            },
+            {
+              "key": "IBNR Liabilities",
+              "value": "96.1"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2022"
+            },
+            {
+              "key": "Initial Loss",
+              "value": "705.3"
+            },
+            {
+              "key": "Final Loss 2022",
+              "value": "705.3"
+            },
+            {
+              "key": "IBNR Liabilities",
+              "value": "352.3"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 37,
+          "title": "Insurance Loss Development Triangle 2013-2022",
+          "data": [
+            {
+              "key": "Accident Year",
+              "value": "2013"
+            },
+            {
+              "key": "2013",
+              "value": "48.0"
+            },
+            {
+              "key": "2014",
+              "value": "155.0"
+            },
+            {
+              "key": "2015",
+              "value": "214.7"
+            },
+            {
+              "key": "2016",
+              "value": "237.3"
+            },
+            {
+              "key": "2017",
+              "value": "248.6"
+            },
+            {
+              "key": "2018",
+              "value": "254.9"
+            },
+            {
+              "key": "2019_2020",
+              "value": "260.4"
+            },
+            {
+              "key": "2021",
+              "value": "261.2"
+            },
+            {
+              "key": "2022",
+              "value": "261.2"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2014"
+            },
+            {
+              "key": "2014",
+              "value": "64.5"
+            },
+            {
+              "key": "2015",
+              "value": "165.8"
+            },
+            {
+              "key": "2016",
+              "value": "211.3"
+            },
+            {
+              "key": "2017",
+              "value": "225.4"
+            },
+            {
+              "key": "2018",
+              "value": "233.3"
+            },
+            {
+              "key": "2019_2020",
+              "value": "240.1"
+            },
+            {
+              "key": "2021",
+              "value": "240.8"
+            },
+            {
+              "key": "2022",
+              "value": "241.5"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2015"
+            },
+            {
+              "key": "2015",
+              "value": "50.9"
+            },
+            {
+              "key": "2016",
+              "value": "147.0"
+            },
+            {
+              "key": "2017",
+              "value": "177.3"
+            },
+            {
+              "key": "2018",
+              "value": "187.3"
+            },
+            {
+              "key": "2019_2020",
+              "value": "205.3"
+            },
+            {
+              "key": "2021",
+              "value": "207.1"
+            },
+            {
+              "key": "2022",
+              "value": "208.3"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2016"
+            },
+            {
+              "key": "2016",
+              "value": "58.3"
+            },
+            {
+              "key": "2017",
+              "value": "184.9"
+            },
+            {
+              "key": "2018",
+              "value": "226.7"
+            },
+            {
+              "key": "2019_2020",
+              "value": "262.7"
+            },
+            {
+              "key": "2021",
+              "value": "270.1"
+            },
+            {
+              "key": "2022",
+              "value": "275.0"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2017"
+            },
+            {
+              "key": "2017",
+              "value": "59.3"
+            },
+            {
+              "key": "2018",
+              "value": "188.6"
+            },
+            {
+              "key": "2019_2020",
+              "value": "277.2"
+            },
+            {
+              "key": "2021",
+              "value": "278.3"
+            },
+            {
+              "key": "2022",
+              "value": "289.4"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2018"
+            },
+            {
+              "key": "2018",
+              "value": "48.2"
+            },
+            {
+              "key": "2019_2020",
+              "value": "248.8"
+            },
+            {
+              "key": "2021",
+              "value": "275.0"
+            },
+            {
+              "key": "2022",
+              "value": "286.5"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2019"
+            },
+            {
+              "key": "2019_2020",
+              "value": "222.7"
+            },
+            {
+              "key": "2021",
+              "value": "291.3"
+            },
+            {
+              "key": "2022",
+              "value": "317.0"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2020"
+            },
+            {
+              "key": "2019_2020",
+              "value": "82.7"
+            },
+            {
+              "key": "2021",
+              "value": "245.1"
+            },
+            {
+              "key": "2022",
+              "value": "355.9"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2021"
+            },
+            {
+              "key": "2021",
+              "value": "102.5"
+            },
+            {
+              "key": "2022",
+              "value": "314.2"
+            },
+            {
+              "key": "Accident Year",
+              "value": "2022"
+            },
+            {
+              "key": "2022",
+              "value": "99.7"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 38,
+          "title": "Incurred Loss and Allocated Loss Adjustment Expenses, Net of Reinsurance",
+          "data": [
+            {
+              "key": "accident_year",
+              "value": "2013"
+            },
+            {
+              "key": "amount",
+              "value": "246.6"
+            },
+            {
+              "key": "ibnr_liabilities",
+              "value": "2.3"
+            },
+            {
+              "key": "reported_claims",
+              "value": "23017"
+            },
+            {
+              "key": "accident_year",
+              "value": "2014"
+            },
+            {
+              "key": "amount",
+              "value": "238.3"
+            },
+            {
+              "key": "ibnr_liabilities",
+              "value": "2.9"
+            },
+            {
+              "key": "reported_claims",
+              "value": "29567"
+            },
+            {
+              "key": "accident_year",
+              "value": "2015"
+            },
+            {
+              "key": "amount",
+              "value": "247.9"
+            },
+            {
+              "key": "ibnr_liabilities",
+              "value": "3.1"
+            },
+            {
+              "key": "reported_claims",
+              "value": "27676"
+            },
+            {
+              "key": "accident_year",
+              "value": "2016"
+            },
+            {
+              "key": "amount",
+              "value": "249.5"
+            },
+            {
+              "key": "ibnr_liabilities",
+              "value": "3.8"
+            },
+            {
+              "key": "reported_claims",
+              "value": "18928"
+            },
+            {
+              "key": "accident_year",
+              "value": "2017"
+            },
+            {
+              "key": "amount",
+              "value": "341.1"
+            },
+            {
+              "key": "ibnr_liabilities",
+              "value": "4.6"
+            },
+            {
+              "key": "reported_claims",
+              "value": "17909"
+            },
+            {
+              "key": "accident_year",
+              "value": "2018"
+            },
+            {
+              "key": "amount",
+              "value": "468.5"
+            },
+            {
+              "key": "ibnr_liabilities",
+              "value": "17.1"
+            },
+            {
+              "key": "reported_claims",
+              "value": "19023"
+            },
+            {
+              "key": "accident_year",
+              "value": "2019"
+            },
+            {
+              "key": "amount",
+              "value": "536.8"
+            },
+            {
+              "key": "ibnr_liabilities",
+              "value": "79.4"
+            },
+            {
+              "key": "reported_claims",
+              "value": "18661"
+            },
+            {
+              "key": "accident_year",
+              "value": "2020"
+            },
+            {
+              "key": "amount",
+              "value": "562.8"
+            },
+            {
+              "key": "ibnr_liabilities",
+              "value": "176.7"
+            },
+            {
+              "key": "reported_claims",
+              "value": "16446"
+            },
+            {
+              "key": "accident_year",
+              "value": "2021"
+            },
+            {
+              "key": "amount",
+              "value": "635.4"
+            },
+            {
+              "key": "ibnr_liabilities",
+              "value": "329.3"
+            },
+            {
+              "key": "reported_claims",
+              "value": "13417"
+            },
+            {
+              "key": "accident_year",
+              "value": "2022"
+            },
+            {
+              "key": "amount",
+              "value": "740.7"
+            },
+            {
+              "key": "ibnr_liabilities",
+              "value": "592.0"
+            },
+            {
+              "key": "reported_claims",
+              "value": "9424"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 38,
+          "title": "Financial Data Progression 2013-2022",
+          "data": [
+            {
+              "key": "base_year",
+              "value": "2014"
+            },
+            {
+              "key": "2013",
+              "value": ""
+            },
+            {
+              "key": "2014",
+              "value": "59.7"
+            },
+            {
+              "key": "2015",
+              "value": "94.9"
+            },
+            {
+              "key": "2016",
+              "value": "143.2"
+            },
+            {
+              "key": "2017",
+              "value": "177.8"
+            },
+            {
+              "key": "2018",
+              "value": "209.9"
+            },
+            {
+              "key": "2019",
+              "value": "221.2"
+            },
+            {
+              "key": "2020",
+              "value": "225.5"
+            },
+            {
+              "key": "2021",
+              "value": "229.1"
+            },
+            {
+              "key": "2022",
+              "value": "232.8"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 38,
+          "title": "Average Annual Percentage Payout of Incurred Loss and Allocated Loss Adjustment Expenses by Age, Net of Reinsurance",
+          "data": [
+            {
+              "key": "Year",
+              "value": "1"
+            },
+            {
+              "key": "Percentage",
+              "value": "16.4%"
+            },
+            {
+              "key": "Year",
+              "value": "2"
+            },
+            {
+              "key": "Percentage",
+              "value": "19.6%"
+            },
+            {
+              "key": "Year",
+              "value": "3"
+            },
+            {
+              "key": "Percentage",
+              "value": "21.1%"
+            },
+            {
+              "key": "Year",
+              "value": "4"
+            },
+            {
+              "key": "Percentage",
+              "value": "17.0%"
+            },
+            {
+              "key": "Year",
+              "value": "5"
+            },
+            {
+              "key": "Percentage",
+              "value": "11.2%"
+            },
+            {
+              "key": "Year",
+              "value": "6"
+            },
+            {
+              "key": "Percentage",
+              "value": "5.3%"
+            },
+            {
+              "key": "Year",
+              "value": "7"
+            },
+            {
+              "key": "Percentage",
+              "value": "3.2%"
+            },
+            {
+              "key": "Year",
+              "value": "8"
+            },
+            {
+              "key": "Percentage",
+              "value": "1.9%"
+            },
+            {
+              "key": "Year",
+              "value": "9"
+            },
+            {
+              "key": "Percentage",
+              "value": "1.6%"
+            },
+            {
+              "key": "Year",
+              "value": "10"
+            },
+            {
+              "key": "Percentage",
+              "value": "0.4%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 50,
+          "title": "Lease Liabilities and Maturities Schedule",
+          "data": [
+            {
+              "key": "Current Operating Lease Right of Use Asset",
+              "value": "$61.5M"
+            },
+            {
+              "key": "Previous Operating Lease Right of Use Asset",
+              "value": "$63.5M"
+            },
+            {
+              "key": "Current Operating Lease Liabilities",
+              "value": "$77.3M"
+            },
+            {
+              "key": "Previous Operating Lease Liabilities",
+              "value": "$75.4M"
+            },
+            {
+              "key": "Weighted Average Remaining Operating Lease Term",
+              "value": "4 years"
+            },
+            {
+              "key": "Previous Weighted Average Remaining Operating Lease Term",
+              "value": "4 years"
+            },
+            {
+              "key": "Current Weighted Average Discount Rate on Operating Leases",
+              "value": "4.31%"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 44,
+          "title": "Reinsurance Recoverables",
+          "data": [
+            {
+              "key": "Total reinsurance recoverable amount",
+              "value": "$1,835.9M"
+            },
+            {
+              "key": "Largest reinsurer",
+              "value": "Federal Crop Insurance Corporation"
+            },
+            {
+              "key": "Percentage of total recoverable",
+              "value": "32.9%"
+            },
+            {
+              "key": "Total collateral held",
+              "value": "$231.9M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 48,
+          "title": "Contingencies",
+          "data": [
+            {
+              "key": "Company's Participation in Lloyd's",
+              "value": "The Company participates in Lloyd’s through its 100% ownership of the capital provider for Newline Syndicate (1218), providing 100% of the capacity."
+            },
+            {
+              "key": "Valuation of Pledged Assets",
+              "value": "The fair value of pledged securities and cash in support of Newline Syndicate (1218) is $378.1m as of December 31, 2022."
+            },
+            {
+              "key": "Contingent Liability",
+              "value": "The Company's contingent liability to the Society and Council of Lloyd’s is limited to the aggregate amount of the pledged assets."
+            },
+            {
+              "key": "Liquidity and Financial Resources",
+              "value": "The Company expects to continue to actively operate Newline Syndicate (1218) and does not anticipate that the pledged assets will be utilized."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 49,
+          "title": "Notes to Consolidated Financial Statements",
+          "data": [
+            {
+              "key": "Performance Guarantee for CTR",
+              "value": "ORC agreed to guarantee the performance of all the insurance and reinsurance contract obligations of Compagnie Transcontinentale de Réassurance (CTR) due to its insolvency."
+            },
+            {
+              "key": "Estimated Exposure for CTR",
+              "value": "$45.0 million as of December 31, 2022."
+            },
+            {
+              "key": "Insurance Obligations for Falcon",
+              "value": "ORC guarantees payment of all insurance contract obligations of Falcon Insurance Company."
+            },
+            {
+              "key": "Estimated Exposure for Falcon",
+              "value": "$174.0 million based on Falcon’s loss reserves."
+            },
+            {
+              "key": "Guarantee Fee",
+              "value": "ORC is paid a fee of 0.25% of all gross premiums earned."
+            },
+            {
+              "key": "Maximum Exposure for APH Contract",
+              "value": "$350.0 million."
+            },
+            {
+              "key": "Estimated Exposure for APH Contract",
+              "value": "$14.9 million as of December 31, 2022."
+            },
+            {
+              "key": "Litigation Involvement",
+              "value": "The Company and its subsidiaries are involved in ordinary litigation, arbitration, and regulatory assessments, but outcomes are not likely to be material."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 794,
+    "EUR": 7,
+    "AUD": 43,
+    "ZAR": 1
+  },
+  "sha1": "31e16caf2a6d45fb9cc41fb158b49933df4895f7"
+}

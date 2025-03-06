@@ -1,0 +1,2560 @@
+{
+  "letters": 200425,
+  "pages": 64,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "CoreCard Corporation",
+    "major_industry": "Financial Services",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "LETTER TO SHAREHOLDERS",
+          "data": [
+            {
+              "key": "Document Type",
+              "value": "Proxy Statement"
+            },
+            {
+              "key": "Event",
+              "value": "2023 Annual Meeting of Shareholders"
+            },
+            {
+              "key": "Related Period",
+              "value": "2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 46,
+          "title": "CoreCard Corporation CONDENSED STATEMENTS OF OPERATIONS",
+          "data": [
+            {
+              "key": "Total net revenue (2022)",
+              "value": "69765"
+            },
+            {
+              "key": "Total net revenue (2021)",
+              "value": "48248"
+            },
+            {
+              "key": "Net income (2022)",
+              "value": "13881"
+            },
+            {
+              "key": "Net income (2021)",
+              "value": "9039"
+            },
+            {
+              "key": "Basic EPS (2022)",
+              "value": "1.62"
+            },
+            {
+              "key": "Basic EPS (2021)",
+              "value": "1.03"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 46,
+          "title": "Consolidated Statements of Comprehensive Income",
+          "data": [
+            {
+              "key": "Comprehensive income (2022)",
+              "value": "14014"
+            },
+            {
+              "key": "Comprehensive income (2021)",
+              "value": "8985"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 49,
+          "title": "Organization and Summary of Significant Accounting Policies",
+          "data": [
+            {
+              "key": "Organization",
+              "value": "CoreCard Corporation, a Georgia corporation and its consolidated subsidiaries."
+            },
+            {
+              "key": "Nature of Operations",
+              "value": "CoreCard provides technology solutions and processing services to the financial technology and services market, commonly referred to as the FinTech industry."
+            },
+            {
+              "key": "Use of Estimates",
+              "value": "Management makes estimates and assumptions that affect reported amounts of assets and liabilities."
+            },
+            {
+              "key": "Accounts Receivable and Allowance for Doubtful Accounts",
+              "value": "Customer obligations stated at the amount expected to collect, performing continuing credit evaluations."
+            },
+            {
+              "key": "Property and Equipment",
+              "value": "Recorded at cost and depreciated over their estimated useful lives."
+            },
+            {
+              "key": "Capitalized Internal-Use Software",
+              "value": "Costs for internal-use software capitalized after specific project stage is completed."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 63,
+          "title": "Company Location and Website",
+          "data": [
+            {
+              "key": "Address",
+              "value": "One Meca Way Norcross, Georgia 30093"
+            },
+            {
+              "key": "Website",
+              "value": "www.corecard.com"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 9,
+          "title": "Security Ownership of Certain Beneficial Owners and Management",
+          "data": [
+            {
+              "key": "Summary",
+              "value": "The table displays beneficial ownership details of key stakeholders including directors, executive officers, and institutional investors as of March 15, 2023. It highlights that J. Leland Strange (Chairman, President, CEO) is the largest individual shareholder with 15.3% ownership (1,298,188 shares) and other significant ownership positions held by Clifford N. Burnstein (9.8%), Weitz Investment Management (6.9%), and Janus Henderson Group (6.2%). The group of all directors and named executive officers collectively holds 16.4% (1,400,214 shares)."
+            },
+            {
+              "key": "Leadership Change",
+              "value": "On March 29, 2023, Elizabeth W. Camp announced her decision not to stand for re-election, resulting in a reduction of the Board size from five to four members."
+            },
+            {
+              "key": "Additional Notes",
+              "value": "Beneficial ownership percentages are based on 8,502,735 shares outstanding and include shares underlying stock options that are exercisable within 60 days. Several directors own less than 1% of the company, as indicated by an asterisk."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 10,
+          "title": "PROPOSAL 1 – THE ELECTION OF TWO DIRECTORS",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "Shareholders will elect two directors at the Annual Meeting. One director will serve a two‐year term until the 2025 Annual Meeting and the other a three‐year term until the 2026 Annual Meeting. Other directors’ terms are specified in an accompanying table."
+            },
+            {
+              "key": "Nominee Substitution",
+              "value": "If a nominee withdraws or is unable to serve, the proxy will be cast for an alternate nominee designated by the Board, with a maximum of one nominee per seat."
+            },
+            {
+              "key": "Board Endorsement",
+              "value": "The Board of Directors unanimously recommends that shareholders vote 'FOR' Proposal 1 to elect the two nominees."
+            },
+            {
+              "key": "Highlighted Nominee - Kathryn Petralia",
+              "value": "Ms. Petralia, aged 52, was elected by the Board as a new director in October 2022. She is noted for her experience in FinTech and her roles as Meeting Director, Keep Co-Founder, and Kabbage Co-Founder. Her information is presented in the table with the summary indicating her leadership qualifications."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 11,
+          "title": "Board Composition, Leadership Appointments and Changes",
+          "data": [
+            {
+              "key": "Director Appointment",
+              "value": "Mr. Moise is qualified as an independent director under NYSE rules based on familiarity with board and regulatory matters."
+            },
+            {
+              "key": "Director Background",
+              "value": "Kathryn Petralia, a Co-Founder of Keep Financial with extensive fintech experience including co-founding Kabbage (acquired by American Express), has served as a director since 2022 and qualifies as an independent director under NYSE rules."
+            },
+            {
+              "key": "Executive Leadership",
+              "value": "J. Leland Strange has served as President since 1983, and as CEO and Chairman since 1985, with extensive board and audit committee experience."
+            },
+            {
+              "key": "Board Restructuring",
+              "value": "Following Ms. Camp's decision not to seek reelection, the Board size was reduced from five members to four."
+            },
+            {
+              "key": "Risk Oversight and Governance",
+              "value": "The Board and its Audit Committee (comprising independent directors) actively review a range of risks, including treasury, financial, legal, and IT security risks. The CEO also serves as Chairman, and there is no lead independent director given the continuity and small board size."
+            },
+            {
+              "key": "Independence and Qualifications",
+              "value": "Four of the directors and all Audit Committee members are independent as defined by NYSE and SEC rules; additionally, Mr. Chandler is determined to be a financial expert."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 17,
+          "title": "Audit Committee Report",
+          "data": [
+            {
+              "key": "Audit Committee Responsibilities",
+              "value": "Approve services and compensation of independent auditors, review internal controls and risk management, monitor annual audits."
+            },
+            {
+              "key": "Independent Auditors Responsibility",
+              "value": "Perform independent audits of financial statements as per PCAOB standards."
+            },
+            {
+              "key": "Committee Members",
+              "value": "A. Russell Chandler, III (Chair), Philip H. Moise, Elizabeth W. Camp."
+            },
+            {
+              "key": "Nominations Process",
+              "value": "The Board appoints a Nominating and Corporate Governance Committee consisting of independent directors."
+            },
+            {
+              "key": "Board Size Reduction",
+              "value": "The Board reduced its size from five members to four due to Ms. Camp’s decision not to stand for reelection."
+            },
+            {
+              "key": "Majority Voting Standard",
+              "value": "Nominees must be elected by a majority of votes cast in uncontested elections."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 19,
+          "title": "Independent Registered Public Accountants",
+          "data": [
+            {
+              "key": "Firm Name",
+              "value": "Nichols, Cauley & Associates, LLC"
+            },
+            {
+              "key": "Audit Years",
+              "value": "2022, 2021"
+            },
+            {
+              "key": "Audit Committee Member",
+              "value": "J. Leland Strange"
+            },
+            {
+              "key": "Audit Fees 2022",
+              "value": "$112,000"
+            },
+            {
+              "key": "Audit Fees 2021",
+              "value": "$106,500"
+            },
+            {
+              "key": "All Other Fees 2022",
+              "value": "$188,000"
+            },
+            {
+              "key": "All Other Fees 2021",
+              "value": "$140,000"
+            },
+            {
+              "key": "Chairman and CEO",
+              "value": "J. Leland Strange"
+            },
+            {
+              "key": "Ownership Interest in ISC Properties, LLC",
+              "value": "100%"
+            },
+            {
+              "key": "Rent Payment 2022",
+              "value": "$333,000"
+            },
+            {
+              "key": "Rent Payment 2021",
+              "value": "$265,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "leadership_change",
+          "page": 40,
+          "title": "Signatures of Company Officers and Directors",
+          "data": [
+            {
+              "key": "Name",
+              "value": "J. Leland Strange"
+            },
+            {
+              "key": "Position",
+              "value": "Chairman of the Board, President, Chief Executive Officer and Director (Principal Executive Officer)"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 40,
+          "title": "Signatures of Company Officers and Directors",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Matthew A. White"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Financial Officer (Principal Accounting and Financial Officer)"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 40,
+          "title": "Signatures of Company Officers and Directors",
+          "data": [
+            {
+              "key": "Name",
+              "value": "A. Russell Chandler III"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 40,
+          "title": "Signatures of Company Officers and Directors",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Philip H. Moise"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 40,
+          "title": "Signatures of Company Officers and Directors",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Elizabeth W. Camp"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 40,
+          "title": "Signatures of Company Officers and Directors",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Kathryn Petralia"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 44,
+          "title": "Аудиторская фирма",
+          "data": [
+            {
+              "key": "Компания",
+              "value": "Nichols, Cauley and Associates, LLC"
+            },
+            {
+              "key": "Роль",
+              "value": "Аудитор"
+            },
+            {
+              "key": "Год начала аудита",
+              "value": "2015"
+            },
+            {
+              "key": "Местоположение",
+              "value": "Atlanta, Georgia"
+            },
+            {
+              "key": "Дата",
+              "value": "March 1, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 62,
+          "title": "Investor Information – Directors, Officers and Annual Meeting",
+          "data": [
+            {
+              "key": "Chairman, President and CEO",
+              "value": "J. Leland Strange*; Legal Counsel; Ledbetter Wanamaker Glass LLP, Atlanta, Georgia"
+            },
+            {
+              "key": "Retired Chairman",
+              "value": "A. Russell Chandler, III* (1, 2 & 3); Former Chairman of Whitehall Group, Ltd."
+            },
+            {
+              "key": "Former Executive VP and General Counsel",
+              "value": "Philip H. Moise* (1, 2 & 3); Immucor, Inc."
+            },
+            {
+              "key": "Chief Executive Officer",
+              "value": "Elizabeth W. Camp* (1, 2 & 3); DF Management, Inc."
+            },
+            {
+              "key": "Co-Founder",
+              "value": "Kathryn Petralia* (1, 2 & 3); Financial Transfer Agent and Registrar, American Stock Transfer and Trust Company, New York, NY"
+            },
+            {
+              "key": "Chief Financial Officer and Corporate Secretary",
+              "value": "Matthew A. White (Highlighted under Annual Meeting)"
+            },
+            {
+              "key": "Annual Meeting Details",
+              "value": "June 1st 2023 at 4:00 p.m. at One Meca Way, Norcross, GA 30093"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 5,
+          "title": "NOTICE OF ANNUAL MEETING OF SHAREHOLDERS",
+          "data": [
+            {
+              "key": "Meeting Title",
+              "value": "NOTICE OF ANNUAL MEETING OF SHAREHOLDERS"
+            },
+            {
+              "key": "Company",
+              "value": "CoreCard Corporation"
+            },
+            {
+              "key": "Meeting Date",
+              "value": "Thursday, June 1, 2023"
+            },
+            {
+              "key": "Meeting Time",
+              "value": "4:00 p.m. local time"
+            },
+            {
+              "key": "Location",
+              "value": "One Meca Way, Norcross, Georgia 30093"
+            },
+            {
+              "key": "Agenda Item 1",
+              "value": "Election of one director to serve until the 2025 Annual Meeting and one director to serve until the 2026 Annual Meeting"
+            },
+            {
+              "key": "Agenda Item 2",
+              "value": "Approval, by a non-binding, advisory vote, of the compensation of our named executive officers"
+            },
+            {
+              "key": "Agenda Item 3",
+              "value": "Other matters that may properly come before the meeting or any adjournment thereof"
+            },
+            {
+              "key": "Record Date",
+              "value": "April 11, 2023"
+            },
+            {
+              "key": "Proxy Statement Included",
+              "value": "Yes"
+            },
+            {
+              "key": "2022 Annual Report Included",
+              "value": "Yes"
+            },
+            {
+              "key": "Signed By",
+              "value": "MATTHEW A. WHITE, Secretary"
+            },
+            {
+              "key": "Signature Date",
+              "value": "April 14, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 7,
+          "title": "PROXY STATEMENT FOR THE ANNUAL MEETING OF SHAREHOLDERS TO BE HELD JUNE 1, 2023",
+          "data": [
+            {
+              "key": "Document Type",
+              "value": "Proxy Statement"
+            },
+            {
+              "key": "Company",
+              "value": "CoreCard Corporation"
+            },
+            {
+              "key": "Meeting Date",
+              "value": "June 1, 2023"
+            },
+            {
+              "key": "Location",
+              "value": "One Meca Way, Norcross, Georgia 30093"
+            },
+            {
+              "key": "Voting Time",
+              "value": "4:00 p.m. local time"
+            },
+            {
+              "key": "Key Proposal",
+              "value": "Non-binding advisory vote to approve the compensation of our named executive officers"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 12,
+          "title": "Executive Compensation and Governance Details",
+          "data": [
+            {
+              "key": "Compensation Committee Composition",
+              "value": "Four independent directors: Mr. Chandler, Mr. Moise (chair), Ms. Petralia, and Ms. Camp"
+            },
+            {
+              "key": "Compensation Committee Meetings",
+              "value": "Met twice in 2022"
+            },
+            {
+              "key": "Committee Responsibilities",
+              "value": "Reviews, recommends, and approves executive compensation levels, changes in benefit plans, stock incentive plans, and oversees executive management succession planning. Authority to delegate day-to-day management of compensation programs."
+            },
+            {
+              "key": "Consultant Engagement",
+              "value": "Neither the Compensation Committee nor management engaged a compensation consultant; relied on publicly available data and input from the CEO for non-CEO executive officers."
+            },
+            {
+              "key": "Comparator Group Details",
+              "value": "Peer group constructed from companies similar in revenue size, business lines, global market participation, and market capitalization; Table lists competitors: PaySign, American Software, Margeta, Repay."
+            },
+            {
+              "key": "Nominating and Corporate Governance Committee",
+              "value": "Composed of four independent directors with responsibilities for Board organization, director evaluations, and corporate governance; met twice in 2022; Kathryn Petralia elected as committee chair in March 2023."
+            },
+            {
+              "key": "Executive Officer Information",
+              "value": "Matthew A. White, Chief Financial Officer and Secretary with 4 years of service; elected on January 22, 2019; previous roles at CoreCard Software, Humana, Equifax, and Deloitte; licensed CPA."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 13,
+          "title": "Executive Compensation Summary Compensation Table",
+          "data": [
+            {
+              "key": "J. Leland Strange (2022)",
+              "value": "Salary: 390,000; Bonus: 400,000; Option Awards: -; Other Annual Compensation: 4,563; Total: 794,563"
+            },
+            {
+              "key": "President & Chief Executive Officer (2021)",
+              "value": "Salary: 350,000; Bonus: 400,000; Option Awards: -; Other Annual Compensation: 4,350; Total: 754,350"
+            },
+            {
+              "key": "Matthew A. White (2022)",
+              "value": "Salary: 250,000; Bonus: 150,000; Option Awards: -; Other Annual Compensation: 3,738; Total: 403,738"
+            },
+            {
+              "key": "Chief Financial (2021)",
+              "value": "Salary: 230,000; Bonus: 80,000; Option Awards: -; Other Annual Compensation: 3,377; Total: 313,377"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 13,
+          "title": "Stock Options Summary",
+          "data": [
+            {
+              "key": "Stock Options Data",
+              "value": "Template provided with headers for Name, (#) Exercisable, (#) Unexercisable, Option Exercise Price, and Option Expiration Date; no data rows present."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 13,
+          "title": "Equity Compensation Plans Summary",
+          "data": [
+            {
+              "key": "Equity compensation plans approved by security holders",
+              "value": "59,000 securities at $17.35 with 932,369 remaining available for issuance."
+            },
+            {
+              "key": "Equity compensation plans not approved by security holders",
+              "value": "No securities reported."
+            },
+            {
+              "key": "Total",
+              "value": "59,000 securities at $17.35 with 932,369 remaining available for issuance."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 14,
+          "title": "Executive Compensation – Pay Versus Performance and Equity Adjustments",
+          "data": [
+            {
+              "key": "Disclosure Section",
+              "value": "Pay Versus Performance as required by Section 953(a) of the Dodd-Frank Act and Item 402(v) of Regulation S-K."
+            },
+            {
+              "key": "CEO (Mr. Strange) Compensation",
+              "value": "CEO's total compensation reported in the Summary Compensation Table for Mr. Strange: 2021 – $754,350 (both summary and actually paid) and 2022 – $794,563 (both summary and actually paid)."
+            },
+            {
+              "key": "Financial Performance Metrics",
+              "value": "Shareholder return based on a $100 investment decreased from $96.73 in 2021 to $72.23 in 2022. Net Income increased from $9.0 million in 2021 to $13.9 million in 2022."
+            },
+            {
+              "key": "Non-PEO NEO Compensation",
+              "value": "For Non-PEO NEOs (e.g. Matthew A. White), the Reported Summary Compensation Table totals were $313,377 in 2021 and $403,738 in 2022, with actual compensation paid (after equity award adjustments) of $296,877 in 2021 and $373,238 in 2022."
+            },
+            {
+              "key": "Equity Award Adjustments",
+              "value": "Equity award adjustments were $(16,500) for 2021 and $(30,500) for 2022. No equity awards were reported (granted or vested) during the periods."
+            },
+            {
+              "key": "Additional Notes",
+              "value": "The amounts in the tables represent totals from the Summary Compensation Table and reflect adjustments per Regulation S-K Item 402(v) requirements."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 15,
+          "title": "Analysis of Executive Compensation and Pay versus Performance",
+          "data": [
+            {
+              "key": "Table Summary",
+              "value": "The table shows financial data for 2021 and 2022, focusing on changes in the fair value of equity awards. In 2022, there was a negative adjustment of $30,500 in fair value equity awards, while 2021 recorded a negative year-over-year change of $16,600, a small positive adjustment of $100 in fair value equity awards, and a resulting total negative adjustment of $16,500. Overall, the trend indicates increasing negative adjustments."
+            },
+            {
+              "key": "TSR Calculation",
+              "value": "Cumulative TSR is calculated by dividing the sum of the cumulative amount of dividends (assuming dividend reinvestment) plus the difference between the Company’s share price at the end and the beginning of the measurement period by the initial share price."
+            },
+            {
+              "key": "Executive Compensation Philosophy",
+              "value": "The Company’s executive compensation program reflects a variable pay-for-performance philosophy. While various performance measures are employed to align compensation with Company performance, the measures used in this analysis are not necessarily the same as those determining the actual payouts as per SEC regulations (Item 402(v) of Regulation S-K)."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 15,
+          "title": "Compensation Actually Paid vs Cumulative TSR Chart",
+          "data": [
+            {
+              "key": "2021 PEO Compensation",
+              "value": "754350"
+            },
+            {
+              "key": "2021 non-PEO Compensation",
+              "value": "313377"
+            },
+            {
+              "key": "2021 Stock Value",
+              "value": "96.73"
+            },
+            {
+              "key": "2022 PEO Compensation",
+              "value": "794563"
+            },
+            {
+              "key": "2022 non-PEO Compensation",
+              "value": "403738"
+            },
+            {
+              "key": "2022 Stock Value",
+              "value": "72.23"
+            },
+            {
+              "key": "Chart Type",
+              "value": "Combined bar and line chart"
+            },
+            {
+              "key": "Y-Axis Left",
+              "value": "Compensation in USD"
+            },
+            {
+              "key": "Y-Axis Right",
+              "value": "Stock Value"
+            },
+            {
+              "key": "Legend",
+              "value": "Compensation Actually Paid to PEO; Compensation Actually Paid to non-PEO named executive officer; Value of Initial Fixed $100 Investment in our Common Stock"
+            },
+            {
+              "key": "Chart Notes",
+              "value": "The chart illustrates compensation trends over 2021-2022 in relation to the performance of an initial $100 equity investment."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 16,
+          "title": "Executive and Director Compensation Details",
+          "data": [
+            {
+              "key": "CEO and NEO Compensation Chart (Chart 1)",
+              "value": "Chart titled 'Compensation and Net Income Comparison 2021-2022' showing data for 2021 and 2022. For 2021: PEO compensation = 754350, non-PEO compensation = 313377, net income = 9039000. For 2022: PEO compensation = 794563, non-PEO compensation = 403738, net income = 13881000. Metadata indicates a bar chart with y-axis labeled 'Amount in USD', values in currency format (USD)."
+            },
+            {
+              "key": "CEO and NEO Compensation Chart (Chart 2)",
+              "value": "Another chart titled 'Compensation and Net Income Comparison 2021-2022' with slightly different net income figures (2021: net income = 791608, 2022: net income = 766301) and keys labeled as compensation_peo and compensation_non_peo. The chart metadata describes axes (x: Year, y: Amount in USD) and includes a legend for the three metrics."
+            },
+            {
+              "key": "Director Compensation (2022)",
+              "value": "Table shows compensation for non-executive directors for the year ended December 31, 2022. Details include: A. Russell Chandler, III, Philip H. Moise, and Elizabeth W. Camp each received $50,000 in cash fees and $50,000 in stock awards (totaling $100,000 each). Kathryn Petralia received $12,500 in cash fees and $50,000 in stock awards (totaling $62,500). Additional details: Under the 2020 Non-Employee Directors’ Stock Incentive Plan, each director received 2,168 shares valued at $50,000, except Kathryn received 2,304 shares upon her Board appointment. Total cash compensation for annual board service was $50,000 with no additional committee compensation."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 18,
+          "title": "Executive Compensation Proposal",
+          "data": [
+            {
+              "key": "Proposal Number",
+              "value": "2"
+            },
+            {
+              "key": "Proposal Title",
+              "value": "To approve, by a non-binding, advisory vote, the compensation of our Named Executive Officers"
+            },
+            {
+              "key": "Description",
+              "value": "Shareholders are asked to provide advisory approval of the compensation for Named Executive Officers as described in the Executive Compensation section."
+            },
+            {
+              "key": "Nature of Vote",
+              "value": "Advisory and non-binding"
+            },
+            {
+              "key": "Objective",
+              "value": "To gather information on investor sentiment regarding executive compensation"
+            },
+            {
+              "key": "Compensation Philosophy",
+              "value": "Align pay with creating shareholder value, minimize risky behavior, and reward contribution to business goals"
+            },
+            {
+              "key": "Compensation Structure",
+              "value": "Reasonable base salary and appropriate periodic bonuses"
+            },
+            {
+              "key": "Board Recommendation",
+              "value": "Unanimously recommends that shareholders vote 'FOR' approval of the compensation"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 24,
+          "title": "Document Index Items 10-14",
+          "data": [
+            {
+              "key": "item_number",
+              "value": "10, 11"
+            },
+            {
+              "key": "description",
+              "value": "Directors, Executive Officers and Corporate Executive Compensation"
+            },
+            {
+              "key": "additional_info",
+              "value": "Governance"
+            },
+            {
+              "key": "item_number",
+              "value": "12"
+            },
+            {
+              "key": "description",
+              "value": "Security Ownership of Certain Beneficial Owners and"
+            },
+            {
+              "key": "additional_info",
+              "value": "Management and Related Stockholder Matters 14"
+            },
+            {
+              "key": "item_number",
+              "value": "13"
+            },
+            {
+              "key": "description",
+              "value": "Certain Relationships and Related Transactions, and"
+            },
+            {
+              "key": "additional_info",
+              "value": "Director Independence"
+            },
+            {
+              "key": "item_number",
+              "value": "14"
+            },
+            {
+              "key": "description",
+              "value": "Principal Accountant Fees and Services"
+            },
+            {
+              "key": "additional_info",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 38,
+          "title": "ITEM 10-14: Proxy Statement References on Directors, Executive Officers, and Compensation",
+          "data": [
+            {
+              "key": "Directors and Executive Officers",
+              "value": "Refer to the subsections 'Proposal 1 - The Election of Three Directors - Nominees' and 'Proposal 1 – The Election of Three Directors – Executive Officers' in the Proxy Statement for details on individuals nominated as directors and executive officers."
+            },
+            {
+              "key": "Code of Ethics",
+              "value": "The Company has a Code of Ethics applicable to all directors, officers, and employees, available on www.corecard.com, with disclosures of any waivers or amendments."
+            },
+            {
+              "key": "Executive Compensation",
+              "value": "Refer to 'Proposal 1 - The Election of Three Directors - Executive Compensation' in the Proxy Statement for management compensation information."
+            },
+            {
+              "key": "Related Party Transactions",
+              "value": "The lease for the headquarters is held by ISC Properties, LLC controlled by the Chairman and CEO, with payments of $333,000 in 2022 and $265,000 in 2021."
+            },
+            {
+              "key": "Beneficial Ownership and Security Ownership",
+              "value": "Information on compliance with Section 16(a) and security ownership of certain beneficial owners and management is incorporated by reference from the Proxy Statement."
+            },
+            {
+              "key": "Principal Accountant Fees",
+              "value": "Details regarding fees and services provided by independent public accountants are included by reference in ITEM 14."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 39,
+          "title": "PART IV ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES",
+          "data": [
+            {
+              "key": "Exhibit Listing",
+              "value": "The document lists a series of exhibits incorporated by reference, including corporate governance documents such as Amended and Restated Articles of Incorporation (dated August 3, 2022), Amended and Restated Bylaws (dated December 15, 2021), and a Description of the Company’s Securities. It also includes a Lease Agreement (dated March 1, 2022) and a set of Management Compensation Plans and Arrangements."
+            },
+            {
+              "key": "Management Compensation Plans and Arrangements",
+              "value": "Includes: (a) 2015 Employee Stock Incentive Plan, (b) 2011 Non-Employee Directors Stock Option Plan, (c) 2020 Non-Employee Directors’ Stock Incentive Plan, and (d) 2022 Employee Stock Incentive Plan. Each plan is incorporated by reference to the respective Definitive Proxy Statement on Schedule 14A."
+            },
+            {
+              "key": "Additional Corporate Governance Items",
+              "value": "List of subsidiaries, Consent of Nichols, Cauley & Associates, LLC, Certification of Chief Executive Officer and Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, plus XBRL related exhibits."
+            },
+            {
+              "key": "Shareholder Access",
+              "value": "Exhibits are available upon request by contacting Matthew A. White, Secretary, CoreCard Corporation, at One Meca Way, Norcross, Georgia 30093; telephone (770) 381-2900. A charge of $.50 per page applies."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 59,
+          "title": "Stock Incentives Activity Summary 2021-2022",
+          "data": [
+            {
+              "key": "2003 Incentive Stock Plan - Exercised 2021",
+              "value": "67,500"
+            },
+            {
+              "key": "2020 Non-Employee Directors' Stock Incentive Plan - Granted 2021",
+              "value": "4,443"
+            },
+            {
+              "key": "2020 Non-Employee Directors' Stock Incentive Plan - Granted 2022",
+              "value": "8,808"
+            },
+            {
+              "key": "Summary of Activity",
+              "value": "Most plans show limited activity except for the 2003 plan (67,500 exercised in 2021) and the 2020 plan showing increased grants, indicating active stock incentive utilization."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 59,
+          "title": "Stock Options Status Overview & Plan Details",
+          "data": [
+            {
+              "key": "Total Options Granted",
+              "value": "1,356,500"
+            },
+            {
+              "key": "Options Exercised",
+              "value": "1,014,820"
+            },
+            {
+              "key": "Options Cancelled",
+              "value": "282,680"
+            },
+            {
+              "key": "Exercisable Options",
+              "value": "59,000"
+            },
+            {
+              "key": "Unrecognized Compensation Cost",
+              "value": "None reported"
+            },
+            {
+              "key": "2003 Plan Detail",
+              "value": "Authorized issuance of up to 450,000 options; expired in 2013 with 197,500 options ungranted."
+            },
+            {
+              "key": "2015 Plan Detail",
+              "value": "Authorized 750,000 options for employees and key consultants/advisors."
+            },
+            {
+              "key": "Directors' Stock Option Plan Detail",
+              "value": "Instituted in 2000; granted initial 5,000 options per non-employee director with annual grants thereafter; expired in 2011 with 60,000 options ungranted."
+            },
+            {
+              "key": "2011 Directors Plan Detail",
+              "value": "Approved in 2011 with terms similar to the earlier Directors' Plan."
+            },
+            {
+              "key": "2020 Plan Detail",
+              "value": "Replaces the 2011 Directors Plan; authorizes 200,000 shares and involves a grant value of $50,000 per independent director at subsequent annual meetings."
+            },
+            {
+              "key": "2022 Plan Detail",
+              "value": "Replaces the 2015 Plan; authorizes 750,000 shares with no shares granted as of December 31, 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 60,
+          "title": "Stock Option Activity Comparison (2022 vs 2021)",
+          "data": [
+            {
+              "key": "Options outstanding at January 1 (2022 vs 2021)",
+              "value": "59,000 vs 126,500"
+            },
+            {
+              "key": "Options cancelled",
+              "value": "Not applicable"
+            },
+            {
+              "key": "Options exercised (2021)",
+              "value": "67,500"
+            },
+            {
+              "key": "Options granted",
+              "value": "Not applicable"
+            },
+            {
+              "key": "Options outstanding at December 31",
+              "value": "59,000"
+            },
+            {
+              "key": "Options available for grant at December 31",
+              "value": "932,369 vs 881,177"
+            },
+            {
+              "key": "Options exercisable at December 31",
+              "value": "59,000 vs 49,000"
+            },
+            {
+              "key": "Exercise price range for outstanding options",
+              "value": "$3.50 - $39.11"
+            },
+            {
+              "key": "Weighted average exercise price at December 31",
+              "value": "$17.35 (from outstanding options) and $16.81 (for exercisable options)"
+            },
+            {
+              "key": "Table Summary",
+              "value": "Options outstanding decreased from 126,500 to 59,000 with 67,500 exercised in one period; available options for grant were 932,369 and 881,177 respectively."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 60,
+          "title": "Stock Options Outstanding and Exercisable as of December 31, 2022",
+          "data": [
+            {
+              "key": "Price Range: $3.50 - $3.86",
+              "value": "Outstanding: 13,000; Life Remaining: 4.2 years; Weighted Average Exercise Price: $3.75; Aggregate Intrinsic Value: $371,680"
+            },
+            {
+              "key": "Price: $7.80",
+              "value": "Outstanding: 8,000; Life Remaining: 54 years; Weighted Average Exercise Price: $7.80; Aggregate Intrinsic Value: $125,550"
+            },
+            {
+              "key": "Price: $19.99",
+              "value": "Outstanding: 30,000; Life Remaining: 6.1 years; Weighted Average Exercise Price: $19.99; Aggregate Intrinsic Value: $269,400"
+            },
+            {
+              "key": "Price: $39.11",
+              "value": "Outstanding: 8,000; Life Remaining: 6.4 years; Weighted Average Exercise Price: $39.11; Aggregate Intrinsic Value: Not provided"
+            },
+            {
+              "key": "Overall Summary",
+              "value": "Total of 59,000 outstanding options with a weighted average exercise price of $17.35 and an aggregate intrinsic value of $766,630. The remaining lives vary between 4.2 and 54 years."
+            },
+            {
+              "key": "Intrinsic Value Note",
+              "value": "Aggregate intrinsic value represents the total pre-tax intrinsic value based on the difference between the closing stock price and the exercise price multiplied by in-the-money options."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 28,
+          "title": "R&D Investment and Development Costs",
+          "data": [
+            {
+              "key": "Software Development Expenditure (2022)",
+              "value": "$11.7 million"
+            },
+            {
+              "key": "Software Development Expenditure (2021)",
+              "value": "$8.9 million"
+            },
+            {
+              "key": "Offshore Workforce for Software Development",
+              "value": "Over 1,100 employees in India, Romania, UAE, and Colombia"
+            },
+            {
+              "key": "Total Full-Time Equivalent Employees",
+              "value": "Approximately 1,200 as of February 15, 2023"
+            },
+            {
+              "key": "Intellectual Property",
+              "value": "1 U.S. patent covering core software platform; various trademarks and service marks registered"
+            },
+            {
+              "key": "Future Investment Focus",
+              "value": "Continuous improvement of financial technology software and development of a new platform"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 26,
+          "title": "CoreCard Proprietary Software and Processing Services Overview",
+          "data": [
+            {
+              "key": "Platform",
+              "value": "CoreENGINE™ – a core financial transaction processing platform supporting credit, loan, prepaid, and debit card operations."
+            },
+            {
+              "key": "Product Capabilities",
+              "value": "Offers feature-rich applications with web interfaces, APIs, multi-lingual and multi-currency support, real-time processing, complex rules-based authorizations, account hierarchies, and robust fee libraries."
+            },
+            {
+              "key": "Service Models",
+              "value": "Provides two options: a software license (though being de-emphasized) for in-house processing and Processing Services for outsourced card processing."
+            },
+            {
+              "key": "Cost Efficiency",
+              "value": "Designed to run on scalable, lower cost PC-based servers, reducing overall processing costs as volumes grow."
+            },
+            {
+              "key": "Customer Concentration",
+              "value": "Goldman Sachs Group, Inc. (referred to as 'Customer A') contributed 75% of consolidated revenues in 2022 and 71% in 2021, with expectations of future revenue from professional services, maintenance, and licensing."
+            },
+            {
+              "key": "Certifications and Compliance",
+              "value": "CoreCard holds PCI Data Security Standards compliance, SOC 1 and SOC 2 reports, and certifications from American Express, Discover, MasterCard, Visa, Star, and Pulse."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 27,
+          "title": "CoreCard Technology Overview and Market Positioning",
+          "data": [
+            {
+              "key": "CoreCard's Competitive Edge",
+              "value": "CoreCard believes it can compete successfully in its selected markets by providing a robust technology platform, greater system flexibility, and more customer-driven marketing options."
+            },
+            {
+              "key": "Product Offerings",
+              "value": "CoreCard software platform includes CoreCREDIT™, CoreENGINE™, CoreISSUE™, CoreFRAUD™, CoreCOLLECT™, CoreAPP™, CoreMONEY™, and CoreACQUIRE™."
+            },
+            {
+              "key": "Market Focus",
+              "value": "CoreCard has focused on building a customer base in prepaid, fleet, retail, and credit markets."
+            },
+            {
+              "key": "Sales Process",
+              "value": "Sales typically involve long sales cycles with revenue from software licenses and service contracts."
+            },
+            {
+              "key": "Regulatory Compliance",
+              "value": "CoreCard's products must comply with federal and state regulations governing financial transactions."
+            },
+            {
+              "key": "Usage Seasonality",
+              "value": "Business generally not considered seasonal but may experience revenue increase during summer travel and end of year spending."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 50,
+          "title": "Property and Equipment Summary",
+          "data": [
+            {
+              "key": "Property and equipment (Useful Life 3-5)",
+              "value": "2022: 23075, 2021: 18283"
+            },
+            {
+              "key": "Internal-use software (Useful Life 3-7)",
+              "value": "2022: 1967, 2021: 429"
+            },
+            {
+              "key": "Furniture and fixtures (Useful Life 5-7)",
+              "value": "2022: 922, 2021: 319"
+            },
+            {
+              "key": "Building (Useful Life 39)",
+              "value": "2022: 320, 2021: 308"
+            },
+            {
+              "key": "Property and equipment, gross",
+              "value": "2022: 26284, 2021: 19339"
+            },
+            {
+              "key": "Accumulated depreciation",
+              "value": "2022: -14278, 2021: -8968"
+            },
+            {
+              "key": "Property and equipment, net",
+              "value": "2022: 12006, 2021: 10371"
+            },
+            {
+              "key": "Depreciation expense",
+              "value": "2022: 5,697,000, 2021: 3,696,000"
+            },
+            {
+              "key": "Amortization expense for intangible assets",
+              "value": "2022: 133,000, 2021: 100,000"
+            },
+            {
+              "key": "Intangible assets, net of accumulated amortization",
+              "value": "2022: 167,000, 2021: 300,000"
+            },
+            {
+              "key": "Investments",
+              "value": "2022: 5,180,000, 2021: 6,355,000"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 3,
+          "title": "Shareholder Letter from CoreCard Corporation – Financial Performance Overview",
+          "data": [
+            {
+              "key": "Company",
+              "value": "CoreCard Corporation"
+            },
+            {
+              "key": "Focus",
+              "value": "Discussion of stock performance, valuation metrics, revenue and earnings results"
+            },
+            {
+              "key": "Stock Performance",
+              "value": "Excellent relative to modern fintech peers, despite volatility in valuation measures"
+            },
+            {
+              "key": "Valuation Commentary",
+              "value": "Critique of PE-based valuation and a shift toward discounted cash flow and appropriate adjustments"
+            },
+            {
+              "key": "Revenue and Earnings",
+              "value": "Achieved new highs in revenues and earnings last year; expected decline in license revenue in 2023"
+            },
+            {
+              "key": "Risk Considerations",
+              "value": "Mentions risk of customer concentration and potential macro impacts from banking turmoil in Q1 2023"
+            },
+            {
+              "key": "Strategic Focus",
+              "value": "Emphasis on building long-term value and shifting from incremental (brick by brick) improvements to becoming 'great'"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 6,
+          "title": "Analysis Data",
+          "data": [
+            {
+              "key": "metric",
+              "value": "3"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 22,
+          "title": "Registrant Information",
+          "data": [
+            {
+              "key": "state",
+              "value": "Georgia"
+            },
+            {
+              "key": "identifier",
+              "value": "58-1964787"
+            },
+            {
+              "key": "state",
+              "value": "(State or other jurisdiction of incorporation or organization)"
+            },
+            {
+              "key": "identifier",
+              "value": "(I.R.S. Employer Identification No.)"
+            },
+            {
+              "key": "state",
+              "value": "One Meca Way, Norcross, Georgia"
+            },
+            {
+              "key": "identifier",
+              "value": "30093"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 22,
+          "title": "Market Value of Common Stock",
+          "data": [
+            {
+              "key": "aggregate market value",
+              "value": "$176,571,200"
+            },
+            {
+              "key": "date",
+              "value": "June 30, 2022"
+            },
+            {
+              "key": "number of shares",
+              "value": "8,502,735"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 30,
+          "title": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Recent Sales of Unregistered Securities",
+              "value": "None during the period covered by Form 10-K"
+            },
+            {
+              "key": "Business Segments",
+              "value": "Operations include CoreCard Software subsidiary and affiliates in Romania, India, UAE, and Colombia; corporate office in Atlanta, Georgia"
+            },
+            {
+              "key": "Revenue Streams",
+              "value": "Product revenue from licensing financial transaction management software, processing service fees, and professional services for software customizations"
+            },
+            {
+              "key": "Key Customer",
+              "value": "Customer A (Goldman Sachs Group, Inc.), representing 75% of consolidated revenues in 2022 and 71% in 2021"
+            },
+            {
+              "key": "Revenue Recognition Challenges",
+              "value": "Variability due to the timing of software license activations, tiered licensing models, and potential delays in contract implementations"
+            },
+            {
+              "key": "Employee and Operational Expenses",
+              "value": "Over 1,100 employees across multiple countries; significant expenses include personnel and corporate office expenses"
+            },
+            {
+              "key": "Office Expansion",
+              "value": "Opened a second office in India in 2017, an office in Dubai (October 2020), and a new location in Bogotá (October 2021)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Financial Performance and Capital Resources Overview",
+          "data": [
+            {
+              "key": "Expenses Increase",
+              "value": "Increased 20% in 2022"
+            },
+            {
+              "key": "Investment Income (Loss) 2022",
+              "value": "Loss of $1,144,000; primarily due to fourth quarter impairment charge on an equity method investment"
+            },
+            {
+              "key": "Investment Income (Loss) 2021",
+              "value": "Loss of $172,000; related to losses on equity method investments without impairments"
+            },
+            {
+              "key": "Other Income, net 2022",
+              "value": "$226,000; lower interest income due to reduced cash balances partially offset by higher interest rates"
+            },
+            {
+              "key": "Other Income, net 2021",
+              "value": "$277,000"
+            },
+            {
+              "key": "Income Taxes 2022",
+              "value": "$5,154,000; effective tax rate of 27.1%"
+            },
+            {
+              "key": "Income Taxes 2021",
+              "value": "$2,724,000; effective tax rate of 23.2%"
+            },
+            {
+              "key": "Cash Balance at Dec 31, 2022",
+              "value": "$20,399,000"
+            },
+            {
+              "key": "Cash Balance at Dec 31, 2021",
+              "value": "$29,244,000"
+            },
+            {
+              "key": "Cash Provided by Operations 2022",
+              "value": "$9,864,000"
+            },
+            {
+              "key": "Cash Provided by Operations 2021",
+              "value": "$8,915,000"
+            },
+            {
+              "key": "Capital Expenditure 2022",
+              "value": "$8,735,000 used to acquire computer equipment and related software"
+            },
+            {
+              "key": "Investments 2021",
+              "value": "Invested $1,000,000 in a supply chain financing company and $800,000 in an identity and professional services firm"
+            },
+            {
+              "key": "Investments 2022",
+              "value": "Invested $6,944,000 in publicly traded multi-sector corporate and municipal debt securities, offset by maturities of $1,975,000"
+            },
+            {
+              "key": "Share Repurchase 2021",
+              "value": "$9.7 million in share repurchases"
+            },
+            {
+              "key": "Share Repurchase 2022",
+              "value": "$5.3 million in share repurchases"
+            },
+            {
+              "key": "Remaining Authorized Share Repurchases",
+              "value": "$18.3 million remaining as of December 31, 2022"
+            },
+            {
+              "key": "Dividend Policy",
+              "value": "No regular or special dividends expected in the foreseeable future"
+            },
+            {
+              "key": "Future Tax Rate Expectation",
+              "value": "Expected to be within the range of 25-27%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Revenue Recognition Details",
+          "data": [
+            {
+              "key": "Revenue Types",
+              "value": "Product revenue from software licenses; Service revenue from processing, professional services, reimbursable expenses, and software maintenance & support"
+            },
+            {
+              "key": "Software License Arrangements",
+              "value": "Initial contracts, additional licenses for new modules or tier upgrades, optional standalone contracts for services like interfaces, custom features, training, and problem resolution"
+            },
+            {
+              "key": "Performance Obligations",
+              "value": "Identification of distinct products or services promised in contracts, recognized when control is transferred to the customer"
+            },
+            {
+              "key": "Revenue Recognition Timing",
+              "value": "Software licenses recognized at a point in time upon delivery; implementation fees recognized over the customer life; PCS and maintenance contracts recognized ratably over contract terms; standalone service contracts recognized upon completion or as performed"
+            },
+            {
+              "key": "PCS (Post Contract Support)",
+              "value": "Accounted for based on relative standalone selling price; recognized ratably on a straight-line basis over the specified period"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Revenue Recognition and Investment Valuation Disclosures",
+          "data": [
+            {
+              "key": "Revenue Recognition for Licensed Software",
+              "value": "Contracts include an initial fee plus recurring monthly fees for software usage, maintenance, and support. Revenue is recognized ratably on a straight-line basis over the estimated life of the contract."
+            },
+            {
+              "key": "Processing Services Revenue",
+              "value": "Revenues are based on volume- or activity-based factors (such as number of accounts processed, system accounts, hours of services, or computer resources) and recognized as services are provided."
+            },
+            {
+              "key": "Performance Obligation and Principal vs. Agent Assessment",
+              "value": "Determination is made at the performance obligation level to decide if the company is the principal (recognizing gross amounts) or the agent (recognizing net amounts), based on control indicators such as inventory risk and pricing discretion."
+            },
+            {
+              "key": "Deferred Revenue",
+              "value": "Includes advance payments from software customers for annual/quarterly PCS, software licenses, professional services not yet delivered, and initial implementation payments for bundled services. Deferred revenue is classified as long-term until likely to be provided within 12 months."
+            },
+            {
+              "key": "Investment Valuation and Impairment",
+              "value": "Minority interests are valued based on management’s realizability estimates. An impairment charge of $1,450,000 was recorded in Q4 2022 for a media and events company, reducing its carrying value to $0."
+            },
+            {
+              "key": "Off-Balance Sheet Arrangements",
+              "value": "The company currently does not have any off-balance sheet arrangements that could materially affect its financial condition, liquidity, or operations."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "Consolidated Financial Statements and Internal Control Disclosures",
+          "data": [
+            {
+              "key": "Recent Accounting Pronouncements",
+              "value": "Refer to Note 1 of the Notes to Consolidated Financial Statements."
+            },
+            {
+              "key": "Financial Statements",
+              "value": "Includes Consolidated Balance Sheets, Statements of Operations, Comprehensive Income (Loss), Stockholders’ Equity, and Cash Flows for the years ended December 31, 2022 and 2021."
+            },
+            {
+              "key": "Independent Audit Report",
+              "value": "Report by Nichols, Cauley & Associates, LLC (PCAOB ID 281)"
+            },
+            {
+              "key": "Internal Control Evaluation",
+              "value": "Management, including the CEO and CFO, evaluated the effectiveness of disclosure controls and procedures under Rule 13a-15(b) and found them effective. No significant changes in internal control over financial reporting occurred during the period."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Index to Financial Statements",
+          "data": [
+            {
+              "key": "Report of Independent Registered Public Accounting Firm",
+              "value": "F-2"
+            },
+            {
+              "key": "Consolidated Balance Sheets at December 31, 2022 and 2021",
+              "value": "F-5"
+            },
+            {
+              "key": "Consolidated Statements of Operations for the years ended December 31, 2022 and 2021",
+              "value": "F-6"
+            },
+            {
+              "key": "Consolidated Statements of Comprehensive Income (Loss) for the years ended December 31, 2022 and 2021",
+              "value": "F-6"
+            },
+            {
+              "key": "Consolidated Statements of Stockholders’ Equity for the years ended December 31, 2022 and 2021",
+              "value": "F-7"
+            },
+            {
+              "key": "Consolidated Statements of Cash Flows for the years ended December 31, 2022 and 2021",
+              "value": "F-8"
+            },
+            {
+              "key": "Notes to Consolidated Financial Statements",
+              "value": "F-9"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "Opinion on the Financial Statements",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "CoreCard Corporation"
+            },
+            {
+              "key": "Audit Period",
+              "value": "December 31, 2022 and 2021"
+            },
+            {
+              "key": "Auditor",
+              "value": "NICHOLS, CAULEY & ASSOCIATES, LLC"
+            },
+            {
+              "key": "Location",
+              "value": "Peachtree Corners, Georgia"
+            },
+            {
+              "key": "Report Type",
+              "value": "Independent Registered Public Accounting Firm's Report"
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "The financial statements present fairly, in all material respects, the financial position of the Company."
+            },
+            {
+              "key": "Critical Audit Matters",
+              "value": "Revenue Recognition – Refer to Note 1 of the Financial Statements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "ASSETS",
+          "data": [
+            {
+              "key": "Current assets:",
+              "value": "-"
+            },
+            {
+              "key": "Cash and cash equivalents",
+              "value": "20399"
+            },
+            {
+              "key": "Marketable securities",
+              "value": "4973"
+            },
+            {
+              "key": "Accounts receivable, net",
+              "value": "13220"
+            },
+            {
+              "key": "Other current assets",
+              "value": "3729"
+            },
+            {
+              "key": "Total current assets",
+              "value": "42321"
+            },
+            {
+              "key": "Investments",
+              "value": "5180"
+            },
+            {
+              "key": "Property and equipment, at cost less accumulated depreciation",
+              "value": "12006"
+            },
+            {
+              "key": "Other long-term assets",
+              "value": "3725"
+            },
+            {
+              "key": "Total assets",
+              "value": "63232"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Liabilities and Stockholders' Equity",
+          "data": [
+            {
+              "key": "Accounts payable",
+              "value": "2011"
+            },
+            {
+              "key": "Deferred revenue, current portion",
+              "value": "1094"
+            },
+            {
+              "key": "Accrued payroll",
+              "value": "1888"
+            },
+            {
+              "key": "Accrued expenses",
+              "value": "25"
+            },
+            {
+              "key": "Income tax payable",
+              "value": "0"
+            },
+            {
+              "key": "Other current liabilities",
+              "value": "2025"
+            },
+            {
+              "key": "Total current liabilities",
+              "value": "7543"
+            },
+            {
+              "key": "Total noncurrent liabilities",
+              "value": "2926"
+            },
+            {
+              "key": "Common stock",
+              "value": "90"
+            },
+            {
+              "key": "Additional paid-in capital",
+              "value": "16471"
+            },
+            {
+              "key": "Treasury stock",
+              "value": "-16662"
+            },
+            {
+              "key": "Accumulated other comprehensive loss",
+              "value": "-61"
+            },
+            {
+              "key": "Accumulated income",
+              "value": "52925"
+            },
+            {
+              "key": "Total stockholders' equity",
+              "value": "52763"
+            },
+            {
+              "key": "Total liabilities and stockholders' equity",
+              "value": "63232"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Cash Flow Statement - Year Ended December 31",
+          "data": [
+            {
+              "key": "Net income",
+              "value": "$13,881M (2022), $9,039M (2021)"
+            },
+            {
+              "key": "Depreciation and amortization",
+              "value": "$5,697M (2022), $3,796M (2021)"
+            },
+            {
+              "key": "Stock-based compensation expense",
+              "value": "$210M (2022), $319M (2021)"
+            },
+            {
+              "key": "Benefit for deferred income taxes",
+              "value": "-$77M (2022), -$227M (2021)"
+            },
+            {
+              "key": "Non-cash investment loss",
+              "value": "$1,450M (2022), $0M (2021)"
+            },
+            {
+              "key": "Cash provided by operating activities",
+              "value": "$9,864M (2022), $8,915M (2021)"
+            },
+            {
+              "key": "Cash used in investing activities",
+              "value": "-$13,484M (2022), -$7,992M (2021)"
+            },
+            {
+              "key": "Cash used in financing activities",
+              "value": "-$5,335M (2022), -$9,581M (2021)"
+            },
+            {
+              "key": "Cash at beginning of year",
+              "value": "$29,244M (2022), $37,956M (2021)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Fair Value Measurements and Credit Evaluations",
+          "data": [
+            {
+              "key": "Credit Evaluation Overview",
+              "value": "We perform ongoing credit evaluations of customers worldwide and do not require collateral. Historically, there have been no significant losses related to receivables from individual customers or groups from any specific industry or geographic area."
+            },
+            {
+              "key": "Fair Value Measurement Framework",
+              "value": "The fair value of assets and liabilities is determined using quoted market prices in active markets according to GAAP. This includes a hierarchy of inputs: Level 1 (quoted prices in active markets), Level 2 (quoted prices in less active markets), and Level 3 (model-based valuations using unobservable inputs)."
+            },
+            {
+              "key": "Fair Value Hierarchy Explanation",
+              "value": "When multiple levels of inputs are used, the fair value measurement is categorized by the lowest level input that is significant. Equity method investments are not measured due to impracticability because investee companies are small and early stage with no comparable data."
+            },
+            {
+              "key": "Table 1 - Cash Equivalents and Marketable Securities",
+              "value": "Title: Cash equivalents and marketable securities fair value hierarchy. Summary: Total assets amount to $22,469,000, composed of Money market accounts ($17,496,000) and Corporate/Municipal debt securities ($4,973,000). All assets are classified as Level 1."
+            },
+            {
+              "key": "Table 2 - Fair Value Measurements of Financial Assets",
+              "value": "Title: Fair Value Measurements of Financial Assets. Summary: Money market accounts are valued at $26,866,000, classified as Level 1 with no assets in Level 2 or Level 3. Marketable securities including corporate and municipal debt securities are listed without values, and total assets equal $26,866,000."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Revenue Recognition Policy",
+          "data": [
+            {
+              "key": "Revenue Streams",
+              "value": "Product revenue from software licenses; Service revenue from processing services, professional services (customization, consulting, training), reimbursable expenses, and software maintenance and customer support."
+            },
+            {
+              "key": "Software License Arrangements",
+              "value": "Arrangements typically include: an initial contract for licensing certain modules along with implementation services and post contract support (PCS); purchases of additional licenses for new modules or tier upgrades; optional standalone contracts for additional services such as custom features or extra training; and contracts with an initial fee plus recurring monthly fees."
+            },
+            {
+              "key": "Performance Obligations",
+              "value": "At contract inception, performance obligations are identified for each distinct product or service promised. Revenue is recognized either at a point in time (for distinct software licenses) or over time as the services are rendered (e.g., PCS, implementation services, recurring fees)."
+            },
+            {
+              "key": "Recognition Timing and Method",
+              "value": "Software licenses are recognized at delivery. Implementation fees are recognized over the customer life after completion. PCS and recurring service fees are recognized ratably on a straight-line basis over the contract term, while standalone service contracts are recognized upon completion or as services are provided."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Revenue Recognition, Cost, and Expense Details",
+          "data": [
+            {
+              "key": "Processing Services Revenue",
+              "value": "Continuous access to processing platforms; stand-ready performance obligation; principal vs agent considerations; revenue recorded net of sales tax."
+            },
+            {
+              "key": "Deferred Revenue",
+              "value": "Advance payments for PCS, software licenses, professional services, and initial implementation fees; classified as long-term until services/products are likely delivered within 12 months."
+            },
+            {
+              "key": "Cost of Revenue",
+              "value": "For software contracts, contract-specific direct costs are capitalized and recognized with revenue; for services, includes direct costs, third party costs and infrastructure related expenses."
+            },
+            {
+              "key": "Software Development Expense",
+              "value": "Costs expensed in period incurred; contract specific development costs are capitalized and recognized alongside revenue."
+            },
+            {
+              "key": "Warranty Costs",
+              "value": "Software licenses include a defined warranty period (usually 3 months PCS post go-live) accruing expense over the warranty period."
+            },
+            {
+              "key": "Legal Expense",
+              "value": "Recorded as a component of general and administrative expenses when incurred."
+            },
+            {
+              "key": "Stock Based Compensation",
+              "value": "Stock option and stock grant expenses recognized on straight-line basis over vesting periods; detailed amounts provided for fiscal years 2021 and 2022; all options vested as of December 31, 2022."
+            },
+            {
+              "key": "Income Taxes",
+              "value": "Accounts for income taxes using the liability method, including deferred tax assets/liabilities and valuation allowances; interest and penalties for unrecognized tax benefits are recognized."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Accounting Disclosures: Tax Provision, Comprehensive Income and ASU Updates",
+          "data": [
+            {
+              "key": "Tax Provision",
+              "value": "Tax provision during the period in which it is determined that actual results of examinations may differ from estimates or when statutory terms expire."
+            },
+            {
+              "key": "Changes in Tax Laws",
+              "value": "Changes in tax laws and rates are reflected in the income tax provision in the period in which they occur."
+            },
+            {
+              "key": "Comprehensive Income (Loss)",
+              "value": "Represents net income adjusted for certain stockholders’ equity changes not reflected in the Consolidated Statements of Operations; accumulated as 'accumulated other comprehensive loss' including unrealized gains/losses on available-for-sale securities and foreign currency translation adjustments."
+            },
+            {
+              "key": "Recent Accounting Pronouncements Not Yet Adopted",
+              "value": "Details include FASB ASU No. 2016-13, ASU No. 2018-19, ASU No. 2019-04, ASU No. 2019-05, ASU 2019-10, and ASU 2019-11, effective for periods after December 15, 2022, with adoption planned on January 1, 2023; not expected to have a material impact."
+            },
+            {
+              "key": "Recent Accounting Pronouncements Adopted",
+              "value": "Includes adoption of ASU 2019-12 (simplifying accounting for income taxes) and ASU 2020-01 (clarifying interactions among investment, equity method, and derivatives/hedging guidance), implemented in early 2021 without material impact."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Revenue Disaggregation and Investment Activities",
+          "data": [
+            {
+              "key": "Revenue Disaggregation",
+              "value": "The document presents a detailed breakdown of revenue by category for years ended December 31, 2022 and 2021. Categories include License, Professional services, Processing and maintenance, Third party, and Total. Notably, professional services is the largest segment and total revenue increased significantly from 48,248 to 69,765."
+            },
+            {
+              "key": "Geographic Revenue Distribution",
+              "value": "A table lists revenue by geographic regions, mentioning the United States, Europe, and Middle East, though without numerical details, indicating a regional segmentation of revenue based on customer location."
+            },
+            {
+              "key": "Investments",
+              "value": "The document outlines various investment activities. It describes a conversion of a loan and promissory notes into equity (40% ownership) in 2019, impairment charges recorded in Q4 2022 ($1,450,000) reducing an investment to $0, and subsequent investments in a new entity with note receivable and cash contributions. In addition, earlier investments in a FinTech company are detailed, including impairment charges in 2018 and 2020. These investments are accounted for using the equity method, affecting investment income/loss figures."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "Financial Disclosures: Investments, Marketable Securities, and Income Taxes",
+          "data": [
+            {
+              "key": "Investment Details",
+              "value": "In Q2 2021, $1,000,000 was invested in a privately held company providing supply chain and receivables financing. The investment is recorded at cost in the Consolidated Balance Sheet, with ongoing evaluations for potential impairment."
+            },
+            {
+              "key": "Accounts Receivable and Customer Concentrations",
+              "value": "The allowance for doubtful accounts was $0 for both 2021 and 2022. A table shows customer metrics for Customer A, with one metric decreasing from 65% in 2021 to 16% in 2022 and another increasing from 1% to 15%."
+            },
+            {
+              "key": "Marketable Securities Analysis",
+              "value": "The analysis includes corporate and municipal debt securities with an amortized cost of $4,950K, gross unrealized gains of $26K, gross unrealized losses of $3K, and a fair value of $4,973K. Additionally, seven marketable securities were in an unrealized loss position as of December 31, 2022, with no intention to sell before recovery."
+            },
+            {
+              "key": "Maturity Distribution of Financial Instruments",
+              "value": "A table categorizes securities by maturity: due within one year (amortized cost $1,594K, fair value $1,602K) and due after one to three years (amortized cost $3,356K, fair value $3,371K), totaling $4,950K and $4,973K respectively."
+            },
+            {
+              "key": "Income Taxes",
+              "value": "The income tax provision is detailed in a table. The primary measure starts at $5,231 with an adjustment (−77) resulting in $5,154, while a secondary value begins at $2,951 with an adjustment (−227) leading to $2,724."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Tax Rate Reconciliation",
+          "data": [
+            {
+              "key": "Statutory rate",
+              "value": "21.0 (both periods)"
+            },
+            {
+              "key": "State and local taxes, net of federal benefit",
+              "value": "47.0 in period 1; 5.8 in period 2"
+            },
+            {
+              "key": "Equity compensation",
+              "value": "0.0 in period 1; 0.3 in period 2"
+            },
+            {
+              "key": "Research and development credit",
+              "value": "-1.5 in period 1; -2.6 in period 2"
+            },
+            {
+              "key": "Foreign tax credit",
+              "value": "-1.3 in both periods"
+            },
+            {
+              "key": "GILTI income inclusion",
+              "value": "3.9 in period 1; 0.0 in period 2"
+            },
+            {
+              "key": "Other",
+              "value": "0.3 in period 1; 0.0 in period 2"
+            },
+            {
+              "key": "Effective rate",
+              "value": "27.1% in period 1; 23.2% in period 2"
+            },
+            {
+              "key": "Summary",
+              "value": "This table reconciles the statutory tax rate of 21% to effective tax rates of 27.1% and 23.2%, highlighting significant state and local tax adjustments, R&D credits, foreign tax considerations, and other factors impacting the final tax rate."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Deferred tax (liabilities) assets",
+          "data": [
+            {
+              "key": "Unrealized loss on investments",
+              "value": "788 in current period; 896 in previous period"
+            },
+            {
+              "key": "IRC section 174 costs",
+              "value": "822 in current period; not applicable (null) in previous period"
+            },
+            {
+              "key": "Foreign Tax Credit",
+              "value": "Not applicable (null) in current period; 259 in previous period"
+            },
+            {
+              "key": "Fixed assets",
+              "value": "-1441 in current period; -1335 in previous period"
+            },
+            {
+              "key": "Other",
+              "value": "-124 in current period; 148 in previous period"
+            },
+            {
+              "key": "Total deferred tax asset (liability)",
+              "value": "45 in current period; -32 in previous period"
+            },
+            {
+              "key": "Less valuation allowance",
+              "value": "-517 in both periods"
+            },
+            {
+              "key": "Net deferred tax liability",
+              "value": "-472 in current period; -549 in previous period"
+            },
+            {
+              "key": "Summary",
+              "value": "The table details deferred tax assets and liabilities with a net deferred tax liability improving from -$549 to -$472, after a steady valuation allowance of -$517. The gross position shifted from a slight liability in the previous period (-32) to an asset (45) in the current period."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 61,
+          "title": "Year ended December 31 - Earnings Per Share Calculation",
+          "data": [
+            {
+              "key": "Net Income 2022",
+              "value": "13881"
+            },
+            {
+              "key": "Net Income 2021",
+              "value": "9039"
+            },
+            {
+              "key": "Weighted-average basic shares outstanding 2022",
+              "value": "8574"
+            },
+            {
+              "key": "Weighted-average basic shares outstanding 2021",
+              "value": "8777"
+            },
+            {
+              "key": "Effect of dilutive securities 2022",
+              "value": "25"
+            },
+            {
+              "key": "Effect of dilutive securities 2021",
+              "value": "33"
+            },
+            {
+              "key": "Weighted-average diluted shares 2022",
+              "value": "8599"
+            },
+            {
+              "key": "Weighted-average diluted shares 2021",
+              "value": "8810"
+            },
+            {
+              "key": "Basic earnings per share 2022",
+              "value": "1.62"
+            },
+            {
+              "key": "Basic earnings per share 2021",
+              "value": "1.03"
+            },
+            {
+              "key": "Diluted earnings per share 2022",
+              "value": "1.61"
+            },
+            {
+              "key": "Diluted earnings per share 2021",
+              "value": "1.03"
+            },
+            {
+              "key": "Dilutive stock options exercisable at December 31, 2022",
+              "value": "25000"
+            },
+            {
+              "key": "Dilutive stock options exercisable at December 31, 2021",
+              "value": "33000"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": true,
+      "elements": [
+        {
+          "type": "share_buyback",
+          "page": 29,
+          "title": "Market Information and Share Repurchase Program",
+          "data": [
+            {
+              "key": "Total Shareholders of Record",
+              "value": "151"
+            },
+            {
+              "key": "Regular Dividends",
+              "value": "None"
+            },
+            {
+              "key": "Share Repurchase Program Authorization (April 2021)",
+              "value": "$10 million"
+            },
+            {
+              "key": "Utilization of Initial Authorization",
+              "value": "$10 million"
+            },
+            {
+              "key": "Additional Share Repurchase Program Authorization (May 2022)",
+              "value": "$20 million"
+            },
+            {
+              "key": "Remaining Authorized Share Repurchases (as of December 31, 2022)",
+              "value": "$18.3 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "share_buyback",
+          "page": 31,
+          "title": "Share Repurchase Program and Financial Performance Overview",
+          "data": [
+            {
+              "key": "April 2021 Authorization",
+              "value": "Board authorized $10 million for share repurchase program, fully utilized"
+            },
+            {
+              "key": "2022 Share Repurchases",
+              "value": "$5.3 million"
+            },
+            {
+              "key": "2021 Share Repurchases",
+              "value": "$9.7 million"
+            },
+            {
+              "key": "May 2022 Additional Authorization",
+              "value": "Board authorized an additional $20 million for share repurchase program"
+            },
+            {
+              "key": "Remaining Authorized Repurchases",
+              "value": "Approximately $18.3 million remaining as of December 31, 2022"
+            },
+            {
+              "key": "Revenue Highlights",
+              "value": "Total revenue for 2022 was $69,765,000 (45% increase over 2021)"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 47,
+          "title": "Stockholders' Equity Statement",
+          "data": [
+            {
+              "key": "Balance at December 31, 2020",
+              "value": "Total stockholders' equity was $44,151K"
+            },
+            {
+              "key": "Balance at December 31, 2021",
+              "value": "Total stockholders' equity was $43,874K"
+            },
+            {
+              "key": "Balance at December 31, 2022",
+              "value": "Total stockholders' equity was $52,763K"
+            },
+            {
+              "key": "Shares repurchased",
+              "value": "Increased from -$1,639K to -$16,662K"
+            },
+            {
+              "key": "Accumulated earnings growth",
+              "value": "Grew from $30,005K to $62,925K"
+            },
+            {
+              "key": "Change in number of shares",
+              "value": "Decreased from 8.89M to 8.50M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 58,
+          "title": "Lease Disclosures and Operating Lease Liabilities",
+          "data": [
+            {
+              "key": "Right-of-use asset, net and lease liabilities (in thousands)",
+              "value": "Decreased from 3,955 to 3,373"
+            },
+            {
+              "key": "Cash paid for operating lease liabilities (in thousands)",
+              "value": "Increased from 1,239 to 1,323"
+            },
+            {
+              "key": "Weighted average remaining lease term (years)",
+              "value": "Shortened from 3.5 to 3.2"
+            },
+            {
+              "key": "Weighted average discount rate",
+              "value": "Decreased from 41% to 3.4%"
+            },
+            {
+              "key": "Lease Liability Payment Schedule",
+              "value": "2023: $1,315; 2024: $993; 2025: $603; 2026: $490; Thereafter: $68; Total: $3,469"
+            },
+            {
+              "key": "Lease Expense Breakdown",
+              "value": "Cost of revenue decreased from 892 to 779; General and administrative increased from 272 to 362; Development increased from 75 to 182; Total increased from 1,239 to 1,323"
+            },
+            {
+              "key": "Defined Contribution Plan (401k) Matching Contributions",
+              "value": "67,000 in 2022 compared to 58,000 in 2021"
+            },
+            {
+              "key": "Related Party Transaction – Headquarters Lease",
+              "value": "Lease held by ISC Properties, LLC (controlled by CEO), with rent payments of 333,000 in 2022 and 265,000 in 2021"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 35,
+          "title": "Factors That May Affect Future Operations",
+          "data": [
+            {
+              "key": "Customer Dependence",
+              "value": "Goldman Sachs Group, Inc. accounted for 75% of consolidated revenues for the twelve months ended December 31, 2022."
+            },
+            {
+              "key": "Contract and Revenue Risk",
+              "value": "Failure to meet contract obligations could lead to breach of contract, loss of the customer, and reduced future revenues."
+            },
+            {
+              "key": "Market Instability",
+              "value": "Weakness or instability in global financial markets may delay purchasing decisions and negatively impact cash flow."
+            },
+            {
+              "key": "Regulatory and Compliance Risk",
+              "value": "Increased regulations and challenges in serving regulated sectors could result in penalties, increased costs, or loss of business."
+            },
+            {
+              "key": "Operational and Development Risk",
+              "value": "Delays in software development projects and product delivery issues could postpone revenue recognition and increase costs."
+            },
+            {
+              "key": "Cybersecurity Risk",
+              "value": "A security breach may expose confidential customer information and lead to material losses beyond insurance coverage."
+            },
+            {
+              "key": "Talent Retention Risk",
+              "value": "Challenges in retaining or attracting key software developers and managers could hinder product development and customer service."
+            },
+            {
+              "key": "Competitive Pressure",
+              "value": "Competitive factors, including alternative service solutions and pricing pressures, may reduce revenue and profitability."
+            },
+            {
+              "key": "Capital and Funding Uncertainty",
+              "value": "Uncertain future capital requirements and potential unavailability of additional funds on acceptable terms could affect operations."
+            },
+            {
+              "key": "External Economic and Political Factors",
+              "value": "Factors such as market volatility, political instability, natural disasters, or pandemics could adversely affect operational results and investments."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 37,
+          "title": "Internal Control Evaluation and Risk Disclosure",
+          "data": [
+            {
+              "key": "Risk due to inherent limitations",
+              "value": "Internal control over financial reporting cannot provide absolute assurance due to human diligence requirements, lapses in judgment, and potential for collusion or management override."
+            },
+            {
+              "key": "Evaluation date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Evaluation criteria",
+              "value": "COSO Internal Control – Integrated Framework (2013)"
+            },
+            {
+              "key": "Management conclusion",
+              "value": "The Company's internal control over financial reporting is effective as of December 31, 2022 based on the evaluation."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 4,
+          "title": "Обновление корпоративного послания и видения",
+          "data": [
+            {
+              "key": "boiler_plate_change",
+              "value": "В письме отмечается, что изменилось 'boiler plate' компании, что отражает эволюцию сообщений и ясность позиции компании."
+            },
+            {
+              "key": "message",
+              "value": "Corecard теперь позиционируется как 'The GOLD standard of Modern Issuer Processing' — это символизирует модернизацию, доказанную прибыльность и ориентированность на рост."
+            },
+            {
+              "key": "call_to_action",
+              "value": "Подчеркивается необходимость коллективного усилия и 'грубой' дисциплины для достижения высоких стандартов, а также уверенность в стабильном росте и способности добавлять 'кирпичики' к прочному фундаменту."
+            },
+            {
+              "key": "stakeholder_thanks",
+              "value": "Выражена благодарность акционерам, клиентам и сотрудникам за вклад в успех и дальнейшее развитие компании."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 20,
+          "title": "Proxy Materials Availability",
+          "data": [
+            {
+              "key": "matters_before_meeting",
+              "value": "The Board is not aware of any matter other than those stated above that are to be brought before the meeting."
+            },
+            {
+              "key": "proxy_voting_intent",
+              "value": "The persons named in the enclosed form of proxy intend to vote the proxy in accordance with their judgment."
+            },
+            {
+              "key": "annual_report_request_information",
+              "value": "Any record or beneficial owner of our common stock as of April 11, 2023 may request a copy of our Annual Report on Form 10-K."
+            },
+            {
+              "key": "annual_report_fiscal_year",
+              "value": "Fiscal year ended December 31, 2022."
+            },
+            {
+              "key": "request_address",
+              "value": "Matthew A. White, CoreCard Corporation, One Meca Way, Norcross, Georgia 30093."
+            },
+            {
+              "key": "website_for_download",
+              "value": "www.corecard.com"
+            },
+            {
+              "key": "proxy_materials_availability_link",
+              "value": "https://materials.proxyvote.com/45816D"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 25,
+          "title": "Forward-Looking Statements and Business Overview",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "CoreCard Corporation"
+            },
+            {
+              "key": "Business Overview",
+              "value": "CoreCard Corporation is engaged in providing technology solutions and processing services to the financial technology and services market (FinTech)."
+            },
+            {
+              "key": "Founded",
+              "value": "1973"
+            },
+            {
+              "key": "Publicly Traded Since",
+              "value": "1980"
+            },
+            {
+              "key": "Executive Offices Location",
+              "value": "Norcross, Georgia"
+            },
+            {
+              "key": "Website",
+              "value": "www.corecard.com"
+            },
+            {
+              "key": "Foreign Subsidiaries",
+              "value": "CoreCard SRL (Romania), CoreCard Software Pvt Ltd (India), CoreCard Colombia SAS (Colombia), CoreCard Software DMCC (UAE)"
+            },
+            {
+              "key": "Software Solutions Offered",
+              "value": "Credit and debit card management, prepaid cards, private label cards, fleet cards, buy now pay later programs, loyalty programs, accounts receivable, loan transactions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 43,
+          "title": "Critical Audit Matter Description",
+          "data": [
+            {
+              "key": "Description",
+              "value": "The Company recognizes revenue when or as the Company satisfies a customer agreement performance obligation by transferring control of a product or service to a customer, in an amount that reflects the consideration the Company expects to receive in exchange for those products or services."
+            },
+            {
+              "key": "Revenue Recognition Factors",
+              "value": "Assessment of products and services promised in contracts, identification of performance obligations, determination of relative standalone selling price, timing of product or service delivery."
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "Evaluated internal controls, significant accounting policies, selected customer agreements, evaluated management's identification of significant terms, tested mathematical accuracy."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 43,
+          "title": "Critical Audit Matter – Valuation of Investments",
+          "data": [
+            {
+              "key": "Description",
+              "value": "The Company evaluates equity method investments for impairment when events or changes in circumstances indicate that the carrying amount of the investment might not be recoverable."
+            },
+            {
+              "key": "Impairment Assessment",
+              "value": "Involves management judgment, measuring impairment, and determining if it is other than temporary."
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "Evaluated internal controls, reviewed management’s equity method investment assessment documentation, evaluated significant accounting policies."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 8,
+          "title": "Proxy Solicitation and Voting Instructions",
+          "data": [
+            {
+              "key": "Revocation of Proxy",
+              "value": "You cannot revoke your proxy or voting instructions as to any matter upon which, prior to such revocation, a vote has been cast in accordance with the authority conferred by such proxy or voting instructions."
+            },
+            {
+              "key": "Proxy Solicitation Expenses",
+              "value": "We will pay all expenses incurred in connection with the solicitation of proxies, including charges by brokers, fiduciaries, and custodians for forwarding proxy materials."
+            },
+            {
+              "key": "Solicitation Methods",
+              "value": "Proxies may be solicited by mail, telephone, and personal contact by directors, officers, and employees of the company without additional compensation."
+            },
+            {
+              "key": "Householding",
+              "value": "If multiple shareholders at the same mailing address own shares in street name, only one Annual Report and Proxy Statement will be sent to that address unless otherwise requested."
+            },
+            {
+              "key": "Contact Information",
+              "value": "Registered holders can contact the company at: Matthew A. White, CoreCard Corporation, One Meca Way, Norcross, Georgia 30093 to request separate materials."
+            },
+            {
+              "key": "Dissenters' Rights of Appraisal",
+              "value": "There are no dissenters’ rights of appraisal with respect to the matters being acted upon at the Annual Meeting."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 286,
+    "EUR": 4,
+    "AUD": 86,
+    "RUB": 2,
+    "BRL": 7
+  },
+  "sha1": "f015d4bfeec43fe65c003b6f4420ae864efbb58f"
+}

@@ -1,0 +1,3759 @@
+{
+  "letters": 246817,
+  "pages": 77,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "Westwater Resources, Inc.",
+    "major_industry": "Energy and Utilities",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Form 10-K Annual Report for Westwater Resources, Inc.",
+          "data": [
+            {
+              "key": "State of Incorporation",
+              "value": "6950 S. Potomac Street, Suite 300"
+            },
+            {
+              "key": "Employer Identification No.",
+              "value": ""
+            },
+            {
+              "key": "State of Incorporation",
+              "value": "Centennial, Colorado"
+            },
+            {
+              "key": "Employer Identification No.",
+              "value": "80112"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 8,
+          "title": "Company Acquisition Summary",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Westwater Resources, Inc."
+            },
+            {
+              "key": "Acquisition Target",
+              "value": "Alabama Graphite"
+            },
+            {
+              "key": "Acquisition Year",
+              "value": "2018"
+            },
+            {
+              "key": "Focus Area",
+              "value": "Battery-grade natural graphite materials"
+            },
+            {
+              "key": "Location of Project",
+              "value": "Coosa Graphite Deposit, Alabama"
+            },
+            {
+              "key": "Phase I Construction Cost",
+              "value": "$271 million"
+            },
+            {
+              "key": "Original Estimate",
+              "value": "$202 million"
+            },
+            {
+              "key": "Expected Production Capacity Phase I",
+              "value": "16,000 mt per year"
+            },
+            {
+              "key": "Expected CSPG Production",
+              "value": "7,500 mt per year"
+            },
+            {
+              "key": "Expected Testing and Commissioning Date",
+              "value": "Late 2023"
+            },
+            {
+              "key": "Expected First Production Date",
+              "value": "First half of 2024"
+            },
+            {
+              "key": "Future Mining Development Acres",
+              "value": "41,965 acres"
+            },
+            {
+              "key": "Completion of Coosa Graphite Deposit Evaluation",
+              "value": "End of 2028"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 31,
+          "title": "Coosa Graphite Deposit Overview",
+          "data": [
+            {
+              "key": "Property Rights Obligations",
+              "value": "Alabama Graphite is obligated to pay a net smelter return royalty of 2.00% for graphite production."
+            },
+            {
+              "key": "Additional Obligations",
+              "value": "A further obligation includes a 0.50% net smelter return royalty, capped at $150,000, and payments of $100,000 for a bankable feasibility study completion and $150,000 post full permitting."
+            },
+            {
+              "key": "Accessibility",
+              "value": "Good access via paved highways, some dirt and gravel logging roads."
+            },
+            {
+              "key": "Historical Context",
+              "value": "First graphite production was in 1899; intermittent production in the area continued into the 1940s."
+            },
+            {
+              "key": "Geology",
+              "value": "Graphite is hosted within Precambrian to Paleozoic rocks of the Higgins Ferry Group."
+            },
+            {
+              "key": "Graphite Grades",
+              "value": "Grades generally one percent or less in some schists; exceed one percent in quartz-graphite schist."
+            },
+            {
+              "key": "Exploration Activities",
+              "value": "Previous exploration included core drilling and airborne geophysical surveys. A near-surface deposit was defined."
+            },
+            {
+              "key": "Permitting Status",
+              "value": "The Company holds an exploration license and is applying for necessary permits for future development."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 32,
+          "title": "Mineral Resources Assessment",
+          "data": [
+            {
+              "key": "TRS Preparation Date",
+              "value": "December 6, 2022"
+            },
+            {
+              "key": "Qualified Person",
+              "value": "SLR"
+            },
+            {
+              "key": "Effective Date of Estimate",
+              "value": "November 30, 2022"
+            },
+            {
+              "key": "Indicated Mineral Resources",
+              "value": "26.0 million short tons at 2.89% Cg"
+            },
+            {
+              "key": "Total Cg from Indicated Resources",
+              "value": "755,000 short tons"
+            },
+            {
+              "key": "Inferred Mineral Resources",
+              "value": "97.0 million short tons at 3.08% Cg"
+            },
+            {
+              "key": "Total Cg from Inferred Resources",
+              "value": "3.0 million short tons"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 44,
+          "title": "Table of Contents WESTWATER RESOURCES, INC. CONSOLIDATED STATEMENTS OF OPERATIONS",
+          "data": [
+            {
+              "key": "Year 2022 Total Operating Expenses",
+              "value": "$12,125"
+            },
+            {
+              "key": "Year 2021 Total Operating Expenses",
+              "value": "$18,225"
+            },
+            {
+              "key": "Change in Product Development Expenses (2021 to 2022)",
+              "value": "Improved from $5,975 to $1,145"
+            },
+            {
+              "key": "Change in Arbitration Costs (2021 to 2022)",
+              "value": "Improved from $2,191 to $142"
+            },
+            {
+              "key": "Net Loss (2022)",
+              "value": "$121"
+            },
+            {
+              "key": "Net Loss (2021)",
+              "value": "$16,144"
+            },
+            {
+              "key": "Basic and Diluted Loss per Share (2022)",
+              "value": "$0.25"
+            },
+            {
+              "key": "Basic and Diluted Loss per Share (2021)",
+              "value": "$0.49"
+            },
+            {
+              "key": "Weighted Average Number of Shares Outstanding (2022)",
+              "value": "44,909,500"
+            },
+            {
+              "key": "Weighted Average Number of Shares Outstanding (2021)",
+              "value": "32,653,089"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 47,
+          "title": "Company Overview and Acquisition Details",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Westwater Resources, Inc."
+            },
+            {
+              "key": "Incorporation Year",
+              "value": "1977"
+            },
+            {
+              "key": "Acquisition",
+              "value": "Alabama Graphite in 2018"
+            },
+            {
+              "key": "Subsidiary Name",
+              "value": "Alabama Graphite Products (AGP)"
+            },
+            {
+              "key": "Project",
+              "value": "Phase I of Kellyton Graphite Plant"
+            },
+            {
+              "key": "Location",
+              "value": "Coosa County, Alabama"
+            },
+            {
+              "key": "Mineral Rights",
+              "value": "Coosa Graphite Deposit"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 50,
+          "title": "Recurring Fair Value Measurements",
+          "data": [
+            {
+              "key": "Current assets",
+              "value": "-"
+            },
+            {
+              "key": "Cash equivalent:",
+              "value": "-"
+            },
+            {
+              "key": "Money market account Total current assets recorded at fair value",
+              "value": "68,676"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 50,
+          "title": "Current Assets Fair Value Measurement",
+          "data": [
+            {
+              "key": "Cash equivalent: Money market account",
+              "value": "109883"
+            },
+            {
+              "key": "Total current assets recorded at fair value",
+              "value": "109883"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 50,
+          "title": "Fair Value Measurement of Assets and Liabilities",
+          "data": [
+            {
+              "key": "Land grant",
+              "value": "1,378"
+            },
+            {
+              "key": "Total non-current assets recorded at fair value",
+              "value": "1,378"
+            },
+            {
+              "key": "Land grant obligation",
+              "value": "(1,378)"
+            },
+            {
+              "key": "Total non-current liabilities recorded at fair value",
+              "value": "(1,378)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 61,
+          "title": "Operating Lease Cost Comparison (thousands of dollars)",
+          "data": [
+            {
+              "key": "Operating lease cost 2022",
+              "value": "$153,000"
+            },
+            {
+              "key": "Operating lease cost 2021",
+              "value": "$154,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 61,
+          "title": "Cash paid for amounts included in lease liabilities and Right-of-use assets obtained (in thousands of dollars)",
+          "data": [
+            {
+              "key": "Cash paid for lease liabilities 2022",
+              "value": "$158,000"
+            },
+            {
+              "key": "Cash paid for lease liabilities 2021",
+              "value": "$154,000"
+            },
+            {
+              "key": "Right-of-use assets 2022",
+              "value": "$87,000"
+            },
+            {
+              "key": "Right-of-use assets 2021",
+              "value": "$226,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 61,
+          "title": "Operating Leases",
+          "data": [
+            {
+              "key": "Operating lease right-of-use assets 2022",
+              "value": "$87,000"
+            },
+            {
+              "key": "Operating lease right-of-use assets 2021",
+              "value": "$226,000"
+            },
+            {
+              "key": "Operating lease liability, current 2022",
+              "value": "$91,000"
+            },
+            {
+              "key": "Operating lease liability, current 2021",
+              "value": "$152,000"
+            },
+            {
+              "key": "Operating lease liabilities (long term portion) 2022",
+              "value": "$0"
+            },
+            {
+              "key": "Operating lease liabilities (long term portion) 2021",
+              "value": "$83,000"
+            },
+            {
+              "key": "Total operating lease liabilities 2022",
+              "value": "$91,000"
+            },
+            {
+              "key": "Total operating lease liabilities 2021",
+              "value": "$235,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 61,
+          "title": "Lease Terms and Discount Rates Comparison",
+          "data": [
+            {
+              "key": "Weighted Average Remaining Lease Term 2022 (years)",
+              "value": "0.6"
+            },
+            {
+              "key": "Weighted Average Remaining Lease Term 2021 (years)",
+              "value": "1.6"
+            },
+            {
+              "key": "Discount Rate 2022",
+              "value": "9.5%"
+            },
+            {
+              "key": "Discount Rate 2021",
+              "value": "9.5%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 61,
+          "title": "Lease payments by year (in thousands) 2023",
+          "data": [
+            {
+              "key": "Total lease payments 2023",
+              "value": "$92,000"
+            },
+            {
+              "key": "Less imputed interest 2023",
+              "value": "$0"
+            },
+            {
+              "key": "Total 2023",
+              "value": "$91,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 63,
+          "title": "Internal Control Over Financial Reporting",
+          "data": [
+            {
+              "key": "Management Evaluation Date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "COSO Framework Edition",
+              "value": "2013"
+            },
+            {
+              "key": "Effectiveness Conclusion",
+              "value": "Internal control over financial reporting was effective"
+            },
+            {
+              "key": "Systems Limitations",
+              "value": "Inherent limitations in internal control systems"
+            },
+            {
+              "key": "New ERP System",
+              "value": "Initiatives to improve enterprise resource planning system underway"
+            },
+            {
+              "key": "New Payroll System Implementation",
+              "value": "November 2022, hosted by external service provider"
+            },
+            {
+              "key": "Changes Impacting Controls",
+              "value": "No materially affecting changes except for ERP and payroll system adjustments"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 68,
+          "title": "Description of the Registrant’s Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934",
+          "data": [
+            {
+              "key": "Registered Company",
+              "value": "Westwater Resources, Inc."
+            },
+            {
+              "key": "Common Stock Authorized",
+              "value": "100,000,000 shares"
+            },
+            {
+              "key": "Common Stock Issued",
+              "value": "3,339,541 shares"
+            },
+            {
+              "key": "Common Stock Outstanding",
+              "value": "3,339,380 shares"
+            },
+            {
+              "key": "Common Stock Issuable upon Options",
+              "value": "37,786 shares"
+            },
+            {
+              "key": "Common Stock Issuable upon Warrants",
+              "value": "197,622 shares"
+            },
+            {
+              "key": "Warrants for Lincoln Park Capital Fund, LLC",
+              "value": "182,515 shares"
+            },
+            {
+              "key": "Common Stock Reserved for Future Issuance",
+              "value": "45,886 shares"
+            },
+            {
+              "key": "Voting Rights",
+              "value": "One vote per share, no cumulative voting"
+            },
+            {
+              "key": "Dividends",
+              "value": "Subject to declaration by the Board of Directors"
+            },
+            {
+              "key": "Transfer Agent",
+              "value": "Computershare Trust Company"
+            },
+            {
+              "key": "Market Listing",
+              "value": "Nasdaq Capital Market (Symbol: WWR)"
+            },
+            {
+              "key": "Anti-Takeover Provision",
+              "value": "Subject to Section 203 of the Delaware General Corporation Law"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 69,
+          "title": "Stockholder Provisions Regarding Mergers and Control",
+          "data": [
+            {
+              "key": "Definition of interested stockholder",
+              "value": "A person who owns (or did own within three years) 15% or more of the corporation's voting stock."
+            },
+            {
+              "key": "Shares authorized",
+              "value": "100,000,000 shares of capital stock, par value $0.001 per share."
+            },
+            {
+              "key": "Common stock issued",
+              "value": "3,339,541 shares."
+            },
+            {
+              "key": "Common stock outstanding",
+              "value": "3,339,380 shares."
+            },
+            {
+              "key": "Board authority",
+              "value": "The Board of Directors can issue new shares without further approval of stockholders."
+            },
+            {
+              "key": "Impact on control",
+              "value": "Authority to issue shares may deter hostile takeovers and discourage premium bids."
+            },
+            {
+              "key": "Advance notice for proposals",
+              "value": "Stockholders must give notice 90 to 120 days prior to the annual meeting."
+            },
+            {
+              "key": "Amendment of bylaws",
+              "value": "Board of Directors can alter or repeal bylaws."
+            },
+            {
+              "key": "Special meetings calling",
+              "value": "Only by Chairman, President, or majority of directors."
+            },
+            {
+              "key": "Stockholder proposal at special meetings",
+              "value": "Not allowed."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 70,
+          "title": "ORGANIZATION CHART - December 31, 2022",
+          "data": [
+            {
+              "key": "parent_company",
+              "value": "Westwater Resources Inc. (Delaware)"
+            },
+            {
+              "key": "subsidiary",
+              "value": "Alabama Graphite Corp."
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "jurisdiction",
+              "value": "Delaware"
+            },
+            {
+              "key": "subsidiary",
+              "value": "Alabama Graphite Products, LLC"
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "jurisdiction",
+              "value": "Alabama"
+            },
+            {
+              "key": "subsidiary",
+              "value": "Alabama Graphite Company, Inc."
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "jurisdiction",
+              "value": "Alabama"
+            },
+            {
+              "key": "subsidiary",
+              "value": "URI Neutron Holdings I, Inc."
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "jurisdiction",
+              "value": "Delaware"
+            },
+            {
+              "key": "subsidiary",
+              "value": "URI Neutron Holdings II, Inc."
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "jurisdiction",
+              "value": "Delaware"
+            },
+            {
+              "key": "subsidiary",
+              "value": "Lithium Holdings Utah, LLC"
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "jurisdiction",
+              "value": "Nevada"
+            },
+            {
+              "key": "subsidiary",
+              "value": "Lithium Holdings Nevada, LLC"
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "jurisdiction",
+              "value": "Nevada"
+            },
+            {
+              "key": "subsidiary",
+              "value": "Anatolia Energy Ltd."
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "jurisdiction",
+              "value": "Australia"
+            },
+            {
+              "key": "subsidiary",
+              "value": "Anatolia Uranium (BVI) Ltd."
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "jurisdiction",
+              "value": "British Virgin Islands"
+            },
+            {
+              "key": "subsidiary",
+              "value": "Anatolia Uranium Pty Ltd."
+            },
+            {
+              "key": "ownership",
+              "value": "65%"
+            },
+            {
+              "key": "jurisdiction",
+              "value": "Australia"
+            },
+            {
+              "key": "subsidiary",
+              "value": "Adur Madencilik Ltd. STI"
+            },
+            {
+              "key": "ownership",
+              "value": "100%"
+            },
+            {
+              "key": "jurisdiction",
+              "value": "Turkey"
+            },
+            {
+              "key": "subsidiary",
+              "value": "Mazawi Mining"
+            },
+            {
+              "key": "ownership",
+              "value": "80%"
+            },
+            {
+              "key": "jurisdiction",
+              "value": "Mauritius"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "Terms and Definitions",
+          "data": [
+            {
+              "key": "AGP",
+              "value": "Alabama Graphite Products, LLC, an Alabama limited liability company and wholly owned subsidiary of Westwater Resources."
+            },
+            {
+              "key": "Alabama Graphite",
+              "value": "Alabama Graphite Company, Inc., an Alabama corporation and wholly owned subsidiary of Westwater Resources."
+            },
+            {
+              "key": "ASC",
+              "value": "FASB Accounting Standards Codification."
+            },
+            {
+              "key": "ASU",
+              "value": "FASB Accounting Standards Update."
+            },
+            {
+              "key": "ATM Offering Agreement",
+              "value": "Controlled Equity Offering Sale Agreement between Westwater Resources and Cantor Fitzgerald & Co. dated April 14, 2017."
+            },
+            {
+              "key": "Benchmark",
+              "value": "Benchmark Mineral Intelligence."
+            },
+            {
+              "key": "Cantor",
+              "value": "Cantor Fitzgerald & Co."
+            },
+            {
+              "key": "Coosa Graphite Deposit",
+              "value": "The Company's graphite mineral deposit located near Rockford, Alabama."
+            },
+            {
+              "key": "DFS",
+              "value": "The definitive feasibility study for Phase I of the Kellyton Graphite Plant which was completed in the fourth quarter of 2021."
+            },
+            {
+              "key": "enCore",
+              "value": "enCore Energy Corp."
+            },
+            {
+              "key": "EU Critical Raw Minerals List",
+              "value": "The list of raw materials that are crucial to the economy of the European Union published by the European Commission."
+            },
+            {
+              "key": "Exploration stage property",
+              "value": "A property that has no mineral reserves disclosed."
+            },
+            {
+              "key": "Graphite",
+              "value": "A naturally occurring carbon material with electrical properties that enhance the performance of electrical storage batteries, listed on the U.S. Critical Minerals List and the EU Critical Raw Materials List."
+            },
+            {
+              "key": "Gross acres",
+              "value": "Total acreage of land under which we have mineral rights. May include unleased fractional ownership."
+            },
+            {
+              "key": "Indicated Mineral Resource",
+              "value": "That part of a mineral resource for which quantity and grade or quality are estimated on the basis of adequate geological evidence and sampling. The level of geological certainty associated with an indicated mineral resource is sufficient to allow a qualified person to apply modifying factors in sufficient detail to support mine planning and evaluation of the economic viability of the deposit. Because an indicated mineral resource has a lower level of confidence than the level of confidence of a measured mineral resource, an indicated mineral resource may only be converted to a probable mineral reserve."
+            },
+            {
+              "key": "Inferred Mineral Resource",
+              "value": "That part of a mineral resource for which quantity and grade or quality are estimated on the basis of limited geological evidence and sampling. The level of geological uncertainty associated with an inferred mineral resource is too high to apply relevant technical and economic factors likely to influence the prospects of economic extraction in a manner useful for evaluation of economic viability. Because an inferred mineral resource has the lowest level of geological confidence of all mineral resources, which prevents the application of the modifying factors in a manner useful for evaluation of economic viability, an inferred mineral resource may not be considered when assessing the economic viability of a mining project and may not be converted to a probable mineral reserve."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 16,
+          "title": "Leadership Change at Westwater",
+          "data": [
+            {
+              "key": "Appointment Date",
+              "value": "January 16, 2023"
+            },
+            {
+              "key": "New CEO",
+              "value": "Frank Bakker"
+            },
+            {
+              "key": "Previous Position",
+              "value": "Chief President and Chief Executive Officer"
+            },
+            {
+              "key": "Experience",
+              "value": "Engineering, project management, and plant construction"
+            },
+            {
+              "key": "Additional Leadership Change",
+              "value": "Steven M. Cates appointed as Chief Accounting Officer and Controller on May 10, 2021"
+            },
+            {
+              "key": "Retirement Announcement",
+              "value": "Jeffrey L. Vigil, Chief Financial Officer and Vice President of Finance on June 23, 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 17,
+          "title": "Leadership Changes",
+          "data": [
+            {
+              "key": "Current CFO",
+              "value": "Mr. Cates"
+            },
+            {
+              "key": "Previous CFO",
+              "value": "Vacant until August 26, 2022"
+            },
+            {
+              "key": "General Counsel",
+              "value": "John W. Lawrence"
+            },
+            {
+              "key": "Chief Administrative Officer Promotion Date",
+              "value": "January 16, 2023"
+            },
+            {
+              "key": "Effective Promotion Date for CFO",
+              "value": "January 16, 2023"
+            },
+            {
+              "key": "Years of Experience of Mr. Lawrence",
+              "value": "40 years"
+            },
+            {
+              "key": "Number of Employees",
+              "value": "34"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 19,
+          "title": "Nominating and Governance Committee",
+          "data": [
+            {
+              "key": "Committee Duties",
+              "value": "recommend to the Board director nominees for the annual meeting of stockholders; identify and recommend candidates to fill vacancies occuring between annual stockholder meetings; oversee all aspects of corporate governance."
+            },
+            {
+              "key": "Diversity Commitment",
+              "value": "The Board does not have a formal diversity policy for directors but is committed to an inclusive membership."
+            },
+            {
+              "key": "Board Composition",
+              "value": "Westwater’s Board of Directors is comprised of five directors, three of whom are independent."
+            },
+            {
+              "key": "Recognition",
+              "value": "In 2021, Westwater was awarded by BoardConnect for achieving gender balance on its Board."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 42,
+          "title": "Critical Audit Matters and Basis for Opinion",
+          "data": [
+            {
+              "key": "Auditor Firm",
+              "value": "Moss Adams LLP"
+            },
+            {
+              "key": "Location",
+              "value": "Denver, Colorado"
+            },
+            {
+              "key": "Audit Opinion Date",
+              "value": "March 6, 2023"
+            },
+            {
+              "key": "Company Auditor Since",
+              "value": "2017"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 62,
+          "title": "Management Changes",
+          "data": [
+            {
+              "key": "New Appointment",
+              "value": "Frank Bakker as President and CEO"
+            },
+            {
+              "key": "Re-Appointment",
+              "value": "Steven M. Cates as Senior VP – Finance and CFO"
+            },
+            {
+              "key": "New Role",
+              "value": "John W. Lawrence as Chief Administrative Officer, General Counsel, and Corporate Secretary"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 65,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit Number",
+              "value": "10.9*"
+            },
+            {
+              "key": "Description",
+              "value": "Form of Inducement Grant Restricted Stock Unit Agreement under the Company's 2013 Omnibus Incentive Plan (incorporated by reference to Exhibit 99.1 to the Company's Registration Statement on Form S-8 filed on November 23, 2020, SEC File No. 333-)"
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.10*"
+            },
+            {
+              "key": "Description",
+              "value": "Form of Inducement Grant Stock Option Agreement under the Company's 2013 Omnibus Incentive Plan (incorporated by reference to"
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.11"
+            },
+            {
+              "key": "Description",
+              "value": "Exhibit 99.2 to the Company's Registration Statement on Form S-8 filed on November 23, 2020, SEC File No. 333-250866). Purchase Agreement, dated December 4, 2020, between the Company and Lincoln Park Capital Fund, LLC (incorporated by reference"
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.12"
+            },
+            {
+              "key": "Description",
+              "value": "Registration Rights Agreement, dated December 4, 2020, between the Company and Lincoln Park Capital Fund, LLC (incorporated by reference to"
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.13"
+            },
+            {
+              "key": "Description",
+              "value": "Master Service Agreement, dated February 4, 2021, between the Company and Samuel Engineering, Inc. (incorporated by reference to"
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.14*"
+            },
+            {
+              "key": "Description",
+              "value": "Executive Chairman Agreement, effective February 26, 2022, between the Company and Terence J. Cryan (incorporated by reference to"
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.15*"
+            },
+            {
+              "key": "Description",
+              "value": "Employment Agreement, February 26, 2022, between the Company and John W. Lawrence"
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.16*"
+            },
+            {
+              "key": "Description",
+              "value": "Employment Inducement Incentive Award Plan, adopted by the Board of Directors on May 9, 2022 (incorporated by reference to Exhibit 10.1 to the Company's Current Report on Form 8-K filed on May 13, 2022)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.17*"
+            },
+            {
+              "key": "Description",
+              "value": "Employment Agreement, effective August 26, 2022, between the Company and Steven M. Cates (incorporated by reference to Exhibit 10.1 to the Company's Current Report on Form 8-K filed on June 23, 2022)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.18*"
+            },
+            {
+              "key": "Description",
+              "value": "Employment Agreement between, effective January 16, 2023, between the Company and Frank Bakker (incorporated by reference to Exhibit 10.1 to the Company's Current Report on Form 8-K filed on January 16, 2023)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.19"
+            },
+            {
+              "key": "Description",
+              "value": "Controlled Equity OfferingSM Sales Agreement, dated April 14, 2017, between the Company and Cantor Fitzgerald & Co. (incorporated by reference to Exhibit 1.1 to the Company's Current Report on Form 8-K filed on April 17, 2017)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.20"
+            },
+            {
+              "key": "Description",
+              "value": "Technical Summary Report for the Coosa Graphite Deposit effective November 30, 2022 (incorporated by reference to Exhibit 96.1 to the Company's Current Report on Form 8-K filed on December 6, 2022)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "211"
+            },
+            {
+              "key": "Description",
+              "value": "Subsidiaries of Registrant."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "23.1"
+            },
+            {
+              "key": "Description",
+              "value": "Consent of Independent Registered Public Accounting Firm."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "23.2"
+            },
+            {
+              "key": "Description",
+              "value": "Consent of Qualified Person — SLR International Corporation."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 67,
+          "title": "Corporate Document Signatures",
+          "data": [
+            {
+              "key": "signature",
+              "value": "/s/ Frank Bakker"
+            },
+            {
+              "key": "details",
+              "value": "Frank Bakker President and Chief Executive Officer and Director (Principal Executive Officer)"
+            },
+            {
+              "key": "date",
+              "value": "March 6, 2023"
+            },
+            {
+              "key": "signature",
+              "value": "/s/ Steven M. Cates"
+            },
+            {
+              "key": "details",
+              "value": "Steven M. Cates Chief Financial Officer and Senior Vice President — Finance (Principal Financial and Accounting Officer)"
+            },
+            {
+              "key": "date",
+              "value": "March 6, 2023"
+            },
+            {
+              "key": "signature",
+              "value": "/s/ Terence J. Cryan"
+            },
+            {
+              "key": "details",
+              "value": "Terence J. Cryan Executive Chairman and Chairman"
+            },
+            {
+              "key": "date",
+              "value": "March 6, 2023"
+            },
+            {
+              "key": "signature",
+              "value": "/s/ Tracy D. Pagliara"
+            },
+            {
+              "key": "details",
+              "value": "Tracy D. Pagliara Director"
+            },
+            {
+              "key": "date",
+              "value": "March 6, 2023"
+            },
+            {
+              "key": "signature",
+              "value": "/s/ Karli S. Anderson"
+            },
+            {
+              "key": "details",
+              "value": "Karli S. Anderson Director"
+            },
+            {
+              "key": "date",
+              "value": "March 6, 2023"
+            },
+            {
+              "key": "signature",
+              "value": "/s/ Deborah A. Peacock"
+            },
+            {
+              "key": "details",
+              "value": "Deborah A. Peacock"
+            },
+            {
+              "key": "date",
+              "value": "March 6, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 72,
+          "title": "Consent of Qualified Person",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Westwater Resources, Inc."
+            },
+            {
+              "key": "Expert Name",
+              "value": "SLR International Corporation"
+            },
+            {
+              "key": "Technical Report Summary Title",
+              "value": "Technical Report Summary on the Coosa Project, Coosa County, Alabama, USA"
+            },
+            {
+              "key": "Effective Date",
+              "value": "November 30, 2022"
+            },
+            {
+              "key": "Report Date",
+              "value": "December 1, 2022"
+            },
+            {
+              "key": "Prepared According To",
+              "value": "Subpart 1300 of Regulation S-K"
+            },
+            {
+              "key": "Certification by",
+              "value": "Richard J. Lambert, MBA, P.E., P.Eng."
+            },
+            {
+              "key": "Position",
+              "value": "Global Technical Director"
+            },
+            {
+              "key": "Name and Status",
+              "value": "SLR, Qualified Person"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 73,
+          "title": "Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002",
+          "data": [
+            {
+              "key": "CEO Name",
+              "value": "Frank Bakker"
+            },
+            {
+              "key": "Report Date",
+              "value": "March 6, 2023"
+            },
+            {
+              "key": "Position",
+              "value": "President and Chief Executive Officer and Director"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 76,
+          "title": "Certification Pursuant to 18 U.S.C. Section 1350",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Steven M. Cates"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Financial Officer and Senior Vice President – Finance"
+            },
+            {
+              "key": "Company",
+              "value": "Westwater Resources, Inc."
+            },
+            {
+              "key": "Report Period Ending",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Certification Date",
+              "value": "March 6, 2023"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 11,
+          "title": "Regulatory Compliance and Incentives for Electric Vehicle Production",
+          "data": [
+            {
+              "key": "Regulations",
+              "value": "New York and California regulations requiring all new vehicles to be zero emissions by 2035."
+            },
+            {
+              "key": "Automaker Plans",
+              "value": "Automobile companies plan to transition to fully electric vehicles within the next 20 years."
+            },
+            {
+              "key": "Battery Manufacturing",
+              "value": "Plans for 14 new battery manufacturing facilities in the U.S."
+            },
+            {
+              "key": "Government Incentives",
+              "value": "Governments incentivizing electric vehicle ownership through subsidies."
+            },
+            {
+              "key": "Lithium-Ion Market Growth",
+              "value": "Lithium-ion battery market expected to grow at a CAGR of over 20%."
+            },
+            {
+              "key": "Graphite Supply Risks",
+              "value": "Risks from sourcing battery-grade graphite primarily from China."
+            },
+            {
+              "key": "Presidential Executive Orders",
+              "value": "Promoting resilient supply chains and domestic production of critical materials."
+            },
+            {
+              "key": "Inflation Reduction Act",
+              "value": "Investment of $370 billion in climate programs and tax credits for critical minerals."
+            },
+            {
+              "key": "Domestic Content Requirement",
+              "value": "Minimum domestic content threshold for electric vehicle batteries."
+            },
+            {
+              "key": "Incentive Agreements",
+              "value": "Agreements in Alabama providing tax credits for graphite processing plant."
+            },
+            {
+              "key": "Graphite Purification Technology",
+              "value": "Development of technology to produce high-purity, battery-grade graphite."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 30,
+          "title": "Kellyton Graphite Plant and Coosa Graphite Deposit Development Overview",
+          "data": [
+            {
+              "key": "Location",
+              "value": "Kellyton, Alabama"
+            },
+            {
+              "key": "Phase I Start",
+              "value": "Q4 2021"
+            },
+            {
+              "key": "Phase I Commissioning",
+              "value": "Late 2023"
+            },
+            {
+              "key": "First Production Target",
+              "value": "First half of 2024"
+            },
+            {
+              "key": "Phase I Production Capacity",
+              "value": "7,500 mt ULTRA-CSPG™ and 8,500 mt SPG fines annually"
+            },
+            {
+              "key": "Phase II Capacity",
+              "value": "40,500 mt ULTRA-CSPG™ and 46,000 mt SPG fines annually"
+            },
+            {
+              "key": "Coosa Graphite Deposit Area",
+              "value": "41,965 acres (approximately 65.6 square miles)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 55,
+          "title": "Stock-Based Compensation and ATM Offering Agreement",
+          "data": [
+            {
+              "key": "ATM Offering Agreement Date",
+              "value": "April 14, 2017"
+            },
+            {
+              "key": "Sales Agent",
+              "value": "Cantor Fitzgerald & Co."
+            },
+            {
+              "key": "Commission Rate",
+              "value": "up to 2.5% of gross proceeds"
+            },
+            {
+              "key": "Shares Sold 2022",
+              "value": "approximately 13.0 million shares"
+            },
+            {
+              "key": "Net Proceeds 2022",
+              "value": "$25.9 million"
+            },
+            {
+              "key": "Shares Sold 2021",
+              "value": "approximately 10.0 million shares"
+            },
+            {
+              "key": "Net Proceeds 2021",
+              "value": "$49.5 million"
+            },
+            {
+              "key": "Total Gross Proceeds Received",
+              "value": "$29.2 million"
+            },
+            {
+              "key": "Total Registered for Sale",
+              "value": "$50.0 million"
+            },
+            {
+              "key": "Stock Options Available for Future Issuances",
+              "value": "215,025 shares"
+            },
+            {
+              "key": "Stock Compensation Expense 2022",
+              "value": "$1.0 million"
+            },
+            {
+              "key": "Stock Compensation Expense 2021",
+              "value": "$0.9 million"
+            },
+            {
+              "key": "Inducement Plan Adoption Date",
+              "value": "May 9, 2022"
+            },
+            {
+              "key": "Registration Statement Date",
+              "value": "May 13, 2022"
+            },
+            {
+              "key": "Shares Registered under Inducement Plan",
+              "value": "250,000 shares"
+            },
+            {
+              "key": "RSUs Issued under Inducement Plan",
+              "value": "61,947 RSUs"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 56,
+          "title": "Stock Options Summary",
+          "data": [
+            {
+              "key": "Stock options outstanding at beginning of period",
+              "value": "2022: 277576 at $6.18, 2021: 185054 at $7.70"
+            },
+            {
+              "key": "Granted",
+              "value": "2022: 78720 at $1.09, 2021: 94522 at $3.91"
+            },
+            {
+              "key": "Expired",
+              "value": "2022: 0, 2021: -2000 at $73.54"
+            },
+            {
+              "key": "Stock options outstanding at end of period",
+              "value": "2022: 356296 at $5.06, 2021: 277576 at $6.18"
+            },
+            {
+              "key": "Stock options exercisable at end of period",
+              "value": "2022: 277576 at $6.18, 2021: 183054 at $7.35"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 56,
+          "title": "Stock Option Plan 2004 Plan",
+          "data": [
+            {
+              "key": "2004 Directors' Plan",
+              "value": "Outstanding: 3 at $10380.00, Exercisable: 3 at $10380.00"
+            },
+            {
+              "key": "2013 Plan (First Entry)",
+              "value": "Outstanding: 356201 at $4.55, Exercisable: 277481 at $5.53"
+            },
+            {
+              "key": "2013 Plan (Second Entry)",
+              "value": "Outstanding: 356296 at $5.06, Exercisable: 277576 at $6.18"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 56,
+          "title": "Stock Option Metrics Comparison 2022-2021",
+          "data": [
+            {
+              "key": "Expected volatility",
+              "value": "2022: 105%, 2021: 113%"
+            },
+            {
+              "key": "Expected term of options (years)",
+              "value": "Both years: 6"
+            },
+            {
+              "key": "Expected dividend rate",
+              "value": "Both years: —"
+            },
+            {
+              "key": "Risk-free interest rate",
+              "value": "2022: 2.95%, 2021: 0.82%"
+            },
+            {
+              "key": "Expected forfeiture rate",
+              "value": "Both years: —"
+            },
+            {
+              "key": "Weighted-average grant-date fair value",
+              "value": "2022: $0.89, 2021: $3.28"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 57,
+          "title": "RSU Activity and Fair Value Summary",
+          "data": [
+            {
+              "key": "Unvested RSUs at beginning of period (2022)",
+              "value": "385,004"
+            },
+            {
+              "key": "Fair Value (2022)",
+              "value": "3.18"
+            },
+            {
+              "key": "Unvested RSUs at beginning of period (2021)",
+              "value": "236,403"
+            },
+            {
+              "key": "Fair Value (2021)",
+              "value": "2.10"
+            },
+            {
+              "key": "Granted (2022)",
+              "value": "1,229,950"
+            },
+            {
+              "key": "Fair Value (2022)",
+              "value": "1.16"
+            },
+            {
+              "key": "Granted (2021)",
+              "value": "227,402"
+            },
+            {
+              "key": "Fair Value (2021)",
+              "value": "3.93"
+            },
+            {
+              "key": "Forfeited/Expired (2022)",
+              "value": "(225,091)"
+            },
+            {
+              "key": "Fair Value (2022)",
+              "value": "2.39"
+            },
+            {
+              "key": "Forfeited/Expired (2021)",
+              "value": "—"
+            },
+            {
+              "key": "Vested (2022)",
+              "value": "(181,991)"
+            },
+            {
+              "key": "Fair Value (2022)",
+              "value": "2.31"
+            },
+            {
+              "key": "Vested (2021)",
+              "value": "(78,801)"
+            },
+            {
+              "key": "Fair Value (2021)",
+              "value": "2.10"
+            },
+            {
+              "key": "Unvested RSUs at end of period (2022)",
+              "value": "1,207,872"
+            },
+            {
+              "key": "Fair Value (2022)",
+              "value": "1.40"
+            },
+            {
+              "key": "Unvested RSUs at end of period (2021)",
+              "value": "385,004"
+            },
+            {
+              "key": "Fair Value (2021)",
+              "value": "3.18"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 57,
+          "title": "Other income (thousands of dollars)",
+          "data": [
+            {
+              "key": "Foreign exchange loss (2022)",
+              "value": "-52"
+            },
+            {
+              "key": "Foreign exchange loss (2021)",
+              "value": "0"
+            },
+            {
+              "key": "Interest income (2022)",
+              "value": "1054"
+            },
+            {
+              "key": "Interest income (2021)",
+              "value": "26"
+            },
+            {
+              "key": "Other income (expense) (2022)",
+              "value": "2"
+            },
+            {
+              "key": "Other income (expense) (2021)",
+              "value": "-2"
+            },
+            {
+              "key": "Total other income, net (2022)",
+              "value": "1004"
+            },
+            {
+              "key": "Total other income, net (2021)",
+              "value": "24"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 64,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "Exhibit Number",
+              "value": "2.1"
+            },
+            {
+              "key": "Description",
+              "value": "Securities Purchase Agreement, dated December 31, 2020, by and among enCore Energy Corp., the Company and URI Neutron Holdings I, Inc. (incorporated by reference to Exhibit 2.1 to the Company's Current Report on Form 8-K filed on December 31, 2020)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "3.1"
+            },
+            {
+              "key": "Description",
+              "value": "Restated Certificate of Incorporation of the Company, as amended through April 22, 2019 (incorporated by reference to Exhibit 3.1 to the Company's Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2019)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "3.2"
+            },
+            {
+              "key": "Description",
+              "value": "Amended and Restated Bylaws of the Company, as amended August 21, 2017 (incorporated by reference to Exhibit 3.2 to the Company's Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2017)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "41"
+            },
+            {
+              "key": "Description",
+              "value": "Description of Securities."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.1*"
+            },
+            {
+              "key": "Description",
+              "value": "Westwater Resources, Inc. 2004 Stock Incentive Plan (incorporated by reference to Exhibit 10.35 to the Company's Quarterly Report on Form 10-QSB/A for the quarterly period ended September 30, 2005)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.2*"
+            },
+            {
+              "key": "Description",
+              "value": "Amended and Restated 2004 Directors' Stock Option Plan dated April 10, 2007 (incorporated by reference to Exhibit 10.43 to the Company's Post-Effective Amendment No. 1 to Registration Statement on Form S-3 filed April 11, 2007, SEC File No. 333-133960)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.3*"
+            },
+            {
+              "key": "Description",
+              "value": "Amended and Restated 2004 Directors' Stock Option and Restricted Stock Plan dated April 1, 2010 (incorporated by reference to Exhibit 10.43.1 to the Company's Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2010)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.4*"
+            },
+            {
+              "key": "Description",
+              "value": "Westwater Resources, Inc. 2013 Omnibus Incentive Plan, as amended (incorporated by reference to Appendix C to the Company's Definitive Proxy Statement on Schedule 14A filed on February 25, 2019)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.5*"
+            },
+            {
+              "key": "Description",
+              "value": "Form of Restricted Stock Agreement under the Company's 2013 Omnibus Incentive Plan (incorporated by reference to Exhibit 10.2 to the Company's Current Report on Form 8-K filed on June 7, 2013)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.6*"
+            },
+            {
+              "key": "Description",
+              "value": "Form of Non-Qualified Stock Option Agreement under the Company's 2013 Omnibus Incentive Plan (incorporated by reference to Exhibit 10.3 to the Company's Current Report on Form 8-K filed on June 7, 2013)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.7*"
+            },
+            {
+              "key": "Description",
+              "value": "Form of Restricted Stock Unit Agreement under the Company's 2013 Omnibus Incentive Plan (incorporated by reference to Exhibit 10.4 to the Company's Current Report on Form 8-K filed on June 7, 2013)."
+            },
+            {
+              "key": "Exhibit Number",
+              "value": "10.8*"
+            },
+            {
+              "key": "Description",
+              "value": "Form of Deferred Stock Unit Agreement For Non-Employee Directors under the Company's 2013 Omnibus Incentive Plan (incorporated by reference to Exhibit 10.2 to the Company's Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2017)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 71,
+          "title": "Consent of Independent Registered Public Accounting Firm",
+          "data": [
+            {
+              "key": "Firm Name",
+              "value": "Moss Adams LLP"
+            },
+            {
+              "key": "Location",
+              "value": "Denver, Colorado"
+            },
+            {
+              "key": "Report Date",
+              "value": "March 6, 2023"
+            },
+            {
+              "key": "Subject of Report",
+              "value": "Consolidated financial statements of Westwater Resources, Inc."
+            },
+            {
+              "key": "Opinion Type",
+              "value": "Unqualified"
+            },
+            {
+              "key": "Financial Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Registration Statements",
+              "value": "Form S-3 (Nos. 333-257434 and 333-250857), Form S-8 (Nos. 333-264958, 333-257421, 333-250866, 333-226927, 333-193075, and 333-119661)"
+            },
+            {
+              "key": "Filing Entity",
+              "value": "Westwater Resources, Inc."
+            },
+            {
+              "key": "Statement Type",
+              "value": "Annual Report on Form 10-K"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 9,
+          "title": "Overview of the Battery Graphite Industry",
+          "data": [
+            {
+              "key": "Current Situation",
+              "value": "The Company is not including any potential benefit related to vanadium in its economic models or resource estimates."
+            },
+            {
+              "key": "Project Goals",
+              "value": "Achieving sustainable battery-grade graphite production to take advantage of rising battery materials prices."
+            },
+            {
+              "key": "Business Priorities",
+              "value": "Adjusting near-term and long-term business priorities in accordance with market conditions."
+            },
+            {
+              "key": "Competitive Advantage",
+              "value": "Broad base of mining and processing expertise related to graphite."
+            },
+            {
+              "key": "Key Developments 2022",
+              "value": "Construction of the Kellyton Graphite Plant."
+            },
+            {
+              "key": "Technical Report Summary",
+              "value": "Mineral resource estimate for the Coosa Graphite Deposit completed by SLR on November 30, 2022."
+            },
+            {
+              "key": "Importance of Graphite",
+              "value": "Graphite is essential in the production of all types of electrical storage batteries."
+            },
+            {
+              "key": "Natural Flake Graphite",
+              "value": "Increasingly supplanting or supplementing synthetic graphite in battery applications."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 10,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "key battery segments",
+              "value": "Lithium-Ion batteries, Alkaline batteries, Lead Acid batteries, Primary Lithium batteries"
+            },
+            {
+              "key": "2022 natural graphite demand",
+              "value": "221,636 tpa"
+            },
+            {
+              "key": "lithium-ion batteries demand share",
+              "value": "79% projected to grow to 89% by 2032"
+            },
+            {
+              "key": "alkaline batteries market size",
+              "value": "$7.8 billion in 2021 CAGR 4.9% (2022-2028)"
+            },
+            {
+              "key": "lead acid batteries market size",
+              "value": "$83.1 billion in 2021 CAGR 2.6% (2022-2030)"
+            },
+            {
+              "key": "total graphite demand projected",
+              "value": "2,924,411 tpa in 2032"
+            },
+            {
+              "key": "natural graphite demand projected",
+              "value": "1,580,108 tpa in 2032"
+            },
+            {
+              "key": "synthetic graphite consumption growth",
+              "value": "expected to grow due to industry concentration in China."
+            },
+            {
+              "key": "geopolitical risk for graphite",
+              "value": "China poses a geopolitical risk to EU and U.S."
+            },
+            {
+              "key": "prohibition on gasoline- and diesel-powered vehicles",
+              "value": "UK 2030, France 2040"
+            },
+            {
+              "key": "electric vehicles status",
+              "value": "only viable technology for new car demands in these nations"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 12,
+          "title": "Kellyton Graphite Plant Production Capacity Update",
+          "data": [
+            {
+              "key": "Current Production Capacity",
+              "value": "16,000 mt per year"
+            },
+            {
+              "key": "Product 1",
+              "value": "ULTRA-CSPG™: 7,500 mt per year"
+            },
+            {
+              "key": "Product 2",
+              "value": "SPG Fines: 8,500 mt per year"
+            },
+            {
+              "key": "Expected Capacity After Phase II Expansion",
+              "value": "86,500 mt per year"
+            },
+            {
+              "key": "Expected Product 1 Capacity After Phase II",
+              "value": "40,500 mt per year"
+            },
+            {
+              "key": "Expected Product 2 Capacity After Phase II",
+              "value": "46,000 mt per year"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 13,
+          "title": "Product Launch and Development Overview",
+          "data": [
+            {
+              "key": "Phase I Construction Start",
+              "value": "Q4 2021"
+            },
+            {
+              "key": "Testing and Commissioning Start",
+              "value": "Late 2023"
+            },
+            {
+              "key": "First Production",
+              "value": "1st half of 2024"
+            },
+            {
+              "key": "Expected Phase I Optimization Completion",
+              "value": "H2 2024"
+            },
+            {
+              "key": "Feasibility Study for Phase II",
+              "value": "Upon or before completion of Phase I"
+            },
+            {
+              "key": "Purification Process",
+              "value": "Proprietary process developed during pilot program"
+            },
+            {
+              "key": "Carbon Content of Purified Graphite",
+              "value": "99.95%"
+            },
+            {
+              "key": "Company Focus for Phase I",
+              "value": "Production of ULTRA-CSPG™ and SPG fines"
+            },
+            {
+              "key": "Future Product Evaluation",
+              "value": "Phase II based on market demand and customer interest"
+            },
+            {
+              "key": "Coosa Graphite Deposit Acquisition",
+              "value": "2018 from Alabama Graphite"
+            },
+            {
+              "key": "Coosa Deposit Mining Method",
+              "value": "Conventional small-scale open-pit"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 36,
+          "title": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Westwater Resources, Inc."
+            },
+            {
+              "key": "Construction Project",
+              "value": "Phase I of the Kellyton Graphite Plant"
+            },
+            {
+              "key": "Estimated Total Costs",
+              "value": "$271 million"
+            },
+            {
+              "key": "Original Estimate Costs",
+              "value": "$202 million"
+            },
+            {
+              "key": "Funds Incurred as of Dec 31, 2022",
+              "value": "$76.4 million"
+            },
+            {
+              "key": "Private Debt Financing",
+              "value": "$150 million"
+            },
+            {
+              "key": "Financing Status",
+              "value": "Non-binding, non-exclusive indicative term sheet"
+            },
+            {
+              "key": "Expected Production Capacity",
+              "value": "16,000 mt per year"
+            },
+            {
+              "key": "Expected CSPG Production",
+              "value": "7,500 mt per year"
+            },
+            {
+              "key": "Testing and Commissioning Start Date",
+              "value": "Late 2023"
+            },
+            {
+              "key": "First Production Date",
+              "value": "First half of 2024"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 39,
+          "title": "Liquidity and Capital Resources",
+          "data": [
+            {
+              "key": "cash_balances",
+              "value": "$75.2 million"
+            },
+            {
+              "key": "euro_balance",
+              "value": "5.0 million Euros"
+            },
+            {
+              "key": "common_stock_sold",
+              "value": "13.0 million shares"
+            },
+            {
+              "key": "net_proceeds_from_stock_sale",
+              "value": "$25.9 million"
+            },
+            {
+              "key": "remaining_available_for_sales_under_ATM_Offering_Agreement",
+              "value": "$20.8 million"
+            },
+            {
+              "key": "available_common_stock_for_sales_under_Lincoln_Park_PA",
+              "value": "9.7 million shares"
+            },
+            {
+              "key": "financing_reliance",
+              "value": "debt and equity financing"
+            },
+            {
+              "key": "construction_impact_if_funds_unavailable",
+              "value": "may be required to reduce or severely curtail operations"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 48,
+          "title": "Other Property, Plant and Equipment",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Other property, plant and equipment consisted of corporate office equipment, furniture and fixtures and transportation equipment."
+            },
+            {
+              "key": "Depreciation Policy",
+              "value": "Depreciation on other property is computed based upon the estimated useful lives of the assets."
+            },
+            {
+              "key": "Repairs and Maintenance",
+              "value": "Repairs and maintenance costs are expensed as incurred."
+            },
+            {
+              "key": "Inventory Details",
+              "value": "Inventory consisted of approximately 603 metric tons of raw material of natural flake graphite concentrate provided by a third-party vendor totaling $0.8 million as of December 31, 2022."
+            },
+            {
+              "key": "Inventory Valuation",
+              "value": "The Company values the natural flake graphite concentrate at the lower of cost or net realizable value."
+            },
+            {
+              "key": "Net Realizable Value",
+              "value": "Net realizable value represents the estimated future sales price of the product based on current and long-term graphite prices, less the estimated costs to complete production and bring the product to sale."
+            },
+            {
+              "key": "Write-downs",
+              "value": "Write-downs of the natural flake graphite concentration to net realizable value are reported as a component of costs applicable to sales."
+            },
+            {
+              "key": "Government Grants Accounting",
+              "value": "The Company determined it most appropriate to account for the land received from the local municipality as an in-substance government grant."
+            },
+            {
+              "key": "Grant Recognition Policy",
+              "value": "A government grant is recognized when there is reasonable assurance that the Company will meet the terms for receiving and realizing the benefit of the grant."
+            },
+            {
+              "key": "Asset Impairment Policy",
+              "value": "The Company reviews and evaluates its long-lived assets for impairment when events or changes in circumstances indicate that the related carrying amounts may not be recoverable."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 53,
+          "title": "Property and Equipment Breakdown",
+          "data": [
+            {
+              "key": "category",
+              "value": "Mineral rights and properties"
+            },
+            {
+              "key": "Alabama",
+              "value": "8972"
+            },
+            {
+              "key": "Equipment Corporate",
+              "value": "0"
+            },
+            {
+              "key": "Total",
+              "value": "8972"
+            },
+            {
+              "key": "category",
+              "value": "Other property, plant and equipment"
+            },
+            {
+              "key": "Alabama",
+              "value": "5745"
+            },
+            {
+              "key": "Equipment Corporate",
+              "value": "24"
+            },
+            {
+              "key": "Total",
+              "value": "5769"
+            },
+            {
+              "key": "category",
+              "value": "Construction in progress"
+            },
+            {
+              "key": "Alabama",
+              "value": "75337"
+            },
+            {
+              "key": "Equipment Corporate",
+              "value": "0"
+            },
+            {
+              "key": "Total",
+              "value": "75337"
+            },
+            {
+              "key": "category",
+              "value": "Total"
+            },
+            {
+              "key": "Alabama",
+              "value": "90054"
+            },
+            {
+              "key": "Equipment Corporate",
+              "value": "24"
+            },
+            {
+              "key": "Total",
+              "value": "90078"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Results of Operations Summary",
+          "data": [
+            {
+              "key": "Net loss from continuing operations (2022)",
+              "value": "$11.1 million"
+            },
+            {
+              "key": "Net loss per share (2022)",
+              "value": "$0.25"
+            },
+            {
+              "key": "Net loss from continuing operations (2021)",
+              "value": "$16.1 million"
+            },
+            {
+              "key": "Net loss per share (2021)",
+              "value": "$0.49"
+            },
+            {
+              "key": "Decrease in net loss",
+              "value": "$5.0 million"
+            },
+            {
+              "key": "Product development expenses (2022)",
+              "value": "$1.1 million"
+            },
+            {
+              "key": "Decrease in product development expenses",
+              "value": "$4.8 million"
+            },
+            {
+              "key": "Exploration expenses (2022)",
+              "value": "$0.8 million"
+            },
+            {
+              "key": "Decrease in exploration expenses",
+              "value": "$0.3 million"
+            },
+            {
+              "key": "General and administrative expenses (2022)",
+              "value": "$9.9 million"
+            },
+            {
+              "key": "Increase in general and administrative expenses",
+              "value": "$1.0 million"
+            },
+            {
+              "key": "Arbitration costs (2022)",
+              "value": "$0.1 million"
+            },
+            {
+              "key": "Decrease in arbitration costs",
+              "value": "$2.0 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Financial Position",
+          "data": [
+            {
+              "key": "Mineral Property Expenses",
+              "value": "Less than $0.1 million for the year ended December 31, 2022, a decrease of approximately $0.1 million compared to the prior year."
+            },
+            {
+              "key": "Sale of Equity Securities",
+              "value": "A gain of $2.1 million on the sale of enCore common shares during the year ended December 31, 2021."
+            },
+            {
+              "key": "Other Income",
+              "value": "$1.0 million for the year ended December 31, 2022, an increase of approximately $1.0 million compared to the prior year."
+            },
+            {
+              "key": "Operating Activities Net Cash Used",
+              "value": "$13.2 million for the year ended December 31, 2022."
+            },
+            {
+              "key": "Investing Activities Net Cash Used",
+              "value": "$52.8 million for the year ended December 31, 2022, an increase from $2.1 million."
+            },
+            {
+              "key": "Financing Activities Net Cash Provided",
+              "value": "$25.9 million for the year ended December 31, 2022, compared with $84.0 million in 2021."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Balance Sheet Summary",
+          "data": [
+            {
+              "key": "2022 Total Assets",
+              "value": "$168,408 thousand"
+            },
+            {
+              "key": "2021 Total Assets",
+              "value": "$132,983 thousand"
+            },
+            {
+              "key": "Cash and Cash Equivalents 2022",
+              "value": "$75,196 thousand"
+            },
+            {
+              "key": "Cash and Cash Equivalents 2021",
+              "value": "$115,293 thousand"
+            },
+            {
+              "key": "Property, Plant and Equipment Increase",
+              "value": "from $14,593 to $90,335 thousand"
+            },
+            {
+              "key": "2022 Total Liabilities",
+              "value": "$26,440 thousand"
+            },
+            {
+              "key": "2021 Total Liabilities",
+              "value": "$6,785 thousand"
+            },
+            {
+              "key": "Stockholders' Equity 2022",
+              "value": "$141,968 thousand"
+            },
+            {
+              "key": "Stockholders' Equity 2021",
+              "value": "$126,198 thousand"
+            },
+            {
+              "key": "Paid-in Capital Increase",
+              "value": "from $468,578 to $495,456 thousand"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Operating Activities",
+              "value": "Operating Activities include Net loss: -11121, Depreciation and amortization: 146, Stock compensation: 1022, Increase in inventories: -785, Change in prepaids and liabilities: -1942, Change in payables: -489."
+            },
+            {
+              "key": "Investing Activities",
+              "value": "Investing Activities report Capital expenditures: -52791 and Sale of fixed assets: 1."
+            },
+            {
+              "key": "Financing Activities",
+              "value": "Financing Activities consist of Issuance of common stock: 25901 and Tax payments on equity awards: -32."
+            },
+            {
+              "key": "Cash Position",
+              "value": "Beginning Balance: 115293, Ending Balance: 75196, Net Change: -40097."
+            },
+            {
+              "key": "Summary",
+              "value": "This cash flow statement shows significant changes in the company's cash position from 2021 to 2022."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Accrued Liabilities Comparison December 31, 2022, 2021",
+          "data": [
+            {
+              "key": "Royalties payable",
+              "value": "1151"
+            },
+            {
+              "key": "Other Accrued Liabilities",
+              "value": "812"
+            },
+            {
+              "key": "Accrued Liabilities",
+              "value": "null"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 59,
+          "title": "Capital Loss Carryforwards and Operations Review",
+          "data": [
+            {
+              "key": "Company's U.S. capital loss carryforwards",
+              "value": "$106.1 million (expires in 2026 if not utilized)"
+            },
+            {
+              "key": "Company's Australian net operating loss carryforwards",
+              "value": "$15.2 million (includes $13.3 million associated with the Anatolia Transaction, available indefinitely)"
+            },
+            {
+              "key": "Company's Turkish net operating loss carryforwards",
+              "value": "$3.4 million (expires from 2023 to 2025)"
+            },
+            {
+              "key": "Estimated non-utilized U.S. net operating losses",
+              "value": "$211.9 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 59,
+          "title": "Regional Financial Summary - Year 31, 2022-2021",
+          "data": [
+            {
+              "key": "United States 2022 Loss",
+              "value": "$11,082,000"
+            },
+            {
+              "key": "United States 2021 Loss",
+              "value": "$16,103,000"
+            },
+            {
+              "key": "Australia 2022 Loss",
+              "value": "$5,000"
+            },
+            {
+              "key": "Australia 2021 Loss",
+              "value": "$6,000"
+            },
+            {
+              "key": "Turkey 2022 Loss",
+              "value": "$1,121,000"
+            },
+            {
+              "key": "Turkey 2021 Loss",
+              "value": "$16,144,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 59,
+          "title": "Tax Reconciliation Table",
+          "data": [
+            {
+              "key": "Net loss 2022",
+              "value": "(L121)"
+            },
+            {
+              "key": "Net loss 2021",
+              "value": "(16,144)"
+            },
+            {
+              "key": "Statutory tax rate",
+              "value": "21%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 74,
+          "title": "Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002",
+          "data": [
+            {
+              "key": "CFO_Name",
+              "value": "Steven M. Cates"
+            },
+            {
+              "key": "Report_Period",
+              "value": "2023"
+            },
+            {
+              "key": "Certification_Date",
+              "value": "March 6, 2023"
+            },
+            {
+              "key": "Responsibilities",
+              "value": "Reviewed Annual Report on Form 10-K; ensured no misleading statements; financial statements present fair representation; established and maintained internal control over financial reporting."
+            },
+            {
+              "key": "Internal_Control_Evaluations",
+              "value": "Disclosed any significant deficiencies and material weaknesses in internal control."
+            },
+            {
+              "key": "Disclosure_Controls_Designed",
+              "value": "Disclosure controls designed under CFO supervision."
+            },
+            {
+              "key": "Internal_Control_Design",
+              "value": "Internal control designed under CFO supervision for financial reporting."
+            },
+            {
+              "key": "Significant_Deficiencies_Disclosed",
+              "value": "All deficiencies disclosed to auditors and audit committee."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 75,
+          "title": "Certification Pursuant to 18 U.S.C. Section 1350",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Westwater Resources, Inc."
+            },
+            {
+              "key": "Report Period Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "CEO Name",
+              "value": "Frank Bakker"
+            },
+            {
+              "key": "Certification Date",
+              "value": "March 6, 2023"
+            },
+            {
+              "key": "Compliance Statement",
+              "value": "The Annual Report on Form 10-K fully complies with the requirements of Section 13(a) or Section 15(d) of the Exchange Act."
+            },
+            {
+              "key": "Fair Presentation Statement",
+              "value": "The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 5,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "SEDAR",
+              "value": "System for Electronic Document Analysis and Retrieval used for electronically filing most securities related information with the Canadian securities regulatory authorities."
+            },
+            {
+              "key": "SLR",
+              "value": "SLR International Corporation."
+            },
+            {
+              "key": "SPG Fines",
+              "value": "Spherical purified graphite fine material produced from SPG milling."
+            },
+            {
+              "key": "Spot price",
+              "value": "The price at which a mineral commodity may be purchased for delivery within one year."
+            },
+            {
+              "key": "Surety obligations",
+              "value": "A bond, letter of credit, or financial guarantee posted by a party in favor of a beneficiary to ensure the performance of its or another party’s obligations."
+            },
+            {
+              "key": "TRS",
+              "value": "Technical Report Summary."
+            },
+            {
+              "key": "ULTRA-CSPG™",
+              "value": "Coated spherical purified graphite."
+            },
+            {
+              "key": "U.S. Critical Minerals List",
+              "value": "The list of critical minerals that are crucial to the economy of the United States of America."
+            },
+            {
+              "key": "Vanadium",
+              "value": "A rare-earth metal used as a strengthening alloy in steelmaking."
+            },
+            {
+              "key": "Westwater Resources",
+              "value": "Westwater Resources, Inc. 2020 Lincoln Park PA Purchase Agreement dated as of December 4, 2020."
+            },
+            {
+              "key": "USE OF NAMES",
+              "value": "In this Annual Report on Form 10-K, terms \"we\", \"us\", \"our\", \"WWR\", \"Westwater\", \"Corporation\", or \"Company\" refer to Westwater Resources, Inc."
+            },
+            {
+              "key": "CURRENCY",
+              "value": "The accounts of the Company are maintained in U.S. dollars."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 29,
+          "title": "Dilution of Shareholders' Equity",
+          "data": [
+            {
+              "key": "Dilution Risk",
+              "value": "Shareholders would be diluted if we use common stock to raise capital."
+            },
+            {
+              "key": "Impact on Stock Price",
+              "value": "Perception of common stock sales could cause stock price to fall."
+            },
+            {
+              "key": "Capital Raising Strategy",
+              "value": "Plans to seek additional capital to carry out business plan involving common stock, convertible debt, or warrants."
+            },
+            {
+              "key": "Issuance Price",
+              "value": "Securities could be issued at or below the prevailing market price."
+            },
+            {
+              "key": "Effect on Existing Holders",
+              "value": "Any issuance of additional shares could be dilutive to existing holders and adversely affect market price."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 45,
+          "title": "Statement of Stockholders' Equity",
+          "data": [
+            {
+              "key": "Balances, January 1, 2021",
+              "value": "Shares: 19,172,020, Amount: 19, Paid-in Capital: 383,723, Accumulated Deficit: -26,013, Treasury Stock: -258, Total: STATI"
+            },
+            {
+              "key": "Balances, December 31, 2021",
+              "value": "Shares: 35,279,724, Amount: 35, Paid-in Capital: 468,578, Accumulated Deficit: -342,157, Treasury Stock: -258, Total: 126,198"
+            },
+            {
+              "key": "Balances, December 31, 2022",
+              "value": "Shares: 48,405,543, Amount: 48, Paid-in Capital: 495,456, Accumulated Deficit: -353,278, Treasury Stock: -258, Total: 141,968"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 7,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "pending_litigation",
+              "value": "currently pending or new litigation or arbitration"
+            },
+            {
+              "key": "regulatory_permits",
+              "value": "ability to maintain and timely receive mining, manufacturing, and other permits from regulatory agencies"
+            },
+            {
+              "key": "uncertainty_of_statements",
+              "value": "actual results could differ materially from forward-looking statements"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 20,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Business continuity concern",
+              "value": "There is substantial doubt about our ability to continue as a going concern."
+            },
+            {
+              "key": "Significant losses",
+              "value": "The company has incurred significant losses since ceasing production of uranium in 2009."
+            },
+            {
+              "key": "Net working capital",
+              "value": "Approximately $51.0 million as of December 31, 2022."
+            },
+            {
+              "key": "Cash",
+              "value": "Approximately $75.2 million."
+            },
+            {
+              "key": "Accumulated deficit",
+              "value": "Approximately $353.3 million."
+            },
+            {
+              "key": "Capital funding",
+              "value": "Capital needs funded through sales of debt and equity securities."
+            },
+            {
+              "key": "Inflationary pressures",
+              "value": "Inflation poses risks to operations, increasing costs and affecting capital access."
+            },
+            {
+              "key": "Current inflation rate",
+              "value": "U.S. inflation is currently at a 40-year high."
+            },
+            {
+              "key": "Impact on costs",
+              "value": "Inflation may result in increased costs for labor, services, and materials."
+            },
+            {
+              "key": "Interest rates",
+              "value": "Increased interest rates could negatively affect securities markets."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 21,
+          "title": "Economic Risks and Geopolitical Instability",
+          "data": [
+            {
+              "key": "Interest Rates Impact on Financing",
+              "value": "The ability to access capital may decrease as interest rates rise."
+            },
+            {
+              "key": "Geopolitical Instability Impact",
+              "value": "The ongoing military conflict in Ukraine could materially adversely affect financial condition and operations."
+            },
+            {
+              "key": "Macroeconomic Factors",
+              "value": "Inflation, supply chain constraints, and geopolitical events likely to have adverse effects."
+            },
+            {
+              "key": "Risks in Battery-Graphite Manufacturing Business",
+              "value": "Several risks including competition, need for additional resources, and regulatory changes."
+            },
+            {
+              "key": "Unanticipated Liabilities",
+              "value": "Unforeseen liabilities or contingencies related to intellectual property."
+            },
+            {
+              "key": "Hiring and Intellectual Property Challenges",
+              "value": "Difficulty in hiring personnel and acquiring necessary intellectual property."
+            },
+            {
+              "key": "Potential Business Disruptions",
+              "value": "Interruptions in graphite sources due to environmental risks and geopolitical unrest."
+            },
+            {
+              "key": "Business Model Challenges",
+              "value": "The business model for battery-graphite is evolving and may face implementation challenges."
+            },
+            {
+              "key": "Experience Gaps",
+              "value": "Lack of specific experience in graphite production may lead to complications."
+            },
+            {
+              "key": "Potential Revenue Impact",
+              "value": "Failure to implement business strategy may hamper revenue and competitiveness."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 23,
+          "title": "Environmental Risks and Factors Affecting Operations",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "Potential volatility in graphite and vanadium prices may adversely affect operations and cash flows."
+            },
+            {
+              "key": "Key Risks",
+              "value": "Environmental compliance risks related to laws and regulations; potential need for additional environmental assessments."
+            },
+            {
+              "key": "Regulatory Environment",
+              "value": "Compliance required with multiple environmental protection acts, including Clean Air Act and Clean Water Act."
+            },
+            {
+              "key": "Market Volatility",
+              "value": "Fluctuations in market prices for graphite and vanadium may affect financial viability."
+            },
+            {
+              "key": "Permit Challenges",
+              "value": "Challenges in obtaining or maintaining necessary permits and water rights could adversely affect operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 24,
+          "title": "Risk Factors Related to Competition and Operations",
+          "data": [
+            {
+              "key": "Competition from larger companies",
+              "value": "Significantly larger and better-capitalized competitors in graphite and vanadium markets"
+            },
+            {
+              "key": "Operational Risks",
+              "value": "Limited capital leads to inability to withstand significant losses from manufacturing risks, environmental hazards, and natural disasters"
+            },
+            {
+              "key": "Dependence on Expertise",
+              "value": "Requirement to attract and retain qualified personnel like geologists and engineers"
+            },
+            {
+              "key": "Intellectual Property Concerns",
+              "value": "Potential inadequacy of patent protection and risks of infringing on third-party rights"
+            },
+            {
+              "key": "Litigation Risks",
+              "value": "Possibility of facing substantial defense costs in case of intellectual property litigation"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 26,
+          "title": "Risks Related to Exploration and Mining Activities",
+          "data": [
+            {
+              "key": "exploration_stage",
+              "value": "Our property is in the exploration stage."
+            },
+            {
+              "key": "no_assurance",
+              "value": "There is no assurance that we can establish the existence of any Mineral Reserve on the property in commercially exploitable quantities."
+            },
+            {
+              "key": "impact_on_business",
+              "value": "If we do not discover any Mineral Reserves in commercially exploitable quantity, our business could be adversely impacted."
+            },
+            {
+              "key": "mineral_resources",
+              "value": "We have established Mineral Resources at the Coosa Graphite Deposit but have not established any Mineral Reserves according to recognized reserve guidelines."
+            },
+            {
+              "key": "economic_feasibility",
+              "value": "There is no guarantee that a deposit will also be a 'reserve' that meets the requirements of S-K 1300."
+            },
+            {
+              "key": "exploration_risks",
+              "value": "Both mineral exploration and development involve a high degree of risk."
+            },
+            {
+              "key": "factors_affecting_commercial_viability",
+              "value": "The commercial viability depends on factors including deposit attributes, market prices, costs, political risks, labor availability, and governmental regulations."
+            },
+            {
+              "key": "high_failure_rate",
+              "value": "Most exploration projects do not result in the discovery of commercially mineable deposits."
+            },
+            {
+              "key": "vanadium_discovery",
+              "value": "The Company discovered vanadium concentrations at the Coosa Graphite Deposit."
+            },
+            {
+              "key": "economic_feasibility_of_vanadium",
+              "value": "The extent of vanadium mineral reserves is unknown and may not be economically feasible for extraction."
+            },
+            {
+              "key": "investor_warning",
+              "value": "Potential investors should be aware of the difficulties normally encountered by new mineral exploration ventures."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 27,
+          "title": "Risk Factors Related to the Coosa Graphite Deposit",
+          "data": [
+            {
+              "key": "Surface Rights",
+              "value": "The Company may not be able to obtain surface or access rights necessary for mining activities."
+            },
+            {
+              "key": "Legal and Financial Risks",
+              "value": "Enforcement of access rights can be costly and time-consuming, and the Company may need to negotiate access or purchase rights."
+            },
+            {
+              "key": "Environmental Liabilities",
+              "value": "Exploration and development are risky and could result in environmental liabilities."
+            },
+            {
+              "key": "Insurance Limitations",
+              "value": "If liabilities exceed insurance, operations may be affected."
+            },
+            {
+              "key": "Development Risks",
+              "value": "Few explored properties are developed into production, with various operational risks."
+            },
+            {
+              "key": "Title Defects",
+              "value": "Title to the Coosa Graphite Deposit may have defects or be subject to claims."
+            },
+            {
+              "key": "Lease Obligations",
+              "value": "Failure to make cash payments under lease agreements may result in loss of interests."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 28,
+          "title": "Risks Related to Ownership of Our Common Stock",
+          "data": [
+            {
+              "key": "Risk Overview",
+              "value": "The stock price has been and may continue to be volatile, impacting investor confidence and increasing the likelihood of securities class action litigation."
+            },
+            {
+              "key": "2012 Stock Price Range",
+              "value": "High of $2.41 per share to a low of $0.78 per share."
+            },
+            {
+              "key": "Factors Affecting Volatility",
+              "value": "General market conditions, announcements regarding business plans, sale and issuance of shares."
+            },
+            {
+              "key": "Potential Class Action Risks",
+              "value": "Securities class action suits may divert management's attention and resources."
+            },
+            {
+              "key": "Impact of Low Stock Price",
+              "value": "A low stock price may adversely impact the ability to fund operations and growth plans."
+            },
+            {
+              "key": "Dividend Policy",
+              "value": "The Company has no history of paying dividends and does not anticipate paying dividends in the foreseeable future."
+            },
+            {
+              "key": "Future Financing Risks",
+              "value": "Future production plans and working capital needs may require financing, potentially reducing investments' value."
+            },
+            {
+              "key": "Secured Debt Impact",
+              "value": "Issuance of secured debt securities could have senior claims over other securities."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 52,
+          "title": "Liquidity and Going Concern Analysis",
+          "data": [
+            {
+              "key": "Going Concern Basis",
+              "value": "The Company has prepared its financial statements on a going concern basis, presuming continuity despite events raising doubt about its ability to continue."
+            },
+            {
+              "key": "Last Recorded Revenue",
+              "value": "2009"
+            },
+            {
+              "key": "Funding Sources Since 2009",
+              "value": "Equity financings, debt financings, and asset sales."
+            },
+            {
+              "key": "Cash Balances (2022)",
+              "value": "$75.2 million, including approximately €5.0 million."
+            },
+            {
+              "key": "Shares Sold (2022)",
+              "value": "Approximately 13.0 million shares sold for net proceeds of $25.9 million."
+            },
+            {
+              "key": "Remaining Availability (ATM Agreement)",
+              "value": "$20.8 million."
+            },
+            {
+              "key": "Future Share Availability (2020 Lincoln Park PA)",
+              "value": "9.7 million shares."
+            },
+            {
+              "key": "Alternative Financing Considerations",
+              "value": "Project debt, convertible debt, partnerships, or joint ventures."
+            },
+            {
+              "key": "Potential Consequences of Funding Shortages",
+              "value": "Operations may be reduced or curtailed, business strategies changed or construction timeline altered."
+            },
+            {
+              "key": "Impact of Economic Conditions",
+              "value": "Declines in equity and debt markets, rising interest rates, and inflation may hinder access to funding."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 2,
+          "title": "Form 10-K Table of Contents",
+          "data": [
+            {
+              "key": "CURRENCY",
+              "value": ""
+            },
+            {
+              "key": "CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS",
+              "value": ""
+            },
+            {
+              "key": "PART I",
+              "value": ""
+            },
+            {
+              "key": "ITEM 1.",
+              "value": "DESCRIPTION OF BUSINESS"
+            },
+            {
+              "key": "THE",
+              "value": "COMPANY"
+            },
+            {
+              "key": "OUR",
+              "value": "STRATEGY"
+            },
+            {
+              "key": "KEY",
+              "value": "BUSINESS AND CORPORATE DEVELOPMENTS IN 2022"
+            },
+            {
+              "key": "OVERVIEW",
+              "value": "OF THE BATTERY GRAPHITE INDUSTRY"
+            },
+            {
+              "key": "WESTWATER'S GRAPHITE BUSINESS",
+              "value": ""
+            },
+            {
+              "key": "CORE",
+              "value": "VALUES AND VIRONMENTAL, SOCIAL AND GOVERNANCE (ESG) CONSIDERATIONS"
+            },
+            {
+              "key": "ITEM 1A.",
+              "value": "RISK FACTORS"
+            },
+            {
+              "key": "ITEM 1B.",
+              "value": "UNRESOLVED STAFF COMMENTS"
+            },
+            {
+              "key": "ITEM 2.",
+              "value": "PROPERTIES"
+            },
+            {
+              "key": "ITEM 3.",
+              "value": "LEGAL PROCEEDINGS"
+            },
+            {
+              "key": "DISPUTE",
+              "value": "WITH FABRICE TAYLOR"
+            },
+            {
+              "key": "ARBITRATION AGAINST TURKEY",
+              "value": ""
+            },
+            {
+              "key": "ITEM 4.",
+              "value": "SAFETY DISCLOSURES"
+            },
+            {
+              "key": "PART II",
+              "value": ""
+            },
+            {
+              "key": "ITEM 5.",
+              "value": "MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES"
+            },
+            {
+              "key": "ITEM 6.",
+              "value": "[RESERVED]"
+            },
+            {
+              "key": "ITEM 7.",
+              "value": "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS"
+            },
+            {
+              "key": "INTRODUCTION",
+              "value": ""
+            },
+            {
+              "key": "SUMMARY",
+              "value": "OF RECENT DEVELOPMENTS"
+            },
+            {
+              "key": "RESULTS",
+              "value": "OF OPERATIONS"
+            },
+            {
+              "key": "ITEM 7A.",
+              "value": "QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK"
+            },
+            {
+              "key": "ITEM 8.",
+              "value": "FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA"
+            },
+            {
+              "key": "ITEM 9.",
+              "value": "CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE"
+            },
+            {
+              "key": "ITEM 9A.",
+              "value": "CONTROLS AND PROCEDURES"
+            },
+            {
+              "key": "ITEM 9B.",
+              "value": "OTHER INFORMATION"
+            },
+            {
+              "key": "ITEM 9C.",
+              "value": "DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS"
+            },
+            {
+              "key": "PART III",
+              "value": ""
+            },
+            {
+              "key": "ITEM 15.",
+              "value": "EXHIBITS AND FINANCIAL STATEMENT SCHEDULES"
+            },
+            {
+              "key": "ITEM 16.",
+              "value": "FORM 10-K SUMMARY"
+            },
+            {
+              "key": "SIGNATURES",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 4,
+          "title": "Initial Assessment",
+          "data": [
+            {
+              "key": "Description",
+              "value": "A preliminary technical and economic study of the economic potential of all or parts of mineralization to support the disclosure of mineral resources."
+            },
+            {
+              "key": "Requirements",
+              "value": "The initial assessment must be prepared by a qualified person and must include appropriate assessments of reasonably assumed technical and economic factors, together with any other relevant operational factors."
+            },
+            {
+              "key": "Purpose",
+              "value": "An initial assessment is required for disclosure of mineral resources but cannot be used as the basis for disclosure of mineral reserves."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 6,
+          "title": "Cautionary Note Regarding Forward-Looking Statements",
+          "data": [
+            {
+              "key": "Statement Type",
+              "value": "Forward-looking statements"
+            },
+            {
+              "key": "Key Considerations",
+              "value": "Adequacy of funding, liquidity, access to capital, financing activities, timing of future drilling or production, economic conditions, strategic goals, arbitration matters"
+            },
+            {
+              "key": "Risks",
+              "value": "Spot prices of graphite and vanadium, competition, ability to obtain contracts, costs and schedules, inflation effects, interest rates, availability of equipment, stock price volatility, regulations, exploration results, financing growth, COVID-19 pandemic"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 22,
+          "title": "Battery-Graphite Manufacturing Business Risks and Financial Projections",
+          "data": [
+            {
+              "key": "Initial Investment in Business Development",
+              "value": "Significant time and resources invested"
+            },
+            {
+              "key": "Risks Identified",
+              "value": "Delays, cost overruns, regulatory approvals, negative impacts from pandemic"
+            },
+            {
+              "key": "Projected Costs for Phase I of Kellyton Graphite Plant",
+              "value": "Estimated at approximately $215.7 million"
+            },
+            {
+              "key": "Current Cash Holdings",
+              "value": "Approximately $75.2 million"
+            },
+            {
+              "key": "Losses Incurred",
+              "value": "Continuous since 2009, no revenue from operations"
+            },
+            {
+              "key": "Expected Start of Operations for Kellyton Plant",
+              "value": "Anticipated in 2024 but could be delayed"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 35,
+          "title": "Tribunal Proceedings and Final Award Summary",
+          "data": [
+            {
+              "key": "Date of Final Award",
+              "value": "March 3, 2023"
+            },
+            {
+              "key": "Claimant",
+              "value": "Westwater"
+            },
+            {
+              "key": "Respondent",
+              "value": "Turkey"
+            },
+            {
+              "key": "Key Outcome",
+              "value": "Turkey must pay Westwater approximately $1.3 million in damages."
+            },
+            {
+              "key": "Additional Costs",
+              "value": "Reimbursement of fees and costs approximately $3.7 million."
+            },
+            {
+              "key": "Impact of License Cancellation",
+              "value": "Turkey's cancellation of Adur’s licenses amounted to an expropriation."
+            },
+            {
+              "key": "Dividend Policy",
+              "value": "The Company has never paid dividends and does not anticipate paying them in the foreseeable future."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 40,
+          "title": "Property, Plant and Equipment",
+          "data": [
+            {
+              "key": "Impairment evaluation",
+              "value": "The Company reviews and evaluates its long-lived assets for impairment when events or changes in circumstances indicate that the related carrying amounts may not be recoverable."
+            },
+            {
+              "key": "Impairment conditions",
+              "value": "The Company considers events or changes in circumstances such as significant negative impacts in the market price of graphite, a significant adverse change in the extent or manner to use long-lived assets, and accumulation of costs over projected budgets."
+            },
+            {
+              "key": "Future cash flow estimation",
+              "value": "Future cash flows are estimated based on quantities of recoverable minerals, expected commodity prices, production levels, and operating costs."
+            },
+            {
+              "key": "No impairment recorded",
+              "value": "No impairment was recorded in 2022 or 2021."
+            },
+            {
+              "key": "Inventory description",
+              "value": "Inventory consisted of raw material of natural flake graphite concentrate purchased from a non-related third party."
+            },
+            {
+              "key": "Inventory valuation",
+              "value": "The Company values inventory at the lower of cost or net realizable value."
+            },
+            {
+              "key": "Government grants",
+              "value": "AGP entered into incentive agreements with the State of Alabama for tax credits and incentives under the Alabama Jobs Act."
+            },
+            {
+              "key": "Lease details",
+              "value": "AGP entered into a land lease for approximately 70 acres for its commercial graphite processing facility with a 10-year term."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 41,
+          "title": "Recognition of Government Grants",
+          "data": [
+            {
+              "key": "Date of Grant Recognition",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Fair Value of Land",
+              "value": "$1.4 million"
+            },
+            {
+              "key": "Implications of IAS 20",
+              "value": "Government grants are assistance from government in the form of transfers of resources."
+            },
+            {
+              "key": "Recognition Statement",
+              "value": "The Company recognizes government grant income separately within other income."
+            },
+            {
+              "key": "Amortization Policy",
+              "value": "The corresponding obligation recorded in Other long-term liabilities will be amortized over the life of the Kellyton Graphite Plant."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 51,
+          "title": "Recently Issued Accounting Pronouncements",
+          "data": [
+            {
+              "key": "Accounting standards updates",
+              "value": "ASU 2019-12, ASU 2021-10, ASU 2016-13, ASU 2018-19"
+            },
+            {
+              "key": "Effect on financial statements",
+              "value": "Adoption of ASU 2019-12, ASU 2021-10, ASU 2016-13, ASU 2018-19 did not result in a material impact."
+            },
+            {
+              "key": "Effective dates",
+              "value": "ASU 2019-12 effective after December 15, 2020; ASU 2021-10 effective after December 15, 2021; ASU 2016-13 effective after December 15, 2022; ASU 2018-19 effective after December 15, 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 58,
+          "title": "Deferred Tax Assets and Liabilities",
+          "data": [
+            {
+              "key": "Net operating loss carryforwards (2022)",
+              "value": "22584"
+            },
+            {
+              "key": "Net operating loss carryforwards (2021)",
+              "value": "21016"
+            },
+            {
+              "key": "Capital loss carryforwards (2022)",
+              "value": "22508"
+            },
+            {
+              "key": "Capital loss carryforwards (2021)",
+              "value": "22523"
+            },
+            {
+              "key": "Mineral properties (2022)",
+              "value": "3694"
+            },
+            {
+              "key": "Mineral properties (2021)",
+              "value": "5017"
+            },
+            {
+              "key": "Capitalized joint venture costs (2022)",
+              "value": "3427"
+            },
+            {
+              "key": "Capitalized joint venture costs (2021)",
+              "value": "3427"
+            },
+            {
+              "key": "Fixed assets (2022)",
+              "value": "1921"
+            },
+            {
+              "key": "Fixed assets (2021)",
+              "value": "148"
+            },
+            {
+              "key": "Capitalized transaction costs (2022)",
+              "value": "1150"
+            },
+            {
+              "key": "Capitalized transaction costs (2021)",
+              "value": "1157"
+            },
+            {
+              "key": "Share based compensation (2022)",
+              "value": "418"
+            },
+            {
+              "key": "Share based compensation (2021)",
+              "value": "405"
+            },
+            {
+              "key": "Accrued vacation (2022)",
+              "value": "62"
+            },
+            {
+              "key": "Accrued vacation (2021)",
+              "value": "25"
+            },
+            {
+              "key": "Other (2022)",
+              "value": "26"
+            },
+            {
+              "key": "Other (2021)",
+              "value": "61"
+            },
+            {
+              "key": "Deferred tax assets (2022)",
+              "value": "55790"
+            },
+            {
+              "key": "Deferred tax assets (2021)",
+              "value": "53779"
+            },
+            {
+              "key": "Valuation allowance (2022)",
+              "value": "-55769"
+            },
+            {
+              "key": "Valuation allowance (2021)",
+              "value": "-53723"
+            },
+            {
+              "key": "Net deferred tax assets (2022)",
+              "value": "21"
+            },
+            {
+              "key": "Net deferred tax assets (2021)",
+              "value": "56"
+            },
+            {
+              "key": "Other (liabilities) (2022)",
+              "value": "-21"
+            },
+            {
+              "key": "Other (liabilities) (2021)",
+              "value": "-56"
+            },
+            {
+              "key": "Deferred tax liabilities (2022)",
+              "value": "-21"
+            },
+            {
+              "key": "Deferred tax liabilities (2021)",
+              "value": "-56"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 66,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Certifications of Chief Executive Officer Pursuant to Rules",
+              "value": "13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as amended."
+            },
+            {
+              "key": "Certifications of Chief Financial Officer Pursuant to Rules",
+              "value": "13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as amended."
+            },
+            {
+              "key": "Certifications of Chief Executive Officer Pursuant to",
+              "value": "18 U.S.C. Section 1350."
+            },
+            {
+              "key": "Certifications of Chief Financial Officer Pursuant to",
+              "value": "18 U.S.C. Section 1350."
+            },
+            {
+              "key": "Inline XBRL Instance Document",
+              "value": "101.INS"
+            },
+            {
+              "key": "Inline XBRL Taxonomy Extension Schema Document",
+              "value": "101.SCH"
+            },
+            {
+              "key": "Inline XBRL Taxonomy Calculation Linkbase Document",
+              "value": "101.CAL"
+            },
+            {
+              "key": "Inline XBRL Taxonomy Label Linkbase Document",
+              "value": "101.LAB"
+            },
+            {
+              "key": "Inline XBRL Taxonomy Presentation Linkbase Document",
+              "value": "101.PRE"
+            },
+            {
+              "key": "Inline XBRL Taxonomy Extension Definition Linkbase Document",
+              "value": "Inline XBRL Taxonomy Extension Definition Linkbase Document."
+            },
+            {
+              "key": "Cover Page Interactive Data File",
+              "value": "formatted as Inline XBRL and contained in Exhibit 101."
+            },
+            {
+              "key": "Indicates management contract or compensatory plan or arrangement",
+              "value": "ITEM 16. FORM 10-K SUMMARY None"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 14,
+          "title": "Regulatory Compliance and Environmental Regulations for Graphite Operations",
+          "data": [
+            {
+              "key": "Regulatory Focus",
+              "value": "Graphite extraction and processing is regulated by federal and state governments."
+            },
+            {
+              "key": "Impacts of Regulations",
+              "value": "Compliance with regulations has a material effect on the economics of operations and project development timing."
+            },
+            {
+              "key": "Regulatory Costs",
+              "value": "Primary costs relate to obtaining licenses and operating permits from federal and state agencies."
+            },
+            {
+              "key": "Permitting Challenges",
+              "value": "The regulatory process can make permitting difficult and timing unpredictable."
+            },
+            {
+              "key": "Permits for Kellyton Graphite Plant",
+              "value": "Required permits include air emissions, water discharge, storm water drainage."
+            },
+            {
+              "key": "NPDES Permit",
+              "value": "The National Pollutant Discharge Elimination System permit was received on January 31, 2022."
+            },
+            {
+              "key": "Other Permits",
+              "value": "Air permit and State Indirect Discharge permit were obtained in June 2022 and August 2022, respectively."
+            },
+            {
+              "key": "Mining Permits",
+              "value": "Graphite mining requires various permits related to air, water, or environmental emissions."
+            },
+            {
+              "key": "Coosa Graphite Deposit Permits",
+              "value": "Permits may be required under the Alabama Surface Mining Act of 1969 for stripping coal."
+            },
+            {
+              "key": "Water Management",
+              "value": "Groundwater withdrawals are managed through the Alabama Water Use Reporting Program."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 25,
+          "title": "Regulatory Litigation Related to Mining Licenses",
+          "data": [
+            {
+              "key": "description",
+              "value": "The Company faced the revocation of mining and exploration licenses for the Temrezli and Sefaatli projects in Turkey, leading to arbitration for compensation."
+            },
+            {
+              "key": "date_of_notification",
+              "value": "June 20, 2018"
+            },
+            {
+              "key": "arbitration_request_date",
+              "value": "December 13, 2018"
+            },
+            {
+              "key": "arbitration_institution",
+              "value": "International Centre for the Settlement of Investment Disputes (ICSID)"
+            },
+            {
+              "key": "key_events",
+              "value": "Request for Arbitration registered, Turkey's request to bifurcate denied, Counter-Memorial filed on September 14, 2020."
+            },
+            {
+              "key": "current_status",
+              "value": "Awaiting a formal ruling on compensation and related issues."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 34,
+          "title": "Legal Proceedings Dispute with Fabrice Taylor",
+          "data": [
+            {
+              "key": "Plaintiff",
+              "value": "Fabrice Taylor"
+            },
+            {
+              "key": "Defendants",
+              "value": "Alabama Graphite Corp. and former officers and director"
+            },
+            {
+              "key": "Allegations",
+              "value": "Defamation and slander"
+            },
+            {
+              "key": "Damages sought by Plaintiff",
+              "value": "CAD$3.0 million"
+            },
+            {
+              "key": "Defendants' counterclaims",
+              "value": "CAD$7.0 million"
+            },
+            {
+              "key": "Status of the lawsuit",
+              "value": "Not prosecuted, no schedule for resolution"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 60,
+          "title": "Commitments and Contingencies",
+          "data": [
+            {
+              "key": "Legal Settlements",
+              "value": "Future operations on the Company’s properties are subject to federal and state regulations for the protection of the environment, including air and water quality. The Company evaluates the status of current environmental laws and their potential impact on current operating costs and accrual for future costs. The Company believes its operations are materially compliant with current, applicable environmental regulations."
+            },
+            {
+              "key": "Outstanding Legal Proceedings",
+              "value": "At any given time, the Company may enter into negotiations to settle outstanding legal proceedings and any resulting accruals will be estimated based on the relevant facts and circumstances applicable at that time. We do not expect that such settlements will, individually or in the aggregate, have a material effect on our financial position, results of operations or cash flows."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 15,
+          "title": "ESG Principles and Environment, Social and Governance Considerations",
+          "data": [
+            {
+              "key": "Core Values",
+              "value": "Safety, Cost Management, Reliability and Integrity"
+            },
+            {
+              "key": "Sustainability Reporting",
+              "value": "Sustainability will be reported according to SASB guidelines."
+            },
+            {
+              "key": "Environmental Criteria and Actions",
+              "value": "Defining raw material inputs, energy inputs, product streams, and waste streams for graphite processing."
+            },
+            {
+              "key": "Greenhouse Gas Emissions",
+              "value": "Estimates being quantified and expected to be finalized."
+            },
+            {
+              "key": "Air Quality",
+              "value": "Estimates being quantified and expected to be finalized in 2023."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 18,
+          "title": "Safety and Sustainability Committee Responsibilities",
+          "data": [
+            {
+              "key": "Oversight",
+              "value": "Assist the Board in its oversight of health, safety, loss prevention and operational security issues."
+            },
+            {
+              "key": "Sustainable Development",
+              "value": "Ensure compliance with regulations and policies related to environmental management and sustainable development."
+            },
+            {
+              "key": "Management Systems",
+              "value": "Implement ISO 14001 Environmental Management Systems for sustainable management."
+            },
+            {
+              "key": "Audit Committee Responsibilities",
+              "value": "Monitor compliance with laws, accounting policies, and internal controls."
+            },
+            {
+              "key": "Compensation Committee Function",
+              "value": "Set compensation for directors and executive officers and manage incentive plans."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 33,
+          "title": "Mineral Resource Estimates and Internal Control",
+          "data": [
+            {
+              "key": "Mineral Resource Classification",
+              "value": "Indicated and Inferred"
+            },
+            {
+              "key": "Total Indicated Tonnage",
+              "value": "26 Mst"
+            },
+            {
+              "key": "Total Inferred Tonnage",
+              "value": "97 Mst"
+            },
+            {
+              "key": "Average Grade Indicated",
+              "value": "2.89% Cg"
+            },
+            {
+              "key": "Average Grade Inferred",
+              "value": "3.08% Cg"
+            },
+            {
+              "key": "Recovery Rate",
+              "value": "87.4%"
+            },
+            {
+              "key": "Quality Control Measures",
+              "value": "QA/QC programs to prevent contamination and ensure accuracy."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 197,
+    "EUR": 6,
+    "AUD": 26,
+    "CAD": 6,
+    "ZAR": 3
+  },
+  "sha1": "92d9de8e4db96e0b95a484afcd1c54c6beb62c03"
+}

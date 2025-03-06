@@ -1,0 +1,3031 @@
+{
+  "letters": 129034,
+  "pages": 57,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 6
+    },
+    "company_name": "Rectifier Technologies Ltd",
+    "major_industry": "Technology",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Annual Report 2022 - Rrectifier Technologies Ltd",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Rrectifier Technologies Ltd"
+            },
+            {
+              "key": "ABN",
+              "value": "822 0588 0100 6922"
+            },
+            {
+              "key": "Report Year",
+              "value": "2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 2,
+          "title": "Corporate directory",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Rectifier Technologies Ltd"
+            },
+            {
+              "key": "Report Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Contents",
+              "value": "Chairman's report, Directors' report, Auditor's independence declaration, Statement of profit or loss and other comprehensive income, Statement of financial position, Statement of changes in equity, Statement of cash flows, Notes to the financial statements, Directors' declaration, Independent auditor's report to the members of Rectifier Technologies Ltd, Shareholder information"
+            },
+            {
+              "key": "Key Page Numbers",
+              "value": "1, 2, 3, 5, 14, 15, 16, 17, 18, 19, 48, 49, 54"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 18,
+          "title": "Consolidated Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Balance at 1 2020",
+              "value": "Issued Capital: 39,851,775; Reserves: 671,828; Accumulated Losses: N/A; Total Equity: 9,595,838"
+            },
+            {
+              "key": "Balance at 30 June 2021",
+              "value": "Issued Capital: 39,992,575; Reserves: 466,825; Accumulated Losses: -31,763,087; Total Equity: 8,696,313"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "Issued Capital: 39,992,575; Reserves: 513,264; Accumulated Losses: -31,151,132; Total Equity: 9,354,707"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 20,
+          "title": "Rectifier Technologies Ltd Notes to the financial statements 30 June 2022",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Rectifier Technologies Ltd"
+            },
+            {
+              "key": "Domicile",
+              "value": "Australia"
+            },
+            {
+              "key": "Registered Office",
+              "value": "97 Highbury Road Burwood, VIC 3125"
+            },
+            {
+              "key": "Reporting Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Authorization Date",
+              "value": "30 September 2022"
+            },
+            {
+              "key": "Nature of Operations",
+              "value": "Consolidated entity's operations consist of various controlled entities."
+            },
+            {
+              "key": "Functional Currency",
+              "value": "Australian dollars"
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "Directors of Rectifier Technologies Ltd",
+          "data": [
+            {
+              "key": "Director 1",
+              "value": "Mr. Ying Ming Wang"
+            },
+            {
+              "key": "Director 2",
+              "value": "Mr. Yanbin Wang"
+            },
+            {
+              "key": "Director 3",
+              "value": "Mr. Valentino Vescovi"
+            },
+            {
+              "key": "Director 4",
+              "value": "Mr. Nigel Machin"
+            },
+            {
+              "key": "Director 5",
+              "value": "Ms. Nova Taylor"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 7,
+          "title": "Rectifier Technologies Ltd Directors' report",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Mr. Ying Ming Wang"
+            },
+            {
+              "key": "Title",
+              "value": "Chairman – Non-Executive"
+            },
+            {
+              "key": "Qualifications",
+              "value": "Master of Science"
+            },
+            {
+              "key": "Experience and expertise",
+              "value": "As Managing Director of the Pudu Group, Ying Ming has built up a range of technology and property businesses including Epern Telecom Co. Ltd., Beijing’s largest privately owned ISP. He is also involved in the China Digital Kingdom, an internet datacentre development business in China."
+            },
+            {
+              "key": "Board Member since",
+              "value": "June 2006"
+            },
+            {
+              "key": "Other current directorships",
+              "value": "None"
+            },
+            {
+              "key": "Former directorships (last 3 years)",
+              "value": "None"
+            },
+            {
+              "key": "Special responsibilities",
+              "value": "Member of the audit committee"
+            },
+            {
+              "key": "Interests in shares",
+              "value": "224,643,616 Ordinary Shares"
+            },
+            {
+              "key": "Interests in options",
+              "value": "None"
+            },
+            {
+              "key": "Name",
+              "value": "Mr. Yanbin Wang"
+            },
+            {
+              "key": "Title",
+              "value": "Director – Executive and Chief Executive Officer"
+            },
+            {
+              "key": "Qualifications",
+              "value": "Master of Law, Bachelor of Philosophy"
+            },
+            {
+              "key": "Experience and expertise",
+              "value": "Before joining Rectifier Technologies as CEO in 2010, Yanbin was Chief Operations Officer at Tianjin IC Card Public Network Company of Tianjin, China and Vice-President of Transtech Sino America, based in Florida, USA. He was instrumental in restructuring the Rectifier Technologies group in 2012, leading it back to growth and profitability."
+            },
+            {
+              "key": "Board Member since",
+              "value": "August 2010"
+            },
+            {
+              "key": "Other current directorships",
+              "value": "None"
+            },
+            {
+              "key": "Special responsibilities",
+              "value": "None"
+            },
+            {
+              "key": "Interests in shares",
+              "value": "70,000,000 Ordinary Shares"
+            },
+            {
+              "key": "Interests in options",
+              "value": "None"
+            },
+            {
+              "key": "Name",
+              "value": "Mr. Valentino Vescovi"
+            },
+            {
+              "key": "Title",
+              "value": "Director – Non-Executive"
+            },
+            {
+              "key": "Qualifications",
+              "value": "Master of Science, Bachelor of Science"
+            },
+            {
+              "key": "Experience and expertise",
+              "value": "As a founding director of Rectifier Technologies Pacific, Valentino was instrumental in its product development programs that led the world in telecom power using switch mode technology. He brings the board a significant amount of technical and business expertise."
+            },
+            {
+              "key": "Board member",
+              "value": "2003-2010 and from 30 October 2012"
+            },
+            {
+              "key": "Other current directorships",
+              "value": "None"
+            },
+            {
+              "key": "Special responsibilities",
+              "value": "None"
+            },
+            {
+              "key": "Interests in shares",
+              "value": "37,040,000 Ordinary Shares"
+            },
+            {
+              "key": "Interests in options",
+              "value": "None"
+            },
+            {
+              "key": "Name",
+              "value": "Mr. Nigel Machin"
+            },
+            {
+              "key": "Title",
+              "value": "Director – Executive and Head of Power Engineering"
+            },
+            {
+              "key": "Qualifications",
+              "value": "Bachelor of Engineering"
+            },
+            {
+              "key": "Experience and expertise",
+              "value": "Nigel was a founding director of Rectifier Technologies Pacific and has been involved in all its product development since. Before Rectifier Technologies, Nigel was involved in induction melting equipment at Inductotherm Melting, in sound reinforcement power amplifiers for professional audio at Clockwork Audio, and then in telecom power supplies at Ausmode/Exicom. He has published 8 papers and holds two current patents."
+            },
+            {
+              "key": "Board member since",
+              "value": "3 April 2017"
+            },
+            {
+              "key": "Other current directorships",
+              "value": "None"
+            },
+            {
+              "key": "Special responsibilities",
+              "value": "None"
+            },
+            {
+              "key": "Interests in shares",
+              "value": "22,010,000 Ordinary Shares"
+            },
+            {
+              "key": "Interests in options",
+              "value": "1,800,000 unlisted options"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 14,
+          "title": "Indemnity and insurance of officers or auditor",
+          "data": [
+            {
+              "key": "Directors' report date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Premium paid",
+              "value": "$35,960"
+            },
+            {
+              "key": "Auditor",
+              "value": "Grant Thornton"
+            },
+            {
+              "key": "Director",
+              "value": "Mr. Yanbin Wang"
+            },
+            {
+              "key": "Report date",
+              "value": "30 September 2022"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "leadership_change",
+          "page": 15,
+          "title": "Auditor’s Independence Declaration",
+          "data": [
+            {
+              "key": "Auditor",
+              "value": "Grant Thornton Audit Pty Ltd"
+            },
+            {
+              "key": "Partner",
+              "value": "S C Trivett"
+            },
+            {
+              "key": "Company",
+              "value": "Rectifier Technologies Ltd"
+            },
+            {
+              "key": "Period Ended",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Declaration Date",
+              "value": "30 September 2022"
+            },
+            {
+              "key": "Location",
+              "value": "Melbourne"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 49,
+          "title": "Directors' Declaration of Rectifier Technologies Ltd",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Rectifier Technologies Ltd"
+            },
+            {
+              "key": "Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Compliance",
+              "value": "The attached financial statements and notes comply with the Corporations Act 2001, the Accounting Standards, the Corporations Regulations 2001 and other mandatory professional reporting requirements."
+            },
+            {
+              "key": "IFRS Compliance",
+              "value": "The attached financial statements and notes comply with International Financial Reporting Standards as issued by the International Accounting Standards Board."
+            },
+            {
+              "key": "Financial Position",
+              "value": "The financial statements give a true and fair view of the consolidated entity's financial position as at 30 June 2022."
+            },
+            {
+              "key": "Financial Performance",
+              "value": "The financial statements give a true and fair view of the performance for the financial year ended on that date."
+            },
+            {
+              "key": "Debt Payment Assurances",
+              "value": "There are reasonable grounds to believe that the Company will be able to pay its debts as they become due."
+            },
+            {
+              "key": "Certification",
+              "value": "The directors have been given the declarations required by section 295A of the Corporations Act 2001."
+            },
+            {
+              "key": "Director",
+              "value": "Mr. Yanbin Wang"
+            },
+            {
+              "key": "Resolution Date",
+              "value": "30 September 2022"
+            },
+            {
+              "key": "Location",
+              "value": "Melbourne"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 8,
+          "title": "Directors' report for Rectifier Technologies Ltd",
+          "data": [
+            {
+              "key": "Company Secretary Appointments",
+              "value": "Ms. Nova Taylor was appointed as Company Secretary on 3 February 2022."
+            },
+            {
+              "key": "Former Company Secretary",
+              "value": "Mr. Justyn Stedwell resigned on 3 February 2022, having served since 31 July 2014."
+            },
+            {
+              "key": "Meetings of Directors Summary",
+              "value": "Table shows board meeting attendance records for four board members."
+            },
+            {
+              "key": "Key Management Personnel Remuneration",
+              "value": "Details provided are in accordance with the Corporations Act 2001 and its Regulations."
+            },
+            {
+              "key": "Remuneration Framework Objective",
+              "value": "To ensure reward for performance is competitive and appropriate for results delivered."
+            },
+            {
+              "key": "Board Responsibilities",
+              "value": "The Board is responsible for determining and reviewing remuneration arrangements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 9,
+          "title": "Director's Report - Executive Remuneration Framework",
+          "data": [
+            {
+              "key": "Reward Framework",
+              "value": "Designed to align executive reward to shareholders' interests."
+            },
+            {
+              "key": "Core Components",
+              "value": "Economic profit, sustained growth in shareholder wealth, dividends, growth in share price, constant/increasing return on assets, key non-financial drivers of value."
+            },
+            {
+              "key": "Non-Executive Directors' Remuneration Policy",
+              "value": "Remunerate at market rates, independent external advice sought when required."
+            },
+            {
+              "key": "Maximum Aggregate Fees",
+              "value": "$32,760 approved by shareholders."
+            },
+            {
+              "key": "Executive Remuneration Components",
+              "value": "Base pay, short-term performance incentives, share-based payments, other remuneration."
+            },
+            {
+              "key": "Short-Term Incentives Program",
+              "value": "Align business unit targets with performance hurdles, based on specific annual targets and KPIs."
+            },
+            {
+              "key": "Long-Term Incentives",
+              "value": "Share awards according to performance guidelines established by the Board."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 10,
+          "title": "Directors' report 30 June 2022",
+          "data": [
+            {
+              "key": "Performance-based remuneration",
+              "value": "The intention of this program is to facilitate goal congruence between directors/executives with that of the business and shareholders. KPI's target areas for consolidation expansion and profit."
+            },
+            {
+              "key": "KPI assessment",
+              "value": "Performance in relation to the KPI’s is assessed annually, bonuses awarded based on the number and difficulty of achieved KPI's."
+            },
+            {
+              "key": "Remuneration consultants",
+              "value": "During the financial year ended 30 June 2022, the consolidated entity did not engage any remuneration consultants."
+            },
+            {
+              "key": "AGM voting result",
+              "value": "99.77% of votes received supported the adoption of the remuneration report for the year ended 30 June 2021."
+            },
+            {
+              "key": "Key management personnel",
+              "value": "The key management personnel consisted of directors and management roles, including the CEO and various executive directors."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 11,
+          "title": "Employee Benefits and Compensation Table 2022",
+          "data": [
+            {
+              "key": "Total Cash Salary",
+              "value": "$1,142,040"
+            },
+            {
+              "key": "Total Cash Bonus",
+              "value": "$70,380"
+            },
+            {
+              "key": "Total Non-Monetary Benefits",
+              "value": "$23,575"
+            },
+            {
+              "key": "Total Superannuation",
+              "value": "$115,829"
+            },
+            {
+              "key": "Total Long Service Leave",
+              "value": "$11,951"
+            },
+            {
+              "key": "Overall Total Compensation",
+              "value": "$1,363,775"
+            },
+            {
+              "key": "Highest Paid Individual",
+              "value": "Mr. Yanbin Wang - $407,331"
+            },
+            {
+              "key": "Lowest Paid Non-Executive Director",
+              "value": "Mr. Valentino Vescovi - $11,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 11,
+          "title": "Employee Compensation Details 2021",
+          "data": [
+            {
+              "key": "Total Compensation for 2021",
+              "value": "$1,281,287"
+            },
+            {
+              "key": "Highest Paid Individual 2021",
+              "value": "Mr. Yanbin Wang - $386,754"
+            },
+            {
+              "key": "Lowest Paid Non-Executive Director 2021",
+              "value": "Mr. Valentino Vescovi - $11,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 12,
+          "title": "Executive Remuneration Structure",
+          "data": [
+            {
+              "key": "Non-Executive Directors",
+              "value": "Mr. Ying Ming Wang, Mr. Valentino Vescovi - 100% fixed remuneration"
+            },
+            {
+              "key": "Executive Directors",
+              "value": "Mr. Yanbin Wang - 94.86% fixed, 5.14% STI; Mr. Machin - 96.67% fixed, 3.33% STI"
+            },
+            {
+              "key": "Other Key Management Personnel",
+              "value": "Mr. Paul Davis - 96.66% fixed, 3.34% STI; Mr. Seong Bow Lee - 93.17% fixed, 6.83% STI; Mr. Nicholas Yeoh - 92.45% fixed, 7.55% STI"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 13,
+          "title": "Ordinary Shares Holdings Movement",
+          "data": [
+            {
+              "key": "Mr. Ying Ming Wang",
+              "value": "224,643,616"
+            },
+            {
+              "key": "Mr. Yanbin Wang",
+              "value": "70,000,006"
+            },
+            {
+              "key": "Mr. Valentino Vescovi",
+              "value": "37,040,006"
+            },
+            {
+              "key": "Mr. Nigel Machin",
+              "value": "22,010,006"
+            },
+            {
+              "key": "Mr. Paul Davis",
+              "value": "5,000,000"
+            },
+            {
+              "key": "Mr. Seong Bow Lee",
+              "value": "2,767,551"
+            },
+            {
+              "key": "Mr. Nicholas Yeoh",
+              "value": "20,500,006"
+            },
+            {
+              "key": "Total",
+              "value": "381,961,166"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 13,
+          "title": "Options over ordinary shares",
+          "data": [
+            {
+              "key": "Mr. Ying Ming Wang",
+              "value": "No options held"
+            },
+            {
+              "key": "Mr. Yanbin Wang",
+              "value": "No options held"
+            },
+            {
+              "key": "Mr. Valentino Vescovi",
+              "value": "No options held"
+            },
+            {
+              "key": "Mr. Nigel Machin",
+              "value": "1,800,000"
+            },
+            {
+              "key": "Mr. Paul Davis",
+              "value": "3,000,000"
+            },
+            {
+              "key": "Mr. Seong Bow Lee",
+              "value": "3,000,000"
+            },
+            {
+              "key": "Mr. Nicholas Yeoh",
+              "value": "3,000,000"
+            },
+            {
+              "key": "Total",
+              "value": "10,800,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 13,
+          "title": "Shares under option",
+          "data": [
+            {
+              "key": "June 2003",
+              "value": "4,480,000"
+            },
+            {
+              "key": "November 2003",
+              "value": "8,360,000"
+            },
+            {
+              "key": "July 2019",
+              "value": "34,000,000"
+            },
+            {
+              "key": "Total",
+              "value": "46,840,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 26,
+          "title": "Significant accounting policies",
+          "data": [
+            {
+              "key": "equity_settled_transactions",
+              "value": "The cost of equity-settled transactions are recognised as an expense with a corresponding increase in equity at the vesting date which is at the grant date."
+            },
+            {
+              "key": "cumulative_charge",
+              "value": "The cumulative charge to profit or loss is calculated based on the grant date fair value of the award, the best estimate of the number of awards that are likely to vest and the expired portion of the vesting period."
+            },
+            {
+              "key": "modification_of_awards",
+              "value": "If equity-settled awards are modified, an expense is recognised as if the modification has not been made. An additional expense is recognised for any modification that increases the total fair value of the share-based compensation benefit."
+            },
+            {
+              "key": "non_vesting_condition",
+              "value": "If the non-vesting condition is within control of the entity or employee, the failure to satisfy the condition is treated as a cancellation."
+            },
+            {
+              "key": "cancellation_of_awards",
+              "value": "If equity-settled awards are cancelled, it is treated as if it has vested on the cancellation date, with remaining expense recognised immediately."
+            },
+            {
+              "key": "issued_capital",
+              "value": "Ordinary shares are classified as equity."
+            },
+            {
+              "key": "dividends",
+              "value": "Dividends are recognised when declared during the financial year."
+            },
+            {
+              "key": "basic_earnings_per_share",
+              "value": "Basic earnings per share is calculated by dividing profit attributable to owners, excluding any costs of servicing equity."
+            },
+            {
+              "key": "diluted_earnings_per_share",
+              "value": "Diluted earnings per share adjusts figures to include potential ordinary shares."
+            },
+            {
+              "key": "goods_services_tax",
+              "value": "Revenues, expenses and assets are recognised net of associated GST unless not recoverable from tax authority."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 45,
+          "title": "Employee Benefits Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Short-term employee benefits (2022)",
+              "value": "$1,235,995"
+            },
+            {
+              "key": "Short-term employee benefits (2021)",
+              "value": "$1,162,926"
+            },
+            {
+              "key": "Post-employment benefits (2022)",
+              "value": "$115,829"
+            },
+            {
+              "key": "Post-employment benefits (2021)",
+              "value": "$109,199"
+            },
+            {
+              "key": "Long-term benefits (2022)",
+              "value": "$11,951"
+            },
+            {
+              "key": "Long-term benefits (2021)",
+              "value": "$9,162"
+            },
+            {
+              "key": "Total employee benefits (2022)",
+              "value": "$1,363,775"
+            },
+            {
+              "key": "Total employee benefits (2021)",
+              "value": "$1,281,287"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 45,
+          "title": "Company Ownership Details",
+          "data": [
+            {
+              "key": "Subsidiary Name: Protran Technologies Pty Ltd",
+              "value": "100%"
+            },
+            {
+              "key": "Subsidiary Name: Rectifier Technologies Pacific Pty Ltd",
+              "value": "100%"
+            },
+            {
+              "key": "Subsidiary Name: Rectifier Technologies Singapore Pte Ltd",
+              "value": "100%"
+            },
+            {
+              "key": "Subsidiary Name: ICERT Inc",
+              "value": "100%"
+            },
+            {
+              "key": "Subsidiary Name: Rectifier Technologies (M) Sdn Bhd",
+              "value": "100%"
+            },
+            {
+              "key": "Subsidiary Name: ICERT (Hk) Co. Ltd",
+              "value": "100%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 47,
+          "title": "Consolidated Bank Loans and Liabilities Statement",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Consolidated"
+            },
+            {
+              "key": "Bank Loans",
+              "value": "Bank loans"
+            },
+            {
+              "key": "Liabilities",
+              "value": "liabilities"
+            },
+            {
+              "key": "Total",
+              "value": "Total $"
+            },
+            {
+              "key": "Balance at 1 July 2020 Net cash used in financing activities Finance costs Other changes",
+              "value": "2,700,859 (34,670) 86,269 (158,358)"
+            },
+            {
+              "key": "Liabilities",
+              "value": "1,190,842 (387,290) 62,825 17,497"
+            },
+            {
+              "key": "Total",
+              "value": "3,891,701 (421,960) 149,094 (140,861)"
+            },
+            {
+              "key": "Finance costs Other changes",
+              "value": "104,930 68,984"
+            },
+            {
+              "key": "Liabilities",
+              "value": "48,195 103,759"
+            },
+            {
+              "key": "Total",
+              "value": "153,125 172,743"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "5,273,988"
+            },
+            {
+              "key": "Liabilities",
+              "value": "670,315"
+            },
+            {
+              "key": "Total",
+              "value": "5,944,303"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 47,
+          "title": "Share-based payments",
+          "data": [
+            {
+              "key": "Grant Date",
+              "value": "22/07/2019"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "13/09/2022"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.070"
+            },
+            {
+              "key": "Balance at the Start of the Year",
+              "value": "42,000,000"
+            },
+            {
+              "key": "Granted",
+              "value": ""
+            },
+            {
+              "key": "Exercised",
+              "value": ""
+            },
+            {
+              "key": "Expired/forfeited/other",
+              "value": "(8,000,000)"
+            },
+            {
+              "key": "Balance at the End of the Year",
+              "value": "34,000,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 51,
+          "title": "Key Audit Matters",
+          "data": [
+            {
+              "key": "Key audit matters description",
+              "value": "Key audit matters are those matters that, in our professional judgement, were of most significance in our audit of the financial report of the current period."
+            },
+            {
+              "key": "Recognition of R&D tax incentive",
+              "value": "The Group receives a corporate tax rate plus 18.5% (43.5%) refundable tax offset of eligible expenditure under the R&D scheme if its turnover is less than $20 million per annum."
+            },
+            {
+              "key": "R&D tax incentive procedures",
+              "value": "Obtaining and documenting through discussions with management an understanding of the process to estimate the claim; Evaluating the competence; Reviewing and testing the R&D estimate."
+            },
+            {
+              "key": "R&D receivable recorded",
+              "value": "As at 30 June 2022, a receivable totalling $1,035,645 has been recorded."
+            },
+            {
+              "key": "Comparison with prior year",
+              "value": "Comparing the nature of the R&D expenditure included in the current year to the prior year’s claim."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Auditor’s report on the remuneration report",
+          "data": [
+            {
+              "key": "auditor",
+              "value": "Grant Thornton Australia Limited"
+            },
+            {
+              "key": "opinion",
+              "value": "The Remuneration Report complies with section 300A of the Corporations Act 2001."
+            },
+            {
+              "key": "report_period",
+              "value": "year ended 30 June 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 54,
+          "title": "Remuneration Report Responsibility",
+          "data": [
+            {
+              "key": "Directors Responsibility",
+              "value": "The Directors of the Company are responsible for the preparation and presentation of the Remuneration Report in accordance with section 300A of the Corporations Act 2001."
+            },
+            {
+              "key": "Auditor Responsibility",
+              "value": "Our responsibility is to express an opinion on the Remuneration Report, based on our audit conducted in accordance with Australian Auditing Standards."
+            },
+            {
+              "key": "Auditor Firm",
+              "value": "Grant Thornton Audit Pty Ltd Chartered Accountants"
+            },
+            {
+              "key": "Audit Partner",
+              "value": "S C Trivett Partner – Audit & Assurance"
+            },
+            {
+              "key": "Audit Date",
+              "value": "30 September 2022"
+            },
+            {
+              "key": "Company",
+              "value": "Grant Thornton Australia Limited"
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 5,
+          "title": "Rectifier Technologies Ltd Chairman's report 30 June 2022",
+          "data": [
+            {
+              "key": "profit_reported",
+              "value": "Profit reported in the current reporting period despite COVID interruption and global supply chain shortage."
+            },
+            {
+              "key": "purchase_orders",
+              "value": "Purchase orders totalling approximately USD 20 million from a major customer in the first half-year of 2022."
+            },
+            {
+              "key": "ERP_implementation",
+              "value": "Phase 1 of ERP implementation completed; Phase 2 expected to begin in H1 2023."
+            },
+            {
+              "key": "RT22_product_development",
+              "value": "Continued development of 'RT22 50KW EV Charger Module', with safety certification by TUV SUD expected by Q4 2022."
+            },
+            {
+              "key": "project_status",
+              "value": "'Highbury DC Bi-Directional Charger' project put on hold; resources redirected to other developments."
+            },
+            {
+              "key": "expected_revenue_contribution",
+              "value": "RT22 expected to significantly contribute to company revenue in 2023."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "product_launch",
+          "page": 5,
+          "title": "Signature Block",
+          "data": [
+            {
+              "key": "name",
+              "value": "Ying Ming Wang"
+            },
+            {
+              "key": "title",
+              "value": "Chairman"
+            },
+            {
+              "key": "date",
+              "value": "30 September 2022"
+            },
+            {
+              "key": "location",
+              "value": "Melbourne"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 24,
+          "title": "Asset Depreciation Schedule",
+          "data": [
+            {
+              "key": "Asset Type",
+              "value": "Building"
+            },
+            {
+              "key": "Useful Life",
+              "value": "50 years"
+            },
+            {
+              "key": "Asset Type",
+              "value": "Leasehold improvement"
+            },
+            {
+              "key": "Useful Life",
+              "value": "10 years"
+            },
+            {
+              "key": "Asset Type",
+              "value": "Plant and equipment"
+            },
+            {
+              "key": "Useful Life",
+              "value": "2.5-5 years"
+            },
+            {
+              "key": "Asset Type",
+              "value": "Motor vehicle"
+            },
+            {
+              "key": "Useful Life",
+              "value": "5 years"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 35,
+          "title": "Property, Plant and Equipment Summary",
+          "data": [
+            {
+              "key": "Land - at cost",
+              "value": "2022: 2,207,392; 2021: 2,146,230"
+            },
+            {
+              "key": "Building - at cost",
+              "value": "2022: Gross: 1,493,058; Depreciation: -1,085,057; Net: 408,001; 2021: Gross: 1,369,567; Depreciation: -964,230; Net: 405,337"
+            },
+            {
+              "key": "Leasehold improvement",
+              "value": "2022: Gross: 235,873; Depreciation: -99,486; Net: 136,387; 2021: Gross: 216,441; Depreciation: -69,398; Net: 147,042"
+            },
+            {
+              "key": "Plant and equipment",
+              "value": "2022: Gross: 3,655,900; Depreciation: -1,805,507; Net: 1,850,393; 2021: Gross: 2,047,266; Depreciation: -580,330; Net: 1,466,936"
+            },
+            {
+              "key": "Motor vehicle",
+              "value": "2022: Gross: 132,493; Depreciation: -129,418; Net: 3,075; 2021: Gross: 50,200; Depreciation: -45,155; Net: 5,046"
+            },
+            {
+              "key": "Total",
+              "value": "2022: 4,605,248; 2021: 4,170,591"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 35,
+          "title": "Consolidated Fixed Assets Movement Schedule",
+          "data": [
+            {
+              "key": "Balance at 1 July 2020",
+              "value": "Land: 2,280,963; Building: 614,492; Leasehold improvement: 183,792; Equipment: 1,159,365; Motor vehicle: 0; Total: 4,238,612"
+            },
+            {
+              "key": "Balance at 30 June 2021",
+              "value": "Land: 2,146,230; Building: 405,337; Leasehold improvement: 147,043; Equipment: 1,466,936; Motor vehicle: 5,045; Total: 4,170,591"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "Land: 2,207,392; Building: 408,001; Leasehold improvement: 136,387; Equipment: 1,850,393; Motor vehicle: 3,075; Total: 4,605,248"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 37,
+          "title": "Consolidated Cost Statement",
+          "data": [
+            {
+              "key": "Balance at 1 July 2020 Additions",
+              "value": "106,048"
+            },
+            {
+              "key": "Balance at 30 June 2021 Additions Research and development rebate",
+              "value": "106,048 61,844 (73,033)"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "94,859"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 37,
+          "title": "Trade and Other Payables",
+          "data": [
+            {
+              "key": "Trade payables",
+              "value": "4,463,965"
+            },
+            {
+              "key": "Sundry creditors and accrued expenses",
+              "value": "1,085,956"
+            },
+            {
+              "key": "Total",
+              "value": "5,549,921"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 37,
+          "title": "Bank Liabilities Comparison",
+          "data": [
+            {
+              "key": "Current liabilities",
+              "value": "N/A"
+            },
+            {
+              "key": "Bank loans",
+              "value": "1,122,142"
+            },
+            {
+              "key": "Non-current liabilities Bank loans",
+              "value": "4,151,846"
+            },
+            {
+              "key": "Total",
+              "value": "5,273,988"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 4,
+          "title": "Financial Performance Overview",
+          "data": [
+            {
+              "key": "Revenue from continuing operations (2022)",
+              "value": "$16.30 million"
+            },
+            {
+              "key": "Revenue from continuing operations (2021)",
+              "value": "$13.27 million"
+            },
+            {
+              "key": "Gross Profit (2022)",
+              "value": "$7.41 million"
+            },
+            {
+              "key": "Gross Profit (2021)",
+              "value": "$6.04 million"
+            },
+            {
+              "key": "Gross Margin % (2022)",
+              "value": "50%"
+            },
+            {
+              "key": "Gross Margin % (2021)",
+              "value": "51%"
+            },
+            {
+              "key": "Profit before tax (2022)",
+              "value": "$1.23 million"
+            },
+            {
+              "key": "Profit before tax (2021)",
+              "value": "$1.03 million"
+            },
+            {
+              "key": "Income Tax Expense (2022)",
+              "value": "-$740,000"
+            },
+            {
+              "key": "Income Tax Expense (2021)",
+              "value": "-$493,000"
+            },
+            {
+              "key": "Profit after tax (2022)",
+              "value": "$492,000"
+            },
+            {
+              "key": "Profit after tax (2021)",
+              "value": "$540,000"
+            },
+            {
+              "key": "Net Profit (2022)",
+              "value": "$492,000"
+            },
+            {
+              "key": "Net Profit (2021)",
+              "value": "$540,000"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 16,
+          "title": "Income Statement",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "14,761,523"
+            },
+            {
+              "key": "Previous Revenue",
+              "value": "11,841,712"
+            },
+            {
+              "key": "Other income",
+              "value": "1,535,954"
+            },
+            {
+              "key": "Previous Other income",
+              "value": "1,415,332"
+            },
+            {
+              "key": "Interest revenue",
+              "value": "5,852"
+            },
+            {
+              "key": "Previous Interest revenue",
+              "value": "9,251"
+            },
+            {
+              "key": "Raw materials and consumables used",
+              "value": "-7,656,716"
+            },
+            {
+              "key": "Previous Raw materials and consumables used",
+              "value": "-4,022,084"
+            },
+            {
+              "key": "Employee benefits expense",
+              "value": "-6,310,321"
+            },
+            {
+              "key": "Previous Employee benefits expense",
+              "value": "-5,071,148"
+            },
+            {
+              "key": "Depreciation expense",
+              "value": "-607,239"
+            },
+            {
+              "key": "Previous Depreciation expense",
+              "value": "-554,839"
+            },
+            {
+              "key": "Other expenses",
+              "value": "-2,441,741"
+            },
+            {
+              "key": "Previous Other expenses",
+              "value": "-2,010,880"
+            },
+            {
+              "key": "Finance costs",
+              "value": "-153,125"
+            },
+            {
+              "key": "Previous Finance costs",
+              "value": "-149,094"
+            },
+            {
+              "key": "Profit before income tax expense",
+              "value": "1,231,874"
+            },
+            {
+              "key": "Previous Profit before income tax expense",
+              "value": "1,033,685"
+            },
+            {
+              "key": "Income tax expense",
+              "value": "-739,919"
+            },
+            {
+              "key": "Previous Income tax expense",
+              "value": "-493,306"
+            },
+            {
+              "key": "Profit after income tax expense",
+              "value": "491,955"
+            },
+            {
+              "key": "Previous Profit after income tax expense",
+              "value": "540,379"
+            },
+            {
+              "key": "Foreign currency translation",
+              "value": "166,439"
+            },
+            {
+              "key": "Previous Foreign currency translation",
+              "value": "-205,003"
+            },
+            {
+              "key": "Total comprehensive income",
+              "value": "658,394"
+            },
+            {
+              "key": "Previous Total comprehensive income",
+              "value": "335,376"
+            },
+            {
+              "key": "Basic earnings per share (cents)",
+              "value": "0.04"
+            },
+            {
+              "key": "Diluted earnings per share (cents)",
+              "value": "0.03"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 17,
+          "title": "Balance Sheet Assets and Liabilities",
+          "data": [
+            {
+              "key": "Current assets",
+              "value": "Total current assets increased significantly from 10.9M to 16.8M."
+            },
+            {
+              "key": "Non-current assets",
+              "value": "Total non-current assets increased slightly from 5.9M to 6.1M."
+            },
+            {
+              "key": "Current liabilities",
+              "value": "Total current liabilities increased significantly from 4.8M to 8.6M."
+            },
+            {
+              "key": "Total assets",
+              "value": "Total assets increased from 16.8M to 22.9M."
+            },
+            {
+              "key": "Net assets",
+              "value": "Net assets grew from 8.7M to 9.4M."
+            },
+            {
+              "key": "Total equity",
+              "value": "Total equity remained constant at 9.4M."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 19,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Cash flows from operating activities",
+              "value": "Net cash from/(used in) operating activities 2022: -726000, 2021: 1597459"
+            },
+            {
+              "key": "Cash flows from investing activities",
+              "value": "Net cash used in investing activities 2022: -629211, 2021: -570778"
+            },
+            {
+              "key": "Cash flows from financing activities",
+              "value": "Net cash from/(used in) financing activities 2022: 2293586, 2021: -1507758"
+            },
+            {
+              "key": "Cash and cash equivalents",
+              "value": "End of financial year 2022: 7295534, 2021: 6241106"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 22,
+          "title": "Significant accounting policies",
+          "data": [
+            {
+              "key": "Variable consideration",
+              "value": "Reflects concessions provided to the customer such as discounts, rebates and refunds, any potential bonuses receivable from the customer and any other contingent events."
+            },
+            {
+              "key": "Revenue recognition from goods sale",
+              "value": "Revenue from the sale of power rectifiers and the related after-sales services is recognised at the point when performance obligations are satisfied by delivering promised products and services."
+            },
+            {
+              "key": "Contract liabilities",
+              "value": "Recognised for consideration received in respect of unsatisfied performance obligations."
+            },
+            {
+              "key": "Other revenue recognition",
+              "value": "Other revenue is recognised when received or when the right to receive payment is established."
+            },
+            {
+              "key": "Interest revenue recognition",
+              "value": "Interest revenue is recognised as interest accrued using the effective interest method."
+            },
+            {
+              "key": "Income tax expense",
+              "value": "The tax payable on this period's taxable income based on applicable income tax rates, adjusted by changes in deferred tax assets and liabilities."
+            },
+            {
+              "key": "Deferred tax",
+              "value": "Deferred tax assets and liabilities are recognised for temporary differences at the expected tax rates for recovery or settlement."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 23,
+          "title": "Notes to the Financial Statements",
+          "data": [
+            {
+              "key": "Tax Consolidation Group",
+              "value": "Rectifier Technologies Ltd and its wholly-owned Australian subsidiaries have formed an income tax consolidated group. The head entity and each subsidiary account for their own current and deferred tax amounts."
+            },
+            {
+              "key": "Tax Funding Arrangement",
+              "value": "Assets or liabilities arising under tax funding agreements with the tax consolidated entities are recognised as amounts receivable from or payable to other entities in the tax consolidated group."
+            },
+            {
+              "key": "Current and Non-Current Classification",
+              "value": "Assets and liabilities are presented based on current and non-current classification. Assets are classified as current if they are expected to be realized, sold, or consumed in the normal operating cycle, among other conditions."
+            },
+            {
+              "key": "Deferred Tax Classification",
+              "value": "Deferred tax assets and liabilities are always classified as non-current."
+            },
+            {
+              "key": "Cash and Cash Equivalents",
+              "value": "Includes cash on hand, deposits held at call with financial institutions, and other short-term, highly liquid investments with original maturities of three months or less."
+            },
+            {
+              "key": "Trade Receivables",
+              "value": "Initially recognised at fair value and measured at amortised cost, less allowance for expected credit losses."
+            },
+            {
+              "key": "Inventories",
+              "value": "Stated at the lower of cost and net realisable value on a 'weighted average' basis and determined after deducting rebates and discounts."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 25,
+          "title": "Notes to the financial statements",
+          "data": [
+            {
+              "key": "Trade and other payables",
+              "value": "Liabilities for goods and services provided, measured at amortised cost and unpaid."
+            },
+            {
+              "key": "Borrowings",
+              "value": "Initially recognised at fair value, measured at amortised cost using effective interest method."
+            },
+            {
+              "key": "Lease liabilities",
+              "value": "Recognised at present value of lease payments, discounted using implicit interest rate or incremental borrowing rate."
+            },
+            {
+              "key": "Finance costs",
+              "value": "Capitalised for qualifying assets, expensed for others."
+            },
+            {
+              "key": "Employee benefits - Short-term",
+              "value": "Liabilities measured at amounts expected to be paid when settled."
+            },
+            {
+              "key": "Employee benefits - Long-term",
+              "value": "Liabilities measured at present value of future payments."
+            },
+            {
+              "key": "Defined contribution superannuation expense",
+              "value": "Expensed in the period incurred."
+            },
+            {
+              "key": "Share-based payments",
+              "value": "Equity-settled compensation measured at fair value on grant date."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 29,
+          "title": "Segment Financial Information - 2022 and 2021 Comparison",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Total Revenue",
+              "value": "14,947,185"
+            },
+            {
+              "key": "External Sales",
+              "value": "14,947,185"
+            },
+            {
+              "key": "Profit Before Tax",
+              "value": "1,231,874"
+            },
+            {
+              "key": "Profit After Tax",
+              "value": "491,955"
+            },
+            {
+              "key": "Total Assets",
+              "value": "22,929,553"
+            },
+            {
+              "key": "Total Liabilities",
+              "value": "13,574,846"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 29,
+          "title": "Segment Financial Information - 2022 and 2021 Comparison",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Total Revenue",
+              "value": "13,259,303"
+            },
+            {
+              "key": "External Sales",
+              "value": "13,259,303"
+            },
+            {
+              "key": "Profit Before Tax",
+              "value": "1,033,685"
+            },
+            {
+              "key": "Profit After Tax",
+              "value": "540,379"
+            },
+            {
+              "key": "Total Assets",
+              "value": "N/A"
+            },
+            {
+              "key": "Total Liabilities",
+              "value": "N/A"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 30,
+          "title": "Sales to external customers and assets by region",
+          "data": [
+            {
+              "key": "Region: Australia",
+              "value": "Sales 2022: $12,218,517; Sales 2021: $5,655,250; Assets 2022: $986,901; Assets 2021: $1,136,777"
+            },
+            {
+              "key": "Region: Asia",
+              "value": "Sales 2022: $1,643,041; Sales 2021: $1,540,462; Assets 2022: $4,505,020; Assets 2021: $4,188,626"
+            },
+            {
+              "key": "Region: North America",
+              "value": "Sales 2022: $553,077; Sales 2021: $1,745,298; Assets 2022: N/A; Assets 2021: N/A"
+            },
+            {
+              "key": "Region: South America",
+              "value": "Sales 2022: $17,353; Sales 2021: $68,713; Assets 2022: N/A; Assets 2021: N/A"
+            },
+            {
+              "key": "Region: Europe",
+              "value": "Sales 2022: $303,920; Sales 2021: $2,810,016; Assets 2022: N/A; Assets 2021: N/A"
+            },
+            {
+              "key": "Region: Oceania",
+              "value": "Sales 2022: $25,615; Sales 2021: $21,972; Assets 2022: N/A; Assets 2021: N/A"
+            },
+            {
+              "key": "Total",
+              "value": "Sales 2022: $14,761,523; Sales 2021: $11,841,710; Assets 2022: $5,491,921; Assets 2021: $5,325,403"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 31,
+          "title": "Rectifier Technologies Ltd Notes to the financial statements 30 June 2022",
+          "data": [
+            {
+              "key": "Other income (2022)",
+              "value": "$1,535,954"
+            },
+            {
+              "key": "Other income (2021)",
+              "value": "$1,415,332"
+            },
+            {
+              "key": "R&D tax rebate (2022)",
+              "value": "$1,055,657"
+            },
+            {
+              "key": "R&D tax rebate (2021)",
+              "value": "$877,691"
+            },
+            {
+              "key": "Government grants (COVID-19) (2022)",
+              "value": "$38,851"
+            },
+            {
+              "key": "Government grants (COVID-19) (2021)",
+              "value": "$435,900"
+            },
+            {
+              "key": "Foreign exchange gain (2022)",
+              "value": "$392,791"
+            },
+            {
+              "key": "Foreign exchange gain (2021)",
+              "value": "N/A"
+            },
+            {
+              "key": "Other income (2022)",
+              "value": "$48,655"
+            },
+            {
+              "key": "Other income (2021)",
+              "value": "$101,741"
+            },
+            {
+              "key": "Total increase in other income",
+              "value": "$120,622"
+            },
+            {
+              "key": "Total expenses (2022)",
+              "value": "$7,352,827"
+            },
+            {
+              "key": "Total expenses (2021)",
+              "value": "$5,799,730"
+            },
+            {
+              "key": "Research costs (2022)",
+              "value": "$2,380,792"
+            },
+            {
+              "key": "Research costs (2021)",
+              "value": "$1,983,728"
+            },
+            {
+              "key": "Total depreciation (2022)",
+              "value": "$607,239"
+            },
+            {
+              "key": "Total depreciation (2021)",
+              "value": "$554,839"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Income Tax Reconciliation",
+          "data": [
+            {
+              "key": "Income tax expense Current tax",
+              "value": "776974"
+            },
+            {
+              "key": "Deferred tax - origination and reversal of temporary differences",
+              "value": "-37055"
+            },
+            {
+              "key": "Aggregate income tax expense",
+              "value": "739919"
+            },
+            {
+              "key": "Numerical reconciliation of income tax expense and tax at the statutory rate Profit before income tax expense",
+              "value": "1231874"
+            },
+            {
+              "key": "Tax at the statutory tax rate of 25% (2021: 26%)",
+              "value": "307969"
+            },
+            {
+              "key": "Tax effect amounts which are not deductible/(taxable) in calculating taxable income: Research and development expenditures",
+              "value": "6826"
+            },
+            {
+              "key": "Controlled foreign company attributed income",
+              "value": "595198"
+            },
+            {
+              "key": "Other non-allowable items",
+              "value": "195127"
+            },
+            {
+              "key": "Foreign tax offset",
+              "value": "55022"
+            },
+            {
+              "key": "Other non-assessable items",
+              "value": "-420223"
+            },
+            {
+              "key": "Income tax expense",
+              "value": "739919"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Unused Tax Losses",
+          "data": [
+            {
+              "key": "Tax losses not recognised Unused tax losses for which no deferred tax asset has been recognised",
+              "value": "18409592"
+            },
+            {
+              "key": "Potential tax benefit at statutory tax rates",
+              "value": "4602398"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Tax and Financial Components Statement",
+          "data": [
+            {
+              "key": "Employee benefits",
+              "value": "$201,832"
+            },
+            {
+              "key": "Accrued expenses",
+              "value": "$87,407"
+            },
+            {
+              "key": "Inventories",
+              "value": "$146,133"
+            },
+            {
+              "key": "Unrealised foreign exchange losses",
+              "value": "-$54,626"
+            },
+            {
+              "key": "Property, plant and equipment",
+              "value": "-$151,157"
+            },
+            {
+              "key": "Deferred tax asset",
+              "value": "$229,589"
+            },
+            {
+              "key": "Current tax assets",
+              "value": "$734,150"
+            },
+            {
+              "key": "Current tax liabilities",
+              "value": "$795,256"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Current assets",
+          "data": [
+            {
+              "key": "Current assets",
+              "value": ""
+            },
+            {
+              "key": "Cash at bank",
+              "value": "$7,295,534"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Rectifier Technologies Ltd Notes to the financial statements 30 June 2022",
+          "data": [
+            {
+              "key": "Trade receivables 2022 $",
+              "value": "891,338"
+            },
+            {
+              "key": "Trade receivables 2021 $",
+              "value": "514,635"
+            },
+            {
+              "key": "Other receivables 2022 $",
+              "value": "46,687"
+            },
+            {
+              "key": "Other receivables 2021 $",
+              "value": "216,338"
+            },
+            {
+              "key": "Research and development tax incentives 2022 $",
+              "value": "1,035,645"
+            },
+            {
+              "key": "Research and development tax incentives 2021 $",
+              "value": "862,922"
+            },
+            {
+              "key": "Prepayments 2022 $",
+              "value": "936,547"
+            },
+            {
+              "key": "Prepayments 2021 $",
+              "value": "134,637"
+            },
+            {
+              "key": "Subtotal 2022 $",
+              "value": "1,972,192"
+            },
+            {
+              "key": "Subtotal 2021 $",
+              "value": "997,559"
+            },
+            {
+              "key": "Total 2022 $",
+              "value": "2,910,217"
+            },
+            {
+              "key": "Total 2021 $",
+              "value": "1,728,532"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "Right-of-use assets - Non-current assets comparison 2021-2022",
+          "data": [
+            {
+              "key": "Total Non-current assets 2022 $",
+              "value": "886,673"
+            },
+            {
+              "key": "Total Non-current assets 2021 $",
+              "value": "1,154,814"
+            },
+            {
+              "key": "Building - right-of-use 2022 $",
+              "value": "564,576"
+            },
+            {
+              "key": "Building - right-of-use 2021 $",
+              "value": "632,317"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "Consolidated Financial Statement",
+          "data": [
+            {
+              "key": "Consolidated Balance at 30 June 2022",
+              "value": "Building $: 564,576"
+            },
+            {
+              "key": "Consolidated Balance at 30 June 2022",
+              "value": "Total $: 886,673"
+            },
+            {
+              "key": "Consolidated Balance at 30 June 2021",
+              "value": "Building $: 632,317"
+            },
+            {
+              "key": "Consolidated Balance at 30 June 2021",
+              "value": "Total $: 1,154,814"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "Intangibles - Development costs comparison 2021-2022",
+          "data": [
+            {
+              "key": "Development at cost 2022 $",
+              "value": "94,859"
+            },
+            {
+              "key": "Development at cost 2021 $",
+              "value": "106,040"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "Consolidated Assets and Liabilities Currency Sensitivity Analysis",
+          "data": [
+            {
+              "key": "2022 Assets",
+              "value": "$532,730"
+            },
+            {
+              "key": "2021 Assets",
+              "value": "$328,330"
+            },
+            {
+              "key": "2022 Liabilities",
+              "value": "$651,586"
+            },
+            {
+              "key": "2021 Liabilities",
+              "value": "$177,173"
+            },
+            {
+              "key": "10% AUD Strengthened Effect",
+              "value": "$156,285 positive effect"
+            },
+            {
+              "key": "10% AUD Weakened Effect",
+              "value": "$191,016 negative effect"
+            },
+            {
+              "key": "10% AUD Strengthened Effect for Assets 2021",
+              "value": "$39,702"
+            },
+            {
+              "key": "10% AUD Weakended Effect for Assets 2021",
+              "value": "$-48,525"
+            },
+            {
+              "key": "10% AUD Strengthened Effect for Liabilities 2021",
+              "value": "$21,424"
+            },
+            {
+              "key": "10% AUD Weakended Effect for Liabilities 2021",
+              "value": "$-26,185"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Financial Instruments Exposure Analysis",
+          "data": [
+            {
+              "key": "Total Receivables 2022",
+              "value": "891,338"
+            },
+            {
+              "key": "Total Receivables 2021",
+              "value": "514,635"
+            },
+            {
+              "key": "Australia Growth",
+              "value": "702,808 vs 414,172"
+            },
+            {
+              "key": "Asia Growth",
+              "value": "145,385 vs 69,856"
+            },
+            {
+              "key": "Europe Growth",
+              "value": "52,535 vs 1,600"
+            },
+            {
+              "key": "USA Decline",
+              "value": "-9,390 vs 29,007"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Rectifier Technologies Ltd Notes to the financial statements 30 June 2022",
+          "data": [
+            {
+              "key": "Total liabilities",
+              "value": "$6.93 million"
+            },
+            {
+              "key": "Bank loans",
+              "value": "$3.28 million"
+            },
+            {
+              "key": "Trade payables",
+              "value": "$2.13 million"
+            },
+            {
+              "key": "Other payables",
+              "value": "$0.52 million"
+            },
+            {
+              "key": "Lease liabilities",
+              "value": "$1 million"
+            },
+            {
+              "key": "Audit services fees",
+              "value": "$79,131 (2022), $79,882 (2021)"
+            },
+            {
+              "key": "Purchase commitments - Inventories 2022",
+              "value": "$10,903,918"
+            },
+            {
+              "key": "Purchase commitments - Property, plant and equipment 2022",
+              "value": "$97,953"
+            },
+            {
+              "key": "Purchase commitments - Research and development 2021",
+              "value": "$15,883"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Earnings Per Share Calculation",
+          "data": [
+            {
+              "key": "Profit after income tax attributable to the owners of Rectifier Technologies Ltd",
+              "value": "2022: 491,955, 2021: 540,370"
+            },
+            {
+              "key": "The weighted average number of ordinary shares used in calculating basic earnings per share",
+              "value": "2022: 1,375,700,602, 2021: 1,375,700,602"
+            },
+            {
+              "key": "Adjustments for calculation of diluted earnings per share: Options over ordinary shares",
+              "value": "2022: 46,840,000, 2021: 54,840,000"
+            },
+            {
+              "key": "The weighted average number of ordinary shares used in calculating diluted earnings per share",
+              "value": "2022: 1,422,540,602, 2021: 1,430,540,602"
+            },
+            {
+              "key": "Basic earnings per share",
+              "value": "2022: 0.04, 2021: 0.04"
+            },
+            {
+              "key": "Diluted earnings per share",
+              "value": "2022: 0.03, 2021: 0.04"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Reconciliation of profit after income tax to net cash from/(used in) operating activities",
+          "data": [
+            {
+              "key": "Profit after income tax expense for the year",
+              "value": "2022: 491,955, 2021: 540,370"
+            },
+            {
+              "key": "Depreciation and amortisation",
+              "value": "2022: 607,239, 2021: 554,830"
+            },
+            {
+              "key": "Provision for stock obsolescence",
+              "value": "2022: 148,622, 2021: -60,180"
+            },
+            {
+              "key": "Unrealised currency (gain)/loss",
+              "value": "2022: -86,192, 2021: 179,250"
+            },
+            {
+              "key": "Net loss/(gain) on sale/acquisition of assets",
+              "value": "2022: -34,956, 2021: -1"
+            },
+            {
+              "key": "Capitalised interest",
+              "value": "2022: 87,200, 2021: 14,770"
+            },
+            {
+              "key": "Decrease/(increase) in trade and other receivables",
+              "value": "2022: -1,441,878, 2021: 1,238,430"
+            },
+            {
+              "key": "Decrease/(increase) in inventories",
+              "value": "2022: -3,861,912, 2021: 551,020"
+            },
+            {
+              "key": "Increase/(decrease) in net deferred tax assets",
+              "value": "2022: 35,949, 2021: 40,900"
+            },
+            {
+              "key": "Increase/(decrease) in trade and other payables",
+              "value": "2022: 2,746,773, 2021: -1,207,650"
+            },
+            {
+              "key": "Increase/(decrease) in provision for income tax",
+              "value": "2022: 404,843, 2021: -390,720"
+            },
+            {
+              "key": "Increase in employee benefits",
+              "value": "2022: 176,357, 2021: 136,420"
+            },
+            {
+              "key": "Net cash from/(used in) operating activities",
+              "value": "2022: -726,000, 2021: 1,597,450"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 50,
+          "title": "Independent Auditor’s Report",
+          "data": [
+            {
+              "key": "auditor",
+              "value": "Grant Thornton Audit Pty Ltd"
+            },
+            {
+              "key": "address",
+              "value": "Level 22 Tower 5 Collins Square 727 Collins Street Melbourne VIC 3008"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Inventory Valuation and Revenue Recognition",
+          "data": [
+            {
+              "key": "Inventory carrying value",
+              "value": "$5,877,879"
+            },
+            {
+              "key": "Revenue from sales",
+              "value": "$14,761,523"
+            },
+            {
+              "key": "Audit matters",
+              "value": "Materiality of inventory balance; judgment in revenue recognition"
+            },
+            {
+              "key": "Relevant accounting standards",
+              "value": "AASB 102 for inventory; AASB 15 for revenue"
+            },
+            {
+              "key": "Audit procedures for inventory",
+              "value": "Testing inventory items; analyzing slow-moving inventory; evaluating saleability"
+            },
+            {
+              "key": "Audit procedures for revenue",
+              "value": "Reviewing revenue recognition policies; assessing performance obligations; testing timing of revenue recognition"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Shareholder Distribution Analysis",
+          "data": [
+            {
+              "key": "Distribution of Shareholders",
+              "value": "This table shows the distribution of shareholdings across different holding ranges. The majority of shares (94.17%) are held by 681 holders who own more than 100,001 shares each. There are 3,086 total shareholders, with 414 holders having less than a marketable parcel. The total number of units is 1,375,700,602."
+            },
+            {
+              "key": "Total Shareholders",
+              "value": "3086"
+            },
+            {
+              "key": "Total Shares Issued",
+              "value": "1375700602"
+            },
+            {
+              "key": "Major Shareholders Summary",
+              "value": "This table shows the major shareholders and their holdings in the company. UDU Investment (Australia) Pty Ltd is the largest shareholder with 16.33% ownership, followed by Ung Shing with 10.90%. Both Anbin Wang and Malcolm Alistair Duncan hold approximately 5% each. Together, these four shareholders control about 37.35% of the company's issued ordinary shares."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "dividend_policy",
+          "page": 41,
+          "title": "Dividends",
+          "data": [
+            {
+              "key": "Dividends paid during the financial year 2022",
+              "value": "nil cents"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 41,
+          "title": "Franking credits",
+          "data": [
+            {
+              "key": "Franking credits available based on a tax rate of 25% (2021: 25%)",
+              "value": "939,520"
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 38,
+          "title": "Note 16. Borrowings",
+          "data": [
+            {
+              "key": "Loan Amount (MYR)",
+              "value": "5,460,000"
+            },
+            {
+              "key": "Loan Amount (AUD)",
+              "value": "1,629,851"
+            },
+            {
+              "key": "Loan Term",
+              "value": "20 years"
+            },
+            {
+              "key": "Interest Rate",
+              "value": "Base Lending Rate - 2.20%"
+            },
+            {
+              "key": "Monthly Repayment Start Date",
+              "value": "1 May 2017"
+            },
+            {
+              "key": "Carrying Amount (MYR)",
+              "value": "4,648,453"
+            },
+            {
+              "key": "Carrying Amount (AUD)",
+              "value": "1,531,464"
+            },
+            {
+              "key": "2021 Carrying Amount (MYR)",
+              "value": "4,899,598"
+            },
+            {
+              "key": "2021 Carrying Amount (AUD)",
+              "value": "1,569,479"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 38,
+          "title": "Note 16. Borrowings",
+          "data": [
+            {
+              "key": "Loan Amount (MYR)",
+              "value": "2,730,000"
+            },
+            {
+              "key": "Loan Amount (AUD)",
+              "value": "929,393"
+            },
+            {
+              "key": "Loan Term",
+              "value": "20 years"
+            },
+            {
+              "key": "Interest Rate",
+              "value": "Base Lending Rate - 2.20%"
+            },
+            {
+              "key": "Monthly Repayment Start Date",
+              "value": "1 December 2019"
+            },
+            {
+              "key": "Carrying Amount (MYR)",
+              "value": "2,552,538"
+            },
+            {
+              "key": "Carrying Amount (AUD)",
+              "value": "840,951"
+            },
+            {
+              "key": "2021 Carrying Amount (MYR)",
+              "value": "2,671,654"
+            },
+            {
+              "key": "2021 Carrying Amount (AUD)",
+              "value": "855,806"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 38,
+          "title": "Note 16. Borrowings",
+          "data": [
+            {
+              "key": "Loan Amount (MYR)",
+              "value": "498,800"
+            },
+            {
+              "key": "Loan Amount (AUD)",
+              "value": "159,780"
+            },
+            {
+              "key": "Loan Term",
+              "value": "10 years"
+            },
+            {
+              "key": "Interest Rate",
+              "value": "Base Lending Rate - 2%"
+            },
+            {
+              "key": "Monthly Repayment Start Date",
+              "value": "1 October 2020"
+            },
+            {
+              "key": "Carrying Amount (MYR)",
+              "value": "428,740"
+            },
+            {
+              "key": "Carrying Amount (AUD)",
+              "value": "141,252"
+            },
+            {
+              "key": "2021 Carrying Amount (MYR)",
+              "value": "472,008"
+            },
+            {
+              "key": "2021 Carrying Amount (AUD)",
+              "value": "151,197"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 38,
+          "title": "Note 16. Borrowings",
+          "data": [
+            {
+              "key": "Loan Amount (AUD)",
+              "value": "3,000,000"
+            },
+            {
+              "key": "Loan Term",
+              "value": "3 years"
+            },
+            {
+              "key": "Interest Rate",
+              "value": "Business Mortgage Index Rate - 3.75%"
+            },
+            {
+              "key": "Monthly Repayment Start Date",
+              "value": "30 April 2022"
+            },
+            {
+              "key": "Carrying Amount (AUD)",
+              "value": "2,760,321"
+            },
+            {
+              "key": "Total Repayments",
+              "value": "36 instalments"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 38,
+          "title": "Note 16. Borrowings",
+          "data": [
+            {
+              "key": "Prior year's trade facilities (MYR)",
+              "value": "55,000"
+            },
+            {
+              "key": "Prior year's trade facilities (AUD)",
+              "value": "17,618"
+            },
+            {
+              "key": "Fully Paid Date",
+              "value": "31 August 2021"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 38,
+          "title": "Lease Liabilities Breakdown",
+          "data": [
+            {
+              "key": "Current liabilities (2022)",
+              "value": "212,781"
+            },
+            {
+              "key": "Current liabilities (2021)",
+              "value": "295,410"
+            },
+            {
+              "key": "Non-current liabilities (2022)",
+              "value": "457,534"
+            },
+            {
+              "key": "Non-current liabilities (2021)",
+              "value": "588,464"
+            },
+            {
+              "key": "Total liabilities (2022)",
+              "value": "670,315"
+            },
+            {
+              "key": "Total liabilities (2021)",
+              "value": "883,874"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 38,
+          "title": "Future Minimum Lease Payments",
+          "data": [
+            {
+              "key": "2022 Total Lease Payments",
+              "value": "670,315"
+            },
+            {
+              "key": "2021 Total Lease Payments",
+              "value": "883,874"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 39,
+          "title": "Note 19. Issued capital and Liabilities",
+          "data": [
+            {
+              "key": "Current liabilities - Annual leave",
+              "value": ""
+            },
+            {
+              "key": "2022 Current liabilities - Annual leave",
+              "value": "636605"
+            },
+            {
+              "key": "2021 Current liabilities - Annual leave",
+              "value": "494718"
+            },
+            {
+              "key": "Current liabilities - Long service leave",
+              "value": ""
+            },
+            {
+              "key": "2022 Current liabilities - Long service leave",
+              "value": "296968"
+            },
+            {
+              "key": "2021 Current liabilities - Long service leave",
+              "value": "252829"
+            },
+            {
+              "key": "Current liabilities - Total current",
+              "value": ""
+            },
+            {
+              "key": "2022 Current liabilities - Total current",
+              "value": "933573"
+            },
+            {
+              "key": "2021 Current liabilities - Total current",
+              "value": "747547"
+            },
+            {
+              "key": "Non-current liabilities - Long service leave",
+              "value": ""
+            },
+            {
+              "key": "2022 Non-current liabilities - Long service leave",
+              "value": "56389"
+            },
+            {
+              "key": "2021 Non-current liabilities - Long service leave",
+              "value": "59341"
+            },
+            {
+              "key": "Non-current liabilities - Total liabilities",
+              "value": ""
+            },
+            {
+              "key": "2022 Non-current liabilities - Total liabilities",
+              "value": "989962"
+            },
+            {
+              "key": "2021 Non-current liabilities - Total liabilities",
+              "value": "806888"
+            },
+            {
+              "key": "Issued capital - Ordinary shares - fully paid",
+              "value": ""
+            },
+            {
+              "key": "2022 Issued capital - Ordinary shares - fully paid",
+              "value": "1375700602"
+            },
+            {
+              "key": "2021 Issued capital - Ordinary shares - fully paid",
+              "value": "1375700602"
+            },
+            {
+              "key": "2022 Issued capital amount",
+              "value": "39992575"
+            },
+            {
+              "key": "2021 Issued capital amount",
+              "value": "39992575"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 39,
+          "title": "Share Movements",
+          "data": [
+            {
+              "key": "Share Movements - Balance",
+              "value": "1 July 2020"
+            },
+            {
+              "key": "Share Movements - Shares",
+              "value": "1368660602"
+            },
+            {
+              "key": "Share Movements - Amount",
+              "value": "39851775"
+            },
+            {
+              "key": "Share Movements - Shares issued on the exercise of options (12 October 2020)",
+              "value": "7040000"
+            },
+            {
+              "key": "Share Movements - Issue Price",
+              "value": "0.02"
+            },
+            {
+              "key": "Share Movements - Amount",
+              "value": "140800"
+            },
+            {
+              "key": "Share Movements - Balance",
+              "value": "30 June 2021"
+            },
+            {
+              "key": "Share Movements - Shares",
+              "value": "1375700602"
+            },
+            {
+              "key": "Share Movements - Amount",
+              "value": "39992575"
+            },
+            {
+              "key": "Share Movements - Balance",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Share Movements - Shares",
+              "value": "1375700602"
+            },
+            {
+              "key": "Share Movements - Amount",
+              "value": "39992575"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 40,
+          "title": "Note 19. Issued capital",
+          "data": [
+            {
+              "key": "Investment strategy",
+              "value": "The consolidated entity would look to raise capital when an opportunity to invest in a business or company was seen as value-adding relative to the current Company's share price at the time of the investment. The consolidated entity is not actively pursuing additional investments in the short term as it continues to integrate and grow its existing businesses in order to maximise synergies."
+            },
+            {
+              "key": "Risk management policy",
+              "value": "The capital risk management policy remains unchanged during the current reporting period."
+            },
+            {
+              "key": "Default events",
+              "value": "There have been no events of default on the financing arrangements during the financial year."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 40,
+          "title": "Note 20. Reserves",
+          "data": [
+            {
+              "key": "Foreign currency reserve and Share-based payments reserve",
+              "value": "The main entry combines foreign currency reserve and share-based payments reserve, which significantly increased from a negative value of -$163.2M in 2021 to $3.26B in 2022. There's also a secondary line item showing a modest increase from $466,825 in 2021 to $513,264 in 2022."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 40,
+          "title": "Consolidated Currency Payments Reserve Statement",
+          "data": [
+            {
+              "key": "Balance at 1 July 2020",
+              "value": "Total: $671,828 (205,003) - Initial balance including foreign currency translation."
+            },
+            {
+              "key": "Foreign currency translation and lapsed options",
+              "value": "Notable events include a significant foreign currency translation loss of $205,003 in the first period and lapsed options of $120,000 in the second period."
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "Total: $513,264 reflecting the reserves."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 56,
+          "title": "Shareholder Information",
+          "data": [
+            {
+              "key": "Largest Shareholder",
+              "value": "PUDU INVESTMENT (AUSTRALIA) PTY LTD"
+            },
+            {
+              "key": "Number Held (Largest)",
+              "value": "224,643,616"
+            },
+            {
+              "key": "Percentage Held (Largest)",
+              "value": "16.33"
+            },
+            {
+              "key": "Second Largest Shareholder",
+              "value": "YUNG SHING"
+            },
+            {
+              "key": "Number Held (Second Largest)",
+              "value": "150,000,000"
+            },
+            {
+              "key": "Percentage Held (Second Largest)",
+              "value": "10.90"
+            },
+            {
+              "key": "Total Shares Held by Top 19 Shareholders",
+              "value": "985,756,311"
+            },
+            {
+              "key": "Total Percentage Held by Top 19 Shareholders",
+              "value": "71.65"
+            },
+            {
+              "key": "Options Over Ordinary Shares",
+              "value": "46,840,000"
+            },
+            {
+              "key": "Number of Holders of Options",
+              "value": "30"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": false,
+      "elements": []
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 6,
+          "title": "Rectifier Technologies Ltd Directors' report",
+          "data": [
+            {
+              "key": "Financial Year Ended",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Directors",
+              "value": "Mr. Ying Ming Wang, Mr. Yanbin Wang, Mr. Valentino Vescovi, Mr. Nigel Machin"
+            },
+            {
+              "key": "Principal Activities",
+              "value": "Designing and manufacturing high-efficiency power rectifiers and producing electronic and specialised magnetic components."
+            },
+            {
+              "key": "Dividends",
+              "value": "Final dividend paid during 30 June 2022 of nil cents (for the year ended 30 June 2021: 0.1 cents) per ordinary share."
+            },
+            {
+              "key": "Total Dividends Paid",
+              "value": "$1,375,701 for the dividends paid on 8 December 2020, referring to the 30 June 2020 financial year."
+            },
+            {
+              "key": "Profit for the Financial Year",
+              "value": "$491,955 (30 June 2021: $540,379)"
+            },
+            {
+              "key": "Significant Changes",
+              "value": "There were no significant changes in the state of affairs of the consolidated entity during the financial year."
+            },
+            {
+              "key": "Subsequent Matters",
+              "value": "On 2 September 2022, the loan from ANZ with the carrying amount of the loan AUD 2,760,321 as of 30 June 2022 was discharged and fully paid. On 2 September 2022, a loan from WBC of $5,000,000 was drawn."
+            },
+            {
+              "key": "Expected Loan Term",
+              "value": "5 years with an indicative loan interest of 4.13% p.a. (variable rate) and repayment arrangement principal and interest up to 28 July 2027."
+            },
+            {
+              "key": "Environmental Regulation",
+              "value": "The consolidated entity is not subject to any significant environmental regulation under Australian Commonwealth or State law."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 21,
+          "title": "Notes to the financial statements",
+          "data": [
+            {
+              "key": "date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "significant_accounting_policies",
+              "value": "Subsidiaries are all those entities over which the consolidated entity has control. Intercompany transactions are eliminated."
+            },
+            {
+              "key": "foreign_currency_translation",
+              "value": "The financial statements are presented in Australian dollars."
+            },
+            {
+              "key": "revenue_recognition",
+              "value": "Revenue from contracts with customers recognized based on performance obligations."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 27,
+          "title": "Significant accounting policies and critical accounting judgements",
+          "data": [
+            {
+              "key": "New Accounting Standards",
+              "value": "The consolidated entity has not yet assessed the impact of these new or amended Accounting Standards and Interpretations."
+            },
+            {
+              "key": "Critical accounting judgements",
+              "value": "Management continually evaluates its judgements and estimates that affect the financial statements."
+            },
+            {
+              "key": "Provision for impairment of inventories",
+              "value": "The provision for impairment requires estimation and judgement based on recent sales experience."
+            },
+            {
+              "key": "R&D tax rebate",
+              "value": "The R&D rebate is recognised on an accrual basis, with an estimate made for the refund."
+            },
+            {
+              "key": "Income tax",
+              "value": "Significant judgement is required in determining the provision for income tax."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 28,
+          "title": "Operating Segments Identification",
+          "data": [
+            {
+              "key": "Segment Description",
+              "value": "The consolidated entity is organised into 4 operating segments."
+            },
+            {
+              "key": "EBITDA Measurement",
+              "value": "The CODM reviews EBITDA which excludes non-recurring expenditures."
+            },
+            {
+              "key": "Intersegment Transactions",
+              "value": "Intersegment transactions were made at market rates."
+            },
+            {
+              "key": "Major Customers Revenue",
+              "value": "Revenue of $10,562,830 from two Australian customers in the EV and E&D segments."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 48,
+          "title": "Financial Performance Overview 2022 vs 2021",
+          "data": [
+            {
+              "key": "Profit after income tax",
+              "value": "$229,496"
+            },
+            {
+              "key": "Total comprehensive income",
+              "value": "$229,496"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 48,
+          "title": "Balance Sheet Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Total current assets",
+              "value": "$2,287,673"
+            },
+            {
+              "key": "Total assets",
+              "value": "$3,661,150"
+            },
+            {
+              "key": "Total current liabilities",
+              "value": "$2,292,003"
+            },
+            {
+              "key": "Total liabilities",
+              "value": "$1,669,157"
+            },
+            {
+              "key": "Foreign currency reserve",
+              "value": "$50,647"
+            },
+            {
+              "key": "Share-based payments reserve",
+              "value": "$510,000"
+            },
+            {
+              "key": "Accumulated losses",
+              "value": "-$38,561,229"
+            },
+            {
+              "key": "Total equity",
+              "value": "$1,991,993"
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": false,
+      "elements": []
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 199,
+    "EUR": 5,
+    "AUD": 113
+  },
+  "sha1": "3bb894b4201667baf60b0b2c8a47109fa2357acb"
+}

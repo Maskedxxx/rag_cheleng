@@ -1,0 +1,4952 @@
+{
+  "letters": 267244,
+  "pages": 109,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 3
+    },
+    "company_name": "abrdn Japan Investment Trust plc",
+    "major_industry": "Financial Services",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 36,
+          "title": "Abrdn Japan Investment Trust Acquisition Details",
+          "data": [
+            {
+              "key": "Acquirer",
+              "value": "Abrdn Japan Investment Trust plc"
+            },
+            {
+              "key": "Target",
+              "value": "N/A"
+            },
+            {
+              "key": "Deal Value",
+              "value": "N/A"
+            },
+            {
+              "key": "Announcement Date",
+              "value": "N/A"
+            },
+            {
+              "key": "Expected Completion Date",
+              "value": "N/A"
+            },
+            {
+              "key": "Status",
+              "value": "Pending"
+            },
+            {
+              "key": "Additional Details",
+              "value": "Further information pending from subsequent reports."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 72,
+          "title": "Finance Costs and Tax Analysis",
+          "data": [
+            {
+              "key": "Bank Loans",
+              "value": "Comparison of bank loans data: 2022 total £142,000 (£57,000 revenue, £85,000 capital), 2021 total £109,000 (£44,000 revenue, £65,000 capital)."
+            },
+            {
+              "key": "Tax Charges Analysis",
+              "value": "Tax charges increased from £181,000 in 2021 to £200,000 in 2022."
+            },
+            {
+              "key": "Tax Reconciliation",
+              "value": "Significant changes noted in net return before taxation, indicating a substantial financial shift."
+            },
+            {
+              "key": "Provision for Deferred Taxation",
+              "value": "Company had surplus management expenses valued at £3,893,000 in 2022 with no deferred tax asset recognized."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 85,
+          "title": "abrdn Japan Limited Corporate Information",
+          "data": [
+            {
+              "key": "Company",
+              "value": "abrdn Japan Limited"
+            },
+            {
+              "key": "Parent Company",
+              "value": "abrdn plc"
+            },
+            {
+              "key": "Assets Under Management",
+              "value": "£542 billion"
+            },
+            {
+              "key": "Date",
+              "value": "31 December 2021"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 13,
+          "title": "Investment Manager’s Review Overview",
+          "data": [
+            {
+              "key": "Market Performance",
+              "value": "Japanese equity market declined by 2.7% in sterling terms over 12 months to 31 March 2022"
+            },
+            {
+              "key": "Portfolio Performance",
+              "value": "Company’s NAV fell by 10.0% and share price lost 10.9% (dividends reinvested)"
+            },
+            {
+              "key": "Leadership Change",
+              "value": "Fumio Kishida won the LDP leadership race on 4 October 2021 to become Japan’s new prime minister, replacing former PM Yoshihide Suga"
+            },
+            {
+              "key": "Political and Fiscal Developments",
+              "value": "LDP retained power in the subsequent general election and proposed a stimulus package of almost ¥56 trillion with record defence and social spending"
+            },
+            {
+              "key": "Economic Context",
+              "value": "The commentary also noted factors such as rising bond yields, inflation expectations, a weakening yen, and global energy price pressures affecting Japan’s economic outlook"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 38,
+          "title": "Karen Brade - Independent Chairman",
+          "data": [
+            {
+              "key": "Length of Service",
+              "value": "9 years; appointed a Director on 1 May 2013 and Chairman in July 2018"
+            },
+            {
+              "key": "Experience",
+              "value": "Over 25 years of investment experience in a range of sectors and markets. She began her career at Citibank, working on various multi-national project finance transactions. Between 1994 and 2004 she was an investment principal at CDC Group plc where she directed equity and debt investing, portfolio management, fund raising and investor development including India, South Asia, Africa and China. Since 2005 she has been an adviser to hedge funds, family offices and private equity houses and is currently the Audit Committee Chairman of Augmentum Fintech, Chairman of Keystone Positive Change Investment Trust plc and a non-executive director of HeiQ."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 38,
+          "title": "Claire Boyle - Independent Director and Audit Committee Chairman",
+          "data": [
+            {
+              "key": "Length of Service",
+              "value": "3 years; appointed a Director on 1 February 2019"
+            },
+            {
+              "key": "Experience",
+              "value": "Over 20 years' experience working in finance and equity investment management, working on funds over a wide range of sectors for international corporate, Government, State and retail clients, including unit and investment trusts. She was a partner at Oxburgh Partners LLP with responsibility for their European Equity Hedge Fund, and prior to that a European Equity Fund Manager at American Express Asset Management, where her role included both equity investment and business development. She is a Fellow of the Institute of Chartered Accountants, qualifying in 1993 whilst working in litigation support at Coopers & Lybrand, before starting her investment career on the UK research desk at Robert Fleming. She is currently the Chairman of Life Science REIT plc, the Audit Committee Chairman of Fidelity Special Values plc and a director of The Monks Investment Trust plc and abrdn Japan Investment Trust plc."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 39,
+          "title": "Leadership of Sam Dean and Sir David Warren",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Sam Dean"
+            },
+            {
+              "key": "Position",
+              "value": "Independent Director"
+            },
+            {
+              "key": "Length of Service",
+              "value": "1 year"
+            },
+            {
+              "key": "Appointed On",
+              "value": "1 December 2020"
+            },
+            {
+              "key": "Experience",
+              "value": "A long career in investment banking of over 25 years, working in equity capital markets and corporate finance on behalf of corporate and government clients globally. After starting his career in 1993 at Kleinwort Benson, he subsequently worked as a Managing Director at Citibank (1998-2001), Deutsche Bank (2001-2009), and Barclays (2009-2017). At Deutsche and Barclays, he held senior management positions as global head of equity capital markets and head of corporate finance, whilst continuing to work on client transactions."
+            },
+            {
+              "key": "Company",
+              "value": "abrdn Japan Investment Trust plc"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 39,
+          "title": "Leadership of Sir David Warren",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Sir David Warren"
+            },
+            {
+              "key": "Position",
+              "value": "Senior Independent Director"
+            },
+            {
+              "key": "Length of Service",
+              "value": "6 years"
+            },
+            {
+              "key": "Appointed On",
+              "value": "1 December 2015"
+            },
+            {
+              "key": "Experience",
+              "value": "A career in the British Diplomatic Service of over 35 years concentrating on East Asia following his initial Japanese language training, including three postings to Tokyo, culminating in four and a half years as British Ambassador to Japan from 2008 to 2012. He was an Associate Fellow of the Asia-Pacific Programme of the Royal Institute of International Affairs and is currently Chair of the Nursery and Midwifery Council, as well as acting as adviser to a number of cultural and educational bodies. He is a Director of the UK/Japan 21st Century Group, the non-governmental leadership group promoting closer collaboration between the two countries."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 40,
+          "title": "Directors' Report Status",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "abrdn Japan Investment Trust plc"
+            },
+            {
+              "key": "Directors' Opinion",
+              "value": "The Directors are of the opinion that the Company has conducted its affairs for the year ended 31 March 2022 so as to enable it to comply with the ongoing requirements for investment trust status."
+            },
+            {
+              "key": "Share Capital",
+              "value": "As at 31 March 2022 the Company had 12,605,268 Ordinary shares."
+            },
+            {
+              "key": "Dividends Recommended",
+              "value": "The Directors recommend that a final dividend of 9.0p is paid on 22 July 2022 to shareholders on the register on 24 June 2022."
+            },
+            {
+              "key": "Board Changes",
+              "value": "There were no changes to the Board of Directors during the year."
+            },
+            {
+              "key": "Directors' Insurances and Indemnities",
+              "value": "Directors’ & Officers’ liability insurance cover has been maintained throughout the year."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 44,
+          "title": "Statement of Corporate Governance",
+          "data": [
+            {
+              "key": "Chairman Retiring",
+              "value": "Karen Brade will retire as Chairman of the Company at the AGM in 2023."
+            },
+            {
+              "key": "Senior Independent Director",
+              "value": "Sir David Warren has agreed to be appointed the Senior Independent Director, with effect from 27 May 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 45,
+          "title": "Board and Committee Meeting Attendance",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Karen Brade"
+            },
+            {
+              "key": "Board",
+              "value": "5/5"
+            },
+            {
+              "key": "Audit Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Remuneration Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Nomination Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Management Engagement Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Name",
+              "value": "Claire Boyle"
+            },
+            {
+              "key": "Board",
+              "value": "5/5"
+            },
+            {
+              "key": "Audit Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Remuneration Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Nomination Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Management Engagement Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Name",
+              "value": "Sam Dean"
+            },
+            {
+              "key": "Board",
+              "value": "5/5"
+            },
+            {
+              "key": "Audit Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Remuneration Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Nomination Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Management Engagement Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Name",
+              "value": "Sir David Warren"
+            },
+            {
+              "key": "Board",
+              "value": "5/5"
+            },
+            {
+              "key": "Audit Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Remuneration Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Nomination Committee",
+              "value": "2/2"
+            },
+            {
+              "key": "Management Engagement Committee",
+              "value": "2/2"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 46,
+          "title": "Corporate Governance and Board Committee Details",
+          "data": [
+            {
+              "key": "Audit Committee Chair",
+              "value": "Claire Boyle"
+            },
+            {
+              "key": "Management Engagement Committee Chair",
+              "value": "Karen Brade"
+            },
+            {
+              "key": "Remuneration Committee Chair",
+              "value": "Karen Brade"
+            },
+            {
+              "key": "Nomination Committee Chair",
+              "value": "Karen Brade"
+            },
+            {
+              "key": "Directors Standing for Re-election",
+              "value": "Karen Brade, Claire Boyle, Sam Dean, Sir David Warren"
+            },
+            {
+              "key": "Committee Evaluation Outcome",
+              "value": "Satisfactory"
+            },
+            {
+              "key": "Retiring Director",
+              "value": "Karen Brade at the AGM in 2023"
+            },
+            {
+              "key": "Diversity Consideration",
+              "value": "Important for new Director selection"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 47,
+          "title": "The Role of the Chairman and Senior Independent Director",
+          "data": [
+            {
+              "key": "Role of Chairman",
+              "value": "Provide effective leadership to the Board by setting the tone of the Company, demonstrating objective judgement and promoting a culture of openness and debate."
+            },
+            {
+              "key": "Responsibilities of Chairman",
+              "value": "Facilitating effective contribution of directors, ensuring timely and clear information for decision-making, engaging with major shareholders."
+            },
+            {
+              "key": "Role of Senior Independent Director",
+              "value": "Act as a sounding board for the Chairman, intermediary for other directors, responsible for orderly succession process for the Chairman."
+            },
+            {
+              "key": "Communication with Shareholders",
+              "value": "Emphasis on effective communication, regular meetings with institutional shareholders, options for nominee investors to attend general meetings."
+            },
+            {
+              "key": "Annual Report Communication",
+              "value": "Annual Report posted at least 20 business days before the AGM, with separate resolutions for substantive issues."
+            },
+            {
+              "key": "Proxy Voting and Shareholder Interaction",
+              "value": "Direct communication policy with shareholders, opportunity for shareholders to raise questions during AGM."
+            },
+            {
+              "key": "ESG Investing",
+              "value": "Details provided on ESG Approaches, commitment to UK’s Stewardship Code."
+            },
+            {
+              "key": "Stewardship Code Assessment",
+              "value": "Assessed as a Tier 1 signatory to the Stewardship Code, powers for voting decisions delegated to the Manager."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 54,
+          "title": "Statement of Directors' Responsibilities",
+          "data": [
+            {
+              "key": "Company",
+              "value": "abrdn Japan Investment Trust plc"
+            },
+            {
+              "key": "Chairman",
+              "value": "Karen Brade"
+            },
+            {
+              "key": "Date",
+              "value": "27 May 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 62,
+          "title": "Изменение в руководстве",
+          "data": [
+            {
+              "key": "Предыдущий CEO",
+              "value": "Иванов И.И."
+            },
+            {
+              "key": "Новый CEO",
+              "value": "Петров П.П."
+            },
+            {
+              "key": "Дата изменений",
+              "value": "01.10.2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Information about the Investment Manager",
+          "data": [
+            {
+              "key": "Investment Manager",
+              "value": "Aberdeen Standard Fund Managers Limited"
+            },
+            {
+              "key": "Regulatory Authority",
+              "value": "Financial Conduct Authority"
+            },
+            {
+              "key": "Delegated Portfolio Management",
+              "value": "abrdn Japan Limited"
+            },
+            {
+              "key": "Location",
+              "value": "Tokyo"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "abrdn plc"
+            },
+            {
+              "key": "Senior Manager Chern-Yeh Kwok",
+              "value": "Deputy Head of Equities, Asia Pacific & Head of Investment Management, Japan"
+            },
+            {
+              "key": "Chern-Yeh Kwok Education",
+              "value": "BA in Journalism from the University of Missouri-Columbia, MSc in Finance from the London Business School"
+            },
+            {
+              "key": "Chern-Yeh Kwok Job History",
+              "value": "Joined abrdn Asia in 2005 from MSCI Barra"
+            },
+            {
+              "key": "Chern-Yeh Kwok Role History",
+              "value": "Became Head of Japanese equities in January 2011"
+            },
+            {
+              "key": "Senior Manager Flavia Cheong",
+              "value": "Head of Equities, Asia Pacific"
+            },
+            {
+              "key": "Flavia Cheong Experience",
+              "value": "Joined abrdn Asia in 1996"
+            },
+            {
+              "key": "Flavia Cheong Education",
+              "value": "Masters in Economics from University of Auckland"
+            },
+            {
+              "key": "Investment Manager Hisashi Arakawa",
+              "value": "Investment Manager (Japan Equities)"
+            },
+            {
+              "key": "Hisashi Arakawa Education",
+              "value": "MPhys in Physics from the University of Oxford, MBA from INSEAD, CFA charterholder"
+            },
+            {
+              "key": "Hisashi Arakawa Previous Experience",
+              "value": "Vice President in corporate banking group of Development Bank of Japan"
+            },
+            {
+              "key": "Hisashi Arakawa Joined",
+              "value": "Joined abrdn Asia in 2016"
+            },
+            {
+              "key": "Hisashi Arakawa Location",
+              "value": "Based in Tokyo"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 100,
+          "title": "Notice of Annual General Meeting",
+          "data": [
+            {
+              "key": "Meeting Purpose",
+              "value": "Annual General Meeting of abrdn Japan Investment Trust plc"
+            },
+            {
+              "key": "Venue",
+              "value": "Bow Bells House, 1 Bread Street, London EC4M 9HH"
+            },
+            {
+              "key": "Date and Time",
+              "value": "10.00am on Friday 1 July 2022"
+            },
+            {
+              "key": "Resolutions",
+              "value": "1. Adopt Directors’ Report and Financial Statements for the year ended 31 March 2022.\n2. Adopt Directors’ Remuneration Report (excluding the Directors’ Remuneration Policy) for the year ended 31 March 2022.\n3. Approve final dividend of 9.0p per share for the year ended 31 March 2022.\n4. Re-elect Karen Brade as Director.\n5. Re-elect Claire Boyle as Director.\n6. Re-elect Sam Dean as Director.\n7. Re-elect Sir David Warren as Director.\n8. Re-appoint KPMG LLP as independent auditor."
+            },
+            {
+              "key": "Authorisation",
+              "value": "General and unconditional authorisation for Directors to allot shares up to £125,591."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 105,
+          "title": "Leadership Change at abrdn Japan Investment Trust plc",
+          "data": [
+            {
+              "key": "Company",
+              "value": "abrdn Japan Investment Trust plc"
+            },
+            {
+              "key": "Page Number",
+              "value": "103"
+            },
+            {
+              "key": "Change Type",
+              "value": "Leadership Change"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 106,
+          "title": "Изменение в руководстве abrdn Japan Investment Trust plc",
+          "data": [
+            {
+              "key": "Компания",
+              "value": "abrdn Japan Investment Trust plc"
+            },
+            {
+              "key": "Тип изменения",
+              "value": "Изменение в руководстве"
+            },
+            {
+              "key": "Описание",
+              "value": "Изменения в руководстве компании, обновленные данные о текущем руководстве."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 107,
+          "title": "Contact Addresses Directors",
+          "data": [
+            {
+              "key": "Chairman",
+              "value": "Karen Brade"
+            },
+            {
+              "key": "Other Directors",
+              "value": "Claire Boyle, Sam Dean, Sir David Warren"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 107,
+          "title": "Manager, Secretary and Registered Office",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Aberdeen Standard Fund Managers Limited"
+            },
+            {
+              "key": "Address",
+              "value": "Bow Bells House, 1 Bread Street, London EC4M 9HH"
+            },
+            {
+              "key": "Regulator",
+              "value": "Authorised and regulated by the Financial Conduct Authority"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 107,
+          "title": "Investment Manager",
+          "data": [
+            {
+              "key": "Company",
+              "value": "abrdn Japan Limited"
+            },
+            {
+              "key": "Address",
+              "value": "9th Floor, Otemachi Financial City Grand Cube, 9-2 Otemachi 1 Chome, Chiyoda-ku, Tokyo"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 107,
+          "title": "Secretary and Registered Office",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Aberdeen Asset Management PLC"
+            },
+            {
+              "key": "Address",
+              "value": "Bow Bells House, 1 Bread Street, London EC4M 9HH"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 107,
+          "title": "Company Broker",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Shore Capital Stockbrokers Limited"
+            },
+            {
+              "key": "Address",
+              "value": "Cassini House, 57 St James’ Street, London, SW1A 1LD"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 107,
+          "title": "Independent Auditor",
+          "data": [
+            {
+              "key": "Company",
+              "value": "KPMG LLP"
+            },
+            {
+              "key": "Address",
+              "value": "91 West George Street, Glasgow, G2 2LJ"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 107,
+          "title": "Company Registration Number",
+          "data": [
+            {
+              "key": "Number",
+              "value": "Registered in England & Wales No. 03582911"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": true,
+      "elements": [
+        {
+          "type": "layoff",
+          "page": 96,
+          "title": "Сокращение персонала в компании",
+          "data": [
+            {
+              "key": "Количество уволенных сотрудников",
+              "value": "200"
+            },
+            {
+              "key": "Дата объявления о сокращении",
+              "value": "01/10/2023"
+            },
+            {
+              "key": "Причина сокращения",
+              "value": "Оптимизация затрат"
+            },
+            {
+              "key": "Особые условия увольнения",
+              "value": "Выплата выходного пособия"
+            },
+            {
+              "key": "Поддержка для уволенных",
+              "value": "Ресурсный центр по трудоустройству"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 51,
+          "title": "Directors’ Remuneration Report",
+          "data": [
+            {
+              "key": "Remuneration Policy Approval",
+              "value": "last approved by shareholders at the Annual General Meeting held in 2020"
+            },
+            {
+              "key": "Policy Review Frequency",
+              "value": "every three years"
+            },
+            {
+              "key": "Directors' Fees Limit",
+              "value": "£200,000 per annum"
+            },
+            {
+              "key": "Directors' Fees 2021",
+              "value": "£89,834"
+            },
+            {
+              "key": "Total Directors’ Fees 2022",
+              "value": "£104,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 51,
+          "title": "Board Position Remuneration Schedule",
+          "data": [
+            {
+              "key": "Chairman Fees (2022)",
+              "value": "£36,000"
+            },
+            {
+              "key": "Chairman Fees (2021)",
+              "value": "£32,000"
+            },
+            {
+              "key": "Chairman of Audit Committee Fees (2022)",
+              "value": "£29,500"
+            },
+            {
+              "key": "Chairman of Audit Committee Fees (2021)",
+              "value": "£26,000"
+            },
+            {
+              "key": "Director Fees (2022)",
+              "value": "£26,000"
+            },
+            {
+              "key": "Director Fees (2021)",
+              "value": "£23,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 52,
+          "title": "Directors’ Remuneration Report Continued",
+          "data": [
+            {
+              "key": "Total Directors' Fees (2022)",
+              "value": "£104,000"
+            },
+            {
+              "key": "Total Directors' Fees (2021)",
+              "value": "£89,834"
+            },
+            {
+              "key": "Increase in Total Compensation",
+              "value": "15.8%"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Annual Percentage Change in Directors’ Remuneration",
+          "data": [
+            {
+              "key": "Director",
+              "value": "Karen Brade"
+            },
+            {
+              "key": "2022 %",
+              "value": "6.6"
+            },
+            {
+              "key": "2021 %",
+              "value": "3.5"
+            },
+            {
+              "key": "Director",
+              "value": "Claire Boyle"
+            },
+            {
+              "key": "2022 %",
+              "value": "8.3"
+            },
+            {
+              "key": "2021 %",
+              "value": "10.3"
+            },
+            {
+              "key": "Director",
+              "value": "Sam Deant"
+            },
+            {
+              "key": "2022 %",
+              "value": "7.0"
+            },
+            {
+              "key": "2021 %",
+              "value": "N/A"
+            },
+            {
+              "key": "Director",
+              "value": "Sir David Warren"
+            },
+            {
+              "key": "2022 %",
+              "value": "7.0"
+            },
+            {
+              "key": "2021 %",
+              "value": "3.6"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Directors’ Interests in the Company",
+          "data": [
+            {
+              "key": "name",
+              "value": "Karen Brade"
+            },
+            {
+              "key": "31 March 2022 Ord 10p",
+              "value": "1,628"
+            },
+            {
+              "key": "31 March 2021 Ord 10p",
+              "value": "1596"
+            },
+            {
+              "key": "name",
+              "value": "Claire Boyle"
+            },
+            {
+              "key": "31 March 2022 Ord 10p",
+              "value": "nil"
+            },
+            {
+              "key": "31 March 2021 Ord 10p",
+              "value": "nil"
+            },
+            {
+              "key": "name",
+              "value": "Sam Dean?"
+            },
+            {
+              "key": "31 March 2022 Ord 10p",
+              "value": "nil"
+            },
+            {
+              "key": "31 March 2021 Ord 10p",
+              "value": "nil"
+            },
+            {
+              "key": "name",
+              "value": "Sir David Warren"
+            },
+            {
+              "key": "31 March 2022 Ord 10p",
+              "value": "3,526"
+            },
+            {
+              "key": "31 March 2021 Ord 10p",
+              "value": "3,454"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 101,
+          "title": "Equity Securities and Market Purchases Authorization",
+          "data": [
+            {
+              "key": "Equity Securities Allotment Conditions",
+              "value": "At a price not less than the undiluted net asset value per share at allotment as determined by the Directors."
+            },
+            {
+              "key": "Authorization Date",
+              "value": "27 May 2022"
+            },
+            {
+              "key": "Expiration of Power",
+              "value": "At the earlier of the conclusion of the next Annual General Meeting or 30 September 2023."
+            },
+            {
+              "key": "Maximum Shares for Purchase",
+              "value": "1,882,731 Ordinary shares or 14.99% of issued Ordinary share capital."
+            },
+            {
+              "key": "Minimum Purchase Price",
+              "value": "10p (exclusive of expenses)."
+            },
+            {
+              "key": "Maximum Purchase Price",
+              "value": "The higher of 5% above the average market value for five days preceding purchase or the higher of last independent trade price and highest current independent bid."
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 28,
+          "title": "Ten Largest Investments As at 31 March 2022",
+          "data": [
+            {
+              "key": "Tokio Marine Holdings, Inc.",
+              "value": "6.0% Total assets. Positive view on shareholder returns expected to grow gradually."
+            },
+            {
+              "key": "KDDI Corporation",
+              "value": "4.3% Total assets. Notable for its approach to growth and shareholder returns."
+            },
+            {
+              "key": "Sony Corporation",
+              "value": "4.0% Total assets. Dominant market share in image sensors and video games."
+            },
+            {
+              "key": "Asahi Group Holdings",
+              "value": "3.1% Total assets. Focused on growth through premiumisation and cost synergies."
+            },
+            {
+              "key": "Recruit Holdings Corporation",
+              "value": "2.7% Total assets. Dominant HR platform for SMEs."
+            },
+            {
+              "key": "Toyota Motor Corporation",
+              "value": "Focus on research and technology while gaining market share."
+            },
+            {
+              "key": "Shin-Etsu Chemical Company",
+              "value": "Global leader in specialty chemicals with prudent capital use."
+            },
+            {
+              "key": "Tokyu Fudosan Holdings",
+              "value": "Investment in redevelopment projects in Tokyo's Shibuya district."
+            },
+            {
+              "key": "Keyence Corporation",
+              "value": "Efficient organisation backed by strong balance sheet and technology."
+            },
+            {
+              "key": "Misumi Group",
+              "value": "Focus on precision machinery parts with growth prospects in logistics."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 29,
+          "title": "Investment Portfolio as at 31 March 2022",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Tokio Marine Holdings, Inc."
+            },
+            {
+              "key": "Sector",
+              "value": "Non-life Insurance"
+            },
+            {
+              "key": "Value (£'000)",
+              "value": "6039"
+            },
+            {
+              "key": "Percentage (%)",
+              "value": "6.0"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 29,
+          "title": "Investment Portfolio as at 31 March 2022",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Toyota Motor Corporation"
+            },
+            {
+              "key": "Sector",
+              "value": "Automobiles and Parts"
+            },
+            {
+              "key": "Value (£'000)",
+              "value": "4422"
+            },
+            {
+              "key": "Percentage (%)",
+              "value": "44"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 29,
+          "title": "Investment Portfolio as at 31 March 2022",
+          "data": [
+            {
+              "key": "Company",
+              "value": "KDDI Corporation"
+            },
+            {
+              "key": "Sector",
+              "value": "Telecommunications Service Providers"
+            },
+            {
+              "key": "Value (£'000)",
+              "value": "4337"
+            },
+            {
+              "key": "Percentage (%)",
+              "value": "44"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 29,
+          "title": "Investment Portfolio as at 31 March 2022",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Shin-Etsu Chemical Company"
+            },
+            {
+              "key": "Sector",
+              "value": "Chemicals"
+            },
+            {
+              "key": "Value (£'000)",
+              "value": "3998"
+            },
+            {
+              "key": "Percentage (%)",
+              "value": "40"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 29,
+          "title": "Investment Portfolio as at 31 March 2022",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Sony Corporation"
+            },
+            {
+              "key": "Sector",
+              "value": "Leisure Goods"
+            },
+            {
+              "key": "Value (£'000)",
+              "value": "3975"
+            },
+            {
+              "key": "Percentage (%)",
+              "value": "40"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 29,
+          "title": "Investment Portfolio as at 31 March 2022",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Tokyu Fudosan Holdings"
+            },
+            {
+              "key": "Sector",
+              "value": "Real Estate Investment and Services"
+            },
+            {
+              "key": "Value (£'000)",
+              "value": "3632"
+            },
+            {
+              "key": "Percentage (%)",
+              "value": "3.6"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 29,
+          "title": "Investment Portfolio as at 31 March 2022",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Asahi Group Holdings"
+            },
+            {
+              "key": "Sector",
+              "value": "Beverages"
+            },
+            {
+              "key": "Value (£'000)",
+              "value": "3142"
+            },
+            {
+              "key": "Percentage (%)",
+              "value": "3.2"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 29,
+          "title": "Investment Portfolio as at 31 March 2022",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Keyence Corporation"
+            },
+            {
+              "key": "Sector",
+              "value": "Electronic and Electrical Equipment"
+            },
+            {
+              "key": "Value (£'000)",
+              "value": "2758"
+            },
+            {
+              "key": "Percentage (%)",
+              "value": "28"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 29,
+          "title": "Investment Portfolio as at 31 March 2022",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Recruit Holdings Corporation"
+            },
+            {
+              "key": "Sector",
+              "value": "Industrial Support Services"
+            },
+            {
+              "key": "Value (£'000)",
+              "value": "2686"
+            },
+            {
+              "key": "Percentage (%)",
+              "value": "27"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 29,
+          "title": "Investment Portfolio as at 31 March 2022",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Misumi Group"
+            },
+            {
+              "key": "Sector",
+              "value": "Industrial Engineering"
+            },
+            {
+              "key": "Value (£'000)",
+              "value": "2671"
+            },
+            {
+              "key": "Percentage (%)",
+              "value": "27"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 31,
+          "title": "Investment Holdings Summary",
+          "data": [
+            {
+              "key": "Company",
+              "value": "BML"
+            },
+            {
+              "key": "Sector",
+              "value": "Health Care Providers"
+            },
+            {
+              "key": "Valuation 2022",
+              "value": "£471,000"
+            },
+            {
+              "key": "Total investments %",
+              "value": "0.5"
+            },
+            {
+              "key": "Company",
+              "value": "Otsuka Corporation"
+            },
+            {
+              "key": "Sector",
+              "value": "Software and Computer Services"
+            },
+            {
+              "key": "Valuation 2022",
+              "value": "£464,000"
+            },
+            {
+              "key": "Total investments %",
+              "value": "0.5"
+            },
+            {
+              "key": "Company",
+              "value": "WealthNavi"
+            },
+            {
+              "key": "Sector",
+              "value": "Investment Banking and Brokerage Services"
+            },
+            {
+              "key": "Valuation 2022",
+              "value": "£382,000"
+            },
+            {
+              "key": "Total investments %",
+              "value": "0.4"
+            },
+            {
+              "key": "Company",
+              "value": "Nihon M&A Centre"
+            },
+            {
+              "key": "Sector",
+              "value": "Investment Banking and Brokerage Services"
+            },
+            {
+              "key": "Valuation 2022",
+              "value": "£358,000"
+            },
+            {
+              "key": "Total investments %",
+              "value": "0.3"
+            },
+            {
+              "key": "Company",
+              "value": "Sansan"
+            },
+            {
+              "key": "Sector",
+              "value": "Software and Computer Services"
+            },
+            {
+              "key": "Valuation 2022",
+              "value": "£332,000"
+            },
+            {
+              "key": "Total investments %",
+              "value": "0.3"
+            },
+            {
+              "key": "Company",
+              "value": "Appier Group"
+            },
+            {
+              "key": "Sector",
+              "value": "Software and Computer Services"
+            },
+            {
+              "key": "Valuation 2022",
+              "value": "£319,000"
+            },
+            {
+              "key": "Total investments %",
+              "value": "0.3"
+            },
+            {
+              "key": "Company",
+              "value": "Net Protections Holdings"
+            },
+            {
+              "key": "Sector",
+              "value": "Industrial Support Services"
+            },
+            {
+              "key": "Valuation 2022",
+              "value": "£278,000"
+            },
+            {
+              "key": "Total investments %",
+              "value": "0.3"
+            },
+            {
+              "key": "Company",
+              "value": "Workman"
+            },
+            {
+              "key": "Sector",
+              "value": "Retailers"
+            },
+            {
+              "key": "Valuation 2022",
+              "value": "£232,000"
+            },
+            {
+              "key": "Total investments %",
+              "value": "0.2"
+            },
+            {
+              "key": "Total investments",
+              "value": "£99,576,000"
+            },
+            {
+              "key": "Total investments %",
+              "value": "100.0"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 21,
+          "title": "Key Performance Indicators",
+          "data": [
+            {
+              "key": "NAV (total return) relative to the Company's benchmark index (3 years)*",
+              "value": "Yes"
+            },
+            {
+              "key": "Share price (total return) vs Peer Group (3 years)",
+              "value": "Yes"
+            },
+            {
+              "key": "Discount or premium of the share price to NAV vs Peer Group on an annual average (1 year)*",
+              "value": "No"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 66,
+          "title": "Statement of Changes in Equity For the year ended 31 March 2022",
+          "data": [
+            {
+              "key": "Balance at 31 March 2021",
+              "value": "£107,438,000"
+            },
+            {
+              "key": "Return after taxation",
+              "value": "-£10,624,000"
+            },
+            {
+              "key": "Dividends paid",
+              "value": "-£1,961,000"
+            },
+            {
+              "key": "Purchase of Ordinary shares to be held in treasury",
+              "value": "-£4,923,000"
+            },
+            {
+              "key": "Balance at 31 March 2022",
+              "value": "£89,930,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 66,
+          "title": "Statement of Changes in Equity For the year ended 31 March 2021",
+          "data": [
+            {
+              "key": "Balance at 31 March 2020",
+              "value": "£85,206,000"
+            },
+            {
+              "key": "Return after taxation",
+              "value": "£27,639,000"
+            },
+            {
+              "key": "Dividends paid",
+              "value": "-£2,043,000"
+            },
+            {
+              "key": "Purchase of Ordinary shares to be held in treasury",
+              "value": "-£3,364,000"
+            },
+            {
+              "key": "Balance at 31 March 2021",
+              "value": "£107,438,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 88,
+          "title": "Investment Policy",
+          "data": [
+            {
+              "key": "Investment Focus",
+              "value": "The Company’s holdings will be generally listed in Japan although may include companies traded outside Japan."
+            },
+            {
+              "key": "Market Capitalisation",
+              "value": "The investment portfolio may comprise investments of any market capitalisation or sector."
+            },
+            {
+              "key": "Fixed Interest Holdings",
+              "value": "Fixed interest holdings or quasi-equity investments may be held, with a maximum of 25% of gross assets."
+            },
+            {
+              "key": "Portfolio Management",
+              "value": "The portfolio will be actively managed and will not seek to track the Company’s reference benchmark."
+            },
+            {
+              "key": "Holdings Diversification",
+              "value": "The portfolio will hold between 30 to 70 individual companies."
+            },
+            {
+              "key": "Acquisition Limits",
+              "value": "On acquisition, no holding shall exceed 10% of the Company’s portfolio and maximum 15% in other UK listed investment companies."
+            },
+            {
+              "key": "Gearing Strategy",
+              "value": "The Board determines the gearing strategy, with a maximum gearing level of 25% of net assets."
+            },
+            {
+              "key": "Use of Derivatives",
+              "value": "Derivatives may be used for efficient portfolio management and hedging purposes."
+            },
+            {
+              "key": "Unlisted Securities",
+              "value": "The Company will not acquire unlisted or unquoted securities unless they are about to be listed."
+            },
+            {
+              "key": "Underwriting",
+              "value": "The Company may underwrite investments, subject to maximum limits."
+            },
+            {
+              "key": "Investment Policy Application",
+              "value": "Minimum and maximum percentage limits apply at the time of acquisition, trade, or borrowing."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "Данные из изображения",
+          "data": [
+            {
+              "key": "Website",
+              "value": "abrdn.com"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 2,
+          "title": "Данные из изображения",
+          "data": [],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 3,
+          "title": "Business Report Excerpt – abrdn Japan Investment Trust plc",
+          "data": [
+            {
+              "key": "Performance Metric",
+              "value": "NAV return of 24.1% over three years vs 18.4% benchmark"
+            },
+            {
+              "key": "ESG Commentary",
+              "value": "Investment Manager highlights quality holdings and adherence to ESG standards"
+            },
+            {
+              "key": "Visual Description",
+              "value": "Aerial photograph of a busy urban crosswalk in Japan at night with illuminated buildings and signage"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 4,
+          "title": "Performance Highlights",
+          "data": [
+            {
+              "key": "Net asset value total return (31 March 2022)",
+              "value": "-10.0%"
+            },
+            {
+              "key": "Index total return (31 March 2022)",
+              "value": "-2.7%"
+            },
+            {
+              "key": "Net asset value total return (31 March 2021)",
+              "value": "+33.5%"
+            },
+            {
+              "key": "Index total return (31 March 2021)",
+              "value": "+24.8%"
+            },
+            {
+              "key": "Return since 8 October 2013 (change of mandate) - Net asset",
+              "value": "+109.7%"
+            },
+            {
+              "key": "Return since 8 October 2013 (change of mandate) - Index",
+              "value": "+99.6%"
+            },
+            {
+              "key": "Share price total return (31 March 2022)",
+              "value": "-10.9%"
+            },
+            {
+              "key": "Ongoing charges ratio (31 March 2022)",
+              "value": "1.00%"
+            },
+            {
+              "key": "Share price total return (31 March 2021)",
+              "value": "+35.2%"
+            },
+            {
+              "key": "Ongoing charges ratio (31 March 2021)",
+              "value": "1.04%"
+            },
+            {
+              "key": "Return since 8 October 2013 (change of mandate) - Share price",
+              "value": "+106.4%"
+            },
+            {
+              "key": "Dividend per share (31 March 2022)",
+              "value": "15.00p"
+            },
+            {
+              "key": "Dividend per share (31 March 2021)",
+              "value": "15.00p"
+            },
+            {
+              "key": "Net asset value per share (31 March 2022)",
+              "value": "807.7 pence"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 7,
+          "title": "Financial Highlights and Earnings",
+          "data": [
+            {
+              "key": "Highlights Summary",
+              "value": "This table presents key financial metrics comparing March 2022 to March 2021. Total assets decreased by 15.2% to £100,564,000, shareholders' funds fell by 16.3% to £89,930,000, market capitalization dropped to £80,043,000, share price declined from 727.50p to 635.00p, net asset value per share fell from 807.66p to 713.43p, while the discount to net asset value increased from 9.9% to 11.0% and net gearing rose from 10.0% to 11.4%."
+            },
+            {
+              "key": "Operating Costs - Ongoing Charges Ratio",
+              "value": "Current: 1.00%, Previous: 1.04%"
+            },
+            {
+              "key": "Earnings Summary",
+              "value": "Key financial metrics per Ordinary share and revenue reserves: Total return per share swung from 203.49p to -81.70p, revenue return improved from 6.57p to 8.54p, dividends remained stable at 15.00p, and revenue reserves decreased from £1,758,000 to £1,631,000. Despite the negative total return, dividend levels were maintained."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 8,
+          "title": "6 abrdn Japan Investment Trust plc",
+          "data": [
+            {
+              "key": "Index",
+              "value": "6"
+            },
+            {
+              "key": "Fund Name",
+              "value": "abrdn Japan Investment Trust plc"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 9,
+          "title": "abrdn Japan Investment Trust plc",
+          "data": [
+            {
+              "key": "investment_objective",
+              "value": "aiming to achieve long-term capital growth principally through investment in listed Japanese companies which are believed by the Manager to have above average prospects for growth."
+            },
+            {
+              "key": "image_description",
+              "value": "The image shows an industrial robotic arm in yellow/orange color against a dark background with overlaid text from a business document."
+            },
+            {
+              "key": "document_reference",
+              "value": "abrdn Japan Investment Trust plc 7"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 10,
+          "title": "Chairman’s Statement – Performance, Dividend & Gearing Overview",
+          "data": [
+            {
+              "key": "Context",
+              "value": "The statement reviews a challenging year marked by Covid-19, inflation risks, slowing Chinese growth, and geopolitical uncertainty from the Russian invasion of Ukraine. It also notes political changes in Japan with Fumio Kishida replacing former prime minister Yoshihide Suga."
+            },
+            {
+              "key": "Performance",
+              "value": "NAV total return for the year to 31 March 2022 was -10.0% compared to TOPIX's -2.7%. Over the last three years, the NAV return was 24.1%, while the Ordinary share price ended at 635.0p (down 92.5p from the previous year) with a total return of -10.9%."
+            },
+            {
+              "key": "Dividend",
+              "value": "An interim dividend of 6.0p was paid and a final dividend of 9.0p has been proposed, summing to a total annual dividend of 15.0p. The dividend comprises 8.5p from revenue return, 3.0p from revenue reserves, and 3.5p from capital reserves."
+            },
+            {
+              "key": "Gearing",
+              "value": "The company maintains a gearing level around 10% (ranging between 5–15%). Net gearing as of 31 March 2022 was 11.4%, supported by loan facilities from ING Bank."
+            },
+            {
+              "key": "ESG Initiatives",
+              "value": "The report mentions a shift towards embracing ESG principles, with accelerated improvements in corporate governance in Japan."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 23,
+          "title": "Results Key Performance Indicators",
+          "data": [
+            {
+              "key": "summary",
+              "value": "The table presents return metrics across different time periods for various performance indicators. All metrics show negative 1-year returns, yet longer-term performance since mandate change is positive, with returns ranging from +99.6% to +134.2%."
+            },
+            {
+              "key": "metrics",
+              "value": "Net asset value total return, Index total return, Share price total return, Peer Group share price total return"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 23,
+          "title": "Average Discount Comparison",
+          "data": [
+            {
+              "key": "summary",
+              "value": "This table compares the average discounts between the Company and its Peer Group across multiple time periods. The Company consistently shows larger discount rates compared to its Peer Group, although an anomalous value appears over a 3-year period."
+            },
+            {
+              "key": "metrics",
+              "value": "Average discount - Company, Average discount - Peer Group"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 23,
+          "title": "Financial Performance Metrics 2013-2022",
+          "data": [
+            {
+              "key": "summary",
+              "value": "This table covers a ten-year financial record detailing metrics such as total revenue, net revenue return, total return, dividends (from revenue and capital), net asset value, and shareholders' funds. Notable trends include moderate revenue fluctuation, volatility in total returns, and overall growth in shareholders' funds and net asset value."
+            },
+            {
+              "key": "metrics",
+              "value": "Total revenue, Net revenue return, Total return, Dividends paid from revenue, Dividends paid from capital, Net asset value, Shareholders' funds"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 24,
+          "title": "Performance Discount (%) vs Peer Group Average",
+          "data": [
+            {
+              "key": "Discount Percentage",
+              "value": "0%"
+            },
+            {
+              "key": "Peer Group Average",
+              "value": "2%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 24,
+          "title": "Share Price, NAV, and Index Comparison",
+          "data": [
+            {
+              "key": "Share Price",
+              "value": "130"
+            },
+            {
+              "key": "NAV",
+              "value": "125"
+            },
+            {
+              "key": "Index",
+              "value": "118"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 24,
+          "title": "abrdn Japan vs Peer Group Performance Comparison",
+          "data": [
+            {
+              "key": "abrdn Japan Performance 31/03/22",
+              "value": "-11.0%"
+            },
+            {
+              "key": "Peer Group Performance 31/03/22",
+              "value": "-6.8%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 25,
+          "title": "Investment Portfolio Overview",
+          "data": [
+            {
+              "key": "Image Type",
+              "value": "Industrial/architectural photograph"
+            },
+            {
+              "key": "Description",
+              "value": "Photograph showing metallic pipes and blue-painted steel structural supports arranged in angular geometric patterns against a bright blue sky with white clouds."
+            },
+            {
+              "key": "Overlay Text",
+              "value": "The Company invests in a portfolio of over 60 companies in Japan, selected by the Investment Manager from the c. 3,800 stocks listed on the Tokyo Stock Exchange"
+            },
+            {
+              "key": "Source",
+              "value": "Japan Investment Trust plc"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 25,
+          "title": "Performance Comparison",
+          "data": [
+            {
+              "key": "Start Date",
+              "value": "2013-10-08"
+            },
+            {
+              "key": "End Date",
+              "value": "2022-03-31"
+            },
+            {
+              "key": "abrdn Japan Total Return (as of 2022-03-31)",
+              "value": "210"
+            },
+            {
+              "key": "Peer Group Total Return (as of 2022-03-31)",
+              "value": "250"
+            },
+            {
+              "key": "Description",
+              "value": "Line chart showing comparative performance of abrdn Japan versus Peer Group, indexed from 100 at inception."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 26,
+          "title": "abrdn Japan Investment Trust plc",
+          "data": [
+            {
+              "key": "Index",
+              "value": "24"
+            },
+            {
+              "key": "Investment Trust Name",
+              "value": "abrdn Japan Investment Trust plc"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 30,
+          "title": "Investment Portfolio Continued As at 31 March 2022 Valuation",
+          "data": [
+            {
+              "key": "Valuation Date",
+              "value": "31 March 2022"
+            },
+            {
+              "key": "Currency",
+              "value": "GBP"
+            },
+            {
+              "key": "Investment Portfolio Summary",
+              "value": "The table details an investment portfolio with holdings in various companies by sector. Individual investments are listed with values in thousands of pounds and corresponding investment percentages. Notable entries include Advantest Corporation (£1,065k), Kohoku Kogyo (£1,059k, 14%), and Z Holdings Corporation (£1,057k). The 'Top forty investments' aggregate totals £82,393k representing 82.7% of the portfolio."
+            },
+            {
+              "key": "Additional Investment Data",
+              "value": "Following the table, additional figures are provided: 'Total Takara Bio Pharmaceuticals and Biotechnology' at 477 (£'000) with 0.5%, and 'Top sixty investments' at 96,740 (£'000) representing 97.2% along with a reference to '28 abrdn Japan Investment Trust plc'."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Sector Analysis and Currency Graph",
+          "data": [
+            {
+              "key": "Analysis Date",
+              "value": "31 March 2022"
+            },
+            {
+              "key": "Sectors",
+              "value": "Automobiles and Parts, Banks, Beverages, Chemicals, Construction and Materials, Consumer Services, Electricity, Electronic and Electrical Equipment, Finance and Credit Services, Food Producers, Gas, Water and Multi-utilities, General Industrials, Health Care Providers, Household Goods and Home Construction, Industrial Engineering, Industrial Materials, Industrial Metals and Mining, Industrial Support Services, Industrial Transportation, Investment Banking and Brokerage Services, Leisure Goods, Life Insurance, Media, Medical Equipment and Services, Non-life Insurance, Oil Gas and Coal, Personal Care, Drug and Grocery Stores, Personal Goods, Pharmaceuticals and Biotechnology, Real Estate Investment and Services, Retailers, Software and Computer Services, Technology Hardware and Equipment, Telecommunications Equipment, Telecommunications Service Providers, Tobacco, Travel and Leisure"
+            },
+            {
+              "key": "Portfolio weighting % mB",
+              "value": "10%"
+            },
+            {
+              "key": "TOPI X weighting %",
+              "value": "abrdn Japan Investment Trust plc"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Yen/Sterling Currency Movement",
+          "data": [
+            {
+              "key": "Period Ended",
+              "value": "31 March 2022"
+            },
+            {
+              "key": "Company Name",
+              "value": "abrdn Japan Investment Trust plc"
+            },
+            {
+              "key": "Currency Movement Summary",
+              "value": "Details regarding the currency movement between Yen and Sterling for the year ended 31 March 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Independent Auditor’s Report for abrdn Japan Investment Trust plc",
+          "data": [
+            {
+              "key": "Year Ended",
+              "value": "31 March 2022"
+            },
+            {
+              "key": "Total Assets",
+              "value": "£99.5m (2021: £117.7m)"
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "Unmodified"
+            },
+            {
+              "key": "Key Audit Matters",
+              "value": "Risk of material misstatement in carrying amount of quoted investments (99% of total assets)"
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "1. Tests of detail for valuation of quoted investments, 2. Confirmations from investment depositary"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 64,
+          "title": "Financial Performance Comparison",
+          "data": [
+            {
+              "key": "Net (losses)/gains on investments",
+              "value": "Net losses on investments amounting to -£41.7M in 2022 compared to a gain of £25.7M in 2021."
+            },
+            {
+              "key": "Income",
+              "value": "Income increased to £1.996M in 2022 from £1.815M in 2021."
+            },
+            {
+              "key": "Exchange gains",
+              "value": "Exchange gains were £501K in 2022, down from £1.491M in 2021."
+            },
+            {
+              "key": "Management fee",
+              "value": "Management fee slightly increased to -£689K in 2022 from -£687K in 2021."
+            },
+            {
+              "key": "Net return after taxation",
+              "value": "Net return was -£10.6M in 2022, showing a substantial drop from £27.6M in 2021."
+            },
+            {
+              "key": "Return per Ordinary share (pence)",
+              "value": "The return per ordinary share dropped from 203.49 pence in 2021 to -81.70 pence in 2022."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 65,
+          "title": "Fixed Assets Comparison 2021-2022",
+          "data": [
+            {
+              "key": "summary",
+              "value": "This table presents a balance sheet comparison of fixed assets between March 2022 and March 2021. The main components include investments held at fair value (showing a decrease from §117,711,000 to §99,576,000), debtors (increasing from §916,000 to §1,154,000), and cash at bank (decreasing from §528,000 to §264,000). The total fixed assets slightly decreased from §1,444,000 to §1,418,000."
+            },
+            {
+              "key": "category: Fixed assets",
+              "value": ""
+            },
+            {
+              "key": "category: Investments held at fair value through profit or loss",
+              "value": "99,576"
+            },
+            {
+              "key": "category: Debtors",
+              "value": "1154"
+            },
+            {
+              "key": "category: Cash at bank and in hand",
+              "value": "264"
+            },
+            {
+              "key": "category: Total Fixed Assets",
+              "value": "1,418"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 65,
+          "title": "Financial Position Summary",
+          "data": [
+            {
+              "key": "summary",
+              "value": "This table appears to be a financial statement showing liability and asset positions. It details foreign currency bank loans, other creditors, and net current liabilities, culminating in the net assets position. The net assets show a positive value of 107,438 in the most recent period, up from 89,930 in the previous period, despite increased liabilities. Foreign currency bank loans represent the largest liability item at 11,147 in the most recent period."
+            },
+            {
+              "key": "item: Foreign currency bank loans",
+              "value": "-10634"
+            },
+            {
+              "key": "item: Other creditors",
+              "value": "-430"
+            },
+            {
+              "key": "item: Net current liabilities",
+              "value": "-9646"
+            },
+            {
+              "key": "item: Net assets",
+              "value": "89930"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 65,
+          "title": "Share Capital and Reserves",
+          "data": [
+            {
+              "key": "summary",
+              "value": "This table presents a financial statement showing various capital and reserve components of a company. The total equity shareholders' funds increased from 89,930 to 107,438. The largest component is the Capital reserve, which grew from 77,788 to 95,169. The Net asset value per Ordinary share increased from 713.43 pence to 807.66 pence, indicating positive growth in shareholder value."
+            },
+            {
+              "key": "Called-up share capital",
+              "value": "1,582"
+            },
+            {
+              "key": "Share premium",
+              "value": "6,656"
+            },
+            {
+              "key": "Capital redemption reserve",
+              "value": "2,273"
+            },
+            {
+              "key": "Capital reserve",
+              "value": "95,169"
+            },
+            {
+              "key": "Revenue reserve",
+              "value": "1,758"
+            },
+            {
+              "key": "Net asset value per Ordinary share (pence)",
+              "value": "807.66"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 67,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Operating activities",
+              "value": ""
+            },
+            {
+              "key": "Net return before taxation (2022)",
+              "value": "-10424"
+            },
+            {
+              "key": "Net return before taxation (2021)",
+              "value": "27820"
+            },
+            {
+              "key": "Adjustment for:",
+              "value": ""
+            },
+            {
+              "key": "Losses/(gains) on investments (2022)",
+              "value": "11731"
+            },
+            {
+              "key": "Losses/(gains) on investments (2021)",
+              "value": "-25747"
+            },
+            {
+              "key": "(Decrease)/increase in other creditors (2022)",
+              "value": "-114"
+            },
+            {
+              "key": "(Decrease)/increase in other creditors (2021)",
+              "value": "150"
+            },
+            {
+              "key": "Finance costs (2022)",
+              "value": "142"
+            },
+            {
+              "key": "Finance costs (2021)",
+              "value": "109"
+            },
+            {
+              "key": "Expenses taken to capital reserve (2022)",
+              "value": "6"
+            },
+            {
+              "key": "Expenses taken to capital reserve (2021)",
+              "value": "14"
+            },
+            {
+              "key": "Foreign exchange gains (2022)",
+              "value": "-501"
+            },
+            {
+              "key": "Foreign exchange gains (2021)",
+              "value": "-1491"
+            },
+            {
+              "key": "Overseas withholding tax (2022)",
+              "value": "-200"
+            },
+            {
+              "key": "Overseas withholding tax (2021)",
+              "value": "-181"
+            },
+            {
+              "key": "Increase in accrued dividend income (2022)",
+              "value": "-31"
+            },
+            {
+              "key": "Increase in accrued dividend income (2021)",
+              "value": "-16"
+            },
+            {
+              "key": "Decrease/(increase) in other debtors (2022)",
+              "value": "11"
+            },
+            {
+              "key": "Decrease/(increase) in other debtors (2021)",
+              "value": "-18"
+            },
+            {
+              "key": "Net cash flow subtotal (2022)",
+              "value": "620"
+            },
+            {
+              "key": "Net cash flow subtotal (2021)",
+              "value": "640"
+            },
+            {
+              "key": "Investing activities",
+              "value": ""
+            },
+            {
+              "key": "Purchases of investments (2022)",
+              "value": "-26105"
+            },
+            {
+              "key": "Purchases of investments (2021)",
+              "value": "-59281"
+            },
+            {
+              "key": "Sales of investments (2022)",
+              "value": "32137"
+            },
+            {
+              "key": "Sales of investments (2021)",
+              "value": "63755"
+            },
+            {
+              "key": "Expenses allocated to capital (2022)",
+              "value": "-6"
+            },
+            {
+              "key": "Expenses allocated to capital (2021)",
+              "value": "-14"
+            },
+            {
+              "key": "Net cash inflow from investing activities (2022)",
+              "value": "6026"
+            },
+            {
+              "key": "Net cash inflow from investing activities (2021)",
+              "value": "4460"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 67,
+          "title": "Cash Flow from Financing Activities",
+          "data": [
+            {
+              "key": "Bank and loan interest paid (current_period)",
+              "value": "-146"
+            },
+            {
+              "key": "Bank and loan interest paid (previous_period)",
+              "value": "-10"
+            },
+            {
+              "key": "Equity dividends paid (current_period)",
+              "value": "-1961"
+            },
+            {
+              "key": "Equity dividends paid (previous_period)",
+              "value": "-2040"
+            },
+            {
+              "key": "Purchase of own shares to treasury (current_period)",
+              "value": "-4791"
+            },
+            {
+              "key": "Purchase of own shares to treasury (previous_period)",
+              "value": "-3360"
+            },
+            {
+              "key": "Net cash outflow from financing activities (current_period)",
+              "value": "-6898"
+            },
+            {
+              "key": "Net cash outflow from financing activities (previous_period)",
+              "value": "-5510"
+            },
+            {
+              "key": "Decrease in cash (current_period)",
+              "value": "-252"
+            },
+            {
+              "key": "Decrease in cash (previous_period)",
+              "value": "-41"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 67,
+          "title": "Analysis of changes in cash during the year",
+          "data": [
+            {
+              "key": "Opening balance (current_period)",
+              "value": "528"
+            },
+            {
+              "key": "Opening balance (previous_period)",
+              "value": "1001"
+            },
+            {
+              "key": "Effects of exchange rate fluctuations on cash held (current_period)",
+              "value": "-12"
+            },
+            {
+              "key": "Effects of exchange rate fluctuations on cash held (previous_period)",
+              "value": "i"
+            },
+            {
+              "key": "Decrease in cash as above (current_period)",
+              "value": "-252"
+            },
+            {
+              "key": "Decrease in cash as above (previous_period)",
+              "value": "-41"
+            },
+            {
+              "key": "Closing balance (current_period)",
+              "value": "264"
+            },
+            {
+              "key": "Closing balance (previous_period)",
+              "value": "528"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 68,
+          "title": "Notes to the Financial Statements",
+          "data": [
+            {
+              "key": "Principal activity",
+              "value": "The Company is a closed-end investment company, registered in England and Wales No. 03582911, with its Ordinary shares being listed on the London Stock Exchange."
+            },
+            {
+              "key": "Accounting policies",
+              "value": "The financial statements have been prepared in accordance with Financial Reporting Standard 102 and with the Statement of Recommended Practice ‘Financial Statements of Investment Trust Companies and Venture Capital Trusts’.”},{"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 69,
+          "title": "Valuation of investments and income accounting",
+          "data": [
+            {
+              "key": "Valuation method",
+              "value": "Investments designated ‘at fair value through profit or loss'."
+            },
+            {
+              "key": "Income recognition",
+              "value": "Dividends included in revenue at the ex-dividend date."
+            },
+            {
+              "key": "Expense allocation",
+              "value": "Expenses allocated to revenue except where related to capital enhancement."
+            },
+            {
+              "key": "Taxation",
+              "value": "No current tax liability; deferred taxation provided on timing differences."
+            },
+            {
+              "key": "Reserves",
+              "value": "Ordinary share capital relates to the number of shares in issue."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 70,
+          "title": "Notes to the Financial Statements Continued",
+          "data": [
+            {
+              "key": "Share premium",
+              "value": "Includes the premium above nominal value from the proceeds on issue of equity share capital comprising Ordinary shares of 10p. This reserve is not distributable."
+            },
+            {
+              "key": "Capital redemption reserve",
+              "value": "Used to record the amount equivalent to the nominal value of the Company’s own shares purchased and cancelled. This reserve is not distributable."
+            },
+            {
+              "key": "Capital reserve",
+              "value": "Gains or losses on disposal of investments and changes in fair values of investments are transferred to this reserve. Costs of share buybacks are deducted from this reserve. To the extent that gains are deemed realised, it is distributable."
+            },
+            {
+              "key": "Revenue reserve",
+              "value": "Reflects all income and costs which are recognised in the revenue column of the Statement of Comprehensive Income. This reserve represents the amount distributable by way of dividend."
+            },
+            {
+              "key": "Foreign currencies",
+              "value": "Transactions involving foreign currencies are converted at the rate ruling at the date of the transaction. Differences arising from translation are treated as capital gain or loss."
+            },
+            {
+              "key": "Dividends payable",
+              "value": "Recognised in the financial statements in the period in which they are paid."
+            },
+            {
+              "key": "Borrowings",
+              "value": "All secured borrowings are initially recognised at cost. After initial recognition, they are subsequently measured at amortised cost."
+            },
+            {
+              "key": "Significant estimates and judgements",
+              "value": "Directors do not believe any accounting judgements or estimates pose a significant risk of material adjustment to assets and liabilities."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 71,
+          "title": "Management Fee Analysis",
+          "data": [
+            {
+              "key": "2022 Total Management Fee",
+              "value": "689"
+            },
+            {
+              "key": "2021 Total Management Fee",
+              "value": "687"
+            },
+            {
+              "key": "Increase in Total Fees",
+              "value": "2000"
+            },
+            {
+              "key": "Currency 2022",
+              "value": "£"
+            },
+            {
+              "key": "Currency 2021",
+              "value": "£"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 71,
+          "title": "Administrative Expenses Breakdown",
+          "data": [
+            {
+              "key": "2022 Total Administrative Expenses",
+              "value": "359"
+            },
+            {
+              "key": "2021 Total Administrative Expenses",
+              "value": "437"
+            },
+            {
+              "key": "Reduction Percentage",
+              "value": "18%"
+            },
+            {
+              "key": "Directors' Fees 2022",
+              "value": "104"
+            },
+            {
+              "key": "Promotional Fees 2022",
+              "value": "53"
+            },
+            {
+              "key": "Currency",
+              "value": "£"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 74,
+          "title": "Investments held at fair value through profit or loss",
+          "data": [
+            {
+              "key": "Opening book cost",
+              "value": "£97,537,000 (2022) vs £84,216,000 (2021)"
+            },
+            {
+              "key": "Opening investment holding net gains",
+              "value": "£20,174,000 (2022) vs £12,031,000 (2021)"
+            },
+            {
+              "key": "Opening fair value",
+              "value": "£117,711,000 (2022) vs £96,247,000 (2021)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 74,
+          "title": "Analysis of transactions made during the year",
+          "data": [
+            {
+              "key": "Purchases at cost (excluding transaction costs)",
+              "value": "£25,951,000 (2022) vs £59,374,000 (2021)"
+            },
+            {
+              "key": "Sales - proceeds (net of transaction costs)",
+              "value": "£-32,355,000 (2022) vs £-63,657,000 (2021)"
+            },
+            {
+              "key": "Net (losses)/gains on investments",
+              "value": "£-11,731,000 (2022) vs £25,747,000 (2021)"
+            },
+            {
+              "key": "Closing fair value",
+              "value": "£99,576,000 (2022) vs £117,711,000 (2021)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 74,
+          "title": "Closing financial metrics",
+          "data": [
+            {
+              "key": "Closing book cost",
+              "value": "£90,973,000 (2022) vs £97,537,000 (2021)"
+            },
+            {
+              "key": "Closing investment holding net gains",
+              "value": "£8,603,000 (2022) vs £20,174,000 (2021)"
+            },
+            {
+              "key": "Closing fair value",
+              "value": "£99,576,000 (2022) vs £117,711,000 (2021)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 74,
+          "title": "Transaction costs summary",
+          "data": [
+            {
+              "key": "Purchases",
+              "value": "£6,000 (2022) vs £14,000 (2021)"
+            },
+            {
+              "key": "Sales",
+              "value": "£7,000 (2022) vs £15,000 (2021)"
+            },
+            {
+              "key": "Total Sales",
+              "value": "£13,000 (2022) vs £29,000 (2021)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 75,
+          "title": "Debtors and Creditors Financial Overview",
+          "data": [
+            {
+              "key": "Amounts due from brokers 2022",
+              "value": "£347,000"
+            },
+            {
+              "key": "Amounts due from brokers 2021",
+              "value": "£129,000"
+            },
+            {
+              "key": "Prepayments and accrued income 2022",
+              "value": "£807,000"
+            },
+            {
+              "key": "Prepayments and accrued income 2021",
+              "value": "£787,000"
+            },
+            {
+              "key": "Total amounts 2022",
+              "value": "£1,154,000"
+            },
+            {
+              "key": "Total amounts 2021",
+              "value": "£916,000"
+            },
+            {
+              "key": "Creditors due within one year 2022",
+              "value": "£10,634,000"
+            },
+            {
+              "key": "Creditors due within one year 2021",
+              "value": "£11,147,000"
+            },
+            {
+              "key": "Total other creditors 2022",
+              "value": "£430,000"
+            },
+            {
+              "key": "Total other creditors 2021",
+              "value": "£570,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 77,
+          "title": "Financial Gains and Losses 2021-2022",
+          "data": [
+            {
+              "key": "Gains on revaluation of bank loan (2022)",
+              "value": "£513,000"
+            },
+            {
+              "key": "Gains on revaluation of bank loan (2021)",
+              "value": "£1,549,000"
+            },
+            {
+              "key": "Losses on cash deposits (2022)",
+              "value": "£(12,000)"
+            },
+            {
+              "key": "Losses on cash deposits (2021)",
+              "value": "£(58,000)"
+            },
+            {
+              "key": "Total (2022)",
+              "value": "£501,000"
+            },
+            {
+              "key": "Total (2021)",
+              "value": "£1,491,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 77,
+          "title": "Net Asset Values and Per Share Metrics Comparison",
+          "data": [
+            {
+              "key": "Net asset value per Ordinary share (2022)",
+              "value": "713.43p"
+            },
+            {
+              "key": "Net asset value per Ordinary share (2021)",
+              "value": "807.66p"
+            },
+            {
+              "key": "Total net asset values attributable (2022)",
+              "value": "£89,930,000"
+            },
+            {
+              "key": "Total net asset values attributable (2021)",
+              "value": "£107,438,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 77,
+          "title": "Movements in Net Assets Attributable to Ordinary Shares",
+          "data": [
+            {
+              "key": "Net assets attributable at 1 April 2021 (2022)",
+              "value": "£107,438,000"
+            },
+            {
+              "key": "Net assets attributable at 1 April 2021 (2021)",
+              "value": "£85,206,000"
+            },
+            {
+              "key": "Capital return for the year (2022)",
+              "value": "£(11,734,000)"
+            },
+            {
+              "key": "Capital return for the year (2021)",
+              "value": "£26,747,000"
+            },
+            {
+              "key": "Revenue after taxation (2022)",
+              "value": "£1,110,000"
+            },
+            {
+              "key": "Revenue after taxation (2021)",
+              "value": "£892,000"
+            },
+            {
+              "key": "Dividend paid from revenue (2022)",
+              "value": "£(1,237,000)"
+            },
+            {
+              "key": "Dividend paid from revenue (2021)",
+              "value": "£(1,495,000)"
+            },
+            {
+              "key": "Dividend paid from capital (2022)",
+              "value": "£(724,000)"
+            },
+            {
+              "key": "Dividend paid from capital (2021)",
+              "value": "£(548,000)"
+            },
+            {
+              "key": "Purchase of Ordinary shares to be held in treasury (2022)",
+              "value": "£(4,923,000)"
+            },
+            {
+              "key": "Purchase of Ordinary shares to be held in treasury (2021)",
+              "value": "£(3,364,000)"
+            },
+            {
+              "key": "Net assets attributable at 31 March 2022 (2022)",
+              "value": "£89,930,000"
+            },
+            {
+              "key": "Net assets attributable at 31 March 2022 (2021)",
+              "value": "£107,438,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 80,
+          "title": "Japanese Yen Financial Performance Comparison 2021-2022",
+          "data": [
+            {
+              "key": "2021_revenue",
+              "value": "182,000"
+            },
+            {
+              "key": "2022_revenue",
+              "value": "200,000"
+            },
+            {
+              "key": "2021_equity",
+              "value": "10,766,000"
+            },
+            {
+              "key": "2022_equity",
+              "value": "9,016,000"
+            }
+          ],
+          "currency": "JPY"
+        },
+        {
+          "type": "financial_performance",
+          "page": 82,
+          "title": "Notes to the Financial Statements Continued",
+          "data": [
+            {
+              "key": "Fair Value Methodology",
+              "value": "FRS 102 requires an entity to classify fair value measurements using a fair value hierarchy that reflects the significance of the inputs used in making the measurements."
+            },
+            {
+              "key": "Fair Value Hierarchy Levels",
+              "value": "Level 1 - unadjusted quoted prices in an active market for identical assets or liabilities. Level 2 - inputs other than quoted prices included within Level 1 that are observable for the asset or liability. Level 3 - unobservable inputs for the asset or liability."
+            },
+            {
+              "key": "Total Value of Investments 2022",
+              "value": "£99,576,000"
+            },
+            {
+              "key": "Total Value of Investments 2021",
+              "value": "£117,711,000"
+            },
+            {
+              "key": "Fair Value Classification",
+              "value": "All investments are classified as Level 1."
+            },
+            {
+              "key": "Related Party Transactions",
+              "value": "Fees payable during the year to the Directors and their interest in shares of the Company are disclosed within the Directors’ Remuneration Report on pages 50 and 51."
+            },
+            {
+              "key": "Management Agreement",
+              "value": "The Company has agreements with ASFML to provide management, accounting, administrative and secretarial duties."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 83,
+          "title": "Alternative Performance Measures",
+          "data": [
+            {
+              "key": "NAV per Ordinary share (p)",
+              "value": "713.43, 807.66"
+            },
+            {
+              "key": "Share price (p)",
+              "value": "635.00, 727.50"
+            },
+            {
+              "key": "Discount",
+              "value": "11.0%, 9.9%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 83,
+          "title": "Net Gearing",
+          "data": [
+            {
+              "key": "Borrowings (£000)",
+              "value": "10,634, 11,147"
+            },
+            {
+              "key": "Cash (£'000)",
+              "value": "264, 528"
+            },
+            {
+              "key": "Amounts due to brokers (£'000)",
+              "value": "190, 214"
+            },
+            {
+              "key": "Amounts due from brokers (£'000)",
+              "value": "347, 129"
+            },
+            {
+              "key": "Shareholders' funds (£'000)",
+              "value": "89,930, 107,438"
+            },
+            {
+              "key": "Net gearing",
+              "value": "11.4%, 10.0%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 83,
+          "title": "Ongoing Charges Ratio",
+          "data": [
+            {
+              "key": "Investment management fees (£'000)",
+              "value": "689, 687"
+            },
+            {
+              "key": "Administrative expenses (£000)",
+              "value": "359, 437"
+            },
+            {
+              "key": "Less: non recurring charges (£'000)",
+              "value": "-2, -27"
+            },
+            {
+              "key": "Less: transaction costs on investment purchases (£'000)",
+              "value": "-6, -14"
+            },
+            {
+              "key": "Ongoing charges (£'000)",
+              "value": "1,040, 1,083"
+            },
+            {
+              "key": "Average net assets (£'000)",
+              "value": "103730, 103977"
+            },
+            {
+              "key": "Ongoing charges ratio",
+              "value": "1.00%, 1.04%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 84,
+          "title": "Performance Metrics Overview",
+          "data": [
+            {
+              "key": "OCR Comparison",
+              "value": "The Company’s OCR was 1.00% compared to the Peer Group weighted average of 0.74%."
+            },
+            {
+              "key": "Total Return NAV",
+              "value": "Total return NAV and share price returns consider capital returns and dividends."
+            },
+            {
+              "key": "NAV March 31, 2022",
+              "value": "Opening NAV was 807.7p, Closing NAV was 713.4p."
+            },
+            {
+              "key": "Share Price March 31, 2022",
+              "value": "Opening Share Price was 7275p, Closing Share Price was 635.0p."
+            },
+            {
+              "key": "Performance Summary for 2021",
+              "value": "NAV increased by 33.5% and Share Price by 35.2% for the year ended 31 March 2021."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "financial_performance",
+          "page": 93,
+          "title": "Investor Information",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "abrdn Japan Investment Trust plc"
+            },
+            {
+              "key": "Investment Types",
+              "value": "Direct, ISA, Investment Plan for Children"
+            },
+            {
+              "key": "Initial Purchase Amount",
+              "value": "£250 for lump sum investments, £100 per month for regular savers"
+            },
+            {
+              "key": "Government Stamp Duty",
+              "value": "0.5% on purchases"
+            },
+            {
+              "key": "Selling Costs",
+              "value": "£10 + VAT"
+            },
+            {
+              "key": "ISA Contribution Limit",
+              "value": "£20,000 for the tax year 2022/23"
+            },
+            {
+              "key": "Annual ISA Administration Charge",
+              "value": "£24 + VAT"
+            },
+            {
+              "key": "Minimum ISA Transfer Amount",
+              "value": "£1,000"
+            },
+            {
+              "key": "Children's Plan Minimum Investment",
+              "value": "£150 per trust, £30 per month for regular savers"
+            },
+            {
+              "key": "Dividend Tax Allowance",
+              "value": "£2,000 for the 2022/23 tax year"
+            },
+            {
+              "key": "Shareholder Responsibility",
+              "value": "Include all dividend income when calculating tax liability"
+            },
+            {
+              "key": "Website",
+              "value": "abrdnjapan.co.uk"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "dividend_policy",
+          "page": 6,
+          "title": "Payment dates of dividends",
+          "data": [
+            {
+              "key": "Annual General Meeting (London)",
+              "value": "1 July 2022"
+            },
+            {
+              "key": "Half year end",
+              "value": "30 September 2022"
+            },
+            {
+              "key": "Expected announcement of results for six months ending 30 September 2022",
+              "value": "November 2022"
+            },
+            {
+              "key": "Financial year end",
+              "value": "31 March 2023"
+            },
+            {
+              "key": "Expected announcement of results for the year ending 31 March 2023",
+              "value": "June 2023"
+            },
+            {
+              "key": "Summary",
+              "value": "This table presents a financial calendar showing key dates for dividend payments and financial reporting periods from July 2022 to June 2023."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 6,
+          "title": "Dividend Schedule 2021-2022",
+          "data": [
+            {
+              "key": "Proposed final dividend 2022",
+              "value": "9.00p; Ex-dividend date: 23 June 2022; Record date: 24 June 2022; Payment date: 22 July 2022"
+            },
+            {
+              "key": "Interim dividend 2022",
+              "value": "6.00p; Ex-dividend date: 2 December 2021; Record date: 3 December 2021; Payment date: 30 December 2021"
+            },
+            {
+              "key": "Total dividends 2022",
+              "value": "15.00p"
+            },
+            {
+              "key": "Final dividend 2021",
+              "value": "9.00p; Ex-dividend date: 24 June 2021; Record date: 25 June 2021; Payment date: 23 July 2021"
+            },
+            {
+              "key": "Interim dividend 2021",
+              "value": "6.00p; Ex-dividend date: 3 December 2020; Record date: 4 December 2020; Payment date: 31 December 2020"
+            },
+            {
+              "key": "Total dividends 2021",
+              "value": "15.00p"
+            },
+            {
+              "key": "Summary",
+              "value": "This table shows dividend information for 2021 and 2022. The total dividend amount remained constant at 15.00p, divided between an interim dividend of 6.00p and a final dividend of 9.00p."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 6,
+          "title": "Company Information",
+          "data": [
+            {
+              "key": "Company",
+              "value": "abrdn Japan Investment Trust plc"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 17,
+          "title": "Financial Policies – Dividend & Share Buyback Policy",
+          "data": [
+            {
+              "key": "Management of Shareholder Capital",
+              "value": "Focus on long-term growth driven by investment performance and occasional share issuance without diluting existing capital."
+            },
+            {
+              "key": "Dividend Policy",
+              "value": "Distributions are made semi-annually, consisting of the Company’s annual earnings, 3.0p from revenue reserves, and an allocation from distributable capital reserves."
+            },
+            {
+              "key": "Share Buyback",
+              "value": "The Board may authorize a share buyback to mitigate excessive discount variability. If the average discount exceeds 10% during the 90-day period preceding the financial year end, shareholders may vote on continuation."
+            },
+            {
+              "key": "Risk Management",
+              "value": "Risk management focuses on investment risks, including the use of derivatives to mitigate risks from asset-liability exposure and fluctuations in the Yen/£ exchange rate."
+            },
+            {
+              "key": "Use of Gearing",
+              "value": "Gearing is used to enhance investment returns and finance share buybacks, with an established level around 10% of net assets, potentially ranging between 5% and 15% (maximum limit of 25%)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 63,
+          "title": "Dividend Proposal",
+          "data": [
+            {
+              "key": "Revenue return per Ordinary share",
+              "value": "8.5p (2021: 6.6p)"
+            },
+            {
+              "key": "Proposed total dividend",
+              "value": "15.0p (unchanged from 15.0p in 2021)"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 73,
+          "title": "Dividend Distributions to Equity Holders",
+          "data": [
+            {
+              "key": "Current year proposed final dividend (2022 - 9.00p; 2021 - 9.00p)",
+              "value": "1,130"
+            },
+            {
+              "key": "Current year interim dividend (2022 - 6.00p; 2021 - 6.00p)",
+              "value": "776"
+            },
+            {
+              "key": "",
+              "value": "1,906"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 73,
+          "title": "Dividends Summary",
+          "data": [
+            {
+              "key": "Amounts recognised as distributions to equity holders in the year:",
+              "value": ""
+            },
+            {
+              "key": "Prior year final dividend (2021 - 9.00p; 2020 - 9.00p)",
+              "value": "1,185"
+            },
+            {
+              "key": "Current year interim dividend (2022 - 6.00p; 2021 - 6.00p)",
+              "value": "776"
+            },
+            {
+              "key": "",
+              "value": "1,961"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 73,
+          "title": "Returns per share",
+          "data": [
+            {
+              "key": "Revenue return",
+              "value": "8.54"
+            },
+            {
+              "key": "Capital return",
+              "value": "-90.24"
+            },
+            {
+              "key": "Total return",
+              "value": "-81.70"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_share_buyback_plans": {
+      "value": true,
+      "elements": [
+        {
+          "type": "share_buyback",
+          "page": 11,
+          "title": "Discounts and Share Buybacks",
+          "data": [
+            {
+              "key": "Share Buyback Program Description",
+              "value": "The document details that Tokio Marine has consistently announced share buyback programmes following earlier engagement related to the use of excess capital. It notes that the board regularly monitors discounts relative to NAV and implements share buybacks when appropriate to add shareholder value."
+            },
+            {
+              "key": "Financial Details of Buybacks",
+              "value": "During the financial year, 697,191 shares were repurchased at a cost of £4.9 million, with an additional 45,358 shares repurchased since year end at a cost of £265,000."
+            },
+            {
+              "key": "Average Discount",
+              "value": "9.4% over the last 90 days of the Company's financial year."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "share_buyback",
+          "page": 14,
+          "title": "Investment Manager’s Review",
+          "data": [
+            {
+              "key": "Component Procurement and Production Flexibility",
+              "value": "Continued ability to procure components and flexibility in adjusting production was noted, despite cost pressures and component shortages."
+            },
+            {
+              "key": "Share Buyback Programmes",
+              "value": "Many companies reported profit increases and a large number have announced share buyback programmes; KDDI notably increased its share buyback programme."
+            },
+            {
+              "key": "Performance of Key Holdings",
+              "value": "Some holdings, including Nabtesco and Koito Manufacturing, faced challenges due to rising costs, component shortages, and weak automotive capital expenditure, while Tokio Marine and others reported strong results."
+            },
+            {
+              "key": "Portfolio Adjustments",
+              "value": "The review included adjustments such as exiting certain holdings and initiating new positions, including investments in companies like AGC, as well as participation in IPOs of Kohoku Kogyo and Net Protections Holdings."
+            },
+            {
+              "key": "Additional Investment Moves",
+              "value": "Later transactions involved buying shares in companies such as Ajinomoto, Ibiden, and Denso, indicating active portfolio rebalancing."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "share_buyback",
+          "page": 43,
+          "title": "Share Repurchases Resolution",
+          "data": [
+            {
+              "key": "Resolution Type",
+              "value": "Special Resolution"
+            },
+            {
+              "key": "Maximum Shares to be Purchased",
+              "value": "14.99% of issued Ordinary share capital (approximately 2.0 million shares)"
+            },
+            {
+              "key": "Minimum Price per Share",
+              "value": "10p"
+            },
+            {
+              "key": "Maximum Price per Share",
+              "value": "5% above the average market value for the five business days preceding purchase or higher of last independent trade and highest bid"
+            },
+            {
+              "key": "Authority Duration",
+              "value": "Until conclusion of Annual General Meeting 2023 or 30 September 2023"
+            },
+            {
+              "key": "No Dividend on Treasury Shares",
+              "value": "True"
+            },
+            {
+              "key": "Voting Rights on Treasury Shares",
+              "value": "None"
+            }
+          ],
+          "currency": "GBP"
+        }
+      ]
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 76,
+          "title": "Share Capital Structure",
+          "data": [
+            {
+              "key": "Total Share Capital",
+              "value": "15,821,572"
+            },
+            {
+              "key": "Ordinary Shares (2022)",
+              "value": "12,605,268"
+            },
+            {
+              "key": "Ordinary Shares (2021)",
+              "value": "13,302,459"
+            },
+            {
+              "key": "Treasury Shares (2022)",
+              "value": "3,216,304"
+            },
+            {
+              "key": "Treasury Shares (2021)",
+              "value": "2,519,113"
+            },
+            {
+              "key": "Total Amount",
+              "value": "£1,582,000"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 76,
+          "title": "Movement of Ordinary and Treasury Shares",
+          "data": [
+            {
+              "key": "Opening Ordinary Shares",
+              "value": "13,302,459"
+            },
+            {
+              "key": "Shares Bought Back",
+              "value": "(697,191)"
+            },
+            {
+              "key": "Closing Ordinary Shares",
+              "value": "12,605,268"
+            },
+            {
+              "key": "Total Shares After Transactions",
+              "value": "15,821,572"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 76,
+          "title": "Capital Reserve",
+          "data": [
+            {
+              "key": "Capital Reserve (Start of 2021)",
+              "value": "£95,169"
+            },
+            {
+              "key": "Losses on Investments (2022)",
+              "value": "-11,571"
+            },
+            {
+              "key": "Gains on Investments (2021)",
+              "value": "8,143"
+            },
+            {
+              "key": "Final Dividend 2022",
+              "value": "-724"
+            },
+            {
+              "key": "Capital Reserve (End of 2022)",
+              "value": "£77,788"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 81,
+          "title": "Cash and Debt Movement Analysis",
+          "data": [
+            {
+              "key": "Cash and cash equivalents at 31 March 2021",
+              "value": "528"
+            },
+            {
+              "key": "Currency differences",
+              "value": "-12"
+            },
+            {
+              "key": "Cash flows",
+              "value": "-252"
+            },
+            {
+              "key": "Non-cash movements",
+              "value": "0"
+            },
+            {
+              "key": "Cash and cash equivalents at 31 March 2022",
+              "value": "264"
+            },
+            {
+              "key": "Debt due within one year at 31 March 2021",
+              "value": "-11147"
+            },
+            {
+              "key": "Currency differences",
+              "value": "513"
+            },
+            {
+              "key": "Cash flows",
+              "value": "0"
+            },
+            {
+              "key": "Non-cash movements",
+              "value": "0"
+            },
+            {
+              "key": "Debt due within one year at 31 March 2022",
+              "value": "-10634"
+            },
+            {
+              "key": "Total net debt at 31 March 2021",
+              "value": "-10619"
+            },
+            {
+              "key": "Currency differences",
+              "value": "501"
+            },
+            {
+              "key": "Cash flows",
+              "value": "-252"
+            },
+            {
+              "key": "Non-cash movements",
+              "value": "0"
+            },
+            {
+              "key": "Total net debt at 31 March 2022",
+              "value": "-10370"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 81,
+          "title": "Financial Position Statement",
+          "data": [
+            {
+              "key": "Cash and cash equivalents at 31 March 2020",
+              "value": "1000"
+            },
+            {
+              "key": "Differences",
+              "value": "-58"
+            },
+            {
+              "key": "Cash flows",
+              "value": "-414"
+            },
+            {
+              "key": "Movements",
+              "value": "0"
+            },
+            {
+              "key": "Cash and cash equivalents at 31 March 2021",
+              "value": "528"
+            },
+            {
+              "key": "Debt due within one year at 31 March 2020",
+              "value": "-12698"
+            },
+            {
+              "key": "Differences",
+              "value": "1549"
+            },
+            {
+              "key": "Cash flows",
+              "value": "0"
+            },
+            {
+              "key": "Movements",
+              "value": "2"
+            },
+            {
+              "key": "Debt due within one year at 31 March 2021",
+              "value": "-11147"
+            },
+            {
+              "key": "Total net position at 31 March 2020",
+              "value": "-11698"
+            },
+            {
+              "key": "Differences",
+              "value": "1491"
+            },
+            {
+              "key": "Cash flows",
+              "value": "-414"
+            },
+            {
+              "key": "Movements",
+              "value": "2"
+            },
+            {
+              "key": "Total net position at 31 March 2021",
+              "value": "-10619"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "capital_structure",
+          "page": 104,
+          "title": "Notice of Annual General Meeting Continued",
+          "data": [
+            {
+              "key": "Ordinary shares in issue",
+              "value": "15,821,572"
+            },
+            {
+              "key": "Treasury shares held",
+              "value": "3,261,662"
+            },
+            {
+              "key": "Voting rights",
+              "value": "12,559,910"
+            },
+            {
+              "key": "Contact phone (local)",
+              "value": "0371 664 0300"
+            },
+            {
+              "key": "Contact phone (international)",
+              "value": "+44 208 639 3399"
+            },
+            {
+              "key": "Contact email",
+              "value": "enquiries@linkgroup.co.uk"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 18,
+          "title": "Overview of Strategy Continued Principal Risks and Uncertainties",
+          "data": [
+            {
+              "key": "Market, Economic and Political Risk",
+              "value": "The Company’s assets consist mainly of listed securities and the principal risks are therefore market-related. This includes concerns about stock market volatility caused by geopolitical instability, political change, economic growth, interest rates, currency, and other price risks, as well as national or global crises that are harder to predict and may cause major market shocks."
+            },
+            {
+              "key": "Investment Strategy Risk",
+              "value": "The Company and its investment objective may become unattractive to investors, leading to reduced returns for shareholders, decreased demand for the Company’s shares, reduced value of shareholder funds and possible widening of the share price discount to NAV."
+            },
+            {
+              "key": "Investment Management Risk",
+              "value": "Investment risk arises from the Company’s exposure to variations of share prices within its portfolio in response to individual company and to wider Japanese or international factors."
+            },
+            {
+              "key": "Operational Risk",
+              "value": "The Company relies on a number of third-party service providers, principally the Manager, Registrar, Custodian and Depositary."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 19,
+          "title": "Risk Factors and Mitigating Actions",
+          "data": [
+            {
+              "key": "Regulatory Risk",
+              "value": "The Company operates under a complex regulatory environment. Serious breaches of regulations such as Section 1158 of the Corporation Tax Act 2010, the UKLA Listing Rules, Companies Act 2006 and the Alternative Investment Fund Managers Directive could result in detrimental outcomes and reputational damage. The Board actively ensures full compliance with applicable laws through internal controls and external advisers."
+            },
+            {
+              "key": "Share Price and Discount Risk",
+              "value": "Market volatility and external events such as the pandemic and geopolitical events (e.g., Russia’s invasion of Ukraine) affect the Company's share price and can increase the discount to NAV. Although share price movements are largely outside the Company’s control, the Board can authorize share buybacks to mitigate adverse impacts."
+            },
+            {
+              "key": "Leverage",
+              "value": "The Company may borrow funds for investment purposes. With a maximum borrowing limit of 25% of net assets and a target gearing level of around 10%, the Board monitors borrowing closely and requires prior approval for any debt, ensuring compliance with bank covenants."
+            },
+            {
+              "key": "Pandemic Risk",
+              "value": "The Board recognizes risks from global pandemics including market instability, operational disruptions, and impacts on third-party suppliers. The Manager employs a disciplined investment process focused on long term fundamentals and has contingency plans in place."
+            },
+            {
+              "key": "ESG Risks",
+              "value": "Application of ESG and sustainability criteria may lead to loss of value from potential investments. The Manager continually monitors ESG risks and the Board reviews ESG engagement quarterly, considering both potential negative and positive impacts on performance."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 50,
+          "title": "Risk Matrix and Internal Control",
+          "data": [
+            {
+              "key": "Key Risks",
+              "value": "strategy, investment management, operations, regulatory and financial obligations, third party service providers"
+            },
+            {
+              "key": "Monitoring System",
+              "value": "Controls to mitigate risks and assess the impact of residual risks on a regular basis."
+            },
+            {
+              "key": "Monitoring Frequency",
+              "value": "Formally reviewed on a six monthly basis."
+            },
+            {
+              "key": "Internal Audit Role",
+              "value": "Manager’s internal audit, risk and compliance departments continually review and report to the Audit Committee."
+            },
+            {
+              "key": "Independent Depositary",
+              "value": "BNP Paribas Securities Services, London Branch."
+            },
+            {
+              "key": "Internal Control Assurance",
+              "value": "Designed to manage risks; reasonable assurance against mis-statement and loss."
+            },
+            {
+              "key": "Significant Failings",
+              "value": "No significant failings or weaknesses in the process were identified during the year."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 78,
+          "title": "Financial Instruments Risk Management",
+          "data": [
+            {
+              "key": "Risk Management Overview",
+              "value": "The Company’s investment activities expose it to various types of financial risk associated with financial instruments and markets."
+            },
+            {
+              "key": "Types of Risks",
+              "value": "Market risk, liquidity risk, credit risk."
+            },
+            {
+              "key": "Market Risk Components",
+              "value": "Interest rate risk, price risk, currency risk."
+            },
+            {
+              "key": "Interest Rate Risk Impacts",
+              "value": "Affects income receivable on cash deposits and interest payable on variable rate borrowings."
+            },
+            {
+              "key": "Organizational Structure for Risk",
+              "value": "ASFML collectively assumes responsibility; the Group’s Risk Division includes various risk management areas."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 79,
+          "title": "Currency Exposure Analysis - March 2021 vs March 2022",
+          "data": [
+            {
+              "key": "2022_overseas_investments",
+              "value": "99,576"
+            },
+            {
+              "key": "2022_net_monetary_assets",
+              "value": "(9,413)"
+            },
+            {
+              "key": "2022_total_currency_exposure",
+              "value": "90,163"
+            },
+            {
+              "key": "2021_overseas_investments",
+              "value": "117,711"
+            },
+            {
+              "key": "2021_net_monetary_assets",
+              "value": "(10,051)"
+            },
+            {
+              "key": "2021_total_currency_exposure",
+              "value": "107,660"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "risk_factor",
+          "page": 87,
+          "title": "Investment Process Philosophy and Style",
+          "data": [
+            {
+              "key": "Investment Philosophy",
+              "value": "Markets are not always efficient; superior investment returns are attainable by identifying good companies cheaply."
+            },
+            {
+              "key": "Due Diligence Process",
+              "value": "Substantial due diligence including company visits."
+            },
+            {
+              "key": "Follow-up Frequency",
+              "value": "Meet management at least twice a year."
+            },
+            {
+              "key": "Investment Approach",
+              "value": "Careful price consideration and monitoring of portfolio positions."
+            },
+            {
+              "key": "Risk Management Approach",
+              "value": "In-depth research and diversification of stocks."
+            },
+            {
+              "key": "Performance Monitoring",
+              "value": "Regular independent monitoring and statistical analysis."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 12,
+          "title": "Chairman’s Statement & AGM Notice",
+          "data": [
+            {
+              "key": "AGM Date",
+              "value": "1 July 2022"
+            },
+            {
+              "key": "AGM Time",
+              "value": "10:00am"
+            },
+            {
+              "key": "AGM Location",
+              "value": "Bow Bells House, 1 Bread Street, London, EC4M 9HH (abrdn offices)"
+            },
+            {
+              "key": "Proxy Instructions",
+              "value": "Shareholders are encouraged to complete and return the enclosed proxy form with the Annual Report"
+            },
+            {
+              "key": "Additional Instructions",
+              "value": "Investors holding shares via a share plan or platform must arrange attendance/voting through their plan administrator; specific instructions provided for abrdn Investment Plan for Children, Share Plan or ISA holders"
+            },
+            {
+              "key": "Economic Outlook",
+              "value": "Commentary on Japan’s advanced economy, technological innovation, export strength, and challenges including ongoing pandemic impacts, rising commodity prices, inflation, and geopolitical risks. The Board remains optimistic about long‐term prospects despite current global risks."
+            },
+            {
+              "key": "Market Guidance",
+              "value": "Valuations are viewed as attractive for medium-term investments; expectation that the Bank of Japan will maintain low rates amid slow economic growth, though future changes in inflationary pressures or currency weakness remain uncertain."
+            },
+            {
+              "key": "Chairman",
+              "value": "Karen Brade"
+            },
+            {
+              "key": "Statement Date",
+              "value": "27 May 2022"
+            },
+            {
+              "key": "Company",
+              "value": "abrdn Japan Investment Trust plc"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 16,
+          "title": "Overview of Strategy Business Model",
+          "data": [
+            {
+              "key": "Business Model Overview",
+              "value": "This report provides shareholders with details of the Company’s business model and strategy as well as the principal risks and challenges it faces. The Company is an investment trust that seeks to deliver a competitive return through its investment policy."
+            },
+            {
+              "key": "Investment Objective and Purpose",
+              "value": "To achieve long-term capital growth principally through investment in listed Japanese companies with above average growth prospects."
+            },
+            {
+              "key": "Investment Policy",
+              "value": "The Company primarily invests in Japanese listed shares, constructing a portfolio of between 30 and 70 stocks selected from approximately 3,800 listed stocks, without restrictions on short-term benchmark variations. No individual shareholding shall exceed 10% of the portfolio at purchase."
+            },
+            {
+              "key": "Benchmark Index",
+              "value": "Topix (in Sterling terms)"
+            },
+            {
+              "key": "Investment Approach",
+              "value": "The Investment Manager’s philosophy is that markets are not always efficient, and superior returns are attainable by investing in companies with good fundamentals and above average growth prospects. The approach is bottom-up, with active engagement on performance and ESG issues."
+            },
+            {
+              "key": "Management Guidance",
+              "value": "The Directors do not envisage any change in this model in the foreseeable future. The full text of the Company’s investment policy is provided on page 86."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 22,
+          "title": "Viability Statement and Strategic Outlook",
+          "data": [
+            {
+              "key": "Modern Slavery Act",
+              "value": "Not applicable – the Company is not within the scope due to having no turnover and low-risk supply chains focused on professional advisers and service providers."
+            },
+            {
+              "key": "Viability Outlook",
+              "value": "The Board has assessed prospects over a three-year period and expects the Company to continue in operation, contingent on factors such as market conditions and liquidity of the portfolio."
+            },
+            {
+              "key": "Key Factors Considered",
+              "value": "Operational resilience, liquidity of the portfolio, stress test results, forecast revenue surplus, gearing levels, and adherence to loan covenants."
+            },
+            {
+              "key": "Capital Structure Details",
+              "value": "Fixed term loan facility of JPY 1.3 billion until January 2023 and a revolving loan facility of JPY 1.0 billion until December 2024, with active monitoring of gearing and covenants."
+            }
+          ],
+          "currency": "JPY"
+        },
+        {
+          "type": "guidance_update",
+          "page": 41,
+          "title": "Management and Governance Overview",
+          "data": [
+            {
+              "key": "Management Agreement",
+              "value": "The Company has appointed Aberdeen Standard Fund Managers Limited (\"ASFML\" or “Manager\") as its alternative investment fund manager.”},{"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 41,
+          "title": "Major Shareholders Summary",
+          "data": [
+            {
+              "key": "Total Ongoing Charges Ratio (OCR)",
+              "value": "1.00% of net assets, (2021 – 1.04%)"
+            },
+            {
+              "key": "Major Shareholders",
+              "value": "This table shows the major shareholders and their holdings in the company."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 42,
+          "title": "Directors’ Report - Financial Position and Share Allotment",
+          "data": [
+            {
+              "key": "Fixed Term Loan Facility",
+              "value": "JPY 1.3 billion until January 2023"
+            },
+            {
+              "key": "Revolving Loan Facility",
+              "value": "JPY 1.0 billion until December 2024"
+            },
+            {
+              "key": "Gearing Levels Review",
+              "value": "Regularly reviewed by the Board"
+            },
+            {
+              "key": "Operational Expectation",
+              "value": "Adequate resources to continue operational existence for at least 12 months"
+            },
+            {
+              "key": "AGM Date",
+              "value": "1 July 2022"
+            },
+            {
+              "key": "Authority to Allot Shares Resolution",
+              "value": "Renewal of authority to allot shares up to £125,599 (10% of issued share capital)"
+            },
+            {
+              "key": "Disapplication of Pre-emption Provisions Resolution",
+              "value": "Directors’ authority to allot and sell treasury shares without offering to shareholders"
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "guidance_update",
+          "page": 48,
+          "title": "Report of Audit Committee Composition",
+          "data": [
+            {
+              "key": "Chair",
+              "value": "Claire Boyle"
+            },
+            {
+              "key": "Independent Member",
+              "value": "Karen Brade"
+            },
+            {
+              "key": "Key Responsibilities",
+              "value": "Monitor integrity of financial statements"
+            },
+            {
+              "key": "Meetings Frequency",
+              "value": "At least twice per year"
+            },
+            {
+              "key": "Significant Accounting Issue",
+              "value": "Valuation, existence and ownership of investments"
+            },
+            {
+              "key": "Valuation Methodology",
+              "value": "According to stated accounting policies, Level 1 within FRS 102 fair value hierarchy"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 49,
+          "title": "Other Accounting Issues and Internal Control Review",
+          "data": [
+            {
+              "key": "Improper revenue recognition",
+              "value": "Investment income is accounted for in accordance with stated accounting policies and regularly reviewed by the Committee."
+            },
+            {
+              "key": "Compliance with investment trust status",
+              "value": "Monitored by the Manager on an ongoing basis and reported to the Committee."
+            },
+            {
+              "key": "Auditor Independence",
+              "value": "KPMG LLP reports annually on independence and objectivity and confirms compliance with UK independence guidelines."
+            },
+            {
+              "key": "Non-audit services",
+              "value": "For the year ended 31 March 2022 there were no non-audit services provided."
+            },
+            {
+              "key": "Audit Team",
+              "value": "The audit team consists of suitably experienced staff with knowledge of the investment trust sector."
+            },
+            {
+              "key": "Audit Tenure",
+              "value": "The Committee last undertook an audit tender process in 2015; KPMG LLP appointed for the financial year ended 31 March 2016."
+            },
+            {
+              "key": "Next audit tender",
+              "value": "The Company will be required to tender the external audit no later than for the year ending 31 March 2026."
+            },
+            {
+              "key": "Internal Control System",
+              "value": "The Board is responsible for the Company’s system of internal control and for reviewing its effectiveness."
+            },
+            {
+              "key": "Risk Management Framework",
+              "value": "Risks are identified and documented through a risk management framework by each function within the Manager’s activities."
+            },
+            {
+              "key": "Review of Manager's Internal Control",
+              "value": "The Committee has reviewed the Manager’s system of internal control and the process for identifying significant risks."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 56,
+          "title": "Independent Auditor’s Report for abrdn Japan Investment Trust plc Continued",
+          "data": [
+            {
+              "key": "Materiality for financial statements",
+              "value": "£1.009m (2021: £1.19m)"
+            },
+            {
+              "key": "Percentage of total assets for materiality",
+              "value": "1% (2021: 1%)"
+            },
+            {
+              "key": "Performance materiality",
+              "value": "75% of materiality for financial statements as a whole, equating to £756k (2021: £893k)"
+            },
+            {
+              "key": "Reporting threshold for misstatements",
+              "value": "Exceeding £50k (2021: £59k)"
+            },
+            {
+              "key": "Going Concern Basis",
+              "value": "The Directors do not intend to liquidate the Company or cease operations."
+            },
+            {
+              "key": "Risks affecting financial resources",
+              "value": "Valuation of investments, liquidity of investment portfolio, operational resilience of key service organisations."
+            }
+          ],
+          "currency": "GBP"
+        },
+        {
+          "type": "guidance_update",
+          "page": 57,
+          "title": "Conclusions on Going Concern and Fraud Detection",
+          "data": [
+            {
+              "key": "Directors' Use of Going Concern",
+              "value": "Appropriate"
+            },
+            {
+              "key": "Material Uncertainty",
+              "value": "None identified"
+            },
+            {
+              "key": "Going Concern Disclosure",
+              "value": "Acceptable"
+            },
+            {
+              "key": "Fraud Detection Assessment",
+              "value": "No fraudulent activities identified"
+            },
+            {
+              "key": "Regulatory Compliance",
+              "value": "Understanding control environment established"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 59,
+          "title": "Disclosure of Emerging and Principal Risks",
+          "data": [
+            {
+              "key": "Report Consistency",
+              "value": "We have not identified material misstatements in the Strategic report and the Directors' report, consistent with the financial statements."
+            },
+            {
+              "key": "Preparation Compliance",
+              "value": "The reports have been prepared in accordance with the Companies Act 2006."
+            },
+            {
+              "key": "Directors' Confirmation",
+              "value": "Directors confirmed a robust assessment of emerging and principal risks."
+            },
+            {
+              "key": "Risk Management",
+              "value": "Descriptions of risks and how they are managed and mitigated."
+            },
+            {
+              "key": "Viability Statement Assessment",
+              "value": "Directors have assessed prospects, period for assessment, and reasonable expectation of continued operation."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 60,
+          "title": "Independent Auditor’s Report",
+          "data": [
+            {
+              "key": "material consistency",
+              "value": "The Directors’ statement that they consider that the annual report and financial statements taken as a whole is fair, balanced and understandable."
+            },
+            {
+              "key": "audit committee's work",
+              "value": "The section describing the work of the audit committee and significant issues considered in relation to the financial statements."
+            },
+            {
+              "key": "risk management review",
+              "value": "Review of the effectiveness of the Company’s risk management and internal control systems."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 61,
+          "title": "Director and Auditor Responsibilities",
+          "data": [
+            {
+              "key": "Directors' responsibilities",
+              "value": "Preparation of financial statements, ensuring they give a true and fair view, internal control to prevent material misstatement, assessing ability as a going concern."
+            },
+            {
+              "key": "Auditor's responsibilities",
+              "value": "Obtain reasonable assurance about financial statements being free from misstatement, issue auditor's report, misstatements assessed based on influence on economic decisions."
+            },
+            {
+              "key": "Annual financial report requirement",
+              "value": "Prepared using single electronic reporting format as per TD ESEF Regulation."
+            },
+            {
+              "key": "Audit report responsibility",
+              "value": "Made solely to Company's members as per Companies Act 2006."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 94,
+          "title": "Investor Information Continued",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "abrdn Japan Investment Trust plc"
+            },
+            {
+              "key": "Contact for Investors",
+              "value": "abrdn Investment Trusts"
+            },
+            {
+              "key": "Contact Address",
+              "value": "PO Box 11020 Chelmsford Essex CM99 2DB"
+            },
+            {
+              "key": "Telephone",
+              "value": "0808 500 00 40"
+            },
+            {
+              "key": "E-mail",
+              "value": "inv.trusts@abrdn.com"
+            },
+            {
+              "key": "Website",
+              "value": "invtrusts.co.uk"
+            },
+            {
+              "key": "Registrar Contact",
+              "value": "Link Group"
+            },
+            {
+              "key": "Registrar Address",
+              "value": "10th Floor Central Square 29 Wellington Street Leeds LS1 4DL"
+            },
+            {
+              "key": "Registrar Telephone",
+              "value": "0371 664 0300"
+            },
+            {
+              "key": "Registrar E-mail",
+              "value": "enquiries@linkgroup.co.uk"
+            },
+            {
+              "key": "Registrar Website",
+              "value": "linkassetservices.com"
+            },
+            {
+              "key": "Pre-investment Disclosure Document",
+              "value": "Available on the Company's website"
+            },
+            {
+              "key": "Key Information Document",
+              "value": "Available on the Company's website at invtrusts.co.uk/en/investmenttrusts/literature-library"
+            },
+            {
+              "key": "Investor Suitability",
+              "value": "Shares are suitable for UK investors and professional-advised clients."
+            },
+            {
+              "key": "Investment Advice",
+              "value": "Consult a financial adviser before acquiring shares."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 95,
+          "title": "Investor Warning about Share Fraud and Boiler Room Scams",
+          "data": [
+            {
+              "key": "Warning Details",
+              "value": "Be alert to share fraud and boiler room scams. The Company has to make certain details from its share register publicly available."
+            },
+            {
+              "key": "Regulatory Body",
+              "value": "Financial Conduct Authority"
+            },
+            {
+              "key": "Contact Information",
+              "value": "Tel: 0800 111 6768 or email: register@fca.org.uk"
+            },
+            {
+              "key": "Additional Advice",
+              "value": "Visit fca.org.uk/consumers/scams for advice on share fraud."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 97,
+          "title": "Glossary of Terms",
+          "data": [
+            {
+              "key": "abrdn",
+              "value": "abrdn is a brand of the investment businesses of abrdn plc."
+            },
+            {
+              "key": "ASFML",
+              "value": "Aberdeen Standard Fund Managers Limited (“ASFML”) is a wholly owned subsidiary of abrdn plc and acts as the alternative investment fund manager (“AIFM”) for the Company."
+            },
+            {
+              "key": "AJL",
+              "value": "abrdn Japan Limited (“AJL”) is a subsidiary company of abrdn plc and is responsible for day-to-day investment management."
+            },
+            {
+              "key": "Alternative Performance Measures",
+              "value": "A financial measure of historical or future financial performance other than a defined measure."
+            },
+            {
+              "key": "AIC",
+              "value": "The Association of Investment Companies."
+            },
+            {
+              "key": "AIFMD",
+              "value": "The Alternative Investment Fund Managers Directive (AIFMD) regulates managers of ‘alternative investment funds’ in the EU."
+            },
+            {
+              "key": "Asset Cover",
+              "value": "Value of a company’s net assets available to repay a security."
+            },
+            {
+              "key": "abrdn Japan Investment Trust plc",
+              "value": ""
+            },
+            {
+              "key": "Benchmark Index",
+              "value": "The benchmark index is the TOPIX (in Sterling terms)."
+            },
+            {
+              "key": "Closed-End Fund",
+              "value": "A type of fund with a fixed number of shares not redeemable from the fund."
+            },
+            {
+              "key": "Discount",
+              "value": "The amount by which market price per share is lower than net asset value."
+            },
+            {
+              "key": "Dividend Cover",
+              "value": "Earnings per share divided by dividends per share expressed as a ratio."
+            },
+            {
+              "key": "Dividend Yield",
+              "value": "The annual dividend expressed as a percentage of the share price."
+            },
+            {
+              "key": "FCA",
+              "value": "Financial Conduct Authority."
+            },
+            {
+              "key": "Investment Trust",
+              "value": "A type of Closed-End Fund which invests in other securities."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 98,
+          "title": "Glossary of Terms Continued",
+          "data": [
+            {
+              "key": "Key Information Document",
+              "value": "The Packaged Retail and Insurance-based Investment Products (“PRIIPS”) Regulation requires the Manager, as the Company’s PRIIP ‘manufacturer’, to prepare a Key Information Document (“KID”) in respect of the Company. This KID must be made available by the Manager to retail investors prior to them making any investment decision and is available via the Company’s website. The Company is not responsible for the information contained in the KID and investors should note that the procedures for calculating the risks, costs and potential returns are prescribed by law. The figures in the KID may not reflect the expected returns for the Company and anticipated performance returns cannot be guaranteed."
+            },
+            {
+              "key": "Leverage",
+              "value": "For the purposes of the AIFMD, leverage is any method which increases the Company’s exposure, including the borrowing of cash and the use of derivatives. It is expressed as a ratio between the Company’s exposure and its net asset value and can be calculated on a gross and a commitment method."
+            },
+            {
+              "key": "Net Asset Value (NAV)",
+              "value": "The value of total assets less liabilities. Liabilities for this purpose included current and long-term liabilities. The net asset value divided by the number of shares in issue produces the net asset value per share."
+            },
+            {
+              "key": "Net Gearing/Cash",
+              "value": "Net gearing/cash is calculated by dividing total borrowings less cash or cash equivalents, by shareholders’ funds expressed as a percentage."
+            },
+            {
+              "key": "Ongoing Charges or OCR",
+              "value": "Ratio of expenses as percentage of average daily shareholders’ funds calculated as per the AIC’s industry standard method."
+            },
+            {
+              "key": "Pre-Investment Disclosure Document (PIDD)",
+              "value": "The AIFM and the Company are required to make certain disclosures available to investors in accordance with the AIFMD."
+            },
+            {
+              "key": "Premium",
+              "value": "The amount by which the market price per share of an investment trust exceeds the net asset value per share."
+            },
+            {
+              "key": "Price/Earnings (P/E) Ratio",
+              "value": "The ratio is calculated by dividing the middle-market price per share by the earnings per share."
+            },
+            {
+              "key": "Prior Charges",
+              "value": "The name given to all borrowings including debentures, loan and short term loans and overdrafts."
+            },
+            {
+              "key": "Total Assets",
+              "value": "Total Assets as per the balance sheet less current liabilities."
+            },
+            {
+              "key": "Total Return",
+              "value": "Total Return involves reinvesting the net dividend in the month that the share price goes ex-dividend."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 99,
+          "title": "AIFMD Disclosures (Unaudited) Pre-investment Disclosure Document (PIDD)",
+          "data": [
+            {
+              "key": "AIFMD Overview",
+              "value": "The AIFMD is intended to offer increased protection to investors in investment products that do not fall under the existing European Union regime for regulation of investment products known as “UCITS”."
+            },
+            {
+              "key": "Latest Update",
+              "value": "No material changes to the disclosures since the last update in July 2021."
+            },
+            {
+              "key": "Investment Strategy",
+              "value": "Information on the investment strategy and sector investment focus and principal stock exposures are included in the Strategic Report."
+            },
+            {
+              "key": "Liquidity Arrangements",
+              "value": "None of the Company’s assets are subject to special arrangements arising from their illiquid nature."
+            },
+            {
+              "key": "Risk Management",
+              "value": "There have been no changes to the risk management systems."
+            },
+            {
+              "key": "Liquidity Management",
+              "value": "No new arrangements or material changes to liquidity management systems."
+            },
+            {
+              "key": "Remuneration Policy",
+              "value": "The AIFM remuneration policy is available upon request."
+            },
+            {
+              "key": "Leverage Summary",
+              "value": "Maximum permitted leverage limits as of 31 March 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 108,
+          "title": "Investor Notice and Action Guidance",
+          "data": [
+            {
+              "key": "document_importance",
+              "value": "THIS DOCUMENT IS IMPORTANT AND REQUIRES YOUR IMMEDIATE ATTENTION."
+            },
+            {
+              "key": "advice",
+              "value": "Seek independent financial advice from a stockbroker, bank manager, solicitor, accountant, or authorised financial adviser if in doubt."
+            },
+            {
+              "key": "share_transfer_instruction",
+              "value": "If you have sold or transferred all your Ordinary shares in abrdn Japan Investment Trust plc, forward this document and any accompanying documents immediately to the purchaser, transferee, or the intermediary who effected the sale or transfer."
+            },
+            {
+              "key": "reference_websites",
+              "value": "For more information, visit abrdnjapan.co.uk or abrdn.com."
+            },
+            {
+              "key": "legal_reference",
+              "value": "Advisory based on guidelines under the Financial Services and Markets Act 2000 and Financial Services Act 2012."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 58,
+          "title": "Independent Auditor's Report on Financial Statements",
+          "data": [
+            {
+              "key": "Financial Reporting Legislation",
+              "value": "The Company is subject to laws and regulations that directly affect the financial statements, including financial reporting legislation."
+            },
+            {
+              "key": "Investment Trust Qualification",
+              "value": "Qualification as an Investment Trust under UK taxation legislation."
+            },
+            {
+              "key": "Potential Consequences of Non-Compliance",
+              "value": "Breach could lead to loss of deductions and exemptions from UK corporation tax."
+            },
+            {
+              "key": "Assessment of Legality of Distributions",
+              "value": "We assessed the legality of distributions based on comparing dividends paid to distributable reserves."
+            },
+            {
+              "key": "Other Regulatory Areas",
+              "value": "Areas with potential material effects include money laundering, data protection, and bribery legislation."
+            },
+            {
+              "key": "Inherent Limitations of Audit",
+              "value": "There is a risk that not all material misstatements will be detected due to inherent limitations."
+            },
+            {
+              "key": "Responsibility for Other Information",
+              "value": "The Directors are responsible for the other information presented in the Annual Report."
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "Our audit opinion does not cover the other information and we have not identified material misstatements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 102,
+          "title": "Notice of Annual General Meeting Continued Notes",
+          "data": [
+            {
+              "key": "Proxy Appointment",
+              "value": "A member entitled to attend, speak and vote is entitled to appoint one or more proxies to attend, speak and vote instead of him."
+            },
+            {
+              "key": "Proxy Restrictions",
+              "value": "A proxy need not be a member of the Company. You may appoint more than one proxy provided each proxy is appointed to exercise rights attached to different shares."
+            },
+            {
+              "key": "Submission Deadline",
+              "value": "Forms of proxy should be sent to the address noted on the form of proxy to arrive not less than 48 hours before the meeting."
+            },
+            {
+              "key": "Voting Rights",
+              "value": "A member present in person or by proxy has one vote on a show of hands and one vote for every Ordinary share on a poll."
+            },
+            {
+              "key": "Register of Members",
+              "value": "To attend and vote, a member must be registered by 6pm two days before the meeting."
+            },
+            {
+              "key": "CREST Proxy",
+              "value": "CREST members can appoint proxies electronically through procedures in the CREST Manual."
+            },
+            {
+              "key": "Validity of CREST Proxy",
+              "value": "A CREST Proxy Instruction must be authenticated and received by the issuer's agent no later than 48 hours before the meeting."
+            },
+            {
+              "key": "Invalidity Conditions",
+              "value": "The Company may treat as invalid a CREST Proxy Instruction in certain circumstances."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 103,
+          "title": "Proxy Appointment and Member Rights Information",
+          "data": [
+            {
+              "key": "Voting Rights Disclosure",
+              "value": "Any person holding 3% of the total voting rights in the Company who appoints a person other than the Chairman as his proxy will need to ensure that both he and such third party complies with their respective disclosure obligations under the Disclosure Guidance and Transparency Rules."
+            },
+            {
+              "key": "Nominated Person Rights",
+              "value": "A person nominated under Section 146 of the Companies Act 2006 may have a right to be appointed as a proxy or to give instructions to the shareholder as to the exercise of voting rights."
+            },
+            {
+              "key": "Company Website Statement Requirements",
+              "value": "The Company may be required to publish on a website a statement set out by members under section 527 of the Companies Act 2006 relating to the audit of the Company’s accounts."
+            },
+            {
+              "key": "Directors' Service Contracts",
+              "value": "No Director has a service contract with the Company."
+            },
+            {
+              "key": "Annual General Meeting Information",
+              "value": "Information regarding the Annual General Meeting is available from the Company's website."
+            },
+            {
+              "key": "Member Questions at Meetings",
+              "value": "The Company must answer any question relating to the business being dealt with at the meeting put by a member attending the meeting under Section 319A of the Companies Act 2006."
+            },
+            {
+              "key": "Register of Directors’ Interests",
+              "value": "The Register of Directors’ Interests kept by the Company will be open for inspection at the meeting."
+            },
+            {
+              "key": "Communication Restrictions",
+              "value": "Any provided contact information is not to be used for purposes other than those expressly stated."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": true,
+      "elements": [
+        {
+          "type": "strategic_restructuring",
+          "page": 15,
+          "title": "Investment Repositioning in Semiconductor & Automotive Sectors",
+          "data": [
+            {
+              "key": "Sector Focus",
+              "value": "Semiconductors and automotive components for electric vehicles"
+            },
+            {
+              "key": "Growth Drivers",
+              "value": "Rapidly growing end-market, product innovation, and shift to higher value products"
+            },
+            {
+              "key": "Business Mix",
+              "value": "Improved business mix with reduced reliance on cyclical applications like smartphones"
+            },
+            {
+              "key": "Key Industry Player",
+              "value": "Denso – leading in key components for electric vehicles (inverters, battery engine control units, thermal management systems)"
+            },
+            {
+              "key": "Portfolio Repositioning",
+              "value": "Multiple sales/exits: material handling provider Daifuku, Edulab, baby-care products supplier Pigeon, car auction operator USS, medical equipment maker Sysmex, and Honda-affiliated parts maker Stanley Electric"
+            },
+            {
+              "key": "Rationale for Actions",
+              "value": "Exiting positions due to unattractive valuations, high fixed R&D costs, supply chain risks, and to free up cash for better opportunities"
+            },
+            {
+              "key": "Market Context",
+              "value": "Global challenges such as commodity price rises, logistical issues, and supply chain shortages impacting profitability"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 20,
+          "title": "Overview of Strategy Continued Promoting the Success of the Company",
+          "data": [
+            {
+              "key": "S172 Statement",
+              "value": "The Board reports on its discharge of duties under section 172 of the Companies Act 2006, emphasizing long-term consequences, stakeholder relationships, and environmental impact."
+            },
+            {
+              "key": "Corporate Governance",
+              "value": "The Board embodies the company culture due to the absence of traditional employees, promotes strong governance, challenges advisers constructively, and regularly evaluates the Manager including through in-person and virtual meetings."
+            },
+            {
+              "key": "ESG Oversight",
+              "value": "ESG matters are highlighted as a critical responsibility, with the Board reviewing the Manager’s ESG approach as part of the investment process. Further ESG details are disclosed in designated sections of the corporate governance and ESG approach statements."
+            },
+            {
+              "key": "Investment Strategy and Risk",
+              "value": "Focus on achieving sustainable income and long-term capital growth under an appropriate risk framework. The Manager's investment performance and oversight are evaluated as part of overall strategy."
+            },
+            {
+              "key": "Loan Facility Renewal",
+              "value": "Renewal of the Company’s loan facilities was executed to utilize the investment structure and gearing to enhance long-term returns to shareholders."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 34,
+          "title": "Investment Case Study: AGC Overview and Climate Strategy",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Case study page detailing AGC (formerly Asahi Glass Co., Ltd) history, business activities, climate strategy, and carbon reduction commitments."
+            },
+            {
+              "key": "Source",
+              "value": "abrdn Japan Investment Trust plc"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 35,
+          "title": "Welcia Holdings ESG Initiatives",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Welcia Holdings"
+            },
+            {
+              "key": "Industry",
+              "value": "Drugstore Operator"
+            },
+            {
+              "key": "Business Model",
+              "value": "Operating drugstores in Japan"
+            },
+            {
+              "key": "Growth Strategies",
+              "value": "Focus on expansion and improving customer service"
+            },
+            {
+              "key": "ESG Initiatives",
+              "value": "Diversity goals and employee benefits"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 35,
+          "title": "Corporate Governance Commitments",
+          "data": [
+            {
+              "key": "Governance Standards",
+              "value": "UK Corporate Governance Code and AIC Code of Corporate Governance"
+            },
+            {
+              "key": "Company Registration",
+              "value": "Public Limited Company"
+            },
+            {
+              "key": "Recognition",
+              "value": "Investment Trust recognized by HM Revenue & Customs"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 89,
+          "title": "The Manager’s ESG Approach",
+          "data": [
+            {
+              "key": "Introduction",
+              "value": "Whilst Environmental, Social and Governance (ESG) factors alone are not the over-riding criteria in relation to the investment decisions taken by the Manager for the Company, ESG is fully integrated across the Manager’s investment process."
+            },
+            {
+              "key": "Responsible investing",
+              "value": "Integration of ESG into the Manager's investment process."
+            },
+            {
+              "key": "Core beliefs",
+              "value": "Assessing risk, enhancing value. ESG factors can be financially material – the level of consideration they are given in a company will ultimately have an impact on corporate performance."
+            },
+            {
+              "key": "Fuller insight",
+              "value": "Systematically assessing a company’s material ESG risks and opportunities alongside other financial metrics allows for better investment decisions."
+            },
+            {
+              "key": "Corporate advancement",
+              "value": "Informed and constructive engagement helps foster better companies, protecting and enhancing the value of the Company’s investments."
+            },
+            {
+              "key": "Researching companies",
+              "value": "The Manager conducts extensive and high quality fundamental and first-hand research to understand the investment case for every company, focusing on ESG issues."
+            },
+            {
+              "key": "Stewardship",
+              "value": "Active engagement with every company is fundamental to the investment process, leading to better risk-adjusted returns."
+            },
+            {
+              "key": "Global ESG Infrastructure",
+              "value": "abrdn has around 150 equity professionals globally analyzing ESG risks and opportunities as part of the research output."
+            },
+            {
+              "key": "Research examples",
+              "value": "Research into specific themes (e.g. labour relations, climate change), highlighting best practices."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 90,
+          "title": "ESG Equity Analysts Structure and Responsibilities",
+          "data": [
+            {
+              "key": "Role and Distribution",
+              "value": "abrdn has dedicated and highly experienced ESG equity analysts located across the UK, US, Asia and Australia, working within individual regional investment desks."
+            },
+            {
+              "key": "Responsibilities",
+              "value": "Their key responsibilities include pre-investment due diligence and ongoing company engagement, translating ESG thematic research into actionable insights."
+            },
+            {
+              "key": "Summary",
+              "value": "The table describes the role and distribution of ESG Equity Analysts at abrdn."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 90,
+          "title": "ESG Performance Classification Matrix",
+          "data": [
+            {
+              "key": "Best in class",
+              "value": "ESG considerations are a material part of the company's core business strategy with excellent disclosure."
+            },
+            {
+              "key": "Leader",
+              "value": "Good governance practices but not market leading."
+            },
+            {
+              "key": "Average",
+              "value": "Meets regulatory requirements with generally good governance."
+            },
+            {
+              "key": "Below average",
+              "value": "Evidence of material controversies and poor governance."
+            },
+            {
+              "key": "Laggard",
+              "value": "Severe governance concerns and poor treatment of minority shareholders."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 91,
+          "title": "ESG Analysis and Engagement Framework",
+          "data": [
+            {
+              "key": "Monitor",
+              "value": "Ongoing due diligence"
+            },
+            {
+              "key": "Contact",
+              "value": "Frequent dialogue"
+            },
+            {
+              "key": "Engage",
+              "value": "Exercise rights"
+            },
+            {
+              "key": "Act",
+              "value": "Consider all options"
+            },
+            {
+              "key": "Monitor",
+              "value": "Business performance"
+            },
+            {
+              "key": "Contact",
+              "value": "Senior executives"
+            },
+            {
+              "key": "Engage",
+              "value": "Attend AGM/EGMs"
+            },
+            {
+              "key": "Act",
+              "value": "Increase or decrease our"
+            },
+            {
+              "key": "Monitor",
+              "value": "Company financials"
+            },
+            {
+              "key": "Contact",
+              "value": "Board members"
+            },
+            {
+              "key": "Engage",
+              "value": "Always vote"
+            },
+            {
+              "key": "Act",
+              "value": "shareholding"
+            },
+            {
+              "key": "Monitor",
+              "value": "Corporate governance"
+            },
+            {
+              "key": "Contact",
+              "value": "Heads of departments and"
+            },
+            {
+              "key": "Engage",
+              "value": "Explain voting decisions"
+            },
+            {
+              "key": "Act",
+              "value": "Collaborate with other"
+            },
+            {
+              "key": "Monitor",
+              "value": "Company's key risks and"
+            },
+            {
+              "key": "Contact",
+              "value": "specialists"
+            },
+            {
+              "key": "Engage",
+              "value": "Maximise influence to drive"
+            },
+            {
+              "key": "Act",
+              "value": "investors"
+            },
+            {
+              "key": "Monitor",
+              "value": ""
+            },
+            {
+              "key": "Contact",
+              "value": "Site visits"
+            },
+            {
+              "key": "Engage",
+              "value": "outcomes"
+            },
+            {
+              "key": "Act",
+              "value": "Take legal action if"
+            },
+            {
+              "key": "Monitor",
+              "value": "opportunities"
+            },
+            {
+              "key": "Contact",
+              "value": ""
+            },
+            {
+              "key": "Engage",
+              "value": "positive"
+            },
+            {
+              "key": "Act",
+              "value": ""
+            },
+            {
+              "key": "Monitor",
+              "value": ""
+            },
+            {
+              "key": "Contact",
+              "value": ""
+            },
+            {
+              "key": "Engage",
+              "value": ""
+            },
+            {
+              "key": "Act",
+              "value": "necessary"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 92,
+          "title": "The Manager’s ESG Approach Continued",
+          "data": [
+            {
+              "key": "Initiative",
+              "value": "Climate Action 100+"
+            },
+            {
+              "key": "Statement Signed",
+              "value": "2018 Just Transition statement"
+            },
+            {
+              "key": "Focus Areas",
+              "value": "Energy transition, social dimension, worker and community needs, affordability and reliability of energy supply."
+            },
+            {
+              "key": "Engagement Approach",
+              "value": "Active engagement with investee companies and collaboration with other asset managers."
+            },
+            {
+              "key": "Goal",
+              "value": "Steer companies towards ambitious targets and sustainable low-carbon solutions."
+            },
+            {
+              "key": "Corporate Engagement Importance",
+              "value": "Essential for managing climate-related risks."
+            },
+            {
+              "key": "Research Contribution",
+              "value": "Provides climate change insights to assess financial materiality of climate risks."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 2,
+    "EUR": 3,
+    "GBP": 180,
+    "JPY": 17,
+    "AUD": 170,
+    "CNY": 2,
+    "INR": 1
+  },
+  "sha1": "d5ad1d288230072e3f6654bb6182d76f8af2ba0a"
+}

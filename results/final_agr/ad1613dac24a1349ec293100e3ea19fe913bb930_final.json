@@ -1,0 +1,4338 @@
+{
+  "letters": 358760,
+  "pages": 106,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "CSG Systems International, Inc.",
+    "major_industry": "Technology",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 5,
+          "title": "Business Overview of CSG Systems International, Inc.",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "CSG Systems International, Inc."
+            },
+            {
+              "key": "Headquarters",
+              "value": "169 Inverness Dr W, Suite 300, Englewood, Colorado 80112"
+            },
+            {
+              "key": "Telephone Number",
+              "value": "(303) 200-2000"
+            },
+            {
+              "key": "Stock Symbol",
+              "value": "CSGS"
+            },
+            {
+              "key": "NASDAQ Member",
+              "value": "Yes"
+            },
+            {
+              "key": "S&P Small Cap 600 Member",
+              "value": "Yes"
+            },
+            {
+              "key": "Russell 2000 Member",
+              "value": "Yes"
+            },
+            {
+              "key": "Employee Count",
+              "value": "5,700+"
+            },
+            {
+              "key": "Business Focus",
+              "value": "SaaS platform company enabling global companies to tackle business complexities"
+            },
+            {
+              "key": "Industries Served",
+              "value": "telecom, broadband cable, media, retail, healthcare, financial services, insurance, government, and others"
+            },
+            {
+              "key": "Key Offerings",
+              "value": "Revenue Management and Digital Monetization platforms"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 37,
+          "title": "Acquisitions and Related Financial Commitments",
+          "data": [
+            {
+              "key": "Tekzenit Acquisition",
+              "value": "2020 acquisition includes provisional purchase price payments (earn-out and qualified sales) for up to $10.0 million over a measurement period through March 31, 2023. As of December 31, 2022, no amounts have been accrued due to the payment not being probable."
+            },
+            {
+              "key": "Kitewheel Acquisition",
+              "value": "2021 acquisition agreement includes deferred purchase price payments of $6.0 million. In 2022, $2.0 million was paid, with the remaining $4.0 million scheduled to be paid in equal annual amounts on July 1, 2023 and 2024."
+            },
+            {
+              "key": "Keydok Acquisition",
+              "value": "2021 purchase agreement provides for up to $18.0 million in potential future earn-out payments through September 30, 2025. As of December 31, 2022, no amounts have been accrued due to the payment not being probable."
+            },
+            {
+              "key": "DGIT Acquisition",
+              "value": "2021 acquisition includes escrowed funds of approximately $2 million to be paid over the next four years, with $0.3 million holdback payments made in 2022 and potential future earn-out payments up to approximately $13 million. As of December 31, 2022, $0.3 million was accrued for potential earn-out payments."
+            },
+            {
+              "key": "Additional Context",
+              "value": "The acquisitions are further detailed in Note 7 to the Financial Statements. The document also discusses capital expenditures, stock warrants, and long-term debt, reflecting a broader financial strategy, but the primary focus here is on acquisition activity."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 56,
+          "title": "Goodwill and Long-Lived Assets: Property and Equipment, Intangible Assets, and Acquired Customer Contracts",
+          "data": [
+            {
+              "key": "Property and Equipment Breakdown Summary",
+              "value": "As of December 31, 2022 and 2021, property and equipment components include computer equipment, leasehold improvements, operating equipment, and furniture and fixtures. Total before depreciation was $177,253k (2022) versus $184,824k (2021) with accumulated depreciation of -$105,466k (2022) and -$111,244k (2021), resulting in net property and equipment of $71,787k for 2022 compared to $73,580k for 2021. Notable is a significant drop in furniture and fixtures."
+            },
+            {
+              "key": "Goodwill Reconciliation Summary",
+              "value": "The rollforward shows a beginning balance of $272,322k on January 1, 2021 which increased to $321,330k at December 31, 2021 largely due to $50,550k in new goodwill acquired. In 2022, the balance decreased to $304,036k due to a $7,211k impairment charge (MobileCard Holdings, LLC) and foreign exchange effects of -$11,979k, partly offset by adjustments of $1,896k related to prior acquisitions."
+            },
+            {
+              "key": "Acquisition Details",
+              "value": "Goodwill acquired during 2021 primarily relates to the acquisitions of Tango Telecom Limited, Kitewheel, LLC, Keydok, LLC, and DGIT Systems Pty Ltd, along with an additional investment in MobileCard Holdings, LLC. Adjustments in 2022 reflect finalization of purchase accounting for MobileCard Holdings, LLC and DGIT Systems Pty Ltd and management's decision to dissolve the MobileCard business."
+            },
+            {
+              "key": "Acquired Customer Contracts Summary",
+              "value": "Carrying values for acquired customer contracts as of December 31 show a decrease in the gross carrying amount from $171,373k to $165,497k, with accumulated amortization increasing (from -$114,166k to -$120,080k), resulting in a net amount decline from $57,207k to $45,417k. Amortization is based on useful lives ranging from one to twenty years."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 61,
+          "title": "Acquisitions and Investments",
+          "data": [
+            {
+              "key": "Tekzenit, Inc. Acquisition",
+              "value": "On January 2, 2020, acquired Tekzenit, Inc., a digital transformation company, for approximately $10 million. The purchase agreement includes potential additional payments up to $10 million, with $6 million as contingent purchase price and $4 million accounted as post‐acquisition compensation."
+            },
+            {
+              "key": "Tango Telecom Limited Acquisition",
+              "value": "On May 5, 2021, acquired Tango Telecom Limited, a supplier of convergent policy control and messaging solutions, for a purchase price of approximately $13 million (or about $11 million net of cash acquired)."
+            },
+            {
+              "key": "Kitewheel, LLC Acquisition",
+              "value": "On July 1, 2021, acquired Kitewheel, LLC, a provider of customer journey orchestration and analytics, for $40.0 million. Payment terms included $34.0 million at closing, $2.0 million in 2022, with the remaining $4.0 million payable in equal annual amounts over the next two years."
+            },
+            {
+              "key": "MobileCard Holdings, LLC Investment",
+              "value": "In 2018, invested in MobileCard Holdings, LLC, a mobile money fintech payment company, holding a 15% noncontrolling interest with a carrying value of approximately $8 million. In July 2021, additional units were purchased for about $4 million alongside a cash contribution of approximately $2 million."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 62,
+          "title": "Acquisition and Purchase Accounting Transactions",
+          "data": [
+            {
+              "key": "MobileCard controlling interest",
+              "value": "64% controlling interest held; consolidated from Q3 2021; purchase accounting completed in Q2 2022"
+            },
+            {
+              "key": "MobileCard recorded values",
+              "value": "Goodwill: $7.2M, Acquired client contracts: $2.6M, Technology: $0.9M, Non-controlling interest: $3.6M"
+            },
+            {
+              "key": "MobileCard business decision",
+              "value": "Business dissolved in June 2022 with Board support (See Note 8)"
+            },
+            {
+              "key": "Keydok acquisition",
+              "value": "Acquired 100% equity for $1.0M with provisions for up to $18.0M potential future earn-out payments; purchase accounting completed in Q2 2022; recorded goodwill of $1.0M"
+            },
+            {
+              "key": "DGIT acquisition",
+              "value": "Acquired 100% equity for approx. $16M ($14M at close, $2M in escrow, plus potential earn-out up to ~$13M); holdback payment of $0.3M made in 2022; purchase accounting completed in Q3 2022; recorded goodwill of $11.8M, acquired client contracts of $5.1M, acquired software of $3.6M; liabilities assumed include deferred revenue: $1.9M, accrued income taxes: $1.2M, and accrued employee compensation: $1.1M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 78,
+          "title": "Systems, Inc. and Charter Communications Operating, LLC 74",
+          "data": [
+            {
+              "key": "Company 1",
+              "value": "Systems, Inc."
+            },
+            {
+              "key": "Company 2",
+              "value": "Charter Communications Operating, LLC"
+            },
+            {
+              "key": "Identifier",
+              "value": "74"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 89,
+          "title": "Amendment – Fee Schedule Revision",
+          "data": [
+            {
+              "key": "Amendment Description",
+              "value": "Several sections (identified by redacted placeholders) of the agreement have been deleted and replaced. Additionally, a new line item has been added to the fee table. The language indicates that certain schedule, section, and attachment references have been modified, with multiple parts of the fee schedule being updated."
+            },
+            {
+              "key": "Fee Table Overview",
+              "value": "The attached fee table lists items such as '1. Startup', '[SRR He HHO] Fees', and other fee-related entries. Many of the details are redacted with placeholder text. The table columns include item Description, Frequency, and Fee. The summary notes that this is likely part of a financial services document, possibly related to an M&A advisory engagement."
+            },
+            {
+              "key": "Redaction Details",
+              "value": "Much of the text is heavily redacted, using asterisks, brackets, and placeholder text. This obscures specific fee amounts and detailed service descriptions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 101,
+          "title": "CSG Systems Subsidiaries and Their Jurisdictions",
+          "data": [
+            {
+              "key": "Subsidiary",
+              "value": "Ascade AB"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Sweden"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Ascade Middle East FZ-LLC"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "United Arab Emirates"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Billing Intec Uruguay S.A."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Uruguay"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG Forte Payments Holdings, Inc."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Delaware"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG Forte Payments, Inc."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Delaware"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG Forte Payments Canada, Inc."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Canada"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG International Australia Pty Limited"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Australia"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG International Colombia SAS."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Colombia"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG International Pty Limited"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Australia"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG International PTE Ltd"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Singapore"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG International Sdn Bhd"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Malaysia"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "MobileCard Holdings, LLC"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Delaware"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG SA Holdings (Pty) Limited"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "South Africa"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG SA Services (Pty) Limited"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "South Africa"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG Systems International, Inc."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Delaware"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG Systems U.K. Limited"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "United Kingdom"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG Systems, Inc."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Delaware"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Designgen, Comunicagao Visual, Unipessoal Lda."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Portugal"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "DGIT Systems Pty, Ltd."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Australia"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "DGIT Holdings Pty, Ltd."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Australia"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "DGIT NZ Limited"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "New Zealand"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Digiquant, Inc."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Delaware"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Independent Technology Billing Solutions S de RL de CV"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Mexico"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Inomial Pty, Ltd."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Australia"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "CSG Systems International (India) Pvt. Ltd."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "India"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Limited"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "United Kingdom"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Independent Technology Systems"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "United Kingdom"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Independent Technology Systems for Information Technology LLC"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Saudi Arabia"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Independent Technology Systems SL Unipersonal"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Spain"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Intec Bi ling Canada Ltd."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Canada"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Intec Bi ling Ireland"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Ireland"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Intec Bi ling Nigeria Limited"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Nigeria"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Intec Bi ling, Inc."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Delaware"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Intec Tel lecom Systems (France) SARL"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "France"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Intec Tel lecom Systems Denmark A/S"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Denmark"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Intec Tel lecom Systems Deutschland GmbH"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Germany"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Intec Tel lecom Systems do Brasil Limitada"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Brazil"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Intec Tel lecom Systems Italia S.P.A."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Italy"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Intec Tel lecom Systems Limited"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "United Kingdom"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Intec Tel lecom Systems South Africa (Pty) Limited"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "South Africa"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Keydok Mexico SA de CV"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Mexico"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Kitewheel (U.K.) Limited"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "United Kingdom"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "PT DGIT Indonesia"
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Indonesia"
+            },
+            {
+              "key": "Subsidiary",
+              "value": "Tango Telecom Ltd."
+            },
+            {
+              "key": "State or Country of Organization",
+              "value": "Ireland"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "Изменения в руководстве",
+          "data": [
+            {
+              "key": "Предыдущий директор",
+              "value": "Иванов Иван Иванович"
+            },
+            {
+              "key": "Новый директор",
+              "value": "Петров Петр Петрович"
+            },
+            {
+              "key": "Дата изменения",
+              "value": "2023-10-05"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 22,
+          "title": "Executive Officers of the Registrant",
+          "data": [
+            {
+              "key": "Brian A. Shepherd",
+              "value": "President and Chief Executive Officer. Joined CSG in 2016; appointed President and CEO and Board member in January 2021; previously served as Executive Vice President and Group President."
+            },
+            {
+              "key": "Hai Tran",
+              "value": "Executive Vice President and Chief Financial Officer. Joined CSG in November 2021; oversees finance, accounting, treasury, and investor relations; has over 30 years of finance and operational experience."
+            },
+            {
+              "key": "Kenneth M. Kennedy",
+              "value": "Executive Vice President, Chief Operating Officer and President - Revenue Management and Digital Monetization. Previously served as President of Technology and Product, EVP of Product Development, and held roles as CTO and Senior VP at CSG; one of the original founders of Telution."
+            },
+            {
+              "key": "Elizabeth A. Bauer",
+              "value": "Executive Vice President and Chief Experience Officer. Leads human capital management, marketing, corporate communications, and customer engagement; played key roles in strategic transitions, including post-acquisition integrations and new product launches."
+            },
+            {
+              "key": "Rasmani Bhattacharya",
+              "value": "Executive Vice President and Chief Legal Officer."
+            },
+            {
+              "key": "Chad C. Dunavant",
+              "value": "Executive Vice President, Chief Product and Strategy Officer."
+            },
+            {
+              "key": "David N. Schaaf",
+              "value": "Senior Vice President, Chief Accounting Officer and Treasurer."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 23,
+          "title": "Executive Leadership Profiles",
+          "data": [
+            {
+              "key": "Rasmani Bhattacharya",
+              "value": "Executive Vice President and Chief Legal Officer at CSG. Aged 54 and serving since 2022, she leads the company’s legal and compliance teams. She has extensive experience in structuring and negotiating complex, multi-jurisdictional transactions as well as business transformations including joint ventures, corporate restructurings, and strategic partnerships. Previously, she was Executive Vice President, General Counsel and Corporate Secretary at Gates Corporation."
+            },
+            {
+              "key": "Chad C. Dunavant",
+              "value": "Executive Vice President and Chief Product and Strategy Officer at CSG, aged 46. Responsible for developing, communicating, executing, and sustaining corporate strategic initiatives. Previously served as Senior Vice President and Global Head of Product Management, contributing significantly to CSG’s product and service innovations."
+            },
+            {
+              "key": "David N. Schaaf",
+              "value": "Senior Vice President, Chief Accounting Officer and Treasurer at CSG, aged 53. With a long tenure at CSG since 2002, he has held various roles in finance, accounting, treasury, and corporate development. Prior experience includes roles in corporate and international tax management."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 85,
+          "title": "Incorporation by Reference of Exhibits",
+          "data": [
+            {
+              "key": "Incorporation References",
+              "value": "References to exhibits in quarterly and annual reports covering various periods."
+            },
+            {
+              "key": "Omitted Portions",
+              "value": "Portions of the exhibit have been omitted pursuant to an application for confidential treatment."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Document Signature Block",
+          "data": [
+            {
+              "key": "Summary",
+              "value": "This table represents a signature block from a business document showing Brian A. Shepherd's signature in his capacity as President and Chief Executive Officer and Principal Executive Officer."
+            },
+            {
+              "key": "Signature",
+              "value": "Brian A. Shepherd"
+            },
+            {
+              "key": "Designation",
+              "value": "President and Chief Executive Officer (Principal Executive Officer)"
+            },
+            {
+              "key": "Regulatory Reference",
+              "value": "Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934"
+            },
+            {
+              "key": "Date",
+              "value": "February 17, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Corporate Signature Page",
+          "data": [
+            {
+              "key": "Summary",
+              "value": "This table represents a signature page of a corporate document (likely an annual report or financial statement) signed on February 17, 2023. It includes signatures of key officers and board members using electronic signature notations."
+            },
+            {
+              "key": "Date",
+              "value": "February 17, 2023"
+            },
+            {
+              "key": "Chair of the Board",
+              "value": "RONALD H. COOPER"
+            },
+            {
+              "key": "Chief Executive Officer",
+              "value": "BRIAN A. SHEPHERD (also noted as Director, President and Chief Executive Officer (Principal Executive Officer))"
+            },
+            {
+              "key": "Chief Financial Officer",
+              "value": "HAL TRAN"
+            },
+            {
+              "key": "Chief Accounting Officer",
+              "value": "DAVID N. SCHAAF"
+            },
+            {
+              "key": "Other Directors",
+              "value": "RACHEL A. BARGER; DAVID G. BARNES; GREGORY A. CONLEY; MARWAN H. FAWAZ; RAJAN NAIK; FRANK V. SICA; HAIYAN SONG; SILVIO TAVARES; TSE LI YANG"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 90,
+          "title": "Signature Page and Executive Signatory Record",
+          "data": [
+            {
+              "key": "Signature Information",
+              "value": "THIS AMENDMENT is executed on the days and year last signed below to be effective as of the date last signed below"
+            },
+            {
+              "key": "Company Details",
+              "value": "CHARTER COMMUNICATIONS OPERATING, LLC (“CUSTOMER”) and CSG SYSTEMS, INC. (“CSG”)"
+            },
+            {
+              "key": "Authorized Signatory",
+              "value": "By: Charter Communications, Inc., its Manager"
+            },
+            {
+              "key": "Name1",
+              "value": "Philip Montsinger"
+            },
+            {
+              "key": "Title1",
+              "value": "Group Vice President"
+            },
+            {
+              "key": "Date1",
+              "value": "Oct 18, 2022"
+            },
+            {
+              "key": "Name2",
+              "value": "Rasmani Bhattacharya"
+            },
+            {
+              "key": "Title2",
+              "value": "EVP and General Counsel"
+            },
+            {
+              "key": "Date2",
+              "value": "Oct 17, 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 96,
+          "title": "Amendment Execution Signature Page",
+          "data": [
+            {
+              "key": "Amendment Statement",
+              "value": "THIS AMENDMENT is executed on the days and year last signed below to be effective as of the Amendment Effective Date."
+            },
+            {
+              "key": "Customer",
+              "value": "CHARTER COMMUNICATIONS OPERATING, LLC"
+            },
+            {
+              "key": "Counterparty",
+              "value": "CSG SYSTEMS, INC."
+            },
+            {
+              "key": "Signatory 1 Name",
+              "value": "Philip Montsinger"
+            },
+            {
+              "key": "Signatory 1 Role",
+              "value": "Group Vice President"
+            },
+            {
+              "key": "Signatory 2 Name",
+              "value": "Rasmani Bhattacharya"
+            },
+            {
+              "key": "Signatory 2 Role",
+              "value": "EVP and General Counsel"
+            },
+            {
+              "key": "Execution Date",
+              "value": "Nov 30, 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 103,
+          "title": "CERTIFICATIONS PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002",
+          "data": [
+            {
+              "key": "Certifier Name",
+              "value": "Brian A. Shepherd"
+            },
+            {
+              "key": "Position",
+              "value": "President and Chief Executive Officer"
+            },
+            {
+              "key": "Date",
+              "value": "February 17, 2023"
+            },
+            {
+              "key": "Document Summary",
+              "value": "Certifications regarding the accuracy of the annual report."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 104,
+          "title": "Certifications Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002",
+          "data": [
+            {
+              "key": "executive_name",
+              "value": "Hai Tran"
+            },
+            {
+              "key": "title",
+              "value": "Executive Vice President and Chief Financial Officer"
+            },
+            {
+              "key": "date_certified",
+              "value": "February 17, 2023"
+            },
+            {
+              "key": "responsibilities",
+              "value": "Reviewed annual report, established disclosure controls and procedures, evaluated internal control effectiveness."
+            },
+            {
+              "key": "financial_statement_certification",
+              "value": "Certifies that financial statements fairly present financial condition and results of operations."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 2,
+          "title": "Table of Contents of 2022 Form 10-K",
+          "data": [
+            {
+              "key": "Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+              "value": "Includes detailed information on stockholder matters and management’s discussion regarding stock purchases."
+            },
+            {
+              "key": "Executive Compensation",
+              "value": "Discussion regarding compensation of executives, relevant for evaluating company performance and management incentives."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 7,
+          "title": "CSG's Growth Strategies and Key Focus Areas",
+          "data": [
+            {
+              "key": "competitive advantage",
+              "value": "CSG provides operational services including infrastructure management, application configuration, and business operations management."
+            },
+            {
+              "key": "customer engagement",
+              "value": "The company has helped improve digital customer experiences for two of the largest U.S. drugstore chains."
+            },
+            {
+              "key": "contract expansion",
+              "value": "Signed a large contract expansion with a leading drugstore chain in 2022."
+            },
+            {
+              "key": "financial growth goals",
+              "value": "CSG aims to accelerate revenue and earnings growth through disciplined acquisitions."
+            },
+            {
+              "key": "employee experience",
+              "value": "CSG prioritizes a workplace culture that fosters diversity, equity, and belonging."
+            },
+            {
+              "key": "market strategy",
+              "value": "Focus on customer obsession and technological innovation."
+            },
+            {
+              "key": "contract significance",
+              "value": "The six-year contract with Charter Communications was the largest in CSG's history."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 55,
+          "title": "Stock-Based Compensation and Segment Reporting",
+          "data": [
+            {
+              "key": "Stock-based compensation cost recognition",
+              "value": "Measured at grant date based on estimated fair value; recognized over requisite service period."
+            },
+            {
+              "key": "Income tax accounting",
+              "value": "Uses asset and liability method; recognizes taxes payable/refundable for current year."
+            },
+            {
+              "key": "FASB ASU No. 2020-06 adoption",
+              "value": "Simplifies accounting for convertible instruments; cumulative-effect adjustment of $9.8 million."
+            },
+            {
+              "key": "Revenue concentration risk",
+              "value": "Heavily reliant on two major customers (Charter and Comcast); potential adverse effects from customer contract changes."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 69,
+          "title": "Warrants and Equity Compensation Plans",
+          "data": [
+            {
+              "key": "Warrant Agreement",
+              "value": "In 2014, in conjunction with an amendment to the agreement with Comcast, stock warrants were issued allowing the purchase of up to 2.9 million shares. The warrants have a ten-year term and an exercise price of $26.68. As of December 31, 2022, 1.9 million warrants have vested and been exercised, and 1.0 million remain issued but unvested pending performance conditions."
+            },
+            {
+              "key": "Equity Compensation - Stock Incentive Plan",
+              "value": "The 2005 Stock Incentive Plan authorizes the issuance of up to 25.0 million shares to officers, key employees, and non-employee directors through various awards including stock options, stock appreciation rights, performance unit awards, restricted stock awards, and stock bonus awards. Certain awards count as two shares per award for issuance limits."
+            },
+            {
+              "key": "Restricted Stock Awards",
+              "value": "Restricted stock awards are issued at no cost and vest primarily over two to four years (Time-Based Awards), with provisions for acceleration upon a change in control and subsequent termination or death. Unvested awards are typically forfeited if employment ends."
+            },
+            {
+              "key": "Performance and Market-Based Awards",
+              "value": "Performance-Based Awards vest upon meeting pre-established financial and operational objectives, while Market-Based Awards vest based on achieving specified market or shareholder return performance targets. Valuation methods include fair value calculation using the closing market price on the grant date and Monte Carlo methods for certain awards."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 70,
+          "title": "Stock Awards Activity Summary",
+          "data": [
+            {
+              "key": "Unvested awards, beginning (shares)",
+              "value": "1206"
+            },
+            {
+              "key": "Weighted Avg Fair Value at Beginning",
+              "value": "$45.22"
+            },
+            {
+              "key": "Awards granted (shares)",
+              "value": "567"
+            },
+            {
+              "key": "Weighted Avg Fair Value for Grants",
+              "value": "$63.25"
+            },
+            {
+              "key": "Awards forfeited/cancelled (shares)",
+              "value": "-205"
+            },
+            {
+              "key": "Weighted Avg Fair Value for Forfeited",
+              "value": "$51.88"
+            },
+            {
+              "key": "Awards vested (shares)",
+              "value": "-421"
+            },
+            {
+              "key": "Weighted Avg Fair Value for Vested",
+              "value": "$44.67"
+            },
+            {
+              "key": "Unvested awards, ending (shares)",
+              "value": "1147"
+            },
+            {
+              "key": "Weighted Avg Fair Value at Ending",
+              "value": "$53.34"
+            },
+            {
+              "key": "Grant Date Fair Value per Share",
+              "value": "2022: $63.25, 2021: $48.82, 2020: $40.86"
+            },
+            {
+              "key": "Total Market Value of Shares Vesting",
+              "value": "2022: $26.4M, 2021: $21.0M, 2020: $32.8M"
+            },
+            {
+              "key": "Employee Stock Purchase Plan",
+              "value": "2.9M shares reserved for U.S. employees; Purchase price is 85% of market value; Purchases: 2022: 58,362 shares, 2021: 64,342 shares, 2020: 68,552 shares; 1.2M shares remain eligible as of Dec 31, 2022"
+            },
+            {
+              "key": "Stock-Based Compensation Expense",
+              "value": "2022: $27.2M, 2021: $21.4M, 2020: $25.2M"
+            },
+            {
+              "key": "Deferred Income Tax Benefit",
+              "value": "2022: $5.7M, 2021: $4.9M, 2020: $5.8M"
+            },
+            {
+              "key": "Actual Income Tax Benefit from Vesting",
+              "value": "2022: $4.5M, 2021: $4.4M, 2020: $4.0M"
+            },
+            {
+              "key": "Modification of Stock-Based Awards",
+              "value": "In August 2020, accelerated vesting of approximately 198,000 shares occurred under a Separation Agreement with the then-current President and CEO, resulting in a reversal of expense of $2.7M and recognition of a modified award fair value of $8.4M over the remaining period"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 71,
+          "title": "Executive Compensation",
+          "data": [
+            {
+              "key": "Adjustments",
+              "value": "Describes any adjustments or significant changes in executive compensation compared to previous periods."
+            },
+            {
+              "key": "Analysis",
+              "value": "Provides analysis on how compensation aligns with business performance and market benchmarks."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 72,
+          "title": "References to Proxy Statement and Executive Compensation",
+          "data": [
+            {
+              "key": "Directors, Executive Officers and Corporate Governance",
+              "value": "Information incorporated by reference from the Proxy Statement for the 2023 Annual Meeting of Stockholders concerning directors and general corporate governance matters."
+            },
+            {
+              "key": "Executive Compensation",
+              "value": "Item 11 references Executive Compensation details incorporated by reference from the Proxy Statement for the 2023 Annual Meeting of Stockholders."
+            },
+            {
+              "key": "Related Items",
+              "value": "Additional proxy statement references for Items 10, 13, and 14 covering aspects such as director independence, related transactions, and principal accounting fees."
+            },
+            {
+              "key": "Exhibits",
+              "value": "Exhibits including management contracts and compensatory plans are listed in the Exhibit Index on page 72, as required by Regulation S-K Item 601."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 81,
+          "title": "Index of Legal Documents and Agreements Related to CSG Systems International, Inc.",
+          "data": [
+            {
+              "key": "Sixteenth Amendment to the CSG Master Subscriber Management System Agreement",
+              "value": "between CSG System: and Comcast Cable Communications Management, LLC"
+            },
+            {
+              "key": "Seventeenth Amendment to the CSG Master Subscriber Management System Agreement",
+              "value": "between CSG Syst Inc. and Comcast Cable Communications Management, LLC"
+            },
+            {
+              "key": "Eighteenth Amendment to the CSG Master Subscriber Management System Agreement",
+              "value": "between CSG Systen and Comcast Cable Communications Management, LLC"
+            },
+            {
+              "key": "Nineteenth Amendment to the CSG Master Subscriber Management System Agreement",
+              "value": "between CSG Systen and Comcast Cable Communications Management, LLC"
+            },
+            {
+              "key": "CSG Systems, Inc. Wealth Accumulation Plan",
+              "value": "restated and amended effective December 6, 2017"
+            },
+            {
+              "key": "Adoption Agreement to CSG Systems, Inc. Wealth Accumulation Plan",
+              "value": "executed September 13, 2018"
+            },
+            {
+              "key": "CSG Systems International, Inc. 2001 Stock Incentive Plan",
+              "value": ""
+            },
+            {
+              "key": "Employment Agreement with Bret C. Griess",
+              "value": "dated February 19, 2009"
+            },
+            {
+              "key": "Amended and Restated Employment Agreement with Bret C. Griess",
+              "value": "dated November 19, 2015"
+            },
+            {
+              "key": "Amendment No. 1 to Amended and Restated Employment Agreement with Bret C. Griess",
+              "value": "dated November"
+            },
+            {
+              "key": "Separation Agreement with Bret C. Griess",
+              "value": "dated August 26, 2020"
+            },
+            {
+              "key": "Amendment No. 1 to Separation Agreement with Bret C. Griess",
+              "value": "dated December 31, 2020"
+            },
+            {
+              "key": "Employment Agreement with Kenneth M. Kennedy",
+              "value": "dated March 1, 2016"
+            },
+            {
+              "key": "Amendment No. 1 to Employment Agreement with Kenneth Kennedy",
+              "value": "dated November 17, 2016"
+            },
+            {
+              "key": "Amendment No. 2 to Employment Agreement with Kenneth M. Kennedy",
+              "value": "dated November 8, 2017"
+            },
+            {
+              "key": "Amendment No. 3 to Employment Agreement with Kenneth Kennedy",
+              "value": "dated January 1, 2021"
+            },
+            {
+              "key": "Employment Agreement with Rolland B. Johns",
+              "value": "dated May 17, 2018"
+            },
+            {
+              "key": "Transition Agreement with Rolland B. Johns",
+              "value": "dated February 18, 2022"
+            },
+            {
+              "key": "Employment Agreement with Brian A. Shepherd",
+              "value": "dated August 26, 2020"
+            },
+            {
+              "key": "Employment Agreement with Elizabeth A. Bauer",
+              "value": "dated May 20, 2021"
+            },
+            {
+              "key": "Employment Offer Letter with Hai Tran",
+              "value": "dated November 16, 2021"
+            },
+            {
+              "key": "CSG Systems International, Inc. Executive Severance Plan",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 6,
+          "title": "Technology Innovation, Digital Services & R&D Investments",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "The document outlines how the power and capacity of 5G will fuel digital services across industries such as healthcare, education, transportation, agriculture, and manufacturing. It emphasizes transforming customer experiences and creating new revenue sources for communication service providers."
+            },
+            {
+              "key": "Customer Experience",
+              "value": "Highlights delivering exceptional, personalized, predictive, and proactive customer experiences through omnichannel interactions and advanced digital platforms."
+            },
+            {
+              "key": "Digital Payments",
+              "value": "Describes a robust, end-to-end SaaS payments platform that enables merchants to accept various electronic payments and scale faster. The platform processes tens of billions of dollars annually for over 98,000 active merchants."
+            },
+            {
+              "key": "R&D Investment",
+              "value": "Emphasizes continuous and meaningful investments in research and development (R&D) to stay ahead of customer needs and drive technology innovation."
+            },
+            {
+              "key": "Technological Capabilities",
+              "value": "Mentions the use of open APIs, distributed architectures, and microservices technology that support complex B2B, B2C, and B2B2X ecosystems."
+            },
+            {
+              "key": "Market Recognition & Awards",
+              "value": "Cites product award wins such as the Big Innovation Awards for CSG Xponent (2022) and CSG Encompass (2023), as well as several recognitions in industry analyst reports including Forrester Wave and SPARK Matrix rankings."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 48,
+          "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "CSG Systems International, Inc."
+            },
+            {
+              "key": "Formation",
+              "value": "October 1994"
+            },
+            {
+              "key": "Headquarters",
+              "value": "Denver, Colorado"
+            },
+            {
+              "key": "Business Description",
+              "value": "A purpose-driven SaaS platform company offering revenue management, digital monetization, customer experience, and payments solutions for various industry verticals."
+            },
+            {
+              "key": "Operational Scope",
+              "value": "Serves B2B, B2C, and B2B2X markets globally."
+            },
+            {
+              "key": "Indices Membership",
+              "value": "S&P SmallCap 600 and Russell 2000"
+            },
+            {
+              "key": "Investment Focus",
+              "value": "Focused investments in research and development (R&D) and acquisitions aimed at expanding its solution set."
+            },
+            {
+              "key": "Financial Reporting",
+              "value": "Consolidated Financial Statements prepared in accordance with GAAP (US)"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 34,
+          "title": "Capital Expenditures and Investing/Financing Activities",
+          "data": [
+            {
+              "key": "Capital Expenditures 2022",
+              "value": "$37.0 million"
+            },
+            {
+              "key": "Capital Expenditures 2021",
+              "value": "$26.6 million"
+            },
+            {
+              "key": "Components",
+              "value": "Investments in computer hardware; software and related equipment; statement production equipment and infrastructure"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934",
+          "data": [
+            {
+              "key": "Registrant Name",
+              "value": "CSG SYSTEMS INTERNATIONAL, INC."
+            },
+            {
+              "key": "Fiscal Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "State of Incorporation",
+              "value": "Delaware"
+            },
+            {
+              "key": "Employer Identification No.",
+              "value": "47-0783182"
+            },
+            {
+              "key": "Principal Executive Offices",
+              "value": "169 Inverness Dr W, Suite 300, Englewood, Colorado 80112"
+            },
+            {
+              "key": "Telephone Number",
+              "value": "(303) 200-2000"
+            },
+            {
+              "key": "Market Value of Common Equity",
+              "value": "$1,332,181,496"
+            },
+            {
+              "key": "Shares Outstanding",
+              "value": "31,263,574"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 4,
+          "title": "Cautionary Note Regarding Forward-Looking Statements",
+          "data": [
+            {
+              "key": "Description",
+              "value": "This section discusses forward-looking statements related to future business and financial performance."
+            },
+            {
+              "key": "Identified Risks",
+              "value": "Relationships with significant customers, fluctuations in credit market conditions, general economic and political conditions, foreign currency exchange rates, ability to maintain secure computing environment, market acceptance of products and services, timely product development, budget adherence, competition, integration of acquired businesses, protection of intellectual property, compliance with laws and regulations, and risks related to COVID-19."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 21,
+          "title": "Long-lived Asset Impairment and Property Lease Disclosures",
+          "data": [
+            {
+              "key": "Long-lived Assets (excluding goodwill)",
+              "value": "Approximately $244 million in property and equipment, operating lease right-of-use assets, software, acquired customer contracts, and customer contract costs"
+            },
+            {
+              "key": "Goodwill",
+              "value": "Approximately $304 million"
+            },
+            {
+              "key": "Impairment Evaluation Trigger",
+              "value": "Evaluated when events or changes in circumstances indicate the carrying amount may not be recoverable"
+            },
+            {
+              "key": "Evaluation Method",
+              "value": "Market capitalization, third party valuation, and/or cash flow models are used to estimate fair value for impairment testing"
+            },
+            {
+              "key": "Potential Impact of Impairment",
+              "value": "If an impairment is recorded in the future, it could materially impact results of operations; however, the charge would be non-cash with no impact on current or future cash flows"
+            },
+            {
+              "key": "Leased Properties Overview",
+              "value": "Operating in over 25 leased sites worldwide totaling approximately 175,000 square feet plus three design and delivery centers; leases' terms vary from 2023 through 2033 domestically and 2023 through 2026 internationally"
+            },
+            {
+              "key": "Legal Proceedings",
+              "value": "No material pending or threatened legal proceedings identified"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 24,
+          "title": "Stock Price Performance and Index Comparison",
+          "data": [
+            {
+              "key": "common_stock_listing",
+              "value": "Listed on NASDAQ under the symbol 'CSGS'"
+            },
+            {
+              "key": "record_date",
+              "value": "January 31, 2023"
+            },
+            {
+              "key": "number_of_stockholders",
+              "value": "123"
+            },
+            {
+              "key": "chart_title",
+              "value": "Performance Comparison 2017-2022"
+            },
+            {
+              "key": "chart_description",
+              "value": "Line chart comparing cumulative total stockholder return for CSG Systems International, Inc., Russell 2000 Index, and SIC Code 7374 - Computer Processing and Data Preparation and Processing Services over a five-year period starting December 31, 2017."
+            },
+            {
+              "key": "chart_data_highlights",
+              "value": "Initial investment assumed at $100 in all series. Values fluctuate over the years with notable changes such as a drop in 2018 and peak performance variations between the series."
+            },
+            {
+              "key": "table_title",
+              "value": "Systems International, Inc. Performance Metrics"
+            },
+            {
+              "key": "table_summary",
+              "value": "The table presents yearly performance metrics from 2017 to 2022 for the 'ell 2000 Index Preparation and Processing Services' with two measurement rows. The first row generally shows higher values with a peak in 2021, while the second row indicates a declining trend by 2022."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 26,
+          "title": "Management Overview Results of Operations",
+          "data": [
+            {
+              "key": "Revenue 2022",
+              "value": "1,089,752"
+            },
+            {
+              "key": "Revenue 2021",
+              "value": "1,046,487"
+            },
+            {
+              "key": "Transaction fees 2022",
+              "value": "75,679"
+            },
+            {
+              "key": "Transaction fees 2021",
+              "value": "66,722"
+            },
+            {
+              "key": "Operating income 2022",
+              "value": "78,747"
+            },
+            {
+              "key": "Operating income 2021",
+              "value": "124,186"
+            },
+            {
+              "key": "Operating income margin 2022",
+              "value": "7.2%"
+            },
+            {
+              "key": "Operating income margin 2021",
+              "value": "11.99%"
+            },
+            {
+              "key": "Diluted EPS 2022",
+              "value": "141"
+            },
+            {
+              "key": "Diluted EPS 2021",
+              "value": "2.26"
+            },
+            {
+              "key": "Restructuring and reorganization charges 2022",
+              "value": "46,308"
+            },
+            {
+              "key": "Restructuring and reorganization charges 2021",
+              "value": "4,870"
+            },
+            {
+              "key": "Executive transition costs 2022",
+              "value": "1,302"
+            },
+            {
+              "key": "Executive transition costs 2021",
+              "value": "503"
+            },
+            {
+              "key": "Amortization of acquired intangible assets 2022",
+              "value": "14,355"
+            },
+            {
+              "key": "Amortization of acquired intangible assets 2021",
+              "value": "11,645"
+            },
+            {
+              "key": "Transaction-related costs 2022",
+              "value": "173"
+            },
+            {
+              "key": "Transaction-related costs 2021",
+              "value": "-1,071"
+            },
+            {
+              "key": "Stock-based compensation 2022",
+              "value": "27,945"
+            },
+            {
+              "key": "Stock-based compensation 2021",
+              "value": "21,580"
+            },
+            {
+              "key": "Amortization of OID 2022",
+              "value": "0"
+            },
+            {
+              "key": "Amortization of OID 2021",
+              "value": "3,021"
+            },
+            {
+              "key": "Loss on acquisition of controlling interest 2022",
+              "value": "0"
+            },
+            {
+              "key": "Loss on acquisition of controlling interest 2021",
+              "value": "6,180"
+            },
+            {
+              "key": "Financial Summary",
+              "value": "Revenue increased from $1,046,487 to $1,089,752. Operating income declined from $124,186 to $78,747, with the operating margin dropping from 11.99% to 7.2%. Increases in restructuring and reorganization charges, as well as stock-based compensation, contributed to significant changes in performance metrics including diluted EPS."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 27,
+          "title": "Significant Customer Relationships and Stock-Based Compensation Expense",
+          "data": [
+            {
+              "key": "Customer Relationships - Charter",
+              "value": "For 2022 and 2021, Charter generated $221 million in revenue, representing approximately 20%-21% of total revenue. The Charter agreement runs through December 31, 2027 with an automatic one-year extension subject to conditional processing minimums."
+            },
+            {
+              "key": "Customer Relationships - Comcast",
+              "value": "For 2022 and 2021, Comcast generated $214 million and $216 million respectively, representing approximately 20%-21% of total revenue. The Comcast agreement covers processing and related solutions until December 31, 2024 (and print/mail until December 31, 2025) with an option for a one-year extension."
+            },
+            {
+              "key": "Expense Breakdown - Stock-Based Compensation",
+              "value": "The table shows a breakdown of expenses: Cost of revenue ($4706 vs $4561), Research & Development ($3744 vs $3276), SG&A ($19495 vs $13743), Restructuring charges (-702 vs -180), and Total Stock-Based Compensation Expense increased from 21400 to 27243."
+            },
+            {
+              "key": "Reasons for Increase in Stock-Based Compensation",
+              "value": "The increase is mainly due to (i) higher grant date fair value for 2022 awards and a change in vest term (three-year vs four-year), (ii) the full year impact of performance-based awards issued in Q4 2021, and (iii) 2021 performance-based awards tracking above their objectives."
+            },
+            {
+              "key": "Critical Accounting Policies",
+              "value": "The document discusses critical accounting policies including revenue recognition, impairment assessments of long-lived assets, income taxes, and loss contingencies. These represent some of the most complex and subjective decisions affecting the financial statements."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 28,
+          "title": "Revenue Recognition",
+          "data": [
+            {
+              "key": "Revenue Recognition Policy",
+              "value": "Revenue is recognized upon conclusion that a contract with a customer exists, when the contract is legally enforceable and criteria such as collectability are met."
+            },
+            {
+              "key": "Criteria for Collectability",
+              "value": "Assessment includes the customer's credit worthiness, current financial position, historical payment patterns, industry economic conditions, and political/economic stability of the customer's region."
+            },
+            {
+              "key": "Contract Types and Arrangements",
+              "value": "Includes SaaS based revenue management platform arrangements, managed services, SaaS payments platform arrangements, software license and service arrangements, professional services, and bundled service arrangements."
+            },
+            {
+              "key": "Complex Judgments and Estimates",
+              "value": "Determination of revenue involves identifying performance obligations, estimating transaction price (including variable consideration), allocating stand-alone selling prices, and using hours-based methods for certain contracts. Changes in estimates and judgment significantly affect the timing and amount of revenue recognized."
+            },
+            {
+              "key": "Contract Modifications",
+              "value": "Contracts may be modified via amendments, change requests, or statements of work, which require complex accounting judgments to determine whether modifications are treated as separate contracts or parts of the existing contract."
+            },
+            {
+              "key": "Impact on Financial Performance",
+              "value": "The significant judgments in estimating revenue recognition can materially affect the reported revenue, including assessments of whether an arrangement is conducted on a gross or net revenue basis."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 29,
+          "title": "Impairment Assessments, Income Taxes, and Results of Operations",
+          "data": [
+            {
+              "key": "Impairment Assessments",
+              "value": "Evaluation of long-lived assets (property and equipment, operating lease right-of-use assets, software, customer contracts and related costs) for potential impairment based on future undiscounted cash flows."
+            },
+            {
+              "key": "Income Taxes",
+              "value": "Estimation of income tax liabilities across multiple jurisdictions including U.S. federal, state, and foreign taxes; involves judgments on deferred tax assets and liabilities from unrecognized tax benefits."
+            },
+            {
+              "key": "R&D Tax Credit",
+              "value": "Calculation involves identifying qualifying R&D projects and costs, with annual R&D expenses around $120-$140 million."
+            },
+            {
+              "key": "Loss Contingencies",
+              "value": "Assessment of potential claims relating to legal, regulatory, vendor contracts, service delivery, and labor matters which could require adjustments to reserves."
+            },
+            {
+              "key": "Detailed Discussion of Results of Operations",
+              "value": "Comparison of operational results and liquidity for 2022 versus 2021, including revenue growth."
+            },
+            {
+              "key": "Total Revenue 2022",
+              "value": "$1,089.8 million"
+            },
+            {
+              "key": "Total Revenue 2021",
+              "value": "$1,046.5 million"
+            },
+            {
+              "key": "Revenue Growth",
+              "value": "4.1% increase from 2021 to 2022, primarily driven by organic growth and increased conversion of customer accounts."
+            },
+            {
+              "key": "Regional Revenue - Americas (U.S.)",
+              "value": "$928,096 thousand"
+            },
+            {
+              "key": "Regional Revenue - Europe, Middle East, and Africa",
+              "value": "$115,980 thousand"
+            },
+            {
+              "key": "Regional Revenue - Asia Pacific",
+              "value": "$45,676 thousand"
+            },
+            {
+              "key": "Total Revenue (Table Summary)",
+              "value": "$1,089,752 thousand"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 30,
+          "title": "Financial Performance Metrics and Expense Breakdown",
+          "data": [
+            {
+              "key": "Total Operating Expenses 2022",
+              "value": "$1,011.0 million"
+            },
+            {
+              "key": "Total Operating Expenses 2021",
+              "value": "$922.3 million"
+            },
+            {
+              "key": "Operating Expenses Increase",
+              "value": "9.6%"
+            },
+            {
+              "key": "Cost of Revenue 2022",
+              "value": "$565.2 million"
+            },
+            {
+              "key": "Cost of Revenue 2021",
+              "value": "$543.2 million"
+            },
+            {
+              "key": "Cost of Revenue Increase",
+              "value": "4.0%"
+            },
+            {
+              "key": "R&D Expense 2022",
+              "value": "$137.9 million"
+            },
+            {
+              "key": "R&D Expense 2021",
+              "value": "$134.7 million"
+            },
+            {
+              "key": "R&D Expense Increase",
+              "value": "2.4%"
+            },
+            {
+              "key": "SG&A Expense 2022",
+              "value": "$238.0 million"
+            },
+            {
+              "key": "SG&A Expense 2021",
+              "value": "$214.7 million"
+            },
+            {
+              "key": "SG&A Expense Increase",
+              "value": "10.9%"
+            },
+            {
+              "key": "Depreciation Expense 2022",
+              "value": "$23.6 million"
+            },
+            {
+              "key": "Depreciation Expense 2021",
+              "value": "$24.8 million"
+            },
+            {
+              "key": "Restructuring and Reorganization Charges 2022",
+              "value": "$46.3 million"
+            },
+            {
+              "key": "Restructuring and Reorganization Charges 2021",
+              "value": "$4.9 million"
+            },
+            {
+              "key": "Breakdown - Real Estate Restructuring (Impairment Charges)",
+              "value": "$23.1 million"
+            },
+            {
+              "key": "Breakdown - Accelerated Depreciation on Leasehold Improvements",
+              "value": "$4.4 million"
+            },
+            {
+              "key": "Breakdown - Net Impairment (MobileCard)",
+              "value": "$7.0 million"
+            },
+            {
+              "key": "Breakdown - Workforce Reduction Charges (Involuntary Terminations)",
+              "value": "$7.7 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 31,
+          "title": "Financial Performance and Liquidity Analysis",
+          "data": [
+            {
+              "key": "Operating Income 2022",
+              "value": "$78.7 million"
+            },
+            {
+              "key": "Operating Income Margin 2022",
+              "value": "7.2%"
+            },
+            {
+              "key": "Operating Income 2021",
+              "value": "$124.2 million"
+            },
+            {
+              "key": "Operating Income Margin 2021",
+              "value": "11.9%"
+            },
+            {
+              "key": "Decrease Factors in Operating Income",
+              "value": "Increase in restructuring and reorganization charges related to an operating margin improvement initiative and a modest rise in SG&A expense"
+            },
+            {
+              "key": "Interest Expense 2022",
+              "value": "$16.4 million"
+            },
+            {
+              "key": "Interest Expense 2021",
+              "value": "$14.6 million"
+            },
+            {
+              "key": "Interest Expense Increase",
+              "value": "12.8% increase due to higher average debt balance and rising interest rates"
+            },
+            {
+              "key": "Loss on Derivative Liability",
+              "value": "$7.5 million loss from the conversion of 2016 Convertible Notes"
+            },
+            {
+              "key": "Other, net 2022",
+              "value": "$5.0 million income primarily from foreign currency transaction gains"
+            },
+            {
+              "key": "Other, net 2021",
+              "value": "$6.0 million expense, including a $6.2 million non-cash loss on the remeasurement of a pre-existing equity investment"
+            },
+            {
+              "key": "Effective Income Tax Rate",
+              "value": "28%"
+            },
+            {
+              "key": "Cash, Cash Equivalents and Short-term Investments 2022",
+              "value": "$150.4 million"
+            },
+            {
+              "key": "Cash, Cash Equivalents and Short-term Investments 2021",
+              "value": "$233.7 million"
+            },
+            {
+              "key": "Revolving Loan Facility Details",
+              "value": "$450.0 million senior secured revolving loan with $275.0 million outstanding as of Dec 31, 2022, plus additional borrowing in Jan 2023 resulting in $160.0 million available"
+            },
+            {
+              "key": "Regional Distribution of Liquidity 2022",
+              "value": "Americas: $91,569k; EMEA: $49,099k; Asia Pacific: $9,768k; Total: $150,436k"
+            },
+            {
+              "key": "Regional Distribution of Liquidity 2021",
+              "value": "Americas: $164,561k; EMEA: $56,368k; Asia Pacific: $12,743k; Total: $233,672k"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Cash Flows from Operating Activities and Operating Cash Management",
+          "data": [
+            {
+              "key": "Restricted Cash",
+              "value": "As of December 31, 2022, $1.0 million of cash is restricted for collateralizing guarantees and outstanding letters of credit."
+            },
+            {
+              "key": "Settlement and Merchant Reserve Assets",
+              "value": "An additional $238.7 million in assets are restricted due to contractual restrictions with merchants and company policy."
+            },
+            {
+              "key": "Operating Cash Flow Calculation",
+              "value": "Cash flows from operating activities are derived from net income with adjustments for non-cash items and changes in working capital, forming the core source of cash."
+            },
+            {
+              "key": "Revenue Model",
+              "value": "Recurring revenue comes from long-term revenue management solutions, payment transaction services, and software maintenance agreements, ensuring predictable cash flow."
+            },
+            {
+              "key": "Cash Flow Table Summary",
+              "value": "The table presents quarterly cash flows for 2021 and 2022, showing a decrease in total operating cash flow in 2022 (total of $63,597K) versus 2021 ($140,223K), and more volatile performance in quarterly results in 2022. Notes explain the impacts of employee incentive compensations, R&D capitalization changes due to the Tax Cuts and Jobs Act, and timing differences in working capital adjustments."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Operating Cash Flows & Trade Receivables Analysis",
+          "data": [
+            {
+              "key": "Operating Cash Flow Variation",
+              "value": "Variations in net cash provided by/(used in) operating activities are primarily related to changes in operating assets and liabilities, notably due to the timing of customer payments and fluctuations in accrued expenses."
+            },
+            {
+              "key": "Billed Trade Accounts Receivable",
+              "value": "Management of billed trade accounts receivable is critical for maintaining strong cash flows. The document includes detailed quarterly data for 2021 and 2022, showing figures for Gross amounts, Allowance, and Net Billed DBOs along with an Additional Value metric."
+            },
+            {
+              "key": "Table Title",
+              "value": "Quarter Ended 2022 and 2021 Financial Data"
+            },
+            {
+              "key": "Table Summary",
+              "value": "The table shows quarterly financial data for 2021 and 2022, highlighting significant increases in Gross amounts for Q4 2022 (279,717) and corresponding high Net Billed DBOs (274,189), along with consistent Additional Values ranging from 64 to 70."
+            },
+            {
+              "key": "Receivable Aging",
+              "value": "As of December 31, both 2022 and 2021, approximately 94% and 96% respectively of billed trade accounts receivable balances were less than 60 days past due."
+            },
+            {
+              "key": "Unbilled Trade AR",
+              "value": "Unbilled trade accounts receivable increased by $17.0 million to $52.8 million as of December 31, 2022, compared to $35.8 million as of December 31, 2021, driven by large implementation projects with milestone-based billing."
+            },
+            {
+              "key": "Income Taxes Change",
+              "value": "Net income taxes payable/receivable shifted by a net $9.6 million change, with December 31, 2022 reflecting a payable balance of $7.6 million versus a receivable balance of $2.0 million in 2021, primarily due to timing differences in Federal and state tax payments."
+            },
+            {
+              "key": "Risk Considerations",
+              "value": "There is potential impact on DBOs if customer payment delays occur, particularly given the longer billing cycles for international customers due to varying local practices and currency controls."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Item 8. Financial Statements and Supplementary Data - Consolidated Financial Statements Index",
+          "data": [
+            {
+              "key": "Company",
+              "value": "CSG SYSTEMS INTERNATIONAL, INC."
+            },
+            {
+              "key": "Section",
+              "value": "Financial Statements and Supplementary Data"
+            },
+            {
+              "key": "Components",
+              "value": "Management's Report on Internal Control Over Financial Reporting; Reports of Independent Registered Public Accounting Firm (PCAOB: 185); Consolidated Balance Sheets as of December 31, 2022 and 2021; Consolidated Statements of Income for the Years Ended December 31, 2022, 2021, and 2020; Consolidated Statements of Comprehensive Income for the Years Ended December 31, 2022, 2021, and 2020; Consolidated Statements of Stockholders’ Equity for the Years Ended December 31, 2022, 2021, and 2020; Consolidated Statements of Cash Flows for the Years Ended December 31, 2022, 2021, and 2020; Notes to Consolidated Financial Statements (pages: 38, 39, 40, 42, 43, 44, 45, 46, 47)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "Report of Independent Registered Public Accounting Firm To the Stockholders and Board of Directors CSG Systems International, Inc.",
+          "data": [
+            {
+              "key": "audit_opinion",
+              "value": "Unqualified opinion on the consolidated financial statements for the years ended December 31, 2022 and 2021"
+            },
+            {
+              "key": "internal_control",
+              "value": "Audited internal control over financial reporting as of December 31, 2022 with an effective, unqualified opinion"
+            },
+            {
+              "key": "standards",
+              "value": "Audits conducted in accordance with PCAOB standards and U.S. GAAP"
+            },
+            {
+              "key": "critical_audit_matter",
+              "value": "Evaluation of agreements with significant customers related to revenue recognition"
+            },
+            {
+              "key": "auditor",
+              "value": "KPMG LLP"
+            },
+            {
+              "key": "audit_date",
+              "value": "February 17, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Balance Sheet",
+          "data": [
+            {
+              "key": "Cash and cash equivalents (current period)",
+              "value": "150365"
+            },
+            {
+              "key": "Cash and cash equivalents (previous period)",
+              "value": "205635"
+            },
+            {
+              "key": "Short-term investments (current period)",
+              "value": "71"
+            },
+            {
+              "key": "Short-term investments (previous period)",
+              "value": "28037"
+            },
+            {
+              "key": "Total cash, cash equivalents and short-term investments (current period)",
+              "value": "150436"
+            },
+            {
+              "key": "Total cash, cash equivalents and short-term investments (previous period)",
+              "value": "233672"
+            },
+            {
+              "key": "Total current assets (current period)",
+              "value": "765955"
+            },
+            {
+              "key": "Total current assets (previous period)",
+              "value": "748199"
+            },
+            {
+              "key": "Total non-current assets (current period)",
+              "value": "582598"
+            },
+            {
+              "key": "Total non-current assets (previous period)",
+              "value": "638950"
+            },
+            {
+              "key": "Total assets (current period)",
+              "value": "1348553"
+            },
+            {
+              "key": "Total assets (previous period)",
+              "value": "1387149"
+            },
+            {
+              "key": "Total current liabilities (current period)",
+              "value": "527209"
+            },
+            {
+              "key": "Total current liabilities (previous period)",
+              "value": "695102"
+            },
+            {
+              "key": "Total non-current liabilities (current period)",
+              "value": "466095"
+            },
+            {
+              "key": "Total non-current liabilities (previous period)",
+              "value": "251803"
+            },
+            {
+              "key": "Total liabilities (current period)",
+              "value": "993304"
+            },
+            {
+              "key": "Total liabilities (previous period)",
+              "value": "946905"
+            },
+            {
+              "key": "Total stockholders' equity (current period)",
+              "value": "355249"
+            },
+            {
+              "key": "Total stockholders' equity (previous period)",
+              "value": "440244"
+            },
+            {
+              "key": "Summary",
+              "value": "The balance sheet shows that total assets decreased from 1,387,149 to 1,348,553, with current assets slightly increasing and non-current assets declining. Total liabilities increased while stockholders' equity decreased. The accompanying notes are an integral part of these consolidated financial statements."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "CSG SYSTEMS INTERNATIONAL, INC. CONSOLIDATED STATEMENTS OF INCOME",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "1,089,752"
+            },
+            {
+              "key": "Cost of revenue",
+              "value": "565,168"
+            },
+            {
+              "key": "Research and development",
+              "value": "137,913"
+            },
+            {
+              "key": "Selling, general and administrative",
+              "value": "238,018"
+            },
+            {
+              "key": "Operating income",
+              "value": "78,747"
+            },
+            {
+              "key": "Net income",
+              "value": "44,060"
+            },
+            {
+              "key": "Earnings per share (Basic)",
+              "value": "1.42"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "CSG SYSTEMS INTERNATIONAL, INC. CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
+          "data": [
+            {
+              "key": "Net income 2022",
+              "value": "44060"
+            },
+            {
+              "key": "Net income 2021",
+              "value": "72331"
+            },
+            {
+              "key": "Net income 2020",
+              "value": "58711"
+            },
+            {
+              "key": "Foreign currency translation adjustments 2022",
+              "value": "-20483"
+            },
+            {
+              "key": "Foreign currency translation adjustments 2021",
+              "value": "-7196"
+            },
+            {
+              "key": "Foreign currency translation adjustments 2020",
+              "value": "8368"
+            },
+            {
+              "key": "Other comprehensive income (loss), net of tax 2022",
+              "value": "-20476"
+            },
+            {
+              "key": "Other comprehensive income (loss), net of tax 2021",
+              "value": "-7215"
+            },
+            {
+              "key": "Other comprehensive income (loss), net of tax 2020",
+              "value": "8365"
+            },
+            {
+              "key": "Total comprehensive income, net of tax 2022",
+              "value": "23584"
+            },
+            {
+              "key": "Total comprehensive income, net of tax 2021",
+              "value": "65116"
+            },
+            {
+              "key": "Total comprehensive income, net of tax 2020",
+              "value": "67076"
+            },
+            {
+              "key": "Summary",
+              "value": "Net income declined from $72,331 in 2021 to $44,060 in 2022. Foreign currency translation adjustments are consistently negative, heavily impacting 2022 with -$20,483, contributing to a decrease in total comprehensive income."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Net income",
+              "value": "44060, 72331, 58711"
+            },
+            {
+              "key": "Depreciation",
+              "value": "27967, 24835, 22926"
+            },
+            {
+              "key": "Amortization",
+              "value": "48984, 47966, 43947"
+            },
+            {
+              "key": "Asset impairment",
+              "value": "31761, 1270, 11030"
+            },
+            {
+              "key": "Net cash provided by operating activities",
+              "value": "63597, 140223, 172993"
+            },
+            {
+              "key": "Purchases of software, property and equipment",
+              "value": "-36991, -26562, -29397"
+            },
+            {
+              "key": "Purchases of short-term investments",
+              "value": "0, -66970, -81824"
+            },
+            {
+              "key": "Proceeds from sale/maturity of short-term investments",
+              "value": "27953, 90452, 56454"
+            },
+            {
+              "key": "Net cash used in investing activities",
+              "value": "-9038, -66706, -66258"
+            },
+            {
+              "key": "Proceeds from issuance of common stock",
+              "value": "2969, 2610, 2523"
+            },
+            {
+              "key": "Payment of cash dividends",
+              "value": "-33475, -32587, -31056"
+            },
+            {
+              "key": "Proceeds from long-term debt",
+              "value": "290000, 150000, 0"
+            },
+            {
+              "key": "Net cash used in financing activities",
+              "value": "-51685, -33391, -92113"
+            },
+            {
+              "key": "Cash, cash equivalents and restricted cash, end of period",
+              "value": "389018, 391902, 354730"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "SaaS and Related Solutions Revenue Recognition",
+          "data": [
+            {
+              "key": "Business Model",
+              "value": "SaaS and Related Solutions, Managed Services, SaaS Payments Platform"
+            },
+            {
+              "key": "Contract Duration",
+              "value": "Typically 3 to 5 years for SaaS and Managed Services; month-to-month or fixed term with automatic renewals for SaaS payments platform"
+            },
+            {
+              "key": "Billing Frequency",
+              "value": "Fees billed monthly based on actual usage, volumes, number of transactions, or customer accounts"
+            },
+            {
+              "key": "Pricing Model",
+              "value": "Primarily variable consideration (dependent on monthly volumes/usage) with the potential for ancillary fixed fees (one-time, monthly, or annual)"
+            },
+            {
+              "key": "Revenue Recognition",
+              "value": "Revenue recognized ratably over daily or monthly periods as services are performed; for SaaS payments, revenue is recognized at a gross basis on a per-transaction fee or percentage of transaction principal"
+            },
+            {
+              "key": "Performance Obligations",
+              "value": "Multiple services delivered under long-term contracts, with a single performance obligation in managed services and SaaS payments platform arrangements"
+            },
+            {
+              "key": "Risk and Control",
+              "value": "For payment processing, the company acts as principal, bearing full margin risk and controlling fee determination independent of incurred costs"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 50,
+          "title": "Software and Services Revenue and Performance Obligations",
+          "data": [
+            {
+              "key": "Software License Sales",
+              "value": "Primarily relates to software license sales on either a perpetual or term license basis."
+            },
+            {
+              "key": "Professional Services",
+              "value": "Includes services to implement the software."
+            },
+            {
+              "key": "Contract Arrangements",
+              "value": "Often contracted in bundled arrangements that include software license and related implementation services."
+            },
+            {
+              "key": "Maintenance and Services",
+              "value": "May also include maintenance, managed services, or additional professional services."
+            },
+            {
+              "key": "Performance Obligations",
+              "value": "The initial sale generally requires significant production, modification, or customization."
+            },
+            {
+              "key": "Revenue Recognition Method",
+              "value": "Hours-based method based on hours worked compared against expected hours to complete."
+            },
+            {
+              "key": "Risk Factors",
+              "value": "Judgments and estimates may significantly affect revenue recognized and project profitability."
+            },
+            {
+              "key": "Maintenance Revenue",
+              "value": "Recognized ratably over the software maintenance period."
+            },
+            {
+              "key": "Aggregate Transaction Price",
+              "value": "Approximately $1.7 billion allocated to remaining performance obligations."
+            },
+            {
+              "key": "Future Revenue Expectation",
+              "value": "Expect to recognize approximately 75% by end of 2025."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Revenue Breakdown",
+          "data": [
+            {
+              "key": "Revenue Streams",
+              "value": "SaaS and related solutions; Software and services; Maintenance; Total revenue"
+            },
+            {
+              "key": "Key Figures (in thousands)",
+              "value": "SaaS and related solutions: 956995 (2022), 926290 (2021), 880822 (2020); Total revenue: 1089752 (2022), 1046487 (2021), 990533 (2020)"
+            },
+            {
+              "key": "Summary",
+              "value": "SaaS and related solutions is the dominant revenue stream contributing about 88% of total revenue in the most recent period. Total revenue shows an upward trend from 990,533 to 1,089,752."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Geographic Revenue Distribution",
+          "data": [
+            {
+              "key": "Americas (principally the U.S.)",
+              "value": "85% in 2022 and 2021; 86% in 2020"
+            },
+            {
+              "key": "Europe, Middle East and Africa (principally Europe)",
+              "value": "11% in 2022 and 2021; 10% in 2020"
+            },
+            {
+              "key": "Asia Pacific",
+              "value": "4% consistently across all periods"
+            },
+            {
+              "key": "Overall",
+              "value": "100% for each period"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Revenue Distribution by Segment (2020-2022)",
+          "data": [
+            {
+              "key": "Broadband/Cable/Satellite",
+              "value": "Declined from 58% in 2020 to 54% in 2022"
+            },
+            {
+              "key": "Telecommunications",
+              "value": "Remained stable at around 19-20%"
+            },
+            {
+              "key": "Other",
+              "value": "Grew from 23% in 2020 to 26% in 2022"
+            },
+            {
+              "key": "Overall",
+              "value": "100% for each period"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Balance Movement Statement 2021-2022",
+          "data": [
+            {
+              "key": "Beginning Balance (January 1, 2021)",
+              "value": "37,785"
+            },
+            {
+              "key": "Ending Balance (December 31, 2021)",
+              "value": "35,802"
+            },
+            {
+              "key": "Recognized during 2021",
+              "value": "252,661"
+            },
+            {
+              "key": "Reclassified to receivables (2021)",
+              "value": "-254,482"
+            },
+            {
+              "key": "Other adjustments (2021)",
+              "value": "-162"
+            },
+            {
+              "key": "Ending Balance (December 31, 2022)",
+              "value": "52,830"
+            },
+            {
+              "key": "Recognized during 2022",
+              "value": "285,562"
+            },
+            {
+              "key": "Reclassified to receivables (2022)",
+              "value": "-265,707"
+            },
+            {
+              "key": "Other adjustments (2022)",
+              "value": "-2,827"
+            },
+            {
+              "key": "Overall Change",
+              "value": "Increase from 35,802 to 52,830 despite reclassifications"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Financial Disclosures: Deferred Revenue and Cash Details",
+          "data": [
+            {
+              "key": "Deferred Revenue Table",
+              "value": "Movement from January 1, 2021 to December 31, 2022: Beginning balance -69632 (Jan 1, 2021), revenue recognized adjustments, advance receipt adjustments, 'Other' adjustments, and ending balance -68024 (Dec 31, 2022)."
+            },
+            {
+              "key": "Table Summary",
+              "value": "The table illustrates changes in deferred revenue due to revenue recognition and advance payments. An improvement in the 'Other' category from 317 in 2021 to 2808 in 2022 contributed to the slight overall decrease."
+            },
+            {
+              "key": "Postage Note",
+              "value": "Advance postage payments are passed through to customers and recorded in customer deposits as current liabilities, with net amounts included in SaaS and related solutions revenue."
+            },
+            {
+              "key": "Cash and Cash Equivalents",
+              "value": "Comprises highly liquid investments (money market funds, commercial paper, and time deposits). Foreign currency or non-US based cash equivalents are subject to currency controls and operational limitations."
+            },
+            {
+              "key": "Restricted Cash",
+              "value": "Cash legally or contractually restricted, used to collateralize bank guarantees and letters of credit. Reported as $1.0 million in 2022 and $1.4 million in 2021."
+            },
+            {
+              "key": "Short-term Investments",
+              "value": "Investments with maturities under two years, mainly fixed income securities. Proceeds from sale/maturity were $28.0 million in 2022, $90.5 million in 2021, and $56.5 million in 2020."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 65,
+          "title": "Income Tax Provision and Deferred Tax Position Summary",
+          "data": [
+            {
+              "key": "Effective Tax Rate (India, 2022/2021/2020)",
+              "value": "31.3%, 22.6%, and 22.4% respectively, compared to a statutory rate of ~29% due to SEZ operations"
+            },
+            {
+              "key": "SEZ Provisions",
+              "value": "CSG qualifies for a reduced income tax rate on operations within a Special Economic Zone for up to 10 years from 2018; rate increased in 2022 due to reduced SEZ operations"
+            },
+            {
+              "key": "International Tax Adjustments",
+              "value": "Australia, Ireland, and UK effective tax rates differ from statutory rates (30%, 12.5%, 19%) due to valuation allowances on deferred tax assets, withholding taxes, and foreign exchange recognition on intercompany loans"
+            },
+            {
+              "key": "Income Tax Provision (in thousands)",
+              "value": "Provision at Federal rate of 21% and various adjustments lead to total income tax provisions of 16,721; 28,615; and 26,645 for three consecutive years"
+            },
+            {
+              "key": "Deferred Income Tax Positions",
+              "value": "Net deferred income tax assets changed from $26,089k (Dec 31, 2022) to $832k (Dec 31, 2021), with deferred tax assets increasing and liabilities slightly rising"
+            },
+            {
+              "key": "Undistributed Foreign Earnings",
+              "value": "Approximately $70 million held in foreign subsidiaries, intended for indefinite reinvestment with no provision for potential withholding taxes"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 66,
+          "title": "Deferred Income Tax Assets",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Deferred Income Tax Assets"
+            },
+            {
+              "key": "Accrued expenses and reserves (Current Period)",
+              "value": "6206"
+            },
+            {
+              "key": "Accrued expenses and reserves (Prior Period)",
+              "value": "9470"
+            },
+            {
+              "key": "Stock-based compensation (Current Period)",
+              "value": "5321"
+            },
+            {
+              "key": "Stock-based compensation (Prior Period)",
+              "value": "3807"
+            },
+            {
+              "key": "Software (Current Period)",
+              "value": "-855"
+            },
+            {
+              "key": "Software (Prior Period)",
+              "value": "-1435"
+            },
+            {
+              "key": "Client contracts and related intangibles (Current Period)",
+              "value": "-9577"
+            },
+            {
+              "key": "Client contracts and related intangibles (Prior Period)",
+              "value": "-5993"
+            },
+            {
+              "key": "Goodwill (Current Period)",
+              "value": "-13424"
+            },
+            {
+              "key": "Goodwill (Prior Period)",
+              "value": "-11563"
+            },
+            {
+              "key": "Net operating loss carryforwards (Current Period)",
+              "value": "27820"
+            },
+            {
+              "key": "Net operating loss carryforwards (Prior Period)",
+              "value": "31548"
+            },
+            {
+              "key": "Property and equipment (Current Period)",
+              "value": "-3789"
+            },
+            {
+              "key": "Property and equipment (Prior Period)",
+              "value": "-4311"
+            },
+            {
+              "key": "Deferred revenue (Current Period)",
+              "value": "4882"
+            },
+            {
+              "key": "Deferred revenue (Prior Period)",
+              "value": "3578"
+            },
+            {
+              "key": "State taxes (Current Period)",
+              "value": "0"
+            },
+            {
+              "key": "State taxes (Prior Period)",
+              "value": "195"
+            },
+            {
+              "key": "Contingent payments (Current Period)",
+              "value": "-88"
+            },
+            {
+              "key": "Contingent payments (Prior Period)",
+              "value": "-123"
+            },
+            {
+              "key": "Foreign exchange gain/loss (Current Period)",
+              "value": "1791"
+            },
+            {
+              "key": "Foreign exchange gain/loss (Prior Period)",
+              "value": "1064"
+            },
+            {
+              "key": "Operating lease right-of-use assets and lease liabilities (Current Period)",
+              "value": "5872"
+            },
+            {
+              "key": "Operating lease right-of-use assets and lease liabilities (Prior Period)",
+              "value": "1768"
+            },
+            {
+              "key": "Unrecognized tax benefit (Current Period)",
+              "value": "408"
+            },
+            {
+              "key": "Unrecognized tax benefit (Prior Period)",
+              "value": "522"
+            },
+            {
+              "key": "Credits and incentives (Current Period)",
+              "value": "374"
+            },
+            {
+              "key": "Credits and incentives (Prior Period)",
+              "value": "397"
+            },
+            {
+              "key": "R&D (Current Period)",
+              "value": "28733"
+            },
+            {
+              "key": "R&D (Prior Period)",
+              "value": "554"
+            },
+            {
+              "key": "Other (Current Period)",
+              "value": "340"
+            },
+            {
+              "key": "Other (Prior Period)",
+              "value": "1337"
+            },
+            {
+              "key": "Total net deferred income tax assets (Current Period)",
+              "value": "54014"
+            },
+            {
+              "key": "Total net deferred income tax assets (Prior Period)",
+              "value": "30815"
+            },
+            {
+              "key": "Less: valuation allowance (Current Period)",
+              "value": "-27925"
+            },
+            {
+              "key": "Less: valuation allowance (Prior Period)",
+              "value": "-29983"
+            },
+            {
+              "key": "Net deferred income tax assets (Current Period)",
+              "value": "26089"
+            },
+            {
+              "key": "Net deferred income tax assets (Prior Period)",
+              "value": "832"
+            },
+            {
+              "key": "Summary",
+              "value": "The table presents a detailed breakdown of deferred income tax assets. Notably, net deferred income tax assets increased substantially from 832 to 26089 (in thousands) between periods, largely driven by a major increase in R&D related tax assets and changes in valuation allowance. Additional narrative details discuss the capitalization of R&D expenditures per section 174 of the IRC, the amortization periods for domestic and foreign costs, and the composition and valuation allowances established for state and foreign deferred tax assets, as well as details on NOL carryforwards."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 67,
+          "title": "Reconciliation of Liability for Unrecognized Tax Benefits and Related Disclosures",
+          "data": [
+            {
+              "key": "Table Detail Summary",
+              "value": "Balance, beginning of year: 2929 (§, year1), 1393 ($, year2), 1540 (year3); Additions related to prior acquisitions: 2, 1508, 160; Lapse of statute of limitations: 5, -151, -313; Additions for tax positions of prior years: 8, 36, 11; Reductions for tax positions of prior years: -382, -62, -105; Additions for tax positions of current year: null, 205, null; Balance, end of year: 2562 (§, year1), 2929 ($, year2), 1393 (year3)"
+            },
+            {
+              "key": "Unrecognized Tax Benefits",
+              "value": "As of December 31: 2022 = $2.6M, 2021 = $2.9M, 2020 = $1.4M; if recognized, the 2022 amount would favorably impact future effective tax rate"
+            },
+            {
+              "key": "Income Tax-Related Accrued Interest",
+              "value": "2022: $0.6M, 2021: $0.7M, 2020: $0.6M (net of any federal benefit of deduction)"
+            },
+            {
+              "key": "Estimated Future Adjustment",
+              "value": "Gross unrecognized tax benefits may decrease by up to $0.6M over the next 12 months due to tax audits and expiration of statute of limitations"
+            },
+            {
+              "key": "Employee Retirement Benefit Plans Expense",
+              "value": "For U.S.-based employees: 2022 = $13.2M, 2021 = $12.4M, 2020 = $12.1M; For non-U.S.-based employees: 2022 = $6.6M, 2021 = $6.1M, 2020 = $4.8M"
+            },
+            {
+              "key": "Outsourced Computing Services",
+              "value": "Agreement with Ensono, Inc. to provide outsourced computing services through September 30, 2025, supporting SaaS platform operations without significant capital investments"
+            },
+            {
+              "key": "Guarantees and Bonds",
+              "value": "Restricted assets for guarantees: $1.8M (cash and non-current assets); Performance guarantees: $3.4M; Money transmitter bonds outstanding: $19.0M"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 71,
+          "title": "Controls and Procedures Disclosure",
+          "data": [
+            {
+              "key": "Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+              "value": "None"
+            },
+            {
+              "key": "Evaluation of Disclosure Controls and Procedures",
+              "value": "Our management, including the CEO and CFO, conducted an evaluation as of the end of the reporting period and concluded that our disclosure controls and procedures were effective."
+            },
+            {
+              "key": "Management’s Annual Report on Internal Control over Financial Reporting",
+              "value": "Located at the front of Part II, Item 8 of the report."
+            },
+            {
+              "key": "Attestation Report of the Independent Registered Public Accounting Firm",
+              "value": "KPMG LLP issued an attestation report on the effectiveness of internal control over financial reporting as of December 31, 2022."
+            },
+            {
+              "key": "Changes in Internal Control over Financial Reporting",
+              "value": "No changes were identified during the fourth quarter of 2022 that materially affected internal control over financial reporting."
+            },
+            {
+              "key": "Disclosure Regarding Foreign Jurisdictions that Prevent Inspection",
+              "value": "Not applicable"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 92,
+          "title": "Fee Schedule",
+          "data": [
+            {
+              "key": "Row 1",
+              "value": "Index: 1, Description: Fees, Fee: [er]"
+            },
+            {
+              "key": "Row 2",
+              "value": "Index: 2, Description: PRBREROEE FOE Fees, Fee: "
+            },
+            {
+              "key": "Row 3",
+              "value": "Index: , Description: Bees 1 OF (Note *), Fee: [re rT"
+            },
+            {
+              "key": "Row 4",
+              "value": "Index: , Description: [Renney, Fee: [re ee]"
+            },
+            {
+              "key": "Row Note 1",
+              "value": "Index: Note 1, Description: Multiple redacted terms and conditions regarding modifications and changes, Fee: Additional fees information (redacted)"
+            },
+            {
+              "key": "Table Summary",
+              "value": "This appears to be a fee schedule or pricing table with heavily redacted content. The table lists various fee types and associated charges and includes notes regarding modifications and additional fees under certain conditions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 95,
+          "title": "Amendment to Fee Schedule and Invoicing Terms",
+          "data": [
+            {
+              "key": "Action",
+              "value": "Delete the current fee table and associated Notes in Schedule *, 'Fees,' and replace with updated fee terms."
+            },
+            {
+              "key": "Invoicing",
+              "value": "CSG shall invoice Customer the agreed-upon amount (****,***.**) for the specified services as detailed in the amendment."
+            },
+            {
+              "key": "Effective Date",
+              "value": "Commencement as of [******* *, ****] subject to execution of the Amendment."
+            },
+            {
+              "key": "Fee Schedule Reference",
+              "value": "New fee table provided in Schedule *, with multiple subsections referenced for fees and notes."
+            },
+            {
+              "key": "Table Details",
+              "value": "A fee-related table titled 'Fees' with three columns and three rows, including header information and partially obscured fee data."
+            },
+            {
+              "key": "Additional Notes",
+              "value": "Includes Note 33 (implementation and setup), Note 34 (minimum fee constraints), and Note 35 (data storage details) addressing contractual obligations and termination of services."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 105,
+          "title": "EXHIBIT 32.01 CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350",
+          "data": [
+            {
+              "key": "Report Type",
+              "value": "Annual Report on Form 10-K"
+            },
+            {
+              "key": "Purpose",
+              "value": "Certification of compliance with Rule 13a-14(b) or Rule 15d-14(b) of the Securities Exchange Act of 1934 and Section 1350 of Title 18 U.S.C."
+            },
+            {
+              "key": "Certification Statement",
+              "value": "The Report fully complies with the requirements of Section 13(a) or 15(d) of the Exchange Act and fairly presents the financial condition and results of operations."
+            },
+            {
+              "key": "CEO",
+              "value": "Brian A. Shepherd"
+            },
+            {
+              "key": "CFO",
+              "value": "Hai Tran"
+            },
+            {
+              "key": "Company",
+              "value": "CSG Systems International, Inc."
+            },
+            {
+              "key": "Certification Date",
+              "value": "February 17, 2023"
+            },
+            {
+              "key": "Regulatory References",
+              "value": "18 U.S.C. Section 1350; Section 906 of the Sarbanes-Oxley Act of 2002; Securities Exchange Act of 1934"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": true,
+      "elements": [
+        {
+          "type": "share_buyback",
+          "page": 25,
+          "title": "Issuer Repurchases of Equity Securities",
+          "data": [
+            {
+              "key": "Program Summary",
+              "value": "Share repurchase activity for Q4 2022: A total of 389,145 shares were purchased at an average price of $58.45 per share. Of these, 383,670 shares were acquired under the announced Stock Repurchase Program."
+            },
+            {
+              "key": "Monthly Details",
+              "value": "October: 165,164 shares at $58.06; November: 120,924 shares at $59.80; December: 103,057 shares at $57.50. Remaining shares available decreased from 2,325,717 in October to 2,107,047 in December."
+            },
+            {
+              "key": "Non-Program Shares",
+              "value": "Shares purchased outside of the Stock Repurchase Program represent shares acquired and cancelled in connection with stock incentive plans."
+            },
+            {
+              "key": "Additional Reference",
+              "value": "See Note 12 to the Financial Statements for further details regarding share repurchases."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "share_buyback",
+          "page": 36,
+          "title": "Capital Resources and Share Repurchase Details",
+          "data": [
+            {
+              "key": "Cash, Cash Equivalents and Short-term Investments",
+              "value": "As of December 31, 2022, $150.4 million in cash, cash equivalents and short-term investments; approximately 55% in U.S. dollars; includes $1.0 million of restricted cash."
+            },
+            {
+              "key": "Operating Cash Flows",
+              "value": "Strong cash flows expected to fund operating activities with some quarterly variation due to changes in operating assets and liabilities."
+            },
+            {
+              "key": "Revolving Loan Facility",
+              "value": "Under the 2021 Credit Agreement, a $450.0 million revolving loan facility is in place. As of December 31, 2022, $275.0 million outstanding; additional $15.0 million borrowed in January 2023; currently $160.0 million available."
+            },
+            {
+              "key": "Common Stock Repurchase Program",
+              "value": "Repurchases have been executed under the Stock Repurchase Program; as of December 31, 2022, 2.1 million shares remain authorized for repurchase. In 2022, 1,498,000 shares were repurchased for $87.9 million (weighted-average price of $58.71 per share). Additionally, 138,000 shares were repurchased from employees and cancelled for $8.7 million."
+            },
+            {
+              "key": "Cash Dividends",
+              "value": "In 2022, the Board declared $33.7 million in dividends with expectations to pay quarterly dividends moving forward, subject to Board approval."
+            },
+            {
+              "key": "Executive Transition",
+              "value": "Details regarding Separation Agreements with former President & CEO and former CFO, involving additional compensation of $9.1 million spread over 2021, 2022, and 2023."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "share_buyback",
+          "page": 68,
+          "title": "Stock Repurchase Program, Tax Withholding Repurchases & Cash Dividends",
+          "data": [
+            {
+              "key": "Stock Repurchase Program",
+              "value": "The company has an approved repurchase program allowing it to buy back common stock as market conditions warrant. In 2022, 1,497,000 shares were repurchased for $87.9 million (weighted‐average price of $58.71 per share). In 2021, 733,000 shares were repurchased for $36.0 million (weighted‐average price of $49.13 per share), and in 2020, 624,000 shares were repurchased for $26.3 million (weighted‐average price of $42.13 per share) under a SEC Rule 10b5-1 Plan. As of December 31, 2022, 2.1 million shares remained available for repurchase."
+            },
+            {
+              "key": "Stock Repurchases for Tax Withholdings",
+              "value": "In addition, the company repurchased and cancelled approximately 138,000 shares in 2022 for $8.7 million, 130,000 shares in 2021 for $6.3 million, and 254,000 shares in 2020 for $11.9 million, related to minimum tax withholding requirements under its stock incentive plans."
+            },
+            {
+              "key": "Cash Dividend",
+              "value": "The Board approved total cash dividends of $1.06 per share in 2022, $1.00 per share in 2021, and $0.94 per share in 2020, with total amounts being $33.7 million, $32.7 million, and $30.9 million respectively."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 35,
+          "title": "Long-Term Debt and Refinancing Transactions",
+          "data": [
+            {
+              "key": "Borrowed amount from 2021 Revolver",
+              "value": "$245.0 million"
+            },
+            {
+              "key": "Settlement of 2016 Convertible Notes",
+              "value": "$242.3 million"
+            },
+            {
+              "key": "Amount borrowed for general corporate purposes",
+              "value": "$45.0 million"
+            },
+            {
+              "key": "Repaid outstanding principal under 2021 Credit Agreement",
+              "value": "$120.0 million"
+            },
+            {
+              "key": "Amount borrowed under 2021 Credit Agreement",
+              "value": "$150.0 million"
+            },
+            {
+              "key": "Net increase in available cash from refinancing",
+              "value": "$30.0 million"
+            },
+            {
+              "key": "Deferred financing costs paid",
+              "value": "$3.0 million"
+            },
+            {
+              "key": "Principal repayments in 2022",
+              "value": "$7.5 million"
+            },
+            {
+              "key": "Principal repayments in 2021",
+              "value": "$8.4 million"
+            },
+            {
+              "key": "Revolver repayment in 2022",
+              "value": "$15.0 million"
+            },
+            {
+              "key": "Outstanding 2021 Term Loan balance as of Dec 31, 2022",
+              "value": "$140.6 million"
+            },
+            {
+              "key": "Outstanding 2021 Revolver balance as of Dec 31, 2022",
+              "value": "$275.0 million"
+            },
+            {
+              "key": "Additional borrowing on 2021 Revolver in Jan 2023",
+              "value": "$15.0 million"
+            },
+            {
+              "key": "Revolver balance after additional borrowing",
+              "value": "$290.0 million"
+            },
+            {
+              "key": "Estimated interest over the remaining life of the 2021 Credit Agreement",
+              "value": "Approximately $93 million (comprising ~$31m for Term Debt, ~$61m for Revolver, and ~$1m for commitment fee)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 46,
+          "title": "Stockholders' Equity Statement",
+          "data": [
+            {
+              "key": "Company",
+              "value": "CSG SYSTEMS INTERNATIONAL, INC."
+            },
+            {
+              "key": "Statement Title",
+              "value": "CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (in thousands)"
+            },
+            {
+              "key": "Reporting Period",
+              "value": "2020 to 2022"
+            },
+            {
+              "key": "Key Data Points",
+              "value": "Includes common stock shares, additional paid in capital, treasury stock, accumulated other comprehensive loss, accumulated earnings, noncontrolling interest, and total stockholders' equity"
+            },
+            {
+              "key": "Observations",
+              "value": "Net income was positive throughout the reported periods; treasury stock increased (indicating continued share repurchases); total stockholders' equity declined; dividends were consistently paid; notable events include stock-based compensation, foreign currency translation adjustments, and a business combination that added noncontrolling interest in 2021"
+            },
+            {
+              "key": "Additional Notes",
+              "value": "Accompanying notes are an integral part of these consolidated financial statements"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 53,
+          "title": "Financial Instrument Disclosures – Fair Value Hierarchy, Debt, and Settlement Liabilities",
+          "data": [
+            {
+              "key": "Cash equivalents and short-term investments breakdown",
+              "value": "The table details the fair value hierarchy for financial assets measured at fair value (in thousands). It breaks down cash equivalents and short‐term investments into categories such as Money market funds, Commercial paper, Corporate debt securities, and Asset‐backed securities. The totals across levels for the two periods are 5,389 and 58,342 respectively, with observable inputs (Levels 1 and 2) noted."
+            },
+            {
+              "key": "Credit Agreement – Debt Valuation",
+              "value": "A separate table presents the carrying and fair values of debt under the 2021 Credit Agreement. The Term Loan shows values of 140,625 and 148,125, and the Revolver is reported at 275,000 for the first period with no values in the second period. The fair values were derived from a discounted cash flow methodology (for the Credit Agreement) and from market prices for convertible debt."
+            },
+            {
+              "key": "Settlement and Merchant Reserve Assets/Liabilities",
+              "value": "Another table summarizes settlement asset/liability positions and merchant reserve asset/liability positions across two periods. For example, settlement assets/liabilities for period one are 219,368/218,525 and period two are 171,505/170,514, with corresponding merchant reserve figures noted. Overall, total assets and liabilities show a slight excess of assets over liabilities in both periods."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 58,
+          "title": "Customer Contract Costs Amortization Breakdown",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Customer Contract Costs Amortization Breakdown"
+            },
+            {
+              "key": "Customer Contract Incentives Amortization (4)",
+              "value": "792 (2022), 687 (2021), 708 (2020) in thousands, currency: $"
+            },
+            {
+              "key": "Capitalized Costs Amortization (5)",
+              "value": "15918 (2022), 17955 (2021), 13803 (2020) in thousands"
+            },
+            {
+              "key": "Capitalized Commission Fees Amortization (6)",
+              "value": "3028 (2022), 2576 (2021), 2679 (2020) in thousands"
+            },
+            {
+              "key": "Total Customer Contract Costs Amortization",
+              "value": "19738 (2022), 21218 (2021), 17190 (2020) in thousands, currency: $"
+            },
+            {
+              "key": "Summary",
+              "value": "Breakdown shows that the largest component is capitalized costs amortization (approximately 80% of total) and indicates fluctuations across periods."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 58,
+          "title": "Debt Structure and Components",
+          "data": [
+            {
+              "key": "Table Title",
+              "value": "Debt Structure and Components"
+            },
+            {
+              "key": "921 Credit Agreement",
+              "value": "2022: [$140,625, -$2,656, 137,969, 275,000]; 2021: [$148,125, -$3,406, 144,719, 0]"
+            },
+            {
+              "key": "916 Convertible Notes",
+              "value": "2022: ':'; 2021: 230,000"
+            },
+            {
+              "key": "Total Debt, Net of Unamortized Discounts",
+              "value": "412,969 (2022) and 374,719 (2021)"
+            },
+            {
+              "key": "Current Portion and Long-Term Debt",
+              "value": "2022: [-$37,500, 375,469]; 2021: [-$237,500, 137,219]"
+            },
+            {
+              "key": "Summary",
+              "value": "Debt structure indicates an increase in total debt from 374,719 in 2021 to 412,969 in 2022, with a significant reduction in the current portion, reflecting a shift to longer-term debt."
+            },
+            {
+              "key": "Credit Agreement Details",
+              "value": "In September 2021, a new $600.0 million credit agreement replaced the previous $350.0 million agreement, providing a $150.0 million Term Loan and a $450.0 million Revolver. Interest rates are based on adjusted LIBOR or an alternate base rate plus margins."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 59,
+          "title": "Credit Agreement and Convertible Notes Analysis",
+          "data": [
+            {
+              "key": "Credit Agreement Terms",
+              "value": "Includes LIBOR transition language with options for ABR, Eurodollar rate, alternate currency term rate, or alternate currency daily rate, and contains customary affirmative, negative, and financial covenants."
+            },
+            {
+              "key": "Covenants and Restrictions",
+              "value": "Limits the ability to incur additional indebtedness, create liens, make investments, enter into mergers and consolidations, sell assets, declare dividends or repurchase shares, engage in transactions with affiliates, prepay certain indebtedness, and issue capital stock."
+            },
+            {
+              "key": "Financial Covenants",
+              "value": "Mandates a maximum total leverage ratio, a maximum first-lien leverage ratio, and a minimum interest coverage ratio."
+            },
+            {
+              "key": "Security Arrangement",
+              "value": "A security agreement was entered into, pledging substantially all assets of domestic subsidiaries in favor of Bank of America N.A. as collateral agent."
+            },
+            {
+              "key": "Borrowings and Repayments",
+              "value": "Details include principal repayments, borrowings from the Revolver for settling convertible notes and general corporate purposes, with available funds updates."
+            },
+            {
+              "key": "Financing Costs",
+              "value": "Financing costs incurred in connection with the Credit Agreements, along with deferred financing costs being amortized using the effective interest method."
+            },
+            {
+              "key": "Convertible Notes (2016)",
+              "value": "Discussion of the 2016 Convertible Notes, including conversion terms, cash settlement election, principal conversion details, redemption of unconverted notes, and loss recognition on derivative liability upon conversion."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 60,
+          "title": "Financial Disclosures: Debt Maturities, Deferred Financing Costs & Lease Expenses",
+          "data": [
+            {
+              "key": "Additional Paid-In Capital Record",
+              "value": "Remaining amount paid above par of $4.8 million, net of tax recorded to additional paid-in capital."
+            },
+            {
+              "key": "2016 Convertible Notes OID Amortization",
+              "value": "The original issue discount related to the 2016 Convertible Notes was amortized to interest expense through December 15, 2021."
+            },
+            {
+              "key": "Estimated Maturities on Long-Term Debt",
+              "value": "As of December 31, 2022, the total long-term debt repayments amount to $415,625 (in thousands), with breakdown: 2021 Term Loan $140,625 and 2021 Revolver $275,000."
+            },
+            {
+              "key": "Deferred Financing Costs",
+              "value": "Net deferred financing costs of $2.7 million related to the 2021 Credit Agreement as of December 31, 2022, amortized through September 2026."
+            },
+            {
+              "key": "Interest Expense Components",
+              "value": "Interest expense includes amortization of deferred financing costs: $1.0 million (2022), $1.9 million (2021), and $1.9 million (2020)."
+            },
+            {
+              "key": "Weighted-Average Interest Rates",
+              "value": "Approximately 4% in 2022, and 5% in 2021 and 2020, including effects of OID, deferred financing costs, and commitment fees."
+            },
+            {
+              "key": "Lease Expense Summary",
+              "value": "Operating leases and related components are detailed in the lease table. For example, Total net lease expense in 2022 was $24,478 thousand, with components including operating lease expense, variable lease expense, short-term lease expense and offset by sublease income."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 73,
+          "title": "Exhibit Index – Legal and Corporate Documents",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "Index of legal documents related to corporate governance and capital structure matters for CSG Systems International, Inc. This includes amendments to the certificate of incorporation, bylaws, credit agreements, descriptions of capital stock, and various employee and executive plans."
+            },
+            {
+              "key": "Implementation Agreement",
+              "value": "Exhibit 2.10 (8) – Implementation Agreement between CSG Systems International, Inc. and Intec"
+            },
+            {
+              "key": "Certificate & Bylaws",
+              "value": "Exhibits 3.01 (1), 3.02 (40), and 3.03 (2) – Restated Certificate of Incorporation, Amended and Restated Bylaws, and Certificate of Amendment of Restated Certificate of Incorporation"
+            },
+            {
+              "key": "Stock Certificate & Indenture",
+              "value": "Exhibits 4.01 (1) and 4.10 (12) – Form of Common Stock Certificate and Indenture dated March 15, 2016 with The Bank of New York Mellon Trust Company, N.A."
+            },
+            {
+              "key": "Supplemental Indenture",
+              "value": "Exhibit 4.1 (34) – First Supplemental Indenture dated November 26, 2021"
+            },
+            {
+              "key": "Credit Agreement",
+              "value": "Exhibit 4.60 (32) – $600.0 million Amended and Restated Credit Agreement dated September 13, 2021"
+            },
+            {
+              "key": "Capital Stock Description",
+              "value": "Exhibit 4.90 (23) – Lead Arrangers and Joint Bookrunners Description of Capital Stock"
+            },
+            {
+              "key": "Employee and Executive Plans",
+              "value": "Exhibits 10.02 (38) Employee Stock Purchase Plan; 10.04 (25) Amended and Restated 2005 Stock Incentive Plan; 10.05 (9) Performance Bonus Program; 10.06 (5) 2001 Stock Incentive Plan"
+            },
+            {
+              "key": "Indemnification Agreements",
+              "value": "Exhibit 10.15 (7) – Indemnification Agreement with Directors and Executive Officers; 10.16 (4) – Indemnification Agreement with Mr. Ronald Cooper"
+            },
+            {
+              "key": "Master Subscriber Management System Agreement Amendments",
+              "value": "Exhibits 10.26* through 10.26G* – Multiple amendments to the Consolidated CSG Master Subscriber Management System Agreement with Charter Communications Operating, LLC"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 82,
+          "title": "21.01 Subsidiaries of the Registrant",
+          "data": [
+            {
+              "key": "Subsidiaries",
+              "value": "76"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 12,
+          "title": "Risk Factors",
+          "data": [
+            {
+              "key": "Forward-looking statements",
+              "value": "Statements made in MD&A and SEC filings meant to provide cautionary statements."
+            },
+            {
+              "key": "Emerging risks",
+              "value": "New risk factors may emerge as the company enters new markets."
+            },
+            {
+              "key": "Customer concentration",
+              "value": "Over 40% of revenue derived from two largest customers, Charter and Comcast."
+            },
+            {
+              "key": "Market consolidation",
+              "value": "Significant consolidation in the global communications industry."
+            },
+            {
+              "key": "Revenue dependence",
+              "value": "Revenue could be materially affected by the loss of significant customers."
+            },
+            {
+              "key": "Industry competition",
+              "value": "Possible increased competition affecting customer retention."
+            },
+            {
+              "key": "Demand reduction",
+              "value": "A reduction in demand for SaaS platforms could negatively impact revenue."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 13,
+          "title": "Risks Related to Systems, Networks and Implementations",
+          "data": [
+            {
+              "key": "Dependency on IT Infrastructure",
+              "value": "Delivery of solutions is heavily dependent on various computing environments, public/hybrid cloud, and third-party systems."
+            },
+            {
+              "key": "Risk of Service Interruptions",
+              "value": "Networks and systems may experience extended interruptions, outages, or security breaches due to maintenance, upgrades, or third-party failures."
+            },
+            {
+              "key": "Cybersecurity Threats",
+              "value": "There is a significant risk from cyber-attacks including ransomware, hacking, and unauthorized access which could result in reputational and financial harm."
+            },
+            {
+              "key": "Third-Party and Internet Vulnerabilities",
+              "value": "Reliance on third-party providers and internet access increases vulnerability to unauthorized access, data corruption, and service disruptions."
+            },
+            {
+              "key": "Implementation Challenges",
+              "value": "Complexity in implementing new solutions or migrating customers increases risks of delays, cancellations, and additional costs, impacting business operations and reputation."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 14,
+          "title": "Risk Factors Related to Acquisitions, Technological Change, and Restructuring",
+          "data": [
+            {
+              "key": "Acquisition Integration Risk",
+              "value": "We may not be successful in the integration or achievement of financial targets of our acquisitions due to risks such as expansion into new markets, management distraction, and unfavorable contract terms."
+            },
+            {
+              "key": "Technological Change Risk",
+              "value": "Rapid technological changes and competitive market demands require continuous innovation, extensive R&D, and integration of new technologies, increasing the risks of delays and errors."
+            },
+            {
+              "key": "Restructuring Risk",
+              "value": "There is a risk of incurring material restructuring or reorganization charges in the future, especially during economic downturns or with expanded global operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 16,
+          "title": "Risk Factors: Fraud, Open Source Software, and Intellectual Property",
+          "data": [
+            {
+              "key": "Fraud and Transaction Risks",
+              "value": "Failure to effectively handle fraud, fictitious transactions, and disputes could increase loss rates and harm the payments business, leading to chargebacks and consumer claims."
+            },
+            {
+              "key": "Merchant and Consumer Confidence",
+              "value": "Losses and chargebacks may not be fully recoverable from merchants, potentially diminishing confidence and use of services."
+            },
+            {
+              "key": "Open Source Software Concerns",
+              "value": "Use of open source software exposes the company to intellectual property claims, license compliance issues, potential need for re-engineering, and related operational risks."
+            },
+            {
+              "key": "Intellectual Property Risks",
+              "value": "Inadequate protection of intellectual property through various legal avenues could lead to costly litigation, loss of competitive position, and potential challenges in safeguarding proprietary technology."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 17,
+          "title": "Risk Factors: Strategic Alliances and Industry Challenges",
+          "data": [
+            {
+              "key": "Strategic Partnership Risk",
+              "value": "Our alliances with strategic partners could put our business at risk if the partner does not perform as expected. Failure of partners due to financial difficulties or changes in strategic objectives may lead them to withdraw participation."
+            },
+            {
+              "key": "Integrated Services Risk",
+              "value": "We rely on partnerships where other companies' products and services are integrated into our systems. Any defects or issues can cause system malfunctions, potentially harming our reputation and business outcomes."
+            },
+            {
+              "key": "Industry Dependence",
+              "value": "A large portion of our revenue comes from the global communications industry. Industry fluctuations, delayed investment decisions, and cost pressures may adversely impact our customers and, consequently, our business."
+            },
+            {
+              "key": "Market Consolidation and Competition",
+              "value": "The rapid consolidation within the industry could lead to increased bargaining power from fewer providers, forced price reductions, and potential loss of business as competitors intensify their efforts."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 18,
+          "title": "Risk Factors: Competition, Data Privacy, and Regulatory Enforcement",
+          "data": [
+            {
+              "key": "Competition",
+              "value": "The market is highly competitive with both independent and in-house solutions. New competitors and strategic alliances among independent providers amplify competitive pressures."
+            },
+            {
+              "key": "Information Security",
+              "value": "Significant risks of security breaches and unauthorized disclosure of confidential PII, potentially leading to loss of customer trust and business harm."
+            },
+            {
+              "key": "Regulatory Compliance",
+              "value": "Exposure to intricate data privacy laws (HIPAA, HITECH, CCPA, GLBA, GDPR, POPIA, LGPD, etc.) necessitates robust security measures and poses risks of increased compliance costs."
+            },
+            {
+              "key": "Enforcement and Penalties",
+              "value": "Potential enforcement actions and financial penalties related to U.S. payments regulation and money transmitter licensing could restrict or delay business operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 19,
+          "title": "Regulatory and Compliance Risks",
+          "data": [
+            {
+              "key": "Fines and Enforcement",
+              "value": "Potential fines or other enforcement actions if applicable laws and regulations are violated."
+            },
+            {
+              "key": "Regulatory Compliance Costs",
+              "value": "Significant additional costs and operational changes required to comply with federal, state, local, and international regulations."
+            },
+            {
+              "key": "AML and Counter-Terrorism",
+              "value": "Ongoing requirements to maintain compliance with anti-money laundering and counter-terrorist financing laws, impacting payments processing and global operations."
+            },
+            {
+              "key": "Anti-Corruption Regulations",
+              "value": "Risks associated with complying with laws such as the FCPA, the U.K. Anti-Bribery Act, and economic sanctions programs administered by OFAC."
+            },
+            {
+              "key": "Global Operational Challenges",
+              "value": "Complications arising from operating in multiple jurisdictions with varying regulatory requirements, potentially delaying business growth."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 20,
+          "title": "General Risks: Pandemic Impact, Talent Retention, and Revenue Variability",
+          "data": [
+            {
+              "key": "Global Pandemic Impact",
+              "value": "The document discusses how a global pandemic can disrupt operations, affecting customer activities, supply chain reliability, and increasing costs, with unpredictable global economic impacts and government responses."
+            },
+            {
+              "key": "Talent Retention Risk",
+              "value": "Reliance on key management and highly skilled personnel in areas such as R&D, technical support, and sales is highlighted as a risk, as competition and inflationary pressures may hinder attracting and retaining necessary talent."
+            },
+            {
+              "key": "Revenue Variability",
+              "value": "There is a risk of quarterly revenue fluctuations due to issues like delayed project initiations, forecasting challenges, and economic volatility, which could adversely affect market pricing and earnings expectations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 38,
+          "title": "Quantitative and Qualitative Disclosures About Market Risk",
+          "data": [
+            {
+              "key": "Market risk description",
+              "value": "Market risk is the potential loss arising from adverse changes in market rates and prices."
+            },
+            {
+              "key": "Interest Rate Risk",
+              "value": "The interest rates on our 2021 Credit Agreement are based upon an adjusted LIBOR rate plus an applicable margin, or an alternate base rate (ABR) plus an applicable margin."
+            },
+            {
+              "key": "Cash and Cash Equivalents",
+              "value": "Our cash and cash equivalents as of December 31, 2022 and 2021 were $150.4 million and $205.6 million, respectively."
+            },
+            {
+              "key": "Settlement and Merchant Reserve Assets",
+              "value": "We are exposed to market risk associated with cash held on behalf of our merchants related to our payment processing services."
+            },
+            {
+              "key": "Foreign Currency Exchange Rate Risk",
+              "value": "Our balance sheet and income statement are exposed to foreign currency exchange risk due to the fluctuations in the value of currencies."
+            },
+            {
+              "key": "Hypothetical 10% change impact",
+              "value": "A hypothetical adverse change of 10% in the December 31, 2022 exchange rates would not have had a material impact."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 40,
+          "title": "Management's Report on Internal Control Over Financial Reporting",
+          "data": [
+            {
+              "key": "Company",
+              "value": "CSG Systems International, Inc. and subsidiaries"
+            },
+            {
+              "key": "Assessment Date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Report Issuer",
+              "value": "KPMG LLP"
+            },
+            {
+              "key": "Internal Control Framework",
+              "value": "COSO Internal Control-Integrated Framework (2013)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 54,
+          "title": "Concentrations of Credit Risk and Related Financial Disclosures",
+          "data": [
+            {
+              "key": "Credit Risk Exposure",
+              "value": "The document discusses concentrations of credit risk related to cash deposits, cash equivalents, short-term investments, and accounts receivable. It outlines regular monitoring, customer creditworthiness evaluation, and the maintenance of an allowance for doubtful accounts."
+            },
+            {
+              "key": "Allowance for Doubtful Accounts Reconciliation",
+              "value": "A three‐year table shows the reconciliation of the allowance for doubtful accounts with items such as beginning balance, additions to expense, write-offs, other adjustments, and the resulting end balance (e.g., for Year3: beginning balance 4250, additions 1295, write-offs -8, other -9, ending balance 5628)."
+            },
+            {
+              "key": "Depreciation and Property Details",
+              "value": "Property and equipment are recorded at cost (or fair value in business combinations) and depreciated on a straight-line basis over three to ten years, with leasehold improvements depreciated over the lesser of economic life or lease term."
+            },
+            {
+              "key": "R&D and Software Expense",
+              "value": "Substantial R&D expenditures are noted for software development, with expenses of $137.9M in 2022, $134.7M in 2021, and $122.8M in 2020. No R&D costs were capitalized during these periods."
+            },
+            {
+              "key": "Earnings Per Share (EPS) Analysis",
+              "value": "The document includes a table on weighted-average common shares, showing basic shares around 31K and diluted shares increasing from approximately 31,298 to 32,278, with noted dilutive effects from restricted common stock."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 8,
+          "title": "Comcast Revenue Analysis",
+          "data": [
+            {
+              "key": "Customer",
+              "value": "Comcast"
+            },
+            {
+              "key": "2021 Amount (in dollars)",
+              "value": "214"
+            },
+            {
+              "key": "2021 Percentage",
+              "value": "20%"
+            },
+            {
+              "key": "2022 Amount (in dollars)",
+              "value": "216"
+            },
+            {
+              "key": "2022 Percentage",
+              "value": "21%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 9,
+          "title": "Competition and Proprietary Rights",
+          "data": [
+            {
+              "key": "Competition Overview",
+              "value": "The market for offerings is competitive and evolving with various competitors including independent providers and in-house developers."
+            },
+            {
+              "key": "Competitors Listed",
+              "value": "Amdocs Limited, NEC Netcracker, Salesforce, Adobe, Pegasystems, Twilio, Ericsson, Huawei, Intrado, Fiserv, Accenture, Tech Mahindra, FIS, Stripe, Nuvei/Paya."
+            },
+            {
+              "key": "Intellectual Property Protection",
+              "value": "Relies on trade secret, copyright, trademark, and patent laws, alongside contracts."
+            },
+            {
+              "key": "Risks to Intellectual Property",
+              "value": "Potential challenges to IP rights, reliance on third-party technologies, and risks from non-protection."
+            },
+            {
+              "key": "Business Impact",
+              "value": "Inadequate protection of intellectual property could adversely affect business and financial outcomes."
+            },
+            {
+              "key": "Cultural Philosophy",
+              "value": "Focus on attracting and retaining a talented and diverse workforce as a competitive differentiator."
+            },
+            {
+              "key": "Mission Statement",
+              "value": "To envision, invent, and shape a better, more future-ready world."
+            },
+            {
+              "key": "Guiding Principles",
+              "value": "Integrity, Inspiration, Impact."
+            },
+            {
+              "key": "Power of All",
+              "value": "Emphasizes inclusion and leveraging diverse global talent."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 57,
+          "title": "Amortization of Intangible Assets and Customer Contract Costs",
+          "data": [
+            {
+              "key": "Customer Contract Weighted-Average Amortization Period",
+              "value": "81 months as of December 31, 2022"
+            },
+            {
+              "key": "Estimated Amortization for Customer Contracts",
+              "value": "2023 – $9.7 million; 2024 – $8.5 million; 2025 – $7.7 million; 2026 – $5.9 million; 2027 – $3.1 million"
+            },
+            {
+              "key": "Software Weighted-Average Amortization Period",
+              "value": "30 months as of December 31, 2022"
+            },
+            {
+              "key": "Estimated Amortization for Software Intangible Assets",
+              "value": "2023 – $12.3 million; 2024 – $5.2 million; 2025 – $3.5 million; 2026 – $1.8 million; fully amortized by end of 2026"
+            },
+            {
+              "key": "Software Asset Details",
+              "value": "Breakdown of acquired and internal use software including gross carrying amounts, accumulated amortization, and net amounts across two periods."
+            },
+            {
+              "key": "Software Amortization Breakdown",
+              "value": "Total software amortization increased from $15,069K to $16,890K, with internal use software contributing approximately 84%."
+            },
+            {
+              "key": "Customer Contract Costs Breakdown",
+              "value": "Includes customer contract incentives, capitalized costs, and commission fees with a decrease in net amount from $54,735K to $46,618K; capitalized costs represent ~78% of the total gross carrying amount."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 11,
+          "title": "Regulatory Matters",
+          "data": [
+            {
+              "key": "Subject to laws and regulations",
+              "value": "Various international, federal, state, and local laws governing environmental, employment, and occupational health and safety matters."
+            },
+            {
+              "key": "Ongoing costs",
+              "value": "We expect to incur ongoing costs to comply with existing and future requirements."
+            },
+            {
+              "key": "Regulatory compliance",
+              "value": "Compliance with U.S. federal regulatory agencies and local authorities."
+            },
+            {
+              "key": "Transfer pricing and foreign regulations",
+              "value": "Subject to transfer pricing, foreign exchange control, and custom laws."
+            },
+            {
+              "key": "Laws regarding information security",
+              "value": "Includes data privacy, anti-money laundering, and counter-terrorist financing regulations."
+            },
+            {
+              "key": "Labor and employment laws",
+              "value": "Regulations established by the U.S. Department of Labor and local regulatory agencies."
+            },
+            {
+              "key": "Compliance assurance",
+              "value": "We believe our operations are in compliance with all applicable laws and regulations."
+            },
+            {
+              "key": "Material impacts",
+              "value": "No current regulatory developments expected to materially impact financial position."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 41,
+          "title": "Report of Independent Registered Public Accounting Firm on Internal Control Over Financial Reporting",
+          "data": [
+            {
+              "key": "Opinion",
+              "value": "The Company maintained effective internal control over financial reporting as of December 31, 2022."
+            },
+            {
+              "key": "Audit Date",
+              "value": "February 17, 2023"
+            },
+            {
+              "key": "Company Name",
+              "value": "CSG Systems International, Inc."
+            },
+            {
+              "key": "Audit Standards",
+              "value": "Public Company Accounting Oversight Board (United States) (PCAOB)"
+            },
+            {
+              "key": "Management's Responsibility",
+              "value": "Maintaining effective internal control over financial reporting."
+            },
+            {
+              "key": "Audit Firm",
+              "value": "KPMG LLP"
+            },
+            {
+              "key": "Location",
+              "value": "Omaha, Nebraska"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 83,
+          "title": "Consent, Certifications and Inline XBRL Documents",
+          "data": [
+            {
+              "key": "23.01",
+              "value": "Consent of KPMG LLP"
+            },
+            {
+              "key": "31.01",
+              "value": "Certifications Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002"
+            },
+            {
+              "key": "31.02",
+              "value": "Certifications Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002"
+            },
+            {
+              "key": "32.01",
+              "value": "Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002"
+            },
+            {
+              "key": "101.INS",
+              "value": "Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because XBRL tags are embedded within the Inline XBRL document"
+            },
+            {
+              "key": "101.SCH",
+              "value": "Inline XBRL Taxonomy Extension Schema Document"
+            },
+            {
+              "key": "101.CAL",
+              "value": "Inline XBRL Taxonomy Extension Calculation Linkbase Document"
+            },
+            {
+              "key": "101.DEF",
+              "value": "Inline XBRL Taxonomy Extension Definition Linkbase Document"
+            },
+            {
+              "key": "101.LAB",
+              "value": "Inline XBRL Taxonomy Extension Label Linkbase Document"
+            },
+            {
+              "key": "101.PRE",
+              "value": "Inline XBRL Taxonomy Extension Presentation Linkbase Document"
+            },
+            {
+              "key": "104",
+              "value": "Cover Page Interactive Data File (embedded within the Inline XBRL document); references to exhibits incorporated by reference in various SEC filings"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 102,
+          "title": "EXHIBIT 23.01 Consent of Independent Registered Public Accounting Firm",
+          "data": [
+            {
+              "key": "Registration Statements",
+              "value": "Nos. 333-117928, 333-125584, 333-176579, 333-176580, 333-196530, 333-227000, 333-248228, 333-266669"
+            },
+            {
+              "key": "Report Date",
+              "value": "February 17, 2023"
+            },
+            {
+              "key": "Consolidated Financial Statements",
+              "value": "CSG Systems International, Inc."
+            },
+            {
+              "key": "Internal Control",
+              "value": "Effectiveness of internal control over financial reporting"
+            },
+            {
+              "key": "Auditor",
+              "value": "KPMG LLP"
+            },
+            {
+              "key": "Location",
+              "value": "Omaha, Nebraska"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": true,
+      "elements": [
+        {
+          "type": "strategic_restructuring",
+          "page": 63,
+          "title": "Restructuring and Reorganization Charges",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Restructuring and reorganization charges incurred from cost reduction initiatives and significant business changes including involuntary employee terminations, lease modifications, asset impairments, and business reorganization."
+            },
+            {
+              "key": "2022 Office Consolidation",
+              "value": "Consolidated/closed office space at 13 leased real estate locations in Australia, India, Sweden, and the U.S., incurring $23.1 million in impairment charges and $4.4 million of accelerated depreciation."
+            },
+            {
+              "key": "2022 MobileCard Business Dissolution",
+              "value": "Dissolved MobileCard business resulting in $7.0 million net impairment charges (write-offs of acquired intangible assets, goodwill, and noncontrolling interest) and $0.6 million restructuring charges from termination of approximately 40 employees."
+            },
+            {
+              "key": "2022 Workforce Reduction",
+              "value": "Reduced workforce by approximately 100 employees in North America, incurring $7.1 million in restructuring charges related to involuntary terminations."
+            },
+            {
+              "key": "2021 Actions",
+              "value": "Workforce reduction of approximately 100 employees in North America with $3.4 million in termination charges; modification of a real estate lease leading to accelerated depreciation charges of $1.2 million."
+            },
+            {
+              "key": "2020 Workforce Reduction",
+              "value": "Reduced workforce by approximately 80 employees in North America, resulting in $4.2 million in involuntary termination charges."
+            },
+            {
+              "key": "Total Charges",
+              "value": "2022: $46.3 million; 2021: $4.9 million; 2020: $5.3 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 75,
+          "title": "Amendments to Consolidated CSG Master Subscriber Management System Agreement",
+          "data": [
+            {
+              "key": "Contract Agreement",
+              "value": "Consolidated CSG Master Subscriber Management System Agreement"
+            },
+            {
+              "key": "Parties Involved",
+              "value": "CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "Amendment Overview",
+              "value": "The document lists multiple amendments (ranging from the Seventh to the Thirty-Fourth Amendment) to the Master Subscriber Management System Agreement, with specific references (e.g., 10.26H*, 10.26Z*, etc.) and corresponding amendment numbers (e.g., Tenth, Twenty-Fourth, Twenty-Sixth, Twenty-Eighth, Twenty-Third, Thirty-First, Thirty-Second, Thirty-Third, Thirty-Fourth)."
+            },
+            {
+              "key": "Table Summary",
+              "value": "This table provides details on amendments including reference codes and descriptions, indicating that these are material adjustments to the contractual agreement over multiple iterations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 76,
+          "title": "Thirty-Fifth Amendment to Consolidated CSG Master Subscriber Management System Agreement",
+          "data": [
+            {
+              "key": "Document Identifier",
+              "value": "10.26AE* (23)"
+            },
+            {
+              "key": "Agreement Title",
+              "value": "Consolidated CSG Master Subscriber Management System Agreement"
+            },
+            {
+              "key": "Amendment Number",
+              "value": "Thirty-Fifth Amendment"
+            },
+            {
+              "key": "Parties Involved",
+              "value": "CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "Additional Identifier",
+              "value": "73"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 77,
+          "title": "Table of Amendments to Consolidated CSG Master Subscriber Management System Agreement",
+          "data": [
+            {
+              "key": "10.26AF* (24)",
+              "value": "Thirty-Seventh Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AG* (24)",
+              "value": "Thirty-Eighth Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AH* (26)",
+              "value": "Twenty-First Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AI* (26)",
+              "value": "Thirty-Ninth Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AJ* (26)",
+              "value": "Eortieth Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AK* (28)",
+              "value": "Forty-First Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AL* (28)",
+              "value": "Eorty-Second Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AM* (29)",
+              "value": "Forty-Fifth Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AN* (29)",
+              "value": "Forty-Sixth Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26A0* (29)",
+              "value": "Forty-Seventh Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AP* (30)",
+              "value": "Forty-Eighth Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AQ* (30)",
+              "value": "Eorty-Ninth Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AR* (30)",
+              "value": "Eorty-Ninth Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AS* (31)",
+              "value": "Fifty-First Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AT* (31)",
+              "value": "Eifty-Second Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AU* (31)",
+              "value": "Fifty-Third Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AV* (32)",
+              "value": "Eifty-Fifth Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AW* (35)",
+              "value": "Fifty-Seventh Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AX* (35)",
+              "value": "Fifty-Eighth Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "Unspecified Reference",
+              "value": "Fifty-Ninth Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26AY* (35)",
+              "value": "Reference entry with section (35)"
+            },
+            {
+              "key": "10.26AZ* (37)",
+              "value": "Sixty-First Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26BA* (37)",
+              "value": "Sixty-Third Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "10.26BB* (39)",
+              "value": "Sixty-Fifth Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Charter Communications Operating, LLC"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 79,
+          "title": "CSG Master Subscriber Management System Agreement Amendments",
+          "data": [
+            {
+              "key": "Summary",
+              "value": "This table lists various amendments to the CSG Master Subscriber Management System Agreements between CSG Systems, Inc. and two main entities – Charter Communications Operating, LLC and Comcast Cable Communications Management, LLC. The amendments range from the Sixty-Seventh Amendment through amendments numbered into the Fourteenth, with each entry referenced by a numerical code (e.g. 10.26BD*(41), 10.27H*(31), etc.)."
+            },
+            {
+              "key": "Notable Entries",
+              "value": "Examples include: '10.26BD*(41): Sixty-Seventh Amendment to Consolidated CSG Master Subscriber Management System Agreement between CSC' and '10.27O*(37): Fourteenth Amendment to the CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Comcast Cable Communications Management, LLC'."
+            },
+            {
+              "key": "Document Nature",
+              "value": "A structured list of contractual amendments reflecting changes in the terms of the subscriber management system agreements, indicative of strategic restructuring in contractual relations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 80,
+          "title": "Fifteenth Amendment to the CSG Master Subscriber Management System Agreement between CSG Systems, Inc. and Comcast Cable Communications Management, LLC",
+          "data": [
+            {
+              "key": "Document Reference",
+              "value": "10.27P*(37)"
+            },
+            {
+              "key": "Additional Identifier",
+              "value": "75"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 87,
+          "title": "Sixty-eighth Amendment to Consolidated CSG Master Subscriber Management System Agreement Between CSG Systems, Inc. and Charter Communications Operating, LLC – Schedule Amendment",
+          "data": [
+            {
+              "key": "Amendment Number",
+              "value": "Sixty-eighth Amendment"
+            },
+            {
+              "key": "Document Type",
+              "value": "Schedule Amendment to Master Subscriber Management System Agreement"
+            },
+            {
+              "key": "Parties",
+              "value": "CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "Original Agreement Effective Date",
+              "value": "August 1, 2017"
+            },
+            {
+              "key": "CSG Document No.",
+              "value": "4114281"
+            },
+            {
+              "key": "Excluded Information Notice",
+              "value": "This document contains information excluded because it is not material and would be competitively harmful if disclosed; such information is marked with brackets and (***)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 88,
+          "title": "Amendment to Contract Terms and Schedule",
+          "data": [
+            {
+              "key": "Contract Amendment Details",
+              "value": "The document outlines amendments to existing contractual provisions between the Customer and CSG, including additions of new sections and changes to schedules."
+            },
+            {
+              "key": "Service Provision",
+              "value": "Details provisions for access, data storage, and usage terms, with specified time limits for availability of services."
+            },
+            {
+              "key": "Effective Periods",
+              "value": "Specified periods during which the Customer can access certain services, after which the provisions expire."
+            },
+            {
+              "key": "Amendment Mechanism",
+              "value": "References to Exhibit modifications, Schedule deletions and replacements, and inclusion of new contractual sections."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 91,
+          "title": "SEVENTIETH AMENDMENT TO CONSOLIDATED CSG MASTER SUBSCRIBER MANAGEMENT SYSTEM AGREEMENT",
+          "data": [
+            {
+              "key": "Parties",
+              "value": "CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "Original Agreement Effective Date",
+              "value": "August 1, 2017"
+            },
+            {
+              "key": "CSG Document Number",
+              "value": "4114281"
+            },
+            {
+              "key": "Amendment Description",
+              "value": "This is the Seventieth Amendment to update and modify the Consolidated CSG Master Subscriber Management System Agreement."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 93,
+          "title": "Document Signatures",
+          "data": [
+            {
+              "key": "Amendment Execution Text",
+              "value": "THIS AMENDMENT is executed on the days and year last signed below to be effective as of the date last signed below."
+            },
+            {
+              "key": "Parties",
+              "value": "CHARTER COMMUNICATIONS OPERATING, LLC (“CUSTOMER”) and CSG SYSTEMS, INC. (“CSG”)"
+            },
+            {
+              "key": "Manager",
+              "value": "Charter Communications, Inc., its Manager"
+            },
+            {
+              "key": "Signature Details",
+              "value": "Table shows executive signature information."
+            },
+            {
+              "key": "Name 1",
+              "value": "/s/ Scott Ortiz Scott Ortiz"
+            },
+            {
+              "key": "Title 1",
+              "value": "Vice President Billing Design"
+            },
+            {
+              "key": "Date 1",
+              "value": "Nov 9, 2022"
+            },
+            {
+              "key": "Name 2",
+              "value": "/s/ Rasmani Rasmani Bhattacharya Bhattacharya"
+            },
+            {
+              "key": "Title 2",
+              "value": "EVP and General Counsel"
+            },
+            {
+              "key": "Date 2",
+              "value": "Nov 8, 2022"
+            },
+            {
+              "key": "Table Summary",
+              "value": "This table shows signature information for two executives signing the amendment."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 94,
+          "title": "SEVENTY-FIRST AMENDMENT TO CONSOLIDATED CSG MASTER SUBSCRIBER MANAGEMENT SYSTEM AGREEMENT",
+          "data": [
+            {
+              "key": "Document Type",
+              "value": "Amendment / Schedule Amendment"
+            },
+            {
+              "key": "Parties",
+              "value": "CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "Underlying Agreement",
+              "value": "Consolidated CSG Master Subscriber Management System Agreement (CSG document no. 4114281)"
+            },
+            {
+              "key": "Purpose",
+              "value": "Amend certain contractual terms including pricing and payment models for services provided under the Agreement"
+            },
+            {
+              "key": "Excluded Information Note",
+              "value": "Document contains information excluded as not material and potentially competitively harmful, indicated by brackets and (***)."
+            },
+            {
+              "key": "Effective Date",
+              "value": "Amendment Effective Date (the date of last signature)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 97,
+          "title": "Seventy-Second Amendment to Consolidated CSG Master Subscriber Management System Agreement",
+          "data": [
+            {
+              "key": "Amendment Number",
+              "value": "Seventy-second Amendment"
+            },
+            {
+              "key": "Parties",
+              "value": "CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "Original Agreement",
+              "value": "Consolidated CSG Master Subscriber Management System Agreement effective August 1, 2017 (CSG document no. 4114281)"
+            },
+            {
+              "key": "Purpose",
+              "value": "To update and amend the Agreement including revisions to fee terms and service descriptions"
+            },
+            {
+              "key": "Effective Date",
+              "value": "Amendment Effective Date (date last signed)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 99,
+          "title": "SEVENTY-THIRD AMENDMENT TO CONSOLIDATED CSG MASTER SUBSCRIBER MANAGEMENT SYSTEM AGREEMENT BETWEEN CSG SYSTEMS, INC. AND CHARTER COMMUNICATIONS OPERATING, LLC",
+          "data": [
+            {
+              "key": "Parties",
+              "value": "CSG Systems, Inc. and Charter Communications Operating, LLC"
+            },
+            {
+              "key": "Original Agreement Effective Date",
+              "value": "August 1, 2017"
+            },
+            {
+              "key": "Amendment Purpose",
+              "value": "To further amend the Agreement by adding enhanced functionality and providing maintenance and support services related to certain CSG Products and Services."
+            },
+            {
+              "key": "Exclusion Notice",
+              "value": "This document contains information excluded from the exhibit because it is not material and would be competitively harmful if publicly disclosed."
+            },
+            {
+              "key": "TableContent",
+              "value": "Fee schedule or error code listing (Error codes and fees); the table data is compromised by encoding issues with unreadable values for Frequency and Fee."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 100,
+          "title": "Contract Amendment and Statement of Work Modification",
+          "data": [
+            {
+              "key": "Fee Implementation",
+              "value": "The document details the implementation and setup of service fees under a specific Statement of Work (SOW), including provisions for separate SOWs for additional functionality and potential extra charges."
+            },
+            {
+              "key": "Invoicing and Maintenance",
+              "value": "Maintenance, support, and associated fees will be invoiced commencing after the project start, with details on maintenance hours and additional purchase options if further support is required."
+            },
+            {
+              "key": "Termination Provisions",
+              "value": "Customer may terminate the services at any time upon providing written notice. Fees for services rendered up to termination will be pro-rated based on the termination date."
+            },
+            {
+              "key": "Amendment Effective Date",
+              "value": "The amendment is executed to be effective as of the date last signed, as indicated in the document."
+            },
+            {
+              "key": "Parties Involved",
+              "value": "Charter Communications Operating, LLC (“Customer”) and CSG Systems, Inc. (“CSG”) are the contracting parties."
+            },
+            {
+              "key": "Executive Endorsements",
+              "value": "The document includes signature blocks with executive details: Ganesh Palaniappan (SVP) and Rasmani Bhattacharya (EVP & General Counsel) with respective signing dates of Dec 19, 2022 and Dec 13, 2022."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_supply_chain_disruptions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "supply_chain_disruption",
+          "page": 15,
+          "title": "Supply Chain & Global Operations Risk Exposure",
+          "data": [
+            {
+              "key": "Third-Party Vendor Dependency",
+              "value": "Reliance on a limited number of third-party vendors for software, cloud services, and other solutions exposes the company to supply chain disruptions."
+            },
+            {
+              "key": "Operational Impact",
+              "value": "Disruptions can affect delivery of services, result in cost increases, and impact reputation due to cyberattacks or vendor breaches."
+            },
+            {
+              "key": "Cybersecurity Risk",
+              "value": "A material breach or cyberattack on a third-party vendor may lead to unauthorized access, theft, and disclosure of confidential data."
+            },
+            {
+              "key": "Global Operations Challenges",
+              "value": "Conducting business outside the U.S. introduces risks such as compliance with local laws, currency fluctuations, and longer billing cycles."
+            },
+            {
+              "key": "Cost Increases",
+              "value": "Significant cost increases by third-party vendors, due to inflationary pressures or other factors, could adversely affect financial performance."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 10,
+          "title": "People, Culture and ESG Initiatives",
+          "data": [
+            {
+              "key": "Philosophy",
+              "value": "Focus on sustainable growth and innovation through a people and culture philosophy that emphasizes employee wellbeing, flexible work, and talent development."
+            },
+            {
+              "key": "Pillars",
+              "value": "Leading the Future of Work, Winning with Talent, and Grow@CSG, each emphasizing flexibility, inclusivity, development, and connected teams."
+            },
+            {
+              "key": "Employee Programs",
+              "value": "Initiatives include flexible work approaches, programs and events on wellbeing and mental health, personalized learning platforms, and internal talent marketplace."
+            },
+            {
+              "key": "Workforce Composition as of Dec 31, 2022",
+              "value": "Over 5,700 employees: 41% in North America, 42% in Asia-Pacific and Australia, 10% in Europe/Middle East/Africa, 7% in South and Central America; 64% male, 36% female, <1% nonbinary/undeclared; U.S. demographics include 67% White, 12% Asian, 8% Hispanic/Latino, 7% Black/African American, others."
+            },
+            {
+              "key": "Social Impact & Responsibility",
+              "value": "Focus on expanding community impact through partnerships with CBOs, volunteer initiatives (Global Days of Action), enhancing environmental stewardship through waste reduction, green energy investments, and disclosing carbon footprint, and enabling digital inclusion by improving accessibility of digital products."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 282,
+    "EUR": 8,
+    "AUD": 39,
+    "CAD": 4,
+    "ZAR": 1
+  },
+  "sha1": "ad1613dac24a1349ec293100e3ea19fe913bb930"
+}

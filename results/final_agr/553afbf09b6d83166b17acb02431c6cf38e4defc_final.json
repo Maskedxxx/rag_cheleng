@@ -1,0 +1,3283 @@
+{
+  "letters": 373125,
+  "pages": 65,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "INMUNE BIO INC.",
+    "major_industry": "Healthcare",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "SEC Form 10-K for INMUNE BIO INC.",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "INMUNE BIO INC."
+            },
+            {
+              "key": "Fiscal Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "State of Incorporation",
+              "value": "Nevada"
+            },
+            {
+              "key": "IRS Employer Identification No.",
+              "value": "47-5205835"
+            },
+            {
+              "key": "Address",
+              "value": "225 NE Mizner Blvd, Suite 640 Boca Raton, FL 33432"
+            },
+            {
+              "key": "Phone",
+              "value": "(858) 964 3720"
+            },
+            {
+              "key": "Market Value",
+              "value": "$103 million (as of June 30, 2022)"
+            },
+            {
+              "key": "Shares Outstanding",
+              "value": "17,945,995 shares"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 3,
+          "title": "Business Strategy Analysis",
+          "data": [
+            {
+              "key": "Objective",
+              "value": "To develop and commercialize product candidates for treating diseases related to innate immune dysfunction."
+            },
+            {
+              "key": "Target Diseases",
+              "value": "Cancer, Alzheimer's Disease, Treatment Resistant Depression, Duchenne’s Muscular Dystrophy."
+            },
+            {
+              "key": "Development Programs",
+              "value": "Two parallel programs for INKmune and INB03 targeting specific cancer treatments."
+            },
+            {
+              "key": "FDA Interaction",
+              "value": "In discussions with FDA for accelerating AD trials."
+            },
+            {
+              "key": "Intellectual Property",
+              "value": "Seeking to solidify IP to prevent competition."
+            },
+            {
+              "key": "Orphan Drug Status",
+              "value": "Belief that INKmune MDS cancer program may qualify for orphan status."
+            },
+            {
+              "key": "Value Proposition",
+              "value": "Provide clear value to payors like Medicare for reimbursement."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 17,
+          "title": "Intellectual Property and License Agreements",
+          "data": [
+            {
+              "key": "patent_protection_targets",
+              "value": "Australia, Canada, Europe, Japan, United States, Brazil, China, Korea"
+            },
+            {
+              "key": "INmune_Bio_trademarks",
+              "value": "INMUNE BIOTM, INB16TM, INKmuneTM, PSEUDOKINETM, XPro TM"
+            },
+            {
+              "key": "INKmune_License_Agreement",
+              "value": "Exclusive license agreement with Immune Ventures for INKmune, effective from October 29, 2015"
+            },
+            {
+              "key": "Natural_Expiration",
+              "value": "March 15, 2038"
+            },
+            {
+              "key": "PITT_Agreement",
+              "value": "Agreement with University of Pittsburgh regarding intellectual property, effective from June 26, 2017, expires 20 years from effective date or last claim of patent rights."
+            },
+            {
+              "key": "Xencor_license_agreement_date",
+              "value": "October 3, 2017"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 54,
+          "title": "Agreement and License Details",
+          "data": [
+            {
+              "key": "Agreement Start Date",
+              "value": "October 29, 2015"
+            },
+            {
+              "key": "Agreement Type",
+              "value": "Perpetual, royalty-free license"
+            },
+            {
+              "key": "Amendment Date (Phase II)",
+              "value": "July 20, 2018"
+            },
+            {
+              "key": "Phase II Clinical Trials Milestone Deadline",
+              "value": "October 29, 2023"
+            },
+            {
+              "key": "Phase III Clinical Trials Milestone Deadline",
+              "value": "October 29, 2025"
+            },
+            {
+              "key": "NDA Filing Milestone Deadline",
+              "value": "October 29, 2026"
+            },
+            {
+              "key": "First Commercial Sale Royalties",
+              "value": "2.5% of Net Sales"
+            },
+            {
+              "key": "PITT Agreement Expiration",
+              "value": "June 26, 2037"
+            },
+            {
+              "key": "Phase I Milestone Payment Made",
+              "value": "$50,000 in March 2019"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 62,
+          "title": "Exhibit Index",
+          "data": [
+            {
+              "key": "10.19",
+              "value": "Registration Rights Agreement between INmune Bio Inc. and Lincoln Park Capital Fund, LLC, dated May 15. 2019 (Incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K filed with the SEC on May 16, 2019)."
+            },
+            {
+              "key": "10.20",
+              "value": "Amendment to Securities Purchase Agreement between INmune Bio Inc. and Raymond J. Tesi (Incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K filed with the SEC on May 17, 2019)."
+            },
+            {
+              "key": "10.21",
+              "value": "Amendment to Securities Purchase Agreement between INmune Bio Inc. and David J. Moss (Incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K filed with the SEC on May 17, 2019)."
+            },
+            {
+              "key": "10.22",
+              "value": "Sublease between INmune Bio Inc. and CTI-Clinical Trial Services, Inc. (Incorporated by reference to Exhibit 99.1 to the Current Report on Form 8-K filed with the SEC on May 24, 2019)."
+            },
+            {
+              "key": "10.23",
+              "value": "Amendment No. 2 to Securities Purchase Agreement between INmune Bio Inc. and Raymond J. Tesi (Incorporated by reference to Exhibit 10.3 to the Current Report on Form 8-K filed with the SEC on May 24, 2019)."
+            },
+            {
+              "key": "10.24",
+              "value": "INmune Bio Inc. 2019 Stock Incentive Plan (Incorporated by reference to Exhibit 10.29 to the Form 10-K filed with the SEC on March 11 2020)."
+            },
+            {
+              "key": "10.25",
+              "value": "At-the-Market Sales Agreement, dated April 16. 2020 (Incorporated by reference to Exhibit 1.1 to the Current Report on Form 8-K filed with the SEC on April 17, 2020)."
+            },
+            {
+              "key": "10.27",
+              "value": "Employment Agreement effective as of January 1, 2021 between INmune Bio Inc. and Raymond J. Tesi (incorporated by reference to our Annual Report on Form 10-K filed with the SEC on March 4, 2021)."
+            },
+            {
+              "key": "10.28",
+              "value": "Employment Agreement effective as of January 1, 2021 between INmune Bio Inc. and David Moss (incorporated by reference to our Annual Report on Form 10-K filed with the SEC on March 4, 2021)."
+            },
+            {
+              "key": "10.29",
+              "value": "Form of Securities Purchase Agreement (incorporated by reference to the Current Report on 8-K filed with the SEC on July 15, 2021)."
+            },
+            {
+              "key": "10.30",
+              "value": "Form of Placement Agency Agreement (incorporated by reference to the Current Report on Form 8-K filed with the SEC on July 15, 2021)."
+            },
+            {
+              "key": "10.31",
+              "value": "Lease Agreement dated September 13, 2021 (incorporated by reference to the Current Report on Form 8-K filed with the SEC on September 15, 2021)."
+            },
+            {
+              "key": "10.32",
+              "value": "At-the-Market Sales Agreement, dated March 10, 2021 between the Company and BTIG, LLC (incorporated by reference to the Current Report on Form 8-K filed with the SEC on March 11, 2021)."
+            },
+            {
+              "key": "10.33",
+              "value": "Financial Advisory Agreement dated March 29, 2021 between the Company and National Securities Corp. (incorporated by reference to the Current Report on Form 8-K filed with the SEC on March 29, 2021)."
+            },
+            {
+              "key": "10.34",
+              "value": "INmune Bio Inc. 2021 Stock Incentive Plan (incorporated by reference to the Current Report on Form 8-K filed with the SEC on June 3, 2021)."
+            },
+            {
+              "key": "10.35",
+              "value": "Option Cancellation Agreement between the Company and Xencor, Inc. (incorporated by reference to the Current Report on Form 8-K filed with the SEC on June 15, 2021)."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 63,
+          "title": "Executive Signatures",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Raymond J. Tesi, M.D."
+            },
+            {
+              "key": "Position",
+              "value": "President, Chief Executive Officer and Director (Principal Executive Officer)"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 63,
+          "title": "Executive Signatures",
+          "data": [
+            {
+              "key": "Name",
+              "value": "David J. Moss"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Financial Officer, Treasurer, Secretary (Principal Financial and Accounting Officer)"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 63,
+          "title": "Executive Signatures",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Timothy Schroeder"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 64,
+          "title": "Board of Directors Signatures",
+          "data": [
+            {
+              "key": "Name",
+              "value": "J. Kelly Ganjei /s/ Scott Juda, JD"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "Scott Juda, JD"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "/s/ Edgardo Baracchini"
+            },
+            {
+              "key": "Position",
+              "value": ""
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Name",
+              "value": "Edgardo Baracchini"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "/s/ Marcia Allen"
+            },
+            {
+              "key": "Position",
+              "value": ""
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Name",
+              "value": "Marcia Allen"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "March 2, 2023"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": true,
+      "elements": [
+        {
+          "type": "layoff",
+          "page": 36,
+          "title": "Workforce Management and Growth Challenges",
+          "data": [
+            {
+              "key": "Current Employees",
+              "value": "11 full time employees"
+            },
+            {
+              "key": "Personnel Needs",
+              "value": "Significant number of new additional managerial, operational, sales, marketing, financial, and scientific personnel"
+            },
+            {
+              "key": "Concerns About Growth",
+              "value": "Difficulties in managing growth, potential delays in product development"
+            },
+            {
+              "key": "Compliance Needs",
+              "value": "Must comply with cGMP regulations"
+            },
+            {
+              "key": "Third Party Reliance",
+              "value": "Reliance on third party manufacturers and clinical trial partners"
+            },
+            {
+              "key": "Regulatory Compliance Costs",
+              "value": "Significant time, money, and effort required for compliance"
+            },
+            {
+              "key": "Quality Control Concerns",
+              "value": "Risk of regulatory action if quality standards are not met"
+            },
+            {
+              "key": "Manufacturing Risks",
+              "value": "Potential delays in clinical trials or commercialization if components do not meet specifications"
+            },
+            {
+              "key": "Liability Risks",
+              "value": "Exposure to product liability claims"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 7,
+          "title": "Clinical Trial Development for Alzheimer’s Disease",
+          "data": [
+            {
+              "key": "Phase II trial location",
+              "value": "Australia and Canada"
+            },
+            {
+              "key": "Funding",
+              "value": "$1M USD from Alzheimer's Association"
+            },
+            {
+              "key": "Trial duration",
+              "value": "3 months"
+            },
+            {
+              "key": "Phase I trial patient count",
+              "value": "18 patients"
+            },
+            {
+              "key": "Phase I trial doses",
+              "value": "0.3, 0.6 and 1.0mg/kg"
+            },
+            {
+              "key": "Extended use of drug",
+              "value": "Three patients on XPro for 12 months"
+            },
+            {
+              "key": "Neuroimaging data presentation date",
+              "value": "13 July 2020"
+            },
+            {
+              "key": "Phase II trial expected opening US",
+              "value": "2023"
+            },
+            {
+              "key": "Goals of Phase II trial",
+              "value": "Prolonged control of neuroinflammation, control cognitive decline"
+            },
+            {
+              "key": "Goal of combining trials",
+              "value": "Speed enrollment and decrease costs"
+            },
+            {
+              "key": "Biomarkers measured",
+              "value": "soluble biomarkers in blood, CSF, behavioral biomarkers and neuroimaging biomarkers"
+            },
+            {
+              "key": "Clinical hold issue",
+              "value": "FDA clinical hold on product characteristics"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 12,
+          "title": "Cytokine cocktail drives resting NK to memory-like NK / INKmune Generates Memory-like NK Cells",
+          "data": [
+            {
+              "key": "source",
+              "value": "SciTranslMed 2016, Romee, Fenheger, et al"
+            },
+            {
+              "key": "notes",
+              "value": "Cytokine Induced Memory Like (CIML) NK cells and INKmune primed NK (TpNK) cells phenotypically identical. Advantages of memory-like NK cells: Increased cytotoxicity, persistence, proliferation, active against solid tumors."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 55,
+          "title": "NOTE 6 – LEASE",
+          "data": [
+            {
+              "key": "Right-of-use asset (La Jolla lease) 2022",
+              "value": "0"
+            },
+            {
+              "key": "Right-of-use asset (La Jolla lease) 2021",
+              "value": "118"
+            },
+            {
+              "key": "Right-of-use asset (Boca Raton lease) 2022",
+              "value": "507"
+            },
+            {
+              "key": "Right-of-use asset (Boca Raton lease) 2021",
+              "value": "608"
+            },
+            {
+              "key": "Total right-of-use assets 2022",
+              "value": "507"
+            },
+            {
+              "key": "Total right-of-use assets 2021",
+              "value": "726"
+            },
+            {
+              "key": "Operating lease, current liability (La Jolla lease) 2022",
+              "value": "0"
+            },
+            {
+              "key": "Operating lease, current liability (La Jolla lease) 2021",
+              "value": "52"
+            },
+            {
+              "key": "Operating lease, current liability (Boca Raton lease) 2022",
+              "value": "87"
+            },
+            {
+              "key": "Operating lease, current liability (Boca Raton lease) 2021",
+              "value": "20"
+            },
+            {
+              "key": "Total current lease liability 2022",
+              "value": "87"
+            },
+            {
+              "key": "Total current lease liability 2021",
+              "value": "72"
+            },
+            {
+              "key": "Long-term operating lease liability (La Jolla lease) 2022",
+              "value": "0"
+            },
+            {
+              "key": "Long-term operating lease liability (La Jolla lease) 2021",
+              "value": "84"
+            },
+            {
+              "key": "Long-term operating lease liability (Boca Raton lease) 2022",
+              "value": "526"
+            },
+            {
+              "key": "Long-term operating lease liability (Boca Raton lease) 2021",
+              "value": "620"
+            },
+            {
+              "key": "Total lease liability 2022",
+              "value": "613"
+            },
+            {
+              "key": "Total lease liability 2021",
+              "value": "776"
+            },
+            {
+              "key": "Weighted-average remaining lease term 2022",
+              "value": "4.3 years"
+            },
+            {
+              "key": "Weighted-average remaining lease term 2021",
+              "value": "4.6 years"
+            },
+            {
+              "key": "Weighted-average discount rate 2022",
+              "value": "12.0%"
+            },
+            {
+              "key": "Weighted-average discount rate 2021",
+              "value": "10.0%"
+            },
+            {
+              "key": "Related Party Transactions with UCL 2022",
+              "value": "$0"
+            },
+            {
+              "key": "Related Party Transactions with UCL 2021",
+              "value": "$10,000"
+            },
+            {
+              "key": "Payment to UCL 2022",
+              "value": "$586,000"
+            },
+            {
+              "key": "Payment to UCL 2021",
+              "value": "$218,000"
+            },
+            {
+              "key": "Payment to CTI 2022 (sublease)",
+              "value": "$153,000"
+            },
+            {
+              "key": "Payment to CTI 2021 (sublease)",
+              "value": "$38,000"
+            },
+            {
+              "key": "Payment to CTI 2022 (medical research)",
+              "value": "$5,000"
+            },
+            {
+              "key": "Payment to AmplifyBio 2022 (medical research)",
+              "value": "$230,000"
+            },
+            {
+              "key": "Payment to AmplifyBio 2021 (medical research)",
+              "value": "$0"
+            },
+            {
+              "key": "Interest Expense 2022",
+              "value": "$2,014,000"
+            },
+            {
+              "key": "Interest Expense 2021",
+              "value": "$985,000"
+            },
+            {
+              "key": "Loan Amount",
+              "value": "$15,000,000"
+            },
+            {
+              "key": "Debt Discount and Financing Costs",
+              "value": "-$303,000"
+            },
+            {
+              "key": "Current Portion of Long-term Debt",
+              "value": "-$5,000,000"
+            },
+            {
+              "key": "Final Long-term Debt Balance",
+              "value": "$9,697,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 56,
+          "title": "Stock Options and Issuance",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Options Granted",
+              "value": "819,000"
+            },
+            {
+              "key": "Fair Value (approx)",
+              "value": "$5.5 million"
+            },
+            {
+              "key": "Discount Rate",
+              "value": "1.60% - 3.06%"
+            },
+            {
+              "key": "Expected Life",
+              "value": "6.0 – 10.0 years"
+            },
+            {
+              "key": "Expected Volatility",
+              "value": "105% - 108%"
+            },
+            {
+              "key": "Expected Dividends",
+              "value": "0"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 56,
+          "title": "Previous Stock Options Activity",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Options Granted",
+              "value": "823,000"
+            },
+            {
+              "key": "Fair Value (approx)",
+              "value": "$14,027,000"
+            },
+            {
+              "key": "Discount Rate",
+              "value": "0.78-1.49%%"
+            },
+            {
+              "key": "Expected Life",
+              "value": "6.00-10.00 years"
+            },
+            {
+              "key": "Expected Volatility",
+              "value": "105%-114%"
+            },
+            {
+              "key": "Expected Dividends",
+              "value": "0"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 57,
+          "title": "Stock Options Activity Summary",
+          "data": [
+            {
+              "key": "period",
+              "value": "Outstanding at January 1, 2021"
+            },
+            {
+              "key": "number_of_shares",
+              "value": "3,457,000"
+            },
+            {
+              "key": "weighted_avg_exercise_price",
+              "value": "5.82"
+            },
+            {
+              "key": "remaining_contractual_term",
+              "value": "8.05"
+            },
+            {
+              "key": "aggregate_intrinsic_value",
+              "value": ""
+            },
+            {
+              "key": "period",
+              "value": "Options granted"
+            },
+            {
+              "key": "number_of_shares",
+              "value": "823,000"
+            },
+            {
+              "key": "weighted_avg_exercise_price",
+              "value": "20.63"
+            },
+            {
+              "key": "remaining_contractual_term",
+              "value": "10.0"
+            },
+            {
+              "key": "aggregate_intrinsic_value",
+              "value": ""
+            },
+            {
+              "key": "period",
+              "value": "Options exercised"
+            },
+            {
+              "key": "number_of_shares",
+              "value": "(183,000)"
+            },
+            {
+              "key": "weighted_avg_exercise_price",
+              "value": "6.21"
+            },
+            {
+              "key": "remaining_contractual_term",
+              "value": ""
+            },
+            {
+              "key": "aggregate_intrinsic_value",
+              "value": ""
+            },
+            {
+              "key": "period",
+              "value": "Options cancelled"
+            },
+            {
+              "key": "number_of_shares",
+              "value": ""
+            },
+            {
+              "key": "weighted_avg_exercise_price",
+              "value": ""
+            },
+            {
+              "key": "remaining_contractual_term",
+              "value": ""
+            },
+            {
+              "key": "aggregate_intrinsic_value",
+              "value": ""
+            },
+            {
+              "key": "period",
+              "value": "Outstanding at December 31, 2021"
+            },
+            {
+              "key": "number_of_shares",
+              "value": "4,097,000"
+            },
+            {
+              "key": "weighted_avg_exercise_price",
+              "value": "8.67"
+            },
+            {
+              "key": "remaining_contractual_term",
+              "value": "7.21"
+            },
+            {
+              "key": "aggregate_intrinsic_value",
+              "value": ""
+            },
+            {
+              "key": "period",
+              "value": "Options granted"
+            },
+            {
+              "key": "number_of_shares",
+              "value": "819,000"
+            },
+            {
+              "key": "weighted_avg_exercise_price",
+              "value": "8.01"
+            },
+            {
+              "key": "remaining_contractual_term",
+              "value": "10.0"
+            },
+            {
+              "key": "aggregate_intrinsic_value",
+              "value": ""
+            },
+            {
+              "key": "period",
+              "value": "Options exercised"
+            },
+            {
+              "key": "number_of_shares",
+              "value": ""
+            },
+            {
+              "key": "weighted_avg_exercise_price",
+              "value": ""
+            },
+            {
+              "key": "remaining_contractual_term",
+              "value": ""
+            },
+            {
+              "key": "aggregate_intrinsic_value",
+              "value": ""
+            },
+            {
+              "key": "period",
+              "value": "Options cancelled"
+            },
+            {
+              "key": "number_of_shares",
+              "value": "(74,583)"
+            },
+            {
+              "key": "weighted_avg_exercise_price",
+              "value": "11.68"
+            },
+            {
+              "key": "remaining_contractual_term",
+              "value": ""
+            },
+            {
+              "key": "aggregate_intrinsic_value",
+              "value": ""
+            },
+            {
+              "key": "period",
+              "value": "Outstanding at December 31, 2022"
+            },
+            {
+              "key": "number_of_shares",
+              "value": "4,841,417"
+            },
+            {
+              "key": "weighted_avg_exercise_price",
+              "value": "8.60"
+            },
+            {
+              "key": "remaining_contractual_term",
+              "value": "6.28"
+            },
+            {
+              "key": "aggregate_intrinsic_value",
+              "value": "4,155"
+            },
+            {
+              "key": "period",
+              "value": "Exercisable at December 31, 2022"
+            },
+            {
+              "key": "number_of_shares",
+              "value": ""
+            },
+            {
+              "key": "weighted_avg_exercise_price",
+              "value": "7.38"
+            },
+            {
+              "key": "remaining_contractual_term",
+              "value": "6.97"
+            },
+            {
+              "key": "aggregate_intrinsic_value",
+              "value": "4,108"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 57,
+          "title": "Research and Development and Administrative Expenses Comparison",
+          "data": [
+            {
+              "key": "category",
+              "value": "Research and development"
+            },
+            {
+              "key": "2022_amount",
+              "value": "2645000"
+            },
+            {
+              "key": "2021_amount",
+              "value": "1651000"
+            },
+            {
+              "key": "category",
+              "value": "General and administrative"
+            },
+            {
+              "key": "2022_amount",
+              "value": "4504000"
+            },
+            {
+              "key": "2021_amount",
+              "value": "3145000"
+            },
+            {
+              "key": "category",
+              "value": "Total"
+            },
+            {
+              "key": "2022_amount",
+              "value": "7149000"
+            },
+            {
+              "key": "2021_amount",
+              "value": "4796000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 60,
+          "title": "Equity Compensation Plans Information",
+          "data": [
+            {
+              "key": "Plan Category",
+              "value": "Equity Compensation Plans approved by stockholders"
+            },
+            {
+              "key": "Securities",
+              "value": "4,841,417"
+            },
+            {
+              "key": "Weighted Average Price",
+              "value": "$8.60"
+            },
+            {
+              "key": "Available Future Issuance",
+              "value": "607,108"
+            },
+            {
+              "key": "Plan Category",
+              "value": "Equity Compensation Plans not approved by stockholders"
+            },
+            {
+              "key": "Securities",
+              "value": ""
+            },
+            {
+              "key": "Weighted Average Price",
+              "value": ""
+            },
+            {
+              "key": "Available Future Issuance",
+              "value": ""
+            },
+            {
+              "key": "Plan Category",
+              "value": "Total"
+            },
+            {
+              "key": "Securities",
+              "value": "4,841,417"
+            },
+            {
+              "key": "Weighted Average Price",
+              "value": "$"
+            },
+            {
+              "key": "Available Future Issuance",
+              "value": "607,108"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 61,
+          "title": "Underwriting Agreement dated July 16, 2020",
+          "data": [
+            {
+              "key": "Agreement Type",
+              "value": "Underwriting"
+            },
+            {
+              "key": "Filing Date",
+              "value": "July 16, 2020"
+            },
+            {
+              "key": "Referenced Filing",
+              "value": "Exhibit 1.1 to Form 8-K"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 61,
+          "title": "Exhibit Summary",
+          "data": [
+            {
+              "key": "Total Exhibits",
+              "value": "14"
+            },
+            {
+              "key": "Descriptions",
+              "value": "Corporate governance documents, securities-related agreements, and various license agreements."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 6,
+          "title": "MUC4 Expression and Resistance to Trastuzumab in Breast Cancer",
+          "data": [
+            {
+              "key": "Research Findings",
+              "value": "MUC4 expressing triple negative breast cancer patients have a worse overall survival."
+            },
+            {
+              "key": "Therapeutic Implications",
+              "value": "MUC4 expression is a biomarker of resistance that may improve therapeutic decision making."
+            },
+            {
+              "key": "Combination Therapy",
+              "value": "Combination therapy with INB03 overcomes resistance in breast cancer."
+            },
+            {
+              "key": "Related Tumors",
+              "value": "MUC4 expression is relevant to all tumors that express HER2 or MUC4."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 9,
+          "title": "Phase I Study Results and Future Clinical Trials for XPro",
+          "data": [
+            {
+              "key": "study_details",
+              "value": "Analysis performed after 12 weeks of treatment with XPro1595"
+            },
+            {
+              "key": "sample_size",
+              "value": "n=6 of 26 targets"
+            },
+            {
+              "key": "significance",
+              "value": "p< 0.0001"
+            },
+            {
+              "key": "analysis_method",
+              "value": "Proteome Sciences TMTcalibrator™"
+            },
+            {
+              "key": "sample_type",
+              "value": "CSF proteome (>35,000 peptide sequences)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 43,
+          "title": "Research and Development Expenses",
+          "data": [
+            {
+              "key": "Employee-related expenses",
+              "value": "salaries, benefits, travel and stock-based compensation"
+            },
+            {
+              "key": "Participation in R&D tax incentive programs",
+              "value": "Australia and United Kingdom"
+            },
+            {
+              "key": "Future expectations",
+              "value": "Research and development expenses to increase significantly as product candidates advance through clinical development."
+            },
+            {
+              "key": "Risks and uncertainties",
+              "value": "Numerous risks associated with the development of product candidates; costs of clinical trials may vary significantly."
+            },
+            {
+              "key": "Expected time to market",
+              "value": "No product candidates expected to be commercially available for several years."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 51,
+          "title": "Research and Development Tax Incentives",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Estimates of reimbursement in Australia",
+              "value": "A percentage of qualifying research and development expenditures are reimbursed by the Australian government."
+            },
+            {
+              "key": "Estimates of reimbursement in UK",
+              "value": "A percentage of qualifying research and development expenditures are reimbursed by the United Kingdom government."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 4,
+          "title": "Product Development and Partnership Strategies",
+          "data": [
+            {
+              "key": "Partnership Goals",
+              "value": "Further development of INKmune, INB03, XPro and DN-TNF through collaborations."
+            },
+            {
+              "key": "Manufacturing Process",
+              "value": "Validated manufacturing process for clinical grade mesenchymal stem cells."
+            },
+            {
+              "key": "Clinical Trials",
+              "value": "Ongoing trials for treating children's EB and adults with lupus."
+            },
+            {
+              "key": "Commercial Strategy",
+              "value": "Combination of fee-for-service and licensing without additional investment."
+            },
+            {
+              "key": "Regulatory Compliance",
+              "value": "Responsible for regulatory compliance during third-party development of stem cell products."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 5,
+          "title": "Dendritic Cell Therapies and Other Immunotherapy Approaches",
+          "data": [
+            {
+              "key": "Dendritic Cell Therapy",
+              "value": "FDA-approved therapy involves collecting monocytes, maturing them into dendritic cells, and re-infusing after loading with cancer antigens."
+            },
+            {
+              "key": "Current Status",
+              "value": "Current clinical results of dendritic cell therapies are mixed."
+            },
+            {
+              "key": "CAR-T and TCR Therapies",
+              "value": "Genetically engineered T-cells demonstrate anti-tumor activity but require complex and costly manufacturing processes."
+            },
+            {
+              "key": "Adverse Effects",
+              "value": "Current trials report severe adverse toxicities requiring hospitalization."
+            },
+            {
+              "key": "Checkpoint Inhibitors",
+              "value": "Block the tumor's ability to evade the immune system; six currently approved."
+            },
+            {
+              "key": "NK Cells",
+              "value": "Critical for innate immunity, they directly eliminate diseased cells."
+            },
+            {
+              "key": "INB03 Overview",
+              "value": "Neutralizes soluble TNF in tumor microenvironment, potentially enhances effectiveness of cancer therapy."
+            },
+            {
+              "key": "MUC4 and Trastuzumab",
+              "value": "MUC4 expression inhibits binding of trastuzumab; INB03 may allow effective treatment."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "product_launch",
+          "page": 10,
+          "title": "Phase I and II Trials with INB03 and XPro",
+          "data": [
+            {
+              "key": "Trial Completion Information",
+              "value": "Completed Phase I trial with INB03 in oncology and a Phase I trial with XPro in patients with Alzheimer’s."
+            },
+            {
+              "key": "Phase II Initiation",
+              "value": "Phase II program for Alzheimer’s disease started in 2022."
+            },
+            {
+              "key": "Regulatory Interactions",
+              "value": "First interaction with regulatory body in March 2018, second in March 2019."
+            },
+            {
+              "key": "Approval Dates",
+              "value": "Approved to initiate Phase I trial with INB03 on May 21, 2018 and XPro in May 2019, Phase II for mild AD on January 5, 2022."
+            },
+            {
+              "key": "FDA Interaction",
+              "value": "First interaction with FDA in July 2020 for Phase II Quellor program for COVID-19."
+            },
+            {
+              "key": "Comparability Testing",
+              "value": "Comparability testing between drugs used in trials is underway."
+            },
+            {
+              "key": "XPro Development",
+              "value": "Developed for treating Alzheimer’s focusing on neuroinflammation."
+            },
+            {
+              "key": "Immunotherapy Strategy",
+              "value": "Plans to use INB03 as a combination therapy in various cancers."
+            },
+            {
+              "key": "ONCOLOGY Therapy Impact",
+              "value": "Changing focus from cytotoxic to immunotherapy-based regimens, including combination therapies with drugs like TDxd."
+            },
+            {
+              "key": "Pre-clinical Studies",
+              "value": "Ongoing pre-clinical studies of INB03."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 11,
+          "title": "XPro Registration Studies and/or Partnering",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "The Company plans to pursue an eﬃcient registration strategy using XPro to improve the lives of patients with Alzheimer's disease with biomarkers of inflammation (ADi)."
+            },
+            {
+              "key": "Additional Indications",
+              "value": "The Company believes ADi is not the only indication for XPro in neurodegenerative and neuropsychiatric diseases."
+            },
+            {
+              "key": "Funding and Trials",
+              "value": "Received NIMH funding to support a Phase II TRD program hoping to start patient enrollment in 2023."
+            },
+            {
+              "key": "Partnership Opportunities",
+              "value": "Two partnering opportunities with XPro: traditional partnership for all neurodegenerative applications and focused partnership for combination therapy."
+            },
+            {
+              "key": "Regulatory Strategy",
+              "value": "After proof-of-concept Phase II studies, the Company will determine the most efficient registration strategy."
+            },
+            {
+              "key": "DN-TNF for DMD",
+              "value": "Exploring partnership opportunities with DN-TNF for Duchene Muscular Dystrophy (DMD), highlighting the need for better therapies."
+            },
+            {
+              "key": "Collaboration",
+              "value": "In collaboration with UC Irvine, studies show that DN-TNF therapy decreases inflammation, promotes muscle regeneration, and decreases fibrosis."
+            },
+            {
+              "key": "IP and Subsidiary",
+              "value": "The Company has filed global IP for DN-TNF to treat muscular dystrophy, placed with subsidiary DN02, Inc. for co-development."
+            },
+            {
+              "key": "Future Development",
+              "value": "The Company is actively seeking a partner for DN-TNF development for DMD."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 14,
+          "title": "Clinical Data on INKmune Treatment",
+          "data": [
+            {
+              "key": "First patient treatment date",
+              "value": "2021 Q2"
+            },
+            {
+              "key": "Duration of follow-up",
+              "value": "12 months"
+            },
+            {
+              "key": "NK cell infusion doses",
+              "value": "1x10^8 on days 1, 8, 15"
+            },
+            {
+              "key": "Clinical improvement",
+              "value": "ECOG score reduced from 2 to 0"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 14,
+          "title": "Clinical Observations from INKmune Studies",
+          "data": [
+            {
+              "key": "Memory-like NK cells duration",
+              "value": "Elevated levels for more than 119 days"
+            },
+            {
+              "key": "Patient outcomes from compassionate use",
+              "value": "Improved neutrophil and platelet counts for AML patients"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 14,
+          "title": "Market Strategy for INKmune",
+          "data": [
+            {
+              "key": "IND application filing year",
+              "value": "2023"
+            },
+            {
+              "key": "Key cancer targets",
+              "value": "Renal cell carcinoma, nasopharyngeal cancer"
+            },
+            {
+              "key": "Market growth rate",
+              "value": "Over 13% annually"
+            },
+            {
+              "key": "Competitors",
+              "value": "Larger, better financed companies"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 15,
+          "title": "Clinical Development and Competition Analysis",
+          "data": [
+            {
+              "key": "Therapy Name",
+              "value": "INKmune"
+            },
+            {
+              "key": "Type of Therapy",
+              "value": "NK cell immunotherapy"
+            },
+            {
+              "key": "Biomarkers",
+              "value": "MUC4+HER2+"
+            },
+            {
+              "key": "Current Competitors",
+              "value": "Century Therapeutics, Immunity Bio, Nkarta, Fate Therapeutics, Glycostem"
+            },
+            {
+              "key": "Market Positioning",
+              "value": "Unique category in cancer treatment emphasizing immune modulation"
+            },
+            {
+              "key": "Statistical Significance",
+              "value": "p<0.005"
+            },
+            {
+              "key": "Study Title",
+              "value": "Survival of mice after Listeria infection"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "product_launch",
+          "page": 16,
+          "title": "Current Therapeutic Programs and Patent Positions",
+          "data": [
+            {
+              "key": "DNTNF compositions and formulations",
+              "value": "Pending Applications: 2, Patents: 4, Geographical Scope: global, Term: 2024-2041"
+            },
+            {
+              "key": "Use of DNTNF for treating disease",
+              "value": "Pending Applications: 31, Patents: 3, Geographical Scope: global, Term: 2033-2041"
+            },
+            {
+              "key": "INB-16 / INKmune compositions",
+              "value": "Patents: 0, Geographical Scope: global, Term: 2036-2040"
+            },
+            {
+              "key": "Use of INKmune for treating disease",
+              "value": "Patents: 4, Geographical Scope: global, Term: 2036-2040"
+            },
+            {
+              "key": "Use of INKmune for enhancing NK cell therapeutics",
+              "value": "Patents: 0, Geographical Scope: global, Term: 2036-2040"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 18,
+          "title": "Xencor License Agreement Overview",
+          "data": [
+            {
+              "key": "agreement_type",
+              "value": "License Agreement"
+            },
+            {
+              "key": "partner",
+              "value": "Xencor"
+            },
+            {
+              "key": "licensed_product",
+              "value": "XPro protein"
+            },
+            {
+              "key": "grant_type",
+              "value": "exclusive worldwide, royalty-bearing license"
+            },
+            {
+              "key": "expiration_conditions",
+              "value": "last valid claim expiration or ten years after first sale"
+            },
+            {
+              "key": "termination_conditions",
+              "value": "60 days written notice after material breach, 180 days written notice by company, specific notice by Xencor for challenges to rights"
+            },
+            {
+              "key": "royalty_structure",
+              "value": "royalty payments and percentage of payments for sub-license"
+            },
+            {
+              "key": "agreement_duration",
+              "value": "expires November 29, 2027"
+            },
+            {
+              "key": "governing_regulations",
+              "value": "FDA and regulatory agencies requirements"
+            },
+            {
+              "key": "clinical_trails_count",
+              "value": "2 ongoing clinical trials"
+            },
+            {
+              "key": "clinical_trail_beneficiary",
+              "value": "children with erythematous bullousa, adult lupus patients"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 33,
+          "title": "Market Acceptance and Regulatory Challenges for INKmune",
+          "data": [
+            {
+              "key": "Market Acceptance Challenges",
+              "value": "Market acceptance of INKmune may be hindered by physician's and patient's reluctance to switch from existing therapies."
+            },
+            {
+              "key": "Factors Influencing Market Acceptance",
+              "value": "The degree of market acceptance will depend on efficacy, safety, market pricing, reimbursement, and marketing efforts."
+            },
+            {
+              "key": "Regulatory Constraints",
+              "value": "Regulatory approvals may impose restrictions that limit how the product is manufactured and marketed."
+            },
+            {
+              "key": "GMP Compliance",
+              "value": "Manufacturing must comply with current Good Manufacturing Practices and will be subject to regulatory inspections."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 28,
+          "title": "Commercialization and Regulatory Risks",
+          "data": [
+            {
+              "key": "Reimbursement Factors",
+              "value": "The commercial success of our product candidates depends largely on reimbursements by health maintenance organizations, government health authorities, and private insurers."
+            },
+            {
+              "key": "Market Approval Variability",
+              "value": "Marketing approvals, pricing, and reimbursement for new drug products vary from country to country, potentially delaying commercial launches."
+            },
+            {
+              "key": "Patent Challenges",
+              "value": "There are significant uncertainties regarding our patent applications and the potential infringement of third-party patents."
+            },
+            {
+              "key": "Regulatory Requirements",
+              "value": "The manufacture and sale of therapeutic products are subject to extensive regulatory approvals which are time-consuming and costly."
+            },
+            {
+              "key": "Competition",
+              "value": "Competition from established pharmaceutical companies and emerging biotech firms poses a significant risk to our market position."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 2,
+          "title": "AUDITED FINANCIAL STATEMENTS",
+          "data": [
+            {
+              "key": "Independent Auditor's Report",
+              "value": "F-2"
+            },
+            {
+              "key": "Consolidated Balance Sheets",
+              "value": "F-3"
+            },
+            {
+              "key": "Statements of Operations and Comprehensive Loss",
+              "value": "F-4"
+            },
+            {
+              "key": "Changes in Stockholders' Equity",
+              "value": "F-5"
+            },
+            {
+              "key": "Statements of Cash Flows",
+              "value": "F-6"
+            },
+            {
+              "key": "Notes to Financial Statements",
+              "value": "F-7"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Financial Performance Comparison",
+          "data": [
+            {
+              "key": "Revenues 2022",
+              "value": "-374"
+            },
+            {
+              "key": "Revenues 2021",
+              "value": "-181"
+            },
+            {
+              "key": "Change in Revenues",
+              "value": "-193"
+            },
+            {
+              "key": "General and Administrative 2022",
+              "value": "9258"
+            },
+            {
+              "key": "General and Administrative 2021",
+              "value": "8791"
+            },
+            {
+              "key": "Change in General and Administrative",
+              "value": "467"
+            },
+            {
+              "key": "Research and Development 2022",
+              "value": "17067"
+            },
+            {
+              "key": "Research and Development 2021",
+              "value": "20543"
+            },
+            {
+              "key": "Change in R&D",
+              "value": "-3476"
+            },
+            {
+              "key": "Other Expense, net 2022",
+              "value": "1348"
+            },
+            {
+              "key": "Other Expense, net 2021",
+              "value": "1187"
+            },
+            {
+              "key": "Change in Other Expense, net",
+              "value": "161"
+            },
+            {
+              "key": "Net loss 2022",
+              "value": "-27299"
+            },
+            {
+              "key": "Net loss 2021",
+              "value": "-30340"
+            },
+            {
+              "key": "Change in Net loss",
+              "value": "-3041"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Cash Flow Statement Summary",
+          "data": [
+            {
+              "key": "Net cash used in operating activities",
+              "value": "-52686"
+            },
+            {
+              "key": "Net cash used in investing activities",
+              "value": "0"
+            },
+            {
+              "key": "Net cash provided by financing activities",
+              "value": "729"
+            },
+            {
+              "key": "impact on cash from foreign currency translation",
+              "value": "-700"
+            },
+            {
+              "key": "Net(decrease) increase in cash and cash equivalents",
+              "value": "-22657"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "Financial Performance Summary",
+          "data": [
+            {
+              "key": "Shares Sold",
+              "value": "713,192 shares"
+            },
+            {
+              "key": "Net Proceeds from ATM Agreement",
+              "value": "$14.9 million"
+            },
+            {
+              "key": "Shares Sold in July Offering",
+              "value": "1,818,182 shares"
+            },
+            {
+              "key": "Net Proceeds from July Offering",
+              "value": "$36.9 million"
+            },
+            {
+              "key": "Term Loan Amount",
+              "value": "$15.0 million"
+            },
+            {
+              "key": "Proceeds from Stock Options and Warrants",
+              "value": "$1.2 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "ASSETS CURRENT ASSETS",
+          "data": [
+            {
+              "key": "Cash and cash equivalents",
+              "value": "$52,153"
+            },
+            {
+              "key": "Research and development tax credit receivable",
+              "value": "$8,099"
+            },
+            {
+              "key": "Other tax receivable",
+              "value": "$362"
+            },
+            {
+              "key": "Prepaid expenses and other current assets",
+              "value": "$4,027"
+            },
+            {
+              "key": "Prepaid expenses — related party",
+              "value": "$34"
+            },
+            {
+              "key": "TOTAL CURRENT ASSETS",
+              "value": "$64,675"
+            },
+            {
+              "key": "Operating lease — right of use assets",
+              "value": "N/A"
+            },
+            {
+              "key": "Other assets",
+              "value": "N/A"
+            },
+            {
+              "key": "Acquired in-process research and development intangible assets",
+              "value": "N/A"
+            },
+            {
+              "key": "TOTAL ASSETS",
+              "value": "N/A"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Liabilities and Stockholders' Equity",
+          "data": [
+            {
+              "key": "Accounts payable and accrued liabilities",
+              "value": "$5,206"
+            },
+            {
+              "key": "Accounts payable and accrued liabilities — related parties",
+              "value": "N/A"
+            },
+            {
+              "key": "Deferred liabilities",
+              "value": "$616"
+            },
+            {
+              "key": "Current portion of long-term debt",
+              "value": "$5,000"
+            },
+            {
+              "key": "Operating lease, current liabilities",
+              "value": "$87"
+            },
+            {
+              "key": "TOTAL CURRENT LIABILITIES",
+              "value": "$10,918"
+            },
+            {
+              "key": "Long-term debt, less debt discount",
+              "value": "$9,697"
+            },
+            {
+              "key": "Long-term operating lease liabilities",
+              "value": "$526"
+            },
+            {
+              "key": "Accrued liability — long-term",
+              "value": "$550"
+            },
+            {
+              "key": "TOTAL LIABILITIES",
+              "value": "$21,691"
+            },
+            {
+              "key": "Common stock",
+              "value": "$18"
+            },
+            {
+              "key": "Additional paid-in capital",
+              "value": "$151,799"
+            },
+            {
+              "key": "Accumulated other comprehensive (loss) income",
+              "value": "-$699"
+            },
+            {
+              "key": "Accumulated deficit",
+              "value": "-$91,014"
+            },
+            {
+              "key": "TOTAL STOCKHOLDERS' EQUITY",
+              "value": "$60,104"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Operating Expenses",
+          "data": [
+            {
+              "key": "REVENUE",
+              "value": "$374"
+            },
+            {
+              "key": "LOSS FROM OPERATIONS",
+              "value": "$ -25951"
+            },
+            {
+              "key": "NET LOSS",
+              "value": "$ -27299"
+            },
+            {
+              "key": "Total comprehensive loss",
+              "value": "$ -27999"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Stockholders' Equity Statement",
+          "data": [
+            {
+              "key": "Balance as of January 1, 2021",
+              "value": "Stockholders' equity: $38,754"
+            },
+            {
+              "key": "Balance as of December 31, 2022",
+              "value": "Stockholders' equity: $60,104"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "SASH FLOWS FROM OPERATING ACTIVITIES",
+          "data": [
+            {
+              "key": "Operating cash flow loss",
+              "value": "$ -27,299"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 50,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Net cash used in operating activities (current)",
+              "value": "-$22,686"
+            },
+            {
+              "key": "Net cash used in operating activities (previous)",
+              "value": "-$28,504"
+            },
+            {
+              "key": "Net cash used in investing activities",
+              "value": "-$15,000"
+            },
+            {
+              "key": "Net cash provided by financing activities (current)",
+              "value": "$7,129"
+            },
+            {
+              "key": "Net cash provided by financing activities (previous)",
+              "value": "$96,357"
+            },
+            {
+              "key": "Cash at beginning of year (current)",
+              "value": "$74,810"
+            },
+            {
+              "key": "Cash at beginning of year (previous)",
+              "value": "$21,967"
+            },
+            {
+              "key": "Cash at end of year (current)",
+              "value": "$52,153"
+            },
+            {
+              "key": "Cash at end of year (previous)",
+              "value": "$74,810"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Loss per Share and Revenue Recognition",
+          "data": [
+            {
+              "key": "Basic Loss per Share",
+              "value": "Computed by dividing net loss available to common shareholders by the weighted average number of outstanding common shares."
+            },
+            {
+              "key": "Diluted Loss per Share",
+              "value": "Excludes all potential common shares if their effect is anti-dilutive."
+            },
+            {
+              "key": "Potentially Issuable Shares at 2022",
+              "value": "4,841,417 shares upon stock options and 74,074 shares upon warrants."
+            },
+            {
+              "key": "Potentially Issuable Shares at 2021",
+              "value": "4,097,000 shares upon stock options and 93,866 shares upon warrants."
+            },
+            {
+              "key": "Revenue Recognition Policy",
+              "value": "Revenue recognized when the customer obtains control; follows a five-step model."
+            },
+            {
+              "key": "R&D Expense Recognition",
+              "value": "Research and development costs are expensed as incurred."
+            },
+            {
+              "key": "Tax Accounting Method",
+              "value": "Liability method for deferred income tax assets and liabilities."
+            },
+            {
+              "key": "Foreign Currency Translation",
+              "value": "Financial statements presented in USD; other functional currencies include GBP and AUD."
+            },
+            {
+              "key": "Recently Adopted Accounting Pronouncements",
+              "value": "ASU No. 2016-13 for measuring credit losses, effective January 1, 2023."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Tax Components Listing",
+          "data": [
+            {
+              "key": "Current income tax expense",
+              "value": ""
+            },
+            {
+              "key": "Deferred expense (benefit)",
+              "value": ""
+            },
+            {
+              "key": "Federal",
+              "value": ""
+            },
+            {
+              "key": "Foreign",
+              "value": ""
+            },
+            {
+              "key": "Deferred income tax",
+              "value": ""
+            },
+            {
+              "key": "Net deferred taxes",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Tax Reconciliation",
+          "data": [
+            {
+              "key": "Federal tax benefit at statutory rate (21%)",
+              "value": "(6,733)"
+            },
+            {
+              "key": "Stock-based compensation",
+              "value": "1,049"
+            },
+            {
+              "key": "State income tax benefit, net of federal tax effect",
+              "value": "(269)"
+            },
+            {
+              "key": "Foreign tax differential",
+              "value": "(237)"
+            },
+            {
+              "key": "Research credits",
+              "value": "18"
+            },
+            {
+              "key": "Other",
+              "value": "3"
+            },
+            {
+              "key": "Return to provision adjustment",
+              "value": "(1,774)"
+            },
+            {
+              "key": "Change in valuation allowance",
+              "value": "6,943"
+            },
+            {
+              "key": "Income tax benefit",
+              "value": "$ _-"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Deferred Tax Assets",
+          "data": [
+            {
+              "key": "Stock-based compensation",
+              "value": "1386"
+            },
+            {
+              "key": "Research and development",
+              "value": "1114"
+            },
+            {
+              "key": "Federal NOL carryforwards",
+              "value": "5441"
+            },
+            {
+              "key": "State NOL carryforwards",
+              "value": "1487"
+            },
+            {
+              "key": "Foreign NOL carryforwards",
+              "value": "4307"
+            },
+            {
+              "key": "Total deferred tax assets",
+              "value": "13735"
+            },
+            {
+              "key": "Less valuation allowance",
+              "value": "-13735"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": false,
+      "elements": []
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 21,
+          "title": "FDA Regulatory Compliance for Pharmaceutical Products",
+          "data": [
+            {
+              "key": "NDA Requirements",
+              "value": "An NDA must contain extensive manufacturing information, proposed labeling, chemistry and physical characteristics of the drug."
+            },
+            {
+              "key": "cGMP Compliance",
+              "value": "The manufacturing process must consistently produce quality products within specifications approved by the FDA."
+            },
+            {
+              "key": "Inspection",
+              "value": "The FDA conducts inspections of manufacturing facilities to ensure compliance with cGMP."
+            },
+            {
+              "key": "Post-Approval Requirements",
+              "value": "Products are subject to continuous regulation, including record-keeping, reporting of adverse experiences, and changes to approved products."
+            },
+            {
+              "key": "Marketing Compliance",
+              "value": "The FDA regulates marketing, labeling, advertising, and promotion of pharmaceutical products, prohibiting promotion of off-label uses."
+            },
+            {
+              "key": "Anti-Kickback Statute",
+              "value": "Prohibits remuneration in exchange for patient referrals involving federal healthcare programs."
+            },
+            {
+              "key": "Legal Risks",
+              "value": "Failure to comply may result in adverse publicity, corrective advertising, and potential civil and criminal penalties."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 24,
+          "title": "Summary of Risk Factors",
+          "data": [
+            {
+              "key": "Significant losses",
+              "value": "We have incurred significant losses since our inception and anticipate that we will continue to incur losses for the foreseeable future."
+            },
+            {
+              "key": "FDA engagement",
+              "value": "Our ability to successfully engage with, and satisfactorily respond to, requests for additional information from the FDA concerning the clinical hold on our investigational new drug application for XPro."
+            },
+            {
+              "key": "Capital requirement",
+              "value": "We will require additional capital to fund our operations and if we fail to obtain necessary financing, we will not be able to complete the development and commercialization of our product candidates."
+            },
+            {
+              "key": "Debt obligations",
+              "value": "We have a substantial amount of debt, and we may be unable to make required payments of interest and principal."
+            },
+            {
+              "key": "Dependence on product platforms",
+              "value": "We are significantly dependent on the success of our DN-TNF product platform and Natural Killer Cell Priming Platform (INKmune)."
+            },
+            {
+              "key": "Attracting skilled personnel",
+              "value": "We need to attract and retain highly skilled personnel; we may be unable to effectively manage growth with our limited resources."
+            },
+            {
+              "key": "Dependence on senior management",
+              "value": "We depend upon our senior management and key consultants; their loss could put us at a competitive disadvantage."
+            },
+            {
+              "key": "Competition",
+              "value": "The biotechnology and immunotherapy industries are characterized by rapid technological developments and a high degree of competition."
+            },
+            {
+              "key": "Regulatory approval",
+              "value": "We can provide no assurance that our clinical product candidates will obtain regulatory approval."
+            },
+            {
+              "key": "Drug development risks",
+              "value": "Drug discovery and development is a complex, time-consuming and expensive process with a high rate of failure."
+            },
+            {
+              "key": "Legal claims",
+              "value": "We may face legal claims; legal disputes are expensive."
+            },
+            {
+              "key": "Compliance with regulations",
+              "value": "We must comply with significant government regulations."
+            },
+            {
+              "key": "Intellectual property risks",
+              "value": "We rely upon patents to protect our technology; we may be unable to protect our intellectual property rights."
+            },
+            {
+              "key": "Stock price volatility",
+              "value": "The price of our common stock may be volatile."
+            },
+            {
+              "key": "Anti-takeover provisions",
+              "value": "Our Rights Agreement contains anti-takeover provisions that could discourage a change in control."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 25,
+          "title": "Risks Related to Our Business",
+          "data": [
+            {
+              "key": "Current cash and cash equivalents",
+              "value": "$52.2 million"
+            },
+            {
+              "key": "Outstanding debt",
+              "value": "$15 million"
+            },
+            {
+              "key": "Potential outcomes of insufficient capital",
+              "value": "Delay, reduction, or elimination of R&D programs, curtailment of operations"
+            },
+            {
+              "key": "Factors impacting additional capital requirements",
+              "value": "Successful commercialization, regulatory approval costs, protecting intellectual property, marketing capabilities, market acceptance"
+            },
+            {
+              "key": "Consequences of failing to raise additional capital",
+              "value": "Delay or discontinuation of product development, significant expense reductions, sale of assets"
+            },
+            {
+              "key": "Company’s ability to service debt",
+              "value": "Generating significant cash flow, maintaining operations"
+            },
+            {
+              "key": "Debt servicing constraints",
+              "value": "Servicing debt reduces cash flow for other purposes"
+            },
+            {
+              "key": "Impact of covenant violations",
+              "value": "Potential default and acceleration of debt repayment"
+            },
+            {
+              "key": "Waiver for covenant violations",
+              "value": "Obtained in February 2023"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 27,
+          "title": "Risk Factors Related to Intellectual Property",
+          "data": [
+            {
+              "key": "Intellectual Property Risks",
+              "value": "Patent applications limited in scope, risk to market products due to insufficient protection."
+            },
+            {
+              "key": "Licensing Dependence",
+              "value": "Dependent on licenses from Xencor and Immune Ventures."
+            },
+            {
+              "key": "Hostile action risks",
+              "value": "Potential termination of licenses may harm competitive position."
+            },
+            {
+              "key": "Limited Operating History",
+              "value": "Limited financial information complicates evaluation of performance."
+            },
+            {
+              "key": "Challenges in Novel Treatments",
+              "value": "Educational and regulatory challenges for novel therapies like INKmune."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 30,
+          "title": "Risk Associated with Clinical Trials and Marketing Approval",
+          "data": [
+            {
+              "key": "Risk of Additional Setbacks",
+              "value": "Even with positive results in earlier development, additional setbacks may occur during late-stage clinical trials."
+            },
+            {
+              "key": "Clinical Trial Design",
+              "value": "Flaws in design may not be apparent until trials are advanced."
+            },
+            {
+              "key": "Interpretation of Data",
+              "value": "Preclinical and clinical data are often subject to varying interpretations."
+            },
+            {
+              "key": "Variability in Outcomes",
+              "value": "Variability exists in safety and efficacy results across different trials."
+            },
+            {
+              "key": "High Failure Rate",
+              "value": "There is a high failure rate for drug candidates in clinical trials."
+            },
+            {
+              "key": "Regulatory Approval Challenges",
+              "value": "The FDA may not grant marketing approval even with favorable trial results."
+            },
+            {
+              "key": "Financial Impact",
+              "value": "Setbacks can materially harm business, financial condition, and prospects."
+            },
+            {
+              "key": "Interim Data Caution",
+              "value": "Preliminary data may be subject to change and should be viewed with caution."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 31,
+          "title": "Risks Related to Clinical Trials and Regulatory Approvals",
+          "data": [
+            {
+              "key": "Clinical Trials Delays",
+              "value": "We may experience delays or fail to reach agreements on clinical trial contracts or protocols."
+            },
+            {
+              "key": "Patient Enrollment Issues",
+              "value": "Patients may misrepresent their eligibility or not comply with protocols, increasing enrollment requirements."
+            },
+            {
+              "key": "Health Risks",
+              "value": "Participants in clinical trials may be exposed to unacceptable health risks, resulting in suspension or termination."
+            },
+            {
+              "key": "Regulatory Authority Concerns",
+              "value": "Regulatory bodies may disagree with trial designs or data interpretations, affecting approval."
+            },
+            {
+              "key": "Supply Chain Risks",
+              "value": "Quality and supply issues concerning raw materials may impact clinical trials and product development."
+            },
+            {
+              "key": "Approval Policies Changes",
+              "value": "Regulatory approval policies may change, affecting the marketability of product candidates."
+            },
+            {
+              "key": "Consequences of Delays",
+              "value": "Delays in clinical trials may shorten exclusive commercialization rights and allow competitors market entry."
+            },
+            {
+              "key": "Potential Increased Costs",
+              "value": "Increased testing delays may raise the costs of product development and require additional funding."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 32,
+          "title": "Risk Factors in Clinical Trials and Orphan Drug Designation",
+          "data": [
+            {
+              "key": "Enrollment delays in clinical trials",
+              "value": "Could lead to increased development costs and jeopardize the company's ability to achieve clinical goals."
+            },
+            {
+              "key": "FDA approval requirements",
+              "value": "Failure or delays in approval of proposed product brand names may adversely impact business."
+            },
+            {
+              "key": "Orphan drug designation risks",
+              "value": "May not confer expected market exclusivity, and other companies may obtain approval for the same indication."
+            },
+            {
+              "key": "Market share challenges",
+              "value": "Smaller target patient populations may adversely affect revenue."
+            },
+            {
+              "key": "Regulatory compliance importance",
+              "value": "Failure to comply can result in fines and suspended approvals."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 38,
+          "title": "Risks Related to Operations and Compliance",
+          "data": [
+            {
+              "key": "Public health threats impact",
+              "value": "Potential adverse impact due to infectious diseases such as COVID-19 on research and development activities."
+            },
+            {
+              "key": "Business disruptions",
+              "value": "Possible inability to predict the extent of future business shutdowns and their effects on operations."
+            },
+            {
+              "key": "Currency exchange rate exposure",
+              "value": "Significant impact on operating results due to operations outside the U.S."
+            },
+            {
+              "key": "Risk of employee misconduct",
+              "value": "Possible noncompliance with regulatory standards could harm reputation and lead to liability."
+            },
+            {
+              "key": "Cybersecurity risks",
+              "value": "Threats include security breaches and loss of confidential information due to reliance on technology."
+            },
+            {
+              "key": "Social media risks",
+              "value": "Potential regulatory noncompliance and public relations issues stemming from social media interactions."
+            },
+            {
+              "key": "Dividend policy",
+              "value": "No intention to pay dividends in the foreseeable future, affecting stock market perception."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 2,
+          "title": "Form 10-K Table of Contents",
+          "data": [
+            {
+              "key": "section",
+              "value": "Business"
+            },
+            {
+              "key": "section",
+              "value": "Risk Factors"
+            },
+            {
+              "key": "section",
+              "value": "Unresolved Staff Comments"
+            },
+            {
+              "key": "section",
+              "value": "Properties"
+            },
+            {
+              "key": "section",
+              "value": "Legal Proceedings"
+            },
+            {
+              "key": "section",
+              "value": "Mine Safety Disclosures"
+            },
+            {
+              "key": "section",
+              "value": "Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities"
+            },
+            {
+              "key": "section",
+              "value": "Reserved"
+            },
+            {
+              "key": "section",
+              "value": "Management's Discussion and Analysis of Financial Condition and Results of Operations"
+            },
+            {
+              "key": "section",
+              "value": "Quantitative and Qualitative Disclosures About Market Risk"
+            },
+            {
+              "key": "section",
+              "value": "Financial Statements and Supplementary Data"
+            },
+            {
+              "key": "section",
+              "value": "Changes in and Disagreements with Accountants on Accounting, and Financial Disclosure"
+            },
+            {
+              "key": "section",
+              "value": "Controls and Procedures"
+            },
+            {
+              "key": "section",
+              "value": "Other Information"
+            },
+            {
+              "key": "section",
+              "value": "Disclosure Regarding Foreign Jurisdictions that Prevent Inspections"
+            },
+            {
+              "key": "section",
+              "value": "Directors, Executive Officers, and Corporate Governance"
+            },
+            {
+              "key": "section",
+              "value": "Executive Compensation"
+            },
+            {
+              "key": "section",
+              "value": "Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters"
+            },
+            {
+              "key": "section",
+              "value": "Certain Relationships and Related Transactions, and Director Independence"
+            },
+            {
+              "key": "section",
+              "value": "Principal Accounting Fees and Services"
+            },
+            {
+              "key": "section",
+              "value": "Exhibits"
+            },
+            {
+              "key": "section",
+              "value": "Form 10-K Summa"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 13,
+          "title": "Proposed Phase I Study in patients with high-risk MDS",
+          "data": [
+            {
+              "key": "Study Overview",
+              "value": "Initiation of an open label Phase I cancer study in patients with high-risk myelodysplastic syndrome (MDS). Patients are being enrolled who have a low burden of disease after completion of conventional therapy."
+            },
+            {
+              "key": "Objective",
+              "value": "Monitor changes in peripheral blood NK activation, NK function and changes in residual blast counts in blood and bone marrow."
+            },
+            {
+              "key": "Enrollment Period",
+              "value": "First patients enrolled in the first quarter of 2021."
+            },
+            {
+              "key": "Current Status",
+              "value": "Patients with detectable residual disease in bone marrow and/or peripheral blood are being treated with intravenous infusions of INKmune."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 20,
+          "title": "Guidance on Clinical Trials and Drug Development",
+          "data": [
+            {
+              "key": "Clinical Trial Initiation",
+              "value": "Phase I trials initiated in the UK and Australia."
+            },
+            {
+              "key": "Regulatory Approval",
+              "value": "CTA approval received from MHRA for INKmune trial in ovarian cancer."
+            },
+            {
+              "key": "Expected Clinical Sites",
+              "value": "Initial Phase I sites expected in the UK."
+            },
+            {
+              "key": "Phase II Program",
+              "value": "Planned as multinational, including potential sites in the US."
+            },
+            {
+              "key": "Combining Therapies",
+              "value": "Combination therapy with INB03 and existing treatments."
+            },
+            {
+              "key": "Market Strategy",
+              "value": "Registration and development strategy for INB03 planned for multiple regions."
+            },
+            {
+              "key": "Future Therapies",
+              "value": "Monitoring other drug developments in Alzheimer's treatment."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 22,
+          "title": "Federal False Claims and Statement Laws",
+          "data": [
+            {
+              "key": "False Claims Act (FCA)",
+              "value": "Imposes liability on those presenting fraudulent claims to federal health care programs."
+            },
+            {
+              "key": "Attorney General Action",
+              "value": "Actions may be brought by the Attorney General or as qui tam actions."
+            },
+            {
+              "key": "Penalties Under FCA",
+              "value": "Violations can result in significant monetary penalties and treble damages."
+            },
+            {
+              "key": "Compliance Investigation",
+              "value": "The federal government investigates compliance with fraud laws, especially in the pharmaceutical sector."
+            },
+            {
+              "key": "HIPAA Violations",
+              "value": "Prohibits fraudulent schemes to deceive healthcare benefit programs."
+            },
+            {
+              "key": "Federal Healthcare Reporting",
+              "value": "The Affordable Care Act imposes new reporting requirements on manufacturers."
+            },
+            {
+              "key": "Civil Monetary Penalties for Non-compliance",
+              "value": "Fines of up to $150,000 per year for failures to report accurately."
+            },
+            {
+              "key": "State Compliance Laws",
+              "value": "States may have broader fraud and abuse statutes."
+            },
+            {
+              "key": "Price Controls and Reimbursement Challenges",
+              "value": "Current challenges in obtaining coverage and adequate reimbursement from third-party payors."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 29,
+          "title": "FDA Regulatory Review and Acceleration Considerations",
+          "data": [
+            {
+              "key": "Regulatory Pathways",
+              "value": "Accelerated approval under FDCA available for serious or life-threatening conditions."
+            },
+            {
+              "key": "FDA Priority Review",
+              "value": "Priority review does not guarantee faster approval."
+            },
+            {
+              "key": "Uncertainty of Clinical Trials",
+              "value": "Clinical trials can be lengthy and expensive with uncertain outcomes."
+            },
+            {
+              "key": "Risks of Development",
+              "value": "High failure risk for product candidates in development stage."
+            },
+            {
+              "key": "FDA Discretion",
+              "value": "FDA has broad discretion on priority review status."
+            },
+            {
+              "key": "Study Requirements",
+              "value": "Additional studies may be required to obtain approval."
+            },
+            {
+              "key": "Clinical Benefits",
+              "value": "Determination of therapeutic benefits is clinically significant."
+            },
+            {
+              "key": "Approval Contingency",
+              "value": "Accelerated approval contingent on post-approval studies."
+            },
+            {
+              "key": "NDA Submission",
+              "value": "No assurance of NDA submission decision after evaluation."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 35,
+          "title": "Competition and Product Liability Risks",
+          "data": [
+            {
+              "key": "Competition",
+              "value": "The company faces substantial competition from other pharmaceutical and biotechnology companies in developing and commercializing new drug products."
+            },
+            {
+              "key": "Sales and Distribution Risks",
+              "value": "The company may face challenges in establishing internal sales, marketing, and distribution capabilities."
+            },
+            {
+              "key": "Dependence on Key Personnel",
+              "value": "The success of the company heavily relies on Dr. Raymond J. Tesi, President and CEO, and other key personnel."
+            },
+            {
+              "key": "Product Liability Risks",
+              "value": "There is a risk of product liability claims which could significantly affect the company's operations and financial condition."
+            },
+            {
+              "key": "Insurance Coverage",
+              "value": "Maintaining adequate general liability insurance is essential, but coverage may not fully protect against all potential liabilities."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 40,
+          "title": "Dividend Policy",
+          "data": [
+            {
+              "key": "Dividend Declaration",
+              "value": "We have not declared any cash dividends on our common stock since inception and do not anticipate paying such dividends in the foreseeable future."
+            },
+            {
+              "key": "Future Earnings Use",
+              "value": "We plan to retain any future earnings for use in our business operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 41,
+          "title": "Development and Trials of INKmune and DN-TNF Platforms",
+          "data": [
+            {
+              "key": "platforms",
+              "value": "INKmune and DN-TNF"
+            },
+            {
+              "key": "therapies",
+              "value": "cancer and neurodegenerative diseases"
+            },
+            {
+              "key": "benefits",
+              "value": "targets residual disease and modifies brain microenvironment"
+            },
+            {
+              "key": "development_status",
+              "value": "Phase I and Phase II trials"
+            },
+            {
+              "key": "trial_results",
+              "value": "demonstrated safety and efficacy in target populations"
+            },
+            {
+              "key": "planned_trials",
+              "value": "Phase II for advanced MUC4+ cancers and early ADi patients"
+            },
+            {
+              "key": "awards",
+              "value": "received $2.9M from NIMH for TRD treatment"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 42,
+          "title": "Financial Impact of COVID-19 on Clinical Trials and Business Operations",
+          "data": [
+            {
+              "key": "COVID-19 Impact",
+              "value": "The Company is subject to risks and uncertainties as a result of the COVID-19 pandemic, which could affect clinical trials and overall business operations."
+            },
+            {
+              "key": "Revenue Condition",
+              "value": "As of December 31, 2022, the Company had an accumulated deficit of approximately $91.0 million."
+            },
+            {
+              "key": "Net Losses",
+              "value": "Net losses were $27,299,000 and $30,340,000 for the years ended December 31, 2022 and 2021, respectively."
+            },
+            {
+              "key": "Emerging Growth Company",
+              "value": "Qualifying as an \"emerging growth company\" under the JOBS Act allows reduced disclosure requirements."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 44,
+          "title": "Financial Review and Management Discussion",
+          "data": [
+            {
+              "key": "General and Administrative Expenses",
+              "value": "Payroll and personnel expenses, professional fees, insurance, overhead, and other expenses."
+            },
+            {
+              "key": "Critical Accounting Policies",
+              "value": "Estimated based on historical experience, affecting assets and revenue reporting."
+            },
+            {
+              "key": "In-Process Research and Development",
+              "value": "Annual evaluation of indefinite-lived intangible assets."
+            },
+            {
+              "key": "Research and Development",
+              "value": "Costs related to clinical studies, personnel expenses."
+            },
+            {
+              "key": "Stock-Based Compensation",
+              "value": "Measured based on the estimated fair value on the grant date."
+            },
+            {
+              "key": "Off-Balance Sheet Arrangements",
+              "value": "No off-balance sheet arrangements."
+            },
+            {
+              "key": "Licensing and Collaboration Agreements",
+              "value": "Strategic collaborations anticipated for leveraging expertise."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 59,
+          "title": "Lease Payment Schedule and Present Value Calculation",
+          "data": [
+            {
+              "key": "2023",
+              "value": "166"
+            },
+            {
+              "key": "2024",
+              "value": "186"
+            },
+            {
+              "key": "2025",
+              "value": "193"
+            },
+            {
+              "key": "2026",
+              "value": "198"
+            },
+            {
+              "key": "2027",
+              "value": "51"
+            },
+            {
+              "key": "Total lease payments",
+              "value": "794"
+            },
+            {
+              "key": "Less: imputed interest",
+              "value": "-181"
+            },
+            {
+              "key": "Present value of future lease payments",
+              "value": "613"
+            },
+            {
+              "key": "Less: operating lease, current liabilities",
+              "value": "-87"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 19,
+          "title": "Regulatory Approval Process",
+          "data": [
+            {
+              "key": "Testing and Approval",
+              "value": "The regulatory approval process involves testing, approval, manufacture, quality control, safety, effectiveness, labeling, storage, record keeping, advertising and promotion."
+            },
+            {
+              "key": "FDA Process",
+              "value": "The FDA approval process generally involves nonclinical laboratory tests, animal studies, clinical trials, submission of IND, NDA, and inspection of manufacturing facilities."
+            },
+            {
+              "key": "Orphan Drug Designation",
+              "value": "Seeking orphan drug designation for INKmune if clinical trial results support this."
+            },
+            {
+              "key": "Clinical Trials Phases",
+              "value": "Phases 1-3 trials assess safety, dosage, efficacy, and dosing procedures."
+            },
+            {
+              "key": "IRB Approval",
+              "value": "The independent review board must approve clinical trial plans."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 23,
+          "title": "Healthcare System Regulatory Changes and Their Impact on Pharmaceutical Products",
+          "data": [
+            {
+              "key": "Healthcare legislative context",
+              "value": "U.S. and foreign jurisdictions considering regulatory proposals affecting healthcare system."
+            },
+            {
+              "key": "Goals of regulatory changes",
+              "value": "Contain costs, improve quality, expand access."
+            },
+            {
+              "key": "Impact of Affordable Care Act (ACA)",
+              "value": "Introduced fees, extended Medicaid rebates, and changed pricing methodologies."
+            },
+            {
+              "key": "Recent legislative changes since ACA",
+              "value": "Budget Control Act 2011 reduces Medicare payments, American Taxpayer Relief Act increased recovery period for overpayments."
+            },
+            {
+              "key": "Judicial challenges to ACA",
+              "value": "U.S. Supreme Court dismissed recent ACA challenge."
+            },
+            {
+              "key": "Biden's Executive Order",
+              "value": "Review of policies limiting healthcare access."
+            },
+            {
+              "key": "American Rescue Plan Act of 2021",
+              "value": "Eliminates Medicaid drug rebate cap starting January 1, 2024."
+            },
+            {
+              "key": "Increased scrutiny on pharmaceutical pricing",
+              "value": "Congressional inquiries into drug pricing practices."
+            },
+            {
+              "key": "Inflation Reduction Act of 2022 (IRA)",
+              "value": "Imposes Medicare price negotiations and rebates for inflation."
+            },
+            {
+              "key": "State level legislative control",
+              "value": "State legislatures controlling pharmaceutical pricing through various measures."
+            },
+            {
+              "key": "Potential impact on company's revenue",
+              "value": "Lower reimbursement leading to decreased profitability."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 26,
+          "title": "FDA Clinical Hold on XPro and Competition Risks",
+          "data": [
+            {
+              "key": "FDA Clinical Hold Status",
+              "value": "FDA has placed a clinical hold on XPro, requesting additional information."
+            },
+            {
+              "key": "Impact of Hold",
+              "value": "Potential adverse effects on development timelines, business, and stock price."
+            },
+            {
+              "key": "Competitors' Advantages",
+              "value": "Competitors may have greater resources and could gain FDA approval before the company."
+            },
+            {
+              "key": "Intellectual Property Risks",
+              "value": "Challenges in protecting patents could limit commercialization efforts."
+            },
+            {
+              "key": "Global Patent Protection Variability",
+              "value": "Variability in patent protection across countries could challenge market position."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 34,
+          "title": "Risks Related to Regulatory Issues and Marketing Approval",
+          "data": [
+            {
+              "key": "Marketing Approval Risks",
+              "value": "If our product candidates receive marketing approval but later identified as less effective or harmful, our ability to market them could be compromised."
+            },
+            {
+              "key": "Clinical Trials",
+              "value": "Clinical trials may indicate an apparent effect greater than actual or fail to identify side effects."
+            },
+            {
+              "key": "Regulatory Actions",
+              "value": "Potential adverse events include withdrawal of approval, recalls, fines, or civil penalties."
+            },
+            {
+              "key": "Post-Marketing Obligations",
+              "value": "Continual requirements from the FDA include safety submissions, manufacturing compliance, and monitoring."
+            },
+            {
+              "key": "Marketing Limitations",
+              "value": "Marketing approval may have limitations and conditions including costly testing and surveillance."
+            },
+            {
+              "key": "Post-Approval Risks",
+              "value": "Discovery of unknown problems can lead to restrictions, recalls, fines, or withdrawal of products."
+            },
+            {
+              "key": "Sales Capability Challenges",
+              "value": "We currently lack marketing and sales capabilities, which may hinder revenue generation."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 37,
+          "title": "Legislative and Regulatory Initiatives Impacting Healthcare Costs",
+          "data": [
+            {
+              "key": "Legislative Initiatives",
+              "value": "Significantly affected by major legislative initiatives aimed at healthcare accessibility and cost containment."
+            },
+            {
+              "key": "Affordable Care Act (ACA)",
+              "value": "Signed into law in March 2010, aimed at reducing healthcare costs and broadening insurance access."
+            },
+            {
+              "key": "Impact of Healthcare Reform",
+              "value": "Uncertain future impact of healthcare reforms on pharmaceutical reimbursement."
+            },
+            {
+              "key": "Patent Law Changes",
+              "value": "Changes to U.S. patent law could diminish patent value and heighten complexity in patent enforcement."
+            },
+            {
+              "key": "American Invents Act (AIA)",
+              "value": "Legislation that significantly modifies U.S. patent law and introduces a 'first-to-file' system."
+            },
+            {
+              "key": "Economic Conditions",
+              "value": "Deterioration in economic conditions may adversely affect business operations."
+            },
+            {
+              "key": "Public Health Threats",
+              "value": "Potential adverse effects on operations due to public health threats."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 39,
+          "title": "Risk Factors Related to our Securities and Internal Controls",
+          "data": [
+            {
+              "key": "Sarbanes-Oxley Act Compliance",
+              "value": "We may need to hire additional financial reporting personnel to develop internal controls and reporting procedures."
+            },
+            {
+              "key": "Emerging Growth Company Status",
+              "value": "We are classified as an 'emerging growth company' and may take advantage of exemptions from certain reporting requirements."
+            },
+            {
+              "key": "Attractiveness of Common Stock to Investors",
+              "value": "Relying on exemptions may lead to common stock being less attractive to investors."
+            },
+            {
+              "key": "Volatility of Stock Price",
+              "value": "Common stock price may be volatile due to various factors beyond our control."
+            },
+            {
+              "key": "Trading Difficulty for Securities",
+              "value": "Securities not actively traded leading to difficulty in obtaining quotations and liquidity issues."
+            },
+            {
+              "key": "Future Capital Needs and Dilution Risk",
+              "value": "We may issue additional shares which could dilute ownership of current stockholders."
+            },
+            {
+              "key": "Anti-Takeover Provisions",
+              "value": "A stockholder rights plan could discourage unsolicited takeover proposals."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 8,
+          "title": "XPro1595 Effect on Cytokine and Chemokine Levels",
+          "data": [
+            {
+              "key": "chart_type",
+              "value": "bar chart"
+            },
+            {
+              "key": "y_axis",
+              "value": "Percentage change (%)"
+            },
+            {
+              "key": "sample_size",
+              "value": "n=6"
+            },
+            {
+              "key": "dosage",
+              "value": "1.0mg/kg"
+            },
+            {
+              "key": "treatment_duration",
+              "value": "12 weeks"
+            },
+            {
+              "key": "measurement_method",
+              "value": "Olink® Target 48 Cytokine panel"
+            },
+            {
+              "key": "additional_info",
+              "value": "White Matter Free Water Safer Mask (WMFW) reported using technology from IMEKA shows 4.47% decrease in WMFW, a biomarker of neuroinflammation"
+            },
+            {
+              "key": "note",
+              "value": "Chart shows multiple cytokine and chemokine measurements in CSF, all showing reduction after treatment"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 8,
+          "title": "Correlation of CNS Inflammation Changes",
+          "data": [
+            {
+              "key": "x_axis_label",
+              "value": "MRI Inflammation (Safe Mask FW)"
+            },
+            {
+              "key": "y_axis_label",
+              "value": "CSF Inflammation (Composite N=37)"
+            },
+            {
+              "key": "r_squared",
+              "value": "0.7561"
+            },
+            {
+              "key": "study_details",
+              "value": "Study conducted on 9 patients treated with XPro1595 for 12 weeks (0.3 or 1.0mg/kg/week, 3 and 6 patients respectively)"
+            },
+            {
+              "key": "measurement_method",
+              "value": "CSF cytokines and chemokines were measured using Olink Target 48 Cytokine panel, WMFW Safe Mask using IMEKA technology"
+            },
+            {
+              "key": "correlation_type",
+              "value": "scatter plot with regression line and confidence intervals"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 53,
+          "title": "Research and Development Activity",
+          "data": [
+            {
+              "key": "UK R&D tax credit receivable (2022)",
+              "value": "$2,690,000"
+            },
+            {
+              "key": "UK R&D tax credit receivable (2021)",
+              "value": "$3,319,000"
+            },
+            {
+              "key": "UK R&D tax credit reimbursements (2022)",
+              "value": "$0"
+            },
+            {
+              "key": "UK R&D tax credit reimbursements (2021)",
+              "value": "$814,000"
+            },
+            {
+              "key": "UK recent R&D reimbursement (January 2023)",
+              "value": "$2,710,000"
+            },
+            {
+              "key": "Australia R&D tax credit receivable (2022)",
+              "value": "$5,409,000"
+            },
+            {
+              "key": "Australia R&D tax credit receivable (2021)",
+              "value": "$1,594,000"
+            },
+            {
+              "key": "Australia R&D tax credit reimbursements (2022)",
+              "value": "$0"
+            },
+            {
+              "key": "Australia R&D tax credit reimbursements (2021)",
+              "value": "$1,296,000"
+            },
+            {
+              "key": "Australia recent R&D reimbursement (February 2023)",
+              "value": "$3,763,000"
+            },
+            {
+              "key": "Xencor License Agreement initial payment",
+              "value": "$100,000"
+            },
+            {
+              "key": "Xencor License Agreement common stock issued value",
+              "value": "$12,221,000"
+            },
+            {
+              "key": "Xencor License Agreement warrants value",
+              "value": "$4,193,000"
+            },
+            {
+              "key": "Xencor License Agreement total intangible assets recorded",
+              "value": "$16,514,000"
+            },
+            {
+              "key": "Xencor royalty percentage",
+              "value": "5%"
+            },
+            {
+              "key": "INKmune milestone payment (Phase initiation)",
+              "value": "$25,000"
+            },
+            {
+              "key": "Payroll for milestone payments agreed",
+              "value": "$1% of net sales"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 12,
+    "EUR": 64,
+    "AUD": 12,
+    "CAD": 10
+  },
+  "sha1": "553afbf09b6d83166b17acb02431c6cf38e4defc"
+}

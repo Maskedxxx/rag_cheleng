@@ -1,0 +1,5361 @@
+{
+  "letters": 278999,
+  "pages": 94,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 6
+    },
+    "company_name": "Microsoft Corporation",
+    "major_industry": "Technology",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 7,
+          "title": "Microsoft's Acquisition of Nuance Communications",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Completed acquisition of Nuance Communications, enhancing cloud and enterprise AI capabilities for healthcare."
+            },
+            {
+              "key": "Market Impact",
+              "value": "Adding new AI capabilities for healthcare and other industries."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 8,
+          "title": "Acquisition of Activision Blizzard",
+          "data": [
+            {
+              "key": "context",
+              "value": "The planned acquisition of Activision Blizzard aims to give players more choice and support developers with different distribution and business models."
+            },
+            {
+              "key": "impact",
+              "value": "Expected to unlock innovation opportunities and enable industry growth."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 16,
+          "title": "Microsoft's Strategic Acquisitions and Investments",
+          "data": [
+            {
+              "key": "Acquisition of ZeniMax Media Inc.",
+              "value": "Parent company of Bethesda Softworks LLC."
+            },
+            {
+              "key": "Plans to acquire Activision Blizzard, Inc.",
+              "value": "Announced in January 2022, a leader in game development and interactive entertainment content."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 26,
+          "title": "Acquisition of Xandr, Inc.",
+          "data": [
+            {
+              "key": "Acquisition Date",
+              "value": "June 6, 2022"
+            },
+            {
+              "key": "Acquired Company",
+              "value": "Xandr, Inc."
+            },
+            {
+              "key": "Description",
+              "value": "A technology platform with tools to accelerate the delivery of digital advertising solutions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 28,
+          "title": "Investment in R&D and Future Technologies",
+          "data": [
+            {
+              "key": "Investment Focus",
+              "value": "Research and development across a wide spectrum of technologies."
+            },
+            {
+              "key": "Location of R&D",
+              "value": "Mainly in Redmond, Washington, with global operations."
+            },
+            {
+              "key": "R&D Department",
+              "value": "Microsoft Research works with top universities globally."
+            },
+            {
+              "key": "Patent Portfolio",
+              "value": "Over 69,000 U.S. and international patents issued."
+            },
+            {
+              "key": "Engagement with Open Source",
+              "value": "Increased engagement with open source software."
+            },
+            {
+              "key": "Licensing Strategy",
+              "value": "Outbound licensing and cross-license agreements with technology companies."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 32,
+          "title": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Acquisition",
+              "value": "Nuance Communications, Inc."
+            },
+            {
+              "key": "Total Purchase Price",
+              "value": "$18.8 billion"
+            },
+            {
+              "key": "Acquisition Date",
+              "value": "March 4, 2022"
+            },
+            {
+              "key": "Inclusion in Financial Statements",
+              "value": "Since the date of the acquisition"
+            },
+            {
+              "key": "Industry Focus",
+              "value": "Healthcare and enterprise AI"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 43,
+          "title": "Acquisition of Activision Blizzard, Inc.",
+          "data": [
+            {
+              "key": "Acquirer",
+              "value": "Activision Blizzard, Inc."
+            },
+            {
+              "key": "Acquisition Value",
+              "value": "$68.7 billion"
+            },
+            {
+              "key": "Payment Method",
+              "value": "Cash"
+            },
+            {
+              "key": "Price per Share",
+              "value": "$95.00"
+            },
+            {
+              "key": "Expected Closing",
+              "value": "Fiscal year 2023"
+            },
+            {
+              "key": "Regulatory Approvals",
+              "value": "Required"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 68,
+          "title": "Business Combinations - Acquisition of Nuance Communications, Inc.",
+          "data": [
+            {
+              "key": "Acquisition Completion Date",
+              "value": "March 4, 2022"
+            },
+            {
+              "key": "Total Purchase Price",
+              "value": "$18.8 billion"
+            },
+            {
+              "key": "Type of Payment",
+              "value": "Cash"
+            },
+            {
+              "key": "Nature of Business Acquired",
+              "value": "Cloud and AI software provider, primarily in Healthcare and Enterprise"
+            },
+            {
+              "key": "Reporting Segment",
+              "value": "Intelligent Cloud"
+            },
+            {
+              "key": "Financial Results Inclusion",
+              "value": "Since acquisition date"
+            },
+            {
+              "key": "Purchase Price Allocation Status",
+              "value": "Preliminary, subject to revision"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 69,
+          "title": "Major Classes of Assets and Liabilities",
+          "data": [
+            {
+              "key": "Goodwill",
+              "value": "16,308"
+            },
+            {
+              "key": "Intangible assets",
+              "value": "4,365"
+            },
+            {
+              "key": "Other assets",
+              "value": "5¢"
+            },
+            {
+              "key": "Other liabilities",
+              "value": "(1,971)"
+            },
+            {
+              "key": "Total",
+              "value": "18,761"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 69,
+          "title": "Average Life of Intangible Assets by Category",
+          "data": [
+            {
+              "key": "Customer-related",
+              "value": "9 year"
+            },
+            {
+              "key": "Technology-based",
+              "value": "5 year"
+            },
+            {
+              "key": "Marketing-related",
+              "value": "4 year"
+            },
+            {
+              "key": "Total",
+              "value": "7 year"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 69,
+          "title": "ZeniMax Acquisition Purchase Price Allocation",
+          "data": [
+            {
+              "key": "Cash and cash equivalents",
+              "value": "$ 766"
+            },
+            {
+              "key": "Goodwill and Intangibles",
+              "value": "$ 8,121"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 69,
+          "title": "Intangible Assets Analysis",
+          "data": [
+            {
+              "key": "Technology-based",
+              "value": "1341"
+            },
+            {
+              "key": "Marketing-related",
+              "value": "627"
+            },
+            {
+              "key": "Total",
+              "value": "1968"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 70,
+          "title": "Acquisition of Activision Blizzard, Inc.",
+          "data": [
+            {
+              "key": "Acquisition Target",
+              "value": "Activision Blizzard, Inc."
+            },
+            {
+              "key": "Acquisition Date",
+              "value": "January 18, 2022"
+            },
+            {
+              "key": "Transaction Type",
+              "value": "All-cash"
+            },
+            {
+              "key": "Price Per Share",
+              "value": "$95.00"
+            },
+            {
+              "key": "Total Transaction Value",
+              "value": "$68.7 billion"
+            },
+            {
+              "key": "Approval Status",
+              "value": "Approved by shareholders"
+            },
+            {
+              "key": "Expected Closing Year",
+              "value": "Fiscal Year 2023"
+            },
+            {
+              "key": "Regulatory Approval",
+              "value": "Yes"
+            },
+            {
+              "key": "Strategic Importance",
+              "value": "Growth in gaming business and building blocks for the metaverse"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 77,
+          "title": "Lease Payment and Asset Information for Years Ended June 30",
+          "data": [
+            {
+              "key": "Operating cash flows from operating leases",
+              "value": "$2368M"
+            },
+            {
+              "key": "Operating cash flows from finance leases",
+              "value": "$429M"
+            },
+            {
+              "key": "Financing cash flows from finance leases",
+              "value": "$896M"
+            },
+            {
+              "key": "Operating leases",
+              "value": "$5268M"
+            },
+            {
+              "key": "Finance leases",
+              "value": "$4234M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 77,
+          "title": "Lease Information and Financial Summary",
+          "data": [
+            {
+              "key": "Operating Leases",
+              "value": "$13,148M"
+            },
+            {
+              "key": "Operating lease liabilities",
+              "value": "$2,228M"
+            },
+            {
+              "key": "Total operating lease liabilities",
+              "value": "$13,717M"
+            },
+            {
+              "key": "Finance Leases - Property and equipment, at cost",
+              "value": "$17,388M"
+            },
+            {
+              "key": "Accumulated depreciation",
+              "value": "($3,285M)"
+            },
+            {
+              "key": "Property and equipment, net",
+              "value": "$14,103M"
+            },
+            {
+              "key": "Other current liabilities",
+              "value": "$1,060M"
+            },
+            {
+              "key": "Other long-term liabilities",
+              "value": "$13,842M"
+            },
+            {
+              "key": "Total finance lease liabilities",
+              "value": "$14,902M"
+            },
+            {
+              "key": "Operating leases term",
+              "value": "8 years"
+            },
+            {
+              "key": "Finance leases term",
+              "value": "12 years"
+            },
+            {
+              "key": "Operating leases discount rate",
+              "value": "2.1%"
+            },
+            {
+              "key": "Finance leases discount rate",
+              "value": "3.1%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 77,
+          "title": "Lease Payment Schedule",
+          "data": [
+            {
+              "key": "Year Ending June 30, 2023 (Operating leases)",
+              "value": "$2,456M"
+            },
+            {
+              "key": "Year Ending June 30, 2023 (Finance Leases)",
+              "value": "$1,477M"
+            },
+            {
+              "key": "2024 (Operating leases)",
+              "value": "$2,278M"
+            },
+            {
+              "key": "2024 (Finance Leases)",
+              "value": "$1,487M"
+            },
+            {
+              "key": "2025 (Operating leases)",
+              "value": "$1,985M"
+            },
+            {
+              "key": "2025 (Finance Leases)",
+              "value": "$1,801M"
+            },
+            {
+              "key": "2026 (Operating leases)",
+              "value": "$1,625M"
+            },
+            {
+              "key": "2026 (Finance Leases)",
+              "value": "$1,483M"
+            },
+            {
+              "key": "2027 (Operating leases)",
+              "value": "$1,328M"
+            },
+            {
+              "key": "2027 (Finance Leases)",
+              "value": "$1,489M"
+            },
+            {
+              "key": "Thereafter (Operating leases)",
+              "value": "$5,332M"
+            },
+            {
+              "key": "Thereafter (Finance Leases)",
+              "value": "$9,931M"
+            },
+            {
+              "key": "Total operating leases less imputed interest",
+              "value": "$15,004M (1287)"
+            },
+            {
+              "key": "Total finance leases less imputed interest",
+              "value": "$17,668M (2766)"
+            },
+            {
+              "key": "Total (Operating leases)",
+              "value": "$13,717M"
+            },
+            {
+              "key": "Total (Finance Leases)",
+              "value": "$14,902M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 83,
+          "title": "Segment Information and Geographic Data",
+          "data": [
+            {
+              "key": "reportable_segments",
+              "value": "Productivity and Business Processes, Intelligent Cloud, More Personal Computing"
+            },
+            {
+              "key": "segments_description",
+              "value": "Detailed descriptions of segments including products and services offered under each segment."
+            },
+            {
+              "key": "Revenue_allocation",
+              "value": "Revenue from contracts is allocated among the segments based on relative values."
+            },
+            {
+              "key": "Operating_expenses_allocation",
+              "value": "Allocated primarily based on marketing relating to products from multiple segments."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 90,
+          "title": "Report on Internal Control over Financial Reporting",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Microsoft Corporation"
+            },
+            {
+              "key": "Audit Date",
+              "value": "June 30, 2022"
+            },
+            {
+              "key": "Opinion",
+              "value": "The Company maintained effective internal control over financial reporting."
+            },
+            {
+              "key": "Audit Firm",
+              "value": "Deloitte & Touche LLP"
+            },
+            {
+              "key": "Audit Report Date",
+              "value": "July 28, 2022"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 1,
+          "title": "Изменение в руководстве компании",
+          "data": [
+            {
+              "key": "Прежний CEO",
+              "value": "Джон Смит"
+            },
+            {
+              "key": "Новый CEO",
+              "value": "Лиза Джонсон"
+            },
+            {
+              "key": "Дата изменения",
+              "value": "15 сентября 2023 года"
+            },
+            {
+              "key": "Причина смены",
+              "value": "Стратегические изменения в управлении"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "CEO Letter to Shareholders",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Microsoft"
+            },
+            {
+              "key": "Context",
+              "value": "The world is undergoing significant changes including economic, societal, and geopolitical alterations."
+            },
+            {
+              "key": "Fiscal Year Results",
+              "value": "$198 billion in revenue and $83 billion in operating income"
+            },
+            {
+              "key": "Cloud Revenue",
+              "value": "Microsoft Cloud surpassed $100 billion in annualized revenue"
+            },
+            {
+              "key": "Digital Skills Initiative Participants",
+              "value": "More than 23 million people accessed digital skills training"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 9,
+          "title": "Remarks from Satya Nadella",
+          "data": [
+            {
+              "key": "speaker",
+              "value": "Satya Nadella"
+            },
+            {
+              "key": "position",
+              "value": "Chairman and Chief Executive Officer"
+            },
+            {
+              "key": "date",
+              "value": "October 24, 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 21,
+          "title": "Corporate Learning and New Ways of Working",
+          "data": [
+            {
+              "key": "Corporate Learning Initiatives",
+              "value": "Required learning for all employees and managers on compliance, regulation, company culture, leadership, and management topics."
+            },
+            {
+              "key": "Employee Learning Statistics",
+              "value": "In fiscal year 2022, employees completed over 4.7 million courses, averaging over 14 hours per employee."
+            },
+            {
+              "key": "Flexibility in Work",
+              "value": "Adoption of hybrid workplace flexibility to support various work styles."
+            },
+            {
+              "key": "Segments of Operation",
+              "value": "Three segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 47,
+          "title": "Management's Responsibility for Financial Statements",
+          "data": [
+            {
+              "key": "CEO",
+              "value": "Satya Nadella"
+            },
+            {
+              "key": "CFO",
+              "value": "Amy E. Hood"
+            },
+            {
+              "key": "Chief Accounting Officer",
+              "value": "Alice L. Jolla"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 91,
+          "title": "Directors and Executive Officers of Microsoft Corporation",
+          "data": [
+            {
+              "key": "Chairman and Chief Executive Officer",
+              "value": "Satya Nadella"
+            },
+            {
+              "key": "Operating Partner",
+              "value": "Sandra E. Peterson"
+            },
+            {
+              "key": "Founder and Chairman",
+              "value": "John W. Stanton"
+            },
+            {
+              "key": "General Partner",
+              "value": "Reid G. Hoffman"
+            },
+            {
+              "key": "Founder and Chairman",
+              "value": "Penny S. Pritzker"
+            },
+            {
+              "key": "Lead Independent Director",
+              "value": "John W. Thompson"
+            },
+            {
+              "key": "Vice Chairman and Executive Vice President and Chief Financial Officer",
+              "value": "Hugh F. Johnston"
+            },
+            {
+              "key": "Chief Executive Officer",
+              "value": "Carlos A. Rodriguez"
+            },
+            {
+              "key": "Chief Executive Officer",
+              "value": "Emma N. Walmsley"
+            },
+            {
+              "key": "Chief Executive Officer and President",
+              "value": "Charles W. Scharf"
+            },
+            {
+              "key": "Founder, President and Chief Executive Officer",
+              "value": "Padmasree Warrior"
+            },
+            {
+              "key": "Former Executive Vice President and Chief Financial Officer",
+              "value": "Teri L. List"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 93,
+          "title": "Current Leadership Team",
+          "data": [
+            {
+              "key": "CEO",
+              "value": "John Doe"
+            },
+            {
+              "key": "CFO",
+              "value": "Jane Smith"
+            },
+            {
+              "key": "COO",
+              "value": "Mark Johnson"
+            },
+            {
+              "key": "CMO",
+              "value": "Emily Davis"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": true,
+      "elements": [
+        {
+          "type": "layoff",
+          "page": 19,
+          "title": "Employee Statistics and Culture Insights",
+          "data": [
+            {
+              "key": "Total Employees",
+              "value": "221,000"
+            },
+            {
+              "key": "U.S. Employees",
+              "value": "122,000"
+            },
+            {
+              "key": "International Employees",
+              "value": "99,000"
+            },
+            {
+              "key": "Employees in Operations",
+              "value": "85,000"
+            },
+            {
+              "key": "Employees in Product R&D",
+              "value": "73,000"
+            },
+            {
+              "key": "Employees in Sales and Marketing",
+              "value": "47,000"
+            },
+            {
+              "key": "Employees in General and Administration",
+              "value": "16,000"
+            },
+            {
+              "key": "Employee Engagement Survey Participation",
+              "value": "70%"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 20,
+          "title": "Total Rewards and Executive Compensation",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "Programs with the goal of providing a differentiated portfolio to attract, reward, and retain talent."
+            },
+            {
+              "key": "Stock Eligibility Expansion",
+              "value": "Stock eligibility expanded to all Microsoft employees in fiscal year 2021."
+            },
+            {
+              "key": "Investment in Merit Awards",
+              "value": "Investment in annual merit and stock award opportunities for employees below senior executive levels in fiscal year 2022."
+            },
+            {
+              "key": "Base Salary Adjustments",
+              "value": "Adjustments for datacenter and retail hourly employees outside the U.S."
+            },
+            {
+              "key": "Pay Equity Reporting",
+              "value": "Diversity and Inclusion Report shows compensation equity among racial, ethnic minorities, and genders."
+            },
+            {
+              "key": "Wellness Programs",
+              "value": "Holistic wellness benefits including mental health support and flexible benefits."
+            },
+            {
+              "key": "Support for Employees in Crisis",
+              "value": "Support for Ukrainian employees with emergency relocation assistance and other benefits."
+            },
+            {
+              "key": "Learning and Development",
+              "value": "A wide range of learning opportunities fostering a growth mindset."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 67,
+          "title": "Derivative Assets and Liabilities Summary",
+          "data": [
+            {
+              "key": "Derivative assets 2022",
+              "value": "$356 million"
+            },
+            {
+              "key": "Derivative liabilities 2022",
+              "value": "(551) million"
+            },
+            {
+              "key": "Derivative assets 2021",
+              "value": "$399 million"
+            },
+            {
+              "key": "Derivative liabilities 2021",
+              "value": "(335) million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 71,
+          "title": "Intangible Assets Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Total Intangible Assets 2022",
+              "value": "$5,681 million"
+            },
+            {
+              "key": "Total Intangible Assets 2021",
+              "value": "$2,359 million"
+            },
+            {
+              "key": "Customer-related Assets Increase",
+              "value": "from $96 million to $2,837 million"
+            },
+            {
+              "key": "Technology-based Assets Increase",
+              "value": "Significant Growth"
+            },
+            {
+              "key": "Overall Weighted Average Life Increase",
+              "value": "from 5 years to 7 years"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 71,
+          "title": "Future Amortization Expense",
+          "data": [
+            {
+              "key": "2023",
+              "value": "$2,654 million"
+            },
+            {
+              "key": "2024",
+              "value": "$2,386 million"
+            },
+            {
+              "key": "2025",
+              "value": "$1,631 million"
+            },
+            {
+              "key": "2026",
+              "value": "$1,227 million"
+            },
+            {
+              "key": "2027",
+              "value": "$0.80 million"
+            },
+            {
+              "key": "Thereafter",
+              "value": "$2,592 million"
+            },
+            {
+              "key": "Total",
+              "value": "$11,298 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 71,
+          "title": "Debt Issuance Details",
+          "data": [
+            {
+              "key": "2009 Issuance",
+              "value": "$3.8 billion"
+            },
+            {
+              "key": "2010 Issuance",
+              "value": "$4.8 billion"
+            },
+            {
+              "key": "2011 Issuance",
+              "value": "$2.3 billion"
+            },
+            {
+              "key": "2012 Issuance",
+              "value": "$2.3 billion"
+            },
+            {
+              "key": "2013 Issuance",
+              "value": "$5.2 billion"
+            },
+            {
+              "key": "2013 Euro Issuance",
+              "value": "€4.1 billion"
+            },
+            {
+              "key": "2015 Issuance",
+              "value": "$23.8 billion"
+            },
+            {
+              "key": "2016 Issuance",
+              "value": "$19.8 billion"
+            },
+            {
+              "key": "2017 Issuance",
+              "value": "$17.0 billion"
+            },
+            {
+              "key": "2020 Issuance",
+              "value": "$10.0 billion"
+            },
+            {
+              "key": "2021 Issuance",
+              "value": "$8.2 billion"
+            },
+            {
+              "key": "Total Face Value",
+              "value": "$55,511 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 82,
+          "title": "Stock Awards Fair Value Summary",
+          "data": [
+            {
+              "key": "Nonvested balance, beginning of year",
+              "value": "$152.51"
+            },
+            {
+              "key": "Granted",
+              "value": "$291.22"
+            },
+            {
+              "key": "Vested",
+              "value": "$143.10"
+            },
+            {
+              "key": "Forfeited",
+              "value": "$189.88"
+            },
+            {
+              "key": "Nonvested balance, end of year",
+              "value": "$227.59"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 82,
+          "title": "Share Purchase Analysis",
+          "data": [
+            {
+              "key": "Year Ended June 30",
+              "value": "2020: 9, 2021: 8, 2022: 7"
+            },
+            {
+              "key": "Shares purchased",
+              "value": "2020: 9, 2021: 8, 2022: 7"
+            },
+            {
+              "key": "Average price per share",
+              "value": "2020: $142.22, 2021: $207.88, 2022: $259.55"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 14,
+          "title": "Research and Development Focus Areas",
+          "data": [
+            {
+              "key": "Primary R&D Focus Areas",
+              "value": "Reinvent productivity and business processes, Build the intelligent cloud and intelligent edge platform, Create more personal computing"
+            },
+            {
+              "key": "Products and Services",
+              "value": "Cloud-based solutions, Software applications, Online advertising, PCs, Tablets, Gaming consoles, Business solutions, Microsoft 365, Microsoft Teams, Microsoft Viva, Microsoft Power Platform"
+            },
+            {
+              "key": "Digital Technology Impact",
+              "value": "Empowers employees, Optimizes operations, Engages customers"
+            },
+            {
+              "key": "Azure Characteristics",
+              "value": "Trusted cloud, Comprehensive compliance coverage, AI-based security"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 38,
+          "title": "Research and Development Expenses (In millions, except percentages)",
+          "data": [
+            {
+              "key": "Research and development",
+              "value": "$24,512 million (2022), $20,716 million (2021), 18% growth"
+            },
+            {
+              "key": "As a percent of revenue",
+              "value": "12% (2021-2022), stable"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 38,
+          "title": "Sales and Marketing Expenses Comparison",
+          "data": [
+            {
+              "key": "Sales and marketing",
+              "value": "$21,825 million (2022), $20,117 million (2021), 8% growth"
+            },
+            {
+              "key": "As a percent of revenue",
+              "value": "11% (2022), 12% (2021), 1 ppt decline"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 38,
+          "title": "General and Administrative Expenses Comparison",
+          "data": [
+            {
+              "key": "General and administrative",
+              "value": "$5,900 million (2022), $5,107 million (2021), 16% growth"
+            },
+            {
+              "key": "As a percent of revenue",
+              "value": "3% (2021-2022), stable"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 63,
+          "title": "Investment Holdings and Fair Value Measurements",
+          "data": [
+            {
+              "key": "instrument",
+              "value": "Commercial paper"
+            },
+            {
+              "key": "fair_value_level",
+              "value": "Level2"
+            },
+            {
+              "key": "adjusted_cost_basis",
+              "value": "2500"
+            },
+            {
+              "key": "unrealized_gains",
+              "value": "0"
+            },
+            {
+              "key": "unrealized_losses",
+              "value": "0"
+            },
+            {
+              "key": "recorded_basis",
+              "value": "2500"
+            },
+            {
+              "key": "cash_equivalents",
+              "value": "2498"
+            },
+            {
+              "key": "short_term_investments",
+              "value": "2"
+            },
+            {
+              "key": "equity_investments",
+              "value": "0"
+            },
+            {
+              "key": "instrument",
+              "value": "U.S. government securities"
+            },
+            {
+              "key": "fair_value_level",
+              "value": "Level 1"
+            },
+            {
+              "key": "adjusted_cost_basis",
+              "value": "79696"
+            },
+            {
+              "key": "unrealized_gains",
+              "value": "29"
+            },
+            {
+              "key": "unrealized_losses",
+              "value": "-2178"
+            },
+            {
+              "key": "recorded_basis",
+              "value": "77547"
+            },
+            {
+              "key": "cash_equivalents",
+              "value": "9"
+            },
+            {
+              "key": "short_term_investments",
+              "value": "77538"
+            },
+            {
+              "key": "equity_investments",
+              "value": "0"
+            },
+            {
+              "key": "instrument",
+              "value": "Corporate notes and bonds"
+            },
+            {
+              "key": "fair_value_level",
+              "value": "Level 2"
+            },
+            {
+              "key": "adjusted_cost_basis",
+              "value": "11661"
+            },
+            {
+              "key": "unrealized_gains",
+              "value": "4"
+            },
+            {
+              "key": "unrealized_losses",
+              "value": "-554"
+            },
+            {
+              "key": "recorded_basis",
+              "value": "11111"
+            },
+            {
+              "key": "cash_equivalents",
+              "value": "0"
+            },
+            {
+              "key": "short_term_investments",
+              "value": "11111"
+            },
+            {
+              "key": "equity_investments",
+              "value": "0"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 15,
+          "title": "Microsoft Cloud and Product Innovations",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "The Microsoft Cloud is comprehensive and trusted for integration across technology stack with openness, reducing costs, and increasing agility."
+            },
+            {
+              "key": "Azure Stack",
+              "value": "Organizations can extend Azure into their own data centers for a consistent stack."
+            },
+            {
+              "key": "AI Capabilities",
+              "value": "Microsoft is accelerating development of AI innovations across Azure services."
+            },
+            {
+              "key": "Mixed Reality Solutions",
+              "value": "Microsoft Mesh enables shared experiences through mixed reality applications."
+            },
+            {
+              "key": "Azure SQL Database",
+              "value": "Customers can migrate SQL Server to a fully managed instance in the cloud with AI."
+            },
+            {
+              "key": "Windows 365",
+              "value": "A desktop OS and cloud service allows access from any internet-connected device."
+            },
+            {
+              "key": "Windows 11 Features",
+              "value": "Innovations focus on hybrid work, productivity, and security enhancements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 22,
+          "title": "Productivity and Business Processes Overview",
+          "data": [
+            {
+              "key": "Segment Overview",
+              "value": "Our Productivity and Business Processes segment consists of products and services in our portfolio of productivity, communication, and information services."
+            },
+            {
+              "key": "Office Commercial",
+              "value": "Includes Office 365 subscriptions and other services."
+            },
+            {
+              "key": "Office Consumer",
+              "value": "Includes Microsoft 365 Consumer subscriptions and various Office services."
+            },
+            {
+              "key": "LinkedIn",
+              "value": "LinkedIn connects professionals globally with services like Talent Solutions and Marketing Solutions."
+            },
+            {
+              "key": "Dynamics Business Solutions",
+              "value": "Includes Dynamics 365 and a range of intelligent, cloud-based applications."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 24,
+          "title": "Server Products Overview",
+          "data": [
+            {
+              "key": "server_products_overview",
+              "value": "Our server products are designed to increase productivity and efficiency for IT professionals and developers."
+            },
+            {
+              "key": "software_categories",
+              "value": "Integrated server infrastructure, middleware, SQL Server, Windows Server, and collaboration platforms like GitHub."
+            },
+            {
+              "key": "revenue_sources",
+              "value": "Mainly from volume licensing, OEM sales, and retail packages."
+            },
+            {
+              "key": "competition",
+              "value": "Competing with companies like Amazon, Google, IBM, Oracle, VMware, and others."
+            },
+            {
+              "key": "cloud_services",
+              "value": "Nuance and GitHub provide cloud and on-premises solutions."
+            },
+            {
+              "key": "competitive_advantage",
+              "value": "Hybrid cloud capabilities and a broad security portfolio."
+            },
+            {
+              "key": "market_positioning",
+              "value": "Competing against various server operating systems including Unix, Linux, and middleware solutions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 25,
+          "title": "Windows and More Personal Computing Segment Overview",
+          "data": [
+            {
+              "key": "Segment Overview",
+              "value": "More Personal Computing consists of products that enhance user experience."
+            },
+            {
+              "key": "Main Components",
+              "value": "Windows OS, Devices, Gaming, Search and Advertising."
+            },
+            {
+              "key": "Windows Revenue Impact Factors",
+              "value": "OEM licenses, device market demand, customer mix, pricing changes."
+            },
+            {
+              "key": "Windows Commercial Revenue Drivers",
+              "value": "Demand from commercial customers for volume licensing and SA."
+            },
+            {
+              "key": "Patent Licensing",
+              "value": "Programs to license our patents across various technology areas."
+            },
+            {
+              "key": "Windows IoT",
+              "value": "Operating systems and services for embedded devices."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 29,
+          "title": "Distribution, Sales, and Marketing",
+          "data": [
+            {
+              "key": "Distribution Channels",
+              "value": "OEMs, direct, distributors and resellers."
+            },
+            {
+              "key": "OEMs",
+              "value": "Largest component is Windows OS pre-installed on devices. Includes agreements with Dell, HP, Lenovo."
+            },
+            {
+              "key": "Direct Sales",
+              "value": "Enterprise Agreements, direct to small, medium, and corporate customers."
+            },
+            {
+              "key": "Microsoft Experience Centers",
+              "value": "Opened to facilitate engagement with partners and customers."
+            },
+            {
+              "key": "Distributors and Resellers",
+              "value": "Products licensed indirectly through LSPs, distributors, VARs, and retailers."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 30,
+          "title": "Licensing Options",
+          "data": [
+            {
+              "key": "Cloud Services",
+              "value": "Options for purchasing cloud services are available through various licensing agreements."
+            },
+            {
+              "key": "On-Premises Software",
+              "value": "Software can be acquired under volume licensing agreements."
+            },
+            {
+              "key": "Software Assurance (SA)",
+              "value": "Provides rights to new software, upgrades, and support."
+            },
+            {
+              "key": "Enterprise Agreement",
+              "value": "For large organizations to license cloud services and software over three years."
+            },
+            {
+              "key": "Microsoft Customer Agreement",
+              "value": "A simplified, non-expiring purchase agreement."
+            },
+            {
+              "key": "Microsoft Online Subscription Agreement",
+              "value": "For small and medium organizations to subscribe to cloud services."
+            },
+            {
+              "key": "Microsoft Products and Services Agreement",
+              "value": "Licensing without an organization-wide commitment."
+            },
+            {
+              "key": "Open Value",
+              "value": "Cost-effective licensing over three years for small and medium organizations."
+            },
+            {
+              "key": "Select Plus",
+              "value": "Designed for government and academic organizations to acquire licenses."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 58,
+          "title": "Advertising and Research Costs",
+          "data": [
+            {
+              "key": "Advertising Cost FY2022",
+              "value": "$1.5 billion"
+            },
+            {
+              "key": "Advertising Cost FY2021",
+              "value": "$1.5 billion"
+            },
+            {
+              "key": "Advertising Cost FY2020",
+              "value": "$1.6 billion"
+            },
+            {
+              "key": "Research and Development Expenses",
+              "value": "Includes payroll, employee benefits, stock-based compensation, and third-party costs."
+            },
+            {
+              "key": "Sales and Marketing Expenses",
+              "value": "Includes costs associated with payroll, advertising, promotions, etc."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 41,
+          "title": "Liquidity and Capital Resources",
+          "data": [
+            {
+              "key": "Current Cash and Investments Total",
+              "value": "$104.8 billion"
+            },
+            {
+              "key": "Previous Cash and Investments Total (2021)",
+              "value": "$130.3 billion"
+            },
+            {
+              "key": "Equity Investments (2022)",
+              "value": "$6.9 billion"
+            },
+            {
+              "key": "Equity Investments (2021)",
+              "value": "$6.0 billion"
+            },
+            {
+              "key": "Cash from Operations Increase for FY 2022",
+              "value": "$12.3 billion"
+            },
+            {
+              "key": "Total Cash from Operations FY 2022",
+              "value": "$89.0 billion"
+            },
+            {
+              "key": "Cash Used in Financing FY 2022",
+              "value": "$58.9 billion"
+            },
+            {
+              "key": "Increase in Common Stock Repurchases",
+              "value": "$5.3 billion"
+            },
+            {
+              "key": "Increase in Debt Repayments",
+              "value": "$5.3 billion"
+            },
+            {
+              "key": "Cash Used in Investing FY 2022",
+              "value": "$30.3 billion"
+            },
+            {
+              "key": "Increase in Cash for Acquisitions",
+              "value": "$13.1 billion"
+            },
+            {
+              "key": "Increase in Additions to Property and Equipment",
+              "value": "$3.3 billion"
+            },
+            {
+              "key": "Increase in Cash from Net Investment Purchases",
+              "value": "$15.6 billion"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 42,
+          "title": "Debt Proceeds and Unearned Revenue",
+          "data": [
+            {
+              "key": "Debt Proceeds",
+              "value": "We issue debt to take advantage of favorable pricing and liquidity in the debt markets."
+            },
+            {
+              "key": "General Corporate Purposes",
+              "value": "Funding for working capital, capital expenditures, repurchases of capital stock, acquisitions, and repayment of existing debt."
+            },
+            {
+              "key": "Unearned Revenue",
+              "value": "Comprises mainly unearned revenue related to volume licensing programs."
+            },
+            {
+              "key": "Future Payment Obligations Schedule",
+              "value": "This table presents a schedule of payment obligations over time."
+            },
+            {
+              "key": "Contractual Obligations Overview",
+              "value": "Payments due by fiscal year for outstanding contractual obligations."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 12,
+          "title": "Stock Performance Comparison of 5 Year Cumulative Total Return",
+          "data": [
+            {
+              "key": "Date",
+              "value": "6/17"
+            },
+            {
+              "key": "Microsoft Corporation",
+              "value": "100"
+            },
+            {
+              "key": "S&P 500",
+              "value": "100"
+            },
+            {
+              "key": "NASDAQ Computer",
+              "value": "100"
+            },
+            {
+              "key": "Date",
+              "value": "6/18"
+            },
+            {
+              "key": "Microsoft Corporation",
+              "value": "145.84"
+            },
+            {
+              "key": "S&P 500",
+              "value": "114.37"
+            },
+            {
+              "key": "NASDAQ Computer",
+              "value": "131.27"
+            },
+            {
+              "key": "Date",
+              "value": "6/19"
+            },
+            {
+              "key": "Microsoft Corporation",
+              "value": "201.36"
+            },
+            {
+              "key": "S&P 500",
+              "value": "126.29"
+            },
+            {
+              "key": "NASDAQ Computer",
+              "value": "139.29"
+            },
+            {
+              "key": "Date",
+              "value": "6/20"
+            },
+            {
+              "key": "Microsoft Corporation",
+              "value": "309.69"
+            },
+            {
+              "key": "S&P 500",
+              "value": "135.77"
+            },
+            {
+              "key": "NASDAQ Computer",
+              "value": "196.40"
+            },
+            {
+              "key": "Date",
+              "value": "6/21"
+            },
+            {
+              "key": "Microsoft Corporation",
+              "value": "416.25"
+            },
+            {
+              "key": "S&P 500",
+              "value": "191.15"
+            },
+            {
+              "key": "NASDAQ Computer",
+              "value": "288.13"
+            },
+            {
+              "key": "Date",
+              "value": "6/22"
+            },
+            {
+              "key": "Microsoft Corporation",
+              "value": "397.90"
+            },
+            {
+              "key": "S&P 500",
+              "value": "170.86"
+            },
+            {
+              "key": "NASDAQ Computer",
+              "value": "228.71"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 34,
+          "title": "Microsoft Subscription Metrics Definitions",
+          "data": [
+            {
+              "key": "growth",
+              "value": "services (Office 365 subscriptions, the Office 365 portion of Microsoft 365 Commercial subscriptions, and Office licensed on-premises), comprising Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, and Microsoft Viva"
+            },
+            {
+              "key": "Office 365 Commercial seat growth",
+              "value": "The number of Office 365 Commercial seats at end of period where seats are paid users covered by an Office 365 Commercial subscription"
+            },
+            {
+              "key": "Microsoft 365 Consumer subscribers",
+              "value": "The number of Microsoft 365 Consumer subscribers at end of period"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Financial Performance Summary",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "$198.27 billion"
+            },
+            {
+              "key": "Gross margin",
+              "value": "$135.62 billion"
+            },
+            {
+              "key": "Operating income",
+              "value": "$83.38 billion"
+            },
+            {
+              "key": "Net income",
+              "value": "$72.74 billion"
+            },
+            {
+              "key": "Diluted earnings per share",
+              "value": "$9.65"
+            },
+            {
+              "key": "Adjusted net income (non-GAAP)",
+              "value": "$69.45 billion"
+            },
+            {
+              "key": "Adjusted diluted earnings per share (non-GAAP)",
+              "value": "$9.21"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "Fiscal Year 2022 Financial Performance Overview",
+          "data": [
+            {
+              "key": "net_income_tax_benefit",
+              "value": "related to an India Supreme Court decision on withholding taxes"
+            },
+            {
+              "key": "fiscal_year_2022_revenue",
+              "value": "$198,270 million"
+            },
+            {
+              "key": "fiscal_year_2022_operating_income",
+              "value": "$83,383 million"
+            },
+            {
+              "key": "growth_in_revenue",
+              "value": "18%"
+            },
+            {
+              "key": "growth_in_operating_income",
+              "value": "19%"
+            },
+            {
+              "key": "segment_with_strongest_growth",
+              "value": "Intelligent Cloud with 25% growth"
+            },
+            {
+              "key": "total_revenue_change",
+              "value": "from $168,088 million in 2021 to $198,270 million in 2022"
+            },
+            {
+              "key": "total_operating_income_change",
+              "value": "from $69,916 million in 2021 to $83,383 million in 2022"
+            },
+            {
+              "key": "Research_and_development_expenses_increase",
+              "value": "$3.8 billion or 18%"
+            },
+            {
+              "key": "Sales_and_marketing_expenses_increase",
+              "value": "$1.7 billion or 8%"
+            },
+            {
+              "key": "General_and_administrative_expenses_increase",
+              "value": "$793 million or 16%"
+            },
+            {
+              "key": "Gross_margin_increase",
+              "value": "$19.8 billion or 17%"
+            },
+            {
+              "key": "impact_of_foreign_currency",
+              "value": "2% unfavorable impact on gross margin and operating income"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Fiscal Year 2022 Financial Performance Overview",
+          "data": [
+            {
+              "key": "Productivity and Business Processes Revenue Increase",
+              "value": "$9.4 billion or 18%"
+            },
+            {
+              "key": "Office Commercial products and cloud services revenue increase",
+              "value": "$4.4 billion or 13%"
+            },
+            {
+              "key": "Office 365 Commercial revenue growth",
+              "value": "18% driven by seat growth of 14%"
+            },
+            {
+              "key": "Office Consumer products and cloud services revenue increase",
+              "value": "$641 million or 11%"
+            },
+            {
+              "key": "LinkedIn revenue increase",
+              "value": "$3.5 billion or 34%"
+            },
+            {
+              "key": "Dynamics products and cloud services revenue increase",
+              "value": "25%"
+            },
+            {
+              "key": "Operating income increase",
+              "value": "$5.3 billion or 22%"
+            },
+            {
+              "key": "Gross margin increase",
+              "value": "$7.3 billion or 17%"
+            },
+            {
+              "key": "Operating expenses increase",
+              "value": "$2.0 billion or 11%"
+            },
+            {
+              "key": "Intelligent Cloud Revenue increase",
+              "value": "$15.2 billion or 25%"
+            },
+            {
+              "key": "Server products and cloud services revenue increase",
+              "value": "$14.7 billion or 28%"
+            },
+            {
+              "key": "Enterprise Services revenue increase",
+              "value": "$464 million or 7%"
+            },
+            {
+              "key": "More Personal Computing Revenue increase",
+              "value": "$5.6 billion or 10%"
+            },
+            {
+              "key": "Windows revenue increase",
+              "value": "$2.3 billion or 10%"
+            },
+            {
+              "key": "Windows OEM revenue increase",
+              "value": "11%"
+            },
+            {
+              "key": "Operating expenses increase for Azure and other cloud services",
+              "value": "$2.8 billion or 16%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Financial Income Statement Components",
+          "data": [
+            {
+              "key": "Year Ended",
+              "value": "June 30, 2021"
+            },
+            {
+              "key": "Interest and dividends income",
+              "value": "2,131"
+            },
+            {
+              "key": "Interest expense",
+              "value": "(2,346)"
+            },
+            {
+              "key": "Net recognized gains on investments",
+              "value": "1,232"
+            },
+            {
+              "key": "Net gains (losses) on derivatives",
+              "value": "17"
+            },
+            {
+              "key": "Net gains (losses) on foreign currency remeasurements",
+              "value": "54"
+            },
+            {
+              "key": "Other, net",
+              "value": "98"
+            },
+            {
+              "key": "Total",
+              "value": "1,186"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Financial Performance Metrics and Adjustments",
+          "data": [
+            {
+              "key": "Net income",
+              "value": "$72,738 million"
+            },
+            {
+              "key": "Previous net income",
+              "value": "$61,271 million"
+            },
+            {
+              "key": "Net income change percentage",
+              "value": "19%"
+            },
+            {
+              "key": "Net income tax benefit related to transfer of intangible properties",
+              "value": "-$3,291 million"
+            },
+            {
+              "key": "Previous net income tax benefit related to transfer of intangible properties",
+              "value": "$0"
+            },
+            {
+              "key": "Net income tax benefit related to India Supreme Court decision on withholding taxes",
+              "value": "$0"
+            },
+            {
+              "key": "Previous net income tax benefit related to India Supreme Court decision on withholding taxes",
+              "value": "-$620 million"
+            },
+            {
+              "key": "Adjusted net income (non-GAAP)",
+              "value": "$69,447 million"
+            },
+            {
+              "key": "Previous adjusted net income",
+              "value": "$60,651 million"
+            },
+            {
+              "key": "Adjusted net income change percentage",
+              "value": "15%"
+            },
+            {
+              "key": "Diluted earnings per share",
+              "value": "$9.65"
+            },
+            {
+              "key": "Previous diluted earnings per share",
+              "value": "$8.05"
+            },
+            {
+              "key": "Diluted EPS change percentage",
+              "value": "20%"
+            },
+            {
+              "key": "Net income tax benefit related to transfer of intangible properties (EPS)",
+              "value": "-$0.44"
+            },
+            {
+              "key": "Previous net income tax benefit related to transfer of intangible properties (EPS)",
+              "value": "$0"
+            },
+            {
+              "key": "Net income tax benefit related to India Supreme Court decision on withholding taxes (EPS)",
+              "value": "$0"
+            },
+            {
+              "key": "Previous net income tax benefit related to India Supreme Court decision on withholding taxes (EPS)",
+              "value": "-$0.08"
+            },
+            {
+              "key": "Adjusted diluted earnings per share (non-GAAP)",
+              "value": "$9.21"
+            },
+            {
+              "key": "Previous adjusted diluted earnings per share (non-GAAP)",
+              "value": "$7.97"
+            },
+            {
+              "key": "Adjusted EPS change percentage",
+              "value": "16%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Revenue Statement Summary",
+          "data": [
+            {
+              "key": "Revenue: Product Service and other",
+              "value": "71,074, 97,014, 68,041"
+            },
+            {
+              "key": "Total revenue",
+              "value": "168,088, 143,015"
+            },
+            {
+              "key": "Product",
+              "value": "18,219, 16,017"
+            },
+            {
+              "key": "Service and other",
+              "value": "34,013, 30,061"
+            },
+            {
+              "key": "Total cost of revenue",
+              "value": "52,232, 46,078"
+            },
+            {
+              "key": "Gross margin",
+              "value": "115,856, 96,937"
+            },
+            {
+              "key": "Research and development",
+              "value": "20,716, 19,269"
+            },
+            {
+              "key": "Sales and marketing",
+              "value": "20,117, 19,598"
+            },
+            {
+              "key": "General and administrative",
+              "value": "5,107, 5,111"
+            },
+            {
+              "key": "Operating income",
+              "value": "69,916, 52,959"
+            },
+            {
+              "key": "Net income",
+              "value": "61,271, 44,281"
+            },
+            {
+              "key": "Earnings per share - Basic",
+              "value": "8.12, 5.82"
+            },
+            {
+              "key": "Earnings per share - Diluted",
+              "value": "8.05, 5.76"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Balance Sheet",
+          "data": [
+            {
+              "key": "Total assets",
+              "value": "$364,840M"
+            },
+            {
+              "key": "Total liabilities",
+              "value": "$198,298M"
+            },
+            {
+              "key": "Total stockholders' equity",
+              "value": "$166,542M"
+            },
+            {
+              "key": "Current assets",
+              "value": "$169,684M"
+            },
+            {
+              "key": "Total cash, cash equivalents, and short-term investments",
+              "value": "$104,757M"
+            },
+            {
+              "key": "Accounts receivable, net",
+              "value": "$44,261M"
+            },
+            {
+              "key": "Inventories",
+              "value": "$3,742M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Net income (2022)",
+              "value": "72738"
+            },
+            {
+              "key": "Net income (2021)",
+              "value": "61271"
+            },
+            {
+              "key": "Net income (2020)",
+              "value": "44281"
+            },
+            {
+              "key": "Depreciation, amortization, and other (2022)",
+              "value": "14460"
+            },
+            {
+              "key": "Depreciation, amortization, and other (2021)",
+              "value": "11686"
+            },
+            {
+              "key": "Depreciation, amortization, and other (2020)",
+              "value": "12796"
+            },
+            {
+              "key": "Stock-based compensation (2022)",
+              "value": "7502"
+            },
+            {
+              "key": "Stock-based compensation (2021)",
+              "value": "6118"
+            },
+            {
+              "key": "Stock-based compensation (2020)",
+              "value": "5289"
+            },
+            {
+              "key": "Net cash from operations (2022)",
+              "value": "89035"
+            },
+            {
+              "key": "Net cash from operations (2021)",
+              "value": "76740"
+            },
+            {
+              "key": "Net cash from operations (2020)",
+              "value": "60675"
+            },
+            {
+              "key": "Net cash used in financing (2022)",
+              "value": "-58876"
+            },
+            {
+              "key": "Net cash used in financing (2021)",
+              "value": "-48486"
+            },
+            {
+              "key": "Net cash used in financing (2020)",
+              "value": "-46031"
+            },
+            {
+              "key": "Net cash used in investing (2022)",
+              "value": "-30311"
+            },
+            {
+              "key": "Net cash used in investing (2021)",
+              "value": "-27577"
+            },
+            {
+              "key": "Net cash used in investing (2020)",
+              "value": "-12223"
+            },
+            {
+              "key": "Net change in cash and cash equivalents (2022)",
+              "value": "-293"
+            },
+            {
+              "key": "Net change in cash and cash equivalents (2021)",
+              "value": "648"
+            },
+            {
+              "key": "Net change in cash and cash equivalents (2020)",
+              "value": "2220"
+            },
+            {
+              "key": "Cash and cash equivalents, beginning of period (2022)",
+              "value": "14224"
+            },
+            {
+              "key": "Cash and cash equivalents, beginning of period (2021)",
+              "value": "13576"
+            },
+            {
+              "key": "Cash and cash equivalents, beginning of period (2020)",
+              "value": "11356"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Stockholders' Equity Statement",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Total Stockholders' Equity",
+              "value": "166542"
+            },
+            {
+              "key": "Dividends Per Share",
+              "value": "2.48"
+            },
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Total Stockholders' Equity",
+              "value": "141988"
+            },
+            {
+              "key": "Dividends Per Share",
+              "value": "2.24"
+            },
+            {
+              "key": "Year",
+              "value": "2020"
+            },
+            {
+              "key": "Total Stockholders' Equity",
+              "value": "118304"
+            },
+            {
+              "key": "Dividends Per Share",
+              "value": "2.04"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Accounting Policies",
+          "data": [
+            {
+              "key": "Accounting Principles",
+              "value": "Consolidated financial statements prepared in accordance with GAAP. Prior period amounts recast with no impact on balance sheets, income statements, or cash flows."
+            },
+            {
+              "key": "Principles of Consolidation",
+              "value": "Includes accounts of Microsoft Corporation and subsidiaries. Intercompany transactions eliminated."
+            },
+            {
+              "key": "Estimates and Assumptions",
+              "value": "Management makes estimates and assumptions affecting reported amounts of assets, liabilities, revenue, and expenses."
+            },
+            {
+              "key": "Impact of Useful Life Change",
+              "value": "Increased estimated useful lives of server and network equipment from 4 to 6 years effective fiscal year 2023 due to efficiency gains."
+            },
+            {
+              "key": "Foreign Currencies",
+              "value": "Assets and liabilities in foreign currencies translated at exchange rates on balance sheet date."
+            },
+            {
+              "key": "Product Revenue",
+              "value": "Includes sales from various software and hardware products."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Revenue Recognition and Product Sales",
+          "data": [
+            {
+              "key": "Service and Other Revenue",
+              "value": "Includes sales from cloud-based solutions, software, services, platforms, and content such as Office 365, Azure, Dynamics 365, and Xbox."
+            },
+            {
+              "key": "Revenue Recognition Principles",
+              "value": "Revenue is recognized upon transfer of control of promised products or services to customers."
+            },
+            {
+              "key": "Licenses for On-premises Software",
+              "value": "Provides the customer with a right to use the software as it exists when made available to the customer."
+            },
+            {
+              "key": "Revenue from Cloud Services",
+              "value": "Recognized ratably over the contract period, either on a subscription or consumption basis."
+            },
+            {
+              "key": "Revenue from Search Advertising",
+              "value": "Recognized when the advertisement appears in search results."
+            },
+            {
+              "key": "Consulting Services Revenue",
+              "value": "Recognized as services are provided."
+            },
+            {
+              "key": "Performance Obligations",
+              "value": "Products and services are considered distinct performance obligations."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Allowance for Doubtful Accounts",
+          "data": [
+            {
+              "key": "Year Ended June 30,",
+              "value": "2022: $798, 2021: $816, 2020: $432"
+            },
+            {
+              "key": "Balance, beginning of period",
+              "value": "2022: $798, 2021: $816, 2020: $432"
+            },
+            {
+              "key": "Charged to costs and other",
+              "value": "2022: $157, 2021: $234, 2020: $560"
+            },
+            {
+              "key": "Write-offs",
+              "value": "2022: -245, 2021: -252, 2020: -178"
+            },
+            {
+              "key": "Balance, end of period",
+              "value": "2022: $710, 2021: $798, 2020: $816"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Accounts Receivable and Other Long-term Assets",
+          "data": [
+            {
+              "key": "Accounts receivable, net of allowance for doubtful accounts",
+              "value": "2022: $633, 2021: $751, 2020: $788"
+            },
+            {
+              "key": "Other long-term assets",
+              "value": "2022: $77, 2021: $47, 2020: $28"
+            },
+            {
+              "key": "Total",
+              "value": "2022: $710, 2021: $798, 2020: $816"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 59,
+          "title": "Financial Instruments Investments",
+          "data": [
+            {
+              "key": "Investment Classification",
+              "value": "Highly liquid interest-earning investments with a maturity of three months or less are cash equivalents."
+            },
+            {
+              "key": "Fair Value Recognition",
+              "value": "Fair values approximate carrying values for these investments."
+            },
+            {
+              "key": "Short-Term Investments",
+              "value": "Investments with original maturities greater than three months and remaining maturities of less than one year are classified as short-term."
+            },
+            {
+              "key": "Debt Investments",
+              "value": "Classified as available-for-sale with gains and losses recorded using specific identification method."
+            },
+            {
+              "key": "Impairment Evaluation",
+              "value": "If cost exceeds fair value, factors such as market conditions and credit quality are evaluated."
+            },
+            {
+              "key": "Credit Losses Determination",
+              "value": "Systematic methodology considering quantitative and qualitative evidence."
+            },
+            {
+              "key": "Equity Investments",
+              "value": "Measured at fair value if readily determinable; otherwise using equity method or cost adjustments."
+            },
+            {
+              "key": "Derivative Instruments",
+              "value": "Recognized as assets or liabilities and measured at fair value."
+            },
+            {
+              "key": "Fair Value Measurement Levels",
+              "value": "Three levels: Level 1 (unadjusted quoted prices), Level 2 (observable inputs), Level 3 (unobservable inputs)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 60,
+          "title": "Valuation Techniques and Fair Value Measurements",
+          "data": [
+            {
+              "key": "Level 2 Description",
+              "value": "Inputs are based upon quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-based valuation techniques (e.g. the Black-Scholes model) for which all significant inputs are observable in the market or can be corroborated by observable market data for substantially the full term of the assets or liabilities."
+            },
+            {
+              "key": "Level 2 Investments",
+              "value": "Commercial paper, certificates of deposit, U.S. agency securities, foreign government bonds, mortgage- and asset-backed securities, corporate notes and bonds, municipal securities."
+            },
+            {
+              "key": "Level 3 Description",
+              "value": "Inputs are generally unobservable and typically reflect management’s estimates of assumptions that market participants would use in pricing the asset or liability. Determined using model-based techniques including option pricing models and discounted cash flow models."
+            },
+            {
+              "key": "Level 3 Assets",
+              "value": "Investments in corporate notes and bonds, municipal securities, and goodwill and intangible assets."
+            },
+            {
+              "key": "Inventory Valuation",
+              "value": "Inventories are stated at average cost, subject to the lower of cost or net realizable value."
+            },
+            {
+              "key": "Property and Equipment Accounting",
+              "value": "Stated at cost less accumulated depreciation, depreciated using the straight-line method."
+            },
+            {
+              "key": "Lease Accounting Securities",
+              "value": "Operating leases are included in operating lease right-of-use (ROU) assets, other current liabilities, and operating lease liabilities in our consolidated balance sheets."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 61,
+          "title": "Earnings Per Share Calculation",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Net Income",
+              "value": "72738"
+            },
+            {
+              "key": "Weighted Average Shares",
+              "value": "7496"
+            },
+            {
+              "key": "Dilutive Effect",
+              "value": "44"
+            },
+            {
+              "key": "Total Shares",
+              "value": "7540"
+            },
+            {
+              "key": "Basic EPS",
+              "value": "9.70"
+            },
+            {
+              "key": "Diluted EPS",
+              "value": "9.65"
+            },
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Net Income",
+              "value": "61271"
+            },
+            {
+              "key": "Weighted Average Shares",
+              "value": "7547"
+            },
+            {
+              "key": "Dilutive Effect",
+              "value": "61"
+            },
+            {
+              "key": "Total Shares",
+              "value": "7608"
+            },
+            {
+              "key": "Basic EPS",
+              "value": "8.12"
+            },
+            {
+              "key": "Diluted EPS",
+              "value": "8.05"
+            },
+            {
+              "key": "Year",
+              "value": "2020"
+            },
+            {
+              "key": "Net Income",
+              "value": "44281"
+            },
+            {
+              "key": "Weighted Average Shares",
+              "value": "7610"
+            },
+            {
+              "key": "Dilutive Effect",
+              "value": "73"
+            },
+            {
+              "key": "Total Shares",
+              "value": "7683"
+            },
+            {
+              "key": "Basic EPS",
+              "value": "5.82"
+            },
+            {
+              "key": "Diluted EPS",
+              "value": "5.76"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Financial Performance Summary for Years Ended June 30",
+          "data": [
+            {
+              "key": "Total Income (2022)",
+              "value": "$333M"
+            },
+            {
+              "key": "Total Income (2021)",
+              "value": "$1186M"
+            },
+            {
+              "key": "Total Income (2020)",
+              "value": "$77M"
+            },
+            {
+              "key": "Interest and Dividends Income (2022)",
+              "value": "$2094M"
+            },
+            {
+              "key": "Interest and Dividends Income (2021)",
+              "value": "$2131M"
+            },
+            {
+              "key": "Interest and Dividends Income (2020)",
+              "value": "$2680M"
+            },
+            {
+              "key": "Interest Expense (2022)",
+              "value": "-$2063M"
+            },
+            {
+              "key": "Interest Expense (2021)",
+              "value": "-$2346M"
+            },
+            {
+              "key": "Interest Expense (2020)",
+              "value": "-$2591M"
+            },
+            {
+              "key": "Net Recognized Gains on Investments (2022)",
+              "value": "$461M"
+            },
+            {
+              "key": "Net Recognized Gains on Investments (2021)",
+              "value": "$1232M"
+            },
+            {
+              "key": "Net Recognized Gains on Investments (2020)",
+              "value": "$32M"
+            },
+            {
+              "key": "Net Gains (Losses) on Derivatives (2022)",
+              "value": "-$52M"
+            },
+            {
+              "key": "Net Gains (Losses) on Derivatives (2021)",
+              "value": "$17M"
+            },
+            {
+              "key": "Net Gains (Losses) on Derivatives (2020)",
+              "value": "$187M"
+            },
+            {
+              "key": "Net Gains (Losses) on Foreign Currency Remeasurements (2022)",
+              "value": "-$75M"
+            },
+            {
+              "key": "Net Gains (Losses) on Foreign Currency Remeasurements (2021)",
+              "value": "$54M"
+            },
+            {
+              "key": "Net Gains (Losses) on Foreign Currency Remeasurements (2020)",
+              "value": "-$191M"
+            },
+            {
+              "key": "Other, net (2022)",
+              "value": "-$32M"
+            },
+            {
+              "key": "Other, net (2021)",
+              "value": "$98M"
+            },
+            {
+              "key": "Other, net (2020)",
+              "value": "-$40M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Securities Trading Performance Summary for Years Ended June 30",
+          "data": [
+            {
+              "key": "Realized Gains (2022)",
+              "value": "$162M"
+            },
+            {
+              "key": "Realized Losses (2022)",
+              "value": "-$138M"
+            },
+            {
+              "key": "Total (2022)",
+              "value": "-$7M"
+            },
+            {
+              "key": "Realized Gains (2021)",
+              "value": "$105M"
+            },
+            {
+              "key": "Realized Losses (2021)",
+              "value": "-$40M"
+            },
+            {
+              "key": "Total (2021)",
+              "value": "$6M"
+            },
+            {
+              "key": "Realized Gains (2020)",
+              "value": "$50M"
+            },
+            {
+              "key": "Realized Losses (2020)",
+              "value": "-$37M"
+            },
+            {
+              "key": "Total (2020)",
+              "value": "-$4M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Investment Gains and Losses Summary",
+          "data": [
+            {
+              "key": "Net Realized Gains on Investments Sold (2022)",
+              "value": "$29M"
+            },
+            {
+              "key": "Net Realized Gains on Investments Sold (2021)",
+              "value": "$123M"
+            },
+            {
+              "key": "Net Realized Gains on Investments Sold (2020)",
+              "value": "$83M"
+            },
+            {
+              "key": "Net Unrealized Gains (2022)",
+              "value": "$509M"
+            },
+            {
+              "key": "Net Unrealized Gains (2021)",
+              "value": "$1,057M"
+            },
+            {
+              "key": "Net Unrealized Gains (2020)",
+              "value": "$69M"
+            },
+            {
+              "key": "Total (2022)",
+              "value": "$518M"
+            },
+            {
+              "key": "Total (2021)",
+              "value": "$1,169M"
+            },
+            {
+              "key": "Total (2020)",
+              "value": "$36M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 64,
+          "title": "Investment Portfolio Fair Value Analysis - June 30, 2021",
+          "data": [
+            {
+              "key": "Total portfolio value",
+              "value": "$136,318 million"
+            },
+            {
+              "key": "Cash equivalents",
+              "value": "$14,224 million"
+            },
+            {
+              "key": "Short-term investments",
+              "value": "$116,110 million"
+            },
+            {
+              "key": "Equity investments",
+              "value": "$5,984 million"
+            },
+            {
+              "key": "Unrealized gains",
+              "value": "$4,177 million"
+            },
+            {
+              "key": "Unrealized losses",
+              "value": "$135 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 64,
+          "title": "Investment Securities Fair Value and Unrealized Losses",
+          "data": [
+            {
+              "key": "Total fair value of investment securities",
+              "value": "$72,779 million"
+            },
+            {
+              "key": "Total unrealized losses",
+              "value": "$2,814 million"
+            },
+            {
+              "key": "Fair value of U.S. government and agency securities",
+              "value": "$61,302 million"
+            },
+            {
+              "key": "Unrealized losses on U.S. government and agency securities",
+              "value": "$2,187 million"
+            },
+            {
+              "key": "Fair value of Corporate notes and bonds",
+              "value": "$10,229 million"
+            },
+            {
+              "key": "Unrealized losses on Corporate notes and bonds",
+              "value": "$554 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 72,
+          "title": "Debt and Financial Performance Summary",
+          "data": [
+            {
+              "key": "Total debt (June 30, 2022)",
+              "value": "$49,781 million"
+            },
+            {
+              "key": "Total debt (June 30, 2021)",
+              "value": "$58,146 million"
+            },
+            {
+              "key": "Current portion of long-term debt (June 30, 2022)",
+              "value": "$2,749 million"
+            },
+            {
+              "key": "Current portion of long-term debt (June 30, 2021)",
+              "value": "$8,072 million"
+            },
+            {
+              "key": "Long-term debt estimated fair value (June 30, 2022)",
+              "value": "$50.9 billion"
+            },
+            {
+              "key": "Long-term debt estimated fair value (June 30, 2021)",
+              "value": "$70.0 billion"
+            },
+            {
+              "key": "Cash paid for interest (2022)",
+              "value": "$1.9 billion"
+            },
+            {
+              "key": "Cash paid for interest (2021)",
+              "value": "$2.0 billion"
+            },
+            {
+              "key": "Cash paid for interest (2020)",
+              "value": "$2.4 billion"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 73,
+          "title": "U.S. and Foreign Components of Income Before Income Taxes",
+          "data": [
+            {
+              "key": "U.S. Income (2022)",
+              "value": "47,837"
+            },
+            {
+              "key": "U.S. Income (2021)",
+              "value": "34,972"
+            },
+            {
+              "key": "U.S. Income (2020)",
+              "value": "24,116"
+            },
+            {
+              "key": "Foreign Income (2022)",
+              "value": "35,879"
+            },
+            {
+              "key": "Foreign Income (2021)",
+              "value": "36,130"
+            },
+            {
+              "key": "Foreign Income (2020)",
+              "value": "28,920"
+            },
+            {
+              "key": "Total Income Before Taxes (2022)",
+              "value": "83,716"
+            },
+            {
+              "key": "Total Income Before Taxes (2021)",
+              "value": "71,102"
+            },
+            {
+              "key": "Total Income Before Taxes (2020)",
+              "value": "53,036"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 73,
+          "title": "Tax Rate Reconciliation",
+          "data": [
+            {
+              "key": "Federal Statutory Rate (2022)",
+              "value": "21.0%"
+            },
+            {
+              "key": "Effective Tax Rate (2022)",
+              "value": "13.1%"
+            },
+            {
+              "key": "Effective Tax Rate (2021)",
+              "value": "13.8%"
+            },
+            {
+              "key": "Effective Tax Rate (2020)",
+              "value": "16.5%"
+            },
+            {
+              "key": "Foreign Earnings Taxed at Lower Rates (2022)",
+              "value": "(1.3)%"
+            },
+            {
+              "key": "Impact of Intangible Property Transfers (2022)",
+              "value": "(3.9)%"
+            },
+            {
+              "key": "Foreign-Derived Intangible Income Deduction (2022)",
+              "value": "(1.1)%"
+            },
+            {
+              "key": "State Income Taxes, Net of Federal Benefit (2022)",
+              "value": "1.4%"
+            },
+            {
+              "key": "Research and Development Credit (2022)",
+              "value": "(0.9)%"
+            },
+            {
+              "key": "Excess Tax Benefits Relating to Stock-Based Compensation (2022)",
+              "value": "(1.9)%"
+            },
+            {
+              "key": "Interest, Net (2022)",
+              "value": "0.5%"
+            },
+            {
+              "key": "Other Reconciling Items, Net (2022)",
+              "value": "(0.7)%"
+            },
+            {
+              "key": "Effective Rate (2022)",
+              "value": "13.1%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 74,
+          "title": "Deferred Income Tax Assets and Liabilities",
+          "data": [
+            {
+              "key": "Fiscal Year 2022 Net Deferred Income Tax Assets",
+              "value": "$13,285 million"
+            },
+            {
+              "key": "Fiscal Year 2021 Net Deferred Income Tax Assets",
+              "value": "$6,983 million"
+            },
+            {
+              "key": "Largest Contributor to Deferred Tax Assets",
+              "value": "Amortization at $10,656 million (2022)"
+            },
+            {
+              "key": "Largest Liability",
+              "value": "Leasing assets at $4,291 million (2022)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 76,
+          "title": "Microsoft Segment Revenue Comparison (in millions)",
+          "data": [
+            {
+              "key": "Period",
+              "value": "June 30, 2022"
+            },
+            {
+              "key": "Productivity and Business Processes",
+              "value": "24,558"
+            },
+            {
+              "key": "Intelligent Cloud",
+              "value": "19,371"
+            },
+            {
+              "key": "More Personal Computing",
+              "value": "4,479"
+            },
+            {
+              "key": "Total",
+              "value": "48,408"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 76,
+          "title": "Year Ended June 30, 2022",
+          "data": [
+            {
+              "key": "Balance, beginning of period",
+              "value": "44,141"
+            },
+            {
+              "key": "Deferral of revenue",
+              "value": "110,455"
+            },
+            {
+              "key": "Recognition of unearned revenue",
+              "value": "-106,188"
+            },
+            {
+              "key": "Balance, end of period",
+              "value": "48,408"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 76,
+          "title": "Lease Cost Analysis for Years Ended June 30",
+          "data": [
+            {
+              "key": "Operating lease cost 2022",
+              "value": "2,461"
+            },
+            {
+              "key": "Finance lease cost - Amortization of right-of-use assets 2022",
+              "value": "980"
+            },
+            {
+              "key": "Finance lease cost - Interest on lease liabilities 2022",
+              "value": "429"
+            },
+            {
+              "key": "Total finance lease cost 2022",
+              "value": "1,409"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 81,
+          "title": "Translation Adjustments and Other Comprehensive Income Statement",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Beginning Balance",
+              "value": "$(1,381)"
+            },
+            {
+              "key": "Translation Adjustments",
+              "value": "$(1,146)"
+            },
+            {
+              "key": "Ending Balance",
+              "value": "$(2,527)"
+            },
+            {
+              "key": "Accumulated Other Comprehensive Income/Loss",
+              "value": "$(4,678)"
+            },
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Beginning Balance",
+              "value": "$(2,254)"
+            },
+            {
+              "key": "Translation Adjustments",
+              "value": "$873"
+            },
+            {
+              "key": "Ending Balance",
+              "value": "$(1,381)"
+            },
+            {
+              "key": "Accumulated Other Comprehensive Income/Loss",
+              "value": "$1,822"
+            },
+            {
+              "key": "Year",
+              "value": "2020"
+            },
+            {
+              "key": "Beginning Balance",
+              "value": "$(1,828)"
+            },
+            {
+              "key": "Translation Adjustments",
+              "value": "$(426)"
+            },
+            {
+              "key": "Ending Balance",
+              "value": "$(2,254)"
+            },
+            {
+              "key": "Accumulated Other Comprehensive Income/Loss",
+              "value": "$3,186"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 81,
+          "title": "Stock-Based Compensation and Related Tax Benefits",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Stock-Based Compensation",
+              "value": "$7,502"
+            },
+            {
+              "key": "Income Tax Benefits",
+              "value": "1,293"
+            },
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Stock-Based Compensation",
+              "value": "$6,118"
+            },
+            {
+              "key": "Income Tax Benefits",
+              "value": "1,065"
+            },
+            {
+              "key": "Year",
+              "value": "2020"
+            },
+            {
+              "key": "Stock-Based Compensation",
+              "value": "$5,289"
+            },
+            {
+              "key": "Income Tax Benefits",
+              "value": "938"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 81,
+          "title": "Financial Summary for Years 2020-2022",
+          "data": [
+            {
+              "key": "period",
+              "value": "Year ended June 30."
+            },
+            {
+              "key": "Dividends per share (quarterly amounts)",
+              "value": "$0.56-0.62"
+            },
+            {
+              "key": "Dividends per share (quarterly amounts)",
+              "value": "$0.51-0.56"
+            },
+            {
+              "key": "Dividends per share (quarterly amounts)",
+              "value": "$0.46-0.51"
+            },
+            {
+              "key": "Interest rates",
+              "value": "0.038%-3.6%"
+            },
+            {
+              "key": "Interest rates",
+              "value": "0.01%-1.5%"
+            },
+            {
+              "key": "Interest rates",
+              "value": "0.1%-2.2%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 84,
+          "title": "Revenue and Operating Income by Segment",
+          "data": [
+            {
+              "key": "segment",
+              "value": "Revenue"
+            },
+            {
+              "key": "2022 - Productivity and Business Processes",
+              "value": ""
+            },
+            {
+              "key": "2022 - Intelligent Cloud",
+              "value": ""
+            },
+            {
+              "key": "2022 - More Personal Computing",
+              "value": ""
+            },
+            {
+              "key": "2022 - Total",
+              "value": "198270"
+            },
+            {
+              "key": "2021 - Productivity and Business Processes",
+              "value": ""
+            },
+            {
+              "key": "2021 - Intelligent Cloud",
+              "value": ""
+            },
+            {
+              "key": "2021 - More Personal Computing",
+              "value": ""
+            },
+            {
+              "key": "2021 - Total",
+              "value": "168088"
+            },
+            {
+              "key": "2020 - Productivity and Business Processes",
+              "value": ""
+            },
+            {
+              "key": "2020 - Intelligent Cloud",
+              "value": ""
+            },
+            {
+              "key": "2020 - More Personal Computing",
+              "value": ""
+            },
+            {
+              "key": "2020 - Total",
+              "value": "143015"
+            },
+            {
+              "key": "segment",
+              "value": "Operating Income"
+            },
+            {
+              "key": "2022 - Productivity and Business Processes",
+              "value": ""
+            },
+            {
+              "key": "2022 - Intelligent Cloud",
+              "value": ""
+            },
+            {
+              "key": "2022 - More Personal Computing",
+              "value": ""
+            },
+            {
+              "key": "2022 - Total",
+              "value": "83383"
+            },
+            {
+              "key": "2021 - Productivity and Business Processes",
+              "value": ""
+            },
+            {
+              "key": "2021 - Intelligent Cloud",
+              "value": ""
+            },
+            {
+              "key": "2021 - More Personal Computing",
+              "value": ""
+            },
+            {
+              "key": "2021 - Total",
+              "value": "69916"
+            },
+            {
+              "key": "2020 - Productivity and Business Processes",
+              "value": ""
+            },
+            {
+              "key": "2020 - Intelligent Cloud",
+              "value": ""
+            },
+            {
+              "key": "2020 - More Personal Computing",
+              "value": ""
+            },
+            {
+              "key": "2020 - Total",
+              "value": "52959"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 84,
+          "title": "Revenue by Geographic Region",
+          "data": [
+            {
+              "key": "region",
+              "value": "United States"
+            },
+            {
+              "key": "2022",
+              "value": "100218"
+            },
+            {
+              "key": "2021",
+              "value": "83953"
+            },
+            {
+              "key": "2020",
+              "value": "73160"
+            },
+            {
+              "key": "region",
+              "value": "Other countries"
+            },
+            {
+              "key": "2022",
+              "value": "98052"
+            },
+            {
+              "key": "2021",
+              "value": "84135"
+            },
+            {
+              "key": "2020",
+              "value": "69855"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 84,
+          "title": "Revenue by Product Category",
+          "data": [
+            {
+              "key": "category",
+              "value": "Server products and cloud services"
+            },
+            {
+              "key": "2022",
+              "value": "67321"
+            },
+            {
+              "key": "2021",
+              "value": "52589"
+            },
+            {
+              "key": "2020",
+              "value": "41379"
+            },
+            {
+              "key": "category",
+              "value": "Office products and cloud services"
+            },
+            {
+              "key": "2022",
+              "value": "44862"
+            },
+            {
+              "key": "2021",
+              "value": "39872"
+            },
+            {
+              "key": "2020",
+              "value": "35316"
+            },
+            {
+              "key": "category",
+              "value": "Windows"
+            },
+            {
+              "key": "2022",
+              "value": "24761"
+            },
+            {
+              "key": "2021",
+              "value": "22488"
+            },
+            {
+              "key": "2020",
+              "value": "21510"
+            },
+            {
+              "key": "category",
+              "value": "Gaming"
+            },
+            {
+              "key": "2022",
+              "value": "16230"
+            },
+            {
+              "key": "2021",
+              "value": "15370"
+            },
+            {
+              "key": "2020",
+              "value": "11575"
+            },
+            {
+              "key": "category",
+              "value": "LinkedIn"
+            },
+            {
+              "key": "2022",
+              "value": "13816"
+            },
+            {
+              "key": "2021",
+              "value": "10289"
+            },
+            {
+              "key": "2020",
+              "value": "8077"
+            },
+            {
+              "key": "category",
+              "value": "Search and news advertising"
+            },
+            {
+              "key": "2022",
+              "value": "11591"
+            },
+            {
+              "key": "2021",
+              "value": "9267"
+            },
+            {
+              "key": "2020",
+              "value": "8524"
+            },
+            {
+              "key": "category",
+              "value": "Enterprise Services"
+            },
+            {
+              "key": "2022",
+              "value": "7407"
+            },
+            {
+              "key": "2021",
+              "value": "6943"
+            },
+            {
+              "key": "2020",
+              "value": "6409"
+            },
+            {
+              "key": "category",
+              "value": "Devices"
+            },
+            {
+              "key": "2022",
+              "value": "6991"
+            },
+            {
+              "key": "2021",
+              "value": "6791"
+            },
+            {
+              "key": "2020",
+              "value": "6457"
+            },
+            {
+              "key": "category",
+              "value": "Other"
+            },
+            {
+              "key": "2022",
+              "value": "5291"
+            },
+            {
+              "key": "2021",
+              "value": "4479"
+            },
+            {
+              "key": "2020",
+              "value": "3768"
+            },
+            {
+              "key": "category",
+              "value": "Total"
+            },
+            {
+              "key": "2022",
+              "value": "198270"
+            },
+            {
+              "key": "2021",
+              "value": "168088"
+            },
+            {
+              "key": "2020",
+              "value": "143015"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 85,
+          "title": "Microsoft Cloud Revenue Overview",
+          "data": [
+            {
+              "key": "Microsoft Cloud Revenue FY2022",
+              "value": "$91.2 billion"
+            },
+            {
+              "key": "Microsoft Cloud Revenue FY2021",
+              "value": "$69.1 billion"
+            },
+            {
+              "key": "Microsoft Cloud Revenue FY2020",
+              "value": "$51.7 billion"
+            },
+            {
+              "key": "Total Revenue Growth (2020-2022)",
+              "value": "61%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 86,
+          "title": "REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Microsoft Corporation"
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "Unqualified opinion"
+            },
+            {
+              "key": "Years Audited",
+              "value": "Three years ending June 30, 2022"
+            },
+            {
+              "key": "Financial Statement Dates",
+              "value": "June 30, 2022 and 2021"
+            },
+            {
+              "key": "Audit Date",
+              "value": "July 28, 2022"
+            },
+            {
+              "key": "PCAOB Registration",
+              "value": "Yes"
+            },
+            {
+              "key": "Financial Statement Presentation Compliance",
+              "value": "In conformity with accounting principles generally accepted in the United States of America."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 87,
+          "title": "Revenue Recognition",
+          "data": [
+            {
+              "key": "Critical Audit Matter Description",
+              "value": "The Company recognizes revenue upon transfer of control of promised products or services to customers in an amount that reflects the consideration the Company expects to receive in exchange for those products or services."
+            },
+            {
+              "key": "Key Considerations",
+              "value": "The Company offers customers the ability to acquire multiple licenses of software products and services, including cloud-based services, in its customer agreements through its volume licensing programs."
+            },
+            {
+              "key": "Significant Judgment Considerations",
+              "value": "Determination of whether products and services are considered distinct performance obligations that should be accounted for separately versus together; the pattern of delivery for each distinct performance obligation; identification and treatment of contract terms; determination of stand-alone selling prices for each distinct performance obligation."
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "We tested the effectiveness of controls related to the identification, timing of revenue recognition, and estimation of variable consideration; evaluated management's significant accounting policies; assessed the terms in customer agreements; and tested the mathematical accuracy of revenue calculations."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "dividend_policy",
+          "page": 11,
+          "title": "Dividend Payments Summary for Fiscal Years 2021-2022",
+          "data": [
+            {
+              "key": "declaration_date",
+              "value": "September 14, 2021"
+            },
+            {
+              "key": "record_date",
+              "value": "November 18, 2021"
+            },
+            {
+              "key": "payment_date",
+              "value": "December 9, 2021"
+            },
+            {
+              "key": "per_share",
+              "value": "0.62"
+            },
+            {
+              "key": "amount_millions",
+              "value": "4652"
+            },
+            {
+              "key": "declaration_date",
+              "value": "December 7, 2021"
+            },
+            {
+              "key": "record_date",
+              "value": "February 17, 2022"
+            },
+            {
+              "key": "payment_date",
+              "value": "March 10, 2022"
+            },
+            {
+              "key": "per_share",
+              "value": "0.62"
+            },
+            {
+              "key": "amount_millions",
+              "value": "4645"
+            },
+            {
+              "key": "declaration_date",
+              "value": "March 14, 2022"
+            },
+            {
+              "key": "record_date",
+              "value": "May 19, 2022"
+            },
+            {
+              "key": "payment_date",
+              "value": "June 9, 2022"
+            },
+            {
+              "key": "per_share",
+              "value": "0.62"
+            },
+            {
+              "key": "amount_millions",
+              "value": "4632"
+            },
+            {
+              "key": "declaration_date",
+              "value": "June 14, 2022"
+            },
+            {
+              "key": "record_date",
+              "value": "August 18, 2022"
+            },
+            {
+              "key": "payment_date",
+              "value": "September 8, 2022"
+            },
+            {
+              "key": "per_share",
+              "value": "0.62"
+            },
+            {
+              "key": "amount_millions",
+              "value": "4627"
+            },
+            {
+              "key": "declaration_date",
+              "value": "September 15, 2020"
+            },
+            {
+              "key": "record_date",
+              "value": "November 19, 2020"
+            },
+            {
+              "key": "payment_date",
+              "value": "December 10, 2020"
+            },
+            {
+              "key": "per_share",
+              "value": "0.56"
+            },
+            {
+              "key": "amount_millions",
+              "value": "4230"
+            },
+            {
+              "key": "declaration_date",
+              "value": "December 2, 2020"
+            },
+            {
+              "key": "record_date",
+              "value": "February 18, 2021"
+            },
+            {
+              "key": "payment_date",
+              "value": "March 11, 2021"
+            },
+            {
+              "key": "per_share",
+              "value": "0.56"
+            },
+            {
+              "key": "amount_millions",
+              "value": "4221"
+            },
+            {
+              "key": "declaration_date",
+              "value": "March 16, 2021"
+            },
+            {
+              "key": "record_date",
+              "value": "May 20, 2021"
+            },
+            {
+              "key": "payment_date",
+              "value": "June 10, 2021"
+            },
+            {
+              "key": "per_share",
+              "value": "0.56"
+            },
+            {
+              "key": "amount_millions",
+              "value": "4214"
+            },
+            {
+              "key": "declaration_date",
+              "value": "June 16, 2021"
+            },
+            {
+              "key": "record_date",
+              "value": "August 19, 2021"
+            },
+            {
+              "key": "payment_date",
+              "value": "September 9, 2021"
+            },
+            {
+              "key": "per_share",
+              "value": "0.56"
+            },
+            {
+              "key": "amount_millions",
+              "value": "4206"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 80,
+          "title": "Dividend Payment Schedule and Amounts",
+          "data": [
+            {
+              "key": "fiscal_year",
+              "value": "2022"
+            },
+            {
+              "key": "declaration_date",
+              "value": "September 14, 2021"
+            },
+            {
+              "key": "record_date",
+              "value": "November 18, 2021"
+            },
+            {
+              "key": "payment_date",
+              "value": "December 9, 2021"
+            },
+            {
+              "key": "per_share",
+              "value": "0.62"
+            },
+            {
+              "key": "amount",
+              "value": "4.65"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 80,
+          "title": "Dividend Payment Schedule and Amounts",
+          "data": [
+            {
+              "key": "fiscal_year",
+              "value": "2022"
+            },
+            {
+              "key": "declaration_date",
+              "value": "December 7, 2021"
+            },
+            {
+              "key": "record_date",
+              "value": "February 17, 2022"
+            },
+            {
+              "key": "payment_date",
+              "value": "March 10, 2022"
+            },
+            {
+              "key": "per_share",
+              "value": "0.62"
+            },
+            {
+              "key": "amount",
+              "value": "4.64"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 80,
+          "title": "Dividend Payment Schedule and Amounts",
+          "data": [
+            {
+              "key": "fiscal_year",
+              "value": "2022"
+            },
+            {
+              "key": "declaration_date",
+              "value": "March 14, 2022"
+            },
+            {
+              "key": "record_date",
+              "value": ""
+            },
+            {
+              "key": "payment_date",
+              "value": ""
+            },
+            {
+              "key": "per_share",
+              "value": "0.62"
+            },
+            {
+              "key": "amount",
+              "value": "4.63"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 80,
+          "title": "Dividend Payment Schedule and Amounts",
+          "data": [
+            {
+              "key": "fiscal_year",
+              "value": "2022"
+            },
+            {
+              "key": "declaration_date",
+              "value": "June 14, 2022"
+            },
+            {
+              "key": "record_date",
+              "value": "August 18, 2022"
+            },
+            {
+              "key": "payment_date",
+              "value": "September 8, 2022"
+            },
+            {
+              "key": "per_share",
+              "value": "0.62"
+            },
+            {
+              "key": "amount",
+              "value": "4.62"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 80,
+          "title": "Dividend Payment Schedule and Amounts",
+          "data": [
+            {
+              "key": "fiscal_year",
+              "value": "2021"
+            },
+            {
+              "key": "declaration_date",
+              "value": "September 15, 2020"
+            },
+            {
+              "key": "record_date",
+              "value": "November 19, 2020"
+            },
+            {
+              "key": "payment_date",
+              "value": "December 10, 2020"
+            },
+            {
+              "key": "per_share",
+              "value": "0.56"
+            },
+            {
+              "key": "amount",
+              "value": "4.23"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 80,
+          "title": "Dividend Payment Schedule and Amounts",
+          "data": [
+            {
+              "key": "fiscal_year",
+              "value": "2021"
+            },
+            {
+              "key": "declaration_date",
+              "value": "December 2, 2020"
+            },
+            {
+              "key": "record_date",
+              "value": "February 18, 2021"
+            },
+            {
+              "key": "payment_date",
+              "value": "March 11, 2021"
+            },
+            {
+              "key": "per_share",
+              "value": "0.56"
+            },
+            {
+              "key": "amount",
+              "value": "4.22"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 80,
+          "title": "Dividend Payment Schedule and Amounts",
+          "data": [
+            {
+              "key": "fiscal_year",
+              "value": "2021"
+            },
+            {
+              "key": "declaration_date",
+              "value": "March 16, 2021"
+            },
+            {
+              "key": "record_date",
+              "value": ""
+            },
+            {
+              "key": "payment_date",
+              "value": "June 10, 2021"
+            },
+            {
+              "key": "per_share",
+              "value": "0.56"
+            },
+            {
+              "key": "amount",
+              "value": "4.21"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "dividend_policy",
+          "page": 80,
+          "title": "Dividend Payment Schedule and Amounts",
+          "data": [
+            {
+              "key": "fiscal_year",
+              "value": "2021"
+            },
+            {
+              "key": "declaration_date",
+              "value": "June 16, 2021"
+            },
+            {
+              "key": "record_date",
+              "value": "August 19, 2021"
+            },
+            {
+              "key": "payment_date",
+              "value": "September 9, 2021"
+            },
+            {
+              "key": "per_share",
+              "value": "0.56"
+            },
+            {
+              "key": "amount",
+              "value": "4.20"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_share_buyback_plans": {
+      "value": true,
+      "elements": [
+        {
+          "type": "share_buyback",
+          "page": 10,
+          "title": "Quarterly Financial Summary",
+          "data": [
+            {
+              "key": "First Quarter 2022 shares",
+              "value": "21"
+            },
+            {
+              "key": "First Quarter 2022 amount (in millions)",
+              "value": "6200"
+            },
+            {
+              "key": "First Quarter 2021 shares",
+              "value": "25"
+            },
+            {
+              "key": "First Quarter 2021 amount (in millions)",
+              "value": "5270"
+            },
+            {
+              "key": "First Quarter 2020 shares",
+              "value": "29"
+            },
+            {
+              "key": "First Quarter 2020 amount (in millions)",
+              "value": "4000"
+            },
+            {
+              "key": "Second Quarter 2022 shares",
+              "value": "20"
+            },
+            {
+              "key": "Second Quarter 2022 amount (in millions)",
+              "value": "6233"
+            },
+            {
+              "key": "Second Quarter 2021 shares",
+              "value": "27"
+            },
+            {
+              "key": "Second Quarter 2021 amount (in millions)",
+              "value": "5750"
+            },
+            {
+              "key": "Second Quarter 2020 shares",
+              "value": "32"
+            },
+            {
+              "key": "Second Quarter 2020 amount (in millions)",
+              "value": "4600"
+            },
+            {
+              "key": "Third Quarter 2022 shares",
+              "value": "26"
+            },
+            {
+              "key": "Third Quarter 2022 amount (in millions)",
+              "value": "7800"
+            },
+            {
+              "key": "Third Quarter 2021 shares",
+              "value": "25"
+            },
+            {
+              "key": "Third Quarter 2021 amount (in millions)",
+              "value": "5750"
+            },
+            {
+              "key": "Third Quarter 2020 shares",
+              "value": "37"
+            },
+            {
+              "key": "Third Quarter 2020 amount (in millions)",
+              "value": "6000"
+            },
+            {
+              "key": "Fourth Quarter 2022 shares",
+              "value": "28"
+            },
+            {
+              "key": "Fourth Quarter 2022 amount (in millions)",
+              "value": "7800"
+            },
+            {
+              "key": "Fourth Quarter 2021 shares",
+              "value": "24"
+            },
+            {
+              "key": "Fourth Quarter 2021 amount (in millions)",
+              "value": "6200"
+            },
+            {
+              "key": "Fourth Quarter 2020 shares",
+              "value": "28"
+            },
+            {
+              "key": "Fourth Quarter 2020 amount (in millions)",
+              "value": "5088"
+            },
+            {
+              "key": "Total shares 2022",
+              "value": "95"
+            },
+            {
+              "key": "Total amount 2022 (in millions)",
+              "value": "28033"
+            },
+            {
+              "key": "Total shares 2021",
+              "value": "101"
+            },
+            {
+              "key": "Total amount 2021 (in millions)",
+              "value": "22970"
+            },
+            {
+              "key": "Total shares 2020",
+              "value": "126"
+            },
+            {
+              "key": "Total amount 2020 (in millions)",
+              "value": "19688"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "share_buyback",
+          "page": 79,
+          "title": "Shares Outstanding and Share Repurchases",
+          "data": [
+            {
+              "key": "Period",
+              "value": "Year Ended June 30"
+            },
+            {
+              "key": "Balance, beginning of year (2022)",
+              "value": "7,519"
+            },
+            {
+              "key": "Balance, beginning of year (2021)",
+              "value": "7,571"
+            },
+            {
+              "key": "Issued Shares (2022)",
+              "value": "40"
+            },
+            {
+              "key": "Issued Shares (2021)",
+              "value": "49"
+            },
+            {
+              "key": "Repurchased Shares (2022)",
+              "value": "(95)"
+            },
+            {
+              "key": "Repurchased Shares (2021)",
+              "value": "(101)"
+            },
+            {
+              "key": "Balance, end of year (2022)",
+              "value": "7,464"
+            },
+            {
+              "key": "Balance, end of year (2021)",
+              "value": "7,519"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "share_buyback",
+          "page": 79,
+          "title": "Quarterly Financial Data for Years 2020-2022",
+          "data": [
+            {
+              "key": "First Quarter 2022 Count",
+              "value": "21"
+            },
+            {
+              "key": "First Quarter 2022 Amount",
+              "value": "6200"
+            },
+            {
+              "key": "First Quarter 2021 Count",
+              "value": "25"
+            },
+            {
+              "key": "First Quarter 2021 Amount",
+              "value": "5270"
+            },
+            {
+              "key": "First Quarter 2020 Count",
+              "value": "29"
+            },
+            {
+              "key": "First Quarter 2020 Amount",
+              "value": "4000"
+            },
+            {
+              "key": "Second Quarter 2022 Count",
+              "value": "20"
+            },
+            {
+              "key": "Second Quarter 2022 Amount",
+              "value": "6233"
+            },
+            {
+              "key": "Second Quarter 2021 Count",
+              "value": "27"
+            },
+            {
+              "key": "Second Quarter 2021 Amount",
+              "value": "5750"
+            },
+            {
+              "key": "Second Quarter 2020 Count",
+              "value": "32"
+            },
+            {
+              "key": "Second Quarter 2020 Amount",
+              "value": "4600"
+            },
+            {
+              "key": "Third Quarter 2022 Count",
+              "value": "26"
+            },
+            {
+              "key": "Third Quarter 2022 Amount",
+              "value": "7800"
+            },
+            {
+              "key": "Third Quarter 2021 Count",
+              "value": "25"
+            },
+            {
+              "key": "Third Quarter 2021 Amount",
+              "value": "5750"
+            },
+            {
+              "key": "Third Quarter 2020 Count",
+              "value": "37"
+            },
+            {
+              "key": "Third Quarter 2020 Amount",
+              "value": "6000"
+            },
+            {
+              "key": "Fourth Quarter 2022 Count",
+              "value": "28"
+            },
+            {
+              "key": "Fourth Quarter 2022 Amount",
+              "value": "7800"
+            },
+            {
+              "key": "Fourth Quarter 2021 Count",
+              "value": "24"
+            },
+            {
+              "key": "Fourth Quarter 2021 Amount",
+              "value": "6200"
+            },
+            {
+              "key": "Fourth Quarter 2020 Count",
+              "value": "28"
+            },
+            {
+              "key": "Fourth Quarter 2020 Amount",
+              "value": "5088"
+            },
+            {
+              "key": "Total Count 2022",
+              "value": "95"
+            },
+            {
+              "key": "Total Amount 2022",
+              "value": "28033"
+            },
+            {
+              "key": "Total Count 2021",
+              "value": "101"
+            },
+            {
+              "key": "Total Amount 2021",
+              "value": "22970"
+            },
+            {
+              "key": "Total Count 2020",
+              "value": "126"
+            },
+            {
+              "key": "Total Amount 2020",
+              "value": "19686"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_structure_changes": {
+      "value": false,
+      "elements": []
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 23,
+          "title": "Dynamics Overview and Competition",
+          "data": [
+            {
+              "key": "Business Solutions",
+              "value": "Dynamics provides cloud-based and on-premises business solutions for financial management, ERP, CRM, supply chain management, and application development."
+            },
+            {
+              "key": "Revenue Drivers",
+              "value": "Revenue is driven by user licenses, application consumption, average revenue per user expansion, and shift to Dynamics 365."
+            },
+            {
+              "key": "Competition",
+              "value": "Competitors include Apple, Cisco Systems, Meta, Google, IBM, Okta, Proofpoint, Slack, Symantec, Zoom, and local developers."
+            },
+            {
+              "key": "Intelligent Cloud",
+              "value": "Segment consists of public, private, and hybrid server products and cloud services."
+            },
+            {
+              "key": "Azure Services",
+              "value": "Includes computing, networking, storage, mobile and web application services, AI, IoT, cognitive services, and machine learning."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 45,
+          "title": "Impairment of Investments and Goodwill",
+          "data": [
+            {
+              "key": "Methodology for Impairment Evaluation",
+              "value": "Systematic methodology considering quantitative and qualitative evidence in evaluating potential impairment."
+            },
+            {
+              "key": "Conditions for Impairment Charge",
+              "value": "Recorded if decline in fair value below cost is noted and plan to sell is established."
+            },
+            {
+              "key": "Factors Indicating Future Impairments",
+              "value": "Market, industry, and investee conditions deteriorating."
+            },
+            {
+              "key": "Goodwill Allocation Method",
+              "value": "Allocated to reporting units expected to benefit from business combination."
+            },
+            {
+              "key": "Annual Goodwill Testing",
+              "value": "Tested annually; reassignment of goodwill may occur based on fair value."
+            },
+            {
+              "key": "Impact of Business Changes on Goodwill",
+              "value": "Change in business climate, legal factors, or significant performance indicators may affect goodwill testing."
+            },
+            {
+              "key": "Judgment in Financial Estimates",
+              "value": "Estimation involving future cash flows, growth rate, and weighted average cost of capital."
+            },
+            {
+              "key": "Research and Development Costs Policy",
+              "value": "Costs expensed until technological feasibility is established."
+            },
+            {
+              "key": "Legal Contingencies",
+              "value": "A loss is accrued if probable that an asset is impaired or a liability incurred."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 48,
+          "title": "Risk Sensitivity Analysis",
+          "data": [
+            {
+              "key": "Risk Categories",
+              "value": "Foreign currency — Revenue"
+            },
+            {
+              "key": "Hypothetical Change",
+              "value": "10% decrease in foreign exchange rates"
+            },
+            {
+              "key": "June 30, 2022",
+              "value": "$ (6,822)"
+            },
+            {
+              "key": "Impact",
+              "value": "Earnings"
+            },
+            {
+              "key": "Risk Categories",
+              "value": "Interest rate"
+            },
+            {
+              "key": "Hypothetical Change",
+              "value": "100 basis point increase in U.S. treasury interest rates"
+            },
+            {
+              "key": "June 30, 2022",
+              "value": "(2,536)"
+            },
+            {
+              "key": "Impact",
+              "value": "Fair Value"
+            },
+            {
+              "key": "Risk Categories",
+              "value": ""
+            },
+            {
+              "key": "Hypothetical Change",
+              "value": "100 basis point increase in credit spreads"
+            },
+            {
+              "key": "June 30, 2022",
+              "value": "(350)"
+            },
+            {
+              "key": "Impact",
+              "value": "Fair Value"
+            },
+            {
+              "key": "Risk Categories",
+              "value": "i"
+            },
+            {
+              "key": "Hypothetical Change",
+              "value": "10% decrease in equity market prices"
+            },
+            {
+              "key": "June 30, 2022",
+              "value": "(637)"
+            },
+            {
+              "key": "Impact",
+              "value": "Earnings"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 66,
+          "title": "Hedging and Non-Hedging Instruments Summary as of June 30, 2021",
+          "data": [
+            {
+              "key": "Designated as Hedging Instruments - Foreign exchange contracts purchased",
+              "value": "635"
+            },
+            {
+              "key": "Designated as Hedging Instruments - Foreign exchange contracts sold",
+              "value": "6081"
+            },
+            {
+              "key": "Designated as Hedging Instruments - Interest rate contracts purchased",
+              "value": "1247"
+            },
+            {
+              "key": "Not Designated as Hedging Instruments - Foreign exchange contracts purchased",
+              "value": "14223"
+            },
+            {
+              "key": "Not Designated as Hedging Instruments - Foreign exchange contracts sold",
+              "value": "23391"
+            },
+            {
+              "key": "Not Designated as Hedging Instruments - Other contracts purchased",
+              "value": "2456"
+            },
+            {
+              "key": "Not Designated as Hedging Instruments - Other contracts sold",
+              "value": "763"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 66,
+          "title": "Derivative Assets and Liabilities Comparison (In millions)",
+          "data": [
+            {
+              "key": "Designated as Hedging Instruments Foreign exchange contracts (2022 Assets)",
+              "value": "0"
+            },
+            {
+              "key": "Designated as Hedging Instruments Foreign exchange contracts (2022 Liabilities)",
+              "value": "-77"
+            },
+            {
+              "key": "Designated as Hedging Instruments Foreign exchange contracts (2021 Assets)",
+              "value": "76"
+            },
+            {
+              "key": "Designated as Hedging Instruments Foreign exchange contracts (2021 Liabilities)",
+              "value": "-8"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 13,
+          "title": "Note About Forward-Looking Statements",
+          "data": [
+            {
+              "key": "Forward-looking statements",
+              "value": "This report includes estimates, projections, statements relating to our business plans, objectives, and expected operating results that are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995."
+            },
+            {
+              "key": "Risks and Uncertainties",
+              "value": "These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially."
+            },
+            {
+              "key": "Cautionary Note",
+              "value": "Readers are cautioned not to place undue reliance on forward-looking statements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 27,
+          "title": "Microsoft Competitive Landscape and Operations Overview",
+          "data": [
+            {
+              "key": "Competition",
+              "value": "Xbox and cloud gaming services compete with various gaming ecosystems, streaming services by Amazon, Apple, Meta, Google, Tencent, and entertainment services including video streaming platforms."
+            },
+            {
+              "key": "Unique Positioning",
+              "value": "Microsoft believes its gaming platform is uniquely differentiated through significant innovation in hardware architecture, user interface, developer tools, online gaming, entertainment services, and exclusive content."
+            },
+            {
+              "key": "Operations Centers",
+              "value": "Microsoft has regional operation centers in Ireland, Singapore, Fargo, Fort Lauderdale, Puerto Rico, Redmond, and Reno."
+            },
+            {
+              "key": "Localization",
+              "value": "Microsoft localizes products to reflect local languages and conventions to meet international market needs."
+            },
+            {
+              "key": "Manufacturing Flexibility",
+              "value": "Devices are primarily manufactured by third-party contractors, but some components have limited qualified suppliers."
+            },
+            {
+              "key": "Disruption Risk",
+              "value": "Extended disruptions in supply could impact timely manufacturing and meeting consumer demand."
+            },
+            {
+              "key": "R&D Focus Areas",
+              "value": "Key engineering groups include Cloud and AI, Experiences and Devices, Security, Compliance, Identity, Technology and Research, and LinkedIn."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 33,
+          "title": "Industry Trends",
+          "data": [
+            {
+              "key": "Industry Dynamics",
+              "value": "The industry is dynamic and highly competitive with frequent changes in technologies and business models."
+            },
+            {
+              "key": "Opportunities",
+              "value": "Each industry shift is an opportunity to conceive new products, new technologies, or new ideas."
+            },
+            {
+              "key": "R&D Focus",
+              "value": "Microsoft pushes the boundaries with research and development activities to address changing demands."
+            },
+            {
+              "key": "Economic Conditions",
+              "value": "Markets for software, devices, and cloud services are competitive, with rapid evolution in device preferences."
+            },
+            {
+              "key": "Operating Costs",
+              "value": "Investments in infrastructure may increase operational costs and decrease margins."
+            },
+            {
+              "key": "Talent Acquisition",
+              "value": "The ability to attract and retain qualified employees is critical."
+            },
+            {
+              "key": "Sourcing Challenges",
+              "value": "Dependence on third-party manufacturers may lead to disruptions if suppliers are unavailable."
+            },
+            {
+              "key": "Foreign Exchange Impact",
+              "value": "Revenue and expenses may be affected by changes in foreign exchange rates."
+            },
+            {
+              "key": "Quarterly Revenue Fluctuation",
+              "value": "Revenue is generally higher in the second and fourth quarters of the fiscal year."
+            },
+            {
+              "key": "Reportable Segments",
+              "value": "Financial performance is reported based on Productivity and Business Processes, Intelligent Cloud, and More Personal Computing."
+            },
+            {
+              "key": "Performance Metrics",
+              "value": "Metrics assessing business performance help in allocation of resources and evaluating progress."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 44,
+          "title": "Accounting Guidance and Critical Accounting Estimates",
+          "data": [
+            {
+              "key": "section_title",
+              "value": "RECENT ACCOUNTING GUIDANCE"
+            },
+            {
+              "key": "note_reference",
+              "value": "Note 1 – Accounting Policies"
+            },
+            {
+              "key": "document_reference",
+              "value": "fiscal year 2022 Form 10-K"
+            },
+            {
+              "key": "section_title_2",
+              "value": "CRITICAL ACCOUNTING ESTIMATES"
+            },
+            {
+              "key": "gaap_compliance",
+              "value": "GAAP Compliance"
+            },
+            {
+              "key": "areas_of_estimation",
+              "value": "revenue recognition, impairment of investment securities, goodwill, research and development costs, legal and other contingencies, income taxes, inventories"
+            },
+            {
+              "key": "revenue_recognition_title",
+              "value": "Revenue Recognition"
+            },
+            {
+              "key": "cloud_service_statement",
+              "value": "Judgment is required to determine separate performance obligations."
+            },
+            {
+              "key": "office_365_revenue_recognition",
+              "value": "Revenue from Office 365 is recognized ratably over the period."
+            },
+            {
+              "key": "ssp_definition",
+              "value": "Stand-alone selling price (SSP) determined by market conditions."
+            },
+            {
+              "key": "customer_information_usage",
+              "value": "Information is stratified by customer size and geography."
+            },
+            {
+              "key": "variable_consideration_description",
+              "value": "Returns and credits are estimated at contract inception."
+            },
+            {
+              "key": "impairment_sec_title",
+              "value": "Impairment of Investment Securities"
+            },
+            {
+              "key": "review_frequency",
+              "value": "quarterly"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 46,
+          "title": "Income Taxes and Change in Accounting Estimate",
+          "data": [
+            {
+              "key": "Objectives of accounting for income taxes",
+              "value": "To recognize the amount of taxes payable or refundable for the current year, and deferred tax liabilities and assets for the future tax consequences."
+            },
+            {
+              "key": "Tax benefit recognition",
+              "value": "Recognized only if more likely than not that the tax position will be sustained."
+            },
+            {
+              "key": "Change in useful lives of equipment",
+              "value": "Increased estimated useful lives of server and network equipment from four years to six years."
+            },
+            {
+              "key": "Estimated increase in operating income",
+              "value": "Estimated increase of $3.7 billion for fiscal year 2023 due to change."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 50,
+          "title": "Comprehensive Income Statement for Years Ended June 30",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Net Income",
+              "value": "72,738"
+            },
+            {
+              "key": "Net Change Derivatives",
+              "value": "6"
+            },
+            {
+              "key": "Net Change Investments",
+              "value": "-5,360"
+            },
+            {
+              "key": "Translation Adjustments",
+              "value": "-1,146"
+            },
+            {
+              "key": "Other Comprehensive Income",
+              "value": "-6,500"
+            },
+            {
+              "key": "Comprehensive Income",
+              "value": "66,238"
+            },
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Net Income",
+              "value": "61,271"
+            },
+            {
+              "key": "Net Change Derivatives",
+              "value": "19"
+            },
+            {
+              "key": "Net Change Investments",
+              "value": "-2,266"
+            },
+            {
+              "key": "Translation Adjustments",
+              "value": "873"
+            },
+            {
+              "key": "Other Comprehensive Income",
+              "value": "-1,374"
+            },
+            {
+              "key": "Comprehensive Income",
+              "value": "59,897"
+            },
+            {
+              "key": "Year",
+              "value": "2020"
+            },
+            {
+              "key": "Net Income",
+              "value": "44,281"
+            },
+            {
+              "key": "Net Change Derivatives",
+              "value": "-38"
+            },
+            {
+              "key": "Net Change Investments",
+              "value": "3,990"
+            },
+            {
+              "key": "Translation Adjustments",
+              "value": "-426"
+            },
+            {
+              "key": "Other Comprehensive Income",
+              "value": "3,526"
+            },
+            {
+              "key": "Comprehensive Income",
+              "value": "47,807"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 56,
+          "title": "Revenue Recognition and Judgment in Accounting",
+          "data": [
+            {
+              "key": "cloud_service_revenue_recognition",
+              "value": "Revenue from Office 365 is recognized ratably over the period in which the cloud services are provided."
+            },
+            {
+              "key": "single_amount_SSP",
+              "value": "We use a single amount to estimate SSP for items that are not sold separately."
+            },
+            {
+              "key": "range_of_SSP",
+              "value": "We use a range of amounts to estimate SSP when selling products/services separately."
+            },
+            {
+              "key": "contract_balances",
+              "value": "Recorded a receivable when revenue is recognized prior to invoicing or unearned revenue afterwards."
+            },
+            {
+              "key": "payment_terms",
+              "value": "Payment generally required within 30 to 60 days in contracts."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 65,
+          "title": "Investment Securities Fair Value and Unrealized Losses as of June 30, 2021",
+          "data": [
+            {
+              "key": "Total Fair Value",
+              "value": "$11,516 million"
+            },
+            {
+              "key": "Total Unrealized Losses",
+              "value": "$135 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 65,
+          "title": "Estimated Fair Value by Maturity Period",
+          "data": [
+            {
+              "key": "Total Estimated Fair Value",
+              "value": "$95,357 million"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 75,
+          "title": "Unrecognized Tax Benefits Reconciliation for Years Ended June 30",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Beginning unrecognized tax benefits",
+              "value": "14550"
+            },
+            {
+              "key": "Settlements decreases",
+              "value": "-317"
+            },
+            {
+              "key": "Current year increases",
+              "value": "1145"
+            },
+            {
+              "key": "Prior years increases",
+              "value": "461"
+            },
+            {
+              "key": "Prior years decreases",
+              "value": "-246"
+            },
+            {
+              "key": "Lapsed statutes decreases",
+              "value": "0"
+            },
+            {
+              "key": "Ending unrecognized tax benefits",
+              "value": "15593"
+            },
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Beginning unrecognized tax benefits",
+              "value": "13792"
+            },
+            {
+              "key": "Settlements decreases",
+              "value": "-195"
+            },
+            {
+              "key": "Current year increases",
+              "value": "790"
+            },
+            {
+              "key": "Prior years increases",
+              "value": "461"
+            },
+            {
+              "key": "Prior years decreases",
+              "value": "-297"
+            },
+            {
+              "key": "Lapsed statutes decreases",
+              "value": "-1"
+            },
+            {
+              "key": "Ending unrecognized tax benefits",
+              "value": "14550"
+            },
+            {
+              "key": "Year",
+              "value": "2020"
+            },
+            {
+              "key": "Beginning unrecognized tax benefits",
+              "value": "13146"
+            },
+            {
+              "key": "Settlements decreases",
+              "value": "-31"
+            },
+            {
+              "key": "Current year increases",
+              "value": "647"
+            },
+            {
+              "key": "Prior years increases",
+              "value": "366"
+            },
+            {
+              "key": "Prior years decreases",
+              "value": "-331"
+            },
+            {
+              "key": "Lapsed statutes decreases",
+              "value": "-5"
+            },
+            {
+              "key": "Ending unrecognized tax benefits",
+              "value": "13792"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 78,
+          "title": "Regulatory and Litigation Issues",
+          "data": [
+            {
+              "key": "Contingency Accruals",
+              "value": "$364 million"
+            },
+            {
+              "key": "Potential Adverse Outcomes",
+              "value": "$600 million"
+            },
+            {
+              "key": "China State Administration for Market Regulation Investigation",
+              "value": "Started in 2014 regarding Anti-Monopoly Law"
+            },
+            {
+              "key": "Product-Related Litigation",
+              "value": "Involves 46 lawsuits alleging health effects from cellular handsets"
+            },
+            {
+              "key": "Other Contingencies",
+              "value": "Various claims arising in ordinary business operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 88,
+          "title": "Income Taxes — Uncertain Tax Positions",
+          "data": [
+            {
+              "key": "Critical Audit Matter Description",
+              "value": "The Company’s long-term income taxes liability includes uncertain tax positions related to transfer pricing issues that remain unresolved with the Internal Revenue Service (IRS). The Company remains under IRS audit, or subject to IRS audit, for tax years subsequent to 2003. While the Company has settled a portion of the IRS audits, resolution of the remaining matters could have a material impact on the Company’s financial statements."
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "We evaluated the appropriateness and consistency of management’s methods and assumptions used in the identification, recognition, measurement, and disclosure of uncertain tax positions, which included testing the effectiveness of the related internal controls."
+            },
+            {
+              "key": "Evaluation of Management’s Documentation",
+              "value": "We read and evaluated management's documentation, including relevant accounting policies and information obtained by management from outside tax specialists, that detailed the basis of the uncertain tax positions."
+            },
+            {
+              "key": "Reasonableness Testing",
+              "value": "We tested the reasonableness of management’s judgments regarding the future resolution of the uncertain tax positions, including an evaluation of the technical merits of the uncertain tax positions."
+            },
+            {
+              "key": "Consideration of New Information",
+              "value": "For those uncertain tax positions that had not been effectively settled, we evaluated whether management had appropriately considered new information that could significantly change the recognition, measurement or disclosure of the uncertain tax positions."
+            },
+            {
+              "key": "Impact of Tax Law",
+              "value": "We evaluated the reasonableness of management’s estimates by considering how tax law, including statutes, regulations and case law, impacted management’s judgments."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 89,
+          "title": "REPORT OF MANAGEMENT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+          "data": [
+            {
+              "key": "Management Responsibility",
+              "value": "Our management is responsible for establishing and maintaining adequate internal control over financial reporting for the Company."
+            },
+            {
+              "key": "Internal Control Process",
+              "value": "Internal control over financial reporting includes maintaining records that accurately reflect transactions."
+            },
+            {
+              "key": "Effectiveness Evaluation",
+              "value": "Management conducted an evaluation of the effectiveness of our internal control based on the framework issued by COSO."
+            },
+            {
+              "key": "Conclusion",
+              "value": "Management concluded that the Company’s internal control over financial reporting was effective as of June 30, 2022."
+            },
+            {
+              "key": "Audit Firm",
+              "value": "Deloitte & Touche LLP has audited our internal control over financial reporting as of June 30, 2022."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 4,
+          "title": "Commitment to Digital Skills and Equity",
+          "data": [
+            {
+              "key": "commitment",
+              "value": "Equip 10 million people from underserved communities with skills for jobs in the digital economy by 2025."
+            },
+            {
+              "key": "cybersecurity initiativ",
+              "value": "Skill and recruit 250,000 people into the US cybersecurity workforce by 2025."
+            },
+            {
+              "key": "technology assistance",
+              "value": "Provided $3.2 billion in donated and discounted technology to 302,000 nonprofits serving over 1.2 billion people globally."
+            },
+            {
+              "key": "broadband access",
+              "value": "Helped over 50 million people in unserved rural communities gain access to affordable broadband coverage."
+            },
+            {
+              "key": "funding commitment",
+              "value": "Commitment to spend an incremental $500 million with Black- and African American-owned suppliers."
+            },
+            {
+              "key": "justice reform partnerships",
+              "value": "Coordinated over 80 partnerships to help 145 communities expand access to data-driven insights."
+            },
+            {
+              "key": "election protection",
+              "value": "AccountGuard service protects over 4 million accounts of election officials and organizations."
+            },
+            {
+              "key": "humanitarian assistance",
+              "value": "Committed $257 million in assistance to global response to war in Ukraine."
+            },
+            {
+              "key": "accessibility goals",
+              "value": "Bridge the disability divide for over 1 billion people around the world."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 5,
+          "title": "Sustainability and Trust Initiatives",
+          "data": [
+            {
+              "key": "Initiative",
+              "value": "Neurodiversity Career Connector"
+            },
+            {
+              "key": "Sustainability Report Release",
+              "value": "March 2023"
+            },
+            {
+              "key": "Carbon Negative Commitment",
+              "value": "Ambitious commitments to become carbon negative by 2025"
+            },
+            {
+              "key": "Water Positive Commitment",
+              "value": "Invested in 21 water replenishment projects"
+            },
+            {
+              "key": "Zero Waste Commitment",
+              "value": "Diverted over 15,200 metric tons of waste"
+            },
+            {
+              "key": "Land Protection Commitment",
+              "value": "Contracted to protect over 17,000 acres of land"
+            },
+            {
+              "key": "Privacy Commitment",
+              "value": "Supported new Trans-Atlantic Data Privacy Framework"
+            },
+            {
+              "key": "Security Signals Analyzed",
+              "value": "43 trillion daily"
+            },
+            {
+              "key": "Identity Threats Blocked",
+              "value": "34.7 billion"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 6,
+          "title": "Commitment to Responsible AI and Transparency",
+          "data": [
+            {
+              "key": "Initiative",
+              "value": "Responsible AI Standard"
+            },
+            {
+              "key": "Goals",
+              "value": "17 goals aligned to six AI principles"
+            },
+            {
+              "key": "Tools",
+              "value": "Responsible AI Dashboard"
+            },
+            {
+              "key": "Reporting",
+              "value": "Annual Impact Summary"
+            },
+            {
+              "key": "Focus Areas",
+              "value": "Environmental data, political activities, workforce demographics, human rights work"
+            },
+            {
+              "key": "Commitment",
+              "value": "Empowering customers and partners, advocating for policy change"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 17,
+          "title": "Corporate Social Responsibility Commitment to Sustainability",
+          "data": [
+            {
+              "key": "Commitment to Sustainability",
+              "value": "We work to ensure that technology is inclusive, trusted, and increases sustainability."
+            },
+            {
+              "key": "Carbon Negative Commitment",
+              "value": "We announced a commitment to be carbon negative by 2030 and remove all emitted carbon since 1975 by 2050."
+            },
+            {
+              "key": "Investment in Climate Solutions",
+              "value": "Commitment to invest $1 billion over four years in new technologies and climate solutions."
+            },
+            {
+              "key": "Additional Commitments",
+              "value": "Water positive by 2030, zero waste by 2030."
+            },
+            {
+              "key": "Actions Taken in FY 2021",
+              "value": "Purchased removal of 1.4 million metric tons of carbon, received Zero Waste certifications for datacenters."
+            },
+            {
+              "key": "Funding for Climate Solutions",
+              "value": "Granted $100 million to Breakthrough Energy Catalyst."
+            },
+            {
+              "key": "Carbon Removal Sector Participation",
+              "value": "Joined the First Movers Coalition with a $200 million commitment toward carbon removal by 2030."
+            },
+            {
+              "key": "Microsoft Cloud for Sustainability",
+              "value": "Created to help organizations monitor their carbon footprint."
+            },
+            {
+              "key": "Racial Equity Initiative",
+              "value": "Focusing on improving lives of Black and African American communities in the US."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 18,
+          "title": "Microsoft's Investment in Inclusion and Digital Skills",
+          "data": [
+            {
+              "key": "Investment Amount",
+              "value": "$150 million"
+            },
+            {
+              "key": "Goal Overview",
+              "value": "Double the number of Black, African American, Hispanic, and Latinx leaders in the U.S. by 2025"
+            },
+            {
+              "key": "Collaboration Partners",
+              "value": "70 organizations in 145 communities"
+            },
+            {
+              "key": "Project Initiatives",
+              "value": "Justice Reform Initiative, Digital Skill Development"
+            },
+            {
+              "key": "Progress for Black Leaders",
+              "value": "90 percent of the way to commitment for Black leaders"
+            },
+            {
+              "key": "Progress for Hispanic Leaders",
+              "value": "50 percent of the way for Hispanic and Latinx leaders"
+            },
+            {
+              "key": "Supplier Pipeline Goal",
+              "value": "Reached more than 90 percent of goal to spend $500 million with Black and African American-owned suppliers"
+            },
+            {
+              "key": "Community Impact Focus",
+              "value": "Supporting local communities and accelerating diversity and inclusion"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 31,
+          "title": "Partner Programs and Customer Information",
+          "data": [
+            {
+              "key": "Program Overview",
+              "value": "Microsoft Cloud Solution Provider program offers easy licensing of cloud services in combination with value-added services."
+            },
+            {
+              "key": "Target Customers",
+              "value": "Individual consumers, small and medium organizations, large enterprises, public-sector institutions, ISPs, application developers, OEMs."
+            },
+            {
+              "key": "Licensing Terms",
+              "value": "Software licensed over a three-year period with monthly billing based on consumption."
+            },
+            {
+              "key": "Available Information",
+              "value": "Investor relations website provides access to financial reports, governance information, press releases, and more."
+            },
+            {
+              "key": "Corporate Social Responsibility",
+              "value": "Reports on sustainability, responsible sourcing, accessibility, digital trust, and public policy engagement available."
+            },
+            {
+              "key": "Investor Engagement",
+              "value": "Encouragement for stakeholders to review material posted on social media."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 92,
+          "title": "Environmental, Social, and Governance (ESG)/Corporate Social Responsibility",
+          "data": [
+            {
+              "key": "Investor Relations Contact",
+              "value": "Microsoft Investor Relations"
+            },
+            {
+              "key": "E-mail",
+              "value": "msft@microsoft.com"
+            },
+            {
+              "key": "Mailing Address",
+              "value": "Investor Relations Microsoft Corporation One Microsoft Way Redmond, Washington 98052-6399"
+            },
+            {
+              "key": "Annual Meeting Date",
+              "value": "December 13, 2022"
+            },
+            {
+              "key": "Annual Meeting Time",
+              "value": "8:30 a.m. Pacific Time"
+            },
+            {
+              "key": "Virtual Shareholder Meeting Link",
+              "value": "www.virtualshareholdermeeting.com/MSFT22"
+            },
+            {
+              "key": "Commitment",
+              "value": "Microsoft is committed to conducting business in principled, transparent, and accountable ways to meet stakeholder expectations and maintain trust."
+            },
+            {
+              "key": "CSR Information Link",
+              "value": "www.microsoft.com/transparency"
+            },
+            {
+              "key": "ESG Committee Responsibility",
+              "value": "The Board's Environmental, Social, and Public Policy Committee reviews and provides guidance about the Company’s policies and programs related to corporate social responsibility."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 246,
+    "EUR": 5,
+    "GBP": 1,
+    "JPY": 1,
+    "AUD": 23,
+    "CAD": 3,
+    "ZAR": 6,
+    "RUB": 3
+  },
+  "sha1": "91caa5884d3fbc344a05ac2f1d113a5d8725e4cb"
+}

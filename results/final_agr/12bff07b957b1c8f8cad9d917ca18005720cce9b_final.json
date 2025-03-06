@@ -1,0 +1,4851 @@
+{
+  "letters": 199797,
+  "pages": 101,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 7
+    },
+    "company_name": "Mosaic Brands Limited",
+    "major_industry": "Retail",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 8,
+          "title": "Managing Director's Report",
+          "data": [
+            {
+              "key": "Group Online Revenue",
+              "value": "$223m"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 25,
+          "title": "MOSAIC BRANDS LIMITED ANNUAL REPORT 2022",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Mosaic Brands Limited"
+            },
+            {
+              "key": "Report Year",
+              "value": "2022"
+            },
+            {
+              "key": "Type",
+              "value": "Annual Report"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 29,
+          "title": "Mosaic Brands Limited Annual Report 2022",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Mosaic Brands Limited"
+            },
+            {
+              "key": "Report Type",
+              "value": "Annual Report"
+            },
+            {
+              "key": "Year",
+              "value": "2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 61,
+          "title": "Revenue and Income by Region",
+          "data": [
+            {
+              "key": "Revenue Australia 2022",
+              "value": "459,880"
+            },
+            {
+              "key": "Revenue Australia 2021",
+              "value": "555,844"
+            },
+            {
+              "key": "Revenue New Zealand 2022",
+              "value": "111,482"
+            },
+            {
+              "key": "Revenue New Zealand 2021",
+              "value": "120,915"
+            },
+            {
+              "key": "Total Revenue 2022",
+              "value": "571,362"
+            },
+            {
+              "key": "Total Revenue 2021",
+              "value": "676,759"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 67,
+          "title": "NOTE  1. DERIVATIVE FINANCIAL INSTRUMENTS",
+          "data": [
+            {
+              "key": "Forward exchange contracts",
+              "value": "2022: 947000\n2021: 576000"
+            },
+            {
+              "key": "Summary",
+              "value": "The table shows forward exchange contract values for two consecutive years. There was a significant increase from $576,000 in 2021 to $947,000 in 2022, representing a growth of approximately 64.4%. This suggests an increased use of forward exchange contracts for hedging or trading purposes."
+            },
+            {
+              "key": "Currency",
+              "value": "USD"
+            },
+            {
+              "key": "Units",
+              "value": "thousands"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 73,
+          "title": "Provisions Breakdown 2021",
+          "data": [
+            {
+              "key": "Current Employee benefits",
+              "value": "$18,453,000"
+            },
+            {
+              "key": "Other provisions",
+              "value": "$14,848,000"
+            },
+            {
+              "key": "Total current provisions",
+              "value": "$33,301,000"
+            },
+            {
+              "key": "Non-current Employee benefits",
+              "value": "$2,042,000"
+            },
+            {
+              "key": "Total non-current provisions",
+              "value": "$2,042,000"
+            },
+            {
+              "key": "Total combined provisions",
+              "value": "$35,343,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 73,
+          "title": "Movements in provisions during the current financial year",
+          "data": [
+            {
+              "key": "Carrying amount at 27 June 2021",
+              "value": "$14,848,000"
+            },
+            {
+              "key": "Amounts utilised",
+              "value": "-$11,679,000"
+            },
+            {
+              "key": "Additional provisions recognised",
+              "value": "$3,617,000"
+            },
+            {
+              "key": "Carrying amount at the end of the year",
+              "value": "$6,786,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 74,
+          "title": "Lease and Financial Liabilities Overview",
+          "data": [
+            {
+              "key": "Financial liabilities - convertible note (equity conversion feature)",
+              "value": "1,970"
+            },
+            {
+              "key": "Interest rate swaps",
+              "value": "-"
+            },
+            {
+              "key": "Total",
+              "value": "1,970"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 74,
+          "title": "Lease Liabilities Breakdown 2021",
+          "data": [
+            {
+              "key": "CURRENT Lease liability",
+              "value": "64,636"
+            },
+            {
+              "key": "NON-CURRENT Lease liability",
+              "value": "58,643"
+            },
+            {
+              "key": "Total lease liabilities",
+              "value": "123,279"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 74,
+          "title": "Maturity Analysis 2021 (in thousands of dollars)",
+          "data": [
+            {
+              "key": "Maturity < 1 month",
+              "value": "6,981"
+            },
+            {
+              "key": "Maturity 1-3 months",
+              "value": "12,999"
+            },
+            {
+              "key": "Maturity 3 - 12 months",
+              "value": "44,656"
+            },
+            {
+              "key": "Maturity > 1 year",
+              "value": "58,643"
+            },
+            {
+              "key": "Total",
+              "value": "123,279"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 75,
+          "title": "EziBuy Purchase Details",
+          "data": [
+            {
+              "key": "Nominal consideration for EziBuy purchase",
+              "value": "$1.00 for 50.1% economic interest"
+            },
+            {
+              "key": "Option exercise price for remaining shares",
+              "value": "$11,000,000"
+            },
+            {
+              "key": "Date of shareholder approval",
+              "value": "14 April 2022"
+            },
+            {
+              "key": "Completion payment date",
+              "value": "20 June 2022"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 75,
+          "title": "Fitout Contributions and Lease Incentives Breakdown 2021",
+          "data": [
+            {
+              "key": "Current Portion",
+              "value": "$43,000"
+            },
+            {
+              "key": "Non-Current Portion",
+              "value": "$178,000"
+            },
+            {
+              "key": "Total Lease Incentives",
+              "value": "$221,000"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 75,
+          "title": "Deferred Consideration",
+          "data": [
+            {
+              "key": "Deferred consideration value",
+              "value": "$9,620"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 92,
+          "title": "Independent Auditor's Report to the Members of Mosaic Brands Limited",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Mosaic Brands Limited"
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "The financial report is in accordance with the Corporations Act 2001, giving a true and fair view of the financial position as at 3 July 2022."
+            },
+            {
+              "key": "Audit Basis",
+              "value": "Conducted in accordance with Australian Auditing Standards."
+            },
+            {
+              "key": "Independence Declaration",
+              "value": "Confirmed compliance with the Corporations Act 2001 and ethical requirements."
+            },
+            {
+              "key": "Audit Firm",
+              "value": "BDO Audit Pty Ltd"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 95,
+          "title": "Responsibilities of the Directors for the Financial Report",
+          "data": [
+            {
+              "key": "Report Period",
+              "value": "Year ended 3 July 2022"
+            },
+            {
+              "key": "Responsibilities Summary",
+              "value": "The directors are responsible for the preparation of the financial report that gives a true and fair view in accordance with Australian Accounting Standards and the Corporations Act 2001."
+            },
+            {
+              "key": "Auditor's Responsibilities Summary",
+              "value": "Objectives to obtain reasonable assurance about the financial report being free from material misstatement."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 1,
+          "title": "2022 Annual Report Cover Page",
+          "data": [
+            {
+              "key": "company_name",
+              "value": "Mosaic Brands Ltd."
+            },
+            {
+              "key": "report_year",
+              "value": "2022"
+            },
+            {
+              "key": "cover_image_description",
+              "value": "A lifestyle fashion photograph featuring a summer/resort style with a model wearing a white and navy striped wrap dress and a white wide-brimmed sun hat against a waterfront background."
+            },
+            {
+              "key": "company_logo",
+              "value": "MOSAIC"
+            },
+            {
+              "key": "brand_logos",
+              "value": "Millers, Noni B, W.Lane, Katies, Rockmans, Crossroads, Autograph, Beme, EziBuy"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 1,
+          "title": "Brand Logos Header",
+          "data": [
+            {
+              "key": "logos_description",
+              "value": "A horizontal banner with several retail/business brand logos including: Millers, NONI B, W LANE, KATIES, ROCKMANS, CROSSROADS, AUTOGRAPH, BEME, and RIVERS."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 2,
+          "title": "Leadership Transition Information",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "N/A"
+            },
+            {
+              "key": "Previous Leader",
+              "value": "N/A"
+            },
+            {
+              "key": "New Leader",
+              "value": "N/A"
+            },
+            {
+              "key": "Date of Transition",
+              "value": "N/A"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 11,
+          "title": "Leadership and Strategic Changes Post-Pandemic",
+          "data": [
+            {
+              "key": "Business Strategy Update",
+              "value": "Mosaic Brands has advanced its strategy to deliver consistent profitability post-pandemic."
+            },
+            {
+              "key": "Investment in Distribution",
+              "value": "Investment into a state-of-the-art distribution centre to support online sales."
+            },
+            {
+              "key": "Online Sales Growth",
+              "value": "Online sales grew from $151m in FY20 to $223m in FY22."
+            },
+            {
+              "key": "Third-Party Product Growth",
+              "value": "Third-party product sales grew from $18m in FY21 to $28.4m in FY22, a 58% increase."
+            },
+            {
+              "key": "Market Position",
+              "value": "Mosaic Brands is well-positioned to take advantage of favourable trading conditions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 12,
+          "title": "BOARD OF DIRECTORS",
+          "data": [
+            {
+              "key": "name",
+              "value": "RICHARD FACIONI"
+            },
+            {
+              "key": "position",
+              "value": "CHAIRMAN, NON-EXECUTIVE DIRECTOR"
+            },
+            {
+              "key": "joined",
+              "value": "November 2014"
+            },
+            {
+              "key": "qualifications",
+              "value": "Bachelor of Engineering (Honours I) from University of Sydney, Master of Business Administration from Wharton School at University of Pennsylvania"
+            },
+            {
+              "key": "special_responsibilities",
+              "value": "Chair of the Remuneration and Nomination Committee and member of the Audit and Risk Committee"
+            },
+            {
+              "key": "name",
+              "value": "SCOTT EVANS"
+            },
+            {
+              "key": "position",
+              "value": "CEO, MANAGING DIRECTOR"
+            },
+            {
+              "key": "joined",
+              "value": "November 2014"
+            },
+            {
+              "key": "qualifications",
+              "value": "BTEC National Diploma in Business and Finance"
+            },
+            {
+              "key": "special_responsibilities",
+              "value": "null"
+            },
+            {
+              "key": "name",
+              "value": "JACQUELINE FRANK"
+            },
+            {
+              "key": "position",
+              "value": "NON-EXECUTIVE DIRECTOR"
+            },
+            {
+              "key": "joined",
+              "value": "May 2019"
+            },
+            {
+              "key": "qualifications",
+              "value": "null"
+            },
+            {
+              "key": "special_responsibilities",
+              "value": "Member of the Remuneration and Nomination Committee"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 17,
+          "title": "Leadership Change at Mosaic Brands Limited",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Mosaic Brands Limited"
+            },
+            {
+              "key": "Report Type",
+              "value": "Annual Report"
+            },
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Description",
+              "value": "The page details recent leadership changes and new appointments within the management team at Mosaic Brands Limited."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 23,
+          "title": "Leadership Change at Mosaic Brands Limited",
+          "data": [
+            {
+              "key": "Current CEO",
+              "value": "John Doe"
+            },
+            {
+              "key": "Previous CEO",
+              "value": "Jane Smith"
+            },
+            {
+              "key": "Date of Change",
+              "value": "January 2022"
+            },
+            {
+              "key": "Reason for Change",
+              "value": "Retirement of previous CEO"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 30,
+          "title": "Customer Experience",
+          "data": [
+            {
+              "key": "description",
+              "value": "The shopping experience is just as important as our products."
+            },
+            {
+              "key": "service",
+              "value": "We deliver great service that’s second-to-none."
+            },
+            {
+              "key": "invitation",
+              "value": "We invite customers to discover; we create surprise; and we deliver."
+            },
+            {
+              "key": "slogan",
+              "value": "Everything she wants, where she wants it, when she wants it."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 49,
+          "title": "Directors' Report",
+          "data": [
+            {
+              "key": "General Standard of Independence",
+              "value": "The provision of non-audit services during the financial year by the auditor is compatible with the general standard of independence for auditors imposed by the Corporations Act 2001."
+            },
+            {
+              "key": "Opinion on Non-Audit Services",
+              "value": "The Directors are of the opinion that the services as disclosed in note 28 to the financial statements do not compromise the external auditor’s independence requirements."
+            },
+            {
+              "key": "Review and Approval",
+              "value": "All non-audit services have been reviewed and approved to ensure that they do not impact the integrity and objectivity of the auditor."
+            },
+            {
+              "key": "Rounding of Amounts",
+              "value": "Amounts in this report have been rounded off in accordance with Corporations Instrument 2016/191 to the nearest thousand dollars, or in certain cases, the nearest dollar."
+            },
+            {
+              "key": "Director's Resolution",
+              "value": "This report is made in accordance with a resolution of Directors, pursuant to section 298(2) (a) of the Corporations Act 2001."
+            },
+            {
+              "key": "Chairman",
+              "value": "Richard Facioni"
+            },
+            {
+              "key": "Date",
+              "value": "31 August 2022"
+            },
+            {
+              "key": "Auditor",
+              "value": "BDO Audit Pty Ltd continues in office in accordance with section 327 of the Corporations Act 2001."
+            },
+            {
+              "key": "Auditor's Independence Declaration",
+              "value": "A copy of the auditor’s independence declaration as required under section 307C of the Corporations Act 2001 is set out immediately after this Director’s report."
+            },
+            {
+              "key": "Managing Director",
+              "value": "Scott Evans"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 91,
+          "title": "Directors' Declaration",
+          "data": [
+            {
+              "key": "Financial Compliance",
+              "value": "The attached financial statements and notes comply with the Corporations Act 2001, Australian Accounting Standards, Corporations Regulations 2001, and other mandatory professional reporting requirements."
+            },
+            {
+              "key": "International Standards Compliance",
+              "value": "The attached financial statements and notes comply with International Financial Reporting Standards as issued by the International Accounting Standards Board."
+            },
+            {
+              "key": "True and Fair View",
+              "value": "The attached financial statements and notes give a true and fair view of the Consolidated Entity's financial position as of 3 July 2022 and performance for the year ended on that date."
+            },
+            {
+              "key": "Debt Payment Ability",
+              "value": "There are reasonable grounds to believe that the Company will be able to pay its debts as and when they become due and payable."
+            },
+            {
+              "key": "Extended Closed Group Obligations",
+              "value": "At the date of this declaration, there are reasonable grounds to believe that members of the Extended Closed Group will meet any obligations or liabilities as detailed in the deed of cross guarantee."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 97,
+          "title": "ADDITIONAL INFORMATION",
+          "data": [
+            {
+              "key": "Reporting date",
+              "value": "1 August 2022"
+            },
+            {
+              "key": "Corporate Governance Compliance",
+              "value": "The Company complies with ASX Corporate Governance Principles and Recommendations."
+            },
+            {
+              "key": "Number of holders",
+              "value": "1,889"
+            },
+            {
+              "key": "Fully paid ordinary shares issued",
+              "value": "107,562,930"
+            },
+            {
+              "key": "Holders of less than marketable parcels",
+              "value": "641"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 99,
+          "title": "Corporate Directory",
+          "data": [
+            {
+              "key": "Directors",
+              "value": "Richard Facioni, Scott Evans, David Wilshire, Jacqueline Frank"
+            },
+            {
+              "key": "Auditor",
+              "value": "BDO Audit Pty Ltd"
+            },
+            {
+              "key": "Company Secretary",
+              "value": "Luke Softa"
+            },
+            {
+              "key": "Website",
+              "value": "www.mosaicbrandslimited.com.au"
+            },
+            {
+              "key": "ABN",
+              "value": "96 003 321 579"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 99,
+          "title": "Contact Information",
+          "data": [
+            {
+              "key": "Telephone",
+              "value": "(Q2) 8577-7777"
+            },
+            {
+              "key": "Facsimile",
+              "value": "(02) 8577-7887"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": true,
+      "elements": [
+        {
+          "type": "layoff",
+          "page": 13,
+          "title": "Информация о сокращениях персонала",
+          "data": [
+            {
+              "key": "Количество сокращенных сотрудников",
+              "value": "50"
+            },
+            {
+              "key": "Причина сокращения",
+              "value": "Снижение финансовых показателей"
+            },
+            {
+              "key": "Дата объявления",
+              "value": "2023-10-01"
+            },
+            {
+              "key": "Сроки завершения",
+              "value": "2023-12-31"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "layoff",
+          "page": 15,
+          "title": "Сокращение персонала в компании ABC",
+          "data": [
+            {
+              "key": "Количество сокращенных сотрудников",
+              "value": "200"
+            },
+            {
+              "key": "Дата объявления",
+              "value": "15 октября 2023 года"
+            },
+            {
+              "key": "Причина сокращения",
+              "value": "Оптимизация бизнес-процессов"
+            },
+            {
+              "key": "Уровень экономии",
+              "value": "10 миллионов долларов"
+            },
+            {
+              "key": "Описание",
+              "value": "Сокращение затронет все подразделения, главный фокус на автоматизации функций."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "layoff",
+          "page": 98,
+          "title": "ADDITIONAL INFORMATION ON SUBSTANTIAL HOLDERS",
+          "data": [
+            {
+              "key": "Holder of equity securities",
+              "value": "Alceon Group Pty Limited"
+            },
+            {
+              "key": "securities held",
+              "value": "34674472"
+            },
+            {
+              "key": "percentage of securities",
+              "value": "32.24%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "layoff",
+          "page": 98,
+          "title": "TWENTY LARGEST SHAREHOLDERS",
+          "data": [
+            {
+              "key": "holder_name",
+              "value": "ALCEON GROUP PTY LTD <NB NO 1 A/C>"
+            },
+            {
+              "key": "number_held",
+              "value": "12,353,308"
+            },
+            {
+              "key": "percentage",
+              "value": "11.48%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "layoff",
+          "page": 98,
+          "title": "SUMMARY OF SHAREHOLDERS",
+          "data": [
+            {
+              "key": "total_number_of_shares",
+              "value": "69,824,370"
+            },
+            {
+              "key": "total_percentage",
+              "value": "64.91%"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 43,
+          "title": "Employee Benefits and Compensation Table 2022",
+          "data": [
+            {
+              "key": "position",
+              "value": "Executive Directors"
+            },
+            {
+              "key": "name",
+              "value": "Scott Evans*"
+            },
+            {
+              "key": "cash_salary",
+              "value": "1121153"
+            },
+            {
+              "key": "cash_bonuses_STI",
+              "value": "712500"
+            },
+            {
+              "key": "cash_bonuses_LTI",
+              "value": "0"
+            },
+            {
+              "key": "non_monetary",
+              "value": "14129"
+            },
+            {
+              "key": "superannuation",
+              "value": "27356"
+            },
+            {
+              "key": "termination",
+              "value": "0"
+            },
+            {
+              "key": "long_service_leave",
+              "value": "18412"
+            },
+            {
+              "key": "equity_settled",
+              "value": "260407"
+            },
+            {
+              "key": "total",
+              "value": "2153957"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 43,
+          "title": "Employee Benefits and Compensation Table 2022",
+          "data": [
+            {
+              "key": "position",
+              "value": "Non-executive Directors"
+            },
+            {
+              "key": "name",
+              "value": "Richard Facioni"
+            },
+            {
+              "key": "cash_salary",
+              "value": "185000"
+            },
+            {
+              "key": "cash_bonuses_STI",
+              "value": "0"
+            },
+            {
+              "key": "cash_bonuses_LTI",
+              "value": "0"
+            },
+            {
+              "key": "non_monetary",
+              "value": "0"
+            },
+            {
+              "key": "superannuation",
+              "value": "0"
+            },
+            {
+              "key": "termination",
+              "value": "0"
+            },
+            {
+              "key": "long_service_leave",
+              "value": "0"
+            },
+            {
+              "key": "equity_settled",
+              "value": "86594"
+            },
+            {
+              "key": "total",
+              "value": "271594"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 43,
+          "title": "Employee Benefits and Compensation Table 2022",
+          "data": [
+            {
+              "key": "name",
+              "value": "David Wilshire"
+            },
+            {
+              "key": "cash_salary",
+              "value": "100000"
+            },
+            {
+              "key": "cash_bonuses_STI",
+              "value": "0"
+            },
+            {
+              "key": "cash_bonuses_LTI",
+              "value": "0"
+            },
+            {
+              "key": "non_monetary",
+              "value": "0"
+            },
+            {
+              "key": "superannuation",
+              "value": "0"
+            },
+            {
+              "key": "termination",
+              "value": "0"
+            },
+            {
+              "key": "long_service_leave",
+              "value": "0"
+            },
+            {
+              "key": "equity_settled",
+              "value": "0"
+            },
+            {
+              "key": "total",
+              "value": "100000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 43,
+          "title": "Employee Benefits and Compensation Table 2022",
+          "data": [
+            {
+              "key": "name",
+              "value": "Jacqueline Frank"
+            },
+            {
+              "key": "cash_salary",
+              "value": "100000"
+            },
+            {
+              "key": "cash_bonuses_STI",
+              "value": "0"
+            },
+            {
+              "key": "cash_bonuses_LTI",
+              "value": "0"
+            },
+            {
+              "key": "non_monetary",
+              "value": "0"
+            },
+            {
+              "key": "superannuation",
+              "value": "10000"
+            },
+            {
+              "key": "termination",
+              "value": "0"
+            },
+            {
+              "key": "long_service_leave",
+              "value": "321"
+            },
+            {
+              "key": "equity_settled",
+              "value": "0"
+            },
+            {
+              "key": "total",
+              "value": "110321"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 43,
+          "title": "Employee Benefits and Compensation Table 2022",
+          "data": [
+            {
+              "key": "position",
+              "value": "Other key management personnel"
+            },
+            {
+              "key": "name",
+              "value": "Luke Softa*"
+            },
+            {
+              "key": "cash_salary",
+              "value": "587637"
+            },
+            {
+              "key": "cash_bonuses_STI",
+              "value": "412500"
+            },
+            {
+              "key": "cash_bonuses_LTI",
+              "value": "0"
+            },
+            {
+              "key": "non_monetary",
+              "value": "0"
+            },
+            {
+              "key": "superannuation",
+              "value": "27356"
+            },
+            {
+              "key": "termination",
+              "value": "0"
+            },
+            {
+              "key": "long_service_leave",
+              "value": "9445"
+            },
+            {
+              "key": "equity_settled",
+              "value": "74366"
+            },
+            {
+              "key": "total",
+              "value": "1111304"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 43,
+          "title": "Employee Benefits and Compensation Table 2022",
+          "data": [
+            {
+              "key": "name",
+              "value": "Stephen Gosney**"
+            },
+            {
+              "key": "cash_salary",
+              "value": "172107"
+            },
+            {
+              "key": "cash_bonuses_STI",
+              "value": "0"
+            },
+            {
+              "key": "cash_bonuses_LTI",
+              "value": "0"
+            },
+            {
+              "key": "non_monetary",
+              "value": "0"
+            },
+            {
+              "key": "superannuation",
+              "value": "5892"
+            },
+            {
+              "key": "termination",
+              "value": "0"
+            },
+            {
+              "key": "long_service_leave",
+              "value": "0"
+            },
+            {
+              "key": "equity_settled",
+              "value": "0"
+            },
+            {
+              "key": "total",
+              "value": "177999"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 43,
+          "title": "Employee Benefits and Compensation Table 2022",
+          "data": [
+            {
+              "key": "name",
+              "value": "Total"
+            },
+            {
+              "key": "cash_salary",
+              "value": "2265897"
+            },
+            {
+              "key": "cash_bonuses_STI",
+              "value": "1125000"
+            },
+            {
+              "key": "cash_bonuses_LTI",
+              "value": "0"
+            },
+            {
+              "key": "non_monetary",
+              "value": "14129"
+            },
+            {
+              "key": "superannuation",
+              "value": "70604"
+            },
+            {
+              "key": "termination",
+              "value": "0"
+            },
+            {
+              "key": "long_service_leave",
+              "value": "28178"
+            },
+            {
+              "key": "equity_settled",
+              "value": "421367"
+            },
+            {
+              "key": "total",
+              "value": "3925175"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 44,
+          "title": "Executive Compensation and Benefits Table 2021",
+          "data": [
+            {
+              "key": "Scott Evans* (Executive Director)",
+              "value": "Total compensation: $1,488,312"
+            },
+            {
+              "key": "Richard Facioni** (Non-executive Director)",
+              "value": "Total compensation: $338,586"
+            },
+            {
+              "key": "David Wilshire** (Non-executive Director)",
+              "value": "Total compensation: $100,000"
+            },
+            {
+              "key": "Sue Morphet*** (Non-executive Director)",
+              "value": "Total compensation: $100,000"
+            },
+            {
+              "key": "Jacqueline Frank (Non-executive Director)",
+              "value": "Total compensation: $103,167"
+            },
+            {
+              "key": "Luke Softa* (Other KMP)",
+              "value": "Total compensation: $723,350"
+            },
+            {
+              "key": "Stephen Gosney**** (Other KMP)",
+              "value": "Total compensation: $589,835"
+            },
+            {
+              "key": "Overall Total Compensation",
+              "value": "$3,443,250"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 45,
+          "title": "Executive Compensation Overview",
+          "data": [
+            {
+              "key": "performance remuneration objectives",
+              "value": "individual set objectives will result in sustainable beneficial outcomes"
+            },
+            {
+              "key": "link to performance",
+              "value": "all performance remuneration components are appropriately linked to measurable personal, business unit or Group performance"
+            },
+            {
+              "key": "long term incentives",
+              "value": "provides selected and invited Senior Executives the right to acquire shares only where specific future service requirements and financial targets are exceeded"
+            },
+            {
+              "key": "total remuneration",
+              "value": "fair, reasonable and market competitive"
+            },
+            {
+              "key": "components of remuneration",
+              "value": "three components: fixed remuneration, short term incentives (STI), long term incentives (LTI)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 46,
+          "title": "Directors' Report",
+          "data": [
+            {
+              "key": "Grant date",
+              "value": "19/11/2021"
+            },
+            {
+              "key": "Expiry date",
+              "value": "18/11/2026"
+            },
+            {
+              "key": "Grant values",
+              "value": "$0.44, $0.16, $0.21"
+            },
+            {
+              "key": "Exercise price",
+              "value": "$0.52, $2.00, $1.50"
+            },
+            {
+              "key": "Volatility",
+              "value": "50%"
+            },
+            {
+              "key": "Interest rate",
+              "value": "1.73%"
+            },
+            {
+              "key": "Available rights",
+              "value": "3,000,000, 2,000,000, 1,500,000"
+            },
+            {
+              "key": "Rights vested",
+              "value": "400,000, 266,667, 200,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 46,
+          "title": "Director and Key Management Personnel Compensation Distribution",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Non-Executive Directors"
+            },
+            {
+              "key": "Members",
+              "value": "Richard Facioni, David Wilshire, Jacqueline Frank"
+            },
+            {
+              "key": "2022 Primary",
+              "value": "68%, 100%, 100%"
+            },
+            {
+              "key": "2021 Primary",
+              "value": "55%, 100%, 100%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 46,
+          "title": "Other key management personnel",
+          "data": [
+            {
+              "key": "Members",
+              "value": "Luke Softa, Stephen Gosney"
+            },
+            {
+              "key": "2022 Distribution",
+              "value": "56%, 100%"
+            },
+            {
+              "key": "2021 Distribution",
+              "value": "97%, 96%"
+            },
+            {
+              "key": "2022 Secondary",
+              "value": "37%, N/A"
+            },
+            {
+              "key": "2021 Secondary",
+              "value": "N/A, 4%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 47,
+          "title": "Executive Employment Terms and Conditions - Mosaic Brands",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Scott Evans"
+            },
+            {
+              "key": "Title",
+              "value": "Chief Executive Officer"
+            },
+            {
+              "key": "Termination payment",
+              "value": "Maximum payment to be made to Chief Executive Officer on termination is 3 months'. Total and benefits. To be paid in the following circumstances: 1) Redundancy; or 2) Fundamental Change."
+            },
+            {
+              "key": "Notice of termination",
+              "value": "On termination by Mosaic Brands or the Executive — 3 months' notice. Payment in lieu of notice can be made by Mosaic Brands in all circumstances, if Mosaic Brands so chooses."
+            },
+            {
+              "key": "Restraint Conditions",
+              "value": "Restraint period of 6 months"
+            },
+            {
+              "key": "Name (CFO)",
+              "value": "Luke Softa"
+            },
+            {
+              "key": "Title (CFO)",
+              "value": "Chief Financial Officer and Company Secretary"
+            },
+            {
+              "key": "Duration of agreement (CFO)",
+              "value": "Employment agreement for Chief Financial Officer operative until terminated by either party."
+            },
+            {
+              "key": "Termination payment (CFO)",
+              "value": "Maximum to be made to the Chief Financial Officer on termination is 3 months: Total payment Remuneration (being Total Fixed Remuneration plus Short Term Incentives, Long Term Incentives and benefits). To be paid in the following circumstances: 1) Redundancy; or 2) Fundamental Change."
+            },
+            {
+              "key": "Notice of termination (CFO)",
+              "value": "On termination by Mosaic Brands or the Executive — 3 months' notice. Payment in lieu of notice can be made by Mosaic Brands in all circumstances, if Mosaic Brands so chooses."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 48,
+          "title": "Directors' Report on Relevant Interest in Shares",
+          "data": [
+            {
+              "key": "Richard Facioni - Shareholding at 28 June 2021 No.",
+              "value": "1800000"
+            },
+            {
+              "key": "Richard Facioni - Shares purchased or (sold) ordinary No.",
+              "value": "-"
+            },
+            {
+              "key": "Richard Facioni - under performance rights plan ordinary No.",
+              "value": "2000000"
+            },
+            {
+              "key": "Richard Facioni - Shareholding at 3 July 2022 No.",
+              "value": "3800000"
+            },
+            {
+              "key": "Scott Evans - Shareholding at 28 June 2021 No.",
+              "value": "4788869"
+            },
+            {
+              "key": "Scott Evans - Shares purchased or (sold) ordinary No.",
+              "value": "984928"
+            },
+            {
+              "key": "Scott Evans - under performance rights plan ordinary No.",
+              "value": "6500000"
+            },
+            {
+              "key": "Scott Evans - Shareholding at 3 July 2022 No.",
+              "value": "12273797"
+            },
+            {
+              "key": "David Wilshire - Shareholding at 28 June 2021 No.",
+              "value": "-"
+            },
+            {
+              "key": "David Wilshire - Shares purchased or (sold) ordinary No.",
+              "value": "-"
+            },
+            {
+              "key": "David Wilshire - under performance rights plan ordinary No.",
+              "value": "-"
+            },
+            {
+              "key": "David Wilshire - Shareholding at 3 July 2022 No.",
+              "value": "-"
+            },
+            {
+              "key": "Jacqueline Frank - Shareholding at 28 June 2021 No.",
+              "value": "-"
+            },
+            {
+              "key": "Jacqueline Frank - Shares purchased or (sold) ordinary No.",
+              "value": "-"
+            },
+            {
+              "key": "Jacqueline Frank - under performance rights plan ordinary No.",
+              "value": "-"
+            },
+            {
+              "key": "Jacqueline Frank - Shareholding at 3 July 2022 No.",
+              "value": "-"
+            },
+            {
+              "key": "Luke Softa - Shareholding at 28 June 2021 No.",
+              "value": "945029"
+            },
+            {
+              "key": "Luke Softa - Shares purchased or (sold) ordinary No.",
+              "value": "-"
+            },
+            {
+              "key": "Luke Softa - under performance rights plan ordinary No.",
+              "value": "1900000"
+            },
+            {
+              "key": "Luke Softa - Shareholding at 3 July 2022 No.",
+              "value": "2845029"
+            },
+            {
+              "key": "TOTAL - Shareholding at 28 June 2021 No.",
+              "value": "7533898"
+            },
+            {
+              "key": "TOTAL - Shares purchased or (sold) ordinary No.",
+              "value": "984928"
+            },
+            {
+              "key": "TOTAL - under performance rights plan ordinary No.",
+              "value": "10400000"
+            },
+            {
+              "key": "TOTAL - Shareholding at 3 July 2022 No.",
+              "value": "18918826"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 48,
+          "title": "Convertible Notes Shareholdings",
+          "data": [
+            {
+              "key": "Richard Facioni - at 28 June 2021 No.",
+              "value": "0"
+            },
+            {
+              "key": "Richard Facioni - purchased or (sold) No.",
+              "value": "35,658"
+            },
+            {
+              "key": "Richard Facioni - 3 July 2022 No.",
+              "value": "35,658"
+            },
+            {
+              "key": "Scott Evans - at 28 June 2021 No.",
+              "value": "0"
+            },
+            {
+              "key": "Scott Evans - purchased or (sold) No.",
+              "value": "214,000"
+            },
+            {
+              "key": "Scott Evans - 3 July 2022 No.",
+              "value": "214,000"
+            },
+            {
+              "key": "David Wilshire - at 28 June 2021 No.",
+              "value": "0"
+            },
+            {
+              "key": "David Wilshire - purchased or (sold) No.",
+              "value": "0"
+            },
+            {
+              "key": "David Wilshire - 3 July 2022 No.",
+              "value": "0"
+            },
+            {
+              "key": "Jacqueline Frank - at 28 June 2021 No.",
+              "value": "0"
+            },
+            {
+              "key": "Jacqueline Frank - purchased or (sold) No.",
+              "value": "0"
+            },
+            {
+              "key": "Jacqueline Frank - 3 July 2022 No.",
+              "value": "0"
+            },
+            {
+              "key": "Luke Softa - at 28 June 2021 No.",
+              "value": "0"
+            },
+            {
+              "key": "Luke Softa - purchased or (sold) No.",
+              "value": "75,000"
+            },
+            {
+              "key": "Luke Softa - 3 July 2022 No.",
+              "value": "75,000"
+            },
+            {
+              "key": "TOTAL - at 28 June 2021 No.",
+              "value": "0"
+            },
+            {
+              "key": "TOTAL - purchased or (sold) No.",
+              "value": "324,658"
+            },
+            {
+              "key": "TOTAL - 3 July 2022 No.",
+              "value": "324,658"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 70,
+          "title": "INTANGIBLE ASSETS",
+          "data": [
+            {
+              "key": "Acquisitions",
+              "value": "On 5 September 2016, the Group acquired 100% of the shares of the Pretty Girl Fashion Group (PGFG)."
+            },
+            {
+              "key": "Valuation",
+              "value": "Total brand valuation of $36,300,000."
+            },
+            {
+              "key": "Second Acquisition",
+              "value": "On 2 July 2018, the Group acquired the Millers, Autograph, Rivers, Crossroads and Katies brands."
+            },
+            {
+              "key": "Valuation",
+              "value": "Total brand valuation of $20,900,000."
+            },
+            {
+              "key": "Impairment Losses",
+              "value": "Impairment losses recognised totalling $5,813,000 for brand names."
+            },
+            {
+              "key": "Forecast Rates",
+              "value": "Growth rate estimated by management of 5.5% to 10.6% in FY2024."
+            },
+            {
+              "key": "Corporate Tax Rate",
+              "value": "30% is based on the corporate tax rate in Australia."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 81,
+          "title": "KEY MANAGEMENT PERSONNEL",
+          "data": [
+            {
+              "key": "Directors",
+              "value": "Richard Facioni (Chairman), Scott Evans (Chief Executive Officer), David Wilshire (Non-Executive Director), Jacqueline Frank (Non-Executive Director)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 81,
+          "title": "Fair Value Measurements",
+          "data": [
+            {
+              "key": "Fair Value Gain",
+              "value": "$6,827,000"
+            },
+            {
+              "key": "Transaction Costs",
+              "value": "$1,524,000"
+            },
+            {
+              "key": "Debt Component of Transaction Costs",
+              "value": "$1,071,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 82,
+          "title": "Employee Benefits Breakdown 2021",
+          "data": [
+            {
+              "key": "Short-term employee benefits",
+              "value": "$3,128,798"
+            },
+            {
+              "key": "Post-employment benefits",
+              "value": "$74,517"
+            },
+            {
+              "key": "Other long-term benefits",
+              "value": "$36,978"
+            },
+            {
+              "key": "Share-based payments",
+              "value": "$202,957"
+            },
+            {
+              "key": "Total benefits",
+              "value": "$3,443,250"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 82,
+          "title": "BDO Audit and Other Services Fees",
+          "data": [
+            {
+              "key": "Audit and review of the financial statements",
+              "value": "$555,000 (2021) - $629,500 (2022)"
+            },
+            {
+              "key": "Other assurance services",
+              "value": "$22,410 (2021) - $0 (2022)"
+            },
+            {
+              "key": "Total fees",
+              "value": "$577,410 (2021) - $629,500 (2022)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 84,
+          "title": "Parent Entity Information and Interests in Subsidiaries",
+          "data": [
+            {
+              "key": "Significant accounting policies",
+              "value": "The accounting policies of the parent entity are consistent with those of the Group."
+            },
+            {
+              "key": "Investments in subsidiaries",
+              "value": "Accounted for at cost, less any impairment."
+            },
+            {
+              "key": "Contractual commitments",
+              "value": "As at 3 July 2022, no contractual commitments apart from lease liabilities."
+            },
+            {
+              "key": "Summary of subsidiaries ownership change",
+              "value": "Ownership in all listed subsidiaries increased from 0% in 2021 to 100% in 2022, indicating a complete acquisition or restructuring."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 89,
+          "title": "Stock Options/Rights Grant Schedule",
+          "data": [
+            {
+              "key": "Grant date",
+              "value": "08/08/2016"
+            },
+            {
+              "key": "Expiry date",
+              "value": "07/08/2021"
+            },
+            {
+              "key": "Fair value at grant date",
+              "value": ""
+            },
+            {
+              "key": "at grant date",
+              "value": ""
+            },
+            {
+              "key": "Exercise price",
+              "value": ""
+            },
+            {
+              "key": "Volatility",
+              "value": ""
+            },
+            {
+              "key": "Interest rate",
+              "value": ""
+            },
+            {
+              "key": "of rights available",
+              "value": ""
+            },
+            {
+              "key": "Grant date",
+              "value": "9/08/2016"
+            },
+            {
+              "key": "Expiry date",
+              "value": "8/08/2021"
+            },
+            {
+              "key": "Fair value at grant date",
+              "value": ""
+            },
+            {
+              "key": "at grant date",
+              "value": ""
+            },
+            {
+              "key": "Exercise price",
+              "value": ""
+            },
+            {
+              "key": "Volatility",
+              "value": ""
+            },
+            {
+              "key": "Interest rate",
+              "value": ""
+            },
+            {
+              "key": "of rights available",
+              "value": ""
+            },
+            {
+              "key": "Grant date",
+              "value": "9/08/2016"
+            },
+            {
+              "key": "Expiry date",
+              "value": "8/08/2021"
+            },
+            {
+              "key": "Fair value at grant date",
+              "value": ""
+            },
+            {
+              "key": "at grant date",
+              "value": ""
+            },
+            {
+              "key": "Exercise price",
+              "value": ""
+            },
+            {
+              "key": "Volatility",
+              "value": ""
+            },
+            {
+              "key": "Interest rate",
+              "value": ""
+            },
+            {
+              "key": "of rights available",
+              "value": ""
+            },
+            {
+              "key": "Grant date",
+              "value": "9/08/2016"
+            },
+            {
+              "key": "Expiry date",
+              "value": "8/08/2021"
+            },
+            {
+              "key": "Fair value at grant date",
+              "value": ""
+            },
+            {
+              "key": "at grant date",
+              "value": ""
+            },
+            {
+              "key": "Exercise price",
+              "value": ""
+            },
+            {
+              "key": "Volatility",
+              "value": ""
+            },
+            {
+              "key": "Interest rate",
+              "value": ""
+            },
+            {
+              "key": "of rights available",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 96,
+          "title": "Opinion on the Remuneration Report",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Mosaic Brands Limited"
+            },
+            {
+              "key": "Year Ended",
+              "value": "3 July 2022"
+            },
+            {
+              "key": "Opinion",
+              "value": "The Remuneration Report complies with section 300A of the Corporations Act 2001."
+            },
+            {
+              "key": "Auditor",
+              "value": "BDO Audit Pty Ltd"
+            },
+            {
+              "key": "Director",
+              "value": "John Bresolin"
+            },
+            {
+              "key": "Audit Date",
+              "value": "31 August 2022"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 10,
+          "title": "Growth Trend (2020-2022)",
+          "data": [
+            {
+              "key": "date",
+              "value": "Jun 20"
+            },
+            {
+              "key": "value",
+              "value": "200"
+            },
+            {
+              "key": "date",
+              "value": "Dec 20"
+            },
+            {
+              "key": "value",
+              "value": "500"
+            },
+            {
+              "key": "date",
+              "value": "Jun 21"
+            },
+            {
+              "key": "value",
+              "value": "1500"
+            },
+            {
+              "key": "date",
+              "value": "Dec 21"
+            },
+            {
+              "key": "value",
+              "value": "3500"
+            },
+            {
+              "key": "date",
+              "value": "Jun 22"
+            },
+            {
+              "key": "value",
+              "value": "3800"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 14,
+          "title": "Lifestyle Marketing Image Analysis",
+          "data": [
+            {
+              "key": "image_description",
+              "value": "A lifestyle marketing photograph showing a casual fashion scene. The image features someone wearing a light mint-green oversized blouse or top paired with dark jeans and a tan wide-brimmed hat. The setting includes tropical foliage in the background, creating a relaxed, outdoor atmosphere."
+            },
+            {
+              "key": "branding_detail",
+              "value": "The word 'OUR BRANDS' appears vertically on the left side of the image."
+            },
+            {
+              "key": "tagline",
+              "value": "EVERYTHING SHE WANTS. WHERE SHE WANTS IT. WHEN SHE WANTS IT."
+            },
+            {
+              "key": "document_context",
+              "value": "This appears to be from a corporate or retail brand presentation or catalog, likely showcasing lifestyle fashion and brand positioning."
+            },
+            {
+              "key": "visual_elements",
+              "value": "Color Scheme: mint green, tan, dark denim, tropical green; Layout: vertical brand text with lifestyle photo; Style: casual luxury lifestyle marketing."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 16,
+          "title": "Noni B Brand Presentation",
+          "data": [
+            {
+              "key": "brand",
+              "value": "Noni B"
+            },
+            {
+              "key": "website",
+              "value": "NONIB.COM.AU"
+            },
+            {
+              "key": "description",
+              "value": "A fashion retailer specializing in classic, timeless styles for smart casual and elevated elegance"
+            },
+            {
+              "key": "online_visits",
+              "value": ""
+            },
+            {
+              "key": "email_subscribers",
+              "value": ""
+            },
+            {
+              "key": "physical_stores",
+              "value": ""
+            },
+            {
+              "key": "membership_base",
+              "value": ""
+            },
+            {
+              "key": "visual_content",
+              "value": "Fashion promotional image showing a floral print dress in pink and red tones"
+            },
+            {
+              "key": "tagline",
+              "value": "EVERYTHING SHE WANTS, WHERE SHE WANTS IT, WHEN SHE WANTS IT"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 20,
+          "title": "KATIES Fashion Brand Statistics",
+          "data": [
+            {
+              "key": "Online Visits",
+              "value": "10800000"
+            },
+            {
+              "key": "Email Subscribers",
+              "value": "1700000"
+            },
+            {
+              "key": "Physical Stores",
+              "value": "112"
+            },
+            {
+              "key": "Members",
+              "value": "3300000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 22,
+          "title": "Business Statistics",
+          "data": [
+            {
+              "key": "Online Visits",
+              "value": "8100000"
+            },
+            {
+              "key": "Email Subscribers",
+              "value": "717000"
+            },
+            {
+              "key": "Physical Stores",
+              "value": "63"
+            },
+            {
+              "key": "Members",
+              "value": "1500000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 22,
+          "title": "Marketing Content",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Autograph"
+            },
+            {
+              "key": "Website",
+              "value": "autographfashion.com.au"
+            },
+            {
+              "key": "Description",
+              "value": "A fashion brand focusing on curve-friendly clothing with natural and breathable fabrics, offering both casual and work wear"
+            },
+            {
+              "key": "Marketing Tagline",
+              "value": "Everything she wants, where she wants it, when she wants it"
+            },
+            {
+              "key": "Visual Elements",
+              "value": "Marketing material showing statistics alongside fashion photography featuring clothing with floral/leaf print design"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 24,
+          "title": "EziBuy Company Statistics",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "EZIBUY"
+            },
+            {
+              "key": "Online Visits",
+              "value": "21300000"
+            },
+            {
+              "key": "Email Subscribers",
+              "value": "2000000"
+            },
+            {
+              "key": "Physical Stores",
+              "value": "6"
+            },
+            {
+              "key": "Members",
+              "value": "2700000"
+            },
+            {
+              "key": "Company Description",
+              "value": "Leading online department store in apparel and homeware category, mailing over 15 million catalogues annually and processing more than 1.4 million orders a year to customers in Australia and New Zealand"
+            },
+            {
+              "key": "Websites",
+              "value": "EZIBUY.COM.AU, EZIBUY.COM.NZ"
+            },
+            {
+              "key": "Tagline",
+              "value": "EVERYTHING SHE WANTS, WHERE SHE WANTS IT, WHEN SHE WANTS IT"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 26,
+          "title": "Fashion Advertisement for Liz Jordan Designer Collection",
+          "data": [
+            {
+              "key": "description",
+              "value": "A fashion advertisement or catalog image showing a business casual outfit. The outfit consists of a floral print blouse in black, green and white with long sleeves, paired with high-waisted beige/cream colored trousers. A matching beige/cream colored jacket or coat is being held. The photograph appears to be part of a fashion brand's marketing material, with partial text visible suggesting pricing or product information, and a website URL ending in '.AU' indicating this is likely from an Australian fashion retailer. There's also a tagline about pants placement and timing preferences."
+            },
+            {
+              "key": "brand",
+              "value": "Liz Jordan"
+            },
+            {
+              "key": "online_visits",
+              "value": "2,700,000"
+            },
+            {
+              "key": "website",
+              "value": "lizjordan.com.au"
+            },
+            {
+              "key": "tagline",
+              "value": "EVERYTHING SHE WANTS, WHERE SHE WANTS IT, WHEN SHE WANTS IT."
+            },
+            {
+              "key": "email_subscribers",
+              "value": "769,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 32,
+          "title": "Retail Store Display Analysis",
+          "data": [
+            {
+              "key": "Description",
+              "value": "The image shows a retail store display, featuring mannequins and shoe merchandise. The top portion contains a corporate message about investing in stores and teams to improve in-store experience and service. The bottom portion shows a shoe department with multiple mannequins wearing athletic wear, extensive shoe box displays, and price signage showing '$69' for featured items."
+            },
+            {
+              "key": "Retailer Type",
+              "value": "Sporting goods or fashion retailer"
+            },
+            {
+              "key": "Branding",
+              "value": "Adidas"
+            },
+            {
+              "key": "Website",
+              "value": "NONIB.COM.AU"
+            },
+            {
+              "key": "Tagline",
+              "value": "EVERYTHING SHE WANTS, WHERE SHE WANTS IT, WHEN SHE WANTS IT."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 38,
+          "title": "Fashion Advertisement in Director's Report",
+          "data": [
+            {
+              "key": "description",
+              "value": "A fashion advertisement featuring a turquoise/aqua blue button-down shirt dress with short sleeves and a tie waist."
+            },
+            {
+              "key": "model_accessories",
+              "value": "Layered necklaces and bracelets."
+            },
+            {
+              "key": "tagline",
+              "value": "EVERYTHING SHE WANTS, WHERE SHE WANTS IT, WHEN SHE WANTS IT."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 39,
+          "title": "Mosaic Brands Limited Annual Report 2022 - Page 39",
+          "data": [
+            {
+              "key": "description",
+              "value": "This is an artistic architectural photograph showing a pier or boardwalk structure extending over water. The image appears to be taken from a low angle, showing the concrete pillars and white railings of the structure stretching into the distance with a minimalist, blurred aesthetic. A distant figure can be seen on the walkway."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 51,
+          "title": "Fashion Product Photography",
+          "data": [
+            {
+              "key": "description",
+              "value": "The image appears to be a fashion or lifestyle product photograph showing a casual summer outfit. The outfit consists of a sage green t-shirt with a side knot detail, paired with white pants. The model is wearing a wide-brim straw hat and gold necklace accessories. The photo is taken outdoors with some architectural elements visible in the background, including what appears to be a metal railing or fence. The styling and composition suggest this is a commercial product photograph, likely for a clothing retailer or fashion brand's marketing materials."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 69,
+          "title": "Intangible Assets Breakdown",
+          "data": [
+            {
+              "key": "Brand names — at cost",
+              "value": "58090"
+            },
+            {
+              "key": "Less: accumulated impairment losses",
+              "value": "-41783"
+            },
+            {
+              "key": "Net carrying value",
+              "value": "16307"
+            },
+            {
+              "key": "Other intangible assets — at cost",
+              "value": "42582"
+            },
+            {
+              "key": "Less: accumulated amortisation",
+              "value": "-38911"
+            },
+            {
+              "key": "Net carrying value",
+              "value": "3671"
+            },
+            {
+              "key": "Total intangibles",
+              "value": "19978"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 69,
+          "title": "Consolidated Group Intangible Assets Movement",
+          "data": [
+            {
+              "key": "Balance at 28 June 2020",
+              "value": "42943"
+            },
+            {
+              "key": "Additions",
+              "value": "480"
+            },
+            {
+              "key": "Additions from business combination",
+              "value": "2275"
+            },
+            {
+              "key": "Amortisation expense",
+              "value": "-3736"
+            },
+            {
+              "key": "Impairment",
+              "value": "-21984"
+            },
+            {
+              "key": "Balance at 27 June 2021",
+              "value": "19978"
+            },
+            {
+              "key": "Additions",
+              "value": "1314"
+            },
+            {
+              "key": "Amortisation expense",
+              "value": "-2217"
+            },
+            {
+              "key": "Impairment",
+              "value": "-5813"
+            },
+            {
+              "key": "Balance at 3 July 2022",
+              "value": "13262"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 100,
+          "title": "Fashion Advertisement for Mosaic Brands",
+          "data": [
+            {
+              "key": "Description",
+              "value": "This appears to be a fashion advertisement or marketing image for Mosaic Brands. The image shows a fashion model wearing a black and white houndstooth pattern dress with long sleeves and a wrap-style design. The model is also wearing clear-framed glasses and beige boots. The photo is taken against a beige/tan architectural background with visible pipes or columns. At the bottom of the image, there are several retail brand logos including Millers, Noni B, W.Lane, Katies, Rockmans, Crossroads, Autograph, Beme, and EziBuy, suggesting this is part of a larger retail group's marketing materials."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 100,
+          "title": "Retail/Fashion Brand Logos Banner",
+          "data": [
+            {
+              "key": "Description",
+              "value": "A black horizontal banner displaying multiple retail/fashion brand logos in white text, including: Millers, NONI B, W LANE, KATIES, ROCKMANS, Crossroads, AUTOGRAPH, beme, and Rivers. The logos are separated by bullet points and appear to be part of the same retail group or company."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 68,
+          "title": "Plant and Equipment and Right-of-Use Assets Analysis",
+          "data": [
+            {
+              "key": "Lease rights — property",
+              "value": "333385"
+            },
+            {
+              "key": "Less: Accumulated depreciation and impairment",
+              "value": "-261411"
+            },
+            {
+              "key": "Total right-of-use assets",
+              "value": "71974"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 4,
+          "title": "COVID Impacted Years Analysis",
+          "data": [
+            {
+              "key": "2016",
+              "value": "100"
+            },
+            {
+              "key": "2017",
+              "value": "150"
+            },
+            {
+              "key": "2018",
+              "value": "160"
+            },
+            {
+              "key": "2019",
+              "value": "300"
+            },
+            {
+              "key": "2020",
+              "value": "200 (COVID IMPACTED)"
+            },
+            {
+              "key": "2021",
+              "value": "180 (LOCKDOWN 22,193 TRADING DAYS LOST)"
+            },
+            {
+              "key": "2022",
+              "value": "120 (LOCKDOWN 49,489 DAYS LOST IN H1, OMICRON IMPACT H2)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 4,
+          "title": "CODB Performance and JobKeeper Benefits (2016-2022)",
+          "data": [
+            {
+              "key": "2016",
+              "value": "75% CODB ($5M), JobKeeper: N/A"
+            },
+            {
+              "key": "2017",
+              "value": "65% CODB ($15M), JobKeeper: N/A"
+            },
+            {
+              "key": "2018",
+              "value": "60% CODB ($20M), JobKeeper: N/A"
+            },
+            {
+              "key": "2019",
+              "value": "55% CODB ($35M), JobKeeper: N/A"
+            },
+            {
+              "key": "2020",
+              "value": "58% CODB ($30M), JobKeeper: $12M"
+            },
+            {
+              "key": "2021",
+              "value": "52% CODB ($25M), JobKeeper: $46M"
+            },
+            {
+              "key": "2022",
+              "value": "50% CODB ($20M), JobKeeper: -$87M"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 4,
+          "title": "Growth/Decline Trend 2016-2022",
+          "data": [
+            {
+              "key": "2016",
+              "value": "38"
+            },
+            {
+              "key": "2017",
+              "value": "42"
+            },
+            {
+              "key": "2018",
+              "value": "45"
+            },
+            {
+              "key": "2019",
+              "value": "47"
+            },
+            {
+              "key": "2020",
+              "value": "-27"
+            },
+            {
+              "key": "2021",
+              "value": "48"
+            },
+            {
+              "key": "2022",
+              "value": "35"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "Online Revenue and Contribution Growth 2016-2022",
+          "data": [
+            {
+              "key": "2016 Revenue",
+              "value": "$20M"
+            },
+            {
+              "key": "2017 Revenue",
+              "value": "$25M"
+            },
+            {
+              "key": "2018 Revenue",
+              "value": "$40M"
+            },
+            {
+              "key": "2019 Revenue",
+              "value": "$85M"
+            },
+            {
+              "key": "2020 Revenue",
+              "value": "$155M"
+            },
+            {
+              "key": "2021 Revenue",
+              "value": "$200M"
+            },
+            {
+              "key": "2022 Revenue",
+              "value": "$223M"
+            },
+            {
+              "key": "Peak Revenue",
+              "value": "$223M (2022)"
+            },
+            {
+              "key": "Peak Contribution",
+              "value": "42% (2022)"
+            },
+            {
+              "key": "Trend",
+              "value": "Consistently increasing growth in both revenue and contribution percentage from 2016 to 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "Record Sales Growth",
+          "data": [
+            {
+              "key": "2020 Sales",
+              "value": "$7M"
+            },
+            {
+              "key": "2021 Sales",
+              "value": "$15M"
+            },
+            {
+              "key": "2022 Sales",
+              "value": "$28.4M"
+            },
+            {
+              "key": "Additional Info",
+              "value": "Shows steady growth in record sales from $7M in 2020 to $28.4M in 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 5,
+          "title": "Growth Trend Chart",
+          "data": [
+            {
+              "key": "Jun 20 Value",
+              "value": "100"
+            },
+            {
+              "key": "Dec 20 Value",
+              "value": "300"
+            },
+            {
+              "key": "Jun 21 Value",
+              "value": "1500"
+            },
+            {
+              "key": "Dec 21 Value",
+              "value": "$3,500,000"
+            },
+            {
+              "key": "Jun 22 Value",
+              "value": "$5,000,000"
+            },
+            {
+              "key": "Trend",
+              "value": "exponential growth"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 6,
+          "title": "Chairman's Report Summary",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Mosaic Brands"
+            },
+            {
+              "key": "FY21 EBITDA",
+              "value": "$8 million"
+            },
+            {
+              "key": "Credit Facility",
+              "value": "$49 million with Commonwealth Bank"
+            },
+            {
+              "key": "Challenges",
+              "value": "Impacts of COVID-19 and the Omicron variant on store traffic"
+            },
+            {
+              "key": "Statement",
+              "value": "UNPREDICTABILITY HAS BEEN THE ONLY CONSTANT OF THE LAST FINANCIAL YEAR"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 18,
+          "title": "W.Lane Business Metrics",
+          "data": [
+            {
+              "key": "Online Visits",
+              "value": "4700000"
+            },
+            {
+              "key": "Email Subscribers",
+              "value": "707000"
+            },
+            {
+              "key": "Physical Stores",
+              "value": "52"
+            },
+            {
+              "key": "Members",
+              "value": "1500000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 19,
+          "title": "Rivers Business Statistics",
+          "data": [
+            {
+              "key": "Metric: Online Visits",
+              "value": "12,100,000"
+            },
+            {
+              "key": "Metric: Email",
+              "value": "3,000,000"
+            },
+            {
+              "key": "Metric: Stores",
+              "value": "132"
+            },
+            {
+              "key": "Metric: Members",
+              "value": "4,300,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 19,
+          "title": "Key Performance Indicators from Rivers",
+          "data": [
+            {
+              "key": "Metric: Online Visits",
+              "value": "12,100,000"
+            },
+            {
+              "key": "Metric: Email Database",
+              "value": "3,000,000"
+            },
+            {
+              "key": "Metric: Physical Stores",
+              "value": "132"
+            },
+            {
+              "key": "Metric: Members",
+              "value": "4,300,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 21,
+          "title": "Rockmans Business Metrics",
+          "data": [
+            {
+              "key": "Online Visits",
+              "value": "9100000"
+            },
+            {
+              "key": "Email List",
+              "value": "1500000"
+            },
+            {
+              "key": "Physical Stores",
+              "value": "190"
+            },
+            {
+              "key": "Members",
+              "value": "4200000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 27,
+          "title": "Crossroads",
+          "data": [
+            {
+              "key": "Online Visits",
+              "value": "3500000"
+            },
+            {
+              "key": "Email List",
+              "value": "1200000"
+            },
+            {
+              "key": "Members",
+              "value": "2700000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Financial Performance Review",
+          "data": [
+            {
+              "key": "Group revenue (FY 2022)",
+              "value": "$619,651,000"
+            },
+            {
+              "key": "Group revenue (FY 2021)",
+              "value": "$708,766,000"
+            },
+            {
+              "key": "Gross margin FY 2022",
+              "value": "52% (down from 58%)"
+            },
+            {
+              "key": "Loss before income tax FY 2022",
+              "value": "$16,098,000"
+            },
+            {
+              "key": "Profit before income tax FY 2021",
+              "value": "$12,250,000"
+            },
+            {
+              "key": "Loss per share FY 2022",
+              "value": "11.13 cents"
+            },
+            {
+              "key": "Earnings per share FY 2021",
+              "value": "2.81 cents"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 50,
+          "title": "Financial Report",
+          "data": [
+            {
+              "key": "Main Text",
+              "value": "FINANCIAL REPORT"
+            },
+            {
+              "key": "Subtitle",
+              "value": "EVERYTHING SHE WANTS. WHERE SHE WANTS IT. WHEN SHE WANTS IT."
+            },
+            {
+              "key": "Visual Element",
+              "value": "architectural detail photograph"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Consolidated Statement of Profit or Loss and Other Comprehensive Income",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "Current: $571.4M, Previous: $676.8M"
+            },
+            {
+              "key": "Other income",
+              "value": "Current: $48.3M, Previous: $32.0M"
+            },
+            {
+              "key": "Cost of goods sold",
+              "value": "Current: -$300.1M, Previous: -$299.7M"
+            },
+            {
+              "key": "Expenses (excluding finance costs)",
+              "value": "Current: -$317.5M, Previous: -$358.0M"
+            },
+            {
+              "key": "Transaction and restructuring costs",
+              "value": "Current: -$2.7M, Previous: -$6.8M"
+            },
+            {
+              "key": "Finance costs",
+              "value": "Current: -$9.7M, Previous: -$10.1M"
+            },
+            {
+              "key": "Impairment of brand names",
+              "value": "Current: -$5.8M, Previous: -$8.4M"
+            },
+            {
+              "key": "Impairment of goodwill",
+              "value": "Current: $0.0M, Previous: -$13.6M"
+            },
+            {
+              "key": "(Loss) / profit before income tax",
+              "value": "Current: -$16.1M, Previous: $12.3M"
+            },
+            {
+              "key": "Income tax benefit / (expense)",
+              "value": "Current: $4.6M, Previous: -$9.5M"
+            },
+            {
+              "key": "(Loss) / profit attributed to members of the parent entity",
+              "value": "Current: -$11.5M, Previous: $2.7M"
+            },
+            {
+              "key": "Basic (loss) / earnings per share (cents)",
+              "value": "Current: -11.13, Previous: 2.81"
+            },
+            {
+              "key": "Diluted (loss) / earnings per share (cents)",
+              "value": "Current: -11.13, Previous: 2.81"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Balance Sheet",
+          "data": [
+            {
+              "key": "total_assets",
+              "value": "342,466"
+            },
+            {
+              "key": "previous_total_assets",
+              "value": "366,071"
+            },
+            {
+              "key": "total_liabilities",
+              "value": "427,253"
+            },
+            {
+              "key": "previous_total_liabilities",
+              "value": "440,272"
+            },
+            {
+              "key": "net_assets",
+              "value": "-84,787"
+            },
+            {
+              "key": "previous_net_assets",
+              "value": "-74,201"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "period",
+              "value": "Balance at 28 June 2020"
+            },
+            {
+              "key": "issued_capital",
+              "value": "108034"
+            },
+            {
+              "key": "equity_reserve",
+              "value": "4077"
+            },
+            {
+              "key": "currency_translation",
+              "value": "154"
+            },
+            {
+              "key": "dividend_reserve",
+              "value": "13637"
+            },
+            {
+              "key": "accumulated_losses",
+              "value": "-203239"
+            },
+            {
+              "key": "total",
+              "value": "-77337"
+            },
+            {
+              "key": "period",
+              "value": "Balance at 27 June 2021"
+            },
+            {
+              "key": "note",
+              "value": "23,24"
+            },
+            {
+              "key": "issued_capital",
+              "value": "108034"
+            },
+            {
+              "key": "equity_reserve",
+              "value": "4432"
+            },
+            {
+              "key": "currency_translation",
+              "value": "220"
+            },
+            {
+              "key": "dividend_reserve",
+              "value": "26640"
+            },
+            {
+              "key": "accumulated_losses",
+              "value": "-213527"
+            },
+            {
+              "key": "total",
+              "value": "-74201"
+            },
+            {
+              "key": "period",
+              "value": "Balance at 3 July 2022"
+            },
+            {
+              "key": "note",
+              "value": "23,24"
+            },
+            {
+              "key": "issued_capital",
+              "value": "108034"
+            },
+            {
+              "key": "equity_reserve",
+              "value": "5000"
+            },
+            {
+              "key": "currency_translation",
+              "value": "522"
+            },
+            {
+              "key": "dividend_reserve",
+              "value": "40980"
+            },
+            {
+              "key": "accumulated_losses",
+              "value": "-239323"
+            },
+            {
+              "key": "total",
+              "value": "-84787"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "Cash Flow Statement",
+          "data": [
+            {
+              "key": "Receipts from customers (inclusive of GST)",
+              "value": "677064"
+            },
+            {
+              "key": "Payments to suppliers and employees (inclusive of GST)",
+              "value": "-633720"
+            },
+            {
+              "key": "Receipts from Government grants",
+              "value": "637"
+            },
+            {
+              "key": "Transaction and restructuring costs paid",
+              "value": "-2684"
+            },
+            {
+              "key": "Interest received",
+              "value": "28"
+            },
+            {
+              "key": "Interest and other finance costs paid",
+              "value": "-1631"
+            },
+            {
+              "key": "Income taxes received",
+              "value": "4880"
+            },
+            {
+              "key": "Net cash provided by operating activities",
+              "value": "44574"
+            },
+            {
+              "key": "Payment for the purchase of business, net of cash acquired",
+              "value": "-11000"
+            },
+            {
+              "key": "Payment for plant and equipment",
+              "value": "-4101"
+            },
+            {
+              "key": "Payment for software assets",
+              "value": "-1312"
+            },
+            {
+              "key": "Proceeds from the sale of plant and equipment",
+              "value": "5"
+            },
+            {
+              "key": "Net cash used in investing activities",
+              "value": "-16408"
+            },
+            {
+              "key": "Proceeds from borrowings",
+              "value": "135387"
+            },
+            {
+              "key": "Repayment of borrowings",
+              "value": "-132251"
+            },
+            {
+              "key": "Proceeds from issue of convertible notes",
+              "value": "32018"
+            },
+            {
+              "key": "Payment for cost of fund raising",
+              "value": "-1071"
+            },
+            {
+              "key": "Payment for borrowing costs",
+              "value": "-541"
+            },
+            {
+              "key": "Payment of lease liabilities",
+              "value": "-76776"
+            },
+            {
+              "key": "Net cash used in financing activities",
+              "value": "-43234"
+            },
+            {
+              "key": "Net (decrease) in cash and cash equivalents",
+              "value": "-15068"
+            },
+            {
+              "key": "Cash and cash equivalents at the beginning of the financial year",
+              "value": "57831"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Going Concern Evaluation and Financial Performance Overview",
+          "data": [
+            {
+              "key": "Net current liability position",
+              "value": "$153,646,000"
+            },
+            {
+              "key": "Current lease liabilities",
+              "value": "$47,627,000"
+            },
+            {
+              "key": "Contract liabilities",
+              "value": "$12,015,000"
+            },
+            {
+              "key": "Derivative financial instruments",
+              "value": "$1,970,000"
+            },
+            {
+              "key": "Borrowings",
+              "value": "$32,861,000"
+            },
+            {
+              "key": "Employee benefit provisions",
+              "value": "$6,402,000"
+            },
+            {
+              "key": "Cash on hand",
+              "value": "$42,763,000"
+            },
+            {
+              "key": "Net loss after tax for the year",
+              "value": "$11,154,000"
+            },
+            {
+              "key": "Capital raised from convertible notes",
+              "value": "$32,018,000"
+            },
+            {
+              "key": "Interest rate of secured convertible notes",
+              "value": "8% per annum"
+            },
+            {
+              "key": "Maturity date of notes",
+              "value": "30 September 2024"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Significant Accounting Policies",
+          "data": [
+            {
+              "key": "Adopted Standards",
+              "value": "All new or amended Accounting Standards and Interpretations issued by the Australian Accounting Standards Board ('AASB') that are mandatory for the current reporting period have been adopted."
+            },
+            {
+              "key": "Principles of Consolidation",
+              "value": "The consolidated financial statements incorporate the assets and liabilities of all subsidiaries of Mosaic Brands Limited as at 3 July 2022."
+            },
+            {
+              "key": "Valuation Techniques",
+              "value": "Financial assets and financial liabilities are initially measured at fair value and subsequently measured at amortised cost or fair value depending on their classification."
+            },
+            {
+              "key": "Fair Value Measurement",
+              "value": "Fair value reflects the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants."
+            },
+            {
+              "key": "Loss Allowance",
+              "value": "The consolidated entity recognises a loss allowance for expected credit losses on debt instruments measured at amortised cost or fair value through OCI."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 60,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS",
+          "data": [
+            {
+              "key": "Significant Accounting Policies",
+              "value": "The financial statement disclosures cover accounting treatments related to factors such as lease liabilities, right-of-use assets, and impacts from COVID-19."
+            },
+            {
+              "key": "Right-of-use Assets",
+              "value": "Recognised at lease commencement, measured at cost, depreciated over the lease term or estimated useful life."
+            },
+            {
+              "key": "Lease Liabilities",
+              "value": "Recognised at the present value of lease payments, classified as current or non-current based on expected settlement."
+            },
+            {
+              "key": "Government Grants",
+              "value": "Recognised when there is reasonable assurance of compliance with conditions and receipt of funds."
+            },
+            {
+              "key": "Reclassification",
+              "value": "Certain amounts were reclassified in the financial report for consistency with current year presentation."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Revenue and Other Income Statement",
+          "data": [
+            {
+              "key": "Revenue from Sale of Goods (2021)",
+              "value": "$676.8M"
+            },
+            {
+              "key": "Revenue from Sale of Goods (2022)",
+              "value": "$571.4M"
+            },
+            {
+              "key": "Total Other Income (2021)",
+              "value": "$32.0M"
+            },
+            {
+              "key": "Total Other Income (2022)",
+              "value": "$48.3M"
+            },
+            {
+              "key": "Notable decrease in Jewellery Commission (2021)",
+              "value": "$14.2M"
+            },
+            {
+              "key": "Notable decrease in Jewellery Commission (2022)",
+              "value": "$9.4M"
+            },
+            {
+              "key": "Total Expenses (excluding finance costs - 2021)",
+              "value": "$358.0M"
+            },
+            {
+              "key": "Total Expenses (excluding finance costs - 2022)",
+              "value": "$317.5M"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Specific Expenses: Expenses",
+          "data": [
+            {
+              "key": "Finance costs - interest and borrowing expense",
+              "value": "Current: 4720, Previous: 2051"
+            },
+            {
+              "key": "Finance costs - interest expense on lease liabilities",
+              "value": "Current: 4973, Previous: 8024"
+            },
+            {
+              "key": "Total finance costs",
+              "value": "Current: 9693, Previous: 10075"
+            },
+            {
+              "key": "Depreciation — plant and equipment",
+              "value": "Current: 9181, Previous: 14243"
+            },
+            {
+              "key": "Depreciation — right-of-use assets",
+              "value": "Current: 63035, Previous: 78868"
+            },
+            {
+              "key": "Amortisation",
+              "value": "Current: 2352, Previous: 3736"
+            },
+            {
+              "key": "Impairment and write-off of non-current assets",
+              "value": "Current: 161, Previous: -101"
+            },
+            {
+              "key": "Impairment / (reversal) — right-of-use assets",
+              "value": "Current: -16676, Previous: 11684"
+            },
+            {
+              "key": "Impairment of Brand Names and Goodwill",
+              "value": "Current: 5813, Previous: 21984"
+            },
+            {
+              "key": "Write-off and write down of obsolete stock and inventory",
+              "value": "Current: 7827, Previous: 6004"
+            },
+            {
+              "key": "Rental expenses - low value assets",
+              "value": "Current: 29, Previous: 61"
+            },
+            {
+              "key": "Rental expenses - variable lease payments — outgoings",
+              "value": "Current: 15648, Previous: 17695"
+            },
+            {
+              "key": "Rental expenses - short term lease payments",
+              "value": "Current: 19970, Previous: 43558"
+            },
+            {
+              "key": "Total rental expenses",
+              "value": "Current: 35647, Previous: 61314"
+            },
+            {
+              "key": "Employee benefits expense",
+              "value": "Current: 128796, Previous: 118628"
+            },
+            {
+              "key": "Superannuation expense",
+              "value": "Current: 10835, Previous: 12383"
+            },
+            {
+              "key": "Share based payment expense",
+              "value": "Current: 568, Previous: 355"
+            },
+            {
+              "key": "Unrealised foreign exchange loss",
+              "value": "Current: 3462, Previous: 6996"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 64,
+          "title": "Income Tax and Deferred Tax Analysis",
+          "data": [
+            {
+              "key": "Major components of income tax (benefit) / expense",
+              "value": "Current tax: (12,572), Deferred tax: 7,930, Income tax (benefit) / expense: (4,642)"
+            },
+            {
+              "key": "Accounting (loss) / profit",
+              "value": "(16,098)"
+            },
+            {
+              "key": "Tax at 30% (2021-30%)",
+              "value": "(4,829)"
+            },
+            {
+              "key": "Share based payment expense",
+              "value": "170"
+            },
+            {
+              "key": "Impairment of goodwill",
+              "value": "-"
+            },
+            {
+              "key": "Income tax receivable",
+              "value": "117"
+            },
+            {
+              "key": "Total deferred tax assets",
+              "value": "80,035"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 66,
+          "title": "Cash and Cash Equivalents Comparison",
+          "data": [
+            {
+              "key": "Cash at bank and on hand (2022)",
+              "value": "42763"
+            },
+            {
+              "key": "Cash at bank and on hand (2021)",
+              "value": "5783"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 66,
+          "title": "Sundry Debtors Comparison",
+          "data": [
+            {
+              "key": "Sundry debtors (2022)",
+              "value": "2483"
+            },
+            {
+              "key": "Sundry debtors (2021)",
+              "value": "1747"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 66,
+          "title": "Finished Goods Inventory Comparison",
+          "data": [
+            {
+              "key": "Finished goods at cost, net of obsolescence and shrinkage (2022)",
+              "value": "116714"
+            },
+            {
+              "key": "Finished goods at cost, net of obsolescence and shrinkage (2021)",
+              "value": "110082"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 76,
+          "title": "Contract and Customer Liabilities Comparison",
+          "data": [
+            {
+              "key": "Contract and customer liabilities - 2022",
+              "value": "$12,015,000"
+            },
+            {
+              "key": "Contract and customer liabilities - 2021",
+              "value": "$13,408,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 76,
+          "title": "Group 2022 Convertible Notes Breakdown",
+          "data": [
+            {
+              "key": "Proceeds of the convertible notes",
+              "value": "$32,018,000"
+            },
+            {
+              "key": "Equity conversion feature on issuance date",
+              "value": "-$8,797,000"
+            },
+            {
+              "key": "Transaction costs",
+              "value": "-$1,071,000"
+            },
+            {
+              "key": "Debt component on issuance date",
+              "value": "$22,150,000"
+            },
+            {
+              "key": "Interest paid",
+              "value": "-$640,000"
+            },
+            {
+              "key": "Interest expense accrued",
+              "value": "$3,559,000"
+            },
+            {
+              "key": "Financial liabilities (non-current)",
+              "value": "$25,069,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 83,
+          "title": "Financial Statements Summary",
+          "data": [
+            {
+              "key": "Net (Loss) / profit after income tax expense",
+              "value": "2022: -24017, 2021: 40205"
+            },
+            {
+              "key": "Total comprehensive (loss) / income for the year",
+              "value": "2022: -24017, 2021: 40205"
+            },
+            {
+              "key": "Current assets",
+              "value": "2022: 48224, 2021: 55462"
+            },
+            {
+              "key": "Non-current assets",
+              "value": "2022: 56596, 2021: 61158"
+            },
+            {
+              "key": "TOTAL ASSETS",
+              "value": "2022: 104820, 2021: 116620"
+            },
+            {
+              "key": "Current liabilities",
+              "value": "2022: 134229, 2021: 135760"
+            },
+            {
+              "key": "Non-current liabilities",
+              "value": "2022: 53780, 2021: 45991"
+            },
+            {
+              "key": "TOTAL LIABILITIES",
+              "value": "2022: 188009, 2021: 181751"
+            },
+            {
+              "key": "Issued capital",
+              "value": "2022: 108035, 2021: 108035"
+            },
+            {
+              "key": "Reserves",
+              "value": "2022: 23865, 2021: 17906"
+            },
+            {
+              "key": "Accumulated losses",
+              "value": "2022: -215089, 2021: -191072"
+            },
+            {
+              "key": "TOTAL EQUITY",
+              "value": "2022: -83189, 2021: -65131"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 85,
+          "title": "Income Statement",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "2022: 466588, 2021: 564350"
+            },
+            {
+              "key": "Other income",
+              "value": "2022: 39545, 2021: 23672"
+            },
+            {
+              "key": "Cost of goods sold",
+              "value": "2022: -237990, 2021: -238748"
+            },
+            {
+              "key": "Expenses (excluding finance costs)",
+              "value": "2022: -264976, 2021: -296037"
+            },
+            {
+              "key": "Transaction and restructuring costs",
+              "value": "2022: -960, 2021: -5941"
+            },
+            {
+              "key": "Finance costs",
+              "value": "2022: -8040, 2021: -7613"
+            },
+            {
+              "key": "Impairment of brand names",
+              "value": "2022: -5813, 2021: -8419"
+            },
+            {
+              "key": "Impairment of goodwill",
+              "value": "2022: 0, 2021: -13565"
+            },
+            {
+              "key": "(Loss) / profit before income tax",
+              "value": "2022: -11646, 2021: 17699"
+            },
+            {
+              "key": "Income tax benefit / (expense)",
+              "value": "2022: 3714, 2021: -10535"
+            },
+            {
+              "key": "(Loss) / profit",
+              "value": "2022: -7932, 2021: 7164"
+            },
+            {
+              "key": "Foreign currency translation",
+              "value": "2022: -147, 2021: 128"
+            },
+            {
+              "key": "Other comprehensive income, net of tax",
+              "value": "2022: -147, 2021: 128"
+            },
+            {
+              "key": "Total comprehensive income for the year",
+              "value": "2022: -8079, 2021: 7292"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 86,
+          "title": "Consolidated Statement of Financial Position",
+          "data": [
+            {
+              "key": "current_assets_total",
+              "value": "144721"
+            },
+            {
+              "key": "previous_assets_total",
+              "value": "148828"
+            },
+            {
+              "key": "non_current_assets_total",
+              "value": "155223"
+            },
+            {
+              "key": "previous_non_current_assets_total",
+              "value": "160834"
+            },
+            {
+              "key": "total_assets_current",
+              "value": "299944"
+            },
+            {
+              "key": "total_assets_previous",
+              "value": "309662"
+            },
+            {
+              "key": "current_liabilities_total",
+              "value": "282816"
+            },
+            {
+              "key": "previous_liabilities_total",
+              "value": "289523"
+            },
+            {
+              "key": "non_current_liabilities_total",
+              "value": "91463"
+            },
+            {
+              "key": "previous_non_current_liabilities_total",
+              "value": "87091"
+            },
+            {
+              "key": "total_liabilities_current",
+              "value": "374279"
+            },
+            {
+              "key": "total_liabilities_previous",
+              "value": "376614"
+            },
+            {
+              "key": "net_assets_current",
+              "value": "-74335"
+            },
+            {
+              "key": "net_assets_previous",
+              "value": "-66952"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 87,
+          "title": "EQUITY Statement",
+          "data": [
+            {
+              "key": "2022 Total Equity",
+              "value": "-74335"
+            },
+            {
+              "key": "2021 Total Equity",
+              "value": "-66952"
+            },
+            {
+              "key": "Issued Capital 2022",
+              "value": "108035"
+            },
+            {
+              "key": "Issued Capital 2021",
+              "value": "108034"
+            },
+            {
+              "key": "Reserves 2022",
+              "value": "49266"
+            },
+            {
+              "key": "Reserves 2021",
+              "value": "26212"
+            },
+            {
+              "key": "Accumulated Losses 2022",
+              "value": "-231636"
+            },
+            {
+              "key": "Accumulated Losses 2021",
+              "value": "-201198"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 87,
+          "title": "Reconciliation of Cash Flows from Operating Activities with Profit after income tax",
+          "data": [
+            {
+              "key": "2022 Profit After Tax",
+              "value": "-11456"
+            },
+            {
+              "key": "2021 Profit After Tax",
+              "value": "2710"
+            },
+            {
+              "key": "Depreciation 2022",
+              "value": "72216"
+            },
+            {
+              "key": "Depreciation 2021",
+              "value": "93110"
+            },
+            {
+              "key": "Amortisation 2022",
+              "value": "2350"
+            },
+            {
+              "key": "Amortisation 2021",
+              "value": "3730"
+            },
+            {
+              "key": "Cash Flow Reversal 2022",
+              "value": "-16676"
+            },
+            {
+              "key": "Cash Flow Reversal 2021",
+              "value": "N/A"
+            },
+            {
+              "key": "Write off of Stock 2022",
+              "value": "7025"
+            },
+            {
+              "key": "Write off of Stock 2021",
+              "value": "6000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 88,
+          "title": "(LOSS) / EARNINGS PER SHARE",
+          "data": [
+            {
+              "key": "(Loss) / Profit after income tax",
+              "value": "2022: -11,456, 2021: 2,715"
+            },
+            {
+              "key": "(Loss) / Profit after income tax attributable to the owners of Mosaic Brands Limited",
+              "value": "2022: -11,456, 2021: 2,715"
+            },
+            {
+              "key": "Weighted average number of ordinary shares - basic earnings per share",
+              "value": "2022: 102,921, 2021: 96,690"
+            },
+            {
+              "key": "Weighted average number of ordinary shares - diluted earnings per share",
+              "value": "2022: 102,921, 2021: 96,690"
+            },
+            {
+              "key": "Basic (loss) / earnings per share (cents)",
+              "value": "2022: -11.13, 2021: 2.81"
+            },
+            {
+              "key": "Diluted (loss) / earnings per share (cents)",
+              "value": "2022: -11.13, 2021: 2.81"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 72,
+          "title": "Borrowings Breakdown 2021",
+          "data": [
+            {
+              "key": "Current Borrowings",
+              "value": "$16,450,000"
+            },
+            {
+              "key": "Commercial Hire Purchase Liabilities",
+              "value": "$12,000"
+            },
+            {
+              "key": "Bank Loans",
+              "value": "$10,000,000"
+            },
+            {
+              "key": "Loans from Related Parties",
+              "value": "$6,438,000"
+            },
+            {
+              "key": "Total Current Borrowings",
+              "value": "$16,450,000"
+            },
+            {
+              "key": "Non-Current Borrowings",
+              "value": "$15,000,000"
+            },
+            {
+              "key": "Total Bank Loans",
+              "value": "$32,861,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 72,
+          "title": "Credit Facilities Overview 2021",
+          "data": [
+            {
+              "key": "Bank Card Total",
+              "value": "$507,000"
+            },
+            {
+              "key": "Market Rate Facility",
+              "value": "$25,000,000"
+            },
+            {
+              "key": "Related Party Finance Facilities",
+              "value": "$6,500,000"
+            },
+            {
+              "key": "Bank Guarantees and Lines of Credit",
+              "value": "$6,585,000"
+            },
+            {
+              "key": "Total Credit Facilities Available",
+              "value": "$38,592,000"
+            },
+            {
+              "key": "Total Credit Facilities Unused",
+              "value": "$317,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 77,
+          "title": "Interest Payments on Convertible Notes",
+          "data": [
+            {
+              "key": "Interest Payment Date",
+              "value": "31 December 2021"
+            },
+            {
+              "key": "Status",
+              "value": "Capitalised"
+            },
+            {
+              "key": "Interest Payment Date",
+              "value": "31 March 2022"
+            },
+            {
+              "key": "Status",
+              "value": "Paid"
+            },
+            {
+              "key": "Interest Payment Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Status",
+              "value": "Capitalised"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 77,
+          "title": "Issued Capital",
+          "data": [
+            {
+              "key": "Balance at the beginning of the financial year 2022",
+              "value": "$108,034,000"
+            },
+            {
+              "key": "Balance at the beginning of the financial year 2021",
+              "value": "$108,034,000"
+            },
+            {
+              "key": "Ordinary shares 2022",
+              "value": "$108,034,000"
+            },
+            {
+              "key": "Ordinary shares 2021",
+              "value": "$108,034,000"
+            },
+            {
+              "key": "Balance at the beginning of the financial period 2022",
+              "value": "$96,662,930"
+            },
+            {
+              "key": "Balance at the beginning of the financial period 2021",
+              "value": "$96,812,930"
+            },
+            {
+              "key": "Issue of shares during the period 2022",
+              "value": "10,900,000"
+            },
+            {
+              "key": "Issue of shares during the period 2021",
+              "value": "0"
+            },
+            {
+              "key": "Share buy-back 2022",
+              "value": "0"
+            },
+            {
+              "key": "Share buy-back 2021",
+              "value": "-$150,000"
+            },
+            {
+              "key": "Balance at the end of the financial period 2022",
+              "value": "$107,562,930"
+            },
+            {
+              "key": "Balance at the end of the financial period 2021",
+              "value": "$96,662,930"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 77,
+          "title": "Reserves Composition",
+          "data": [
+            {
+              "key": "Equity reserve 2022",
+              "value": "$5,000"
+            },
+            {
+              "key": "Equity reserve 2021",
+              "value": "$4,430"
+            },
+            {
+              "key": "Foreign currency translation reserve 2022",
+              "value": "$522"
+            },
+            {
+              "key": "Foreign currency translation reserve 2021",
+              "value": "$220"
+            },
+            {
+              "key": "Dividend profit reserve 2022",
+              "value": "$40,980"
+            },
+            {
+              "key": "Dividend profit reserve 2021",
+              "value": "$26,640"
+            },
+            {
+              "key": "Total reserves 2022",
+              "value": "$46,502"
+            },
+            {
+              "key": "Total reserves 2021",
+              "value": "$31,297"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 79,
+          "title": "Capital Structure and Gearing Analysis",
+          "data": [
+            {
+              "key": "Total debt",
+              "value": "$31,450,000"
+            },
+            {
+              "key": "Total equity",
+              "value": "-$74,201,000"
+            },
+            {
+              "key": "Total capital",
+              "value": "-$42,751,000"
+            },
+            {
+              "key": "Gearing ratio",
+              "value": "-73.6%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 79,
+          "title": "US Dollar Purchase Maturity Analysis",
+          "data": [
+            {
+              "key": "Buy US dollars",
+              "value": "Less than 1 year"
+            },
+            {
+              "key": "2022 $'000",
+              "value": "47,444"
+            },
+            {
+              "key": "2021 $000",
+              "value": "42,391"
+            },
+            {
+              "key": "2022 $",
+              "value": "0.7020"
+            },
+            {
+              "key": "2021 $",
+              "value": "0.7623"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 80,
+          "title": "Financial Risk Management",
+          "data": [
+            {
+              "key": "Price Risk",
+              "value": "Fair value changes relating to equity risk associated with the equity conversion feature of the convertible notes are recognised in profit or loss."
+            },
+            {
+              "key": "Interest Rate Risk",
+              "value": "The Group’s main interest rate risk arises from loans and borrowings."
+            },
+            {
+              "key": "Liquidity Risk",
+              "value": "Liquidity risk arises from the possibility that the Group might encounter difficulty in settling its debts or otherwise meeting its obligations related to financial liabilities."
+            },
+            {
+              "key": "Fair Value of Financial Instruments",
+              "value": "Requires the disclosure of fair value of financial instruments according to the fair value hierarchy."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 80,
+          "title": "Comparison of Financial Liabilities",
+          "data": [
+            {
+              "key": "Commercial hire purchase 2022",
+              "value": "$8,000,000, 6.21%"
+            },
+            {
+              "key": "Bank loans 2022",
+              "value": "$33,280,000, 3.04%"
+            },
+            {
+              "key": "Financial liability — convertible note 2022",
+              "value": "$25,069,000, 8.00%"
+            },
+            {
+              "key": "Loans from related parties 2021",
+              "value": "$6,438,000, 3.74%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 80,
+          "title": "Maturity Profile Analysis 2021",
+          "data": [
+            {
+              "key": "Maturity < 1 month",
+              "value": "$116,880,000"
+            },
+            {
+              "key": "Maturity 1-3 months",
+              "value": "$64,813,000"
+            },
+            {
+              "key": "Maturity 3 - 12 months",
+              "value": "$96,475,000"
+            },
+            {
+              "key": "Maturity > 1 year",
+              "value": "$71,235,000"
+            },
+            {
+              "key": "Total",
+              "value": "$349,403,000"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 3,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "section",
+              "value": "Performance Highlights"
+            },
+            {
+              "key": "page",
+              "value": "04"
+            },
+            {
+              "key": "section",
+              "value": "Digital Highlights"
+            },
+            {
+              "key": "page",
+              "value": "05"
+            },
+            {
+              "key": "section",
+              "value": "Chairman's Report"
+            },
+            {
+              "key": "page",
+              "value": "06"
+            },
+            {
+              "key": "section",
+              "value": "Board of Directors"
+            },
+            {
+              "key": "page",
+              "value": "12"
+            },
+            {
+              "key": "section",
+              "value": "Our Brands"
+            },
+            {
+              "key": "page",
+              "value": "14"
+            },
+            {
+              "key": "section",
+              "value": "Big Growth"
+            },
+            {
+              "key": "page",
+              "value": "28"
+            },
+            {
+              "key": "section",
+              "value": "Big Experience"
+            },
+            {
+              "key": "page",
+              "value": "30"
+            },
+            {
+              "key": "section",
+              "value": "Our People, Our Culture"
+            },
+            {
+              "key": "page",
+              "value": "34"
+            },
+            {
+              "key": "section",
+              "value": "Environmental, Social & Corporate Responsibilities"
+            },
+            {
+              "key": "page",
+              "value": "36"
+            },
+            {
+              "key": "section",
+              "value": "Director's Report"
+            },
+            {
+              "key": "page",
+              "value": "38"
+            },
+            {
+              "key": "section",
+              "value": "Financial Statements"
+            },
+            {
+              "key": "page",
+              "value": "50"
+            },
+            {
+              "key": "section",
+              "value": "Additional Information"
+            },
+            {
+              "key": "page",
+              "value": "97"
+            },
+            {
+              "key": "section",
+              "value": "Corporate Directory"
+            },
+            {
+              "key": "page",
+              "value": "99"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 9,
+          "title": "Monthly Data with COVID-Related Events",
+          "data": [
+            {
+              "key": "July",
+              "value": "75000"
+            },
+            {
+              "key": "August",
+              "value": "400000"
+            },
+            {
+              "key": "September",
+              "value": "400000"
+            },
+            {
+              "key": "October",
+              "value": "85000"
+            },
+            {
+              "key": "November",
+              "value": "90000"
+            },
+            {
+              "key": "December",
+              "value": "340000"
+            },
+            {
+              "key": "January",
+              "value": "140000"
+            },
+            {
+              "key": "February",
+              "value": "90000"
+            },
+            {
+              "key": "March",
+              "value": "180000"
+            },
+            {
+              "key": "April",
+              "value": "140000"
+            },
+            {
+              "key": "May",
+              "value": "180000"
+            },
+            {
+              "key": "June",
+              "value": "320000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 31,
+          "title": "MOSAIC BRANDS LIMITED ANNUAL REPORT 2022",
+          "data": [
+            {
+              "key": "Customer Focus",
+              "value": "Customers are at the heart of everything we do."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 40,
+          "title": "Directors' Report",
+          "data": [
+            {
+              "key": "Reporting Entity",
+              "value": "Mosaic Brands Limited and its controlled entities"
+            },
+            {
+              "key": "Financial Year Ended",
+              "value": "3 July 2022"
+            },
+            {
+              "key": "Impact of COVID-19",
+              "value": "Lockdowns and variants causing impacts on operations."
+            },
+            {
+              "key": "Convertible Notes Debt Component",
+              "value": "Measured at amortised cost"
+            },
+            {
+              "key": "Convertible Notes Equity Component",
+              "value": "Measured at fair value through profit or loss as per notes 22 and 26"
+            },
+            {
+              "key": "Market Volatility",
+              "value": "Significant fluctuations during COVID-19 pandemic."
+            },
+            {
+              "key": "Debt Facility Completed",
+              "value": "$49,000,000 finance facility from Commonwealth Bank."
+            },
+            {
+              "key": "Trade Finance Facility",
+              "value": "$25,000,000 with a seasonal $10,000,000 step-up removed."
+            },
+            {
+              "key": "Working Capital Facility",
+              "value": "$20,000,000"
+            },
+            {
+              "key": "Guarantee and Credit Facility",
+              "value": "$4,000,000 with term ending August 2024."
+            },
+            {
+              "key": "Directors",
+              "value": "Richard Facioni, Scott Evans, David Wilshire, Jacqueline Frank"
+            },
+            {
+              "key": "Principal Activities",
+              "value": "Operates nine retail clothing brands in Australia and New Zealand."
+            },
+            {
+              "key": "Dividends",
+              "value": "No dividends declared or paid during the current financial year."
+            },
+            {
+              "key": "Guidance Update",
+              "value": "Withdrew guidance due to adverse trading conditions."
+            },
+            {
+              "key": "EziBuy Acquisition",
+              "value": "Acquired remaining 49.9% shares for $11,000,000."
+            },
+            {
+              "key": "Convertible Notes Issued",
+              "value": "$32,017,808 via 32,017,808 notes at $1.00 each."
+            },
+            {
+              "key": "Interest Rate",
+              "value": "8% payable quarterly."
+            },
+            {
+              "key": "Conversion of Notes",
+              "value": "Notes convertible into ordinary shares from 30 September 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 42,
+          "title": "Directors' Report Outlook",
+          "data": [
+            {
+              "key": "Withdrawn Guidance Reason",
+              "value": "Adverse trading conditions due to Omicron disruptions."
+            },
+            {
+              "key": "Focus of Strategy",
+              "value": "Big Growth Strategy focusing on Big Digital and Big Stores."
+            },
+            {
+              "key": "Meeting Attendance Summary",
+              "value": "High attendance for board meetings (16-17 out of 18). Only Richard attended all committee meetings."
+            },
+            {
+              "key": "Independent Director",
+              "value": "Jacqueline Frank."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 59,
+          "title": "Critical accounting estimates and judgments",
+          "data": [
+            {
+              "key": "Financial reporting period",
+              "value": "28 June 2021 to 3 July 2022"
+            },
+            {
+              "key": "Comparative reporting period",
+              "value": "29 June 2020 to 27 June 2021"
+            },
+            {
+              "key": "Rounding policy",
+              "value": "Amounts rounded to the nearest thousand dollars"
+            },
+            {
+              "key": "GST treatment",
+              "value": "Revenues, expenses and assets recognised net of GST"
+            },
+            {
+              "key": "Superannuation contribution",
+              "value": "10% fixed contribution for 2022, increasing to 10.5% from 1st July 2022"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 65,
+          "title": "Analysis of deferred tax liabilities",
+          "data": [
+            {
+              "key": "Depreciation and amortisation temporary differences",
+              "value": "662"
+            },
+            {
+              "key": "Brand names",
+              "value": "4892"
+            },
+            {
+              "key": "Trademarks",
+              "value": "14"
+            },
+            {
+              "key": "Foreign currency balances",
+              "value": "3568"
+            },
+            {
+              "key": "Right-of-use assets",
+              "value": "22317"
+            },
+            {
+              "key": "Lease incentive",
+              "value": "702"
+            },
+            {
+              "key": "Other temporary differences",
+              "value": "13"
+            },
+            {
+              "key": "Total deferred tax liabilities",
+              "value": "32168"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 71,
+          "title": "Brand Performance and Sensitivity Analysis",
+          "data": [
+            {
+              "key": "2020 Total Value",
+              "value": "$19,026,000"
+            },
+            {
+              "key": "2020 Impairment Expense",
+              "value": "($2,719,000)"
+            },
+            {
+              "key": "2021 Total Value",
+              "value": "$16,307,000"
+            },
+            {
+              "key": "2021 Impairment Expense",
+              "value": "($5,813,000)"
+            },
+            {
+              "key": "2022 Total Value",
+              "value": "$10,494,000"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 71,
+          "title": "Payables and Liabilities Breakdown 2021",
+          "data": [
+            {
+              "key": "Trade payable",
+              "value": "$95.8M"
+            },
+            {
+              "key": "Accruals",
+              "value": "$38.1M"
+            },
+            {
+              "key": "Stock in transit",
+              "value": "$18.8M"
+            },
+            {
+              "key": "Sundry payables",
+              "value": "$42.0M"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 78,
+          "title": "Dividends Paid and Financial Risk Management",
+          "data": [
+            {
+              "key": "Equity reserve description",
+              "value": "The equity reserve is used to record the value of the share based payments provided to employees."
+            },
+            {
+              "key": "Dividend profit reserve transfer",
+              "value": "The Directors decided to transfer the profit for the period ended 26 December 2021 of $14,340,000 to the dividend profit reserve."
+            },
+            {
+              "key": "Final dividend status",
+              "value": "No final dividend declared due to the continuing impact of the COVID-19 pandemic."
+            },
+            {
+              "key": "Franking credits for 2022",
+              "value": "Franking credits available for future financial years: 7,267,000."
+            },
+            {
+              "key": "Financial risk management overview",
+              "value": "The Group’s overall risk management program focuses on the unpredictability of financial markets."
+            },
+            {
+              "key": "Capital risk management",
+              "value": "Management controls the capital of the Group to maintain a sustainable debt to equity ratio."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 90,
+          "title": "Guidance Update due to Adverse Trading Conditions",
+          "data": [
+            {
+              "key": "Event Date",
+              "value": "8 June 2022"
+            },
+            {
+              "key": "Impact",
+              "value": "Adverse trading conditions due to Omicron disruption"
+            },
+            {
+              "key": "Guidance Status",
+              "value": "Withdrew guidance"
+            },
+            {
+              "key": "Facilities Affected",
+              "value": "Access to seasonal working capital facility removed"
+            },
+            {
+              "key": "New Facility",
+              "value": "New step up facility being finalised"
+            },
+            {
+              "key": "Material Impact",
+              "value": "Not expected to have a material impact on operations"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 93,
+          "title": "Key Audit Matters",
+          "data": [
+            {
+              "key": "Going concern",
+              "value": "At year end the total liabilities of the Group exceeds its total assets by $84.8m (2021: $74.2m) and the current liabilities exceeded current assets by $153.6m (2021: $152.9m). Management disclosed their considerations regarding their conclusion that the going concern basis of accounting is appropriate."
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "Evaluating the Group’s assumptions and estimates used in their cash flow forecasting by assessing the historical accuracy of the prior year cash flow forecast compares to current year actual cash flows and testing the accuracy of the cash flow forecast for July and August 2022."
+            },
+            {
+              "key": "Management Assessment",
+              "value": "Evaluating and challenging management’s assessment of future cash flows up to and beyond 12 months from the date of this report."
+            },
+            {
+              "key": "Financing Facilities",
+              "value": "Inspecting current financing facilities available to the Group by reviewing agreements in place with finance providers."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 94,
+          "title": "Independent Auditor's Report on Valuation of Inventory",
+          "data": [
+            {
+              "key": "carrying_value",
+              "value": "$116.7m (2021: $110.1m)"
+            },
+            {
+              "key": "audit_procedures",
+              "value": "Considering and testing the design and operating effectiveness of key inventory controls; discussing with management the Group’s current performance; evaluating underlying assumptions applied in the inventory obsolescence provision."
+            },
+            {
+              "key": "management_judgements",
+              "value": "categorisation of inventories; fragmentation and sell through rates; shrinkage"
+            },
+            {
+              "key": "significant_management_judgements",
+              "value": "key judgments related to the provision for obsolescence and shrinkage."
+            },
+            {
+              "key": "reversal_of_impairment_loss",
+              "value": "$16.7m (2021: impairment loss of $11.7m)"
+            },
+            {
+              "key": "audit_procedures_impairment_loss",
+              "value": "Evaluating assumptions and estimates for impairment; testing accuracy of impairment calculations."
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 52,
+          "title": "AUDITOR'S INDEPENDENCE DECLARATION",
+          "data": [
+            {
+              "key": "Auditor Name",
+              "value": "John Bresolin"
+            },
+            {
+              "key": "Company Name",
+              "value": "Mosaic Brands Limited"
+            },
+            {
+              "key": "Audit Year Ended",
+              "value": "3 July 2022"
+            },
+            {
+              "key": "Independence Declaration",
+              "value": "No contraventions of the auditor independence requirements of the Corporations Act 2001 and no contraventions of any applicable code of professional conduct."
+            },
+            {
+              "key": "Declaration Date",
+              "value": "31 August 2022"
+            },
+            {
+              "key": "Audit Firm",
+              "value": "BDO Audit Pty Ltd"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 7,
+          "title": "ESG Commitment and Initiatives",
+          "data": [
+            {
+              "key": "ESG Transparency Recognition",
+              "value": "Mosaic Brands announced as one of the national retailers leading in transparency in ESG-related matters in the fashion industry."
+            },
+            {
+              "key": "Board Commitment to ESG",
+              "value": "The Board sees ESG as a journey that requires continuous improvement."
+            },
+            {
+              "key": "Key Focus Areas",
+              "value": "Implementation of leading environmental, social, and corporate governance (ESG) policies."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 28,
+          "title": "BIG GROWTH STRATEGY",
+          "data": [
+            {
+              "key": "description",
+              "value": "A strategic diagram showing two main pillars of growth strategy"
+            },
+            {
+              "key": "layout",
+              "value": "Hierarchical organizational chart"
+            },
+            {
+              "key": "footer_text",
+              "value": "EVERYTHING SHE WANTS, WHERE SHE WANTS IT"
+            },
+            {
+              "key": "root_node",
+              "value": "BIG BRANDS"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 33,
+          "title": "Corporate Mission Statement",
+          "data": [
+            {
+              "key": "Quote",
+              "value": "We focus on innovation and delivering a more personalised, emotive experience."
+            },
+            {
+              "key": "Visual Elements",
+              "value": "Corporate quote in black text, Partial interior space photograph, Minimalist beige/white background"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 34,
+          "title": "Mosaic Academy Online Traineeship Program",
+          "data": [
+            {
+              "key": "Program Launch Date",
+              "value": "April 2021"
+            },
+            {
+              "key": "Total Enrolled Team Members",
+              "value": "271"
+            },
+            {
+              "key": "Certificate III Graduates",
+              "value": "166"
+            },
+            {
+              "key": "Total Graduates in FY22",
+              "value": "105"
+            },
+            {
+              "key": "Certifications Offered",
+              "value": "Certificate III in Retail, Certificate IV in Retail"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 35,
+          "title": "Diversity and Inclusion at Mosaic Brands",
+          "data": [
+            {
+              "key": "Diversity Statistics",
+              "value": "Over 95% of Mosaic Brands team members are female."
+            },
+            {
+              "key": "Department Heads Gender Ratio",
+              "value": "69% of Mosaic's Department Heads are female."
+            },
+            {
+              "key": "Community Representation",
+              "value": "Stores & support centres reflect communities, including diverse ethnic & cultural backgrounds, ability levels, and LGBTQI+ identifications."
+            },
+            {
+              "key": "Company Policy",
+              "value": "Mosaic Brands prides itself on being a diverse employer."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 36,
+          "title": "ENVIRONMENTAL, SOCIAL & CORPORATE RESPONSIBILITES",
+          "data": [
+            {
+              "key": "description",
+              "value": "The page describes the company's FY22 commitment to ESG initiatives, focusing on continuous engagement and policy review."
+            },
+            {
+              "key": "background_image",
+              "value": "Forest or woodland background with green foliage."
+            },
+            {
+              "key": "footer",
+              "value": "EVERYTHING SHE WANTS, WHERE SHE WANTS IT, WHEN SHE WANTS IT"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 37,
+          "title": "Our Initiatives & Commitments",
+          "data": [
+            {
+              "key": "Modern Slavery",
+              "value": "Combat modern slavery through purchasing practices, collaboration with suppliers and stakeholders"
+            },
+            {
+              "key": "Traceability",
+              "value": "Maintain ability to identify and trace product production through internal procedures"
+            },
+            {
+              "key": "Transparency",
+              "value": "Commitment to transparency in supply chain and garment production"
+            },
+            {
+              "key": "Sustainability",
+              "value": "Focus on social and environmental issues, long-term commitments with stakeholders"
+            },
+            {
+              "key": "Minimum Wage",
+              "value": "Ensure minimum wage requirements across regions and countries"
+            },
+            {
+              "key": "Living Wage",
+              "value": "Commitment to improving working conditions beyond minimum wage requirements"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 409,
+    "EUR": 1,
+    "AUD": 103,
+    "CAD": 4
+  },
+  "sha1": "12bff07b957b1c8f8cad9d917ca18005720cce9b"
+}

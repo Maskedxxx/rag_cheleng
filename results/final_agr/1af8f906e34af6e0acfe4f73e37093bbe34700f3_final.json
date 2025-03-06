@@ -1,0 +1,4597 @@
+{
+  "letters": 217875,
+  "pages": 86,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 6
+    },
+    "company_name": "BetMakers Technology Group Ltd",
+    "major_industry": "Technology",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 3,
+          "title": "Annual Report for BetMakers Technology Group Ltd",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "BetMakers Technology Group Ltd"
+            },
+            {
+              "key": "ABN",
+              "value": "21 164 521 395"
+            },
+            {
+              "key": "Report Date",
+              "value": "30 June 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 4,
+          "title": "Corporate directory",
+          "data": [
+            {
+              "key": "Chief Executive Officer",
+              "value": "[Full Name]"
+            },
+            {
+              "key": "Directors",
+              "value": "[Names]"
+            },
+            {
+              "key": "Auditor",
+              "value": "[Auditor's Firm]"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 24,
+          "title": "Directors' Report 30 June 2022",
+          "data": [
+            {
+              "key": "Sales Revenue Loss After Income Tax",
+              "value": "91,681,939 (89,234,269)"
+            },
+            {
+              "key": "Share Price at Financial Year End ($)",
+              "value": "0.34"
+            },
+            {
+              "key": "Basic Earnings per Share (cents per share)",
+              "value": "(10.21)"
+            },
+            {
+              "key": "Financial Performance Summary",
+              "value": "Notable trends include significant increase in sales revenue loss in 2022 compared to previous years, and consistently negative earnings per share across all years."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 24,
+          "title": "Shares Under Option",
+          "data": [
+            {
+              "key": "Total Number of Options Granted to KMP",
+              "value": "5,500,000"
+            },
+            {
+              "key": "Total Number of Options Granted to Non-KMP Employees",
+              "value": "5,650,000"
+            },
+            {
+              "key": "Total Number of Options Granted to External Parties",
+              "value": "32,000,000"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 24,
+          "title": "Shares Issued on Exercise of Options",
+          "data": [
+            {
+              "key": "Number of Shares Issued in December 2019",
+              "value": "9,000,006"
+            },
+            {
+              "key": "Shares Issued in August 2019",
+              "value": "2,059,218"
+            },
+            {
+              "key": "Shares Issued in October 2019",
+              "value": "59,322"
+            },
+            {
+              "key": "Shares Issued in January 2020",
+              "value": "90,789"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 33,
+          "title": "Notes to the financial statements 30 June 2022 - General Information",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "BetMakers Technology Group Ltd"
+            },
+            {
+              "key": "Nature of Operations",
+              "value": "Technology and services in betting and gambling industry"
+            },
+            {
+              "key": "Currency",
+              "value": "Australian dollars"
+            },
+            {
+              "key": "Incorporation",
+              "value": "Incorporated and domiciled in Australia"
+            },
+            {
+              "key": "Registered Office",
+              "value": "Suite 19, Level 2 50 Glebe Road The Junction, NSW 2291"
+            },
+            {
+              "key": "Directors' Resolution Date",
+              "value": "26 August 2022"
+            },
+            {
+              "key": "Accounting Policies",
+              "value": "Consistently applied, aligned with Australian Accounting Standards and International Financial Reporting Standards"
+            },
+            {
+              "key": "Consolidation Principles",
+              "value": "Assets and liabilities of all subsidiaries are incorporated as per control"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 34,
+          "title": "Significant accounting policies",
+          "data": [
+            {
+              "key": "Intercompany transactions",
+              "value": "Eliminated between group entities."
+            },
+            {
+              "key": "Acquisition accounting method",
+              "value": "Acquisition method of accounting used."
+            },
+            {
+              "key": "Change in ownership interest",
+              "value": "Accounted for as an equity transaction without loss of control."
+            },
+            {
+              "key": "Foreign currency translation",
+              "value": "Presented in Australian dollars."
+            },
+            {
+              "key": "Revenue recognition",
+              "value": "Revenue recognized based on consideration expected in exchange for goods/services."
+            },
+            {
+              "key": "Global Racing Network revenue",
+              "value": "Recognized in profit or loss once service has been rendered."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 50,
+          "title": "Consolidated Intangible Assets Movement Schedule",
+          "data": [
+            {
+              "key": "Balance at 1 July 2020",
+              "value": "Goodwill $'000: 14456, property $'000: 595, contracts $'000: 0, Software $'000: 5021, Total $'000: 20072"
+            },
+            {
+              "key": "Additions Additions business combinations",
+              "value": "Goodwill $'000: 0, property $'000: 0, contracts $'000: 0, Software $'000: 140, Total $'000: 140"
+            },
+            {
+              "key": "through (note 29) Amortisation expense",
+              "value": "Goodwill $'000: 29849, property $'000: 10135, contracts $'000: 0, Software $'000: 9941, Total $'000: 49925"
+            },
+            {
+              "key": "Balance at 30 June 2021 Additions",
+              "value": "Goodwill $'000: 44305, property $'000: 10387, contracts $'000: 0, Software $'000: 13281, Total $'000: 67973"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "Goodwill $'000: 30548, property $'000: 10388, contracts $'000: 9333, Software $'000: 15493, Total $'000: 65762"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 50,
+          "title": "Goodwill Allocation Impairment Testing",
+          "data": [
+            {
+              "key": "Global racing network (2022)",
+              "value": "$1,367"
+            },
+            {
+              "key": "Global racing network (2021)",
+              "value": "$1,367"
+            },
+            {
+              "key": "Global betting services (2022)",
+              "value": "$15,015"
+            },
+            {
+              "key": "Global betting services (2021)",
+              "value": "$16,662"
+            },
+            {
+              "key": "Total (2022)",
+              "value": "$30,548"
+            },
+            {
+              "key": "Total (2021)",
+              "value": "$44,306"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 67,
+          "title": "Balance Sheet Summary",
+          "data": [
+            {
+              "key": "Total current assets",
+              "value": "-"
+            },
+            {
+              "key": "Total assets",
+              "value": "94,005"
+            },
+            {
+              "key": "Total current liabilities",
+              "value": "-"
+            },
+            {
+              "key": "Total liabilities",
+              "value": "-"
+            },
+            {
+              "key": "Equity issued capital",
+              "value": "252,486"
+            },
+            {
+              "key": "Share-based payments reserve",
+              "value": "66,295"
+            },
+            {
+              "key": "Accumulated losses",
+              "value": "(224,776)"
+            },
+            {
+              "key": "Total equity",
+              "value": "94,005"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 68,
+          "title": "Business Acquisition Statement",
+          "data": [
+            {
+              "key": "Total consideration transferred",
+              "value": "62732"
+            },
+            {
+              "key": "Net assets acquired",
+              "value": "46640"
+            },
+            {
+              "key": "Goodwill",
+              "value": "16092"
+            },
+            {
+              "key": "Major assets acquired: Software",
+              "value": "16800"
+            },
+            {
+              "key": "Major assets acquired: Cash and cash equivalents",
+              "value": "13079"
+            },
+            {
+              "key": "Major assets acquired: Customer contracts",
+              "value": "10000"
+            },
+            {
+              "key": "Acquisition costs expensed",
+              "value": "2805"
+            },
+            {
+              "key": "Net cash used for acquisition",
+              "value": "49653"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 69,
+          "title": "Business Combinations and Subsidiaries Overview",
+          "data": [
+            {
+              "key": "Business Combination Details",
+              "value": "Business combinations achieved in stages with asset and liability measurement details."
+            },
+            {
+              "key": "Goodwill Recognition",
+              "value": "Difference recognition as goodwill if purchase price exceeds the value of net assets acquired."
+            },
+            {
+              "key": "Subsidiary Overview",
+              "value": "100% ownership and control of various subsidiaries across multiple countries."
+            },
+            {
+              "key": "Subsidiaries List",
+              "value": "Operis Momentus Pty Ltd (Australia), 12Follow Pty Ltd (Australia), OM IP Pty Ltd (Australia), The Global Tote Australia Limited (Australia), The Global Tote Limited (Alderney), BetMakers DNA Pty Ltd (Australia), DynamicOdds Pty Ltd (Australia), C.D.K. Software Limited (New Zealand), Managed Trading Services Pty Ltd (Australia), Bookies Card Pty Ltd (Australia), BetMakers US Inc. (USA), eBet Technologies Inc (USA), Sportech Racing Canada Inc (Canada), Datatote (England) Limited (England and Wales), Racing Technology Ireland Limited (Ireland), Sportech France SAS (France)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 79,
+          "title": "Business Combinations and Acquisition Accounting",
+          "data": [
+            {
+              "key": "Acquisition Date",
+              "value": "17 June 2021"
+            },
+            {
+              "key": "Effective Date for Provisional Accounting",
+              "value": "31 June 2021"
+            },
+            {
+              "key": "Finalization Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Goodwill and Intangible Balances",
+              "value": "Reallocation occurred"
+            },
+            {
+              "key": "Acquisition Details",
+              "value": "Significant expansion of existing operations"
+            },
+            {
+              "key": "Purchase Price Allocation Report",
+              "value": "Assessed for accuracy and reasonableness"
+            },
+            {
+              "key": "Audit Challenge",
+              "value": "Accounting for business combinations and acquisition accounting considered a Key Audit Matter."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 81,
+          "title": "Other Information and Auditor’s Responsibilities",
+          "data": [
+            {
+              "key": "Material Misstatement",
+              "value": "We conclude that there is no material misstatement of this Other Information in the Financial Report."
+            },
+            {
+              "key": "Directors' Responsibilities",
+              "value": "Preparation of the financial report that gives a true and fair view in accordance with Australian Accounting Standards."
+            },
+            {
+              "key": "Going Concern Assumptions",
+              "value": "Directors are responsible for assessing the consolidated entity’s ability to continue as a going concern."
+            },
+            {
+              "key": "Auditor’s Responsibilities",
+              "value": "Obtain reasonable assurance that the financial report is free from material misstatement."
+            },
+            {
+              "key": "Risks of Misstatement",
+              "value": "Misstatements can arise from fraud or error and are considered material if they could influence decisions."
+            },
+            {
+              "key": "Audit Procedures",
+              "value": "Identify and assess risks, design and perform audit procedures, obtain audit evidence."
+            },
+            {
+              "key": "Evaluation of Accounting Policies",
+              "value": "Evaluate appropriateness of accounting policies and reasonableness of estimates."
+            },
+            {
+              "key": "Disclosure of Uncertainties",
+              "value": "Draw attention in auditor's report if there is material uncertainty regarding going concern."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 5,
+          "title": "Corporate Directory and Governance Information",
+          "data": [
+            {
+              "key": "Directors",
+              "value": "Nicholas Chan - Chairman"
+            },
+            {
+              "key": "Directors",
+              "value": "Todd Buckingham"
+            },
+            {
+              "key": "Directors",
+              "value": "Simon Dulhunty"
+            },
+            {
+              "key": "Directors",
+              "value": "Rebekah Giles"
+            },
+            {
+              "key": "Directors",
+              "value": "Anna Massion"
+            },
+            {
+              "key": "Company secretary",
+              "value": "Charly Duffy"
+            },
+            {
+              "key": "Notice of annual general meeting",
+              "value": "The 2022 Annual General Meeting will be held on 22 November 2022, at Suite Level 2 50 Glebe Road, The Junction NSW 2291, unless otherwise notified."
+            },
+            {
+              "key": "Registered office",
+              "value": "Suite 19, Level 2, 50 Glebe Road, The Junction, NSW 2291 Head office telephone: (02) 4957 4704"
+            },
+            {
+              "key": "Share register",
+              "value": "Computershare Investor Services Pty Limited Level 4, 60 Carrington Street Sydney, NSW 2000 Share registry telephone: 1300 787 272"
+            },
+            {
+              "key": "Solicitors",
+              "value": "Coghlan Duffy & Co Level 42, Rialto South Tower, 525 Collins Street Melbourne, VIC 3000"
+            },
+            {
+              "key": "Stock exchange listing Website",
+              "value": "BetMakers Technology Group Ltd shares are listed on the Australian Securities Exchange (ASX code: BET) http://betmakers.com"
+            },
+            {
+              "key": "Corporate Governance Statement",
+              "value": "The directors and management are committed to conducting the business of BetMakers Technology Group Ltd in an ethical manner and in accordance with highest standards of corporate governance. BetMakers Technology Group Ltd adopted and has substantially complied with the ASX Corporate Governance Principles and Recommendations (Fourth Edition) ('Recommendations') to the appropriate to the size and nature of its operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 6,
+          "title": "CEO's Report",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "BetMakers Technology Group Ltd"
+            },
+            {
+              "key": "Financial Year",
+              "value": "FY22"
+            },
+            {
+              "key": "Revenue",
+              "value": "$91.6 mil"
+            },
+            {
+              "key": "Adjusted EBITDA",
+              "value": "+ $2.2 mil"
+            },
+            {
+              "key": "Key Appointments",
+              "value": "Rebekah Giles, Anna Massion, Christian Stuart, Sam Adams, Dan McDonald"
+            },
+            {
+              "key": "Number of Employees",
+              "value": "500"
+            },
+            {
+              "key": "Regulatory Licenses",
+              "value": "45"
+            },
+            {
+              "key": "Countries of Operation",
+              "value": "30"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "leadership_change",
+          "page": 13,
+          "title": "BetMakers Technology Group Ltd Directors' Report 30 June 2022",
+          "data": [
+            {
+              "key": "COVID-19 Impact",
+              "value": "The consequences of the Coronavirus (COVID-19) pandemic are ongoing, and its impact on the Group, if any, has been reflected in its published results to date. It is not possible at this time to state that the pandemic will not subsequently impact the Group's operations going forward. The Group now has experience in the swift implementation of business continuation processes, and these processes continue to evolve to minimise any operational disruption. Management continues to monitor the situation both locally and internationally."
+            },
+            {
+              "key": "Current Directors",
+              "value": "Nicholas Chan, Chairman and Non-Executive Director; Todd Buckingham, Managing Director and Chief Executive Officer."
+            },
+            {
+              "key": "Nicholas Chan Experience and Expertise",
+              "value": "Nicholas (Nick) Chan has more than 30 years’ experience in media and has held senior leadership and operational roles with leading Australian media companies. Most recently Group Chief Operating Officer at Seven West Media."
+            },
+            {
+              "key": "Todd Buckingham Experience and Expertise",
+              "value": "Todd Buckingham has more than 20 years’ experience working in the Sports and Wagering industry in Australia. After completing a double bachelor’s degree in 2000, Todd taught for 5 years at Hunter Sports High School while working as a sports manager."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 14,
+          "title": "Directors' report 30 June 2022",
+          "data": [
+            {
+              "key": "Simon Dulhunty",
+              "value": "Non-Executive Director. Experience: Over 25 years in media, former Fairfax Media executive. Operates a private consultancy."
+            },
+            {
+              "key": "Rebekah Giles",
+              "value": "Non-Executive Director – appointed 8 February 2022. Experience: 20 years as legal practitioner, principal director of boutique legal firm."
+            },
+            {
+              "key": "Anna Massion",
+              "value": "Non-Executive Director – appointed 3 March 2022. Experience: Independent Non-Executive Director on several boards, background in finance."
+            },
+            {
+              "key": "Other Current Directorships",
+              "value": "None"
+            },
+            {
+              "key": "Former Directorships (Last 3 years)",
+              "value": "None"
+            },
+            {
+              "key": "Special Responsibilities",
+              "value": "Member, Audit & Risk Committee; Member, Nomination & Remuneration Committee."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 15,
+          "title": "Matt Davey Resignation",
+          "data": [
+            {
+              "key": "Director",
+              "value": "Matt Davey"
+            },
+            {
+              "key": "Position",
+              "value": "Non-Executive Director (Non-independent)"
+            },
+            {
+              "key": "Resignation Date",
+              "value": "21 April 2022"
+            },
+            {
+              "key": "Experience",
+              "value": "Matt Davey has a deep knowledge of the US gaming and wagering market. Former CEO of NYX Gaming Group."
+            },
+            {
+              "key": "Current Directorships",
+              "value": "Executive Director, Tekkorp Digital Acquisition Corp (NASDAQ: TEKK)"
+            },
+            {
+              "key": "Former Directorships (Last 3 Years)",
+              "value": "None"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 15,
+          "title": "Board Composition and Skills Matrix",
+          "data": [
+            {
+              "key": "Total Board Members",
+              "value": "5"
+            },
+            {
+              "key": "Independent Non-Executive Directors",
+              "value": "4"
+            },
+            {
+              "key": "Executive Directors",
+              "value": "1"
+            },
+            {
+              "key": "Key Skills",
+              "value": "Bookmaking and betting industry experience, Information technology, Business acquisition and integration skills, Financial literacy, Legal and regulatory knowledge, Diversity, Policy and regulatory development, Health and safety, Organisational development"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 15,
+          "title": "Directors' Attendance Records",
+          "data": [
+            {
+              "key": "Director",
+              "value": "Nicholas Chan"
+            },
+            {
+              "key": "Meetings Attended",
+              "value": "13/13"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 15,
+          "title": "Nomination & Remuneration Committee",
+          "data": [
+            {
+              "key": "Chair Appointed",
+              "value": "Rebekah Giles"
+            },
+            {
+              "key": "Date",
+              "value": "29 July 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 15,
+          "title": "Audit & Risk Committee",
+          "data": [
+            {
+              "key": "Chair Appointed",
+              "value": "Anna Massion"
+            },
+            {
+              "key": "Date",
+              "value": "29 July 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 27,
+          "title": "Directors' Report and Auditor's Independence Declaration",
+          "data": [
+            {
+              "key": "Document Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Chairman",
+              "value": "Nicholas Chan"
+            },
+            {
+              "key": "Director",
+              "value": "Todd Buckingham"
+            },
+            {
+              "key": "Report Date",
+              "value": "26 August 2022"
+            },
+            {
+              "key": "Location",
+              "value": "Sydney"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 76,
+          "title": "Directors' Declaration",
+          "data": [
+            {
+              "key": "Company",
+              "value": "BetMakers Technology Group Ltd"
+            },
+            {
+              "key": "Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Statement",
+              "value": "The attached financial statements and notes comply with the Corporations Act 2001, Accounting Standards, and other mandatory reporting requirements."
+            },
+            {
+              "key": "Conformance",
+              "value": "Comply with International Financial Reporting Standards"
+            },
+            {
+              "key": "True and Fair View",
+              "value": "Gives a true and fair view of the group's financial position as at 30 June 2022."
+            },
+            {
+              "key": "Ability to Pay Debts",
+              "value": "Reasonable grounds to believe that the company will be able to pay its debts."
+            },
+            {
+              "key": "Signatories",
+              "value": "Nicholas Chan (Chairman), Todd Buckingham (Director)"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": true,
+      "elements": [
+        {
+          "type": "layoff",
+          "page": 54,
+          "title": "Employee benefits",
+          "data": [
+            {
+              "key": "Employee benefits obligation expected to be settled after 12 months",
+              "value": "2022: 1208, 2021: 774"
+            },
+            {
+              "key": "Summary",
+              "value": "The table shows employee benefits obligations that are expected to be settled after 12 months. There is a significant increase from 774 in 2021 to 1,208 in 2022, representing approximately a 56% rise in long-term employee benefit obligations."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "layoff",
+          "page": 54,
+          "title": "Non-current Liabilities Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Non-current liabilities Deferred consideration Lease make good",
+              "value": "2022 $'000: 7,500 115, 2021 $'000: 8,750 76"
+            },
+            {
+              "key": "Summary",
+              "value": "The table shows non-current liabilities comparison between 2022 and 2021, with values in thousands of dollars. It includes deferred consideration and lease make good provisions. There is a general decrease in liabilities from 2021 to 2022, with total figures dropping from approximately $9.1M in 2021 to $8.4M in 2022. The deferred consideration decreased from $8,750K to $7,500K, while lease make good provisions increased slightly from $76K to $115K."
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 7,
+          "title": "CEO Report for FY22",
+          "data": [
+            {
+              "key": "Key Deals",
+              "value": "Executed agreement to be the exclusive technology provider to the NTD consortium, with potential revenues in excess of $300m over 10 years. Launched 12 additional platforms in the Australian market. Executed a further 8 platform agreements across Australia, US, and Canada which are due to launch this year. Executed an amended agreement with the New Jersey Thoroughbred Horsemen Association extending the term for BetMakers to exclusively manage fixed odds betting on thoroughbred horse racing in New Jersey. Expanded North American content to more than 12,000 races annually. Executed a binding Heads of Agreement to become the exclusive provider of pari-mutuel betting racing services to Caesars Entertainment Inc. brick-and-mortar retail sportsbook locations in Nevada. Selected as the new tote and technology and services provider for Norway under a 10-year agreement. Extended Parimutuel services agreement with Monmouth Park for a further 5 years."
+            },
+            {
+              "key": "FY23 Growth / Expectation",
+              "value": "The outlook for FY23 looks exciting with a focus on executing the Company strategy and realizing growth opportunities. Benefits from signed deals in FY22 anticipated to flow throughout FY23."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 16,
+          "title": "Remuneration Report (Audited)",
+          "data": [
+            {
+              "key": "KMP Definition",
+              "value": "Persons having authority and responsibility for planning, directing and controlling the major activities of the Group, directly or indirectly."
+            },
+            {
+              "key": "Use of Remuneration Consultants",
+              "value": "The Nomination & Remuneration Committee may receive advice from external advisors regarding remuneration."
+            },
+            {
+              "key": "Engagement of third-party advisor",
+              "value": "The Group engaged a third-party advisor to review existing remuneration policies."
+            },
+            {
+              "key": "Objectives of Executive Reward Framework",
+              "value": "Align executive reward with strategic objectives; attract, motivate and retain high performance; deliver transparency."
+            },
+            {
+              "key": "Responsibility for Remuneration",
+              "value": "The Board reviews remuneration arrangements for directors and executives."
+            },
+            {
+              "key": "Non-Executive Directors' Remuneration",
+              "value": "Reflects the demands and responsibilities of their role; reviewed annually."
+            },
+            {
+              "key": "Aggregate Non-Executive Directors' Remuneration",
+              "value": "Determined at AGM; latest approval on 22 November 2021 for $850,000 per annum."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 17,
+          "title": "Executive Compensation Structure",
+          "data": [
+            {
+              "key": "Component Inclusions",
+              "value": "Base salary, superannuation and other benefits"
+            },
+            {
+              "key": "Cash incentives",
+              "value": "Cash incentives"
+            },
+            {
+              "key": "Options, and/or performance rights",
+              "value": "Options, and/or performance rights"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 17,
+          "title": "Executive Summary of Short-Term Performance Incentives",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "The Group provides bi-annual short-term performance incentives (STI) in the form of variable at risk remuneration."
+            },
+            {
+              "key": "Period",
+              "value": "1 July to 31 December, 1 January to 30 June"
+            },
+            {
+              "key": "Criteria",
+              "value": "Business performance KPIs and personal performance KPIs based on approved personal performance agreement."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 17,
+          "title": "Long-Term Incentives",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "Board may grant options and/or performance rights to eligible participants."
+            },
+            {
+              "key": "Vesting Conditions",
+              "value": "Each award represents a right to receive one share once the award vests and is exercised."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 18,
+          "title": "Directors' report - Executive Remuneration",
+          "data": [
+            {
+              "key": "Executive Remuneration Framework",
+              "value": "The Board will determine the terms and conditions of awards under the LTIP."
+            },
+            {
+              "key": "LTIP Review",
+              "value": "The Group intends to establish the new LTIP framework during H1 FY2023."
+            },
+            {
+              "key": "Link to Group Performance",
+              "value": "Remuneration for certain individuals is directly linked to the performance of the Group."
+            },
+            {
+              "key": "AGM Vote Support",
+              "value": "78.11% of votes supported the adoption of the remuneration report for the year ended 30 June 2021."
+            },
+            {
+              "key": "Key Management Personnel",
+              "value": "List of KMP provided in the report."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 19,
+          "title": "Executive and Non-Executive Director Compensation",
+          "data": [
+            {
+              "key": "Total Compensation",
+              "value": "$12,072,829"
+            },
+            {
+              "key": "Notable Executive",
+              "value": "Todd Buckingham"
+            },
+            {
+              "key": "Notable Executive Compensation",
+              "value": "$9,789,249"
+            },
+            {
+              "key": "Overall Analysis",
+              "value": "Executive KMP generally received higher compensation than Non-Executive Directors, with significant portions coming from performance rights and cash bonuses."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 19,
+          "title": "Employee Benefits and Compensation Table 2021",
+          "data": [
+            {
+              "key": "2021 Total Compensation",
+              "value": "$3,112,021"
+            },
+            {
+              "key": "Highest Compensation 2021",
+              "value": "Todd Buckingham ($2,092,375)"
+            },
+            {
+              "key": "Non-Executive Directors Scope",
+              "value": "Range from $26,250 to $100,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 20,
+          "title": "Directors' report 30 June 2022",
+          "data": [
+            {
+              "key": "Short Term Incentive (STI) payment date",
+              "value": "January 2021"
+            },
+            {
+              "key": "Operational targets achievement",
+              "value": "100% achieved"
+            },
+            {
+              "key": "Oliver Shanahan status",
+              "value": "No longer KMP"
+            },
+            {
+              "key": "Nicholas Chan performance",
+              "value": "100%"
+            },
+            {
+              "key": "Simon Dulhunty performance",
+              "value": "100%"
+            },
+            {
+              "key": "Rebekah Giles performance",
+              "value": "N/A"
+            },
+            {
+              "key": "Anna Massion performance",
+              "value": "N/A"
+            },
+            {
+              "key": "Matt Davey performance",
+              "value": "100%"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 20,
+          "title": "Performance Metrics Summary",
+          "data": [
+            {
+              "key": "Executive Todd Buckingham performance",
+              "value": "100% (2022), 100% (2021)"
+            },
+            {
+              "key": "Executive Jake Henson performance",
+              "value": "30% (2022), 78% (2021)"
+            },
+            {
+              "key": "Executive Anthony Pullin performance",
+              "value": "35% (2022), 80% (2021)"
+            },
+            {
+              "key": "Executive Oliver Shanahan performance",
+              "value": "N/A (2022), 78% (2021)"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 20,
+          "title": "Service Agreement for Todd Buckingham",
+          "data": [
+            {
+              "key": "Title",
+              "value": "Managing Director and Chief Executive Officer"
+            },
+            {
+              "key": "Agreement commencement date",
+              "value": "16 February 2021"
+            },
+            {
+              "key": "Term of agreement",
+              "value": "To 30 June 2024"
+            },
+            {
+              "key": "Total fixed remuneration",
+              "value": "$350,000 per annum"
+            },
+            {
+              "key": "Motor vehicle allowance",
+              "value": "$20,000 per annum"
+            },
+            {
+              "key": "Annual STI eligibility",
+              "value": "up to 150% of total fixed remuneration"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 21,
+          "title": "Directors' Report - Executive Compensation Details",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Jake Henson"
+            },
+            {
+              "key": "Title",
+              "value": "Chief Operating Officer"
+            },
+            {
+              "key": "Agreement commenced",
+              "value": "16 May 2022"
+            },
+            {
+              "key": "Term of agreement",
+              "value": "Ongoing basis"
+            },
+            {
+              "key": "Annual Salary",
+              "value": "$350,000 (excluding superannuation)"
+            },
+            {
+              "key": "Incentives",
+              "value": "mandatory superannuation contributions, short-term performance incentives, long-term performance incentives"
+            },
+            {
+              "key": "Notice Period",
+              "value": "three months"
+            },
+            {
+              "key": "Restraint on Solicitation",
+              "value": "12 months"
+            },
+            {
+              "key": "Name",
+              "value": "Anthony Pullin"
+            },
+            {
+              "key": "Title",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Agreement commenced",
+              "value": "16 May 2022"
+            },
+            {
+              "key": "Term of agreement",
+              "value": "Ongoing basis"
+            },
+            {
+              "key": "Annual Salary",
+              "value": "$280,000 (excluding superannuation)"
+            },
+            {
+              "key": "Incentives",
+              "value": "mandatory superannuation contributions, short-term performance incentives, long-term performance incentives"
+            },
+            {
+              "key": "Notice Period",
+              "value": "three months"
+            },
+            {
+              "key": "Restraint on Solicitation",
+              "value": "12 months"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 22,
+          "title": "Directors' Report 30 June 2022",
+          "data": [
+            {
+              "key": "Director",
+              "value": "Mike Henson"
+            },
+            {
+              "key": "Amount Received (options)",
+              "value": "3,000,000"
+            },
+            {
+              "key": "Director",
+              "value": "Anthony Pullin"
+            },
+            {
+              "key": "Amount Received (options)",
+              "value": "2,500,000"
+            },
+            {
+              "key": "Total Amount",
+              "value": "5,500,000"
+            },
+            {
+              "key": "Performance Rights Granted",
+              "value": "5,000,000 to id Buckingham"
+            },
+            {
+              "key": "Grant Date",
+              "value": "29/04/2021"
+            },
+            {
+              "key": "Exercisable Date",
+              "value": "30/06/2022"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "30/06/2023"
+            },
+            {
+              "key": "Price",
+              "value": "$0.000"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 23,
+          "title": "Service Rights",
+          "data": [
+            {
+              "key": "Director",
+              "value": "h Giles*"
+            },
+            {
+              "key": "Rights Granted",
+              "value": "37,537"
+            },
+            {
+              "key": "Grant Date",
+              "value": "7/02/2022"
+            },
+            {
+              "key": "Exercisable Date",
+              "value": "7/02/2023"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "7/02/2037"
+            },
+            {
+              "key": "Price",
+              "value": "$0.000"
+            },
+            {
+              "key": "Grant Price",
+              "value": "$0.750"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 23,
+          "title": "Service Rights",
+          "data": [
+            {
+              "key": "Director",
+              "value": "assion*"
+            },
+            {
+              "key": "Rights Granted",
+              "value": "166,113"
+            },
+            {
+              "key": "Grant Date",
+              "value": "3/03/2022"
+            },
+            {
+              "key": "Exercisable Date",
+              "value": "3/03/2023"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "3/03/2023"
+            },
+            {
+              "key": "Price",
+              "value": "$0.000"
+            },
+            {
+              "key": "Grant Price",
+              "value": "$0.610"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 25,
+          "title": "Shares Under Performance Rights",
+          "data": [
+            {
+              "key": "Grant Date",
+              "value": "7 May 2020 *"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "Expiry 25 July 2022"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.180"
+            },
+            {
+              "key": "Quantity",
+              "value": "Rights 1"
+            },
+            {
+              "key": "Grant Date",
+              "value": "7 May 2020 *"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "25 January 2023"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.180"
+            },
+            {
+              "key": "Quantity",
+              "value": "1"
+            },
+            {
+              "key": "Grant Date",
+              "value": "9 April 2021 **"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "30 June 2023"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.000"
+            },
+            {
+              "key": "Quantity",
+              "value": "5,000,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "9 April 2021"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "30 June 2024"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.000"
+            },
+            {
+              "key": "Quantity",
+              "value": "5,000,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "9 April 2021"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "30 June 2025"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.000"
+            },
+            {
+              "key": "Quantity",
+              "value": "5,000,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "9 April 2021"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "30 June 2025"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.000"
+            },
+            {
+              "key": "Quantity",
+              "value": "5,000,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "9 April 2021"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "30 June 2025"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.000"
+            },
+            {
+              "key": "Quantity",
+              "value": "5,000,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "9 April 2021 ***"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "1 February 2023"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.000"
+            },
+            {
+              "key": "Quantity",
+              "value": "35,000,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "9 April 2021 ***"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "1 February 2023"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.000"
+            },
+            {
+              "key": "Quantity",
+              "value": "32,000,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "3 June 2021"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "30 June 2025"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.000"
+            },
+            {
+              "key": "Quantity",
+              "value": "14,250,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "1 January 2022"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "31 January 2024"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.000"
+            },
+            {
+              "key": "Quantity",
+              "value": "2,000,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "8 January 2022"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "30 June 2025"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.000"
+            },
+            {
+              "key": "Quantity",
+              "value": "9,900,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "4 June 2022"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "30 June 2025"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.000"
+            },
+            {
+              "key": "Quantity",
+              "value": "500,000"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 65,
+          "title": "Audit Services Cost Comparison",
+          "data": [
+            {
+              "key": "Audit services - PKF(NS) Audit & Assurance Limited Partnership (2022)",
+              "value": "$"
+            },
+            {
+              "key": "Audit services - PKF(NS) Audit & Assurance Limited Partnership (2021)",
+              "value": "$"
+            },
+            {
+              "key": "Audit or review of the financial statements Other services Other PKF related entities (2022)",
+              "value": "381,477"
+            },
+            {
+              "key": "Audit or review of the financial statements Other services Other PKF related entities (2021)",
+              "value": "142,500"
+            },
+            {
+              "key": "Other services (2022)",
+              "value": "9,300"
+            },
+            {
+              "key": "Other services (2021)",
+              "value": "5,000"
+            },
+            {
+              "key": "Total (2022)",
+              "value": "390,777"
+            },
+            {
+              "key": "Total (2021)",
+              "value": "147,500"
+            },
+            {
+              "key": "Audit services - BDO LLP (2022)",
+              "value": ""
+            },
+            {
+              "key": "Audit services - BDO LLP (2021)",
+              "value": ""
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 65,
+          "title": "Employee Benefits Compensation Summary",
+          "data": [
+            {
+              "key": "Short-term employee benefits (2022)",
+              "value": "1,751,150"
+            },
+            {
+              "key": "Short-term employee benefits (2021)",
+              "value": "1,332,710"
+            },
+            {
+              "key": "Post-employment benefits (2022)",
+              "value": "120,145"
+            },
+            {
+              "key": "Post-employment benefits (2021)",
+              "value": "124,111"
+            },
+            {
+              "key": "Share-based payments (2022)",
+              "value": "10,201,534"
+            },
+            {
+              "key": "Share-based payments (2021)",
+              "value": "1,655,190"
+            },
+            {
+              "key": "Total Compensation (2022)",
+              "value": "12,072,829"
+            },
+            {
+              "key": "Total Compensation (2021)",
+              "value": "3,112,020"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 72,
+          "title": "Share-based payments",
+          "data": [
+            {
+              "key": "Grant Date",
+              "value": "12/11/2015"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "21/06/2022"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.060"
+            },
+            {
+              "key": "Balance Start",
+              "value": "16,667,000"
+            },
+            {
+              "key": "Exercised",
+              "value": "(16,667,000)"
+            },
+            {
+              "key": "Balance End",
+              "value": "-"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 72,
+          "title": "Share-based payments",
+          "data": [
+            {
+              "key": "Grant Date",
+              "value": "3/07/2017"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "31/10/2020"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.300"
+            },
+            {
+              "key": "Balance Start",
+              "value": "1,954,681"
+            },
+            {
+              "key": "Exercised",
+              "value": "(586,404)"
+            },
+            {
+              "key": "Expired Forfeited",
+              "value": "(1,368,277)"
+            },
+            {
+              "key": "Balance End",
+              "value": "-"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 72,
+          "title": "Share-based payments",
+          "data": [
+            {
+              "key": "Grant Date",
+              "value": "29/04/2021"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "01/02/2023"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.700"
+            },
+            {
+              "key": "Balance Start",
+              "value": "-"
+            },
+            {
+              "key": "Granted",
+              "value": "32,000,000"
+            },
+            {
+              "key": "Balance End",
+              "value": "32,000,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 73,
+          "title": "Share-based payments and Performance Rights Summary",
+          "data": [
+            {
+              "key": "Grant Date",
+              "value": "27/05/2020"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "25/07/2021"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.180"
+            },
+            {
+              "key": "Start of Year",
+              "value": "1"
+            },
+            {
+              "key": "Granted",
+              "value": "-"
+            },
+            {
+              "key": "Exercised",
+              "value": "(1)"
+            },
+            {
+              "key": "Expired/Forfeited",
+              "value": "-"
+            },
+            {
+              "key": "End of Year",
+              "value": ""
+            },
+            {
+              "key": "Grant Date",
+              "value": "27/05/2020"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "25/01/2022"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "$0.180"
+            },
+            {
+              "key": "Start of Year",
+              "value": "1"
+            },
+            {
+              "key": "Granted",
+              "value": "-"
+            },
+            {
+              "key": "Exercised",
+              "value": "(1)"
+            },
+            {
+              "key": "Expired/Forfeited",
+              "value": "-"
+            },
+            {
+              "key": "End of Year",
+              "value": ""
+            },
+            {
+              "key": "Grant Date",
+              "value": "04/2021"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "30/06/2023"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "0.000"
+            },
+            {
+              "key": "Start of Year",
+              "value": "5,000,000"
+            },
+            {
+              "key": "Granted",
+              "value": "-"
+            },
+            {
+              "key": "Exercised",
+              "value": "-"
+            },
+            {
+              "key": "Expired/Forfeited",
+              "value": "-"
+            },
+            {
+              "key": "End of Year",
+              "value": "5,000,001"
+            },
+            {
+              "key": "Grant Date",
+              "value": "04/2021"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "01/02/2023"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "0.000"
+            },
+            {
+              "key": "Start of Year",
+              "value": "35,000,000"
+            },
+            {
+              "key": "Granted",
+              "value": "-"
+            },
+            {
+              "key": "Exercised",
+              "value": "-"
+            },
+            {
+              "key": "Expired/Forfeited",
+              "value": "-"
+            },
+            {
+              "key": "End of Year",
+              "value": "35,000,001"
+            },
+            {
+              "key": "Grant Date",
+              "value": "06/2021"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "30/06/2025"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "0.000"
+            },
+            {
+              "key": "Start of Year",
+              "value": "15,050,000"
+            },
+            {
+              "key": "Granted",
+              "value": "-"
+            },
+            {
+              "key": "Exercised",
+              "value": "-"
+            },
+            {
+              "key": "Expired/Forfeited",
+              "value": "(800,000)"
+            },
+            {
+              "key": "End of Year",
+              "value": "14,250,000"
+            },
+            {
+              "key": "Grant Date",
+              "value": "01/2022"
+            },
+            {
+              "key": "Expiry Date",
+              "value": "31/01/2024"
+            },
+            {
+              "key": "Exercise Price",
+              "value": "0.000"
+            },
+            {
+              "key": "Start of Year",
+              "value": "-"
+            },
+            {
+              "key": "Granted",
+              "value": "2,000,000"
+            },
+            {
+              "key": "Exercised",
+              "value": "-"
+            },
+            {
+              "key": "Expired/Forfeited",
+              "value": "-"
+            },
+            {
+              "key": "End of Year",
+              "value": "2,000,001"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 74,
+          "title": "Share-based payments",
+          "data": [
+            {
+              "key": "Total share-based payment expense (2022)",
+              "value": "$71,029,000"
+            },
+            {
+              "key": "Total share-based payment expense (2021)",
+              "value": "$12,358,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 82,
+          "title": "Auditor’s Responsibilities for the Audit of the Financial Report",
+          "data": [
+            {
+              "key": "Audit Opinion",
+              "value": "In our opinion, the Remuneration Report of Betmakers Technology Group Limited for the year ended 30 June 2022, complies with section 300A of the Corporations Act 2001."
+            },
+            {
+              "key": "Director's Responsibilities",
+              "value": "The directors of the Group are responsible for the preparation and presentation of the Remuneration Report in accordance with section 300A of the Corporations Act 2001."
+            },
+            {
+              "key": "Auditor's Responsibility",
+              "value": "Our responsibility is to express an opinion on the Remuneration Report, based on our audit conducted in accordance with Australian Auditing Standards."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 83,
+          "title": "Shareholder Information for BetMakers Technology Group Ltd",
+          "data": [
+            {
+              "key": "Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Total Shareholders",
+              "value": "16,004"
+            },
+            {
+              "key": "Major Shareholders Count",
+              "value": "20"
+            },
+            {
+              "key": "Top Holder",
+              "value": "HSBC CUSTODY NOMINEES (AUSTRALIA) LIMITED"
+            },
+            {
+              "key": "Percentage Top Holder",
+              "value": "14.68%"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 10,
+          "title": "Launch of Fixed Odds Betting in New Jersey",
+          "data": [
+            {
+              "key": "Event",
+              "value": "Launch of fixed odds betting on thoroughbred racing"
+            },
+            {
+              "key": "Date",
+              "value": "6 May 2022"
+            },
+            {
+              "key": "Location",
+              "value": "Monmouth Park"
+            },
+            {
+              "key": "Contract Length",
+              "value": "15 years"
+            },
+            {
+              "key": "Parties Involved",
+              "value": "BetMakers Technology Group, Darby Development LLC, New Jersey Thoroughbred Horseman Association"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 38,
+          "title": "Operating Segments and Critical Accounting Judgements",
+          "data": [
+            {
+              "key": "Report Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Segment 1",
+              "value": "Global Racing Network"
+            },
+            {
+              "key": "Segment 2",
+              "value": "Global Betting Services"
+            },
+            {
+              "key": "Segment 3",
+              "value": "Global Tote"
+            },
+            {
+              "key": "Intersegment Transactions",
+              "value": "None"
+            },
+            {
+              "key": "Major Customers",
+              "value": "No customers represented more than 10% of revenue."
+            },
+            {
+              "key": "Previous Year Major Customer",
+              "value": "Largest customer represented 24% of revenue in the year ended 30 June 2021."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 42,
+          "title": "Financial Expenses Breakdown",
+          "data": [
+            {
+              "key": "Leasehold improvements",
+              "value": "59"
+            },
+            {
+              "key": "Plant and equipment",
+              "value": "1765"
+            },
+            {
+              "key": "Computer equipment",
+              "value": "282"
+            },
+            {
+              "key": "Furniture and fittings",
+              "value": "87"
+            },
+            {
+              "key": "Buildings right-of-use assets",
+              "value": "1198"
+            },
+            {
+              "key": "Total depreciation",
+              "value": "3391"
+            },
+            {
+              "key": "Software",
+              "value": "5008"
+            },
+            {
+              "key": "Intellectual property",
+              "value": "616"
+            },
+            {
+              "key": "Customer contracts",
+              "value": "667"
+            },
+            {
+              "key": "Total amortisation",
+              "value": "6291"
+            },
+            {
+              "key": "Total depreciation and amortisation",
+              "value": "9682"
+            },
+            {
+              "key": "Employee benefits expense",
+              "value": "44616"
+            },
+            {
+              "key": "Defined contribution superannuation expense",
+              "value": "2165"
+            },
+            {
+              "key": "Total employee benefits",
+              "value": "46781"
+            },
+            {
+              "key": "Interest and finance charges paid/payable on borrowings",
+              "value": "0"
+            },
+            {
+              "key": "Interest and finance charges paid/payable on lease liabilities",
+              "value": "218"
+            },
+            {
+              "key": "Other finance costs",
+              "value": "323"
+            },
+            {
+              "key": "Finance costs expensed",
+              "value": "541"
+            },
+            {
+              "key": "Deal costs",
+              "value": "16461"
+            },
+            {
+              "key": "Others",
+              "value": "360"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 47,
+          "title": "Notes to the financial statements",
+          "data": [
+            {
+              "key": "Item",
+              "value": "Leasehold improvements - at cost"
+            },
+            {
+              "key": "Value1",
+              "value": "665"
+            },
+            {
+              "key": "Accumulated depreciation1",
+              "value": "-247"
+            },
+            {
+              "key": "Net value1",
+              "value": "418"
+            },
+            {
+              "key": "Value2",
+              "value": "209"
+            },
+            {
+              "key": "Accumulated depreciation2",
+              "value": "-151"
+            },
+            {
+              "key": "Net value2",
+              "value": "58"
+            },
+            {
+              "key": "Item",
+              "value": "Plant and equipment - at cost"
+            },
+            {
+              "key": "Value1",
+              "value": "25554"
+            },
+            {
+              "key": "Accumulated depreciation1",
+              "value": "-1825"
+            },
+            {
+              "key": "Net value1",
+              "value": "23729"
+            },
+            {
+              "key": "Value2",
+              "value": "10966"
+            },
+            {
+              "key": "Accumulated depreciation2",
+              "value": "-100"
+            },
+            {
+              "key": "Net value2",
+              "value": "10866"
+            },
+            {
+              "key": "Item",
+              "value": "Computer equipment - at cost"
+            },
+            {
+              "key": "Value1",
+              "value": "1289"
+            },
+            {
+              "key": "Accumulated depreciation1",
+              "value": "-786"
+            },
+            {
+              "key": "Net value1",
+              "value": "503"
+            },
+            {
+              "key": "Value2",
+              "value": "865"
+            },
+            {
+              "key": "Accumulated depreciation2",
+              "value": "-504"
+            },
+            {
+              "key": "Net value2",
+              "value": "361"
+            },
+            {
+              "key": "Item",
+              "value": "Furniture and fittings - at cost"
+            },
+            {
+              "key": "Value1",
+              "value": "429"
+            },
+            {
+              "key": "Accumulated depreciation1",
+              "value": "-254"
+            },
+            {
+              "key": "Net value1",
+              "value": "175"
+            },
+            {
+              "key": "Value2",
+              "value": "290"
+            },
+            {
+              "key": "Accumulated depreciation2",
+              "value": "-172"
+            },
+            {
+              "key": "Net value2",
+              "value": "118"
+            },
+            {
+              "key": "Total Non-current assets",
+              "value": "24825"
+            },
+            {
+              "key": "Total Non-current assets (Previous)",
+              "value": "11403"
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "Financial Performance Summary (in $'000)",
+          "data": [
+            {
+              "key": "Revenues from ordinary activities",
+              "value": "$91.7 million (up 371.1%)"
+            },
+            {
+              "key": "Loss from ordinary activities after tax",
+              "value": "-$89.2 million (up 411.1%)"
+            },
+            {
+              "key": "Loss for the year",
+              "value": "-$89.2 million (up 411.1%)"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "Net Tangible Assets Statement",
+          "data": [
+            {
+              "key": "Net assets 2022",
+              "value": "$189,286,000"
+            },
+            {
+              "key": "Intangibles Less: assets 2022",
+              "value": "-$65,762,000"
+            },
+            {
+              "key": "Right-of-use (ROU) Less: Lease liabilities current 2022",
+              "value": "-$4,873,000"
+            },
+            {
+              "key": "Add: Lease liabilities - non-current 2022",
+              "value": "$4,630,000"
+            },
+            {
+              "key": "Net tangible assets 2022",
+              "value": "$123,871,000"
+            },
+            {
+              "key": "Number of ordinary shares on issue 2022",
+              "value": "904,456,198"
+            },
+            {
+              "key": "Net tangible assets per ordinary security 2022",
+              "value": "13.70 cents"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 2,
+          "title": "BetMakers Technology Group Ltd Appendix 4E Preliminary final report",
+          "data": [
+            {
+              "key": "Loss of control over entities",
+              "value": "Not applicable."
+            },
+            {
+              "key": "Details of associates and joint venture entities",
+              "value": "Not applicable."
+            },
+            {
+              "key": "Foreign entities",
+              "value": "Currently all accounting policies of the group are consistent with those adopted by its ultimate holding company, BetMakers Technology Group Ltd."
+            },
+            {
+              "key": "Audit qualification or review",
+              "value": "The financial statements have been audited and an unmodified opinion has been issued."
+            },
+            {
+              "key": "Attachments",
+              "value": "The Annual Report of BetMakers Technology Group Ltd for the year ended 30 June 2022 is attached."
+            },
+            {
+              "key": "Signed",
+              "value": "As authorised by the Board of Directors SH Signed ___________________________ Date: 26 August 2022 Todd Buckingham Director Newcastle"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 8,
+          "title": "Consolidated Financial Performance",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "$91,682 (2022) / $19,458 (2021) - change: 371%"
+            },
+            {
+              "key": "Gross margin",
+              "value": "66,298 (72%) in 2022 / 10,203 (52%) in 2021 - change: 550%"
+            },
+            {
+              "key": "Loss before income tax",
+              "value": "-$96,288 in 2022 / -$20,940 in 2021 - change: 360%"
+            },
+            {
+              "key": "Adjusted EBITDA",
+              "value": "$2,197 in 2022 / -$2,879 in 2021"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 9,
+          "title": "Revenue Performance by Business Segment (2021-2022)",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "91,682"
+            },
+            {
+              "key": "Revenue 2021",
+              "value": "19,458"
+            },
+            {
+              "key": "Change Percentage",
+              "value": "371%"
+            },
+            {
+              "key": "Global Betting Services",
+              "value": "40,607"
+            },
+            {
+              "key": "Global Betting Services 2021",
+              "value": "14,562"
+            },
+            {
+              "key": "Global Betting Services Change Percentage",
+              "value": "179%"
+            },
+            {
+              "key": "Global Tote",
+              "value": "46,939"
+            },
+            {
+              "key": "Global Tote 2021",
+              "value": "1,665"
+            },
+            {
+              "key": "Global Tote Change Percentage",
+              "value": "2,719%"
+            },
+            {
+              "key": "Global Racing Network",
+              "value": "4,136"
+            },
+            {
+              "key": "Global Racing Network 2021",
+              "value": "3,231"
+            },
+            {
+              "key": "Global Racing Network Change Percentage",
+              "value": "28%"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 29,
+          "title": "Financial Statement - BetMakers Technology Group Ltd",
+          "data": [
+            {
+              "key": "Revenue Cost of goods sold",
+              "value": "91,682 (2022); 19,458 (2021)"
+            },
+            {
+              "key": "Cost of goods sold",
+              "value": "(25,384) (2022); (9,255) (2021)"
+            },
+            {
+              "key": "Gross margin",
+              "value": "66,298 (2022); 10,203 (2021)"
+            },
+            {
+              "key": "Employee expense",
+              "value": "(46,781) (2022); (9,110) (2021)"
+            },
+            {
+              "key": "Administration expenses",
+              "value": "(7,624) (2022); (1,801) (2021)"
+            },
+            {
+              "key": "IT expenses",
+              "value": "(3,262) (2022); (693) (2021)"
+            },
+            {
+              "key": "Occupancy expenses",
+              "value": "(1,467) (2022); (205) (2021)"
+            },
+            {
+              "key": "Depreciation and amortisation expense",
+              "value": "(9,682) (2022); (2,698) (2021)"
+            },
+            {
+              "key": "Impairment of receivables",
+              "value": "(772) (2022); (99) (2021)"
+            },
+            {
+              "key": "Share-based payments expense",
+              "value": "(71,029) (2022); (12,358) (2021)"
+            },
+            {
+              "key": "Other expenses",
+              "value": "(16,821) (2022); (3,106) (2021)"
+            },
+            {
+              "key": "Finance costs",
+              "value": "(541) (2022); (101) (2021)"
+            },
+            {
+              "key": "Loss before income tax benefit",
+              "value": "(96,288) (2022); (20,940) (2021)"
+            },
+            {
+              "key": "Income tax benefit",
+              "value": "7,054 (2022); 3,481 (2021)"
+            },
+            {
+              "key": "Net Loss",
+              "value": "(89,234) (2022); (17,459) (2021)"
+            },
+            {
+              "key": "Foreign currency translation",
+              "value": "3,226 (2022); 0 (2021)"
+            },
+            {
+              "key": "Earnings per share (cents)",
+              "value": "(10.21) (2022); (2.59) (2021)"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 30,
+          "title": "Balance Sheet",
+          "data": [
+            {
+              "key": "Total assets",
+              "value": "$223,060,000"
+            },
+            {
+              "key": "Total liabilities",
+              "value": "$33,774,000"
+            },
+            {
+              "key": "Current period cash reserves",
+              "value": "$87,550,000"
+            },
+            {
+              "key": "Change in issued capital",
+              "value": "$26,463,000 (increase)"
+            },
+            {
+              "key": "Current period net assets",
+              "value": "$189,286,000"
+            },
+            {
+              "key": "Previous period net assets",
+              "value": "$195,402,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Consolidated Cash Flow Statement",
+          "data": [
+            {
+              "key": "Cash flows from operating activities: Receipts from customers",
+              "value": "$93,953"
+            },
+            {
+              "key": "Cash flows from operating activities: Payments to suppliers and employees",
+              "value": "-$95,961"
+            },
+            {
+              "key": "Cash flows from operating activities: Payments for deal advisory services",
+              "value": "-$16,461"
+            },
+            {
+              "key": "Cash flows from operating activities: Research and development tax received",
+              "value": "$0"
+            },
+            {
+              "key": "Cash flows from operating activities: Interest received",
+              "value": "$0"
+            },
+            {
+              "key": "Cash flows from operating activities: Other revenue",
+              "value": "$895"
+            },
+            {
+              "key": "Cash flows from operating activities: Interest and other finance costs paid",
+              "value": "-$541"
+            },
+            {
+              "key": "Cash flows from operating activities: Income taxes paid",
+              "value": "-$109"
+            },
+            {
+              "key": "Cash flows from operating activities: Net cash used in operating activities",
+              "value": "-$18,224"
+            },
+            {
+              "key": "Cash flows from investing activities: Payments for purchase of business, net of cash acquired",
+              "value": "-$6,016"
+            },
+            {
+              "key": "Cash flows from investing activities: Payments for property, plant and equipment",
+              "value": "-$15,582"
+            },
+            {
+              "key": "Cash flows from financing activities: Proceeds from issue of shares",
+              "value": "$8,831"
+            },
+            {
+              "key": "Summary: Net increase/(decrease) in cash and cash equivalents",
+              "value": "-$33,058"
+            },
+            {
+              "key": "Summary: Cash and cash equivalents at the end of the financial year",
+              "value": "$87,550"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "BetMakers Technology Group Ltd - Notes to the Financial Statements",
+          "data": [
+            {
+              "key": "Revenue Recognition - Global Betting Services",
+              "value": "Revenue is recognised when services are rendered. GBS includes racing data, analytical tools, and betting products. Revenue derived is either a fixed fee or a percentage of turnover/profit."
+            },
+            {
+              "key": "Revenue Recognition - Global Tote",
+              "value": "Revenue is recognised when services are rendered. Global Tote includes tote software and integrations for liquidity. Revenue is derived as a fixed fee or percentage of turnover."
+            },
+            {
+              "key": "Interest Revenue Recognition",
+              "value": "Interest revenue is recognised as it accrues, using the effective interest method."
+            },
+            {
+              "key": "Current and Non-Current Classification",
+              "value": "Assets and liabilities are classified based on expected realisation/settlement within operating cycle or 12 months."
+            },
+            {
+              "key": "Lease Make Good Provision",
+              "value": "A provision is made for restoration costs of leased premises based on future estimates."
+            },
+            {
+              "key": "Goods and Services Tax (GST) Treatment",
+              "value": "Revenue and expenses are recognised net of GST unless not recoverable. Receivables/payables include GST amounts."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 36,
+          "title": "Notes to the financial statements",
+          "data": [
+            {
+              "key": "Significant accounting policies",
+              "value": "Amounts in this report have been rounded off in accordance with Corporations Instrument 2016/191."
+            },
+            {
+              "key": "New Accounting Standards",
+              "value": "Recently issued or amended but not yet mandatory accounting standards have not been early adopted."
+            },
+            {
+              "key": "AASB 2020-1",
+              "value": "Amends AASB 101 for classification of liabilities as current or non-current."
+            },
+            {
+              "key": "Impact of COVID-19",
+              "value": "Judgement regarding impacts on products, services, customers, supply chain, staffing."
+            },
+            {
+              "key": "Share-based payment transactions",
+              "value": "Measurement based on fair value at the grant date using models."
+            },
+            {
+              "key": "Expected credit losses",
+              "value": "Assessment based on lifetime expected credit loss and judgement."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Global Racing, Betting and Tote Financial Performance 2022",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Sales to external customers"
+            },
+            {
+              "key": "Global Racing Network",
+              "value": "4,136"
+            },
+            {
+              "key": "Global Betting Services",
+              "value": "40,607"
+            },
+            {
+              "key": "Global Tote",
+              "value": "46,939"
+            },
+            {
+              "key": "Total",
+              "value": "91,682"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Global Racing, Betting and Tote Financial Performance 2022",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Total revenue"
+            },
+            {
+              "key": "Global Racing Network",
+              "value": "4,136"
+            },
+            {
+              "key": "Global Betting Services",
+              "value": "40,607"
+            },
+            {
+              "key": "Global Tote",
+              "value": "46,939"
+            },
+            {
+              "key": "Total",
+              "value": "91,682"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Global Racing, Betting and Tote Financial Performance 2022",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Segment result"
+            },
+            {
+              "key": "Global Racing Network",
+              "value": "(949)"
+            },
+            {
+              "key": "Global Betting Services",
+              "value": "9,981"
+            },
+            {
+              "key": "Global Tote",
+              "value": "610"
+            },
+            {
+              "key": "Total",
+              "value": "9,642"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Global Racing, Betting and Tote Financial Performance 2022",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Segment assets"
+            },
+            {
+              "key": "Global Racing Network",
+              "value": "656"
+            },
+            {
+              "key": "Global Betting Services",
+              "value": "52,426"
+            },
+            {
+              "key": "Global Tote",
+              "value": "62,215"
+            },
+            {
+              "key": "Total",
+              "value": "115,297"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Global Racing, Betting and Tote Financial Performance 2022",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Unallocated assets"
+            },
+            {
+              "key": "Global Racing Network",
+              "value": ""
+            },
+            {
+              "key": "Global Betting Services",
+              "value": ""
+            },
+            {
+              "key": "Global Tote",
+              "value": ""
+            },
+            {
+              "key": "Total",
+              "value": "107,763"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Global Racing, Betting and Tote Financial Performance 2022",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Total assets"
+            },
+            {
+              "key": "Global Racing Network",
+              "value": ""
+            },
+            {
+              "key": "Global Betting Services",
+              "value": ""
+            },
+            {
+              "key": "Global Tote",
+              "value": ""
+            },
+            {
+              "key": "Total",
+              "value": "223,060"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 39,
+          "title": "Global Racing, Betting and Tote Financial Performance 2022",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Segment liabilities"
+            },
+            {
+              "key": "Global Racing Network",
+              "value": "623"
+            },
+            {
+              "key": "Global Betting Services",
+              "value": "3,945"
+            },
+            {
+              "key": "Global Tote",
+              "value": "14,570"
+            },
+            {
+              "key": "Total",
+              "value": "19,138"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Consolidated Financial Statement - 2021",
+          "data": [
+            {
+              "key": "Sales to external customers",
+              "value": "Total: 19458"
+            },
+            {
+              "key": "Total revenue",
+              "value": "Total: 19458"
+            },
+            {
+              "key": "Segment result and amortisation",
+              "value": "Total: 3605"
+            },
+            {
+              "key": "Segment assets",
+              "value": "Total: 94440"
+            },
+            {
+              "key": "Segment liabilities",
+              "value": "Total: 24501"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 40,
+          "title": "Revenue Table",
+          "data": [
+            {
+              "key": "Revenue from contracts with customers",
+              "value": "89,167"
+            },
+            {
+              "key": "Other revenue",
+              "value": "2,515"
+            },
+            {
+              "key": "Total revenue",
+              "value": "91,682"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Revenue Analysis by Product Lines and Geographical Regions",
+          "data": [
+            {
+              "key": "Total Revenue 2022",
+              "value": "$91.682 million"
+            },
+            {
+              "key": "Total Revenue 2021",
+              "value": "$19.458 million"
+            },
+            {
+              "key": "Global tote revenue 2022",
+              "value": "$46.939 million"
+            },
+            {
+              "key": "Global tote revenue 2021",
+              "value": "$1.665 million"
+            },
+            {
+              "key": "US market revenue 2022",
+              "value": "$35.834 million"
+            },
+            {
+              "key": "Revenue recognized at point in time (2022)",
+              "value": "$88.182 million"
+            },
+            {
+              "key": "Revenue recognized over time (2022)",
+              "value": "$3.500 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Consolidated Tax Reconciliation Statement",
+          "data": [
+            {
+              "key": "Current tax",
+              "value": "2,231"
+            },
+            {
+              "key": "Deferred tax - origination and reversal of temporary differences Foreign tax paid",
+              "value": "(9,394) 109"
+            },
+            {
+              "key": "Aggregate income tax benefit",
+              "value": "(7,054)"
+            },
+            {
+              "key": "Loss before income tax benefit",
+              "value": "(96,288)"
+            },
+            {
+              "key": "Tax at the statutory tax rate of 30%",
+              "value": "(28,886)"
+            },
+            {
+              "key": "Share-based payments Sundry items",
+              "value": "21,484 80"
+            },
+            {
+              "key": "Difference in overseas tax rates",
+              "value": "(7,322) 268"
+            },
+            {
+              "key": "Change in tax rate to nil (2021: 30%)",
+              "value": "-"
+            },
+            {
+              "key": "Income tax benefit",
+              "value": "(7,054)"
+            },
+            {
+              "key": "Deferred tax assets",
+              "value": "-"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Deferred Tax Asset Details - Consolidated",
+          "data": [
+            {
+              "key": "Tax losses",
+              "value": "2022: 20031, 2021: 10597"
+            },
+            {
+              "key": "Property, plant and equipment",
+              "value": "2022: -3123, 2021: -75"
+            },
+            {
+              "key": "Accrued expenses",
+              "value": "2022: 84, 2021: 239"
+            },
+            {
+              "key": "Superannuation",
+              "value": "2022: 375, 2021: 51"
+            },
+            {
+              "key": "Other items",
+              "value": "2022: 34, 2021: 0"
+            },
+            {
+              "key": "Transaction costs on share issue",
+              "value": "2022: 1053, 2021: 1483"
+            },
+            {
+              "key": "Total Deferred tax asset",
+              "value": "2022: 18454, 2021: 12295"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Current Assets Comparison",
+          "data": [
+            {
+              "key": "Category",
+              "value": ""
+            },
+            {
+              "key": "2022",
+              "value": "$'000"
+            },
+            {
+              "key": "2021",
+              "value": "$'000"
+            },
+            {
+              "key": "Current assets",
+              "value": ""
+            },
+            {
+              "key": "Cash at bank (2022)",
+              "value": "87,550"
+            },
+            {
+              "key": "Cash at bank (2021)",
+              "value": "120,600"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Assets and Receivables Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Current assets Trade receivables",
+              "value": "11,717"
+            },
+            {
+              "key": "Less: Allowance for expected credit losses",
+              "value": "-1,618"
+            },
+            {
+              "key": "Other receivables",
+              "value": "4,522"
+            },
+            {
+              "key": "Subtotal Current Assets",
+              "value": "15,441"
+            },
+            {
+              "key": "Trade receivables (Non-current)",
+              "value": "0"
+            },
+            {
+              "key": "Employee Share Loan receivable",
+              "value": "772"
+            },
+            {
+              "key": "Less: Allowance for expected credit losses",
+              "value": "-772"
+            },
+            {
+              "key": "Subtotal Non-current Assets",
+              "value": "0"
+            },
+            {
+              "key": "Total Assets",
+              "value": "15,441"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Trade and other receivables Summary",
+          "data": [
+            {
+              "key": "Total carrying amount (2022)",
+              "value": "$12,489,000"
+            },
+            {
+              "key": "Total expected credit losses (2022)",
+              "value": "$2,390,000"
+            },
+            {
+              "key": "Impairment of receivables (2022)",
+              "value": "$772,000"
+            },
+            {
+              "key": "Carrying amount increase from 2021 to 2022",
+              "value": "$3,307,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Asset Useful Life Schedule",
+          "data": [
+            {
+              "key": "Piantand equipment",
+              "value": "5 years"
+            },
+            {
+              "key": "Computer equipment",
+              "value": "2.5 years"
+            },
+            {
+              "key": "Furniture and fittings",
+              "value": "5 years"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Right-of-use Assets Summary",
+          "data": [
+            {
+              "key": "Non-current assets Land and buildings - right-of-use",
+              "value": "6,232"
+            },
+            {
+              "key": "Property, plant and equipment — right-of-use",
+              "value": "171"
+            },
+            {
+              "key": "Less: Accumulated depreciation",
+              "value": "(1,530)"
+            },
+            {
+              "key": "Total",
+              "value": "4,873"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "Consolidated Assets Movement ($'000)",
+          "data": [
+            {
+              "key": "Balance at 1 July 2020",
+              "value": "465"
+            },
+            {
+              "key": "Additions",
+              "value": "854"
+            },
+            {
+              "key": "Additions through business combinations (note 29)",
+              "value": "1,349"
+            },
+            {
+              "key": "Depreciation expense",
+              "value": "(213)"
+            },
+            {
+              "key": "Balance at 30 June 2021",
+              "value": "2,455"
+            },
+            {
+              "key": "Additions",
+              "value": "4,247"
+            },
+            {
+              "key": "Lease modifications",
+              "value": "(631)"
+            },
+            {
+              "key": "Depreciation expense",
+              "value": "(1,198)"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "4,873"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Goodwill and Intangible Assets Analysis",
+          "data": [
+            {
+              "key": "Goodwill Impairment Sensitivity Analysis",
+              "value": "Expected revenues from the three operating segments would need to decrease in excess of 15% in the cash flow modelling before goodwill and the intangible assets become impaired."
+            },
+            {
+              "key": "Accounting Policy for Goodwill",
+              "value": "Goodwill is not amortised and is tested annually for impairment, carried at cost less accumulated impairment losses."
+            },
+            {
+              "key": "Intellectual Property",
+              "value": "Comprises cost of acquiring software code for the wholesale wagering business, amortised over a finite life of five years."
+            },
+            {
+              "key": "Customer Contracts",
+              "value": "Amortised over a finite life of fifteen years."
+            },
+            {
+              "key": "Software",
+              "value": "Amortised over a finite life of five years."
+            },
+            {
+              "key": "Impairment of Other Non-Financial Assets",
+              "value": "Reviewed for impairment when events indicate carrying amount may not be recoverable."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 51,
+          "title": "Current Liabilities Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Current Liabilities 2022",
+              "value": "15.70M"
+            },
+            {
+              "key": "Current Liabilities 2021",
+              "value": "17.55M"
+            },
+            {
+              "key": "Change in Trade Payables (2021-2022)",
+              "value": "Decrease from 9.57M to 2.96M."
+            },
+            {
+              "key": "Change in Accrued Expenses (2021-2022)",
+              "value": "Increase from 1.26M to 5.05M."
+            },
+            {
+              "key": "Total Other Payables (2021-2022)",
+              "value": "Increase from 6.72M to 7.70M."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Contract liabilities and trade payables",
+          "data": [
+            {
+              "key": "Description of contract liabilities in 2022",
+              "value": "Contract liabilities increased from $865,000 in 2021 to $1,029,000 in 2022, 19% increase."
+            },
+            {
+              "key": "Opening balance",
+              "value": "865 (672)"
+            },
+            {
+              "key": "Payments received in advance",
+              "value": "836"
+            },
+            {
+              "key": "Additions through business combinations",
+              "value": "367"
+            },
+            {
+              "key": "Closing balance",
+              "value": "1,029"
+            },
+            {
+              "key": "Unsatisfied performance obligations total",
+              "value": "1,029,000 as at 30 June 2022"
+            },
+            {
+              "key": "Expected recognition period within 6 months for 2022",
+              "value": "735"
+            },
+            {
+              "key": "Expected recognition for 6 to 12 months for 2022",
+              "value": "196"
+            },
+            {
+              "key": "Expected recognition for 12 to 18 months for 2022",
+              "value": "98"
+            },
+            {
+              "key": "Expected total for 2021",
+              "value": "865"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Lease Liabilities Summary",
+          "data": [
+            {
+              "key": "Current liabilities Lease liability 2022",
+              "value": "590"
+            },
+            {
+              "key": "Current liabilities Lease liability 2021",
+              "value": "364"
+            },
+            {
+              "key": "Non-current liabilities 2022",
+              "value": "N/A"
+            },
+            {
+              "key": "Non-current liabilities 2021",
+              "value": "N/A"
+            },
+            {
+              "key": "Lease liability 2022",
+              "value": "4630"
+            },
+            {
+              "key": "Lease liability 2021",
+              "value": "2130"
+            },
+            {
+              "key": "Total 2022",
+              "value": "5220"
+            },
+            {
+              "key": "Total 2021",
+              "value": "2494"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Employee Benefits Liabilities Summary",
+          "data": [
+            {
+              "key": "Annual leave 2022",
+              "value": "1,248"
+            },
+            {
+              "key": "Annual leave 2021",
+              "value": "828"
+            },
+            {
+              "key": "Remuneration 2022",
+              "value": "887"
+            },
+            {
+              "key": "Remuneration 2021",
+              "value": "1,808"
+            },
+            {
+              "key": "Other 2022",
+              "value": "709"
+            },
+            {
+              "key": "Other 2021",
+              "value": "277"
+            },
+            {
+              "key": "Subtotal Current liabilities 2022",
+              "value": "2,844"
+            },
+            {
+              "key": "Subtotal Current liabilities 2021",
+              "value": "2,912"
+            },
+            {
+              "key": "Long service leave 2022",
+              "value": "258"
+            },
+            {
+              "key": "Long service leave 2021",
+              "value": "232"
+            },
+            {
+              "key": "Total liabilities 2022",
+              "value": "3,102"
+            },
+            {
+              "key": "Total liabilities 2021",
+              "value": "3,146"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Consolidated - 2022",
+          "data": [
+            {
+              "key": "Payments Remeasurements: consideration",
+              "value": "-$250,000"
+            },
+            {
+              "key": "Payments Remeasurements: goodwill",
+              "value": "-$500,000"
+            },
+            {
+              "key": "Carrying amount at the end of the year: consideration",
+              "value": "$8,250,000"
+            },
+            {
+              "key": "Carrying amount at the end of the year: goodwill",
+              "value": "$141,000"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "Defined Benefit Plan Assets and Liabilities Comparison",
+          "data": [
+            {
+              "key": "2022 Non-current liabilities Present value of the defined benefit obligation",
+              "value": "(7,822)"
+            },
+            {
+              "key": "2022 Fair value of defined benefit plan assets",
+              "value": "7,869"
+            },
+            {
+              "key": "2021 Non-current liabilities Present value of the defined benefit obligation",
+              "value": "(8,461)"
+            },
+            {
+              "key": "2021 Fair value of defined benefit plan assets",
+              "value": "6,851"
+            },
+            {
+              "key": "Net asset/(liability) in the statement of financial position 2022",
+              "value": "47"
+            },
+            {
+              "key": "Net asset/(liability) in the statement of financial position 2021",
+              "value": "(1,611)"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 56,
+          "title": "Reconciliation of Defined Benefit Obligation and Plan Assets",
+          "data": [
+            {
+              "key": "Balance at the beginning of the year (Present obligation) 2021",
+              "value": "(8,461)"
+            },
+            {
+              "key": "Foreign exchange on opening balance",
+              "value": "(780)"
+            },
+            {
+              "key": "Current service cost",
+              "value": "(167)"
+            },
+            {
+              "key": "Remeasurements",
+              "value": "1,336"
+            },
+            {
+              "key": "Benefits paid",
+              "value": "497"
+            },
+            {
+              "key": "Balance at the end of the year (Obligation) 2021",
+              "value": "(7,822)"
+            },
+            {
+              "key": "Balance at the beginning of the year (Plan assets) 2021",
+              "value": "6,851"
+            },
+            {
+              "key": "Foreign exchange on opening balance",
+              "value": "632"
+            },
+            {
+              "key": "Interest income",
+              "value": "211"
+            },
+            {
+              "key": "Employer contributions",
+              "value": "836"
+            },
+            {
+              "key": "Remeasurements",
+              "value": "36"
+            },
+            {
+              "key": "Administrative expense",
+              "value": "(200)"
+            },
+            {
+              "key": "Benefits paid",
+              "value": "(497)"
+            },
+            {
+              "key": "Balance at the end of the year (Plan assets) 2021",
+              "value": "7,869"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 60,
+          "title": "Reserve Balances Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Foreign currency reserve Share-based payments reserve"
+            },
+            {
+              "key": "2022",
+              "value": "3,226 66,295"
+            },
+            {
+              "key": "2021",
+              "value": "- 12,910"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 60,
+          "title": "Movements in Reserves Overview",
+          "data": [
+            {
+              "key": "Balance at 1 July 2020",
+              "value": "1,574"
+            },
+            {
+              "key": "Share-based payments",
+              "value": "12,358"
+            },
+            {
+              "key": "Exercise of options Cancelled options",
+              "value": "(978) (44)"
+            },
+            {
+              "key": "Balance at 30 June 2021",
+              "value": "12,910"
+            },
+            {
+              "key": "Foreign currency translation",
+              "value": "3,226"
+            },
+            {
+              "key": "Share-based payments",
+              "value": "71,029"
+            },
+            {
+              "key": "Exercise of options",
+              "value": "(17,600)"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "69,521"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 62,
+          "title": "Liquidity Risk and Financial Liabilities Maturity Analysis",
+          "data": [
+            {
+              "key": "Total non-derivative liabilities (2022)",
+              "value": "24,631,000"
+            },
+            {
+              "key": "Total non-derivative liabilities (2021)",
+              "value": "27,909,000"
+            },
+            {
+              "key": "Lease liability interest rate",
+              "value": "8.00%"
+            },
+            {
+              "key": "Significant deferred consideration 2022 (1-2 years)",
+              "value": "7,500,000"
+            },
+            {
+              "key": "Significant deferred consideration 2021 (1-2 years)",
+              "value": "8,750,000"
+            },
+            {
+              "key": "Total Trade payables 2022 (1 year or less)",
+              "value": "2,958"
+            },
+            {
+              "key": "Total Deferred consideration 2021 (1 year or less)",
+              "value": "250"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Fair Value Measurement",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Assets",
+              "value": "Retirement benefit asset: 47,000 (Level 2)"
+            },
+            {
+              "key": "Liabilities",
+              "value": "Deferred consideration: 8,250,000 (Level 3)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 63,
+          "title": "Fair Value Measurement",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Liabilities",
+              "value": "Contingent consideration: 6,480,000 (Level 3)"
+            },
+            {
+              "key": "Liabilities",
+              "value": "Deferred consideration: 9,000,000 (Level 3)"
+            },
+            {
+              "key": "Liabilities",
+              "value": "Retirement benefit obligations: 1,610,000 (Level 2)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 64,
+          "title": "Consolidated Balance Statement",
+          "data": [
+            {
+              "key": "Balance at 1 July 2020 Additions",
+              "value": "6480, 9000, 15480"
+            },
+            {
+              "key": "Balance at 30 June 2021 Payments Fair value adjustment",
+              "value": "6,480 (5,741) (739), 9,000 (250) (500), 15,480 (5,991) (1,239)"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "0, 8250, 8250"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 66,
+          "title": "BetMakers Technology Group Ltd Notes to the financial statements",
+          "data": [
+            {
+              "key": "Loss after income tax",
+              "value": "(72,910)"
+            },
+            {
+              "key": "Total comprehensive loss",
+              "value": "(72,910)"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 66,
+          "title": "Loans to Key Management Personnel",
+          "data": [
+            {
+              "key": "Loan to key management personnel *",
+              "value": "360.92"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 70,
+          "title": "Interests in subsidiaries",
+          "data": [
+            {
+              "key": "Entity",
+              "value": "Sportech Racing GmbH"
+            },
+            {
+              "key": "Location",
+              "value": "Germany"
+            },
+            {
+              "key": "2022 Ownership Percentage",
+              "value": "100.00%"
+            },
+            {
+              "key": "2021 Ownership Percentage",
+              "value": "100.00%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 70,
+          "title": "Reconciliation of loss after income tax to net cash used in operating activities",
+          "data": [
+            {
+              "key": "Loss after income tax benefit for the year (2022)",
+              "value": "-89234"
+            },
+            {
+              "key": "Loss after income tax benefit for the year (2021)",
+              "value": "-17459"
+            },
+            {
+              "key": "Depreciation and amortisation (2022)",
+              "value": "9682"
+            },
+            {
+              "key": "Depreciation and amortisation (2021)",
+              "value": "2698"
+            },
+            {
+              "key": "Share-based payments (2022)",
+              "value": "71029"
+            },
+            {
+              "key": "Share-based payments (2021)",
+              "value": "12358"
+            },
+            {
+              "key": "Net cash used in operating activities",
+              "value": "-18224"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 70,
+          "title": "Changes in liabilities arising from financing activities",
+          "data": [
+            {
+              "key": "Balance at 1 July 2020",
+              "value": "463"
+            },
+            {
+              "key": "Net cash used in financing activities (2021)",
+              "value": "(482)"
+            },
+            {
+              "key": "Acquisition of land and buildings right-of-use by leases (2021)",
+              "value": "854"
+            },
+            {
+              "key": "Balance at 30 June 2021",
+              "value": "2494"
+            },
+            {
+              "key": "Net cash used in financing activities (2022)",
+              "value": "(890)"
+            },
+            {
+              "key": "Acquisition of land and buildings right-of-use by leases (2022)",
+              "value": "4247"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "5220"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 71,
+          "title": "Loss and Earnings Per Share Analysis",
+          "data": [
+            {
+              "key": "Loss after income tax attributable to owners",
+              "value": "-89,234,000"
+            },
+            {
+              "key": "Weighted average number of ordinary shares (Basic)",
+              "value": "874,269,069"
+            },
+            {
+              "key": "Weighted average number of ordinary shares (Diluted)",
+              "value": "874,269,069"
+            },
+            {
+              "key": "Basic earnings per share (cents)",
+              "value": "-10.21"
+            },
+            {
+              "key": "Diluted earnings per share (cents)",
+              "value": "-10.21"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 77,
+          "title": "INDEPENDENT AUDITOR’S REPORT",
+          "data": [
+            {
+              "key": "Group",
+              "value": "BetMakers Technology Group Limited"
+            },
+            {
+              "key": "financial year",
+              "value": "ended 30 June 2022"
+            },
+            {
+              "key": "audit opinion",
+              "value": "The financial report is in accordance with the Corporations Act 2001, giving a true and fair view of the financial position and performance."
+            },
+            {
+              "key": "auditing standards",
+              "value": "Australian Auditing Standards"
+            },
+            {
+              "key": "independence statement",
+              "value": "Independent in accordance with the Corporations Act 2001."
+            },
+            {
+              "key": "key audit matters",
+              "value": "Matters that were of most significance in the audit."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 80,
+          "title": "Revenue from contracts with customers",
+          "data": [
+            {
+              "key": "Revenue FY 2022",
+              "value": "$91.6m"
+            },
+            {
+              "key": "Revenue FY 2021",
+              "value": "$19.5m"
+            },
+            {
+              "key": "Key audit matters",
+              "value": "Accounting for revenue from contracts from customers."
+            },
+            {
+              "key": "Audit procedures",
+              "value": "Understanding and testing key controls; reviewing significant contracts; using data analytics; testing revenue accuracy; cut-off testing; assessing disclosures."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": true,
+      "elements": [
+        {
+          "type": "share_buyback",
+          "page": 58,
+          "title": "Share Issuance Record",
+          "data": [
+            {
+              "key": "Date",
+              "value": "30 June 2020"
+            },
+            {
+              "key": "Shares",
+              "value": "568539998"
+            },
+            {
+              "key": "Issue price",
+              "value": "0.0"
+            },
+            {
+              "key": "$'000",
+              "value": "84940"
+            },
+            {
+              "key": "Date",
+              "value": "31 August 2020"
+            },
+            {
+              "key": "Shares",
+              "value": "4000000"
+            },
+            {
+              "key": "Issue price",
+              "value": "0.122"
+            },
+            {
+              "key": "$'000",
+              "value": "488"
+            },
+            {
+              "key": "Date",
+              "value": "4 September 2020"
+            },
+            {
+              "key": "Shares",
+              "value": "16667000"
+            },
+            {
+              "key": "Issue price",
+              "value": "0.06"
+            },
+            {
+              "key": "$'000",
+              "value": "1006"
+            },
+            {
+              "key": "Date",
+              "value": "4 January 2021"
+            },
+            {
+              "key": "Shares",
+              "value": "83333334"
+            },
+            {
+              "key": "Issue price",
+              "value": "0.60"
+            },
+            {
+              "key": "$'000",
+              "value": "50000"
+            },
+            {
+              "key": "Date",
+              "value": "27 January 2021"
+            },
+            {
+              "key": "Shares",
+              "value": "16667584"
+            },
+            {
+              "key": "Issue price",
+              "value": "0.60"
+            },
+            {
+              "key": "$'000",
+              "value": "10001"
+            },
+            {
+              "key": "Date",
+              "value": "24 February 2021"
+            },
+            {
+              "key": "Shares",
+              "value": "71366234"
+            },
+            {
+              "key": "Issue price",
+              "value": "0.70"
+            },
+            {
+              "key": "$'000",
+              "value": "49956"
+            },
+            {
+              "key": "Date",
+              "value": "29 April 2021"
+            },
+            {
+              "key": "Shares",
+              "value": "35714285"
+            },
+            {
+              "key": "Issue price",
+              "value": "0.70"
+            },
+            {
+              "key": "$'000",
+              "value": "25006"
+            },
+            {
+              "key": "Date",
+              "value": "23 June 2021"
+            },
+            {
+              "key": "Shares",
+              "value": "443262"
+            },
+            {
+              "key": "Issue price",
+              "value": "1.128"
+            },
+            {
+              "key": "$'000",
+              "value": "500"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "share_buyback",
+          "page": 75,
+          "title": "Share-based payments and on-market share buy-back",
+          "data": [
+            {
+              "key": "Market condition consideration",
+              "value": "Market conditions are taken into consideration in determining fair value."
+            },
+            {
+              "key": "Vesting conditions",
+              "value": "Awards are considered to vest irrespective of the market condition if all other conditions are satisfied."
+            },
+            {
+              "key": "Modification of equity-settled awards",
+              "value": "If modified, an expense is recognized as if not modified."
+            },
+            {
+              "key": "Cancellation treatment",
+              "value": "If canceled, treated as vested on cancellation date."
+            },
+            {
+              "key": "Share buy-back announcement",
+              "value": "Intention to undertake share buy-back announced on 24 June 2022."
+            },
+            {
+              "key": "Shares purchased",
+              "value": "1,572,022 ordinary shares purchased at an average price of $0.385 per share."
+            },
+            {
+              "key": "Amendment with NTD Pty Limited",
+              "value": "Entered into a deed of variation to provide technology and services to NTD wagering venture."
+            },
+            {
+              "key": "Annual Fee increase",
+              "value": "Annual Fee payable by NTD to OM Apps increased by $2 million per annum."
+            },
+            {
+              "key": "BetMakers contribution",
+              "value": "BetMakers will contribute $2.5 million over two tranches towards the purchase of TexBet."
+            },
+            {
+              "key": "No new matters since reporting",
+              "value": "No other matter or circumstance has arisen that may significantly affect the group's operations."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "share_buyback",
+          "page": 85,
+          "title": "Shareholder information",
+          "data": [
+            {
+              "key": "Significant Holder",
+              "value": "Tripp Investments Pty Ltd"
+            },
+            {
+              "key": "Number of Performance Rights Held",
+              "value": "67,000,000"
+            },
+            {
+              "key": "Percentage of Total Performance Rights",
+              "value": "56.47%"
+            },
+            {
+              "key": "Total Service Rights Issued (3 Mar 2022)",
+              "value": "498,339"
+            },
+            {
+              "key": "Total Service Rights Issued (8 Feb 2022)",
+              "value": "112,612"
+            },
+            {
+              "key": "Total Service Rights Issued",
+              "value": "610,951"
+            },
+            {
+              "key": "Voting Rights of Ordinary Shares",
+              "value": "Each shareholder entitled to vote in person or by proxy, one vote per fully paid share"
+            },
+            {
+              "key": "Voting Rights of Options",
+              "value": "Do not carry voting rights"
+            },
+            {
+              "key": "Voting Rights of Performance Rights",
+              "value": "Do not carry voting rights"
+            },
+            {
+              "key": "Voting Rights of Service Rights",
+              "value": "Do not carry voting rights"
+            },
+            {
+              "key": "Restricted Securities",
+              "value": "No shares subject to escrow restrictions"
+            },
+            {
+              "key": "Share Buy-Back Scheme Start Date",
+              "value": "12 July 2022"
+            },
+            {
+              "key": "Share Buy-Back Scheme End Date",
+              "value": "23 June 2023"
+            },
+            {
+              "key": "Funding Source for Buy-Back",
+              "value": "Company's existing cash reserves"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 31,
+          "title": "Consolidated Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Balance at 1 July 2020",
+              "value": "Issued Capital: 84943, Reserves: 1574, Accumulated Losses: -26116, Total Equity: 60401"
+            },
+            {
+              "key": "Balance at 30 June 2021",
+              "value": "Issued Capital: 226023, Reserves: 12910, Accumulated Losses: -43531, Total Equity: 195402"
+            },
+            {
+              "key": "Balance at 1 July 2021",
+              "value": "Issued Capital: 226023, Reserves: 12910, Accumulated Losses: -43531, Total Equity: 195402"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "Issued Capital: 252486, Reserves: 69521, Accumulated Losses: -132721, Total Equity: 189286"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 37,
+          "title": "Critical accounting judgements, estimates and assumptions",
+          "data": [
+            {
+              "key": "Goodwill",
+              "value": "The group tests annually for impairment of goodwill based on value-in-use calculations, which require assumptions including estimated discount rates and growth rates."
+            },
+            {
+              "key": "Income tax",
+              "value": "Significant judgement is required in determining the provision for income tax, with liabilities recognised for anticipated tax audit issues."
+            },
+            {
+              "key": "Deferred tax assets",
+              "value": "Recognised only if it is probable that future taxable amounts will be available to utilise temporary differences."
+            },
+            {
+              "key": "Deferred consideration",
+              "value": "The difference between total purchase consideration and amounts paid, discounted to net present value and reassessed at reporting dates."
+            },
+            {
+              "key": "Performance payments",
+              "value": "Estimates and judgements are made for performance payment liabilities, adjusted for reassessment during provisional accounting."
+            },
+            {
+              "key": "Retirement benefit obligation",
+              "value": "Defined benefits pension scheme liability measured at present value of obligations less fair value of fund's assets."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "capital_structure",
+          "page": 59,
+          "title": "Share Transaction Summary 2021-2022",
+          "data": [
+            {
+              "key": "Opening Balance Shares",
+              "value": "812,819,535"
+            },
+            {
+              "key": "Opening Balance Value ($'000)",
+              "value": "219,832"
+            },
+            {
+              "key": "Closing Balance Shares",
+              "value": "904,456,198"
+            },
+            {
+              "key": "Closing Balance Value ($'000)",
+              "value": "252,486"
+            },
+            {
+              "key": "Major Share Issues",
+              "value": "34,396,233 shares at $0.18 (July 2021) and 45,340,273 shares at $0.18 (January 2022)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 84,
+          "title": "Shareholder information 30 June 2022",
+          "data": [
+            {
+              "key": "Unlisted Options expiring 31 December 2022 with strike price",
+              "value": "$0.060"
+            },
+            {
+              "key": "Unlisted Options expiring 30 September 2023 with strike price",
+              "value": "$0.45"
+            },
+            {
+              "key": "Unlisted Options expiring 30 September 2023 with strike price",
+              "value": "$0.50"
+            },
+            {
+              "key": "Unlisted Options expiring 31 October 2023 with strike price",
+              "value": "$0.50"
+            },
+            {
+              "key": "Unlisted Options expiring 01 February 2024 with strike price",
+              "value": "$0.70"
+            },
+            {
+              "key": "Performance right convertible into ordinary shares subject to vesting conditions",
+              "value": "5,000,000"
+            },
+            {
+              "key": "Performance right convertible into ordinary shares subject to vesting conditions (2)",
+              "value": "5,000,000"
+            },
+            {
+              "key": "Performance right convertible into ordinary shares subject to vesting conditions (3)",
+              "value": "15,000,000"
+            },
+            {
+              "key": "Performance right convertible into ordinary shares subject to vesting conditions (4)",
+              "value": "14,750,000"
+            },
+            {
+              "key": "Performance right convertible into ordinary shares subject to vesting conditions (5)",
+              "value": "11,900,000"
+            },
+            {
+              "key": "Performance right convertible into ordinary shares subject to vesting conditions (6)",
+              "value": "67,000,000"
+            },
+            {
+              "key": "Class C performance right convertible into options subject to vesting conditions",
+              "value": "1"
+            },
+            {
+              "key": "Class D performance right convertible into options subject to vesting conditions",
+              "value": "1"
+            },
+            {
+              "key": "Total",
+              "value": "118,650,002"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 11,
+          "title": "Principle Risks",
+          "data": [
+            {
+              "key": "Licensing and Regulatory",
+              "value": "The Group operates in heavily regulated industries and jurisdictions, with exposure to risks related to compliance and changes in legal and regulatory regimes."
+            },
+            {
+              "key": "Technology and Software",
+              "value": "Risk of being superseded by new technology offerings that may provide advantages over the Group's offerings."
+            },
+            {
+              "key": "Intellectual Property Obligations",
+              "value": "Risk associated with potential infringement of third-party intellectual property rights affecting financial performance."
+            },
+            {
+              "key": "Security Technology Breaches and Improper Access to Personal Data",
+              "value": "Vulnerability to cyber-attacks leading to unauthorized access to data and potential breaches by third-party suppliers."
+            },
+            {
+              "key": "Reliance on Agreements with Sports and Racing Controlling Bodies",
+              "value": "Dependence on approvals granted by racing bodies, non-compliance could adversely affect operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 57,
+          "title": "Retirement benefit obligations",
+          "data": [
+            {
+              "key": "Decrease in life expectancy impact",
+              "value": "Liabilities decrease by US$11,851 if life expectancy is decreased by one year."
+            },
+            {
+              "key": "Increase in discount rate impact",
+              "value": "Liabilities decrease by US$195,988 if discount rate is increased to 5.25%."
+            },
+            {
+              "key": "Pension scheme assets risk exposure",
+              "value": "Risks include asset volatility and changes in the Pru Above Mean Curve."
+            },
+            {
+              "key": "Life expectancy effect",
+              "value": "Increase in life expectancy results in increased liabilities."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 61,
+          "title": "Foreign Currency Risk",
+          "data": [
+            {
+              "key": "Foreign Currency Exposure",
+              "value": "The group operates internationally and is exposed to foreign exchange risk arising from various currency exposures."
+            },
+            {
+              "key": "Net Foreign Assets",
+              "value": "The group had net assets denominated in foreign currencies of $494,000."
+            },
+            {
+              "key": "Impact of Currency Variation",
+              "value": "Had the Australian dollars weakened by 5% against foreign currencies, profit before tax would have been $24,700 lower."
+            },
+            {
+              "key": "Actual Foreign Exchange Loss",
+              "value": "The actual foreign exchange loss for the year ended 30 June 2022 was $1,998,000."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 78,
+          "title": "Impairment testing of goodwill and other intangible assets",
+          "data": [
+            {
+              "key": "Goodwill and other intangible assets",
+              "value": "$65.8 million as at 30 June 2022 (2021: $67.9 million)"
+            },
+            {
+              "key": "Cash Generating Units (CGUs)",
+              "value": "Determined by the Group"
+            },
+            {
+              "key": "Budget assessment for FY23",
+              "value": "Compared to FY22 actuals and other financial information"
+            },
+            {
+              "key": "Methodology used",
+              "value": "Value-in-use methodology"
+            },
+            {
+              "key": "Key assumptions",
+              "value": "5-year cash flow forecast, growth rates, terminal growth factor, discount rate"
+            },
+            {
+              "key": "Sensitivity analysis",
+              "value": "Performed for discount rate, growth rate, terminal value"
+            },
+            {
+              "key": "Potential outcome of impairment assessment",
+              "value": "Could vary with different assumptions"
+            },
+            {
+              "key": "Claims regarding management’s assessment",
+              "value": "Appropriateness of disclosures in Note 12 and expected utilization of software and intellectual property for amortisation"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 12,
+          "title": "BetMakers Technology Group Ltd Directors' report 30 June 2022",
+          "data": [
+            {
+              "key": "Significant Changes in the State of Affairs",
+              "value": "On 16 July 2021, the Group issued 34,564,921 shares to Waterhouse VC Pty Ltd and recorded relevant revenues of $6,221,685.70. On 31 January 2022, the Group issued an additional 45,862,414 shares to Waterhouse VC Pty Ltd with relevant revenues of $8,255,234.50."
+            },
+            {
+              "key": "Dividends",
+              "value": "There were no dividends paid, recommended or declared during the current or previous financial year."
+            },
+            {
+              "key": "Share Buy-Back Announcement",
+              "value": "The group announced the intention to undertake an on-market share buy-back on 24 June 2022, which commenced on 12 July 2022."
+            },
+            {
+              "key": "Future Projections",
+              "value": "Sufficient revenues were generated for the conversion of Class C Performance Rights into options to purchase shares."
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 28,
+          "title": "Auditor’s Independence Declaration",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "BetMakers Technology Group Limited"
+            },
+            {
+              "key": "ACN",
+              "value": "164 521 395"
+            },
+            {
+              "key": "Lead Auditor",
+              "value": "Paul Pearman"
+            },
+            {
+              "key": "Audit Year Ended",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Declaration Date",
+              "value": "26 August 2022"
+            },
+            {
+              "key": "Auditor Firm",
+              "value": "PKF (NS) Audit & Assurance Limited Partnership"
+            },
+            {
+              "key": "ABN",
+              "value": "91 850 861 839"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 26,
+          "title": "Expiry Schedule",
+          "data": [
+            {
+              "key": "Expiry 7/02/2023",
+              "value": "7/02/2024"
+            },
+            {
+              "key": "Expiry 7/02/2023",
+              "value": "7/02/2025"
+            },
+            {
+              "key": "Expiry 7/02/2023",
+              "value": "3/03/2023"
+            },
+            {
+              "key": "Expiry 7/02/2023",
+              "value": "3/03/2024"
+            },
+            {
+              "key": "Expiry 7/02/2023",
+              "value": "3/03/2025"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 49,
+          "title": "Right-of-use assets and non-current assets",
+          "data": [
+            {
+              "key": "Goodwill - at cost",
+              "value": "32,350"
+            },
+            {
+              "key": "Less: Impairment",
+              "value": "-1,802"
+            },
+            {
+              "key": "Goodwill (net)",
+              "value": "30,548"
+            },
+            {
+              "key": "Intellectual property - at cost",
+              "value": "12,281"
+            },
+            {
+              "key": "Less: Accumulated amortisation (IP)",
+              "value": "-1,893"
+            },
+            {
+              "key": "Intellectual property (net)",
+              "value": "10,388"
+            },
+            {
+              "key": "Customer contracts - at cost",
+              "value": "10,000"
+            },
+            {
+              "key": "Less: Accumulated amortisation (CC)",
+              "value": "-667"
+            },
+            {
+              "key": "Customer contracts (net)",
+              "value": "9,333"
+            },
+            {
+              "key": "Software - at cost",
+              "value": "24,955"
+            },
+            {
+              "key": "Less: Accumulated amortisation (Software)",
+              "value": "-9,462"
+            },
+            {
+              "key": "Software (net)",
+              "value": "15,493"
+            },
+            {
+              "key": "Total Non-current assets",
+              "value": "65,762"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 454,
+    "EUR": 5,
+    "GBP": 2,
+    "AUD": 91,
+    "CAD": 1
+  },
+  "sha1": "1af8f906e34af6e0acfe4f73e37093bbe34700f3"
+}

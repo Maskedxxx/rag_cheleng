@@ -1,0 +1,5367 @@
+{
+  "letters": 410191,
+  "pages": 92,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "ARCA Biopharma, Inc.",
+    "major_industry": "Healthcare",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "ARCA BioPharma, Inc."
+            },
+            {
+              "key": "Fiscal Year Ended",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "Commission File Number",
+              "value": "000-22873"
+            },
+            {
+              "key": "Securities Registered",
+              "value": "Common Stock, par value $0.001 per share"
+            },
+            {
+              "key": "Ticker Symbol",
+              "value": "ABIO"
+            },
+            {
+              "key": "Exchange",
+              "value": "Nasdaq Capital Market"
+            },
+            {
+              "key": "Total Shares Outstanding",
+              "value": "14,410,143"
+            },
+            {
+              "key": "Aggregate Market Value",
+              "value": "$29,189,204"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 2,
+          "title": "Table of Contents",
+          "data": [
+            {
+              "key": "Item 1.",
+              "value": "Business"
+            },
+            {
+              "key": "Item 1A.",
+              "value": "Risk Factors"
+            },
+            {
+              "key": "Item 1B.",
+              "value": "Unresolved Staff Comment:"
+            },
+            {
+              "key": "Item 2.",
+              "value": "Properties"
+            },
+            {
+              "key": "Item 3.",
+              "value": "Legal Proceedings"
+            },
+            {
+              "key": "Item 4.",
+              "value": "Mine Safety Disclosures.."
+            },
+            {
+              "key": "PART I",
+              "value": ""
+            },
+            {
+              "key": "Item 5.",
+              "value": "Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities ."
+            },
+            {
+              "key": "Item 6.",
+              "value": "Reserved"
+            },
+            {
+              "key": "Item 7.",
+              "value": "Management's Discussion and Analysis of Financial Condition and Results of Operations:"
+            },
+            {
+              "key": "",
+              "value": "BALANCE SHEETS, STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS, STATEMENTS OF STOCKHOLDERS' EQUITY, STATEMENTS OF CASH FLOWS"
+            },
+            {
+              "key": "Item 9B. Item 9C.",
+              "value": "Other Information Disclosure Regarding Foreign Jurisdictions that Prevent Inspections"
+            },
+            {
+              "key": "PART II",
+              "value": ""
+            },
+            {
+              "key": "Item 10.",
+              "value": "Directors, Executive Officers and Corporate Governance .."
+            },
+            {
+              "key": "Item 11.",
+              "value": "Executive Compensation"
+            },
+            {
+              "key": "Item 12. Item 13.",
+              "value": "Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters ."
+            },
+            {
+              "key": "",
+              "value": "Certain Relationships and Related Transactions, and Director Independence"
+            },
+            {
+              "key": "Item 14.",
+              "value": "Principal Accountant Fees and Services"
+            },
+            {
+              "key": "PART IV",
+              "value": ""
+            },
+            {
+              "key": "Item 15.",
+              "value": "Exhibits and Financial Statement Schedules"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 3,
+          "title": "Business Overview and Forward-Looking Statements",
+          "data": [
+            {
+              "key": "forward-looking statements",
+              "value": "The report contains forward-looking statements identified by terms such as 'may,' 'will,' 'could,' 'should,' 'expect,' and similar."
+            },
+            {
+              "key": "Gencaro Development",
+              "value": "Statements regarding potential future development plans for Gencaro, including Phase 3 clinical trials."
+            },
+            {
+              "key": "strategic options evaluation",
+              "value": "The Board of Directors established a Special Committee to evaluate strategic options including merger, sale, or other transactions."
+            },
+            {
+              "key": "capital needs",
+              "value": "The report discusses the ability to secure financing to support clinical trials."
+            },
+            {
+              "key": "risks to actual results",
+              "value": "Actual results could differ materially from those projected in the forward-looking statements."
+            },
+            {
+              "key": "strategic review process",
+              "value": "The Board has no defined timeline for the strategic review process."
+            },
+            {
+              "key": "Gencaro details",
+              "value": "Gencaro is developed for patients with chronic heart failure and targeted based on genotype."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 41,
+          "title": "Anti-Takeover Provisions",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Implemented anti-takeover provisions to discourage or delay acquisitions, requiring stockholder actions to be conducted at meetings and making it difficult for third parties to acquire the company."
+            },
+            {
+              "key": "Provisions",
+              "value": "1. Classified board of directors; 2. Authority to issue 5 million additional shares of preferred stock; 3. Limits on calling special meetings; 4. Prohibition of stockholder action by written consent; 5. Advance notice requirements for board nominations."
+            },
+            {
+              "key": "Effects",
+              "value": "Could discourage potential acquisition proposals, delay change in control, and reduce vulnerability to unsolicited acquisition proposals."
+            },
+            {
+              "key": "Delaware Law Compliance",
+              "value": "Subject to Delaware anti-takeover laws preventing mergers with stockholders owning 15% or more in the first three years without board approval."
+            },
+            {
+              "key": "Risks",
+              "value": "Issuing preferred stock could adversely affect common stockholder rights and may dilute their holdings."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 45,
+          "title": "Development of Gencaro and rNAPc2 for treating HF and COVID-19",
+          "data": [
+            {
+              "key": "Patient Need",
+              "value": "Major unmet medical need for patients with HF and AF, particularly for those with EF values of 40% and above."
+            },
+            {
+              "key": "Market Opportunity",
+              "value": "Current therapies for patients with EF ≥ 40% are limited and have significant side effects."
+            },
+            {
+              "key": "New Treatment",
+              "value": "Gencaro may offer a safer and more effective therapy for treating AF in higher ejection fraction HF patients."
+            },
+            {
+              "key": "Patent Status",
+              "value": "International patent portfolio, including new chemical entity status, potentially extending to 2039 in the US."
+            },
+            {
+              "key": "Diagnostics Development",
+              "value": "Laboratory platform approved by FDA for use in Phase 2B clinical trial."
+            },
+            {
+              "key": "Clinical Trials",
+              "value": "Initiated Phase 2b clinical trial for rNAPc2 in COVID-19 patients, completed enrollment in Q4 2021."
+            },
+            {
+              "key": "Financing Needs",
+              "value": "Additional financing required to support continued development of Gencaro and rNAPc2."
+            },
+            {
+              "key": "Strategic Partnerships",
+              "value": "Pursuing co-development and commercialization partnerships with large pharmaceutical companies."
+            },
+            {
+              "key": "Risks",
+              "value": "Risk of inability to obtain sufficient financing or complete strategic transactions, leading to potential discontinuation of development."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 56,
+          "title": "ARCA BioPharma, Inc. Strategic Review and Options",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "ARCA Biopharma, Inc."
+            },
+            {
+              "key": "Headquarters",
+              "value": "Westminster, Colorado"
+            },
+            {
+              "key": "Business Type",
+              "value": "Clinical-stage biopharmaceutical company"
+            },
+            {
+              "key": "Lead Product Candidate",
+              "value": "Gencaro™ (bucindolol hydrochloride)"
+            },
+            {
+              "key": "Purpose of Strategic Review",
+              "value": "Evaluate strategic options, including transactions involving a merger, sale of assets, or alternatives to maximize stockholder value"
+            },
+            {
+              "key": "Strategic Review Initiation Date",
+              "value": "April 2022"
+            },
+            {
+              "key": "Special Committee Formation Date",
+              "value": "April 2022"
+            },
+            {
+              "key": "Financial Condition Observations",
+              "value": "The Company has not generated revenue and incurred substantial losses; relying on funding through stock issuances."
+            },
+            {
+              "key": "Liquidity Forecast",
+              "value": "Current cash projected to be sufficient through mid 2024"
+            },
+            {
+              "key": "Risks",
+              "value": "Dependence on key individuals, regulatory approval, competition, need for capital."
+            },
+            {
+              "key": "Capital Raising Hurdles",
+              "value": "Potential inability to raise sufficient capital for operations."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Exhibit 10.19",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Amendment No. 6 to Capital on Demand™ Sales Agreement, dated June 28, 2019, by and between ARCA biopharma, Inc. and JonesTrading Institutional Services LLC."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "6/28/2019"
+            },
+            {
+              "key": "Number",
+              "value": "0.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Exhibit 10.20",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Amendment No. 7 to Capital on Demand™ Sales Agreement, dated July 2, 2020, by and between ARCA biopharma, Inc. and JonesTrading Institutional Services LLC."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "7/2/2020"
+            },
+            {
+              "key": "Number",
+              "value": "0.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Exhibit 10.21",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Amendment No. 8 to Capital on Demand™ Sales Agreement, dated July 14, 2020, by and between ARCA biopharma, Inc. and JonesTrading Institutional Services LLC."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "7/14/2020"
+            },
+            {
+              "key": "Number",
+              "value": "0.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Exhibit 10.22",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Capital on Demand™ Sales Agreement, dated July 22, 2020, by and between ARCA biopharma, Inc. and JonesTrading Institutional Services LLC."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "7/22/2020"
+            },
+            {
+              "key": "Number",
+              "value": "0.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Exhibit 10.23",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Amendment No. | to Capital on Demand™ Sales Agreement, dated April 6, 2021, by and between ARCA biopharma, Inc. and JonesTrading Institutional Services LLC."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "4/6/2021"
+            },
+            {
+              "key": "Number",
+              "value": "0.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Exhibit 10.24§",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Amended and Restated Exclusive License Agreement, dated August 12, 2011, by and between the Regents of the University of Colorado and ARCA biopharma, Inc."
+            },
+            {
+              "key": "Form",
+              "value": "10-Q"
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "8/15/2011"
+            },
+            {
+              "key": "Number",
+              "value": "0.5"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Exhibit 10.25",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Securities Purchase Agreement by and among the Company and the purchasers identified therein, dated June 10, 2015."
+            },
+            {
+              "key": "Form",
+              "value": ""
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "6/11/2015"
+            },
+            {
+              "key": "Number",
+              "value": "0.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Exhibit 10.26",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Form of Stock Purchase Agreement between the Company and the Purchasers, dated as of June 2, 2020."
+            },
+            {
+              "key": "Form",
+              "value": ""
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "6/3/2020"
+            },
+            {
+              "key": "Number",
+              "value": "0.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Exhibit 10.27",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Office Lease Agreement, effective August 7, 2020, between ARCA biopharma, Inc. and Potens Partners LLC."
+            },
+            {
+              "key": "Form",
+              "value": ""
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "8/31/2020"
+            },
+            {
+              "key": "Number",
+              "value": "0.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Exhibit 10.28†",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Amendment Agreement by and between ARCA biopharma, Inc. and Michael R. Bristow, effective as of June 2013."
+            },
+            {
+              "key": "Form",
+              "value": "10-Q"
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "8/13/2013"
+            },
+            {
+              "key": "Number",
+              "value": "0.6"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Exhibit 10.29†",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Amendment Agreement by and between ARCA biopharma, Inc. and Christopher Ozeroff, effective as of June 2013."
+            },
+            {
+              "key": "Form",
+              "value": "10-Q"
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "8/13/2013"
+            },
+            {
+              "key": "Number",
+              "value": "0.8"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Exhibit 10.30†",
+          "data": [
+            {
+              "key": "Description",
+              "value": "ARCA biopharma, Inc. 2013 Equity Incentive Plan."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "9/23/2013"
+            },
+            {
+              "key": "Number",
+              "value": "0.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 88,
+          "title": "Exhibit 10.31†",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Form of Stock Option Agreement and Option Grant Notice"
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "9/23/2013"
+            },
+            {
+              "key": "Number",
+              "value": "0.2"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 66,
+          "title": "Leadership Change - Christopher D. Ozeroff",
+          "data": [
+            {
+              "key": "Company",
+              "value": "ARCA"
+            },
+            {
+              "key": "Employee Name",
+              "value": "Christopher D. Ozeroff"
+            },
+            {
+              "key": "Position",
+              "value": "Secretary, Senior Vice President and General Counsel"
+            },
+            {
+              "key": "Effective Date",
+              "value": "March 31, 2023"
+            },
+            {
+              "key": "Severance Benefits",
+              "value": "Severance payments and reimbursement for health insurance under COBRA."
+            },
+            {
+              "key": "Condition for Benefits",
+              "value": "Execution of legal release of claims"
+            },
+            {
+              "key": "Previous Employment Agreement",
+              "value": "Existing employment agreement, as previously amended."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 68,
+          "title": "Company Leadership and Board Composition",
+          "data": [
+            {
+              "key": "Director Name",
+              "value": "Dr. Michael R. Bristow"
+            },
+            {
+              "key": "Position",
+              "value": "President and Chief Executive Officer and Class II Director (5)"
+            },
+            {
+              "key": "Director Name",
+              "value": "Thomas A. Keuer"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Operating Officer"
+            },
+            {
+              "key": "Director Name",
+              "value": "Christopher D. Ozeroff +"
+            },
+            {
+              "key": "Position",
+              "value": "Secretary, Senior Vice President and General Counsel"
+            },
+            {
+              "key": "Director Name",
+              "value": "C. Jeffrey Dekker"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Financial Officer"
+            },
+            {
+              "key": "Director Name",
+              "value": "Dr. Linda Grais (1) (2)* (4)"
+            },
+            {
+              "key": "Position",
+              "value": "Class I Director (5)"
+            },
+            {
+              "key": "Director Name",
+              "value": "Dr. Raymond L. Woosley (2) (3)*"
+            },
+            {
+              "key": "Position",
+              "value": "Class HI Director (5)"
+            },
+            {
+              "key": "Director Name",
+              "value": "Mr. Robert E. Conway (1)* (2) (4)"
+            },
+            {
+              "key": "Position",
+              "value": "Class I Director (5)"
+            },
+            {
+              "key": "Director Name",
+              "value": "Mr. Dan J. Mitchell (1) (3)"
+            },
+            {
+              "key": "Position",
+              "value": "Class HI Director (5)"
+            },
+            {
+              "key": "Director Name",
+              "value": "Dr. Anders Hove (3) (4)"
+            },
+            {
+              "key": "Position",
+              "value": "Class I Director (5)"
+            },
+            {
+              "key": "Director Name",
+              "value": "Mr. Jacob Ma-Weaver (4)"
+            },
+            {
+              "key": "Position",
+              "value": "Class HI Director (5)"
+            },
+            {
+              "key": "Director Name",
+              "value": "Mr. James Flynn"
+            },
+            {
+              "key": "Position",
+              "value": "Class I Director (5)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 69,
+          "title": "Leadership Changes and Current Board Members",
+          "data": [
+            {
+              "key": "Board Members",
+              "value": "Mr. Dekker - President, Vice President of Finance, and Senior Director, Finance and Controller; Dr. Grais - Board member since May 2007; Dr. Woosley - Appointed July 2013; Mr. Conway - Chairman since 2014; Mr. Mitchell - Appointed February 2014."
+            },
+            {
+              "key": "Experience",
+              "value": "Mr. Dekker - Leadership roles in finance and accounting; Dr. Grais - Experience in biopharmaceuticals and law; Dr. Woosley - Expertise in pharmacology; Mr. Conway - CEO experience in biopharma; Mr. Mitchell - Venture capital focus."
+            },
+            {
+              "key": "Education",
+              "value": "Mr. Dekker - B.S. in accounting; Dr. Grais - B.A., M.D., J.D.; Dr. Woosley - Ph.D. in Pharmacology, M.D.; Mr. Conway - B.S. in accounting; Mr. Mitchell - B.S., M.B.A."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 70,
+          "title": "Board of Directors Overview",
+          "data": [
+            {
+              "key": "Dr. Anders Hove",
+              "value": "Member of the Board since February 2017, manager of Acorn Bioventures, former general partner at Venrock Associates, and CEO of Bellevue Asset Management."
+            },
+            {
+              "key": "Mr. Jacob Ma-Weaver",
+              "value": "Appointed in June 2022, Managing Member of Cable Car Capital LLC, experience in healthcare investment analysis."
+            },
+            {
+              "key": "Mr. James Flynn",
+              "value": "Appointed in December 2022, Managing Member of Nerium Capital LLC, experience in healthcare investment, former analyst at Aptigon Capital."
+            },
+            {
+              "key": "Election Process",
+              "value": "Directors are elected by plurality votes at annual stockholders’ meetings, with staggered terms for three classes of directors."
+            },
+            {
+              "key": "Current Board Composition",
+              "value": "Two Class II directors (terms expire in 2023), three Class III directors (terms expire in 2024), and three Class I directors (terms expire in 2025)."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 71,
+          "title": "Board Committees Overview",
+          "data": [
+            {
+              "key": "Audit Committee Composition",
+              "value": "Mr. Conway (chair), Mr. Mitchell, Dr. Grais"
+            },
+            {
+              "key": "Compensation Committee Composition",
+              "value": "Mr. Conway, Dr. Grais (chair), Dr. Woosley"
+            },
+            {
+              "key": "Audit Committee Meetings",
+              "value": "4 during the fiscal year"
+            },
+            {
+              "key": "Compensation Committee Meetings",
+              "value": "2 during the fiscal year"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 74,
+          "title": "Nominating and Corporate Governance Committee Process for Director Nominees",
+          "data": [
+            {
+              "key": "Committee Role",
+              "value": "Identifying and evaluating director nominees, including stockholder nominees."
+            },
+            {
+              "key": "Candidate Evaluation",
+              "value": "Utilizes management input and contacts to identify candidates, engages professional search firms if necessary."
+            },
+            {
+              "key": "Qualifications Considered",
+              "value": "Education, professional background, industry experience, availability."
+            },
+            {
+              "key": "Evaluation Factors",
+              "value": "Diversity, age, skills, and current composition of the Board."
+            },
+            {
+              "key": "Stockholder Recommendations",
+              "value": "Recommended nominees evaluated like other candidates."
+            },
+            {
+              "key": "Nominee Independence",
+              "value": "Determination based on Nasdaq and SEC standards."
+            },
+            {
+              "key": "Communication with Stockholders",
+              "value": "Written recommendations for nominees can be submitted."
+            },
+            {
+              "key": "No Rejections",
+              "value": "No timely nominations from stockholders have been rejected."
+            },
+            {
+              "key": "Financial Disclosure",
+              "value": "Did not pay fees for candidate assistance in 2022."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Exhibit List",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "3.1"
+            },
+            {
+              "key": "Description",
+              "value": "Amended and Restated Certificate of Incorporation of the Registrant, as amended."
+            },
+            {
+              "key": "Form",
+              "value": "10-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "3/27/2009"
+            },
+            {
+              "key": "Number",
+              "value": "3.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Exhibit List",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "3.1(a)"
+            },
+            {
+              "key": "Description",
+              "value": "Certificate of Amendment to Restated Certificate of Incorporation."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "3/5/2013"
+            },
+            {
+              "key": "Number",
+              "value": "5.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Exhibit List",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "3.1(b)"
+            },
+            {
+              "key": "Description",
+              "value": "Certificate of Amendment to Restated Certificate of Incorporation."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "9/3/2015"
+            },
+            {
+              "key": "Number",
+              "value": "3.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Exhibit List",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "3.1(c)"
+            },
+            {
+              "key": "Description",
+              "value": "Certificate of Amendment to Restated Certificate of Incorporation."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "4/3/2019"
+            },
+            {
+              "key": "Number",
+              "value": "3.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Exhibit List",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "3.2"
+            },
+            {
+              "key": "Description",
+              "value": "Amended and Restated Bylaws of the Registrant, as amended."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "6/28/2021"
+            },
+            {
+              "key": "Number",
+              "value": "3.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Exhibit List",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "41"
+            },
+            {
+              "key": "Description",
+              "value": "Form of Common Stock Certificate."
+            },
+            {
+              "key": "Form",
+              "value": "8K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "1/28/2009"
+            },
+            {
+              "key": "Number",
+              "value": "A1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Exhibit List",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "42"
+            },
+            {
+              "key": "Description",
+              "value": "Form of Common Stock Certificate"
+            },
+            {
+              "key": "Form",
+              "value": "0-9"
+            },
+            {
+              "key": "Filing Date",
+              "value": "5/8/2019"
+            },
+            {
+              "key": "Number",
+              "value": "42"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Exhibit List",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "43"
+            },
+            {
+              "key": "Description",
+              "value": "Reference is made to Exhibits 3.1, 3.1(a), 3.1(b) and 3.2"
+            },
+            {
+              "key": "Form",
+              "value": ""
+            },
+            {
+              "key": "Filing Date",
+              "value": ""
+            },
+            {
+              "key": "Number",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Exhibit List",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "44"
+            },
+            {
+              "key": "Description",
+              "value": "Description of Registered Securities (Incorporated by reference to Exhibit 4.7 to the Registrant's Annual Report on Form 10-K filed on February 18, 2020)."
+            },
+            {
+              "key": "Form",
+              "value": "OK"
+            },
+            {
+              "key": "Filing Date",
+              "value": "9/18/2020"
+            },
+            {
+              "key": "Number",
+              "value": "47"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Exhibit List",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "10.1§"
+            },
+            {
+              "key": "Description",
+              "value": "License and Sublicense Agreement, dated October 28, 2003, by and between ARCA Discovery, Inc. and CPEC, L.L.C."
+            },
+            {
+              "key": "Form",
+              "value": "0-Q"
+            },
+            {
+              "key": "Filing Date",
+              "value": "5/15/2009"
+            },
+            {
+              "key": "Number",
+              "value": "10.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Exhibit List",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "10.2"
+            },
+            {
+              "key": "Description",
+              "value": "Amendment to License and Sublicense Agreement, dated February 22, 2006, by and between ARCA Discovery, Inc. and CPEC L.L.C."
+            },
+            {
+              "key": "Form",
+              "value": "9-Q"
+            },
+            {
+              "key": "Filing Date",
+              "value": "5/15/2009"
+            },
+            {
+              "key": "Number",
+              "value": "10.2"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Exhibit List",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "10.3+"
+            },
+            {
+              "key": "Description",
+              "value": "ARCA biopharma, Inc. 2004 Equity Incentive Plan (f/k/a Nuvelo, Inc. 2004 Equity Incentive Plan), Form of Partial Acceleration Stock Option Agreement."
+            },
+            {
+              "key": "Form",
+              "value": "0-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "3/27/2009"
+            },
+            {
+              "key": "Number",
+              "value": "10.34"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 86,
+          "title": "Exhibit List",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "10.4"
+            },
+            {
+              "key": "Description",
+              "value": "ARCA biopharma, Inc. 2004 Equity Incentive Plan (f/k/a Nuvelo, Inc. 2004 Equity Incentive Plan), Form of No Acceleration Stock Option Agreement."
+            },
+            {
+              "key": "Form",
+              "value": "0-K"
+            },
+            {
+              "key": "Filing Date",
+              "value": "3/27/2009"
+            },
+            {
+              "key": "Number",
+              "value": "10.35"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 91,
+          "title": "Corporate Officers and Directors Signatures",
+          "data": [
+            {
+              "key": "Name",
+              "value": "/s/ Michael R. Bristow"
+            },
+            {
+              "key": "Position",
+              "value": "President and Chief Executive"
+            },
+            {
+              "key": "Date",
+              "value": "February 24, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "Michael R. Bristow"
+            },
+            {
+              "key": "Position",
+              "value": "Officer and Director (Principal Executive Officer)"
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Name",
+              "value": "/s/ C. Jeffrey Dekker C. Jeffrey Dekker"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Financial Officer (Principal Financial Officer and Principal Accounting Officer)"
+            },
+            {
+              "key": "Date",
+              "value": "February 24, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "/s/ Linda Grais Linda Grais"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 24, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "/s/ Raymond Woosley Raymond Woosley"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 24, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "/s/ Robert Conway Robert Conway"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 24, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "/s/ Daniel Mitchell"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 24, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "Daniel Mitchell"
+            },
+            {
+              "key": "Position",
+              "value": ""
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Name",
+              "value": "/s/ Anders Hove Anders Hove"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 24, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "/s/ Jacob Ma-Weaver"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 24, 2023"
+            },
+            {
+              "key": "Name",
+              "value": "Jacob Ma-Weaver"
+            },
+            {
+              "key": "Position",
+              "value": ""
+            },
+            {
+              "key": "Date",
+              "value": ""
+            },
+            {
+              "key": "Name",
+              "value": "/s/ James Flynn"
+            },
+            {
+              "key": "Position",
+              "value": "Director"
+            },
+            {
+              "key": "Date",
+              "value": "February 24, 2023"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": true,
+      "elements": [
+        {
+          "type": "layoff",
+          "page": 46,
+          "title": "Workforce Reduction Details",
+          "data": [
+            {
+              "key": "workforce reduction percentage",
+              "value": "67%"
+            },
+            {
+              "key": "number of employees laid off",
+              "value": "12"
+            },
+            {
+              "key": "reason for reduction",
+              "value": "to manage operating costs and expenses"
+            },
+            {
+              "key": "restructuring charges",
+              "value": "$755,000"
+            },
+            {
+              "key": "restructuring charges for R&D",
+              "value": "$470,000"
+            },
+            {
+              "key": "restructuring charges for G&A",
+              "value": "$285,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "layoff",
+          "page": 60,
+          "title": "Property and Equipment Breakdown",
+          "data": [
+            {
+              "key": "Computer equipment (2022)",
+              "value": "39"
+            },
+            {
+              "key": "Computer equipment (2021)",
+              "value": "50"
+            },
+            {
+              "key": "Lab equipment (2022)",
+              "value": "130"
+            },
+            {
+              "key": "Lab equipment (2021)",
+              "value": "133"
+            },
+            {
+              "key": "Furniture and fixtures (2022)",
+              "value": "44"
+            },
+            {
+              "key": "Furniture and fixtures (2021)",
+              "value": "44"
+            },
+            {
+              "key": "Computer software (2022)",
+              "value": "16"
+            },
+            {
+              "key": "Computer software (2021)",
+              "value": "16"
+            },
+            {
+              "key": "Accumulated depreciation and amortization (2022)",
+              "value": "-204"
+            },
+            {
+              "key": "Accumulated depreciation and amortization (2021)",
+              "value": "-195"
+            },
+            {
+              "key": "Property and equipment, net (2022)",
+              "value": "25"
+            },
+            {
+              "key": "Property and equipment, net (2021)",
+              "value": "48"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "layoff",
+          "page": 77,
+          "title": "Severance Benefits and Employment Termination for Mr. Ozeroff",
+          "data": [
+            {
+              "key": "Employee Name",
+              "value": "Christopher D. Ozeroff"
+            },
+            {
+              "key": "Position",
+              "value": "Senior Vice President and General Counsel"
+            },
+            {
+              "key": "Annual Base Salary",
+              "value": "$259,000"
+            },
+            {
+              "key": "Base Salary Post-Reduction 2019",
+              "value": "$267,609"
+            },
+            {
+              "key": "Base Salary Approved by Board for 2020",
+              "value": "$297,343"
+            },
+            {
+              "key": "Base Salary for 2021 Fiscal Year",
+              "value": "$304,000"
+            },
+            {
+              "key": "Target Bonus Percentage for 2021",
+              "value": "35% of base salary"
+            },
+            {
+              "key": "Severance Payment Upon Termination Without Cause or Good Reason",
+              "value": "12 months' base salary if within 13 months of a change of control, otherwise 6 months' base salary"
+            },
+            {
+              "key": "COBRA Coverage Duration",
+              "value": "6 months"
+            },
+            {
+              "key": "Additional Severance Payment Opportunity",
+              "value": "Up to 6 months of base salary at ARCA's discretion"
+            },
+            {
+              "key": "Termination Date",
+              "value": "March 31, 2023"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 5,
+          "title": "Clinical Development and Financial Strategy Overview",
+          "data": [
+            {
+              "key": "Clinical Trials Initiated",
+              "value": "Phase 2b clinical trial of rNAPc2"
+            },
+            {
+              "key": "Primary Efficacy Endpoint",
+              "value": "Change in D-dimer level from Baseline to Day 8"
+            },
+            {
+              "key": "Funding Needs",
+              "value": "Additional financing required to fully fund clinical trials"
+            },
+            {
+              "key": "Strategic Opportunities",
+              "value": "Pursuing co-development and commercialization partnerships"
+            },
+            {
+              "key": "Impact of Cash Position",
+              "value": "Cash and cash equivalents sufficient through mid-fiscal year 2024"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 15,
+          "title": "Human Capital Management",
+          "data": [
+            {
+              "key": "Employees",
+              "value": "6"
+            },
+            {
+              "key": "Full-Time Employees",
+              "value": "5"
+            },
+            {
+              "key": "Employee Relations",
+              "value": "Good relations maintained with employees"
+            },
+            {
+              "key": "Compensation Program",
+              "value": "Balances incentive earnings for short-term and long-term performance"
+            },
+            {
+              "key": "Benefits Offered",
+              "value": "Health insurance, prescription drug benefits, dental insurance, vision insurance, life insurance, disability insurance, health savings accounts, flexible spending accounts, paid and unpaid leaves, retirement plan, life and disability/accident coverage"
+            },
+            {
+              "key": "Voluntary Benefits",
+              "value": "Hospital indemnity insurance, accident insurance, critical illness insurance"
+            },
+            {
+              "key": "Employee Turnover Monitoring",
+              "value": "Continually monitored as success depends on retaining personnel"
+            },
+            {
+              "key": "Average Tenure of Employees",
+              "value": "Approximately eleven years"
+            },
+            {
+              "key": "Employees with Over Ten Years Tenure",
+              "value": "Approximately one-half of employees"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 38,
+          "title": "Litigation involving patent and intellectual property rights",
+          "data": [
+            {
+              "key": "Litigation Risks",
+              "value": "Substantial litigation involving patent and other intellectual property rights in the biotechnology and biopharmaceutical industries."
+            },
+            {
+              "key": "Impact of Infringement Claims",
+              "value": "Claims can divert management's attention, are expensive and time-consuming to litigate."
+            },
+            {
+              "key": "Monetary Damages",
+              "value": "Court may impose substantial monetary damages for past infringement."
+            },
+            {
+              "key": "Licensing Restrictions",
+              "value": "Court may prohibit selling or licensing products pending license agreements."
+            },
+            {
+              "key": "Patent Protection Uncertainty",
+              "value": "Uncertainty about the strength and enforceability of patents."
+            },
+            {
+              "key": "Competitor Patents",
+              "value": "Competitors may develop similar products not restricted by existing patents."
+            },
+            {
+              "key": "Provisional Patent Application for COVID-19",
+              "value": "Filed for rNAPc2's use in COVID-19 but uncertain outcome."
+            },
+            {
+              "key": "Receptor Genotype Labeling",
+              "value": "Anticipated NDA for Gencaro includes efficacy claims based on receptor genotype."
+            },
+            {
+              "key": "Limitations in Foreign Patent Protection",
+              "value": "Potential challenges in protecting intellectual property rights in foreign jurisdictions."
+            },
+            {
+              "key": "Confidentiality Agreements",
+              "value": "Employees required to execute confidentiality agreements to protect proprietary information."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 48,
+          "title": "Retention Bonuses for Certain Employees",
+          "data": [
+            {
+              "key": "Approval Date",
+              "value": "December 2022"
+            },
+            {
+              "key": "Amount",
+              "value": "$265,000"
+            },
+            {
+              "key": "Conditions",
+              "value": "Subject to continued employment through the earlier of a change in control or certain clinical development decisions"
+            },
+            {
+              "key": "Accrual Status",
+              "value": "None accrued as of December 31, 2022"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 61,
+          "title": "Operating Lease Details and Future Commitments",
+          "data": [
+            {
+              "key": "Operating lease liability, net of current portion",
+              "value": "280"
+            },
+            {
+              "key": "Total remaining lease payments",
+              "value": "441"
+            },
+            {
+              "key": "Less: imputed lease interest",
+              "value": "(58)"
+            },
+            {
+              "key": "Less: Current portion",
+              "value": "(103)"
+            },
+            {
+              "key": "Rent expense for 2022",
+              "value": "125,000"
+            },
+            {
+              "key": "Rent expense for 2021",
+              "value": "109,000"
+            },
+            {
+              "key": "Lease liability as of December 31, 2022",
+              "value": "383,000"
+            },
+            {
+              "key": "Cash paid for lease liabilities for 2022",
+              "value": "131,000"
+            },
+            {
+              "key": "Cash paid for lease liabilities for 2021",
+              "value": "84,000"
+            },
+            {
+              "key": "Weighted-average remaining lease term (years)",
+              "value": "3.9"
+            },
+            {
+              "key": "Weighted-average discount rate",
+              "value": "7%"
+            },
+            {
+              "key": "Patent obligations to University Medical Center Mainz",
+              "value": "approximately €1.6 million"
+            }
+          ],
+          "currency": "EUR"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 62,
+          "title": "Share-based Compensation Stock Plans",
+          "data": [
+            {
+              "key": "Equity Plan Name",
+              "value": "2020 Equity Incentive Plan"
+            },
+            {
+              "key": "Approval Date",
+              "value": "December 10, 2020"
+            },
+            {
+              "key": "Maximum shares issuable",
+              "value": "1,167,425 shares"
+            },
+            {
+              "key": "Outstanding stock options as of December 31, 2022",
+              "value": "684,400 shares"
+            },
+            {
+              "key": "Weighted average exercise price of outstanding options",
+              "value": "$3.47 per share"
+            },
+            {
+              "key": "Shares reserved for future awards",
+              "value": "371,487 shares"
+            },
+            {
+              "key": "Terms for stock options",
+              "value": "Vests at rates set by Board of Directors or Compensation Committee, generally become exercisable ratably over three to four years, maximum term of ten years."
+            },
+            {
+              "key": "Incentive stock options exercise price requirement",
+              "value": "At least 100% of the fair market value on the grant date."
+            },
+            {
+              "key": "Ten Percent Holder exercise price requirement",
+              "value": "At least 110% of the fair market value on the grant date."
+            },
+            {
+              "key": "Discontinued Grants Effective Date of 2013 Plan",
+              "value": "December 10, 2020"
+            },
+            {
+              "key": "Discontinued Grants Effective Date of 2004 Plan",
+              "value": "September 17, 2013"
+            },
+            {
+              "key": "Outstanding options under the 2013 plan as of December 31, 2022",
+              "value": "20,538 shares"
+            },
+            {
+              "key": "Weighted average exercise price under the 2013 plan",
+              "value": "$77.12 per share"
+            },
+            {
+              "key": "Outstanding options still vesting under the 2004 plan as of December 31, 2022",
+              "value": "22 shares"
+            },
+            {
+              "key": "Weighted average exercise price under the 2004 plan",
+              "value": "$172.79 per share"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 63,
+          "title": "Financial Metrics Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Expected term",
+              "value": "Expected volatility"
+            },
+            {
+              "key": "2022 (5.5 years)",
+              "value": "107%"
+            },
+            {
+              "key": "2021 (5.9 years)",
+              "value": "94%"
+            },
+            {
+              "key": "Expected term",
+              "value": "Risk-free interest rate"
+            },
+            {
+              "key": "2022 (5.5 years)",
+              "value": "3.56%"
+            },
+            {
+              "key": "2021 (5.9 years)",
+              "value": "1.08%"
+            },
+            {
+              "key": "Expected term",
+              "value": "Expected dividend yield"
+            },
+            {
+              "key": "2022 (5.5 years)",
+              "value": "0%"
+            },
+            {
+              "key": "2021 (5.9 years)",
+              "value": "0%"
+            },
+            {
+              "key": "Expected term",
+              "value": "Weighted-average grant date fair value per share"
+            },
+            {
+              "key": "2022 (5.5 years)",
+              "value": "$1.87"
+            },
+            {
+              "key": "2021 (5.9 years)",
+              "value": "$2.09"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 63,
+          "title": "Options Outstanding and Exercisable Summary",
+          "data": [
+            {
+              "key": "date",
+              "value": "2020 Granted"
+            },
+            {
+              "key": "number_of_options",
+              "value": "null"
+            },
+            {
+              "key": "exercise_price",
+              "value": "8.71"
+            },
+            {
+              "key": "remaining_term",
+              "value": "2.77"
+            },
+            {
+              "key": "intrinsic_value",
+              "value": "null"
+            },
+            {
+              "key": "date",
+              "value": "December 31, 2021"
+            },
+            {
+              "key": "number_of_options",
+              "value": "904123"
+            },
+            {
+              "key": "exercise_price",
+              "value": "5.59"
+            },
+            {
+              "key": "remaining_term",
+              "value": "9.18"
+            },
+            {
+              "key": "intrinsic_value",
+              "value": "0"
+            },
+            {
+              "key": "granted",
+              "value": "60000"
+            },
+            {
+              "key": "date",
+              "value": "Exercised/Forfeited"
+            },
+            {
+              "key": "number_of_options",
+              "value": "-259163"
+            },
+            {
+              "key": "exercise_price",
+              "value": "4.74"
+            },
+            {
+              "key": "remaining_term",
+              "value": "null"
+            },
+            {
+              "key": "intrinsic_value",
+              "value": "null"
+            },
+            {
+              "key": "date",
+              "value": "December 31, 2022"
+            },
+            {
+              "key": "number_of_options",
+              "value": "704960"
+            },
+            {
+              "key": "exercise_price",
+              "value": "5.62"
+            },
+            {
+              "key": "remaining_term",
+              "value": "8.29"
+            },
+            {
+              "key": "intrinsic_value",
+              "value": "18"
+            },
+            {
+              "key": "date",
+              "value": "December 31, 2022 (Exercisable)"
+            },
+            {
+              "key": "number_of_options",
+              "value": "308237"
+            },
+            {
+              "key": "exercise_price",
+              "value": "8.69"
+            },
+            {
+              "key": "remaining_term",
+              "value": "7.90"
+            },
+            {
+              "key": "intrinsic_value",
+              "value": "5"
+            },
+            {
+              "key": "date",
+              "value": "December 31, 2022 (Vested and Expected to Vest)"
+            },
+            {
+              "key": "number_of_options",
+              "value": "704803"
+            },
+            {
+              "key": "exercise_price",
+              "value": "5.62"
+            },
+            {
+              "key": "remaining_term",
+              "value": "8.29"
+            },
+            {
+              "key": "intrinsic_value",
+              "value": "18"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 64,
+          "title": "RSUs Outstanding Summary",
+          "data": [
+            {
+              "key": "RSUs outstanding - December 31, 2022",
+              "value": "91,000"
+            },
+            {
+              "key": "Weighted Average Grant Date Fair Value",
+              "value": "2.21"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 64,
+          "title": "Expense Breakdown as of December 31, 2022 and 2021 (in millions)",
+          "data": [
+            {
+              "key": "Research and development 2022",
+              "value": "133"
+            },
+            {
+              "key": "Research and development 2021",
+              "value": "160"
+            },
+            {
+              "key": "General and administrative 2022",
+              "value": "423"
+            },
+            {
+              "key": "General and administrative 2021",
+              "value": "337"
+            },
+            {
+              "key": "Total 2022",
+              "value": "556"
+            },
+            {
+              "key": "Total 2021",
+              "value": "497"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 72,
+          "title": "Executive Compensation Overview",
+          "data": [
+            {
+              "key": "Compensation Committee Role",
+              "value": "The Compensation Committee of the Board of Directors oversees the Company’s compensation strategy, policies, and programs."
+            },
+            {
+              "key": "Succession Planning",
+              "value": "The Compensation Committee reviews performance and advancement potential of senior management and succession plans."
+            },
+            {
+              "key": "Approval of Compensation Plans",
+              "value": "The Committee is responsible for approving performance-based compensation plans and executive compensation programs."
+            },
+            {
+              "key": "Report Preparation",
+              "value": "Prepares and approves the Report of the Compensation Committee for the annual meeting proxy statement."
+            },
+            {
+              "key": "Meeting Frequency",
+              "value": "The Committee meets as deemed appropriate, with agendas developed by the Chair."
+            },
+            {
+              "key": "Executive Compensation Consultants",
+              "value": "The Committee has authority to retain consultants for evaluating executive compensation."
+            },
+            {
+              "key": "Alignment with Peer Companies",
+              "value": "Executive compensation is set to align with peer companies and to incentivize corporate goal achievement."
+            },
+            {
+              "key": "Equity Incentive Plan Review",
+              "value": "Reviewed changes to the ARCA 2013 Equity Incentive Plan, leading to the approval of the 2020 ARCA Equity Incentive Plan."
+            },
+            {
+              "key": "Named Executive Officers' Compensation 2021",
+              "value": "Michael R. Bristow: $345,000 base salary, 50% target bonus; Thomas A. Keuer: $340,000 base salary, 40% target bonus; Christopher D. Ozeroff: $304,000 base salary, 35% target bonus."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 73,
+          "title": "Executive Compensation Summary",
+          "data": [
+            {
+              "key": "C. Jeffrey Dekker Base Salary",
+              "value": "$270,000"
+            },
+            {
+              "key": "Target Bonus Percentage",
+              "value": "35%"
+            },
+            {
+              "key": "Committee Responsibilities",
+              "value": "Determines compensation levels, bonus and equity awards, and establishes performance objectives."
+            },
+            {
+              "key": "Annual Review Process",
+              "value": "Compensation considerations are reviewed primarily in the first quarter, with ongoing evaluations throughout the year."
+            },
+            {
+              "key": "Compensation for Chief Executive Officer",
+              "value": "Compensation is evaluated based on Company and individual goals."
+            },
+            {
+              "key": "Say-on-Pay Vote",
+              "value": "91% of stockholders approved executive compensation at the 2022 annual meeting."
+            },
+            {
+              "key": "Nominating and Corporate Governance Committee Composition",
+              "value": "Dr. Hove, Mr. Mitchell, Dr. Woosley (chair)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 75,
+          "title": "Executive Compensation Summary",
+          "data": [
+            {
+              "key": "Executive Officer",
+              "value": "Michael R. Bristow"
+            },
+            {
+              "key": "Position",
+              "value": "President and Chief Executive Officer"
+            },
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Salary",
+              "value": "345000"
+            },
+            {
+              "key": "Option Awards",
+              "value": "0"
+            },
+            {
+              "key": "Stock Awards",
+              "value": "0"
+            },
+            {
+              "key": "Incentive Plan Awards",
+              "value": "0"
+            },
+            {
+              "key": "All Other Compensation",
+              "value": "13800"
+            },
+            {
+              "key": "Total Compensation",
+              "value": "358800"
+            },
+            {
+              "key": "Executive Officer",
+              "value": "Thomas A. Keuer"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Operating Officer"
+            },
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Salary",
+              "value": "343431"
+            },
+            {
+              "key": "Option Awards",
+              "value": "162956"
+            },
+            {
+              "key": "Stock Awards",
+              "value": "0"
+            },
+            {
+              "key": "Incentive Plan Awards",
+              "value": "0"
+            },
+            {
+              "key": "All Other Compensation",
+              "value": "20126"
+            },
+            {
+              "key": "Total Compensation",
+              "value": "526513"
+            },
+            {
+              "key": "Executive Officer",
+              "value": "Thomas A. Keuer"
+            },
+            {
+              "key": "Position",
+              "value": "Chief Operating Officer"
+            },
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Salary",
+              "value": "340000"
+            },
+            {
+              "key": "Option Awards",
+              "value": "0"
+            },
+            {
+              "key": "Stock Awards",
+              "value": "88400"
+            },
+            {
+              "key": "Incentive Plan Awards",
+              "value": "0"
+            },
+            {
+              "key": "All Other Compensation",
+              "value": "20593"
+            },
+            {
+              "key": "Total Compensation",
+              "value": "448993"
+            },
+            {
+              "key": "Executive Officer",
+              "value": "Christopher D. Ozeroff"
+            },
+            {
+              "key": "Position",
+              "value": "Secretary, Senior Vice President and General Counsel"
+            },
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Salary",
+              "value": "338577"
+            },
+            {
+              "key": "Option Awards",
+              "value": "60036"
+            },
+            {
+              "key": "Stock Awards",
+              "value": "0"
+            },
+            {
+              "key": "Incentive Plan Awards",
+              "value": "0"
+            },
+            {
+              "key": "All Other Compensation",
+              "value": "22002"
+            },
+            {
+              "key": "Total Compensation",
+              "value": "420615"
+            },
+            {
+              "key": "Executive Officer",
+              "value": "Christopher D. Ozeroff"
+            },
+            {
+              "key": "Position",
+              "value": "Secretary, Senior Vice President and General Counsel"
+            },
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Salary",
+              "value": "304000"
+            },
+            {
+              "key": "Option Awards",
+              "value": "0"
+            },
+            {
+              "key": "Stock Awards",
+              "value": "0"
+            },
+            {
+              "key": "Incentive Plan Awards",
+              "value": "0"
+            },
+            {
+              "key": "All Other Compensation",
+              "value": "12429"
+            },
+            {
+              "key": "Total Compensation",
+              "value": "316429"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 76,
+          "title": "Executive Compensation Summary",
+          "data": [
+            {
+              "key": "Dr. Bristow Cash Bonus",
+              "value": "$144,000"
+            },
+            {
+              "key": "Dr. Bristow Severance Payment Conditions",
+              "value": "12 months base salary if terminated within 13 months of a change of control, otherwise 6 months"
+            },
+            {
+              "key": "Dr. Bristow Pro Rata Bonus Pay",
+              "value": "Bonus for fiscal year upon termination"
+            },
+            {
+              "key": "Dr. Bristow Group Health Insurance Coverage",
+              "value": "6 months reimbursement for COBRA costs"
+            },
+            {
+              "key": "Mr. Keuer Annual Base Salary",
+              "value": "$280,000"
+            },
+            {
+              "key": "Mr. Keuer Salary Reduction",
+              "value": "10% for remainder of 2019, resulting in $272,700"
+            },
+            {
+              "key": "Mr. Keuer Base Salary Post Reduction",
+              "value": "$303,000 after August 3, 2020"
+            },
+            {
+              "key": "Mr. Keuer 2021 Base Salary",
+              "value": "$340,000"
+            },
+            {
+              "key": "Mr. Keuer Cash Bonus",
+              "value": "$98,000 for 2020"
+            },
+            {
+              "key": "Mr. Keuer Retention Bonus",
+              "value": "$100,000 subject to continued employment through change of control or clinical decisions"
+            },
+            {
+              "key": "Mr. Keuer Severance Payment Conditions",
+              "value": "12 months base salary if terminated within 13 months of a change of control, otherwise 6 months"
+            },
+            {
+              "key": "Mr. Keuer COBRA Coverage",
+              "value": "12 months if terminated within 13 months of change of control, otherwise 6 months"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 78,
+          "title": "Executive Compensation Overview",
+          "data": [
+            {
+              "key": "COBRA Benefits",
+              "value": "Severance benefits conditioned on legal release of claims, includes COBRA benefits as equivalent out-of-pocket expenses."
+            },
+            {
+              "key": "Bonus Structure Establishment",
+              "value": "Established by Compensation Committee for entire executive team for performance incentives."
+            },
+            {
+              "key": "2021 Goals",
+              "value": "Focus on rNAPc2 clinical product, Gencaro development plan, finance and compliance goals."
+            },
+            {
+              "key": "2021 Bonus Plan Approval",
+              "value": "No payouts due to unmet primary endpoints in rNAPc2 Phase 2b trial."
+            },
+            {
+              "key": "2020 Cash Bonus Plan",
+              "value": "Approved cash bonuses for 2020 performance based on Company goals."
+            },
+            {
+              "key": "2020 Goals",
+              "value": "Included financing, rNAPc2 IND approval, and trial enrollment."
+            },
+            {
+              "key": "Overall Compensation Programs",
+              "value": "Designed to be competitive with peer companies, includes 401(k), Medical, Dental, Vision, Life, and Disability Insurance."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 79,
+          "title": "OUTSTANDING EQUITY AWARDS AT FISCAL YEAR END",
+          "data": [
+            {
+              "key": "Summary",
+              "value": "This table shows stock option holdings for three senior executives. Michael R. Bristow (CEO) has the largest option grants, with 95,000 exercisable and unexercisable options at $4.27. Thomas A. Keuer (COO) has significant holdings with various strike prices, including 63,333 unexercisable options at $2.29. Christopher Ozeroff (General Counsel) has relatively smaller holdings, with his largest grant being 27,500 options at $4.27."
+            },
+            {
+              "key": "Total Executives",
+              "value": "3"
+            },
+            {
+              "key": "Executives",
+              "value": "Michael R. Bristow, Thomas A. Keuer, Christopher Ozeroff"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 80,
+          "title": "Stock Vesting Information",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Thomas A. Keuer, Chief Operating Officer"
+            },
+            {
+              "key": "Number of Shares or Units of Stock That Have Not Vested Unvested",
+              "value": "40,000"
+            },
+            {
+              "key": "Market Value of Shares or Units of Stock That Have Not Vested Price",
+              "value": "$94,400"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 80,
+          "title": "DIRECTOR COMPENSATION",
+          "data": [
+            {
+              "key": "Name",
+              "value": "Linda Grais, M.D. (3)"
+            },
+            {
+              "key": "Fees Earned or Paid in Cash ($)",
+              "value": "57500"
+            },
+            {
+              "key": "Option Awards ($)(2)",
+              "value": "11336"
+            },
+            {
+              "key": "Nonqualified Deferred Compensation Earnings ($)",
+              "value": "—"
+            },
+            {
+              "key": "All Other Compensation ($)",
+              "value": "_"
+            },
+            {
+              "key": "Total ($)",
+              "value": "68836"
+            },
+            {
+              "key": "Name",
+              "value": "Raymond L. Woosley, M.D. (4).."
+            },
+            {
+              "key": "Fees Earned or Paid in Cash ($)",
+              "value": "55000"
+            },
+            {
+              "key": "Option Awards ($)(2)",
+              "value": "11336"
+            },
+            {
+              "key": "Nonqualified Deferred Compensation Earnings ($)",
+              "value": "—"
+            },
+            {
+              "key": "All Other Compensation ($)",
+              "value": "_"
+            },
+            {
+              "key": "Total ($)",
+              "value": "66336"
+            },
+            {
+              "key": "Name",
+              "value": "Robert E. Conway (5)"
+            },
+            {
+              "key": "Fees Earned or Paid in Cash ($)",
+              "value": "90000"
+            },
+            {
+              "key": "Option Awards ($)(2)",
+              "value": "11336"
+            },
+            {
+              "key": "Nonqualified Deferred Compensation Earnings ($)",
+              "value": "—"
+            },
+            {
+              "key": "All Other Compensation ($)",
+              "value": "_"
+            },
+            {
+              "key": "Total ($)",
+              "value": "101336"
+            },
+            {
+              "key": "Name",
+              "value": "Dan J. Mitchell (6) .."
+            },
+            {
+              "key": "Fees Earned or Paid in Cash ($)",
+              "value": "52500"
+            },
+            {
+              "key": "Option Awards ($)(2)",
+              "value": "11336"
+            },
+            {
+              "key": "Nonqualified Deferred Compensation Earnings ($)",
+              "value": "—"
+            },
+            {
+              "key": "All Other Compensation ($)",
+              "value": "_"
+            },
+            {
+              "key": "Total ($)",
+              "value": "63836"
+            },
+            {
+              "key": "Name",
+              "value": "Anders Hove (7) .."
+            },
+            {
+              "key": "Fees Earned or Paid in Cash ($)",
+              "value": "45000"
+            },
+            {
+              "key": "Option Awards ($)(2)",
+              "value": "11336"
+            },
+            {
+              "key": "Nonqualified Deferred Compensation Earnings ($)",
+              "value": "—"
+            },
+            {
+              "key": "All Other Compensation ($)",
+              "value": "_"
+            },
+            {
+              "key": "Total ($)",
+              "value": "56336"
+            },
+            {
+              "key": "Name",
+              "value": "Jacob Ma-Weaver (8)."
+            },
+            {
+              "key": "Fees Earned or Paid in Cash ($)",
+              "value": "21667"
+            },
+            {
+              "key": "Option Awards ($)(2)",
+              "value": "32226"
+            },
+            {
+              "key": "Nonqualified Deferred Compensation Earnings ($)",
+              "value": "—"
+            },
+            {
+              "key": "All Other Compensation ($)",
+              "value": "_"
+            },
+            {
+              "key": "Total ($)",
+              "value": "53893"
+            },
+            {
+              "key": "Name",
+              "value": "James Flynn (9) ..."
+            },
+            {
+              "key": "Fees Earned or Paid in Cash ($)",
+              "value": "1667"
+            },
+            {
+              "key": "Option Awards ($)(2)",
+              "value": "23013"
+            },
+            {
+              "key": "Nonqualified Deferred Compensation Earnings ($)",
+              "value": "—"
+            },
+            {
+              "key": "All Other Compensation ($)",
+              "value": "—"
+            },
+            {
+              "key": "Total ($)",
+              "value": "24680"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 81,
+          "title": "Equity Compensation Plan Information",
+          "data": [
+            {
+              "key": "Plan",
+              "value": "Equity compensation plans approved by security holders Equity compensation plans not approved by security holders"
+            },
+            {
+              "key": "Number of Securities to be Issued Upon Exercise of Outstanding Options or Upon Vesting of Restricted Stock Units",
+              "value": "795,960"
+            },
+            {
+              "key": "Weighted Average Exercise Price of Outstanding Options ($)",
+              "value": "$5.62"
+            },
+            {
+              "key": "Remaining Available for Future Issuance Under Equity Compensation Plans (Excluding Securities Reflected in Column(a))",
+              "value": "371,487"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 82,
+          "title": "Beneficial Ownership of Shares",
+          "data": [
+            {
+              "key": "Date",
+              "value": "February 15, 2023"
+            },
+            {
+              "key": "Beneficial Owner",
+              "value": "Michael R. Bristow, M.D., Ph.D."
+            },
+            {
+              "key": "Shares Beneficially Owned",
+              "value": "160,607"
+            },
+            {
+              "key": "Ownership Percentage",
+              "value": "1.1%"
+            },
+            {
+              "key": "Beneficial Owner",
+              "value": "Thomas A. Keuer"
+            },
+            {
+              "key": "Shares Beneficially Owned",
+              "value": "58,462"
+            },
+            {
+              "key": "Ownership Percentage",
+              "value": "*"
+            },
+            {
+              "key": "Beneficial Owner",
+              "value": "Christopher D. Ozeroff"
+            },
+            {
+              "key": "Shares Beneficially Owned",
+              "value": "96,809"
+            },
+            {
+              "key": "Ownership Percentage",
+              "value": "*"
+            },
+            {
+              "key": "Beneficial Owner",
+              "value": "Linda Grais, M.D."
+            },
+            {
+              "key": "Shares Beneficially Owned",
+              "value": "12,646"
+            },
+            {
+              "key": "Ownership Percentage",
+              "value": "*"
+            },
+            {
+              "key": "Beneficial Owner",
+              "value": "Robert E. Conway"
+            },
+            {
+              "key": "Shares Beneficially Owned",
+              "value": "62,604"
+            },
+            {
+              "key": "Ownership Percentage",
+              "value": "*"
+            },
+            {
+              "key": "Beneficial Owner",
+              "value": "Raymond L. Woosley"
+            },
+            {
+              "key": "Shares Beneficially Owned",
+              "value": "12,611"
+            },
+            {
+              "key": "Ownership Percentage",
+              "value": "*"
+            },
+            {
+              "key": "Beneficial Owner",
+              "value": "Dan J. Mitchell"
+            },
+            {
+              "key": "Shares Beneficially Owned",
+              "value": "13,188"
+            },
+            {
+              "key": "Ownership Percentage",
+              "value": "*"
+            },
+            {
+              "key": "Beneficial Owner",
+              "value": "Anders Hove, M.D."
+            },
+            {
+              "key": "Shares Beneficially Owned",
+              "value": "11,999"
+            },
+            {
+              "key": "Ownership Percentage",
+              "value": "*"
+            },
+            {
+              "key": "Beneficial Owner",
+              "value": "Jacob Ma-Weaver"
+            },
+            {
+              "key": "Shares Beneficially Owned",
+              "value": "4,005,786"
+            },
+            {
+              "key": "Ownership Percentage",
+              "value": "27.8%"
+            },
+            {
+              "key": "Beneficial Owner",
+              "value": "James Flynn"
+            },
+            {
+              "key": "Shares Beneficially Owned",
+              "value": "1,334"
+            },
+            {
+              "key": "Ownership Percentage",
+              "value": "*"
+            },
+            {
+              "key": "Beneficial Owner",
+              "value": "All current directors and executive officers as a group"
+            },
+            {
+              "key": "Shares Beneficially Owned",
+              "value": "4,468,934"
+            },
+            {
+              "key": "Ownership Percentage",
+              "value": "30.3%"
+            },
+            {
+              "key": "Beneficial Owner",
+              "value": "Funicular Funds, LP"
+            },
+            {
+              "key": "Shares Beneficially Owned",
+              "value": "4,005,786"
+            },
+            {
+              "key": "Ownership Percentage",
+              "value": "27.8%"
+            },
+            {
+              "key": "Beneficial Owner",
+              "value": "BML Investment Partners, L.P."
+            },
+            {
+              "key": "Shares Beneficially Owned",
+              "value": "858,256"
+            },
+            {
+              "key": "Ownership Percentage",
+              "value": "6.0%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 83,
+          "title": "Executive Compensation Disclosure",
+          "data": [
+            {
+              "key": "Beneficial Ownership",
+              "value": "Represents beneficial ownership of less than 1% of our Common Stock."
+            },
+            {
+              "key": "Investocor Trust",
+              "value": "Includes 1,109 shares owned by Investocor Trust; Dr. Bristow is the sole trustee."
+            },
+            {
+              "key": "NFS Custodian",
+              "value": "Includes 1,414 shares owned by NFS as Custodian for Michael Bristow’s IRA."
+            },
+            {
+              "key": "Options Exercisable",
+              "value": "Includes options to purchase 155,799 shares that are exercisable within 60 days of February 15, 2023."
+            },
+            {
+              "key": "Mutual Agreement",
+              "value": "Mr. Ozeroff and the Company have mutually agreed to conclude Mr. Ozeroff’s employment effective March 31, 2023."
+            },
+            {
+              "key": "Additional Options",
+              "value": "Includes options to purchase 12,646 shares that are exercisable within 60 days of February 15, 2023."
+            },
+            {
+              "key": "Executive Officers Shared Options",
+              "value": "Includes options to purchase 34,222 shares that are exercisable within 60 days of February 15, 2023 beneficially owned by our executive officers not listed by name."
+            },
+            {
+              "key": "SEC Filing",
+              "value": "Based on Form 4 filed with the SEC on December 19, 2022."
+            },
+            {
+              "key": "Funicular Funds Group",
+              "value": "The Funicular Funds, LP, may be deemed to beneficially own more than 10% of the Company’s outstanding shares."
+            },
+            {
+              "key": "Securities Disclaimers",
+              "value": "Despite shared beneficial ownership, reporting persons disclaim beneficial ownership except for their pecuniary interest."
+            },
+            {
+              "key": "BML Investment Partners",
+              "value": "BML Investment Partners, L.P. is a Delaware limited partnership whose sole general partner is BML Capital Management, LLC."
+            },
+            {
+              "key": "Independent Directors",
+              "value": "Determination of independent directors under Nasdaq listing standards."
+            },
+            {
+              "key": "Non-Material Relationships",
+              "value": "None of the directors had a material or other disqualifying relationship with the Company."
+            },
+            {
+              "key": "Eligibility of Directors",
+              "value": "Directors Mr. Conway, Dr. Grais, Mr. Mitchell, Dr. Hove, and Dr. Woosley are independent."
+            },
+            {
+              "key": "Related Transactions Summary",
+              "value": "Summary of transactions exceeding the threshold involvements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 87,
+          "title": "Table of Exhibits from ARCA biopharma, Inc. Regulatory Filings",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "10.10"
+            },
+            {
+              "key": "Description",
+              "value": "Amended and Restated Employment Agreement, dated June 12, 2008, by and between ARCA biopharma, Inc. and Christopher D. Ozeroff."
+            },
+            {
+              "key": "Form",
+              "value": "0-K"
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "3/27/2009"
+            },
+            {
+              "key": "Number",
+              "value": "0.45"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 89,
+          "title": "Memorandum Regarding Cash Retention Bonus between ARCA biopharma, Inc. and Thomas A. Keuer dated December 8, 2022",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "10.37+"
+            },
+            {
+              "key": "Description",
+              "value": "Inc. and Thomas A. Keuer. Memorandum Regarding Cash Retention Bonus between ARCA biopharma, Inc. and Thomas A. Keuer dated December 8, 2022."
+            },
+            {
+              "key": "Form",
+              "value": "8-K"
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "12/9/2022"
+            },
+            {
+              "key": "Number",
+              "value": "0.1"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 89,
+          "title": "Memorandum Regarding Cash Retention Bonus between ARCA biopharma, Inc. and C. Jeffrey Dekker dated December 8, 2022",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "10.45+"
+            },
+            {
+              "key": "Description",
+              "value": "between ARCA biopharma, Inc. and C. Jeff Dekker. Memorandum Regarding Cash Retention Bonus between ARCA biopharma, Inc. and C. Jeffrey Dekker dated December 8, 2022."
+            },
+            {
+              "key": "Form",
+              "value": "10-Q 8-K"
+            },
+            {
+              "key": "Incorporated by Filing Date",
+              "value": "12/9/2022"
+            },
+            {
+              "key": "Number",
+              "value": "0.2"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 4,
+          "title": "Gencaro Development Overview",
+          "data": [
+            {
+              "key": "Drug Name",
+              "value": "Gencaro"
+            },
+            {
+              "key": "Indication",
+              "value": "Atrial Fibrillation in Heart Failure"
+            },
+            {
+              "key": "Efficacy Population",
+              "value": "HF patients with EF ≥ 40%"
+            },
+            {
+              "key": "Patent Issued",
+              "value": "February 2021"
+            },
+            {
+              "key": "Patent Protection Until",
+              "value": "2039"
+            },
+            {
+              "key": "Expected Clinical Trial",
+              "value": "Phase 3, PRECISION-AF"
+            },
+            {
+              "key": "Clinical Trial Agreement",
+              "value": "FDA Special Protocol Assessment"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 6,
+          "title": "Gencaro Clinical Development",
+          "data": [
+            {
+              "key": "trial_name",
+              "value": "GENETIC-AF Phase 2B Clinical Trial"
+            },
+            {
+              "key": "participants_enrolled",
+              "value": "267"
+            },
+            {
+              "key": "locations",
+              "value": "United States, Canada, Europe"
+            },
+            {
+              "key": "primary_analysis",
+              "value": "compared the evidence of safety and efficacy of Gencaro versus an active comparator, TOPROL-XL"
+            },
+            {
+              "key": "primary_endpoint",
+              "value": "time to first event"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 8,
+          "title": "Gencaro Clinical Development and Regulatory Strategy",
+          "data": [
+            {
+              "key": "Gencaro Effectiveness",
+              "value": "Gencaro reduced the primary endpoint of mortality or heart transplantation by 43%."
+            },
+            {
+              "key": "Efficacy in Genotype",
+              "value": "Enhanced efficacy in beta-1 389 arginine homozygous genotype."
+            },
+            {
+              "key": "Phase 3 Development Plans",
+              "value": "Phase 3 clinical trial planned with a focus on HF patients with AF, targeting specific genotypes."
+            },
+            {
+              "key": "Regulatory Strategy",
+              "value": "Obtain initial approval for AF treatment in specific HF population (EF ≥ 40%)."
+            },
+            {
+              "key": "FDA SPA Agreement",
+              "value": "Clinical trial is based on an SPA agreement with the FDA."
+            },
+            {
+              "key": "NDA and Fast Track status",
+              "value": "NDA submission eligible for expedited review under Fast Track program."
+            },
+            {
+              "key": "Companion Diagnostic",
+              "value": "First cardiovascular drug integrated with a companion diagnostic test."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 9,
+          "title": "Development Pipeline and Financial Resources for Gencaro",
+          "data": [
+            {
+              "key": "Product Name",
+              "value": "Gencaro™ (bucindolol hydrochloride)"
+            },
+            {
+              "key": "Therapeutic Area",
+              "value": "Atrial fibrillation in patients with chronic heart failure"
+            },
+            {
+              "key": "Description",
+              "value": "A pharmacogenetic-targeted beta-adrenergic receptor antagonist with mild vasodilator properties."
+            },
+            {
+              "key": "Approval Plan",
+              "value": "Obtain initial approval for Gencaro to treat AF in HF patients with EF between 40% and 55%."
+            },
+            {
+              "key": "Market Potential",
+              "value": "Additional indication expansion opportunities for other AF populations."
+            },
+            {
+              "key": "Funding Needs",
+              "value": "Additional financing for clinical trials and operational costs."
+            },
+            {
+              "key": "Financing Risks",
+              "value": "Risk of inability to raise capital and potential discontinuation of development activities."
+            },
+            {
+              "key": "Sales Agreement",
+              "value": "Entered into a sales agreement to sell common stock for up to $54 million."
+            },
+            {
+              "key": "R&D Expenses 2022",
+              "value": "$4.7 million"
+            },
+            {
+              "key": "R&D Expenses 2021",
+              "value": "$13.8 million"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "product_launch",
+          "page": 19,
+          "title": "Risks Related to Product Candidates and Clinical Trials",
+          "data": [
+            {
+              "key": "Risk description",
+              "value": "Failure to demonstrate safety and efficacy of product candidates Gencaro or rNAPc2."
+            },
+            {
+              "key": "Consequences of failure",
+              "value": "Adverse effects on business, inability to complete transactions, or obtain financing."
+            },
+            {
+              "key": "Approval requirements",
+              "value": "Marketing approval required from regulatory authorities."
+            },
+            {
+              "key": "Commercialization challenges",
+              "value": "Need for capital resources and management expertise to commercialize products."
+            },
+            {
+              "key": "Enrollment issues",
+              "value": "Potential difficulties in enrolling patients for clinical trials."
+            },
+            {
+              "key": "Impact of enrollment delays",
+              "value": "Delay or termination of trials affecting approval timelines."
+            },
+            {
+              "key": "Final product potential",
+              "value": "Uncertainty in achieving marketable products from trials."
+            },
+            {
+              "key": "FDA risks",
+              "value": "Possible undesirable side effects halting clinical trials."
+            },
+            {
+              "key": "Milestone achievement uncertainty",
+              "value": "Delays in achieving projected goals for clinical trials and regulatory approvals."
+            },
+            {
+              "key": "Business impact",
+              "value": "Material adverse effects on business results due to milestone failures."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 27,
+          "title": "Future sales and market acceptance of Gencaro",
+          "data": [
+            {
+              "key": "potential risks",
+              "value": "Future sales of Gencaro may suffer if its marketplace acceptance is negatively affected by the genetic test."
+            },
+            {
+              "key": "importance of genetic test",
+              "value": "The genetic test is an important component of the commercial strategy for Gencaro."
+            },
+            {
+              "key": "competition",
+              "value": "Gencaro aims to compete effectively with current therapies."
+            },
+            {
+              "key": "regulatory approval",
+              "value": "Gencaro has not received an NDA approval from the FDA."
+            },
+            {
+              "key": "clinical trials progress",
+              "value": "The FDA requires additional clinical trials to approve Gencaro."
+            },
+            {
+              "key": "product revenue expectations",
+              "value": "The company expects to continue incurring significant operating losses for the foreseeable future."
+            },
+            {
+              "key": "market launch timeline",
+              "value": "Years away from commercializing and generating product revenue."
+            },
+            {
+              "key": "FDA interactions",
+              "value": "Company is navigating complex regulatory processes for new drug approval."
+            },
+            {
+              "key": "clinical trial details",
+              "value": "A Phase 2B clinical study was completed with 267 HF patients."
+            },
+            {
+              "key": "NDA submission",
+              "value": "NDA filed in 2008, accepted by FDA. Complete Response Letter received in 2009."
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 20,
+          "title": "Funding Requirements for Clinical Trials and Operations",
+          "data": [
+            {
+              "key": "Financing Needs",
+              "value": "Need to secure additional financing for Phase 3 PRECISION-AF clinical trial."
+            },
+            {
+              "key": "Potential Outcomes",
+              "value": "Failure to obtain financing could lead to termination of clinical trial."
+            },
+            {
+              "key": "Funding Sources",
+              "value": "Need to raise funds through equity, debt transactions, or strategic partnerships."
+            },
+            {
+              "key": "Expected Timeline for Approval",
+              "value": "Development timeline for FDA approval of Gencaro or rNAPc2 is uncertain."
+            },
+            {
+              "key": "Sales Agreement",
+              "value": "Entered a sales agreement for $54.0 million in stock offering."
+            },
+            {
+              "key": "Stock Sold",
+              "value": "Sold 9,928,272 shares for approximately $54.0 million."
+            },
+            {
+              "key": "Net Proceeds",
+              "value": "Net proceeds from offering were approximately $52.2 million."
+            },
+            {
+              "key": "Amendment to Sales Agreement",
+              "value": "Amended agreement with $50.0 million available for offering."
+            },
+            {
+              "key": "Current Trading Limitations",
+              "value": "Limit on sales to not exceed one-third of public float in 12 months."
+            },
+            {
+              "key": "Impact of COVID-19",
+              "value": "COVID-19 pandemic causes disruption and uncertainties in securing financing."
+            },
+            {
+              "key": "Financial Resource Consumption",
+              "value": "Changing circumstances may lead to faster or slower capital consumption."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "capital_expenditure",
+          "page": 42,
+          "title": "Office Space Details",
+          "data": [
+            {
+              "key": "headquarters facility area",
+              "value": "8,200 square feet"
+            },
+            {
+              "key": "leased area",
+              "value": "5,200 square feet"
+            },
+            {
+              "key": "lease end",
+              "value": "March 2024"
+            },
+            {
+              "key": "renewal option",
+              "value": "additional 36 month term"
+            },
+            {
+              "key": "subleased area",
+              "value": "3,000 square feet"
+            },
+            {
+              "key": "sublease end",
+              "value": "October 2023"
+            },
+            {
+              "key": "facility adequacy",
+              "value": "adequate to meet current needs"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 47,
+          "title": "G&A Expenses Overview and Cash Flow Summary",
+          "data": [
+            {
+              "key": "G&A Expenses 2022",
+              "value": "$5.8 million"
+            },
+            {
+              "key": "G&A Expenses 2021",
+              "value": "$5.5 million"
+            },
+            {
+              "key": "Increase in G&A Expenses",
+              "value": "$0.3 million"
+            },
+            {
+              "key": "Interest Income 2022",
+              "value": "$675,000"
+            },
+            {
+              "key": "Interest Income 2021",
+              "value": "$13,000"
+            },
+            {
+              "key": "Other Expenses 2022",
+              "value": "$5,000"
+            },
+            {
+              "key": "Other Expenses 2021",
+              "value": "$0"
+            },
+            {
+              "key": "Cash and Cash Equivalents 2022",
+              "value": "$42.4 million"
+            },
+            {
+              "key": "Cash and Cash Equivalents 2021",
+              "value": "$53.4 million"
+            },
+            {
+              "key": "Net Decrease in Cash",
+              "value": "$10.9 million"
+            },
+            {
+              "key": "Operating Activities Cash Flow 2022",
+              "value": "-$10,912"
+            },
+            {
+              "key": "Operating Activities Cash Flow 2021",
+              "value": "-$18,762"
+            },
+            {
+              "key": "Investing Activities Cash Flow 2022",
+              "value": "-$2"
+            },
+            {
+              "key": "Investing Activities Cash Flow 2021",
+              "value": "-$3"
+            },
+            {
+              "key": "Financing Activities Cash Flow 2022",
+              "value": "$23,093"
+            },
+            {
+              "key": "Financing Activities Cash Flow 2021",
+              "value": "N/A"
+            },
+            {
+              "key": "Net Cash Increase 2022",
+              "value": "-$10,914"
+            },
+            {
+              "key": "Net Cash Increase 2021",
+              "value": "$4,288"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 50,
+          "title": "Financial Statements Index",
+          "data": [
+            {
+              "key": "Independent Auditor's Report",
+              "value": "Report of Independent Registered Public Accounting Firm, KPMG LLP"
+            },
+            {
+              "key": "Balance Sheets",
+              "value": "Balance Sheets as of December 31, 2022 and 2021"
+            },
+            {
+              "key": "Statements of Operations",
+              "value": "Statements of Operations for the years ended December 31, 2022 and 2021"
+            },
+            {
+              "key": "Statements of Stockholders' Equity",
+              "value": "Statements of Stockholders' Equity for the years ended December 31, 2022 and 2021"
+            },
+            {
+              "key": "Statements of Cash Flows",
+              "value": "Statements of Cash Flows for the years ended December 31, 2022 and 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Balance Sheet",
+          "data": [
+            {
+              "key": "Total assets",
+              "value": "43085"
+            },
+            {
+              "key": "Total liabilities",
+              "value": "1412"
+            },
+            {
+              "key": "Total stockholders' equity",
+              "value": "41673"
+            },
+            {
+              "key": "Accumulated deficit",
+              "value": "-183402"
+            },
+            {
+              "key": "Current assets",
+              "value": "42699"
+            },
+            {
+              "key": "Current liabilities",
+              "value": "1132"
+            },
+            {
+              "key": "Additional paid-in capital",
+              "value": "225061"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 53,
+          "title": "Financial Results Comparison 2022-2021",
+          "data": [
+            {
+              "key": "Research and development",
+              "value": "$4,749 (2022) vs $13,832 (2021)"
+            },
+            {
+              "key": "General and administrative",
+              "value": "$5,847 (2022) vs $5,503 (2021)"
+            },
+            {
+              "key": "Total costs and expenses",
+              "value": "$10,596 (2022) vs $19,335 (2021)"
+            },
+            {
+              "key": "Loss from operations",
+              "value": "$(10,596) (2022) vs $(19,335) (2021)"
+            },
+            {
+              "key": "Interest and other income/loss",
+              "value": "$675 (2022) vs $13 (2021)"
+            },
+            {
+              "key": "Net loss",
+              "value": "$(9,926) (2022) vs $(19,322) (2021)"
+            },
+            {
+              "key": "Net loss per share (Basic and diluted)",
+              "value": "$(0.69) (2022) vs $(1.39) (2021)"
+            },
+            {
+              "key": "Weighted average shares outstanding",
+              "value": "14,410,143 (2022) vs 13,903,871 (2021)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 54,
+          "title": "Statement of Stockholders' Equity",
+          "data": [
+            {
+              "key": "date",
+              "value": "December 31, 2020"
+            },
+            {
+              "key": "shares",
+              "value": ""
+            },
+            {
+              "key": "amount",
+              "value": ""
+            },
+            {
+              "key": "paid_in_capital",
+              "value": ""
+            },
+            {
+              "key": "accumulated_deficit",
+              "value": ""
+            },
+            {
+              "key": "total",
+              "value": ""
+            },
+            {
+              "key": "date",
+              "value": "December 31, 2021"
+            },
+            {
+              "key": "shares",
+              "value": "14,410,143"
+            },
+            {
+              "key": "amount",
+              "value": "14"
+            },
+            {
+              "key": "paid_in_capital",
+              "value": "224,505"
+            },
+            {
+              "key": "accumulated_deficit",
+              "value": "-173,476"
+            },
+            {
+              "key": "total",
+              "value": "51,043"
+            },
+            {
+              "key": "transactions",
+              "value": "stock issuance (shares: 4,861,993, amount: 4, paid_in_capital: 23,343); share-based compensation (paid_in_capital: 497); net loss (amount: -19,322)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 55,
+          "title": "Cash Flow Statement Summary",
+          "data": [
+            {
+              "key": "Net loss",
+              "value": "-9926 (2022) vs -19322 (2021)"
+            },
+            {
+              "key": "Depreciation",
+              "value": "94 (2022) vs 75 (2021)"
+            },
+            {
+              "key": "Share-based compensation",
+              "value": "556 (2022) vs 497 (2021)"
+            },
+            {
+              "key": "Other current assets",
+              "value": "808 (2022) vs -156 (2021)"
+            },
+            {
+              "key": "Accounts payable",
+              "value": "-783 (2022) vs -411 (2021)"
+            },
+            {
+              "key": "Accrued compensation and employee benefits",
+              "value": "-752 (2022) vs 110 (2021)"
+            },
+            {
+              "key": "Accrued and other liabilities",
+              "value": "-934 (2022) vs 435 (2021)"
+            },
+            {
+              "key": "Net cash used in operating activities",
+              "value": "-10912 (2022) vs -18762 (2021)"
+            },
+            {
+              "key": "Purchase of property and equipment",
+              "value": "-2 (2022) vs -43 (2021)"
+            },
+            {
+              "key": "Proceeds from issuance of common stock",
+              "value": "0 (2022) vs 24070 (2021)"
+            },
+            {
+              "key": "Common stock offering costs",
+              "value": "0 (2022) vs -977 (2021)"
+            },
+            {
+              "key": "Net cash provided by financing activities",
+              "value": "0 (2022) vs 23093 (2021)"
+            },
+            {
+              "key": "Net (decrease) increase in cash and cash equivalents",
+              "value": "-10914 (2022) vs 4288 (2021)"
+            },
+            {
+              "key": "Cash and cash equivalents, beginning of year",
+              "value": "53359 (2022) vs 49071 (2021)"
+            },
+            {
+              "key": "Cash and cash equivalents, end of year",
+              "value": "42445 (2022) vs 53359 (2021)"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 57,
+          "title": "Basis of Presentation",
+          "data": [
+            {
+              "key": "Accounting Principles",
+              "value": "U.S. generally accepted accounting principles (U.S. GAAP)"
+            },
+            {
+              "key": "Financial Position",
+              "value": "Includes all adjustments necessary for fair presentation"
+            },
+            {
+              "key": "Management Evaluation",
+              "value": "Performed evaluation of the Company’s activities through the date of filing"
+            },
+            {
+              "key": "Recent Accounting Pronouncements",
+              "value": "Reviewed all recently issued accounting pronouncements, concluded they were either not applicable or not expected to have a significant impact"
+            },
+            {
+              "key": "Accounting Estimates",
+              "value": "Management makes estimates and assumptions affecting reported amounts of assets, liabilities and expenses"
+            },
+            {
+              "key": "Cash Equivalents",
+              "value": "Consist of money market funds and debt securities with maturities of 90 days or less"
+            },
+            {
+              "key": "Credit Risk",
+              "value": "Maintains cash and cash equivalent balances with creditworthy financial institutions"
+            },
+            {
+              "key": "Property and Equipment Valuation",
+              "value": "Stated at cost less accumulated depreciation; depreciated using straight-line method over estimated useful lives"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "Comprehensive Loss and Financial Statements Overview",
+          "data": [
+            {
+              "key": "Comprehensive Loss Definition",
+              "value": "The change in equity during a period from transactions and other events and/or circumstances from non-owner sources."
+            },
+            {
+              "key": "Comprehensive Loss for 2022 and 2021",
+              "value": "There were no elements of comprehensive loss during the years ended December 31, 2022 and 2021."
+            },
+            {
+              "key": "Operating Leases Recognition",
+              "value": "Operating leases are included in right-of-use (ROU) asset and lease obligations included in accrued expenses and liabilities."
+            },
+            {
+              "key": "Lease Expense Recognition",
+              "value": "Lease expense for lease payments is recognized on a straight-line basis over the lease term."
+            },
+            {
+              "key": "Accrued Outsourcing Expenses",
+              "value": "Includes estimated costs for third-party services, contract service fees related to drug production, and clinical research organizations."
+            },
+            {
+              "key": "Research and Development Costs",
+              "value": "Research and development costs are expensed as incurred, primarily consisting of salaries, contract services, and supplies."
+            },
+            {
+              "key": "Stock-Based Compensation",
+              "value": "Recognized based on estimated grant date fair value on a straight-line basis over the requisite service period."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 59,
+          "title": "Income Taxes & Fair Value Disclosures",
+          "data": [
+            {
+              "key": "Income Tax Benefit",
+              "value": "Represents actual or estimated amounts payable or refundable on tax returns."
+            },
+            {
+              "key": "Deferred Tax Assets",
+              "value": "Recognized for estimated future tax consequences."
+            },
+            {
+              "key": "Net Loss Per Share Calculation",
+              "value": "Basic loss per share calculated by dividing net loss by weighted average shares."
+            },
+            {
+              "key": "Diluted Loss Per Share Inclusion",
+              "value": "Includes stock options, restricted units, warrants."
+            },
+            {
+              "key": "Potentially Dilutive Securities Excluded",
+              "value": "Total decreased from 1,037,524 in 2021 to 795,960 in 2022."
+            },
+            {
+              "key": "Outstanding Stock Options 2022",
+              "value": "704,960"
+            },
+            {
+              "key": "Outstanding Stock Options 2021",
+              "value": "904,123"
+            },
+            {
+              "key": "Fair Value Definition",
+              "value": "Defined as the exit price in orderly transactions."
+            },
+            {
+              "key": "Level 1 Assets",
+              "value": "Money market investments."
+            },
+            {
+              "key": "Level 2 Assets",
+              "value": "Corporate bonds and commercial paper securities."
+            },
+            {
+              "key": "Level 1 Fair Value",
+              "value": "Determined by quoted market prices."
+            },
+            {
+              "key": "Cash Equivalents 2022",
+              "value": "$42.4 million."
+            },
+            {
+              "key": "Cash Equivalents 2021",
+              "value": "$53.3 million."
+            },
+            {
+              "key": "Debt Outstanding",
+              "value": "None as of December 31, 2022 and 2021."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "dividend_policy",
+          "page": 43,
+          "title": "Dividend Policy Overview",
+          "data": [
+            {
+              "key": "Common Stock Trading Symbol",
+              "value": "ABIO"
+            },
+            {
+              "key": "Trading Market",
+              "value": "The Nasdaq Capital Market"
+            },
+            {
+              "key": "Previous Trading Symbol",
+              "value": "NUVO"
+            },
+            {
+              "key": "Stockholders of Record",
+              "value": "18"
+            },
+            {
+              "key": "Last Sale Price",
+              "value": "$2.12"
+            },
+            {
+              "key": "Dividends Paid",
+              "value": "None"
+            },
+            {
+              "key": "Future Dividend Anticipation",
+              "value": "No cash dividends anticipated in foreseeable future"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": false,
+      "elements": []
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 17,
+          "title": "Risk Factors Summary",
+          "data": [
+            {
+              "key": "Investment Risks",
+              "value": "An investment in our securities involves certain risks, including those identified in this report."
+            },
+            {
+              "key": "Speculative Nature",
+              "value": "Investing in our common stock is speculative or risky."
+            },
+            {
+              "key": "Strategic Transaction Risks",
+              "value": "Engaging in strategic transactions may not guarantee increased stockholder value."
+            },
+            {
+              "key": "FDA Approval Risks",
+              "value": "Not obtaining FDA approval for product candidates could affect business operations."
+            },
+            {
+              "key": "Clinical Trials Risks",
+              "value": "Difficulties in enrolling patients for trials may delay regulatory approvals."
+            },
+            {
+              "key": "Projected Development Goals",
+              "value": "Projected development goals may not be achieved within expected time frames."
+            },
+            {
+              "key": "Financing Risks",
+              "value": "Need to raise substantial funds for continued development of product candidates."
+            },
+            {
+              "key": "Partnership Risks",
+              "value": "Inability to secure partners for product development could hinder operations."
+            },
+            {
+              "key": "Listing Requirements",
+              "value": "Failure to meet Nasdaq listing requirements could lead to delisting."
+            },
+            {
+              "key": "Health Epidemics Risks",
+              "value": "Health epidemics could adversely affect business operations."
+            },
+            {
+              "key": "Dependency on Third Parties",
+              "value": "Relying on third parties for clinical trials and product development."
+            },
+            {
+              "key": "Profitability Risks",
+              "value": "Future losses may occur if sufficient product revenue is not generated."
+            },
+            {
+              "key": "Regulatory Challenges",
+              "value": "Extensive regulation may impair future revenue and increase costs."
+            },
+            {
+              "key": "Ongoing Regulatory Compliance",
+              "value": "Regulatory approvals may lead to ongoing obligations and restrictions."
+            },
+            {
+              "key": "Transitioning Risks",
+              "value": "Transitioning from clinical development requires steps outside of our control."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 18,
+          "title": "Risks Related to Strategic Evaluation Process and Business",
+          "data": [
+            {
+              "key": "Risk of entering competitive marketplace",
+              "value": "If Gencaro or rNAPc2 are approved by the FDA, they may not succeed in a competitive marketplace."
+            },
+            {
+              "key": "Failure to identify new products",
+              "value": "We may be unable to expand our business if we fail to identify and license or acquire other products or product candidates."
+            },
+            {
+              "key": "Impact of losing product rights",
+              "value": "The loss of rights to market key products would significantly impair our operating results."
+            },
+            {
+              "key": "Patent Risks",
+              "value": "Third parties may own or control patents necessary for commercialization, which could lead to costly litigation."
+            },
+            {
+              "key": "Intellectual property limitations",
+              "value": "Our intellectual property rights may not prevent competitors from developing similar products."
+            },
+            {
+              "key": "No guarantee of strategic transactions",
+              "value": "Even if we engage in a strategic transaction, it may not increase stockholder value."
+            },
+            {
+              "key": "Special Committee for evaluating strategic options",
+              "value": "In April 2022, a Special Committee was established to evaluate strategic options."
+            },
+            {
+              "key": "Potential risks of strategic transactions",
+              "value": "Strategic transactions may incur non-recurring charges and pose integration challenges."
+            },
+            {
+              "key": "Risks from merger or acquisition",
+              "value": "Acquisitions may require issuance of dilutive equity or substantial debt, impacting operations."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 22,
+          "title": "Concerns Regarding Delisting from Nasdaq and Going Concern",
+          "data": [
+            {
+              "key": "risk_description",
+              "value": "Potential delisting from the Nasdaq Capital Market due to failure to maintain listing requirements."
+            },
+            {
+              "key": "historical_delisting_notices",
+              "value": "Received three potential delisting notices from Nasdaq in 2012, 2015, and 2018 due to minimum closing bid price violations."
+            },
+            {
+              "key": "stock_structure_adjustments",
+              "value": "1-for-6 reverse split in March 2013, 1-for-7 in September 2015, and 1-for-18 in April 2019 to regain compliance."
+            },
+            {
+              "key": "current_stock_price",
+              "value": "As of February 22, 2023, common stock price was $2.12."
+            },
+            {
+              "key": "market_value",
+              "value": "Total market value of listed securities approximately $30.5 million."
+            },
+            {
+              "key": "stockholders_equity",
+              "value": "As of December 31, 2022, stockholders’ equity was $41.7 million."
+            },
+            {
+              "key": "going_concern_issues",
+              "value": "Substantial doubt about the ability to continue as a going concern due to need for additional capital."
+            },
+            {
+              "key": "future_financing_risks",
+              "value": "Uncertainty regarding ability to raise additional funds could impact ongoing operations."
+            },
+            {
+              "key": "cash_projection",
+              "value": "Cash and cash equivalents expected to fund operations through mid-2024."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "risk_factor",
+          "page": 23,
+          "title": "Risk Factors related to COVID-19 Pandemic and Clinical Trials",
+          "data": [
+            {
+              "key": "Financial Resources Depletion Risk",
+              "value": "Estimates may prove wrong; available financial resources may be exhausted sooner than anticipated."
+            },
+            {
+              "key": "Operating Expenses Reduction",
+              "value": "Need to reduce operating expenses and raise additional funds."
+            },
+            {
+              "key": "Additional Funding Risk",
+              "value": "Cannot guarantee ability to raise sufficient additional funds."
+            },
+            {
+              "key": "Impact of COVID-19",
+              "value": "Adverse effects expected from the ongoing COVID-19 pandemic."
+            },
+            {
+              "key": "Clinical Trial Enrollment Risks",
+              "value": "Difficulties in enrolling patients in future clinical trials due to health epidemics."
+            },
+            {
+              "key": "Supply Chain Disruption Risk",
+              "value": "Significant delays or restrictions from third-party manufacturing due to COVID-19."
+            },
+            {
+              "key": "Economic Impact Uncertainty",
+              "value": "The ultimate impact of COVID-19 on business operations is highly uncertain."
+            },
+            {
+              "key": "Enrollment Delays",
+              "value": "Enrollment for clinical trials may be slower than expected."
+            },
+            {
+              "key": "Market Conditions Impact",
+              "value": "Investor concerns regarding inflation and geopolitical issues may affect clinical trial enrollments."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 24,
+          "title": "Risks Associated with Clinical Trials and Collaborations",
+          "data": [
+            {
+              "key": "Contract Research Organizations",
+              "value": "We will rely on contract research organizations to conduct substantial portions of our clinical trials."
+            },
+            {
+              "key": "Limited Control",
+              "value": "We will be unable to directly control the timing, conduct and expense of all aspects of our clinical trials."
+            },
+            {
+              "key": "Staffing Limitations",
+              "value": "We do not currently have sufficient staff with the requisite experience to conduct our clinical trials."
+            },
+            {
+              "key": "Collaboration Risks",
+              "value": "If collaborations are not successful, we may not be able to complete the development of these product candidates."
+            },
+            {
+              "key": "Expected Cost Increases",
+              "value": "We may experience unexpected cost increases that are beyond our control."
+            },
+            {
+              "key": "Potential for Delays",
+              "value": "Making any change in CROs may delay ongoing trials."
+            },
+            {
+              "key": "Collaboration Dependency",
+              "value": "Our ability to benefit from these arrangements will depend on our collaborators’ abilities to successfully perform the functions assigned to them."
+            },
+            {
+              "key": "Intellectual Property Risks",
+              "value": "Collaborators may not properly maintain or defend our intellectual property rights."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 31,
+          "title": "Risks Associated with Third-Party Commercialization and Manufacturing",
+          "data": [
+            {
+              "key": "Risk Factor",
+              "value": "Reliance on third parties to commercialize products could negatively impact business."
+            },
+            {
+              "key": "Capital Resources Needed",
+              "value": "Establishing a sales organization will require substantial additional capital."
+            },
+            {
+              "key": "Current Strategy",
+              "value": "Intend to pursue strategic partnerships for commercialization."
+            },
+            {
+              "key": "Manufacturing Risks",
+              "value": "No manufacturing capacity; reliance on third-party manufacturers which may lead to delays and costs."
+            },
+            {
+              "key": "Compliance Risks",
+              "value": "Contract manufacturers must comply with FDA and other regulations."
+            },
+            {
+              "key": "Potential Legal Liability",
+              "value": "Liability concerns for injuries due to product safety issues."
+            },
+            {
+              "key": "Strategic Challenges",
+              "value": "Challenges in recruiting and retaining key personnel."
+            },
+            {
+              "key": "Event Risks",
+              "value": "Possible delays caused by natural disasters, strikes, or regulatory issues."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 34,
+          "title": "Market Competition and Regulatory Challenges",
+          "data": [
+            {
+              "key": "Market Position Competitors",
+              "value": "Our competitors may be better positioned in the marketplace."
+            },
+            {
+              "key": "Financial Resources",
+              "value": "Competitors have significantly greater financial resources than us."
+            },
+            {
+              "key": "Clinical Trials Expertise",
+              "value": "Competitors have more expertise in conducting clinical trials."
+            },
+            {
+              "key": "Regulatory Approvals Management",
+              "value": "Competitors are better at managing regulatory approvals."
+            },
+            {
+              "key": "Manufacturing and Marketing",
+              "value": "Competitors are more successful at manufacturing and marketing approved products."
+            },
+            {
+              "key": "Recruiting Personnel",
+              "value": "Competitors compete with us in recruiting qualified personnel."
+            },
+            {
+              "key": "Clinical Trial Site Management",
+              "value": "Competitors compete in establishing clinical trial sites."
+            },
+            {
+              "key": "Therapy Acquisition",
+              "value": "Competitors may acquire advantageous therapies and licenses."
+            },
+            {
+              "key": "R&D Expansion Challenges",
+              "value": "Failure to expand our R&D efforts may hinder business growth."
+            },
+            {
+              "key": "Acquisition Strategy",
+              "value": "One strategy includes licensing or acquiring clinical-stage products."
+            },
+            {
+              "key": "Competition for Licensing",
+              "value": "The market for licensing is intensely competitive."
+            },
+            {
+              "key": "Integration Strain from Acquisitions",
+              "value": "Integrating acquired candidates may strain operations."
+            },
+            {
+              "key": "Future Acquisition Costs",
+              "value": "Future acquisitions may increase operating costs requiring financing."
+            },
+            {
+              "key": "Regulatory Approvals",
+              "value": "Regulatory requirements may delay market entry."
+            },
+            {
+              "key": "International Approvals",
+              "value": "International regulatory approvals may cause costs or delays."
+            },
+            {
+              "key": "Internal Control Limitations",
+              "value": "Ineffective internal controls can adversely affect business."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 37,
+          "title": "Risks Related to Intellectual Property and Other Legal Matters",
+          "data": [
+            {
+              "key": "Liabilities from Product Liability Lawsuits",
+              "value": "If product liability lawsuits are successfully brought against us, we will incur substantial liabilities."
+            },
+            {
+              "key": "Exposure to Claims Post Commercialization",
+              "value": "Once we begin marketing and distributing our products, we may face exposure to claims."
+            },
+            {
+              "key": "Reputation Impact",
+              "value": "Liability claims may injure our reputation."
+            },
+            {
+              "key": "Potential Costs",
+              "value": "Costs of related litigation may arise, along with substantial monetary awards to patients."
+            },
+            {
+              "key": "Insurance Coverage Limitations",
+              "value": "We have limited product liability insurance coverage which may not be adequate."
+            },
+            {
+              "key": "Hazardous Materials Risks",
+              "value": "Research and development may involve controlled use of hazardous materials."
+            },
+            {
+              "key": "Compliance Costs",
+              "value": "Compliance with environmental laws and regulations may be expensive."
+            },
+            {
+              "key": "Loss of Patent Rights",
+              "value": "Termination of license agreements could result in loss of rights to develop Gencaro."
+            },
+            {
+              "key": "Third Party Patent Risks",
+              "value": "We may have to license third party patents which might incur additional costs."
+            },
+            {
+              "key": "Infringement Risks",
+              "value": "We may inadvertently infringe existing patents which can lead to litigation."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 44,
+          "title": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "data": [
+            {
+              "key": "Forward-looking statements caution",
+              "value": "Management may make statements that constitute forward-looking statements involving risks and uncertainties."
+            },
+            {
+              "key": "Company overview",
+              "value": "A clinical-stage biopharmaceutical company developing targeted therapies for cardiovascular diseases."
+            },
+            {
+              "key": "Strategic options evaluation",
+              "value": "In April 2022, a Special Committee was established to evaluate strategic options including mergers or asset sales."
+            },
+            {
+              "key": "Product candidate",
+              "value": "Gencaro™ (bucindolol hydrochloride) for the treatment of atrial fibrillation in patients with heart failure."
+            },
+            {
+              "key": "Clinical trial results",
+              "value": "Recent analysis of Phase 2b clinical trial showed novel results for Gencaro in patients with higher ejection fraction."
+            },
+            {
+              "key": "Patents",
+              "value": "Issued a US patent in February 2021 for Gencaro which extends protection until 2039."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 65,
+          "title": "Deferred Tax Assets and Liabilities Assessment",
+          "data": [
+            {
+              "key": "Valuation allowance",
+              "value": "$54.4 million as of December 31, 2022, increased by approximately $2.3 million from December 31, 2021."
+            },
+            {
+              "key": "Net deferred tax assets",
+              "value": "$89K after accounting for a valuation allowance."
+            },
+            {
+              "key": "Impact of operating losses",
+              "value": "Company unable to realize benefits from deductible differences due to operating losses."
+            },
+            {
+              "key": "Tax Filing Years",
+              "value": "Open tax years since 2009 due to carryforwards."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 7,
+          "title": "Clinical Trial Comparison of Gencaro vs. Metoprolol",
+          "data": [
+            {
+              "key": "Primary Endpoint",
+              "value": "Time to AF/AFL/ACM"
+            },
+            {
+              "key": "Hazard Ratio",
+              "value": "1.01"
+            },
+            {
+              "key": "Confidence Interval",
+              "value": "(0.71, 1.42)"
+            },
+            {
+              "key": "P-Value",
+              "value": "0.961"
+            },
+            {
+              "key": "Sample Size",
+              "value": "267"
+            },
+            {
+              "key": "Cumulative 24-week AF Burden",
+              "value": "Hazard Ratio 0.64, P-Value 0.002"
+            },
+            {
+              "key": "AF Burden at Week 24",
+              "value": "Hazard Ratio 0.45, P-Value <0.001"
+            },
+            {
+              "key": "Normal Sinus Rhythm ECGs",
+              "value": "Hazard Ratio 1.39, P-Value <0.001"
+            },
+            {
+              "key": "AF Interventions",
+              "value": "Hazard Ratio 0.68, P-Value 0.011"
+            },
+            {
+              "key": "Bradycardia Prevalence",
+              "value": "Hazard Ratio 0.39, Sample Size 256"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 10,
+          "title": "Gencaro Development and Regulatory Environment",
+          "data": [
+            {
+              "key": "Current HF treatments",
+              "value": "Three beta-blockers approved for HF in the United States."
+            },
+            {
+              "key": "Efficacy in rhythm control",
+              "value": "Mild efficacy in controlling arrhythmia caused by AF."
+            },
+            {
+              "key": "Lack of evidence",
+              "value": "Approved beta-blockers lack evidence for outcome benefits in patients with permanent AF."
+            },
+            {
+              "key": "Effectiveness in EF ≥ 40%",
+              "value": "These drugs have not shown efficacy for HF patients with EF ≥ 40%."
+            },
+            {
+              "key": "Unmet medical need",
+              "value": "Substantial unmet medical need for AF therapies more effective and with fewer side effects."
+            },
+            {
+              "key": "Manufacturing history of Gencaro",
+              "value": "Gencaro is a small molecule with an established manufacturing history."
+            },
+            {
+              "key": "Third party contract manufacturers",
+              "value": "Outsourced manufacturing with expertise in technical and regulatory areas."
+            },
+            {
+              "key": "Regulatory approval",
+              "value": "All product candidates will require regulatory approval prior to commercialization."
+            },
+            {
+              "key": "Regulatory compliance",
+              "value": "Regulations by FDA, Health Canada, and European competent authorities."
+            },
+            {
+              "key": "Impact of non-compliance",
+              "value": "Failure to comply can lead to penalties or disrupt manufacturing and sales."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 11,
+          "title": "Premarket Approval of Drugs",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "FDA approval is required for marketing of any new drug, dosage form, indication, or strength."
+            },
+            {
+              "key": "Preclinical Phase",
+              "value": "Preclinical studies are generally conducted in the laboratory to identify potential drug candidates and evaluate their efficacy and safety."
+            },
+            {
+              "key": "Clinical Phase",
+              "value": "The clinical phase involves human studies, including three phases of clinical trials to establish safety and efficacy."
+            },
+            {
+              "key": "NDA Submission",
+              "value": "The results of preclinical and clinical testing along with manufacturing information are submitted in the form of an NDA."
+            },
+            {
+              "key": "FDA Review Timeline",
+              "value": "FDA aims to review most standard NDAs within 10 months."
+            },
+            {
+              "key": "Fast Track Designation",
+              "value": "Gencaro has been granted Fast Track Designation allowing for a rolling review."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 21,
+          "title": "FDA Agreements and Strategic Transactions",
+          "data": [
+            {
+              "key": "Liquidity factors",
+              "value": "Costs and timing for potential clinical trials for Gencaro, rNAPc2; market price of stock; availability of equity capital; operational costs; intellectual property rights costs; collaborative agreements"
+            },
+            {
+              "key": "Potential consequences of raising funds",
+              "value": "Dilution of stockholders; senior obligations for debt holders"
+            },
+            {
+              "key": "SPA agreement details",
+              "value": "SPA does not guarantee approval of Gencaro or other outcomes; FDA evaluates clinical trial protocols; SPA can be revoked or modified by FDA"
+            },
+            {
+              "key": "Risks associated with SPA agreement",
+              "value": "Public health concerns; new scientific concerns; compliance with trial protocols; alterations in SPA by FDA may occur"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 25,
+          "title": "Challenges in Collaborations and Regulatory Considerations for Gencaro Trials",
+          "data": [
+            {
+              "key": "Resource challenges",
+              "value": "Collaborators may not commit adequate resources to marketing and distribution, impacting potential revenues."
+            },
+            {
+              "key": "Collaboration complexities",
+              "value": "Complex nature of collaborations and difficulty in reaching definitive agreements."
+            },
+            {
+              "key": "Regulatory challenges",
+              "value": "Changes in regulatory advice could delay development programs and marketing approvals."
+            },
+            {
+              "key": "Companion diagnostics",
+              "value": "Use of third-party services for genetic testing required for trials of Gencaro."
+            },
+            {
+              "key": "FDA guidance on diagnostics",
+              "value": "FDA requires approval of diagnostic devices alongside therapeutics, affecting trial timelines."
+            },
+            {
+              "key": "Business combinations",
+              "value": "Recent mergers in the pharmaceutical industry reduce available future collaborators."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 32,
+          "title": "Transitioning from Clinical Development Stage",
+          "data": [
+            {
+              "key": "Transition Challenges",
+              "value": "Successful completion of steps necessary to transition from clinical development stage company, many uncontrollable."
+            },
+            {
+              "key": "Product Revenue",
+              "value": "No product revenue generated to date."
+            },
+            {
+              "key": "Funding Sources",
+              "value": "Operations funded through investment capital."
+            },
+            {
+              "key": "Regulatory Approval",
+              "value": "Depends on conducting clinical trials and obtaining approval for products."
+            },
+            {
+              "key": "Strategic Transactions",
+              "value": "Need for strategic partnerships or additional capital raises."
+            },
+            {
+              "key": "Market Competition",
+              "value": "Entering a competitive marketplace with Gencaro and rNAPc2."
+            },
+            {
+              "key": "Genetic Testing Requirement",
+              "value": "Anticipated requirement for genetic testing to prescribe Gencaro."
+            },
+            {
+              "key": "Commercial Opportunities",
+              "value": "Uncertain commercial opportunities for rNAPc2 if approved."
+            },
+            {
+              "key": "Market Acceptance Factors",
+              "value": "Effectiveness, tolerability, and competition are crucial for market acceptance."
+            },
+            {
+              "key": "Pricing and Reimbursement Issues",
+              "value": "Risks related to obtaining acceptable prices and reimbursement."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 33,
+          "title": "Impact of Coverage and Reimbursement on Commercialization of Product Candidates",
+          "data": [
+            {
+              "key": "Key Concerns",
+              "value": "Ability to commercialize products is highly dependent on coverage and reimbursement from governmental and private payors."
+            },
+            {
+              "key": "Current Trends",
+              "value": "Cost containment initiatives are affecting reimbursement levels for health care products."
+            },
+            {
+              "key": "Legislative Impact",
+              "value": "Recent health care reform in the U.S. may increase patient insurance coverage but impose cost control measures."
+            },
+            {
+              "key": "Medical Device Tax",
+              "value": "Potential impact of the medical device tax on sales of genetic tests."
+            },
+            {
+              "key": "International Changes",
+              "value": "Expectations for continued legislative and regulatory proposals aimed at reducing healthcare costs internationally."
+            },
+            {
+              "key": "Managed Care Organizations",
+              "value": "Increased influence of managed care organizations on prescription decisions and pricing."
+            },
+            {
+              "key": "Future Uncertainty",
+              "value": "Ongoing health care reforms and their potential effects on market conditions remain unpredictable."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 40,
+          "title": "Market risks and shareholder activism impact on common stock",
+          "data": [
+            {
+              "key": "Key Risks",
+              "value": "Technological innovations, analyst recommendations, fluctuations in sales, health care payment changes, market volatility."
+            },
+            {
+              "key": "Market Volatility Impact",
+              "value": "Adverse effects on trading prices of common stock."
+            },
+            {
+              "key": "Securities Litigation Concerns",
+              "value": "Potential costs and management distraction from shareholder lawsuits."
+            },
+            {
+              "key": "Common Stock Details",
+              "value": "14.4 million shares outstanding, majority freely transferable."
+            },
+            {
+              "key": "Stock Options and RSUs",
+              "value": "796,000 shares may be issued under stock options and RSUs."
+            },
+            {
+              "key": "Funding Future Projects",
+              "value": "Need for significant capital to finance product development."
+            },
+            {
+              "key": "Dividends Policy",
+              "value": "No cash dividends expected, focus on stock appreciation."
+            },
+            {
+              "key": "Activist Shareholders Impact",
+              "value": "Costly responses to shareholder actions may disrupt operations."
+            },
+            {
+              "key": "Governance Changes",
+              "value": "Appointment of new directors amid shareholder activism."
+            },
+            {
+              "key": "Shareholder Activism Effects",
+              "value": "Potential disruptions from proxy contests or differing board agendas."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 49,
+          "title": "Royalty Obligations",
+          "data": [
+            {
+              "key": "Royalty obligations",
+              "value": "Upon occurrence of certain events, including FDA granting marketing approval for Gencaro."
+            },
+            {
+              "key": "Critical Accounting Policies",
+              "value": "Policies that affect financial condition and require judgment in estimates."
+            },
+            {
+              "key": "Accrued Outsourcing Expenses",
+              "value": "Estimates regarding services performed by third parties and associated costs."
+            },
+            {
+              "key": "Indemnifications",
+              "value": "Contractual arrangements to indemnify certain parties for losses."
+            },
+            {
+              "key": "Insurance policy",
+              "value": "For directors and executive officers against specific liabilities."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 51,
+          "title": "Report of Independent Registered Public Accounting Firm",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "ARCA biopharma, Inc."
+            },
+            {
+              "key": "Audit Opinion",
+              "value": "The financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021."
+            },
+            {
+              "key": "Audit Standards",
+              "value": "PCAOB Standards"
+            },
+            {
+              "key": "Critical Audit Matter",
+              "value": "There are no critical audit matters."
+            },
+            {
+              "key": "Auditor",
+              "value": "KPMG LLP"
+            },
+            {
+              "key": "Audit Engagement Start Year",
+              "value": "2006"
+            },
+            {
+              "key": "Audit Date",
+              "value": "February 24, 2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 67,
+          "title": "Disclosure Controls and Procedures",
+          "data": [
+            {
+              "key": "Evaluation of Disclosure Controls and Procedures",
+              "value": "Under the supervision and with the participation of management, including our Principal Executive Officer and Principal Financial Officer, we have evaluated the effectiveness of the design and operation of our disclosure controls and procedures."
+            },
+            {
+              "key": "Conclusion on Effectiveness",
+              "value": "Our Principal Executive Officer and Principal Financial Officer concluded that our disclosure controls and procedures were effective as of the end of the period covered by this annual report."
+            },
+            {
+              "key": "Management’s Report on Internal Control",
+              "value": "Management is responsible for establishing and maintaining adequate internal controls over financial reporting."
+            },
+            {
+              "key": "Assessment of Internal Control Effectiveness",
+              "value": "We assessed the effectiveness of our internal control over financial reporting as of December 31, 2022, using criteria from the COSO report."
+            },
+            {
+              "key": "Internal Control Conclusion",
+              "value": "We concluded our internal control over financial reporting was effective as of December 31, 2022."
+            },
+            {
+              "key": "Attestation Report Exemption",
+              "value": "Management’s report was not subject to attestation by our independent registered public accounting firm."
+            },
+            {
+              "key": "Changes in Internal Control",
+              "value": "During the fourth quarter of 2022, there were no changes in our internal control over financial reporting that materially affected or are likely to materially affect our internal control."
+            },
+            {
+              "key": "Limitations on Controls",
+              "value": "Management does not expect that our disclosure controls and procedures will prevent all errors and all fraud."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": true,
+      "elements": [
+        {
+          "type": "regulatory_litigation",
+          "page": 12,
+          "title": "FDA Regulatory Approvals for Drug Commercialization",
+          "data": [
+            {
+              "key": "Approval Process",
+              "value": "If the FDA approves the NDA, the sponsor is authorized to begin commercialization of the drug in accordance with the approval."
+            },
+            {
+              "key": "Suspension of Approval",
+              "value": "The FDA may decide later to suspend or withdraw product approval if compliance with regulatory standards is not maintained."
+            },
+            {
+              "key": "Surveillance Programs",
+              "value": "Post-marketing, the FDA requires surveillance programs to monitor approved products."
+            },
+            {
+              "key": "Compliance Inspections",
+              "value": "Products are subject to periodic inspection and continued regulation by regulatory authorities."
+            },
+            {
+              "key": "Drug Price Competition Act",
+              "value": "The Drug Price Competition and Patent Term Restoration Act of 1984 established an abbreviated FDA review process for generic drugs."
+            },
+            {
+              "key": "ANDA Process",
+              "value": "Approval for a generic drug is obtained by filing an abbreviated NDA or ANDA."
+            },
+            {
+              "key": "Patent Term Extension",
+              "value": "U.S. patents covering subjects requiring regulatory approval may obtain a patent term extension."
+            },
+            {
+              "key": "Inspections and Compliance",
+              "value": "The FDA regularly inspects companies to ensure compliance with cGMP and post-market requirements."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 14,
+          "title": "Regulatory Compliance and Clinical Trials",
+          "data": [
+            {
+              "key": "PMA Supplement Requirement",
+              "value": "If significant changes are made to a device, its manufacturing or labeling, a PMA supplement containing additional information must be filed for prior FDA approval."
+            },
+            {
+              "key": "FDA Approval Timing",
+              "value": "PMA supplements often must be approved by the FDA before the modification to the device, the labeling, or manufacturing process may be implemented."
+            },
+            {
+              "key": "Impact of Approval Delays",
+              "value": "Delays in receipt of or failure to receive such clearances or approvals could have a material adverse effect on business, financial condition, and results of operations."
+            },
+            {
+              "key": "Clinical Trials Overview",
+              "value": "Clinical trials are generally required to support a PMA application and may be required for 510(k) clearance."
+            },
+            {
+              "key": "IDE Application",
+              "value": "An Investigational Device Exemption (IDE) application must be approved in advance by the FDA for clinical trials."
+            },
+            {
+              "key": "Non-Significant Risk Studies",
+              "value": "Proposed studies deemed as non-significant risk studies may qualify for exemption from IDE requirements."
+            },
+            {
+              "key": "Informed Consent Requirement",
+              "value": "The trial must comply with FDA’s regulations, including obtaining informed consent from each subject before conducting trials."
+            },
+            {
+              "key": "IVD Companion Diagnostic Devices",
+              "value": "IVD companion diagnostic devices provide essential information for the safe use of corresponding therapeutic products."
+            },
+            {
+              "key": "Regulatory Evolution",
+              "value": "The FDA's regulation of IVD companion diagnostic devices is evolving and implemented on a case-by-case basis."
+            },
+            {
+              "key": "International Sales Regulations",
+              "value": "International sales are subject to foreign government regulations which vary substantially and are subject to change."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 16,
+          "title": "Filing Information with the SEC",
+          "data": [
+            {
+              "key": "Filing Methods",
+              "value": "Annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K."
+            },
+            {
+              "key": "Regulatory Body",
+              "value": "U.S. Securities and Exchange Commission (SEC)"
+            },
+            {
+              "key": "SEC Contact",
+              "value": "1-800-SEC-0330"
+            },
+            {
+              "key": "SEC Website",
+              "value": "http://www.sec.gov"
+            },
+            {
+              "key": "Corporate Website for Reports",
+              "value": "http://www.arcabiopharma.com"
+            },
+            {
+              "key": "Public Reference Room Hours",
+              "value": "10:00 a.m. to 3:00 p.m."
+            },
+            {
+              "key": "Public Reference Room Address",
+              "value": "100 F Street, N.E., Washington, D.C. 20549"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 26,
+          "title": "Regulatory Risks in Developing Companion Diagnostics for Gencaro",
+          "data": [
+            {
+              "key": "Regulatory Dependence",
+              "value": "Development relies on third-party diagnostics for design and manufacturing."
+            },
+            {
+              "key": "FDA Approval",
+              "value": "Success depends on obtaining timely FDA approval for companion genetic test."
+            },
+            {
+              "key": "Commercial Impact",
+              "value": "Delays in approval could adversely affect Gencaro's market potential."
+            },
+            {
+              "key": "Ongoing Compliance",
+              "value": "Third-party providers must comply with FDA Quality System Regulation and other standards."
+            },
+            {
+              "key": "Enforcement Risks",
+              "value": "Non-compliance could lead to enforcement actions affecting product sales."
+            },
+            {
+              "key": "Approval Limitations",
+              "value": "Granted approvals may have limitations affecting commercialization potential."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 28,
+          "title": "Regulatory Compliance and Clinical Trials",
+          "data": [
+            {
+              "key": "Good Laboratory Practices (GLP) Compliance Issues",
+              "value": "In the event that we or our collaborators conduct preclinical studies that do not comply with GLP."
+            },
+            {
+              "key": "Clinical Trials and GCP Non-compliance",
+              "value": "Problems with the design or execution of clinical trials that do not follow Good Clinical Practices (GCP) could prevent obtaining FDA approval."
+            },
+            {
+              "key": "Delays in Clinical Trials",
+              "value": "Delays can arise from regulatory authorization, clinical materials acquisition, patient recruitment issues, among others."
+            },
+            {
+              "key": "FDA Approval Concerns",
+              "value": "The uncertainty of obtaining FDA approval due to various factors that could lead to significant limitations."
+            },
+            {
+              "key": "Commitment to Additional Trials",
+              "value": "The possibility of condition for approval requiring further clinical trials which may affect financial resources."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 29,
+          "title": "Risks Inherent in Drug Development and Regulatory Approval Process",
+          "data": [
+            {
+              "key": "Risks of drug development",
+              "value": "All of our product candidates are prone to the risks of failure inherent in drug development."
+            },
+            {
+              "key": "Predictability of preclinical testing",
+              "value": "The results from preclinical animal testing and early human clinical trials may not be predictive of results obtained in later human clinical trials."
+            },
+            {
+              "key": "Regulatory approval limitations",
+              "value": "Although a new product may show promising results, it may prove impossible to generate sufficient data for regulatory approvals."
+            },
+            {
+              "key": "Interpretation of clinical data",
+              "value": "Data from studies are susceptible to varying interpretations that may delay regulatory approval."
+            },
+            {
+              "key": "Discretion of regulatory authorities",
+              "value": "The FDA and other regulatory authorities exercise substantial discretion in the approval process."
+            },
+            {
+              "key": "Reasons for delayed approval",
+              "value": "The FDA can delay or deny approval for safety, efficacy, design defects, and regulation changes."
+            },
+            {
+              "key": "Concerns about drug safety",
+              "value": "Increased media attention has raised concerns about drug safety issues affecting approval processes."
+            },
+            {
+              "key": "Post-approval obligations",
+              "value": "If approved, we face ongoing regulatory obligations that may limit our ability to commercialize products."
+            },
+            {
+              "key": "Quality control requirements",
+              "value": "Manufacturing facilities must conform to cGMP standards after approval."
+            },
+            {
+              "key": "Impact of unforeseen problems",
+              "value": "Unknown issues may lead to additional control or withdrawal of products."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 30,
+          "title": "Regulatory Compliance and Litigation Risks",
+          "data": [
+            {
+              "key": "Regulatory Authorities",
+              "value": "FDA, state agencies, foreign regulatory authorities"
+            },
+            {
+              "key": "Potential Violations",
+              "value": "Promotion for unapproved uses, failure to disclose risk information"
+            },
+            {
+              "key": "Consequences of Violations",
+              "value": "Criminal and civil sanctions, including imprisonment"
+            },
+            {
+              "key": "Healthcare Fraud and Abuse Laws",
+              "value": "Federal anti-kickback law, similar state laws"
+            },
+            {
+              "key": "Litigation Risks",
+              "value": "False Claims Act, consumer protection claims"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 35,
+          "title": "Risks Related to Taxation and Regulation",
+          "data": [
+            {
+              "key": "Material Adverse Effects of Tax Changes",
+              "value": "New income, sales, use or other tax laws could adversely affect our domestic and international operations."
+            },
+            {
+              "key": "Expiration of Net Operating Loss Carryforwards",
+              "value": "Net operating loss carryforwards generated prior to 2018 will expire beginning in 2025 if not utilized."
+            },
+            {
+              "key": "Ownership Change Risk",
+              "value": "Changes in stock ownership may limit use of pre-change NOLs."
+            },
+            {
+              "key": "Cybersecurity Risks",
+              "value": "Cyber-attacks could expose us to liability and negatively impact our reputation."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 36,
+          "title": "Data Protection Laws and Regulations",
+          "data": [
+            {
+              "key": "Risks of Non-Compliance",
+              "value": "Failure to comply with data protection laws and regulations could lead to government enforcement actions, litigation, and adverse publicity, negatively affecting operating results."
+            },
+            {
+              "key": "Applicable Laws",
+              "value": "Numerous federal and state laws govern the collection and protection of personal information."
+            },
+            {
+              "key": "HIPAA",
+              "value": "Health information subject to privacy requirements under HIPAA."
+            },
+            {
+              "key": "CCPA",
+              "value": "California Consumer Privacy Act gives rights to California residents concerning their personal information."
+            },
+            {
+              "key": "GDPR",
+              "value": "General Data Protection Regulation imposes strict obligations regarding personal data of EU subjects."
+            },
+            {
+              "key": "Potential Penalties",
+              "value": "GDPR violations can result in fines up to 20 million Euros or 4% of worldwide turnover."
+            },
+            {
+              "key": "Impact on Operations",
+              "value": "Compliance with privacy laws may restrict data collection and usage, increasing costs and liabilities."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 39,
+          "title": "Risks Related to Intellectual Property and Litigation",
+          "data": [
+            {
+              "key": "risk_type",
+              "value": "Intellectual Property"
+            },
+            {
+              "key": "potential_impact",
+              "value": "Costly litigation, stock price decline, business impact"
+            },
+            {
+              "key": "factors_affecting_stock_price",
+              "value": "Regulatory status, funding ability, clinical trial results, competitive drugs"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "regulatory_litigation",
+          "page": 85,
+          "title": "Pre-Approval Policies and Procedures",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "Services performed by the independent registered public accounting firm were pre-approved in accordance with the pre-approval policy and procedures adopted by the Audit Committee."
+            },
+            {
+              "key": "Services Description",
+              "value": "Describes the permitted audit, audit-related, tax, and other services."
+            },
+            {
+              "key": "Relationship Disclosure",
+              "value": "Requires an annual description of all relationships between the independent registered public accounting firm and the client that may affect independence."
+            },
+            {
+              "key": "Independence Confirmation",
+              "value": "Requires confirmation that the firm is independent of the client under SEC requirements."
+            },
+            {
+              "key": "Independence Discussion",
+              "value": "Requires discussion with the Audit Committee about independence and effects of performing non-audit services."
+            },
+            {
+              "key": "Service Approval Process",
+              "value": "Services expected to be performed during the fiscal year are presented to the Audit Committee for pre-approval."
+            },
+            {
+              "key": "Specific Pre-Approval Requirements",
+              "value": "Requests for non-pre-approved services must be submitted to the Audit Committee."
+            },
+            {
+              "key": "Pre-Approval Procedure",
+              "value": "Generally considered at regularly scheduled meetings, with authority to grant specific pre-approval delegated."
+            },
+            {
+              "key": "Audit Related Services Year",
+              "value": "Audit Committee pre-approved all audit related services rendered in 2021."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 13,
+          "title": "Gencaro Patent and Non-Patent Marketing Exclusivity Information",
+          "data": [
+            {
+              "key": "FDA Approval and PTE",
+              "value": "The patent owner submits an application for PTE that includes all necessary supporting information within 60 days of FDA approval; drug application is for the first permitted commercial marketing."
+            },
+            {
+              "key": "EU Patent and SPC",
+              "value": "If Gencaro is approved, patents may be eligible for SPC providing up to five years of additional patent life."
+            },
+            {
+              "key": "Hatch-Waxman Act",
+              "value": "Provides five years of marketing exclusivity to the first applicant for drugs that contain a new chemical entity."
+            },
+            {
+              "key": "Permitted ANDA Submissions",
+              "value": "An ANDA or 505(b)(2) NDA cannot be submitted until the exclusivity period ends, preventing competition until then."
+            },
+            {
+              "key": "New Use Exclusivity",
+              "value": "Three years exclusivity provided for new clinical investigations essential to FDA approval."
+            },
+            {
+              "key": "EU Market Exclusivity",
+              "value": "If approved in the EU, Gencaro may be eligible for ten years of market exclusivity."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 84,
+          "title": "Transactions With the Company’s President and Chief Executive Officer",
+          "data": [
+            {
+              "key": "Total unrestricted research grants expenses 2022",
+              "value": "$432,000"
+            },
+            {
+              "key": "Total unrestricted research grants expenses 2021",
+              "value": "$439,000"
+            },
+            {
+              "key": "Unpaid accrued expenses as of December 31, 2022",
+              "value": "$216,000"
+            },
+            {
+              "key": "Cooperation Agreement effective date",
+              "value": "June 15, 2022"
+            },
+            {
+              "key": "Term of Mr. Ma-Weaver",
+              "value": "Expires at the Company’s 2024 annual meeting of stockholders"
+            },
+            {
+              "key": "Second Director Appointment",
+              "value": "Mr. James Flynn was elected as Director at the 2022 annual meeting"
+            },
+            {
+              "key": "Agreement duration for standstill restrictions",
+              "value": "up to 180 days after the First Director Appointment or 90 days before the 2023 annual meeting, whichever occurs first"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 84,
+          "title": "Audit and Professional Fees Summary",
+          "data": [
+            {
+              "key": "Audit Fees 2022",
+              "value": "$189,612"
+            },
+            {
+              "key": "Audit Fees 2021",
+              "value": "$215,651"
+            },
+            {
+              "key": "Audit-related Fees 2022",
+              "value": "$0"
+            },
+            {
+              "key": "Audit-related Fees 2021",
+              "value": "$0"
+            },
+            {
+              "key": "Total Fees 2022",
+              "value": "$189,612"
+            },
+            {
+              "key": "Total Fees 2021",
+              "value": "$215,651"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 90,
+          "title": "Exhibit Index and Certifications",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "32.1"
+            },
+            {
+              "key": "Description",
+              "value": "Certification of Principal Executive Officer and Principal Financial Officer pursuant to 18 U.S.C. sec. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act 2002."
+            },
+            {
+              "key": "Filed Herewi",
+              "value": "xX"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 90,
+          "title": "XBRL Document Information",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "101.INS"
+            },
+            {
+              "key": "Description",
+              "value": "In line XBRL Instance Document — the instance document does not appear in the Interactive Data File because XBRL tags are embedded within the Inline XBRL document"
+            },
+            {
+              "key": "Filed Herewi",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 90,
+          "title": "XBRL Taxonomy Extension Schema Document",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "01.SCH"
+            },
+            {
+              "key": "Description",
+              "value": "In line XBRL Taxonomy Extension Schema Document (filed electronically herewith)"
+            },
+            {
+              "key": "Filed Herewi",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 90,
+          "title": "XBRL Taxonomy Extension Calculation Document",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "01.CAL"
+            },
+            {
+              "key": "Description",
+              "value": "In line XBRL Taxonomy Extension Calculation Linkbase Document (filed electronically herewith)"
+            },
+            {
+              "key": "Filed Herewi",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 90,
+          "title": "XBRL Taxonomy Extension Label Document",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "01.LAB"
+            },
+            {
+              "key": "Description",
+              "value": "In line XBRL Taxonomy Extension Label Linkbase Document (filed electronically herewith)"
+            },
+            {
+              "key": "Filed Herewi",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 90,
+          "title": "XBRL Taxonomy Extension Presentation Document",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "01.PRE"
+            },
+            {
+              "key": "Description",
+              "value": "In line XBRL Taxonomy Extension Presentation Linkbase Document (filed electronically herewith)"
+            },
+            {
+              "key": "Filed Herewi",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 90,
+          "title": "XBRL Taxonomy Extension Definition Document",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "01.DEF"
+            },
+            {
+              "key": "Description",
+              "value": "In line XBRL Taxonomy Extension Definition Linkbase Document (filed electronically herewith)"
+            },
+            {
+              "key": "Filed Herewi",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 90,
+          "title": "Interactive Data File",
+          "data": [
+            {
+              "key": "Exhibit No.",
+              "value": "104"
+            },
+            {
+              "key": "Description",
+              "value": "Cover Page Interactive Data File (embedded within the In line XBRL document)."
+            },
+            {
+              "key": "Filed Herewi",
+              "value": ""
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 29,
+    "EUR": 22,
+    "AUD": 14,
+    "ZAR": 6
+  },
+  "sha1": "a533b44fe091a8aa62d1fa4f0a3262b311df8bd9"
+}

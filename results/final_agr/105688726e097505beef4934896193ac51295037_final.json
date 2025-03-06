@@ -1,0 +1,2693 @@
+{
+  "letters": 116167,
+  "pages": 61,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 6
+    },
+    "company_name": "Peako Limited",
+    "major_industry": "Technology",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 1,
+          "title": "2022 Annual Report",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Peako Limited"
+            },
+            {
+              "key": "ASX Code",
+              "value": "PKO"
+            },
+            {
+              "key": "Reporting Period",
+              "value": "Year Ended 30 June 2022"
+            },
+            {
+              "key": "Contact Information",
+              "value": "Level 1, 10 Yarra Street, South Yarra, Victoria 3141"
+            },
+            {
+              "key": "Telephone",
+              "value": "+61 (3) 8610 4723"
+            },
+            {
+              "key": "Email",
+              "value": "info@peako.com.au"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 6,
+          "title": "Operations Review Metals NL’s Panton Project",
+          "data": [
+            {
+              "key": "Project Focus",
+              "value": "East Kimberley Project"
+            },
+            {
+              "key": "Tenure",
+              "value": "4,029 km2"
+            },
+            {
+              "key": "Exploration Type",
+              "value": "PGE mineralised system"
+            },
+            {
+              "key": "2022 Activities",
+              "value": "RC drilling program for PGE testing"
+            },
+            {
+              "key": "2021 Activities",
+              "value": "Assessment of potential for gold and base metal mineralisation"
+            },
+            {
+              "key": "Future Exploration",
+              "value": "Focus on Platinum Group Elements (PGEs)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 7,
+          "title": "Geographical Map of Mining Projects in Kimberley Region",
+          "data": [
+            {
+              "key": "region",
+              "value": "Kimberley, Western Australia"
+            },
+            {
+              "key": "primary_company",
+              "value": "Peako"
+            },
+            {
+              "key": "primary_project",
+              "value": "Eastman PGE Project"
+            },
+            {
+              "key": "neighboring_projects",
+              "value": "Panton PGM Project, Savannah Ni-Cu, Copernicus Ni-Cu, Lamboo PGE Project"
+            },
+            {
+              "key": "major_towns",
+              "value": "Derby, Fitzroy Crossing, Halls Creek, Kununurra, Port of Wyndham"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 8,
+          "title": "Eastman PGE Project Overview",
+          "data": [
+            {
+              "key": "Project Name",
+              "value": "Eastman PGE Project"
+            },
+            {
+              "key": "Location",
+              "value": "Central Zone of the Halls Creek, Oregon"
+            },
+            {
+              "key": "Length of Eastman Intrusion",
+              "value": "16.5km"
+            },
+            {
+              "key": "Eastern Zone Length",
+              "value": "9.4km"
+            },
+            {
+              "key": "Western Zone Length",
+              "value": "7.1km"
+            },
+            {
+              "key": "Main Rock Types",
+              "value": "pyroxenite, anorthosite, gabbro"
+            },
+            {
+              "key": "Known Endowment",
+              "value": "Savannah - 15Mt @ 1.40% Ni, 0.62% Cu"
+            },
+            {
+              "key": "Additional Resource",
+              "value": "Panton – 5.0 Moz 3E PGE resource"
+            },
+            {
+              "key": "Current Drilling Activity",
+              "value": "Drilling by Pantoro at the Lamboo Intrusion"
+            },
+            {
+              "key": "Geological Importance",
+              "value": "Stratabound PGE mineralisation within ultramafic intrusives"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 13,
+          "title": "Exploration Focus on Platinum Group Elements (PGEs)",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Peako"
+            },
+            {
+              "key": "Focus Area",
+              "value": "Platinum Group Elements (PGEs)"
+            },
+            {
+              "key": "Encouragement Source",
+              "value": "Pantoro Limited's Halls Creek Project"
+            },
+            {
+              "key": "Encouragement Source 2",
+              "value": "Future Metals NL's Panton Project"
+            },
+            {
+              "key": "Report Year",
+              "value": "2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 18,
+          "title": "Tenement Schedule As at 28 September 2022",
+          "data": [
+            {
+              "key": "Tenement",
+              "value": "E80/4990"
+            },
+            {
+              "key": "Interest",
+              "value": "100%"
+            },
+            {
+              "key": "Status",
+              "value": "Granted"
+            },
+            {
+              "key": "Tenement",
+              "value": "E80/5182"
+            },
+            {
+              "key": "Interest",
+              "value": "100%"
+            },
+            {
+              "key": "Status",
+              "value": "Granted"
+            },
+            {
+              "key": "Tenement",
+              "value": "E80/5346"
+            },
+            {
+              "key": "Interest",
+              "value": "100%"
+            },
+            {
+              "key": "Status",
+              "value": "Application"
+            },
+            {
+              "key": "Tenement",
+              "value": "E80/5472"
+            },
+            {
+              "key": "Interest",
+              "value": "100%"
+            },
+            {
+              "key": "Status",
+              "value": "Application"
+            },
+            {
+              "key": "Tenement",
+              "value": "E80/5520"
+            },
+            {
+              "key": "Interest",
+              "value": "100%"
+            },
+            {
+              "key": "Status",
+              "value": "Application"
+            },
+            {
+              "key": "Tenement",
+              "value": "E80/5623"
+            },
+            {
+              "key": "Interest",
+              "value": "100%"
+            },
+            {
+              "key": "Status",
+              "value": "Application"
+            },
+            {
+              "key": "Tenement",
+              "value": "E80/5624"
+            },
+            {
+              "key": "Interest",
+              "value": "100%"
+            },
+            {
+              "key": "Status",
+              "value": "Application"
+            },
+            {
+              "key": "Tenement",
+              "value": "E80/5658"
+            },
+            {
+              "key": "Interest",
+              "value": "100%"
+            },
+            {
+              "key": "Status",
+              "value": "Application"
+            },
+            {
+              "key": "Tenement",
+              "value": "E80/5703"
+            },
+            {
+              "key": "Interest",
+              "value": "100%"
+            },
+            {
+              "key": "Status",
+              "value": "Application"
+            },
+            {
+              "key": "Tenement",
+              "value": "E80/5704"
+            },
+            {
+              "key": "Interest",
+              "value": "100%"
+            },
+            {
+              "key": "Status",
+              "value": "Application"
+            },
+            {
+              "key": "Tenement",
+              "value": "E80/5706"
+            },
+            {
+              "key": "Interest",
+              "value": "100%"
+            },
+            {
+              "key": "Status",
+              "value": "Application"
+            },
+            {
+              "key": "Tenement",
+              "value": "E80/5758"
+            },
+            {
+              "key": "Interest",
+              "value": "100%"
+            },
+            {
+              "key": "Status",
+              "value": "Application"
+            },
+            {
+              "key": "Tenement",
+              "value": "E80/5779"
+            },
+            {
+              "key": "Interest",
+              "value": "100%"
+            },
+            {
+              "key": "Status",
+              "value": "Application"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 18,
+          "title": "Precious Metal Group Definitions",
+          "data": [
+            {
+              "key": "acronym",
+              "value": "3E"
+            },
+            {
+              "key": "definition",
+              "value": "The sum of Palladium (Pd) and Platinum (Pt) and Gold (Au)"
+            },
+            {
+              "key": "acronym",
+              "value": "PGE"
+            },
+            {
+              "key": "definition",
+              "value": "Platinum Group Elements; the six platinum group elements are Platinum (Pt), Palladium (Pd), Rhodium (Rh), Ruthenium (Ru), Osmium (Os) and Iridium (Ir)"
+            },
+            {
+              "key": "acronym",
+              "value": "PGE+Au"
+            },
+            {
+              "key": "definition",
+              "value": "The sum of Platinum (Pt), Palladium (Pd), Rhodium (Rh), Ruthenium (Ru), Osmium (Os), Iridium (Ir) and Gold (Au)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 19,
+          "title": "References",
+          "data": [
+            {
+              "key": "Exploration Results Reports",
+              "value": "The information in this report that relates to Exploration Results previously reported in ASX announcements are listed below."
+            },
+            {
+              "key": "Previous Announcements",
+              "value": "The Company is not aware of any new information or data that materially affects the information included in each relevant market announcement."
+            },
+            {
+              "key": "Details of ASX Announcements",
+              "value": "13 September 2022 Eastman PGE Rock Chips Assay up to 3.49 g/t PGE and Au; 31 August 2022 Eastman PGE Drilling Program Completed; 1 August 2022 Eastman PGE Drilling Program Update; 31 January 2022 PGE Potential of the Lamboo Ultramafic Complex; 14 January 2022 Scout Drilling Intersects Gold and Base Metals; 13 December 2021 Gold and Base Metal Potential Highlighted in East Kimberley."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 55,
+          "title": "INDEPENDENT AUDITOR’S REPORT FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Auditor",
+              "value": "Grant Thornton Audit Pty Ltd"
+            },
+            {
+              "key": "Address",
+              "value": "Level 22 Tower 5 Collins Square 727 Collins Street Melbourne VIC 3008 GPO Box 4736 Melbourne VIC 3001"
+            },
+            {
+              "key": "Opinion",
+              "value": "The accompanying financial report of the Group is in accordance with the Corporations Act 2001, giving a true and fair view of the Group’s financial position as at 30 June 2022."
+            },
+            {
+              "key": "Audit Standards",
+              "value": "Australian Auditing Standards"
+            },
+            {
+              "key": "Independence",
+              "value": "Independent of the Group in accordance with the auditor independence requirements of the Corporations Act 2001."
+            },
+            {
+              "key": "Year Ended",
+              "value": "30 June 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 56,
+          "title": "INDEPENDENT AUDITOR’S REPORT FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Material uncertainty related to going concern",
+              "value": "We draw attention to Note 1(a) in the financial statements, which indicates that the Group incurred a net loss after tax of $1,104,118 during the year ended 30 June 2022 and a net cash outflow from operating and investing activities of $2,365,608."
+            },
+            {
+              "key": "Key audit matters",
+              "value": "Key audit matters are those matters that, in our professional judgement, were of most significance in our audit of the financial report of the current period."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 2,
+          "title": "Corporate Directory",
+          "data": [
+            {
+              "key": "Directors",
+              "value": "Geoffrey Albers (Non-Executive Chairman), Raewyn Clark (Executive Director), Paul Kitto (Non-Executive Technical Director) - Appointed 20 September 2021"
+            },
+            {
+              "key": "Company Secretary",
+              "value": "Robert Wright"
+            },
+            {
+              "key": "Registered Office",
+              "value": "Level 1, 10 Yarra Street, South Yarra Victoria, 3141 Australia"
+            },
+            {
+              "key": "Auditor",
+              "value": "Grant Thornton Audit Pty Ltd, Collins Square, Tower 5, 727 Collins Street Melbourne, Victoria 3008, Australia"
+            },
+            {
+              "key": "Share Registry",
+              "value": "Automic Pty Ltd, Level 3. 50 Holt Street Surry Hills, NSW 2010, Australia"
+            },
+            {
+              "key": "Securities Exchange Listing",
+              "value": "ASX Limited, Level 4, North Tower, Rialto, 525 Collins Street Melbourne Victoria 3000"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "leadership_change",
+          "page": 3,
+          "title": "Corporate Directory",
+          "data": [
+            {
+              "key": "Directors",
+              "value": "Geoffrey Albers (Non-Executive Chairman), Raewyn Clark (Executive Director), Paul Kitto (Non-Executive Technical Director) - Appointed 20 September 2021"
+            },
+            {
+              "key": "Company Secretary",
+              "value": "Robert Wright"
+            },
+            {
+              "key": "Registered Office",
+              "value": "Level 1, 10 Yarra Street, South Yarra Victoria, 3141 Australia"
+            },
+            {
+              "key": "Auditor",
+              "value": "Grant Thornton Audit Pty Ltd, Collins Square, Tower 5, 727 Collins Street, Melbourne, Victoria 3008, Australia"
+            },
+            {
+              "key": "Share Registry",
+              "value": "Automic Pty Ltd, Level 3. 50 Holt Street, Surry Hills, NSW 2010, Australia"
+            },
+            {
+              "key": "Securities Exchange Listing",
+              "value": "ASX Limited, Level 4, North Tower, Rialto, 525 Collins Street, Melbourne Victoria 3000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 4,
+          "title": "Chairman's Letter",
+          "data": [
+            {
+              "key": "Chairman",
+              "value": "E.G. Albers"
+            },
+            {
+              "key": "Company",
+              "value": "Peako Limited"
+            },
+            {
+              "key": "Date",
+              "value": "29th September 2022"
+            },
+            {
+              "key": "Key Highlights",
+              "value": "Peako's exploration team made breakthroughs in understanding the Eastman PGE Project."
+            },
+            {
+              "key": "Focus Areas",
+              "value": "Identified ultramafic intrusions for PGE mineralisation."
+            },
+            {
+              "key": "Leadership",
+              "value": "Rae Clark (Executive Director), Dr. Paul Kitto (Technical Director)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 15,
+          "title": "Изменение в руководстве компании",
+          "data": [
+            {
+              "key": "ФИО нового руководителя",
+              "value": "Иванов Иван Иванович"
+            },
+            {
+              "key": "Должность нового руководителя",
+              "value": "Генеральный директор"
+            },
+            {
+              "key": "Дата назначения",
+              "value": "01.10.2023"
+            },
+            {
+              "key": "Причина изменения",
+              "value": "Увеличение производительности"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 20,
+          "title": "Directors’ Report",
+          "data": [
+            {
+              "key": "Leadership changes",
+              "value": "Information about changes in the board structure."
+            },
+            {
+              "key": "Current leadership",
+              "value": "Details of the current directors and their roles."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 21,
+          "title": "Directors’ Report for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Directors",
+              "value": "E. Geoffrey (Geoff) Albers LLB, FAICD - Non-executive Chairman"
+            },
+            {
+              "key": "Appointment Date",
+              "value": "4 February 2013"
+            },
+            {
+              "key": "Experience",
+              "value": "Over 35 years’ experience in corporate law, resource exploration, resource sector investment."
+            },
+            {
+              "key": "Additional Roles",
+              "value": "Director of Octanex Limited and Enegex Limited"
+            },
+            {
+              "key": "Raewyn (Rae) Clark",
+              "value": "Executive Director"
+            },
+            {
+              "key": "Experience",
+              "value": "More than twenty years experience in upstream oil and gas sector, business development, financial modelling, capital raising, mergers and acquisitions."
+            },
+            {
+              "key": "Appointment Date",
+              "value": "4 December 2014"
+            },
+            {
+              "key": "Additional Roles",
+              "value": "Director of Octanex Limited and Enegex Limited"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 22,
+          "title": "Directors’ Report for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Director",
+              "value": "Paul Kitto"
+            },
+            {
+              "key": "Title",
+              "value": "Non-executive Technical Director"
+            },
+            {
+              "key": "Experience",
+              "value": "Over 30 years’ experience in the mining industry. Previously Exploration Manager, Africa for Newcrest Mining Ltd; CEO and Managing Director of Ampella Mining Ltd"
+            },
+            {
+              "key": "Appointment Date",
+              "value": "20 September 2021"
+            },
+            {
+              "key": "Other Directorships",
+              "value": "Tietto Minerals Limited, Meteoric Resources NL"
+            },
+            {
+              "key": "Director",
+              "value": "Darryl Clark"
+            },
+            {
+              "key": "Title",
+              "value": "Non-Executive Director"
+            },
+            {
+              "key": "Experience",
+              "value": "Exploration geologist with 26 years of experience. Previously responsible for business development strategies and designing exploration programs."
+            },
+            {
+              "key": "Appointment Date",
+              "value": "20 March 2019"
+            },
+            {
+              "key": "Resignation Date",
+              "value": "20 September 2021"
+            },
+            {
+              "key": "Director",
+              "value": "Robert Wright"
+            },
+            {
+              "key": "Title",
+              "value": "Company Secretary"
+            },
+            {
+              "key": "Appointment Date",
+              "value": "2 May 2017"
+            },
+            {
+              "key": "Experience",
+              "value": "Senior financial professional with over 35 years of experience in resource, energy and manufacturing sectors. CFO for multiple ASX listed companies."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 25,
+          "title": "DIRECTORS’ REPORT FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Remuneration Report",
+              "value": "The Directors present the Remuneration Report for the Company and its controlled entities for the year ended 30 June 2022. This Remuneration Report for the Group forms part of the Directors’ Report and has been prepared in accordance with section 300A of the Corporations Act 2001."
+            },
+            {
+              "key": "Indemnification of directors",
+              "value": "During the financial year and to the date of this report, the company paid premiums in respect of contracts insuring directors and officers of the company against liabilities arising from their position as directors and officers of the company."
+            },
+            {
+              "key": "Meetings of directors",
+              "value": "The number of formal meetings of the Company’s board of directors and relevant committees attended by each director are set out in the following table."
+            },
+            {
+              "key": "Attendance Record",
+              "value": "This table shows attendance records for three individuals (Geoffrey Albers, Raewyn Clark, and Paul Kitto). All three members had perfect attendance, attending all 2 meetings that were held."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 29,
+          "title": "Directors' Report for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Auditor Independence",
+              "value": "Section 307C of the Corporations Act 2001 requires our auditors, Grant Thornton Audit Pty Ltd, to provide the directors of the Company with an Independence Declaration in relation to the audit of the annual report. This Independence Declaration is set out on page 30 and forms part of this directors’ report for the year ended 30 June 2022."
+            },
+            {
+              "key": "Non-audit services",
+              "value": "The Company may decide to employ the auditor on assignments additional to their statutory audit duties where the auditor’s expertise and experience with the Company and/or the Group are important. The Company has considered the position and is satisfied that the provision of the non-audit services is compatible with the general standard of independence for auditors imposed by the Corporations Act 2001. The auditor has not provided any non-audit services and as such auditor independence was not compromised."
+            },
+            {
+              "key": "Report Date",
+              "value": "29 September 2022"
+            },
+            {
+              "key": "Director Name",
+              "value": "R.L. Clark"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 30,
+          "title": "AUDITOR’S INDEPENDENCE DECLARATION FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Auditor",
+              "value": "Grant Thornton Audit Pty Ltd"
+            },
+            {
+              "key": "Location",
+              "value": "Level 22 Tower 5 Collins Square 727 Collins Street Melbourne VIC 3008"
+            },
+            {
+              "key": "GPO Box",
+              "value": "GPO Box 4736 Melbourne VIC 3001"
+            },
+            {
+              "key": "Phone",
+              "value": "+61 3 8320 2222"
+            },
+            {
+              "key": "Declaration Date",
+              "value": "29 September 2022"
+            },
+            {
+              "key": "Partner Name",
+              "value": "T S Jackman"
+            },
+            {
+              "key": "Audit Period",
+              "value": "Year ended 30 June 2022"
+            },
+            {
+              "key": "Compliance Statement",
+              "value": "No contraventions of the auditor independence requirements of the Corporations Act 2001."
+            },
+            {
+              "key": "Professional Conduct Compliance",
+              "value": "No contraventions of any applicable code of professional conduct."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "leadership_change",
+          "page": 54,
+          "title": "DIRECTORS’ DECLARATION FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Company Name",
+              "value": "Peako Limited"
+            },
+            {
+              "key": "Financial Year Ended",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Director Name",
+              "value": "R.L Clark"
+            },
+            {
+              "key": "Declaration Date",
+              "value": "29 September 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 60,
+          "title": "Контактная информация компании Peako Limited",
+          "data": [
+            {
+              "key": "Название",
+              "value": "Peako Limited"
+            },
+            {
+              "key": "ASX",
+              "value": "PKO"
+            },
+            {
+              "key": "Сайт",
+              "value": "peako.com.au"
+            },
+            {
+              "key": "Адрес",
+              "value": "Level 1, 10 Yarra Street, South Yarra, Victoria 3141"
+            },
+            {
+              "key": "Телефон",
+              "value": "+61 (3) 8610 4723"
+            },
+            {
+              "key": "Email",
+              "value": "info@peako.com.au"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": true,
+      "elements": [
+        {
+          "type": "layoff",
+          "page": 44,
+          "title": "Income tax expense recognised in statement of comprehensive income",
+          "data": [
+            {
+              "key": "Accounting loss before tax",
+              "value": "(1,104,118)"
+            },
+            {
+              "key": "Tax benefit at the statutory income tax rate of 30%",
+              "value": "(331,235)"
+            },
+            {
+              "key": "Non-deductible expenses",
+              "value": "41,289"
+            },
+            {
+              "key": "Non-assessable income",
+              "value": "-"
+            },
+            {
+              "key": "Unrealised tax losses not recognised",
+              "value": "669,762"
+            },
+            {
+              "key": "Temporary differences not recognised",
+              "value": "(379,816)"
+            },
+            {
+              "key": "Tax revenue losses (Australian)",
+              "value": "20,677,992"
+            },
+            {
+              "key": "Tax capital losses (Australian)",
+              "value": "4,430,516"
+            },
+            {
+              "key": "Tax revenue losses (Foreign)",
+              "value": "-"
+            },
+            {
+              "key": "Unamortised business related costs",
+              "value": "(105,207)"
+            },
+            {
+              "key": "Accruals & provisions",
+              "value": "43,229"
+            },
+            {
+              "key": "Exploration expenses",
+              "value": "(3,577,613)"
+            },
+            {
+              "key": "Net unrecognised deferred tax assets",
+              "value": "21,468,917"
+            },
+            {
+              "key": "Potential tax benefit @ 30% (2021: 30%)",
+              "value": "6,440,675"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "layoff",
+          "page": 44,
+          "title": "Earnings per share",
+          "data": [
+            {
+              "key": "The weighted average number of ordinary shares",
+              "value": "304,111,248"
+            },
+            {
+              "key": "Total basic and dilutive loss per share (cents)",
+              "value": "-0.36"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 23,
+          "title": "Directors’ Report For the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Ordinary shares",
+              "value": "At 30 June 2022 the Company’s share capital consists of 308,454,101 ordinary fully paid shares (2021: 234,911,319)."
+            },
+            {
+              "key": "Share Purchase Plan",
+              "value": "On 21 July 2021, the Share Purchase Plan (\"SPP\") announced by the Company on 15 June 2021 concluded. The company issued 59,527,066 shares and granted 29,763,522 unlisted options pursuant to the SPP, raising a $2,074,000; prior to costs."
+            },
+            {
+              "key": "Tranche Placement",
+              "value": "On 30 July 2021 the following shares were issued and options granted following approval of members as part of a two-tranche placement: 21,428,571 first tranche unlisted options exercisable at $0.055 on or before 30 June 2022."
+            },
+            {
+              "key": "Rights Issue",
+              "value": "On 2 September 2022 a Non Renounceable Rights Issue (Rights Issue) closed. Total ordinary fully paid shares issued from the Rights Issue was 70,727,848."
+            },
+            {
+              "key": "Unlisted Options Summary",
+              "value": "This table shows the movement of unlisted options over two periods. Starting with 57,737,799 options, 65,199,980 new options were granted during the current period. However, a significant number of options (93,937,779) expired, resulting in an end-of-year balance of 29,000,000 options."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 26,
+          "title": "Directors' Report for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Total Director Remuneration (2022)",
+              "value": "$56,816"
+            },
+            {
+              "key": "Total Director Remuneration (2021)",
+              "value": "$97,806"
+            },
+            {
+              "key": "Decline in Total Remuneration",
+              "value": "$40,990 (41.9%)"
+            },
+            {
+              "key": "Non-Executive Remuneration (2022)",
+              "value": "$56,816"
+            },
+            {
+              "key": "Non-Executive Remuneration (2021)",
+              "value": "$48,219"
+            },
+            {
+              "key": "Performance Related Remuneration",
+              "value": "None"
+            },
+            {
+              "key": "Summary of Financial Performance Metrics",
+              "value": "Significant reduction in losses after income tax, share price decline. Missing values indicate transitional data."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 27,
+          "title": "Directors’ Report For the year ended 30 June 2022",
+          "data": [
+            {
+              "key": "Total Remuneration",
+              "value": "$56,816"
+            },
+            {
+              "key": "Previous Year Remuneration",
+              "value": "$97,806"
+            },
+            {
+              "key": "Shareholder-approved Non-executive Remuneration",
+              "value": "$56,816"
+            },
+            {
+              "key": "Previous Year Non-executive Remuneration",
+              "value": "$48,219"
+            },
+            {
+              "key": "Performance Related Remuneration",
+              "value": "None"
+            },
+            {
+              "key": "Directors' Compensation Table",
+              "value": "Shown in the detailed table below."
+            },
+            {
+              "key": "Consulting Fees to Key Management Personnel",
+              "value": "$92,400"
+            },
+            {
+              "key": "Previous Year Consulting Fees",
+              "value": "$68,415"
+            },
+            {
+              "key": "Directors' Resignation",
+              "value": "Darryl Clark resigned 20 September 2021 and Paul Kitto was appointed."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 28,
+          "title": "Directors’ Report 30 June 2022",
+          "data": [
+            {
+              "key": "Raewyn Clark's total options at end of year",
+              "value": "6,000,000"
+            },
+            {
+              "key": "Darryl Clark's options expired due to resignation",
+              "value": "2000000"
+            },
+            {
+              "key": "Paul Kitto's new grants",
+              "value": "2,000,000"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 40,
+          "title": "Notes to the Financial Statements for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "share_based_payment_transactions",
+              "value": "Equity settled transactions are awards of shares, or options over shares, that are provided to employees or consultants exchange for the rendering of services or to incentivize the receiver in their future efforts."
+            },
+            {
+              "key": "cost_of_equity_settled_transactions",
+              "value": "The cost of equity-settled transactions are measured at fair value on grant date."
+            },
+            {
+              "key": "recognition_of_expenditure",
+              "value": "The cost of equity-settled transactions are recognised as an expense with a corresponding increase in equity over the vesting period."
+            },
+            {
+              "key": "modifications_of_awards",
+              "value": "If equity-settled awards are modified, an additional expense is recognised, over the remaining vesting period, for any modification that increases the total fair value of the share-based compensation benefit."
+            },
+            {
+              "key": "cancellation_of_awards",
+              "value": "If equity-settled awards are cancelled, it is treated as if it has vested on the date of cancellation."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 47,
+          "title": "Share-Based Payments Summary",
+          "data": [
+            {
+              "key": "Share based payment expense - directors",
+              "value": "6,949"
+            },
+            {
+              "key": "Share based payment expense — consultants and employees",
+              "value": "36,644"
+            },
+            {
+              "key": "Total",
+              "value": "43,593"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 47,
+          "title": "Option Pricing Parameters",
+          "data": [
+            {
+              "key": "Exercise price",
+              "value": "6 -20 cents"
+            },
+            {
+              "key": "Share price at approval date",
+              "value": "2.3 cents"
+            },
+            {
+              "key": "Maximum option life",
+              "value": "3.0 years"
+            },
+            {
+              "key": "Expected volatility",
+              "value": "88%"
+            },
+            {
+              "key": "Risk free interest rate",
+              "value": "0.93%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 47,
+          "title": "Share Options Granted to Directors",
+          "data": [
+            {
+              "key": "Fair Value at Grant Date",
+              "value": "$17,191"
+            },
+            {
+              "key": "Equity Increase for Year 2022",
+              "value": "$3,448"
+            },
+            {
+              "key": "Share-based payment expense for prior years' options",
+              "value": "$3,501"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 47,
+          "title": "Share Options Granted to Consultants",
+          "data": [
+            {
+              "key": "Fair Value at Grant Date",
+              "value": "$4,657"
+            },
+            {
+              "key": "Equity Increase for Year 2022",
+              "value": "$4,657"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 47,
+          "title": "Share Options Granted to Executive",
+          "data": [
+            {
+              "key": "Fair Value at Grant Date",
+              "value": "$3,805"
+            },
+            {
+              "key": "Equity Increase for Year 2022",
+              "value": "$751"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 47,
+          "title": "Share Options Granted to Employee",
+          "data": [
+            {
+              "key": "Fair Value at Grant Date",
+              "value": "$13,837"
+            },
+            {
+              "key": "Equity Increase for Year 2022",
+              "value": "$3,945"
+            },
+            {
+              "key": "Share-based payment expense for prior years' options",
+              "value": "$27,091"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 53,
+          "title": "Directors and Executives Compensation Summary",
+          "data": [
+            {
+              "key": "Year",
+              "value": "2022"
+            },
+            {
+              "key": "Directors Fees",
+              "value": "30,000"
+            },
+            {
+              "key": "Salary",
+              "value": "8,750"
+            },
+            {
+              "key": "Superannuation",
+              "value": "875"
+            },
+            {
+              "key": "Retirement Benefits",
+              "value": ":"
+            },
+            {
+              "key": "Options",
+              "value": "17,191"
+            },
+            {
+              "key": "Total",
+              "value": "56,816"
+            },
+            {
+              "key": "Year",
+              "value": "2021"
+            },
+            {
+              "key": "Directors Fees",
+              "value": "-"
+            },
+            {
+              "key": "Salary",
+              "value": "10,000"
+            },
+            {
+              "key": "Superannuation",
+              "value": "950"
+            },
+            {
+              "key": "Retirement Benefits",
+              "value": "-"
+            },
+            {
+              "key": "Options",
+              "value": "86,856"
+            },
+            {
+              "key": "Total",
+              "value": "97,806"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 57,
+          "title": "Independent Auditor’s Report for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Auditor Opinion",
+              "value": "The Remuneration Report of Peako Limited for the year ended 30 June 2022 complies with section 300A of the Corporations Act 2001."
+            },
+            {
+              "key": "Auditor Responsibility",
+              "value": "To express an opinion on the Remuneration Report, based on an audit conducted in accordance with Australian Auditing Standards."
+            },
+            {
+              "key": "Directors Responsibility",
+              "value": "Preparation and presentation of the Remuneration Report in accordance with section 300A of the Corporations Act 2001."
+            },
+            {
+              "key": "Partner",
+              "value": "T S Jackman"
+            },
+            {
+              "key": "Audit Firm",
+              "value": "Grant Thornton Audit Pty Ltd"
+            },
+            {
+              "key": "Date",
+              "value": "29 September 2022"
+            },
+            {
+              "key": "Location",
+              "value": "Melbourne"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "executive_compensation",
+          "page": 59,
+          "title": "DISTRIBUTION OF UNLISTED OPTIONS EXERCISABLE AT $0.05 ON OR BEFORE 30 SEPTEMBER 2025",
+          "data": [
+            {
+              "key": "Total Holders of Unlisted Options",
+              "value": "131"
+            },
+            {
+              "key": "Total Shares of Unlisted Options",
+              "value": "70,727,848"
+            },
+            {
+              "key": "Holders of Unlisted Options (1-1,000)",
+              "value": "5"
+            },
+            {
+              "key": "Shares Held (1-1,000)",
+              "value": "1,282"
+            },
+            {
+              "key": "Holders of Unlisted Options (1,001-5,000)",
+              "value": "9"
+            },
+            {
+              "key": "Shares Held (1,001-5,000)",
+              "value": "22,932"
+            },
+            {
+              "key": "Holders of Unlisted Options (5,001-10,000)",
+              "value": "6"
+            },
+            {
+              "key": "Shares Held (5,001-10,000)",
+              "value": "43,988"
+            },
+            {
+              "key": "Holders of Unlisted Options (10,001-100,000)",
+              "value": "38"
+            },
+            {
+              "key": "Shares Held (10,001-100,000)",
+              "value": "1,850,800"
+            },
+            {
+              "key": "Holders of Unlisted Options (100,001 and over)",
+              "value": "73"
+            },
+            {
+              "key": "Shares Held (100,001 and over)",
+              "value": "68,808,846"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 5,
+          "title": "Investment in Green Energy Technologies",
+          "data": [
+            {
+              "key": "Metal Focus",
+              "value": "Platinum and palladium"
+            },
+            {
+              "key": "Current Applications",
+              "value": "Catalytic converters in combustion engines"
+            },
+            {
+              "key": "Future Applications",
+              "value": "Green energy technologies and low carbon energy solutions"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 14,
+          "title": "2021 Field Campaign – Gold Exploration",
+          "data": [
+            {
+              "key": "Best drill results",
+              "value": "Landrigan Prospect with eight reverse circulation (RC) drillholes totaling 449m."
+            },
+            {
+              "key": "Aircore Geochemistry Drill Results",
+              "value": "473 holes for a total of 3,017 metres across target areas."
+            },
+            {
+              "key": "Anomalous Base Metal Corridors Results",
+              "value": "4m @ 6.2 g/t Au from 11m, inc 1m @ 11.6 g/t Au from 12m."
+            },
+            {
+              "key": "Exploration Grant",
+              "value": "Supported by an Exploration Incentive Scheme drilling grant from the Western Australian Government."
+            },
+            {
+              "key": "Mineralisation Extensions",
+              "value": "Total mineralised strike length of approximately 300m."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 16,
+          "title": "Aircore Geochemical Sampling Program",
+          "data": [
+            {
+              "key": "Description",
+              "value": "The image shows a geological survey map labeled 'Aircore Geochemical Sampling Program' for the East Kimberley Project in Western Australia."
+            },
+            {
+              "key": "Features",
+              "value": "Displays satellite/aerial imagery of terrain with drill locations marked by red circles arranged systematically across areas including Eastman Yard-9, Wedgbone, Yellowstone, Self Creek, and Brumby/Blackadder regions."
+            },
+            {
+              "key": "Highlighted Area",
+              "value": "A yellow highlighted area marked as 'Anomalous corridor' in Eastman East/Eastman No2 area."
+            },
+            {
+              "key": "Scale",
+              "value": "Includes a scale bar of 2km."
+            },
+            {
+              "key": "Coordinate Grid References",
+              "value": "240000-245000."
+            },
+            {
+              "key": "Inset Location",
+              "value": "An inset shows the location within Western Australia (WA)."
+            },
+            {
+              "key": "Reference Box",
+              "value": "Reference box 'E80/4990' is shown in the top left corner."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 10,
+          "title": "Eastman PGE New Rock Chip Results",
+          "data": [
+            {
+              "key": "Location",
+              "value": "Louisa"
+            },
+            {
+              "key": "Concentration",
+              "value": "3.46g/t PGE+Au"
+            },
+            {
+              "key": "Concentration",
+              "value": "3.49g/t PGE+Au"
+            },
+            {
+              "key": "Concentration",
+              "value": "1.97g/t PGE+Au"
+            },
+            {
+              "key": "Concentration",
+              "value": "1.42g/t PGE+Au"
+            },
+            {
+              "key": "Concentration",
+              "value": "1.03g/t PGE+Au"
+            },
+            {
+              "key": "Location",
+              "value": "Grand Central"
+            },
+            {
+              "key": "Concentration",
+              "value": "2.17g/t PGE+Au"
+            },
+            {
+              "key": "Concentration",
+              "value": "0.98g/t PGE+Au"
+            },
+            {
+              "key": "Location",
+              "value": "The Gap"
+            },
+            {
+              "key": "Concentration",
+              "value": "1.17g/t PGE+Au"
+            },
+            {
+              "key": "Concentration",
+              "value": "0.3g/t PGE+Au"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 12,
+          "title": "RC Drilling Program Overview",
+          "data": [
+            {
+              "key": "Program Length",
+              "value": "4,500m"
+            },
+            {
+              "key": "Commencement Date",
+              "value": "July 2022"
+            },
+            {
+              "key": "Target Areas",
+              "value": "PGE-rich mineralisation zones"
+            },
+            {
+              "key": "Geology Types",
+              "value": "Ultramafic, Mafic-Ultramafic, Granite"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 39,
+          "title": "Depreciation of Assets",
+          "data": [
+            {
+              "key": "Category",
+              "value": "Motor Vehicles"
+            },
+            {
+              "key": "Depreciation Rate",
+              "value": "10%"
+            },
+            {
+              "key": "Additional Rate",
+              "value": "-"
+            },
+            {
+              "key": "Another Depreciation Rate",
+              "value": "33%"
+            },
+            {
+              "key": "Note",
+              "value": ""
+            },
+            {
+              "key": "Category",
+              "value": ""
+            },
+            {
+              "key": "Depreciation Rate",
+              "value": ""
+            },
+            {
+              "key": "Additional Rate",
+              "value": ""
+            },
+            {
+              "key": "Another Depreciation Rate",
+              "value": ""
+            },
+            {
+              "key": "Note",
+              "value": "ona"
+            },
+            {
+              "key": "Category",
+              "value": "and equipment"
+            },
+            {
+              "key": "Depreciation Rate",
+              "value": "straight"
+            },
+            {
+              "key": "Additional Rate",
+              "value": ""
+            },
+            {
+              "key": "Another Depreciation Rate",
+              "value": "line"
+            },
+            {
+              "key": "Note",
+              "value": "basis"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 31,
+          "title": "Financial Reports",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "$10 million"
+            },
+            {
+              "key": "Net Income",
+              "value": "$2 million"
+            },
+            {
+              "key": "Operating Margin",
+              "value": "20%"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Consolidated Statement of Profit or Loss and Other Comprehensive Income",
+          "data": [
+            {
+              "key": "Revenue",
+              "value": "1,863"
+            },
+            {
+              "key": "Accounting Audit fees",
+              "value": "(169,529) (50,303)"
+            },
+            {
+              "key": "Conferences and travel",
+              "value": "(29,982)"
+            },
+            {
+              "key": "Depreciation",
+              "value": "(33,347) (30,000)"
+            },
+            {
+              "key": "Director Fees",
+              "value": "-"
+            },
+            {
+              "key": "Heritage Protection - Community and Management fees",
+              "value": "(82,202)"
+            },
+            {
+              "key": "Impairment of exploration asset",
+              "value": "(94,039)"
+            },
+            {
+              "key": "Insurance",
+              "value": "(19,320)"
+            },
+            {
+              "key": "Professional and consultancy fees",
+              "value": "(229,084)"
+            },
+            {
+              "key": "Office costs",
+              "value": "(114,292)"
+            },
+            {
+              "key": "Other costs",
+              "value": "(120,870)"
+            },
+            {
+              "key": "Salary and wages",
+              "value": "(3,443)"
+            },
+            {
+              "key": "Share based payment",
+              "value": "(43,543)"
+            },
+            {
+              "key": "Stock exchange and share registry costs",
+              "value": "(47,185)"
+            },
+            {
+              "key": "Tenement management",
+              "value": "(38,842) (1,105,981)"
+            },
+            {
+              "key": "Loss before income tax expense",
+              "value": "(1,104,118)"
+            },
+            {
+              "key": "Income tax expense",
+              "value": "(1,104,118)"
+            },
+            {
+              "key": "Net loss for the year",
+              "value": "(1,104,118)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 33,
+          "title": "Consolidated Statement of Financial Position",
+          "data": [
+            {
+              "key": "Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Total Assets (Current)",
+              "value": "$5,293,478"
+            },
+            {
+              "key": "Total Assets (Previous)",
+              "value": "$3,933,758"
+            },
+            {
+              "key": "Net Assets",
+              "value": "$4,936,641"
+            },
+            {
+              "key": "Total Current Assets",
+              "value": "$1,779,882"
+            },
+            {
+              "key": "Total Non-Current Assets",
+              "value": "$3,513,596"
+            },
+            {
+              "key": "Total Current Liabilities",
+              "value": "$356,837"
+            },
+            {
+              "key": "Issued Capital",
+              "value": "$44,186,207"
+            },
+            {
+              "key": "Reserves",
+              "value": "$206,401"
+            },
+            {
+              "key": "Accumulated Losses",
+              "value": "-$39,455,967"
+            },
+            {
+              "key": "Total Equity",
+              "value": "$4,936,641"
+            },
+            {
+              "key": "Comparison Statement",
+              "value": "Financial position has strengthened with a total assets increase of approximately $1.36 million."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Consolidated Statement of Cash Flows for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Total Cash Flow from Operating Activities - Current Period",
+              "value": "-1,065,135"
+            },
+            {
+              "key": "Total Cash Flow from Operating Activities - Previous Period",
+              "value": "-710,384"
+            },
+            {
+              "key": "Total Cash Flow from Investing Activities - Current Period",
+              "value": "-1,300,473"
+            },
+            {
+              "key": "Total Cash Flow from Investing Activities - Previous Period",
+              "value": "-1,371,174"
+            },
+            {
+              "key": "Total Cash Flow from Financing Activities - Current Period",
+              "value": "2,456,362"
+            },
+            {
+              "key": "Total Cash Flow from Financing Activities - Previous Period",
+              "value": "3,355,706"
+            },
+            {
+              "key": "Cash at the End of Reporting Period - Current Period",
+              "value": "1,510,559"
+            },
+            {
+              "key": "Cash at the End of Reporting Period - Previous Period",
+              "value": "1,419,805"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 37,
+          "title": "Notes to the Financial Statements for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Statement of significant accounting policies",
+              "value": "Transactions and balances between Group companies are eliminated on consolidation."
+            },
+            {
+              "key": "Exploration and evaluation assets",
+              "value": "Capitalised as exploration and evaluation assets on an area of interest basis."
+            },
+            {
+              "key": "Revenue recognition",
+              "value": "Revenue recognised when economic benefits are probable and measurable."
+            },
+            {
+              "key": "Cash and cash equivalents",
+              "value": "Includes cash at bank and in hand, and short term investments."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Notes to the Financial Statements for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Current tax assets and liabilities",
+              "value": "Measured at the amount expected to be recovered from or paid to the taxation authorities."
+            },
+            {
+              "key": "Deferred income tax",
+              "value": "Provided on all temporary differences at the balance date."
+            },
+            {
+              "key": "Recognition criteria for deferred income tax liabilities",
+              "value": "Recognised for all taxable temporary differences except certain conditions."
+            },
+            {
+              "key": "Recognition criteria for deferred income tax assets",
+              "value": "Recognised for all deductible temporary differences and unused tax losses under certain conditions."
+            },
+            {
+              "key": "Review of deferred income tax assets",
+              "value": "Carrying amount is reviewed at each balance date."
+            },
+            {
+              "key": "Offsetting deferred tax assets and liabilities",
+              "value": "Offset only if legally enforceable right exists."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 41,
+          "title": "Notes to the Financial Statements",
+          "data": [
+            {
+              "key": "Financial Year Ended",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Statement of significant accounting policies",
+              "value": "Continued from previous note."
+            },
+            {
+              "key": "Financial instruments policy",
+              "value": "Recognition and derecognition of financial assets and liabilities based on contracts."
+            },
+            {
+              "key": "Measurement of financial assets",
+              "value": "Measured at amortised cost if conditions are met."
+            },
+            {
+              "key": "Parent entity financial information",
+              "value": "Prepared on the same basis as the consolidated financial statements."
+            },
+            {
+              "key": "Impairment of financial assets",
+              "value": "Recognises expected credit losses."
+            },
+            {
+              "key": "Critical accounting estimates",
+              "value": "Management judgement in accounting policy selection."
+            },
+            {
+              "key": "Segment Reporting",
+              "value": "Operating segments reported as per internal reporting."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 42,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Financial Instruments",
+              "value": "Subsequent measurement of financial assets, recognition and derecognition."
+            },
+            {
+              "key": "Derecognition",
+              "value": "Financial assets are derecognised when the contractual rights to the cash flows from the financial asset expire."
+            },
+            {
+              "key": "Measurement",
+              "value": "Financial assets are measured at amortised cost under certain conditions."
+            },
+            {
+              "key": "Classification of financial assets",
+              "value": "Amortised cost, FVTPL, FVOCI."
+            },
+            {
+              "key": "Impairment of financial assets",
+              "value": "Based on AASB 9’s expected credit loss (ECL) model."
+            },
+            {
+              "key": "Stage 1 and Stage 2",
+              "value": "Distinction in financial instruments based on credit quality."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 43,
+          "title": "Notes to the Financial Statements for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Accounting Policies",
+              "value": "Statement of significant accounting policies (continued)"
+            },
+            {
+              "key": "Financial Asset Classification",
+              "value": "Financial assets are measured at amortised cost if they meet specific conditions."
+            },
+            {
+              "key": "Expected Credit Losses",
+              "value": "12-month expected credit losses are recognised for certain financial instruments while lifetime expected credit losses are recognized when specific conditions are met."
+            },
+            {
+              "key": "Financial Liabilities",
+              "value": "The Group’s financial liabilities include borrowings and trade payables and are measured at amortised cost."
+            },
+            {
+              "key": "Impairment Standard",
+              "value": "AASB 9’s impairment requirements use forward-looking information to recognise expected credit losses."
+            },
+            {
+              "key": "Income Presentation",
+              "value": "Income and expenses related to financial assets are presented within finance costs, finance income or other financial items."
+            },
+            {
+              "key": "ECL Model",
+              "value": "Instruments include loans, trade receivables, and some financial guarantees."
+            },
+            {
+              "key": "Risk Assessment",
+              "value": "The Group considers past events and current conditions when assessing credit risk."
+            },
+            {
+              "key": "Credit Quality Stages",
+              "value": "Financial instruments are categorized into three stages based on credit quality."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 45,
+          "title": "Notes to the Financial Statements As at 30 June 2022",
+          "data": [
+            {
+              "key": "Trade and other receivables (2022)",
+              "value": "92,754"
+            },
+            {
+              "key": "Trade and other receivables (2021)",
+              "value": "107,749"
+            },
+            {
+              "key": "GST Receivables (2022)",
+              "value": "50,047"
+            },
+            {
+              "key": "GST Receivables (2021)",
+              "value": "75,120"
+            },
+            {
+              "key": "Total Receivables Change",
+              "value": "Decrease by 15,025"
+            },
+            {
+              "key": "Prepaid Tenement Rent (2022)",
+              "value": "68,912"
+            },
+            {
+              "key": "Prepaid Tenement Rent (2021)",
+              "value": "80,457"
+            },
+            {
+              "key": "Total Year-End Balance (2022)",
+              "value": "176,569"
+            },
+            {
+              "key": "Total Year-End Balance (2021)",
+              "value": "107,657"
+            },
+            {
+              "key": "Total Plant and Equipment Ending Balance (2022)",
+              "value": "41,002"
+            },
+            {
+              "key": "Total Plant and Equipment Ending Balance (2021)",
+              "value": "48,977"
+            },
+            {
+              "key": "Total Exploration and Evaluation Assets Ending Balance (2022)",
+              "value": "3,401,430"
+            },
+            {
+              "key": "Total Exploration and Evaluation Assets Ending Balance (2021)",
+              "value": "2,154,834"
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Note 9: Trade and other payables",
+          "data": [
+            {
+              "key": "Current Trade and other payables*",
+              "value": "212279"
+            },
+            {
+              "key": "Director-related entities — other payables (Note 15)",
+              "value": "131329"
+            },
+            {
+              "key": "Total",
+              "value": "343608"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Issued Capital Note 10",
+          "data": [
+            {
+              "key": "Balance at the end of the year (2022)",
+              "value": "44,186,207"
+            },
+            {
+              "key": "Total shares (2022)",
+              "value": "308,454,101"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Options Movement Summary",
+          "data": [
+            {
+              "key": "Balance at the end of the year (Unlisted options)",
+              "value": "29,000,000"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 46,
+          "title": "Reserve Balances Comparison 2021-2022",
+          "data": [
+            {
+              "key": "Foreign currency translation reserve (2021)",
+              "value": "1,512"
+            },
+            {
+              "key": "Share compensation reserve (2022)",
+              "value": "206,401"
+            },
+            {
+              "key": "Total reserves (2022)",
+              "value": "206,401"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 48,
+          "title": "NOTES TO THE FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Capital risk management",
+              "value": "Prudent capital risk management implies maintaining sufficient cash and marketable securities to ensure continuity of tenure to exploration assets and to be able to conduct the Group’s business in an orderly and professional manner."
+            },
+            {
+              "key": "Categories of financial instruments",
+              "value": "The Group’s principal financial instruments comprise of cash and short-term deposits and short term borrowings."
+            },
+            {
+              "key": "Financial risk management objectives",
+              "value": "The Group is exposed to market risk (including, interest rate risk and equity price risk), credit risk and liquidity risk."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 49,
+          "title": "Financial Liabilities Maturity Analysis - 30 June 2022",
+          "data": [
+            {
+              "key": "Date",
+              "value": "30 June 2022"
+            },
+            {
+              "key": "Description",
+              "value": "Consolidated: Non-derivative Financial Liabilities"
+            },
+            {
+              "key": "Financial Liabilities",
+              "value": "Trade and other payables"
+            },
+            {
+              "key": "Carrying Amount",
+              "value": "343,608"
+            },
+            {
+              "key": "Cash Flows",
+              "value": "343,608"
+            },
+            {
+              "key": "Maturity (0-12 months)",
+              "value": "343,608"
+            },
+            {
+              "key": "Total Liabilities Summary",
+              "value": "Total liabilities amount to 343,608, all due within the first 12 months. No long-term financial obligations are shown for the 2-10 years."
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 50,
+          "title": "Commitments for Expenditure",
+          "data": [
+            {
+              "key": "Not longer than 1 year",
+              "value": "74,250"
+            },
+            {
+              "key": "Longer than 1 year and not longer than 5 year",
+              "value": "195,000"
+            },
+            {
+              "key": "Longer than 1 year and not longer than 5 year",
+              "value": "269,290"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 50,
+          "title": "Related Party Transactions and Outstanding Balances",
+          "data": [
+            {
+              "key": "Samika Pty Ltd",
+              "value": "Total Amounts Paid in 2022: 92,400"
+            },
+            {
+              "key": "Exoil Pty Ltd",
+              "value": "Total Amounts Paid in 2022: 114,292"
+            },
+            {
+              "key": "PA Kitto",
+              "value": "Total Amounts Paid in 2022: 49,200"
+            },
+            {
+              "key": "Enegex Limited",
+              "value": "Total Amounts Paid in 2022: 4,200"
+            },
+            {
+              "key": "Natural Resources Group Pty Ltd",
+              "value": "Total Amounts Paid in 2022: 20,000"
+            },
+            {
+              "key": "Octanex Limited",
+              "value": "Total Amounts Paid in 2022: 168,820"
+            }
+          ],
+          "currency": "AUD"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Reconciliation of loss after income tax to net cash outflow from operating activities",
+          "data": [
+            {
+              "key": "Net loss for the year 2022",
+              "value": "-1104118"
+            },
+            {
+              "key": "Net loss for the year 2021",
+              "value": "-714748"
+            },
+            {
+              "key": "Depreciation 2022",
+              "value": "33348"
+            },
+            {
+              "key": "Depreciation 2021",
+              "value": "6202"
+            },
+            {
+              "key": "Capitalisation of salary/consultant costs 2022",
+              "value": "-262570"
+            },
+            {
+              "key": "Capitalisation of salary/consultant costs 2021",
+              "value": "-89100"
+            },
+            {
+              "key": "Grant of options 2022",
+              "value": "43593"
+            },
+            {
+              "key": "Grant of options 2021",
+              "value": "144505"
+            },
+            {
+              "key": "Impairment of exploration asset 2022",
+              "value": "94039"
+            },
+            {
+              "key": "Impairment of exploration asset 2021",
+              "value": "0"
+            },
+            {
+              "key": "Employee provisions 2022",
+              "value": "13229"
+            },
+            {
+              "key": "Employee provisions 2021",
+              "value": "0"
+            },
+            {
+              "key": "(Increase) Decrease in trade and other receivables 2022",
+              "value": "14995"
+            },
+            {
+              "key": "(Increase) Decrease in trade and other receivables 2021",
+              "value": "-99828"
+            },
+            {
+              "key": "Decrease (increase) in trade and other payables 2022",
+              "value": "69005"
+            },
+            {
+              "key": "Decrease (increase) in trade and other payables 2021",
+              "value": "-85642"
+            },
+            {
+              "key": "Exploration expensed 2022",
+              "value": "33344"
+            },
+            {
+              "key": "Exploration expensed 2021",
+              "value": "128221"
+            },
+            {
+              "key": "Net cash outflow from operating activities 2022",
+              "value": "-1065135"
+            },
+            {
+              "key": "Net cash outflow from operating activities 2021",
+              "value": "-710385"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Auditor’s remuneration",
+          "data": [
+            {
+              "key": "Entity",
+              "value": "Grant Thornton Audit Pty Ltd"
+            },
+            {
+              "key": "Audit Fee Period 1",
+              "value": "50,303"
+            },
+            {
+              "key": "Audit Fee Period 2",
+              "value": "52,876"
+            },
+            {
+              "key": "Non-Audit services",
+              "value": "N/A"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 52,
+          "title": "Segment information",
+          "data": [
+            {
+              "key": "Management Approach",
+              "value": "Segment information is provided on the same basis as internal reporting."
+            },
+            {
+              "key": "Geographical Information",
+              "value": "All interest received and exploration assets are based in Australia."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 58,
+          "title": "ASX Additional Information (Unaudited) for the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "Total Shareholders",
+              "value": "1,080"
+            },
+            {
+              "key": "Total Shares Issued",
+              "value": "379,181,949"
+            },
+            {
+              "key": "Major Shareholder Name",
+              "value": "Albers Group"
+            },
+            {
+              "key": "Major Shareholder Holdings",
+              "value": "116,519,096"
+            },
+            {
+              "key": "Major Shareholder Percentage",
+              "value": "30.73%"
+            },
+            {
+              "key": "Top Holders Total Shares",
+              "value": "172,276,791"
+            },
+            {
+              "key": "Top Holders Percentage",
+              "value": "45.43%"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "dividend_policy",
+          "page": 51,
+          "title": "Financial Position and Performance Statement",
+          "data": [
+            {
+              "key": "Current assets",
+              "value": "$1,553,133"
+            },
+            {
+              "key": "Non-current assets Total assets",
+              "value": "$5,180,460"
+            },
+            {
+              "key": "Current liabilities",
+              "value": "$306,790"
+            },
+            {
+              "key": "Total liabilities",
+              "value": "$306,790"
+            },
+            {
+              "key": "Net Assets",
+              "value": "$4,873,670"
+            },
+            {
+              "key": "Issued capital",
+              "value": "$66,103,079"
+            },
+            {
+              "key": "Accumulated losses",
+              "value": "-$61,266,140"
+            },
+            {
+              "key": "Options",
+              "value": "0"
+            },
+            {
+              "key": "Loss for the year",
+              "value": "-$1,095,752"
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 34,
+          "title": "Statement of Changes in Equity",
+          "data": [
+            {
+              "key": "Balance at 1 July 2021",
+              "value": "Capital: 41641845, Compensation Reserve: 164172, Currency Translation Reserve: 1512, Accumulated Losses: -38354725, Equity: 3452804"
+            },
+            {
+              "key": "Loss for the year",
+              "value": "Capital: 0, Compensation Reserve: 0, Currency Translation Reserve: 0, Accumulated Losses: -1104118, Equity: -1104118"
+            },
+            {
+              "key": "Issue of Shares",
+              "value": "Capital: 2574000, Compensation Reserve: 0, Currency Translation Reserve: 0, Accumulated Losses: 0, Equity: 2574000"
+            },
+            {
+              "key": "Costs of issue",
+              "value": "Capital: -29638, Compensation Reserve: 0, Currency Translation Reserve: 0, Accumulated Losses: 0, Equity: -29638"
+            },
+            {
+              "key": "Grant of options",
+              "value": "Capital: 0, Compensation Reserve: 43593, Currency Translation Reserve: 0, Accumulated Losses: 0, Equity: 43593"
+            },
+            {
+              "key": "Balance at 30 June 2022",
+              "value": "Capital: 44186207, Compensation Reserve: 206401, Currency Translation Reserve: 0, Accumulated Losses: -39455967, Equity: 4936641"
+            }
+          ],
+          "currency": "USD"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": false,
+      "elements": []
+    },
+    "has_guidance_updates": {
+      "value": true,
+      "elements": [
+        {
+          "type": "guidance_update",
+          "page": 9,
+          "title": "2022 Field Campaign",
+          "data": [
+            {
+              "key": "Focus",
+              "value": "PGE exploration Eastman Intrusion"
+            },
+            {
+              "key": "Objective",
+              "value": "Study tectono-stratigraphic architecture for drillhole targeting"
+            },
+            {
+              "key": "Findings",
+              "value": "Multiple ultramafic horizons and associations between carbonate units and ultramafic complex"
+            },
+            {
+              "key": "Rock Chip Analyses",
+              "value": "3E PGE grades up to 2.9g/t from sampling at The Gap, Grand Central, and Louisa"
+            },
+            {
+              "key": "Best Results",
+              "value": "3.49g/t PGE+Au at Grand Central; 2.17g/t at Louisa; 1.17g/t at The Gap"
+            },
+            {
+              "key": "Techniques Used",
+              "value": "QEMSCAN microscopy and LA-ICP-MS for petrography study"
+            },
+            {
+              "key": "Correlation Identified",
+              "value": "Positive correlations between Pd and Cu–Ni, and Pt with chromite and silicate minerals"
+            },
+            {
+              "key": "QEMSCAN Description",
+              "value": "Automated mineralogy and petrography analysis of minerals and rocks"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 11,
+          "title": "Reconnaissance Soil Sampling at Eastman South",
+          "data": [
+            {
+              "key": "Sampling Area",
+              "value": "Eastman South"
+            },
+            {
+              "key": "Sampling Method",
+              "value": "Soil sampling along 400m spaced lines at 50m intervals"
+            },
+            {
+              "key": "Number of Samples",
+              "value": "1216"
+            },
+            {
+              "key": "Analyzed Elements",
+              "value": "53 elements including platinum, palladium and gold"
+            },
+            {
+              "key": "Findings",
+              "value": "Anomalous PGE trends identified"
+            },
+            {
+              "key": "Follow-up Work",
+              "value": "Infill soil sampling, geological mapping, and rock chip sampling to identify potential mineralisation"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "guidance_update",
+          "page": 24,
+          "title": "DIRECTORS’ REPORT FOR THE YEAR ENDED 30 JUNE 2022",
+          "data": [
+            {
+              "key": "Dividends",
+              "value": "No dividend has been paid or declared since the start of the financial year and the directors do not recommend the payment of a dividend in respect of the financial year."
+            },
+            {
+              "key": "Principal activities",
+              "value": "The principal activities of the Group during the financial year continued to be advancing the exploration for and development of natural resources."
+            },
+            {
+              "key": "Review of operations",
+              "value": "A detailed review of the Group's activities and operations is set out on pages 6-19 of this Report."
+            },
+            {
+              "key": "Environmental legislation",
+              "value": "The Group is subject to significant environmental legal regulations in respect to its exploration and evaluation activities in Australia. There have been no known breaches of these regulations and principles."
+            },
+            {
+              "key": "Significant changes in the state of affairs",
+              "value": "There have been no significant changes in the state of affairs of the Group to the date of this Report, other than those changes detailed in the review of activities and operations, and elsewhere in this Report."
+            },
+            {
+              "key": "Matters subsequent to balance date",
+              "value": "On 2 September 2022 the company announced that a Non Renounceable Rights Issue (Rights Issue) had closed oversubscribed, raising a total of $1,223,353 before costs. To accommodate excess demand, the Company also agreed to undertake a placement to raise an additional $180,000 on the same terms and conditions as the Rights Issue offer. Total funds realised prior to costs were $1,403,353. Total ordinary fully paid shares issued was 70,727,848. Attached to each issued share was an unlisted option exercisable at $0.05 with an expiry date of 30 September 2025. Total unlisted options granted was 70,727,848. In September 2022 the company relinquished its exploration tenure in the Paterson region of Western Australia which comprised one granted exploration licence as well as three exploration licence applications."
+            }
+          ],
+          "currency": "USD"
+        },
+        {
+          "type": "guidance_update",
+          "page": 36,
+          "title": "Notes to the Financial Statements For the Year Ended 30 June 2022",
+          "data": [
+            {
+              "key": "net cash outflow from operating and investing activities",
+              "value": "$2,365,608"
+            },
+            {
+              "key": "net loss after tax",
+              "value": "$1,104,118"
+            },
+            {
+              "key": "positive working capital",
+              "value": "$1,423,045"
+            },
+            {
+              "key": "funds raised in rights issue",
+              "value": "$1,403,353"
+            },
+            {
+              "key": "financial report authorization date",
+              "value": "29 September 2022"
+            },
+            {
+              "key": "reporting date for subsidiaries",
+              "value": "30 June 2022"
+            }
+          ],
+          "currency": "AUD"
+        }
+      ]
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": false,
+      "elements": []
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 17,
+          "title": "2021 Scout RC Drill Program - East Kimberley Project",
+          "data": [
+            {
+              "key": "location",
+              "value": "Western Australia"
+            },
+            {
+              "key": "grid_reference",
+              "value": "E80/4990"
+            },
+            {
+              "key": "drill_locations",
+              "value": "Landrigan, Eastman, Eastman East, Gypsy, Louisa, Appaloosa"
+            },
+            {
+              "key": "scale",
+              "value": "2 km"
+            },
+            {
+              "key": "coordinate_range",
+              "value": "240000-250000"
+            },
+            {
+              "key": "legend",
+              "value": "RC Collar"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 17,
+          "title": "Landrigan Prospect - Drillholes (new and historical)",
+          "data": [
+            {
+              "key": "mineral_intersections",
+              "value": "PLRC001 (4m, 1.05 g/t Au), PLRC011 (15m, 1.04% Cu, 8.68 g/t Ag, 0.38 g/t Au), PLRC004 (6m, 6.52% Cu, 27.27 g/t Ag, 1.16 g/t Au), EYC00 (9.8m, 2.7% Cu, 12.6 g/t Ag, 1.5 g/t Au)"
+            },
+            {
+              "key": "location",
+              "value": "Western Australia"
+            },
+            {
+              "key": "coordinate_system",
+              "value": "GDA 2020 - MGA Zone 52"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "USD": 133,
+    "AUD": 90
+  },
+  "sha1": "105688726e097505beef4934896193ac51295037"
+}

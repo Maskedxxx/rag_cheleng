@@ -1,0 +1,3399 @@
+{
+  "letters": 257958,
+  "pages": 87,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 3
+    },
+    "company_name": "Toshiba Corporation",
+    "major_industry": "Technology",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": true,
+      "elements": [
+        {
+          "type": "merger_acquisition",
+          "page": 37,
+          "title": "Offshore Wind Initiatives and Acquisition of EtaPRO™ Software Business",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Toshiba Energy Systems & Solutions Corporation"
+            },
+            {
+              "key": "Business Initiatives",
+              "value": "Conducting various offshore wind power generation initiatives including joint research with Kyushu University and Hitachi Zosen Corporation; developing digital maintenance and inspection technologies using drones and robotics; and optimizing wind turbine layout through advanced wind resource analysis."
+            },
+            {
+              "key": "Strategic Partnership",
+              "value": "Entered into a strategic partnership with GE Renewable Energy (USA) to expand the offshore wind power market in Japan and support a carbon-neutral society."
+            },
+            {
+              "key": "Acquisition",
+              "value": "Acquired the EtaPRO™ power plant monitoring software business from U.S.-based GP Strategies. This includes software, trademarks, intellectual properties, customer contracts, and related services, now transferred to EtaPRO LLC under Toshiba America Energy Systems Corporation."
+            },
+            {
+              "key": "Digital Platform",
+              "value": "EtaPRO™ is a real-time digital platform that combines empirical and physics-based digital twin technologies with vibration frequency analysis to detect equipment deterioration at early stages."
+            },
+            {
+              "key": "Recognition",
+              "value": "Research outcomes have been internationally recognized, including a cover design selection for the journal 'energies' and winning the 54th Ichimura Prize in Science against Global Warming."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 40,
+          "title": "Building Solutions & Share Transfer Details",
+          "data": [
+            {
+              "key": "Financial Performance Chart (FY2019-FY2021)",
+              "value": "Net Sales and Operating Income data presented with bar chart – Net Sales (in billions of Yen) and Operating Income (in billions of Yen) for FY2019 (570.1, 29.1), FY2020 (545.2, 23.7) and FY2021 (599.0, 26.3)"
+            },
+            {
+              "key": "Business Overview",
+              "value": "Overview of main businesses as of March 31, 2022 including Elevators, Light fixtures, Industrial light parts, Commercial air-conditioners, and Compressors. Despite a decrease in lighting sales, overall sales increased driven by elevators and air conditioners. Operating income improved due to higher air conditioning profits despite declines in elevators and lighting."
+            },
+            {
+              "key": "Digital Signage Initiative",
+              "value": "Toshiba Elevator and Building Systems Corporation commenced operations of an interior digital signage service in elevators (developed jointly with Dai Nippon Printing Co., Ltd.) for use in condominiums and office buildings. The service displays facility information, local information, and advertisements, aiming to install 5,000 monitors by end of FY2022 with installation and maintenance provided free of charge."
+            },
+            {
+              "key": "Share Transfer Transaction",
+              "value": "Toshiba completed the transfer of 55% of outstanding shares of Toshiba Carrier Corporation to Global Comfort Solutions LLC (a subsidiary of US-based Carrier Corporation). After the transaction, Toshiba’s holding in the company reduced to 5%, while Toshiba Carrier Corporation will continue to develop, manufacture, and sell air-conditioner systems globally under the Toshiba brand."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 45,
+          "title": "Transfer of Chubu Toshiba Engineering Corporation Stock and ifLink IoT Initiatives",
+          "data": [
+            {
+              "key": "Event",
+              "value": "Transfer of Chubu Toshiba Engineering Corporation Stock"
+            },
+            {
+              "key": "Acquirer",
+              "value": "KIOXIA Corporation"
+            },
+            {
+              "key": "Transferor",
+              "value": "Toshiba Digital Solutions Corporation and KIOXIA Holdings Corporation"
+            },
+            {
+              "key": "Transfer Date",
+              "value": "June 1, 2022"
+            },
+            {
+              "key": "Rationale",
+              "value": "Integration with KIOXIA Corporation deemed optimal due to increasing sophistication in semiconductor development and system operation"
+            },
+            {
+              "key": "Industry",
+              "value": "Semiconductors"
+            },
+            {
+              "key": "ifLink Initiative",
+              "value": "Toshiba Digital Solutions Corporation has opened the ifLink® platform to democratize IoT, promote community co-creation, and resolve social issues; initiatives include enabling IoT service development and incorporation into educational curricula for digital transformation (DX)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "merger_acquisition",
+          "page": 83,
+          "title": "Corporate History Timeline",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "This timeline covers major corporate events in Toshiba Corporation and its predecessors from 1875 to 2017. It documents important mergers, acquisitions, divestitures, reorganizations, and structural changes."
+            },
+            {
+              "key": "Notable Early Events",
+              "value": "July 1875: Ashop-cum-factory opened in Tokyo (later known as Tanaka Seizo-sho and Shibaura Engineering Works). Apr. 1890: Hakunetsu-sha & Co., Ltd. founded. Jan. 1896: Tokyo Hakunetsu Dentokyu Seizo Co., Ltd. established (renamed Tokyo Electric Co., Ltd. in 1899)."
+            },
+            {
+              "key": "Merger Milestone",
+              "value": "Sept. 1939: Shibaura Engineering Works Co., Ltd. merged with Tokyo Electric Company to form Tokyo Shibaura Electric Co., Ltd."
+            },
+            {
+              "key": "Recent Restructuring & Asset Transfers",
+              "value": "Subsequent events include a company split in October (transferring the energy business to Toshiba Energy Systems & Solutions Corp.), Feb. 2018 share transfer of 95% of Toshiba Visual Solutions Corporation to China’s Hisense Group, a full share transfer of Formerly Toshiba Memory Corporation in June, Oct. share transfer of 80.1% of Toshiba Client Solutions Co., Ltd. (now Dynabook Inc.) to Sharp Corporation, and Aug. 2022 transfer of 55% of Toshiba Carrier Corporation shares to Global Comfort Solutions LLC."
+            },
+            {
+              "key": "Summary",
+              "value": "The timeline highlights Toshiba's evolution from its early industrial beginnings to its current status as a global corporation, marked by pivotal M&A activities and strategic divestitures."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_leadership_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "leadership_change",
+          "page": 5,
+          "title": "Leadership Statement and Executive Information",
+          "data": [
+            {
+              "key": "Statement",
+              "value": "We will meet the expectations of society by building new businesses rooted in our Basic Commitment while maintaining a foundation for innovation"
+            },
+            {
+              "key": "Name",
+              "value": "Taro SHIMADA"
+            },
+            {
+              "key": "Title",
+              "value": "Representative Executive Officer, President and CEO"
+            },
+            {
+              "key": "Date",
+              "value": "October 2022"
+            },
+            {
+              "key": "Report",
+              "value": "Toshiba Integrated Report 2022"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 10,
+          "title": "Message from the Chairperson of the Board of Directors",
+          "data": [
+            {
+              "key": "Chairperson",
+              "value": "Akihiro Watanabe"
+            },
+            {
+              "key": "Board Membership Since",
+              "value": "June 2022"
+            },
+            {
+              "key": "Previous Experience",
+              "value": "Managed an M&A advisory company that merged with a U.S. company and went private in November 2021"
+            },
+            {
+              "key": "Corporate Philosophy",
+              "value": "Committed to People, Committed to the Future"
+            },
+            {
+              "key": "Strategic Alternatives",
+              "value": "The Board is exploring strategic options including privatization to strengthen the company"
+            },
+            {
+              "key": "Message Theme",
+              "value": "Leadership vision, addressing challenges, leveraging employee potential, and preserving intangible assets"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 11,
+          "title": "Toshiba Board of Directors & Chairperson Message",
+          "data": [
+            {
+              "key": "Board Composition",
+              "value": "12 board members from diverse backgrounds with extensive expertise in various fields including corporate management, restructuring, fraud matters, and capital markets."
+            },
+            {
+              "key": "Mission and Focus",
+              "value": "The newly formed Board is unified in its mission to create a stronger Toshiba, maximize corporate value, and pursue radical transformation and strategic alternatives in the best interests of shareholders and stakeholders."
+            },
+            {
+              "key": "Leadership Alignment",
+              "value": "The Board, including reappointed and new members, is expected to operate with unity, mutual respect, and adhere to best boardroom practices while supporting the CEO and management."
+            },
+            {
+              "key": "Commitment to Stakeholders",
+              "value": "The Board emphasizes acting in the best interests of all stakeholders, including addressing global challenges such as carbon neutrality and sustainable management."
+            },
+            {
+              "key": "Chairperson Statement",
+              "value": "Akihiro Watanabe, as Chairperson and Outside Director, commits to supporting management in maximizing corporate value in line with Toshiba’s corporate philosophy 'Committed to People, Committed to the Future.'"
+            },
+            {
+              "key": "Context",
+              "value": "The message reflects the current leadership structure, reappointment of board members, and the strategic direction during a period of corporate transformation."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 34,
+          "title": "Management Organization Chart - TOSHIBA CORPORATION",
+          "data": [
+            {
+              "key": "Company",
+              "value": "TOSHIBA CORPORATION"
+            },
+            {
+              "key": "Report",
+              "value": "Toshiba Integrated Report 2022"
+            },
+            {
+              "key": "Effective Date",
+              "value": "August 1, 2022"
+            },
+            {
+              "key": "Key Elements",
+              "value": "Board of Directors, President, CEO, Nomination Committee, Audit Committee, Compensation Committee, Internal Audit, Special Committee, and several Divisions and Branch Offices"
+            },
+            {
+              "key": "Divisions & Functions",
+              "value": "Infrastructure Services Promotion, Strategic Planning, Sustainability Management, Cyber-Physical Systems x Design, Information Systems, Business Process Re-engineering, Finance & Cash Management, Accounting, Legal & Compliance, Human Resources & Administration, Corporate Communications, Information Disclosure, Procurement, Corporate Production Planning, and others"
+            },
+            {
+              "key": "Branch Offices",
+              "value": "Kansai, Chubu, Kyushu, Chugoku, Hokuriku, Tohoku, Hokkaido, Shikoku, Kanshinetsu, Kanagawa"
+            },
+            {
+              "key": "Subsidiaries",
+              "value": "Toshiba Energy Systems & Solutions Corporation; Toshiba Plant Systems & Services Corporation; Toshiba Infrastructure Systems & Solutions Corporation; Building Solutions Toshiba Elevator and Building Systems Corporation; Toshiba Lighting & Technology Corporation; Retail & Printing Solutions Toshiba Tec Corporation; Electronic Devices & Storage Solutions Toshiba Electronic Devices & Storage Corporation; Digital Solutions Toshiba Digital Solutions Corporation; Toshiba America, Inc.; Toshiba Europe Ltd.; Toshiba Asia Pacific Pte. Ltd.; Toshiba (China) Co., Ltd."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 72,
+          "title": "Board of Directors Expertise Matrix",
+          "data": [
+            {
+              "key": "Board Composition",
+              "value": "12 Directors total: 10 Outside Directors (including 5 non-Japanese) and 2 Director/Executive Officers"
+            },
+            {
+              "key": "Governance Objective",
+              "value": "Enhance corporate governance and expand Total Shareholder Return (TSR) by maximizing corporate value"
+            },
+            {
+              "key": "Expertise Areas",
+              "value": "Directors bring expertise in corporate management, business restructuring, M&A, capital markets, capital allocation, accounting/auditing, legal/compliance, international business, and diversity (gender, ethnicity, nationality)"
+            },
+            {
+              "key": "Nomination Process",
+              "value": "Candidates for Director were evaluated against Director Nomination Criteria set separately by the Nomination Committee"
+            },
+            {
+              "key": "Leadership Table",
+              "value": "Includes detailed matrix entries for key board members such as Taro SHIMADA, Goro YANASE, Akihiro WATANABE, and Paul J. BROUGH among others"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 73,
+          "title": "Directors and Leadership Timeline",
+          "data": [
+            {
+              "key": "Board Members",
+              "value": "Taro SHIMADA (Director, October 22, 1966), Goro YANASE (Director, October 27, 1965), Akihiro WATANABE (Outside Director, February 18, 1959)"
+            },
+            {
+              "key": "Leadership Experience",
+              "value": "April 1990: Joined ShinMaywa Industries, Ltd.; September 1999: Joined Structural Dynamics Research Corporation; February 2010: Representative Director and President, Japanese Corporation and Executive Vice President, U.S. Headquarters, Siemens PLM Software; September 2015: Senior Executive Officer, General Manager of Digital Factory Business Headquarters and General Manager of Process and Drive Business Headquarters, Siemens K.K.; October 2019: Director and Corporate Vice President, Toshiba; April 2020: Joined Digital Solutions Corporation; April 2020: Appointed Executive Officer and Corporate Senior Vice President; March 2022: Became President of the Company, Director and President, Toshiba Digital Solutions Corporation; December 2020: Appointed Outside Director, WingArc1st Inc.; May 2022: Representative Executive Officer, President and CEO of the Company; June 2022: Director of the Company; Additional timeline events include roles such as Corporate Digital Business Officer and General Manager positions at Toshiba and related companies, as well as earlier appointments like joining Heiwa Audit Corporation (October 1980), and roles at Peat Marwick Mitchell & Co. and KPMG Corporate Finance K.K."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 74,
+          "title": "Outside Directors Career Timeline",
+          "data": [
+            {
+              "key": "Paul J. BROUGH",
+              "value": "KPMG Hong Kong: Joined (Sep 1983), Partner (Oct 1991), Head of Consulting (Jul 1995), Head of Financial Advisory Services (Oct 1997), Asia-Pacific Head & Global Advisory Steering Group member (Oct 1999); Joint-Liquidator of various Lehman Brothers entities in Asia (Sep 2008); Regional Senior Partner at KPMG Hong Kong (Apr 2009); Chief Executive, Blue Willow Limited (Mar 2012); Later roles include: Chief Restructuring Officer, Sino-Forest International Corporation (Sep 2012), Independent Non-Executive Director (Sep 2012), Chairman and CEO, Emerald Plantation Holdings Limited Group (Feb 2013 and Apr 2021); Designated as Outside Director (present); Birth Date: November 13, 1956"
+            },
+            {
+              "key": "Ayako Hirota WEISSMAN",
+              "value": "Equity and asset management roles: Vice President, Equitable Capital Management (Jan 1984); Managing Director, Smith Barney, Harris Upham & Co. Inc. (Jan 1987); Partner, Feirstein Capital Management LLC (Oct 1999); Portfolio Manager, Kingdon Capital Management LLC (Jan 2002); Founder and CEO, AS Hirota Capital Management LLC (Jun 2006); Senior Vice President, Senior Portfolio Manager and Director in charge of Asia Strategy at Horizon Asset Management, Inc. (Nov 2010 – present); Designated as Outside Director; Birth Date: May 9, 1957"
+            },
+            {
+              "key": "Jerome Thomas BLACK",
+              "value": "Extensive career in accounting, advisory and executive roles: Joined Arthur Andersen & Co. (1982); Joined Ernst & Young LLP (Jul 1986); Began affiliation with Kurt Salmon Associates, Inc. (Oct 1995) holding positions including Global Practice Development Managing Director (Jan 2002), Managing Director North America (Mar 2005), President for Consumer Products Division (Jan 2006) and CEO (Jan 2008); Transition to Aeon Co., Ltd. with advisory and executive roles starting Jan–Mar 2009, then Executive Officer, CEO of Group Strategy & IT and CEO of Asian Operations (Mar 2009); Held multiple leadership roles at Aeon Co., Ltd. between 2010 and 2014 including Senior Managing Executive Officer and Chief Group Strategy Officer; Also served as Independent Non-Executive Director (e.g., Habib Bank Zurich from Oct 2013, Noble Group Limited from May 2015), Outside Director (e.g., SBI Holdings, Inc. from Jun 2015) and Executive Chairman (e.g., Noble Group Limited, Noble Group Holdings Limited); More recent positions include Independent Non-Executive Director at Guoco Group Limited (Nov 2021), Non-Executive Director at Nippon Active Value Fund plc (Feb 2020) and Senior Advisor at Japan Computer Vision Corporation (May 2021); Birth Date: May 29, 1959"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 75,
+          "title": "Outside Directors",
+          "data": [
+            {
+              "key": "Director",
+              "value": "George Raymond ZAGE III; Role: Outside Director; Birthdate: January 20, 1970"
+            },
+            {
+              "key": "Director",
+              "value": "Katsunori HASHIMOTO; Role: Outside Director; Birthdate: September 16, 1955"
+            },
+            {
+              "key": "Director",
+              "value": "Mikio MOCHIZUKI; Role: Outside Director; Birthdate: July 8, 1954"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 76,
+          "title": "Outside Directors",
+          "data": [
+            {
+              "key": "Director 1 Name",
+              "value": "Ayumi UZAWA"
+            },
+            {
+              "key": "Director 1 Position",
+              "value": "Outside Director"
+            },
+            {
+              "key": "Director 1 Date of Birth",
+              "value": "June 21, 1967"
+            },
+            {
+              "key": "Director 2 Name",
+              "value": "Eijiro IMAI"
+            },
+            {
+              "key": "Director 2 Position",
+              "value": "Outside Director"
+            },
+            {
+              "key": "Director 2 Date of Birth",
+              "value": "July 2, 1980"
+            },
+            {
+              "key": "Director 3 Name",
+              "value": "Nabeel BHANJI"
+            },
+            {
+              "key": "Director 3 Position",
+              "value": "Outside Director"
+            },
+            {
+              "key": "Director 3 Date of Birth",
+              "value": "December 19, 1985"
+            },
+            {
+              "key": "Director 3 Timeline",
+              "value": "75 October 1990 - Joined Asahi Shinwa Accounting Corporation March 1993: (currently KPMG AZSA LLC), Osaka Office; June 2012 - June 2018: Director, Japan Association of Certified Fraud Examiners (ACFE Japan); August August 1994: Registered as Certified Public Accountant; August 1995 - Joined Deloitte Touche Tohmatsu (currently March 1999: Deloitte Touche Tohmatsu LLC), Tokyo Office; April 1999 - 2nd Investigation Division, Criminal Affairs Bu-; October 2004: reau, the Metropolitan Police Department (Financial Investigator and Inspector); June 2013 - November 2014: Outside Director, Meiji Machine Co., Ltd.; December 2014 - November 2016: Outside Director, Japan Best Rescue System Co., Ltd.; September 2016 - present: Auditor (part-time), Aurora Debt Collection Co., Ltd.; November 2004 - Special Investigation Division, Secretariat, Se-; February 2011: curities and Exchange Surveillance Commission; April 2020 - March 2021: Contract Staff (Advisor), New Energy and Industrial Technology Development Organization; March 2011 - Representative, Uzawa CPA Office present; June 2022 - present: Outside Director of the Company; July 2011: Registered as Certified Fraud Examiner; July 2011 - Advisor, Financial and Securities Expert Committee, Supreme Public Prosecutors’ Office; October 2004 - Joined Nishimura & Tokiwa (currently Nishimura & Asahi); April 2007: May 2007: Joined Bain Capital Asia LLC; October 2013: Joined Farallon Capital Japan LLC; January 2019 - Managing Director, Farallon Capital Japan LLC present; March 2022 - Outside Director, BroadBand Tower, Inc. present; June 2022 - Outside Director of the Company present; July 2007 - Investment Banker, Goldman Sachs & Co; September 2008: September 2008 - Investment Professional, Apax Partners; May 2010: July 2012 - Senior Portfolio Manager, Elliott Investment Management present; April 2021 - President, Elliott Opportunity II Corporation present; June 2022 - Outside Director of the Company present"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "leadership_change",
+          "page": 77,
+          "title": "Toshiba Corporation Executive Officers",
+          "data": [
+            {
+              "key": "Table Summary",
+              "value": "This table presents the executive leadership structure of Toshiba Corporation, featuring 13 key executives across different hierarchical levels. The organization is led by Taro SHIMADA as President and CEO, supported by Goro YANASAE as COO and Masayoshi HIRATA as CFO. The executive team includes various corporate vice presidents and senior vice presidents responsible for different geographical regions and business divisions, demonstrating a complex matrix organizational structure with both regional and functional responsibilities."
+            },
+            {
+              "key": "Taro SHIMADA",
+              "value": "Representative Executive Officer President and CEO"
+            },
+            {
+              "key": "Goro YANASAE",
+              "value": "Corporate Senior Executive Vice President and COO; Responsibilities: General Executive, Strategic Planning Div. and Infrastructure Services Promotion Div."
+            },
+            {
+              "key": "Masayoshi HIRATA",
+              "value": "Corporate Executive Vice President and CFO; Responsibilities: General Executive, Finance & Cash Management Div., Accounting Div. and Project Monitoring & Oversight Div."
+            },
+            {
+              "key": "Takayuki KONNO",
+              "value": "Representative Corporate Executive Vice Presidents; Responsibilities: Executive, Marketing Div., Battery Responsible Systems business (President and CEO, Toshiba Infrastructure Systems & Solutions Corporation), Responsible for Building Solutions business, Assistant to Corporate Senior Vice President; YOTSUYANAGI (Toshiba Plant Systems & Services Corporation), the Americas"
+            },
+            {
+              "key": "Hiroyuki SATO",
+              "value": "Representative Corporate Executive Vice Presidents; Responsibilities: Responsible for Electronic Devices & Storage business (President and CEO, Toshiba Electronic Devices & Storage Corporation), Europe, Middle East and Africa, China and East Asia"
+            },
+            {
+              "key": "Keiichi YUMITA",
+              "value": "Executive Officers Corporate Senior Vice Presidents; Responsibilities: General Executive, Information Systems Div. and Business Process Re-engineering Div."
+            },
+            {
+              "key": "Tsutomu KAMIJO",
+              "value": "Executive Officers Corporate Senior Vice Presidents; Responsibilities: General Executive, Procurement Div. and Corporate Production Planning Div., Assistant to Corporate Vice President; SATA (Corporate Manufacturing Engineering Center)"
+            },
+            {
+              "key": "Shunsuke OKADA",
+              "value": "Executive Officers Corporate Senior Vice Presidents; Responsibilities: General Executive, Cyber-Physical Systems x Design Div., Vice President, Cyber-Physical Systems x Design Div., Responsible for Digital Solutions business (President and CEO, Toshiba Digital Solutions Corporation)"
+            },
+            {
+              "key": "Takamasa MIHARA",
+              "value": "Executive Officers Corporate Senior Vice Presidents; Responsibilities: General Executive, Sustainability Management Div., Human Resources and Administration Div. and Corporate Communication Div."
+            },
+            {
+              "key": "Tadasu YOTSUYANAG",
+              "value": "Executive Officers Corporate Senior Vice Presidents; Responsibilities: General Executive, WEC Div., Responsible for Energy System business (President and CEO, Toshiba Energy Systems & Solutions Corporation / Toshiba Plant Systems & Services Corporation), Asia Pacific"
+            },
+            {
+              "key": "Ayumi WADA",
+              "value": "Executive Officers Corporate Vice Presidents; Responsibilities: General Executive, Legal & Compliance Div."
+            },
+            {
+              "key": "Yutaka SATA",
+              "value": "Executive Officers Corporate Vice Presidents; Responsibilities: General Executive, Corporate Technology Planning Div., Research & Development Center, Corporate Manufacturing Engineering Center and Digital Innovation Technology Center, Vice President, Digital Innovation Technology Center"
+            },
+            {
+              "key": "Yuko HIRAI",
+              "value": "Executive Officers Corporate Vice Presidents; Responsibilities: General Executive, Internal Audit Div. Vice President, Audit Committee Office"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": true,
+      "elements": [
+        {
+          "type": "executive_compensation",
+          "page": 68,
+          "title": "Compensation Policy for Directors and Executive Officers",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "The Compensation Committee establishes the policy regarding compensation for each Director and Executive Officer. It ensures that the compensation methods and amounts are aligned with the company's policy."
+            },
+            {
+              "key": "Directors' Compensation",
+              "value": "Directors receive a Base Salary, Committee Allowance, and an Attendance Allowance for travel to non-resident countries. Compensation involving company stock may include restricted stocks with transfer restrictions until retirement."
+            },
+            {
+              "key": "Executive Officers' Compensation",
+              "value": "Executive Officers receive a combination of a fixed Base Salary and performance-linked compensation. The performance-linked component is based on the company’s overall performance and medium- to long-term management indicators, and payment is made in both cash and company stock, using similar stock restrictions."
+            },
+            {
+              "key": "Compensation Standards",
+              "value": "Standards are set at suitable levels globally to secure highly competent management. Multiple allowances and benefits are considered, including comparisons with other listed companies."
+            },
+            {
+              "key": "Table Summary",
+              "value": "A table outlines that Directors' compensation consists of a Base Salary, Committee Allowance, and Attendance Allowance for travel to non-resident countries."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_rnd_investment_numbers": {
+      "value": true,
+      "elements": [
+        {
+          "type": "rnd_investment",
+          "page": 24,
+          "title": "Toshiba Group Technology Strategy and R&D Policy",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Toshiba Group"
+            },
+            {
+              "key": "Main Focus",
+              "value": "Carbon neutrality and infrastructure resilience"
+            },
+            {
+              "key": "R&D Investment Policy",
+              "value": "Concentrate investment on business areas of focus with attention to investment efficiency"
+            },
+            {
+              "key": "R&D to Sales Ratio",
+              "value": "5%"
+            },
+            {
+              "key": "R&D Expense Breakdown FY2021",
+              "value": "Energy Systems & Solutions: 8%, Infrastructure Systems & Solutions: 14%, Building Solutions: 14%, Electronic Devices & Storage Solutions: 27%, Retail & Printing Solutions: 14%, Digital Solutions: 4%, Others: 18%"
+            },
+            {
+              "key": "Key Brands/Initiatives",
+              "value": "TOSHIBA SPINEX, DE/DX and QX platforms using industrial and human data"
+            },
+            {
+              "key": "Strategic Commitment",
+              "value": "Committed to People, Committed to the Future"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 25,
+          "title": "Toshiba Group R&D Structure and Global R&D Presence",
+          "data": [
+            {
+              "key": "R&D Structure Description",
+              "value": "Toshiba conducts research and development tailored to both future technology seeds and customer needs. Its structure categorizes sites into: Corporate R&D organizations for medium- to long-term fundamental research, Group companies' R&D for short- and mid-term core technology development, and design and engineering divisions aimed at product and service realization. This optimized structure addresses technological challenges effectively."
+            },
+            {
+              "key": "Global R&D Expansion",
+              "value": "Toshiba has established R&D sites not only in Japan but also in the United States, Europe, China, India, Vietnam, among others. These facilities collaborate across borders to enhance global competitiveness, with emphasis on local operations in emerging markets such as China and Asia."
+            },
+            {
+              "key": "Organizational Flow Diagram",
+              "value": "An image diagram depicts direct communication between customers and R&D organizations. It outlines four main components: Customers, Product Planning (encompassing Sales, Procurement, Manufacturing), Design and Technology Divisions of Group companies, and two R&D units (Group companies’ R&D and Corporate R&D organizations), with a left-to-right flow."
+            },
+            {
+              "key": "Global R&D Map",
+              "value": "A world map image shows major R&D bases in Japan and overseas, including facilities in Europe (Cambridge, Bristol), Middle East (Tel Aviv), Asia (China, India, Vietnam), North America (San Jose), and multiple key centers in Japan such as the Corporate Research & Development Center among others."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 26,
+          "title": "Toshiba R&D Cases: Cu2O-Si Tandem Solar Cell & Face Recognition AI",
+          "data": [
+            {
+              "key": "Initiative",
+              "value": "Development of transparent Cu2O-Si tandem solar cell and advanced face recognition AI technology to create new values."
+            },
+            {
+              "key": "Efficiency Achievement",
+              "value": "Achieved 9.5% PCE for the transparent Cu2O solar cell and demonstrates potential to exceed the world’s highest silicon solar cell efficiency (26.7% PCE)."
+            },
+            {
+              "key": "Application",
+              "value": "Cu2O-Si tandem solar cell intended for use in mobility systems such as automobiles and trains; estimated to power an EV for 37 km on a single charge."
+            },
+            {
+              "key": "Collaboration and Projects",
+              "value": "Development entrusted by NEDO and cooperation with Toshiba Energy Systems & Solutions Corporation; aligns with national policy on renewable energy and carbon neutrality."
+            },
+            {
+              "key": "Additional Technological Achievement",
+              "value": "Toshiba's face recognition AI attained the highest recognition accuracy among Japanese companies in a vendor test by the National Institute of Standards and Technology."
+            },
+            {
+              "key": "Strategic Aim",
+              "value": "Supports Toshiba Group's strategy for a carbon neutral society and utilization of industrial and people-flow data to drive technological innovation."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 31,
+          "title": "Counterfeit Product Cases Responded by Region",
+          "data": [
+            {
+              "key": "Description",
+              "value": "Change in the number of counterfeit product cases responded (April 2021 to March 2022)"
+            },
+            {
+              "key": "Chart Title",
+              "value": "Counterfeit product cases responded by region"
+            },
+            {
+              "key": "Chart Type",
+              "value": "pie"
+            },
+            {
+              "key": "Total Cases",
+              "value": "212"
+            },
+            {
+              "key": "Unit",
+              "value": "percentage"
+            },
+            {
+              "key": "Regions Distribution",
+              "value": "China: 52%, Asia (excluding China): 18%, Europe: 17%, United States: 4%, Middle East: 6%, Others: 3%"
+            },
+            {
+              "key": "Notes",
+              "value": "Values show the distribution of counterfeit product cases across different geographical regions"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 31,
+          "title": "External Recognition of Toshiba’s Intellectual Property",
+          "data": [
+            {
+              "key": "Awards",
+              "value": "Clarivate Top 100 Global Innovators™ 2022; Top 100 Best Protected Global Brands 2021"
+            },
+            {
+              "key": "Recognition Details",
+              "value": "Toshiba selected as Clarivate Top 100 Global Innovators™ for 11 consecutive years and recognized for global brand protection based on IP data analysis including trademark information and digital domain name protection."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 31,
+          "title": "Winner of FY2021 National Commendation for Invention – Invention Prize",
+          "data": [
+            {
+              "key": "Invention Title",
+              "value": "Technology for treating contaminated waste water from nuclear power plants"
+            },
+            {
+              "key": "Patent Number",
+              "value": "6158014"
+            },
+            {
+              "key": "Technical Details",
+              "value": "Adsorbent developed to remove radionuclides, specifically radioactive cesium (Cs) and strontium (Sr), from contaminated water discharged from the Fukushima Daiichi Nuclear Power Plant. Achieves improved adsorption performance through crystallization control and granulation control for practical strength."
+            },
+            {
+              "key": "Environmental Impact",
+              "value": "Minimizes the amount of radioactive waste generated and reduces environmental load."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "rnd_investment",
+          "page": 31,
+          "title": "Adsorption Process Technical Diagram",
+          "data": [
+            {
+              "key": "Diagram Type",
+              "value": "Technical diagram"
+            },
+            {
+              "key": "Left Panel",
+              "value": "Adsorption Tower Process: Inlet (Cs, Sr) → Adsorption tower with ion exchange media → Outlet (Cs and Sr removal), with properties including adsorption performance, granulated strength, and size characteristics."
+            },
+            {
+              "key": "Right Panel",
+              "value": "CST Structure Analysis: Molecular arrangement showing Sr and Na ions, comparison of high vs low crystallinity, and performance correlation demonstrating higher performance with lower crystallinity."
+            },
+            {
+              "key": "Key Properties",
+              "value": "Adsorption property (Cs and Sr removal), granulated strength (stability), and granulated size (lower flow resistance)"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_new_product_launches": {
+      "value": true,
+      "elements": [
+        {
+          "type": "product_launch",
+          "page": 8,
+          "title": "Message from CEO Toshiba’s market superiority in data services business",
+          "data": [
+            {
+              "key": "Business Expansion",
+              "value": "Leveraging extensive customer access and infrastructure to acquire diverse data from consumers and industry, positioning Toshiba to expand its data services business through DX."
+            },
+            {
+              "key": "Data-Driven Services",
+              "value": "Utilizing people flow data and metrics from lighting, elevators, escalators, cash registers, trains, and roads to create new services, and harnessing energy and CO2 data to offer advanced energy balancing functions and visualize supply chain emissions."
+            },
+            {
+              "key": "Quantum Technology Commercialization",
+              "value": "Accelerating R&D and moving toward the commercialization of quantum technologies, particularly in quantum cryptography, with plans to launch services simultaneously around the world."
+            },
+            {
+              "key": "Privacy and Security",
+              "value": "Establishing robust data security and proactive privacy protections, developed in consultation with legal and ethical specialists, to ensure that data rights are respected."
+            },
+            {
+              "key": "Strategic Alternatives",
+              "value": "Engaging in discussions with potential investors and sponsors and reviewing strategic alternatives including privatization to maximize corporate value, with oversight by a Special Committee of independent directors."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 12,
+          "title": "History of Value Creation—Toshiba’s DNA & Corporate Timeline",
+          "data": [
+            {
+              "key": "Corporate Heritage",
+              "value": "Toshiba’s origins can be traced back to the late 19th century with Hisashige Tanaka (founder of Tanaka Engineering Works, later Shibaura Engineering Works) and Ichisuke Fujioka (founder of Hakunetsu-sha). Their enterprises eventually evolved into Toshiba Corporation, embodying a legacy of innovation and commitment to society."
+            },
+            {
+              "key": "Key Milestones",
+              "value": "Historical timeline highlights include: founding of Tanaka Engineering Works (1873), establishment of Hakunetsu-sha (1890), Japan’s first electric washing machines and refrigerators (1930), merger forming Tokyo Shibaura Denki (1939), world's first automated mail processing equipment (1967), Japan’s first word processor (1978), commercialization of the world’s first laptop PC (1985), and the introduction of the world's first NAND flash memory (1991)."
+            },
+            {
+              "key": "Innovation Achievements",
+              "value": "Toshiba’s technological breakthroughs not only revolutionized household appliances such as electric rice cookers and washing machines but also paved the way for modern computing with advances in word processing, portable computing, and semiconductor memory."
+            },
+            {
+              "key": "Corporate Commitment",
+              "value": "The longstanding motto 'Committed to People, Committed to the Future' underscores Toshiba’s dedication to societal betterment through innovative business practices and technological advancement."
+            },
+            {
+              "key": "Timeline Visualization Details",
+              "value": "The document includes a detailed timeline image highlighting major corporate milestones and product innovations, with source companies such as Tanaka Engineering Works, Shibaura Engineering Works, Tokyo Denki, and Hakunetsu-sha."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 22,
+          "title": "Toshiba Group Management Policy - Vision for Transformation",
+          "data": [
+            {
+              "key": "Vision",
+              "value": "Realizing the value of potential technologies is the way to resolve external rigidity."
+            },
+            {
+              "key": "Approach",
+              "value": "Consider working with external partners and leveraging diverse technology development efforts to create valuable products."
+            },
+            {
+              "key": "Highlighted Technologies",
+              "value": "Cu2O Tandem-type PV, Film-Based Perovskite PV, NTO anode batteries, LiDAR, millimeter-wave imaging, MEMS sensors."
+            },
+            {
+              "key": "Estimated Market Size",
+              "value": "2.5T yen and 0.5T yen (2030) for different technologies."
+            },
+            {
+              "key": "Performance",
+              "value": "Tandem cell estimated efficiency: 27.4%; products are lightweight and flexible allowing installations in new settings."
+            },
+            {
+              "key": "Strategic Context",
+              "value": "Showcasing six different technology innovations aimed at realizing business potential quickly by capitalizing on high potential technologies."
+            }
+          ],
+          "currency": "JPY"
+        },
+        {
+          "type": "product_launch",
+          "page": 27,
+          "title": "Toshiba Achieves Top Face Recognition Benchmark Rankings",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Toshiba"
+            },
+            {
+              "key": "Technology",
+              "value": "Face recognition AI (Kaometa®)"
+            },
+            {
+              "key": "Service Launch",
+              "value": "April 2020 (Toshiba Digital Solutions Corporation)"
+            },
+            {
+              "key": "Benchmark Test",
+              "value": "FRVT Ongoing 1:1 Verification hosted by NIST"
+            },
+            {
+              "key": "Performance Categories",
+              "value": "VISABORDER, 1:1 Verification, BORDER Photos, MUGSHOT Photos ΔT ≥12 YRS"
+            },
+            {
+              "key": "Ranking",
+              "value": "Ranked 1st among Japanese companies; global rankings of 8th and 9th in various categories"
+            },
+            {
+              "key": "Service Description",
+              "value": "Real-time, non-contact identity verification for broadcasters and media using advanced face recognition technology"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 39,
+          "title": "Launch of Environmentally Friendly Switchgear and BISCADE™ Dongle",
+          "data": [
+            {
+              "key": "Product 1",
+              "value": "Solid Insulated Switchgear"
+            },
+            {
+              "key": "Cumulative Deliveries",
+              "value": "2,000 Units"
+            },
+            {
+              "key": "Environmental Benefit",
+              "value": "Avoids SF6 gas, contributing to the prevention of global warming"
+            },
+            {
+              "key": "Technical Innovations",
+              "value": "Uses epoxy resin-based insulation with new materials; offers voltage options from 24 kV (launched 2002) up to 84 kV"
+            },
+            {
+              "key": "Product 2",
+              "value": "BISCADE™ Dongle for Fingerprint Authentication"
+            },
+            {
+              "key": "Functionality",
+              "value": "Enables secure logon via fingerprint authentication without needing an ID/password; integrates a secure chip and fingerprint sensor"
+            },
+            {
+              "key": "Connectivity",
+              "value": "Compatible with USB Type-C interfaces"
+            },
+            {
+              "key": "Market Position",
+              "value": "Enhances IT equipment security by combining possession and biometric authentication"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 41,
+          "title": "Launch of People-Flow Analysis Service & ViewLED Solution",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Toshiba Lighting & Technology Corporation"
+            },
+            {
+              "key": "Service Name",
+              "value": "People-Flow Analysis Service"
+            },
+            {
+              "key": "Solution Name",
+              "value": "ViewLED Solution"
+            },
+            {
+              "key": "Technology",
+              "value": "LED light with a camera combined with cloud-based AI for image analysis"
+            },
+            {
+              "key": "Purpose",
+              "value": "Quantify and visualize people’s movements in facilities such as warehouses, plants, and gyms"
+            },
+            {
+              "key": "Features",
+              "value": "Remote viewing, recording, CSV data export, trajectory drawing, intrusion detection, and work analysis"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 43,
+          "title": "World’s First Demonstration of Significant Improvements in HDD Recording Performance & Commencement of Multi-beam Mask Writer Shipments",
+          "data": [
+            {
+              "key": "Technology Demonstration",
+              "value": "Microwave Assisted Magnetic Recording (MAS-MAMR) technology used to improve HDD recording performance"
+            },
+            {
+              "key": "Commercialization Aim",
+              "value": "Early commercialization of nearline HDDs exceeding 30 TB capacity"
+            },
+            {
+              "key": "Collaboration",
+              "value": "Joint efforts with Showa Denko K.K. and TDK Corporation to enhance MAS-MAMR effectiveness"
+            },
+            {
+              "key": "New Product Shipment",
+              "value": "NuFlare Technology, Inc. commenced shipments of its multi-beam mask writer (MBM™-2000)"
+            },
+            {
+              "key": "Market Expansion",
+              "value": "Plans to expand shipments to Asia and North America with a global market share target of 50% in FY2023"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "product_launch",
+          "page": 46,
+          "title": "Launch of 20Ah-HP Rechargeable Lithium-ion Battery Cell",
+          "data": [
+            {
+              "key": "Product Name",
+              "value": "20Ah-HP Rechargeable Lithium-ion Battery Cell"
+            },
+            {
+              "key": "Technology/Platform",
+              "value": "SCiB™"
+            },
+            {
+              "key": "Key Features",
+              "value": "Delivers both high energy density and high input/output performance; maintains energy density similar to high-capacity cells while reducing internal resistance by 40%"
+            },
+            {
+              "key": "Performance Improvements",
+              "value": "Approximately 1.7 times higher input performance and 1.6 times higher output performance compared to the standard 20Ah cell"
+            },
+            {
+              "key": "Benefits",
+              "value": "Reduced heat buildup under heavy current loads allows for simpler, less costly cooling systems and expands the range of applications without design changes"
+            },
+            {
+              "key": "Intended Applications",
+              "value": "Electric vehicles, industrial equipment, manufacturing and distribution systems, harbor facilities, construction, maritime and traffic equipment, storage systems"
+            },
+            {
+              "key": "Strategic Context",
+              "value": "The launch contributes to Toshiba’s development of its rechargeable lithium-ion battery business and supports efforts toward a carbon-neutral society"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_capital_expenditures": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_expenditure",
+          "page": 42,
+          "title": "Decision to Construct a New 300-mm Wafer Fabrication Facility & Financial Performance Overview",
+          "data": [
+            {
+              "key": "Business Segment",
+              "value": "Electronic Devices & Storage Solutions"
+            },
+            {
+              "key": "Financial Performance Chart",
+              "value": "Financial Performance FY2019-2021 (Net Sales in billions of Yen; Operating Income/Loss in billions of Yen)"
+            },
+            {
+              "key": "Chart Trend",
+              "value": "Increasing trend from FY2020 to FY2021 for both net sales and operating income"
+            },
+            {
+              "key": "Decision Date",
+              "value": "February 2022"
+            },
+            {
+              "key": "Facility Type",
+              "value": "300-mm wafer fabrication facility for power semiconductors"
+            },
+            {
+              "key": "Location",
+              "value": "Kaga Toshiba Electronics Corporation site"
+            },
+            {
+              "key": "Project Phases",
+              "value": "Divided into two phases; expected operation of Phase-1 by end of FY2024"
+            },
+            {
+              "key": "Capacity Expansion",
+              "value": "Production capacity expected to expand to 2.5 times that of FY2021 when Phase-1 is at full capacity"
+            },
+            {
+              "key": "Business Impact",
+              "value": "Aiming to bolster competitiveness, address strong demand for power semiconductors driven by vehicle electrification and industrial automation, and support energy efficiency and carbon neutrality initiatives"
+            }
+          ],
+          "currency": "JPY"
+        }
+      ]
+    },
+    "has_financial_performance_indicators": {
+      "value": true,
+      "elements": [
+        {
+          "type": "financial_performance",
+          "page": 1,
+          "title": "TOSHIBA Year ended March 31, 2022",
+          "data": [
+            {
+              "key": "Company",
+              "value": "TOSHIBA"
+            },
+            {
+              "key": "Fiscal Year End",
+              "value": "March 31, 2022"
+            },
+            {
+              "key": "Additional Info",
+              "value": "Integrated REPO"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 4,
+          "title": "Toshiba Integrated Report 20 ite",
+          "data": [
+            {
+              "key": "Extracted Value",
+              "value": "03"
+            },
+            {
+              "key": "Report Title",
+              "value": "Toshiba Integrated Report 20 ite"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 15,
+          "title": "Toshiba Integrated Report 2022 – Financial Targets & Forecast",
+          "data": [
+            {
+              "key": "Strategy",
+              "value": "Toshiba has identified DE (Digital Evolution), DX (Digital Transformation) and QX (Quantum Transformation) as part of its business evolution."
+            },
+            {
+              "key": "Mid-to-Long Term Targets FY30",
+              "value": "Net sales target of 5.0 trillion yen, Operating Income target of 600 billion yen, and ROS target of 12.0%."
+            },
+            {
+              "key": "FY25 Targets",
+              "value": "Net sales of 4.0 trillion yen, Operating Income of 360 billion yen, Operating Income Margin of 9.0%, EBITDA of 500 billion yen, ROIC of 17%, and Free Cash Flow of 250 billion yen."
+            },
+            {
+              "key": "Financial Performance Table Summary",
+              "value": "A table displaying financial metrics (including ROS percentages and monetary values) shows an increasing trend in profitability from around 4.8% reaching 12.0% along various monetary benchmarks (e.g., measurements labeled 3.347, 3.30, 4.00, 5.00)."
+            },
+            {
+              "key": "Forecast Chart Details",
+              "value": "The accompanying chart forecasts growth with data for FY21, FY22, FY25, and FY30. It includes net sales, operating income, and ROS. Additionally, the data services segment is highlighted with an expected operating income margin of 26% and contribution of approximately 20% to the company’s total operating income."
+            },
+            {
+              "key": "Transformation Focus",
+              "value": "Toward FY30, Toshiba aims to transform into a company where data services serve as a key pillar for earnings growth."
+            }
+          ],
+          "currency": "JPY"
+        },
+        {
+          "type": "financial_performance",
+          "page": 16,
+          "title": "Toshiba Group Management Policy - Vision for Transformation - Current Status of Toshiba Group",
+          "data": [
+            {
+              "key": "Business Focus",
+              "value": "Toshiba has been supporting critical public infrastructures such as electric power, railroads, and water supply & sewerage systems for over 100 years, holding leading market shares."
+            },
+            {
+              "key": "Digital Transformation",
+              "value": "Under the Toshiba Next Plan launched in 2018, the company has been focusing on strengthening core profitability across segments. Despite challenges like COVID-19, semiconductor shortages, and rising material costs, overall operating income margins have improved by 4%."
+            },
+            {
+              "key": "Performance Metrics",
+              "value": "Charts provided include 'Age of Infrastructure Systems as of 2022' and 'Toshiba Next Plan Performance Metrics', highlighting trends in infrastructure asset ages and segment-wise income margins."
+            },
+            {
+              "key": "Digital Solutions",
+              "value": "The digital solutions business is noted for stable improvement attributed to standardization of software development processes and the use of overseas development resources, with plans to further expand these practices company-wide."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 32,
+          "title": "Financial Highlights (Consolidated) – Financial Performance Overview",
+          "data": [
+            {
+              "key": "Reference Fiscal Year",
+              "value": "Fiscal Year ended March 31, 2022; data covers FY2017 to FY2021"
+            },
+            {
+              "key": "Net Sales",
+              "value": "Net sales increased by 282.6 billion yen year on year to 3,337.0 billion yen in FY2021"
+            },
+            {
+              "key": "Operating Income",
+              "value": "Operating income increased by 54.5 billion yen year on year to 158.9 billion yen in FY2021"
+            },
+            {
+              "key": "Net Income",
+              "value": "Net income increased by 80.7 billion yen year on year to 194.7 billion yen in FY2021"
+            },
+            {
+              "key": "Equity Attributable to Shareholders",
+              "value": "Increased by 42.1 billion yen to 1,206.6 billion yen in FY2021"
+            },
+            {
+              "key": "R&D Expense",
+              "value": "R&D expense amounted to 151.9 billion yen, an increase of 1.4 billion yen from the previous year"
+            },
+            {
+              "key": "R&D Expense to Sales Ratio",
+              "value": "4.6%, down by 0.3 percentage points year on year"
+            },
+            {
+              "key": "Cash Flows from Operating Activities",
+              "value": "Increased by 104.1 billion yen year on year to 249.2 billion yen"
+            },
+            {
+              "key": "Cash Flows from Investing Activities",
+              "value": "Increased by 17.9 billion yen year on year to 124.5 billion yen"
+            },
+            {
+              "key": "Free Cash Flow",
+              "value": "Increased by 86.2 billion yen year on year to 124.7 billion yen"
+            },
+            {
+              "key": "Charts Included",
+              "value": "Financial Performance FY2017-FY2021 (combination bar and line chart), Financial Performance Metrics FY2017-2021 (bar and line chart), Free Cash Flow Analysis chart"
+            },
+            {
+              "key": "Additional Note",
+              "value": "For more detailed financial information, refer to the Financial Report for the Fiscal Year ended March 31, 2022."
+            }
+          ],
+          "currency": "JPY"
+        },
+        {
+          "type": "financial_performance",
+          "page": 35,
+          "title": "Toshiba Group’s Business Activities & Performance Metrics",
+          "data": [
+            {
+              "key": "Business Segments",
+              "value": "Energy Systems & Solutions, Plant Systems & Services, Infrastructure Systems & Solutions, Building Solutions, Retail & Printing Solutions, Electronic Devices & Storage Solutions, Digital Solutions"
+            },
+            {
+              "key": "Business Description",
+              "value": "The report describes Toshiba's large-scale energy generation systems (nuclear, thermal, renewable), power transmission and distribution, virtual power plant (VPP), green hydrogen systems, and socially relevant infrastructure solutions with emerging IoT and AI applications. Additional business domains include digital solutions leveraging accumulated technology expertise."
+            },
+            {
+              "key": "Performance Metrics Table",
+              "value": "A table summarizing percentage changes in three key metrics during FY2021: net sales, operating income, and number of employees. Notable changes include a fluctuation in operating income from 43.0% to -34.0%, consistent net sales values of 24.0% and 6.0% in different segments, and employee changes ranging between 7.0% and 19.0%."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "financial_performance",
+          "page": 38,
+          "title": "Infrastructure Systems & Solutions – Financial Performance and Award",
+          "data": [
+            {
+              "key": "Business Overview",
+              "value": "Main businesses include water supply and sewage systems, road systems, telecommunication systems, railway systems, power distribution systems, communication & broadcast systems, security & automation systems, and motor & drive systems."
+            },
+            {
+              "key": "Financial Metrics Chart Title",
+              "value": "Financial Metrics FY2019-2021"
+            },
+            {
+              "key": "FY2019 Net Sales (Yen in billions)",
+              "value": "735.0"
+            },
+            {
+              "key": "FY2019 Operating Income (Yen in billions)",
+              "value": "47.7"
+            },
+            {
+              "key": "FY2020 Net Sales (Yen in billions)",
+              "value": "654.6"
+            },
+            {
+              "key": "FY2020 Operating Income (Yen in billions)",
+              "value": "47.8"
+            },
+            {
+              "key": "FY2021 Net Sales (Yen in billions)",
+              "value": "654.7"
+            },
+            {
+              "key": "FY2021 Operating Income (Yen in billions)",
+              "value": "41.7"
+            },
+            {
+              "key": "Segment Performance",
+              "value": "Revenues from public infrastructure increased due to expansion of the Social Systems business, while the Railway & Industrial Systems segment saw a decline due to lower industrial sales, soaring material costs, restructuring, and increased overseas project costs."
+            },
+            {
+              "key": "Award",
+              "value": "A Sewage Treatment Project in India won the 4th Japan Construction International Award, recognized by the Minister of Land, Infrastructure, Transport and Tourism of Japan."
+            },
+            {
+              "key": "Project Details",
+              "value": "The award-winning project, undertaken by Toshiba Water Solutions Private Limited, involved design, build, operate & maintain, and transfer of the sewage treatment plant and related facilities in Allahabad, India. The project supports efforts to improve water treatment and reduce lifecycle costs using locally available equipment."
+            }
+          ],
+          "currency": "JPY"
+        },
+        {
+          "type": "financial_performance",
+          "page": 44,
+          "title": "Digital Solutions Financial Performance & QKD Global Rollout",
+          "data": [
+            {
+              "key": "Division",
+              "value": "Digital Solutions"
+            },
+            {
+              "key": "Main Businesses",
+              "value": "Digital solutions services"
+            },
+            {
+              "key": "Financial Metrics Overview",
+              "value": "Net Sales: 500 (Yen in billions); Operating Income (Loss): 100 (Yen in billions)"
+            },
+            {
+              "key": "Performance Commentary",
+              "value": "Overall, sales grew compared with the previous year, driven by a large increase in system projects for government agencies and consequent profit improvements."
+            },
+            {
+              "key": "Chart Title",
+              "value": "Financial Metrics FY2019-2021"
+            },
+            {
+              "key": "FY2019 Data",
+              "value": "Net Sales: 252.4, Operating Income: 16.8 (Yen in billions)"
+            },
+            {
+              "key": "FY2020 Data",
+              "value": "Net Sales: 221.7, Operating Income: 19.9 (Yen in billions)"
+            },
+            {
+              "key": "FY2021 Data",
+              "value": "Net Sales: 230.6, Operating Income: 24.4 (Yen in billions)"
+            },
+            {
+              "key": "QKD Rollout",
+              "value": "Global rollout of Quantum Key Distribution (QKD) technology with partnerships and demonstration projects in Singapore, the U.K., the U.S., South Korea, and Japan."
+            }
+          ],
+          "currency": "JPY"
+        },
+        {
+          "type": "financial_performance",
+          "page": 81,
+          "title": "Stock and Financial Metrics (2018-2022)",
+          "data": [
+            {
+              "key": "Common stock price (High) 2018/3",
+              "value": "347"
+            },
+            {
+              "key": "Common stock price (High) 2019/3",
+              "value": "3,980"
+            },
+            {
+              "key": "Common stock price (High) 2020/3",
+              "value": "4,030"
+            },
+            {
+              "key": "Common stock price (High) 2021/3",
+              "value": "4,010"
+            },
+            {
+              "key": "Common stock price (High) 2022/3",
+              "value": "5,245"
+            },
+            {
+              "key": "Common stock price (Low) 2018/3",
+              "value": "193"
+            },
+            {
+              "key": "Common stock price (Low) 2019/3",
+              "value": "2,840"
+            },
+            {
+              "key": "Common stock price (Low) 2020/3",
+              "value": "1,982"
+            },
+            {
+              "key": "Common stock price (Low) 2021/3",
+              "value": "2,301"
+            },
+            {
+              "key": "Common stock price (Low) 2022/3",
+              "value": "3,825"
+            },
+            {
+              "key": "Nikkei average 2018/3",
+              "value": "21,454.30"
+            },
+            {
+              "key": "Nikkei average 2019/3",
+              "value": "21,205.81"
+            },
+            {
+              "key": "Nikkei average 2020/3",
+              "value": "18,917.01"
+            },
+            {
+              "key": "Nikkei average 2021/3",
+              "value": "29,178.80"
+            },
+            {
+              "key": "Nikkei average 2022/3",
+              "value": "27,821.43"
+            },
+            {
+              "key": "Number of shares issued 2018/3",
+              "value": "6,521"
+            },
+            {
+              "key": "Number of shares issued 2019/3",
+              "value": "544"
+            },
+            {
+              "key": "Number of shares issued 2020/3",
+              "value": "455"
+            },
+            {
+              "key": "Number of shares issued 2021/3",
+              "value": "455"
+            },
+            {
+              "key": "Number of shares issued 2022/3",
+              "value": "433"
+            },
+            {
+              "key": "Market capitalization 2018/3",
+              "value": "2,008.4"
+            },
+            {
+              "key": "Market capitalization 2019/3",
+              "value": "1,917.6"
+            },
+            {
+              "key": "Market capitalization 2020/3",
+              "value": "1,082.9"
+            },
+            {
+              "key": "Market capitalization 2021/3",
+              "value": "1,702.7"
+            },
+            {
+              "key": "Market capitalization 2022/3",
+              "value": "2,014.1"
+            },
+            {
+              "key": "Annual dividends per share 2019/3",
+              "value": "30"
+            },
+            {
+              "key": "Annual dividends per share 2020/3",
+              "value": "20"
+            },
+            {
+              "key": "Annual dividends per share 2021/3",
+              "value": "80"
+            },
+            {
+              "key": "Annual dividends per share 2022/3",
+              "value": "220"
+            },
+            {
+              "key": "Payout ratio 2019/3",
+              "value": "1.83"
+            },
+            {
+              "key": "Payout ratio 2021/3",
+              "value": "31.8"
+            },
+            {
+              "key": "Payout ratio 2022/3",
+              "value": "49.8"
+            },
+            {
+              "key": "Number of shareholders 2018/3",
+              "value": "300,871"
+            },
+            {
+              "key": "Number of shareholders 2019/3",
+              "value": "270,570"
+            },
+            {
+              "key": "Number of shareholders 2020/3",
+              "value": "269,067"
+            },
+            {
+              "key": "Number of shareholders 2021/3",
+              "value": "270,598"
+            },
+            {
+              "key": "Number of shareholders 2022/3",
+              "value": "228,187"
+            },
+            {
+              "key": "PER 2018/3",
+              "value": "1.89"
+            },
+            {
+              "key": "PER 2019/3",
+              "value": "2.15"
+            },
+            {
+              "key": "PER 2021/3",
+              "value": "14.89"
+            },
+            {
+              "key": "PER 2022/3",
+              "value": "10.52"
+            },
+            {
+              "key": "PCFR 2018/3",
+              "value": "1.7"
+            },
+            {
+              "key": "PCFR 2019/3",
+              "value": "2.0"
+            },
+            {
+              "key": "PCFR 2021/3",
+              "value": "8.5"
+            },
+            {
+              "key": "PCFR 2022/3",
+              "value": "7.3"
+            },
+            {
+              "key": "PBR 2018/3",
+              "value": "2.6"
+            },
+            {
+              "key": "PBR 2019/3",
+              "value": "1.3"
+            },
+            {
+              "key": "PBR 2020/3",
+              "value": "1.1"
+            },
+            {
+              "key": "PBR 2021/3",
+              "value": "1.5"
+            },
+            {
+              "key": "PBR 2022/3",
+              "value": "1.7"
+            },
+            {
+              "key": "Summary",
+              "value": "The table shows financial metrics from 2018 to 2022 with notable trends such as a significant increase in stock prices, substantial growth in annual dividends per share, market capitalization recovery, decrease in number of shareholders, and fluctuations in valuation metrics (PER, PCFR, PBR)."
+            }
+          ],
+          "currency": "JPY"
+        },
+        {
+          "type": "financial_performance",
+          "page": 81,
+          "title": "Fiscal Year Price Ranges",
+          "data": [
+            {
+              "key": "FY2017 price range",
+              "value": "¥3,470 - ¥1,930"
+            },
+            {
+              "key": "FY2018 price range",
+              "value": "¥3,980 - ¥2,840"
+            },
+            {
+              "key": "FY2019 price range",
+              "value": "¥4,030 - ¥1,982"
+            },
+            {
+              "key": "FY2020 price range",
+              "value": "¥4,010 - ¥2,301"
+            },
+            {
+              "key": "FY2021 price range",
+              "value": "¥5,245 - ¥3,825"
+            },
+            {
+              "key": "Summary",
+              "value": "This table shows the high and low price ranges in Japanese Yen for fiscal years 2017 through 2021 with an upward trend in both high and low prices over the period."
+            }
+          ],
+          "currency": "JPY"
+        },
+        {
+          "type": "financial_performance",
+          "page": 85,
+          "title": "Toshiba Integrated Report Overview",
+          "data": [
+            {
+              "key": "Report Purpose",
+              "value": "Effective communication tool for stakeholders including shareholders and investors to understand Toshiba Group."
+            },
+            {
+              "key": "Content Sections",
+              "value": "Strategies, Business Results, Businesses, Sustainability, Data Section, Editorial Policy"
+            },
+            {
+              "key": "Reporting Period",
+              "value": "April 1, 2021 to March 31, 2022, including some information after April 2022"
+            },
+            {
+              "key": "Reporting Scope",
+              "value": "Toshiba Corporation and Toshiba Group"
+            },
+            {
+              "key": "Framework Compliance",
+              "value": "Conforms to frameworks by the International Integrated Reporting Council and the Guidance for Collaborative Value Creation (Japanese Ministry of Economy, Trade and Industry)"
+            },
+            {
+              "key": "Cyber Security",
+              "value": "Overview of cyber security enhancement activities via a dedicated Cyber Security Report"
+            },
+            {
+              "key": "Related Websites",
+              "value": "IR website (financial and legal disclosures), Sustainability website (sustainability information), Environment website (environmental information)"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": true,
+      "elements": [
+        {
+          "type": "capital_structure",
+          "page": 80,
+          "title": "Shareholder Information Distribution (As of March 31 of each year)",
+          "data": [
+            {
+              "key": "Individuals and others",
+              "value": "15.9% (2018/3), 16.8% (2019/3), 20.2% (2020/3), 20.5% (2021/3), 16.9% (2022/3) – note: treasury shares are included in this category."
+            },
+            {
+              "key": "Overseas entities and others",
+              "value": "72.3 (2018/3), 69.8 (2019/3), 62.7 (2020/3), 50.5 (2021/3), 52.9 (2022/3)"
+            },
+            {
+              "key": "Other entities",
+              "value": "15 (2018/3), 17 (2019/3), 18 (2020/3), 18 (2021/3), 1.6 (2022/3)"
+            },
+            {
+              "key": "Securities companies",
+              "value": "Data shows: ‘Ll’ (2018/3), 16 (2019/3), 19 (2020/3), 3.1 (2021/3), 2.8 (2022/3)"
+            },
+            {
+              "key": "Financial institutions",
+              "value": "9.2 (2018/3), 10.1 (2019/3), 13.4 (2020/3), 24.1 (2021/3), 25.8 (2022/3)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 80,
+          "title": "Financial Distribution Percentages Chart (2018-2022)",
+          "data": [
+            {
+              "key": "2018/3",
+              "value": "top: 15.9%, middle: 72.3%, lower_light: 1.5%, lower_dark: 1.1%, bottom: 9.2%"
+            },
+            {
+              "key": "2019/3",
+              "value": "top: 16.8%, middle: 69.8%, lower_light: 1.7%, lower_dark: 1.6%, bottom: 10.1%"
+            },
+            {
+              "key": "2020/3",
+              "value": "top: 20.2%, middle: 62.7%, lower_light: 1.8%, lower_dark: 1.9%, bottom: 13.4%"
+            },
+            {
+              "key": "2021/3",
+              "value": "top: 20.5%, middle: 50.5%, lower_light: 1.8%, lower_dark: 3.1%, bottom: 24.1%"
+            },
+            {
+              "key": "2022/3",
+              "value": "top: 16.9%, middle: 52.9%, lower_light: 1.6%, lower_dark: 2.8%, bottom: 25.8%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 80,
+          "title": "Principal Shareholders (As of March 31, 2022)",
+          "data": [
+            {
+              "key": "The Master Trust Bank of Japan, Ltd. (Trust Account)",
+              "value": "11.6%"
+            },
+            {
+              "key": "SUNTERA (CAYMAN) LIMITED AS TRUSTEE OF ECM MASTER FUND",
+              "value": "4.6%"
+            },
+            {
+              "key": "CHINOOK HOLDINGS LTD",
+              "value": "3.6%"
+            },
+            {
+              "key": "Custody Bank of Japan, Ltd. (Trust Account)",
+              "value": "3.5%"
+            },
+            {
+              "key": "3D INVESTMENT VALUE MASTER FUND",
+              "value": "3.4%"
+            },
+            {
+              "key": "BCSL CLIENT RE BBPLC NYBR",
+              "value": "2.9%"
+            },
+            {
+              "key": "The Dai-ichi Life Insurance Company, Limited",
+              "value": "2.7%"
+            },
+            {
+              "key": "Nippon Life Insurance Company",
+              "value": "2.6%"
+            },
+            {
+              "key": "GOLDMAN SACHS INTERNATIONAL",
+              "value": "2.5%"
+            },
+            {
+              "key": "MSIP CLIENT SECURITIES",
+              "value": "2.5%"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 82,
+          "title": "Consolidated Subsidiaries and Affiliated Companies Accounted for by the Equity Method",
+          "data": [
+            {
+              "key": "Domestic Consolidated Subsidiaries (As of March 31, 2022)",
+              "value": "Japan Semiconductor Corporation Kaga; Toshiba Electronics Corporation Nishishiba Electric Co., Ltd.; Nuclear Fuel Industries, Ltd.; NuFlare Technology, Inc.; Toshiba Data Corporation; Toshiba Electronic Devices & Storage Corporation; Toshiba Digital Solutions Corporation; Toshiba Elevator and Building Systems Corporation; Toshiba Energy Systems & Solutions Corporation; Toshiba Global Commerce Solutions Holdings Corporation; Toshiba Industrial Products and Systems Corporation; Toshiba Infrastructure Systems & Solutions Corporation; Toshiba IT-Services Corporation; Toshiba Lighting & Technology Corporation; Toshiba Materials Co., Ltd.; Toshiba Plant Systems & Services Corporation; Toshiba Tec Corporation*; Toshiba Tec Solution Service Corporation; Toshiba Trading Inc. – 103 companies in total including the 20 above"
+            },
+            {
+              "key": "Overseas Consolidated Subsidiaries",
+              "value": "Toshiba America Business Solutions, Inc.; Toshiba America Electronic Components, Inc.; Toshiba America, Inc.; Toshiba Asia Pacific Pte., Ltd.; Toshiba (Australia) Pty., Ltd.; Toshiba (China) Co., Ltd.; Toshiba Dalian Co., Ltd.; Toshiba Electronics Europe GmbH; Toshiba Electronic Components Taiwan Corporation; Toshiba Elevator (China) Co., Ltd.; Toshiba Elevator (Shenyang) Co., Ltd.; Toshiba Europe GmbH e Toshiba Europe Ltd.; Toshiba Gulf FZE; Toshiba Hydro Power (Hangzhou) Co., Ltd.; Toshiba Industrial Products Asia Co., Ltd.; Toshiba Information Equipment (Philippines), Inc.; Toshiba International Corporation; Toshiba International Procurement Hong Kong, Ltd.; Toshiba JSW Power Systems Private Ltd.; Toshiba Lighting & Technology (Kunshan) Co., Ltd.; Toshiba Tec Europe Imaging Systems S.A.; Toshiba Tec France Imaging Systems S.A.; Toshiba Tec Information Systems (Shenzhen) Co., Ltd.; Toshiba Tec Singapore Pte., Ltd.; Toshiba Tec U.K. Imaging Systems Ltd.; Toshiba Transmission & Distribution Systems Asia Sdn. Bhd.; Toshiba Transmission & Distribution Systems (India) Private Ltd.; TPSC (India) Private Ltd.; TPSC (Thailand) Co., Ltd.; Toshiba Semiconductor (Thailand) Co., Ltd. – 179 companies in total including the 31 above"
+            },
+            {
+              "key": "Domestic Affiliated Companies (Accounted for by the Equity Method as of March 31, 2022)",
+              "value": "EREX New Energy Saiki Co., Ltd.; Kioxia Corporation; Kioxia Holdings Corporation; KK6 Safety Measures Joint Venture Corporation; SBS; Toshiba Logistics Corporation; Toshiba Mitsubishi Electric Industrial Systems Corporation; WingArc1st Inc. – 47 companies in total including the 7 above"
+            },
+            {
+              "key": "Overseas Affiliated Companies (Accounted for by the Equity Method as of March 31, 2022)",
+              "value": "Changzhou Toshiba Transformer Co., Ltd.; Dalian Toshiba Locomotive Electric Equipment Co., Ltd.; GE Toshiba Turbine Components de Mexico S.R.L. de C.V.; Henan Pinggao Toshiba High-Voltage Switchgear Co., Ltd.; PG Toshiba (Henan) Switchgear Components Manufacturing Co., Ltd.; Schneider; Toshiba Inverter SAS; TDS Lithium-Ion Battery Gujarat Private Ltd.; TMEIC Corporation Americas; TMEIC Industrial Systems India Private Ltd.; Toshiba Mitsubishi-Electric Industrial Systems (China) Corporation – 87 companies in total including the 10 above"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "capital_structure",
+          "page": 84,
+          "title": "Corporate Information",
+          "data": [
+            {
+              "key": "Founded",
+              "value": "July 1875"
+            },
+            {
+              "key": "Number of Employees",
+              "value": "Approx. 116,000 (consolidated)"
+            },
+            {
+              "key": "Fiscal Year",
+              "value": "April 1 to March 31"
+            },
+            {
+              "key": "Authorized Number of Shares",
+              "value": "1 billion"
+            },
+            {
+              "key": "Number of Shares Issued",
+              "value": "433,137,955"
+            },
+            {
+              "key": "Number of Shareholders",
+              "value": "186,263"
+            },
+            {
+              "key": "Stock Exchange Listings",
+              "value": "Tokyo, Nagoya"
+            },
+            {
+              "key": "Ticker Code on the Tokyo Stock Exchange / ISIN",
+              "value": "6502 / JP359 2200004"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "mentions_new_risk_factors": {
+      "value": true,
+      "elements": [
+        {
+          "type": "risk_factor",
+          "page": 59,
+          "title": "Strengthen Cyber Resilience & Cyber Security Management Maturity",
+          "data": [
+            {
+              "key": "Cyber Resilience Concept",
+              "value": "Toshiba Group’s strategy to prepare for, mitigate, and respond & recover from cyber security incidents (P, M, R framework) to safeguard information, products, control, and data."
+            },
+            {
+              "key": "Chart – Incident Response and Recovery Framework",
+              "value": "Phases include Identify (Prepare), Protect (Prepare), Detect (Mitigate), Respond & Recover (after incident), and Recover (after incident) with corresponding time frames and color codings."
+            },
+            {
+              "key": "Table – Cyber Security Management Maturity KPI",
+              "value": "FY2021: 3.2, FY2022: Target higher than previous fiscal year, FY2023: Target higher than previous fiscal year (maintain at 4 or above once reached)"
+            },
+            {
+              "key": "Additional Notes",
+              "value": "The document emphasizes a strategic approach to cyber resilience that integrates governance, security operations, and human resource development, including self-assessment measures to track maturity."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 62,
+          "title": "Climate Risk Assessment and Transition Risks, Opportunities by Business",
+          "data": [
+            {
+              "key": "Scenario Analysis Year",
+              "value": "2022"
+            },
+            {
+              "key": "Main Header",
+              "value": "Risks Common to Toshiba Group"
+            },
+            {
+              "key": "Climate Risk Assessment Title",
+              "value": "Climate Risk Assessment and Response Framework"
+            },
+            {
+              "key": "Climate Risk Assessment Summary",
+              "value": "A comprehensive framework analyzing both transition and physical risks under different climate scenarios (1.5°C/2°C and 4°C scenarios), outlining risks in policy, legal, technology, market, reputation, and physical categories along with corresponding response measures."
+            },
+            {
+              "key": "Key Transition Risk Examples",
+              "value": "Increase in response costs due to carbon tax, delayed development in response to decarbonization demand, impact on market preferences and stakeholder trust."
+            },
+            {
+              "key": "Physical Risk Example",
+              "value": "Suspended operations and increased response costs due to natural disasters impacting production and logistics."
+            },
+            {
+              "key": "Transition Risks, Opportunities and Responses Table Title",
+              "value": "Transition Risks, Opportunities, and Responses by Business Division"
+            },
+            {
+              "key": "Business Division Insights",
+              "value": "Systems & Solutions Business and Infrastructure Systems & Solutions Business face risks such as delayed technology development, increased costs due to SF6 regulations, with opportunities in renewable energy, hydrogen solutions, battery-powered railway systems, and disaster management."
+            },
+            {
+              "key": "Additional Initiatives",
+              "value": "VPP (Virtual Power Plant) collaboration between Toshiba and Meidensha for GIS development using natural origin gases; initiatives for CO2 emission reduction and CO2 capture technology; focus areas include Renewable Energy, Power Generation Systems, Weather Radar, Robotics, and Logistics System Solutions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 63,
+          "title": "Business Unit Risk and Opportunity Analysis",
+          "data": [
+            {
+              "key": "Electronic Devices & Storage Solutions - Transition Risks",
+              "value": "Increase in costs for detoxifying equipment; Increase in capital investment for reducing greenhouse gas emissions; Missing sales opportunities due to delayed product development; Increase in procurement costs"
+            },
+            {
+              "key": "Electronic Devices & Storage Solutions - Physical Risks",
+              "value": "Manufacturing impact due to water shortage"
+            },
+            {
+              "key": "Electronic Devices & Storage Solutions - Opportunities",
+              "value": "Increased demand for energy efficiency products; Increased demand for semiconductor products; Increased demand for electric vehicle products; Increased demand for low power-consumption HDDs"
+            },
+            {
+              "key": "Electronic Devices & Storage Solutions - Response Areas",
+              "value": "Power Semiconductors; Automotive Devices; Storage Products"
+            },
+            {
+              "key": "Digital Solutions - Transition Risks",
+              "value": "Digital human resource shortage; Increased development costs; Increased costs for securing digital talent"
+            },
+            {
+              "key": "Digital Solutions - Physical Risks",
+              "value": "Service disruption due to natural disasters"
+            },
+            {
+              "key": "Digital Solutions - Opportunities",
+              "value": "Increased ICT solutions demand; Growth in decarbonization partnerships; Increased maintenance and recurring business; Growth in data utilization services"
+            },
+            {
+              "key": "Digital Solutions - Response Areas",
+              "value": "Factory IoT Platform; Manufacturing IoT Cloud Service; Strategic Procurement Solution; GHG Emissions Services; Human Resource Management Solution"
+            },
+            {
+              "key": "Battery Business - Transition Risks",
+              "value": "Increased costs due to regulations; Higher procurement costs; EU battery regulation compliance costs; Delayed technology investment impacts; Material development delays"
+            },
+            {
+              "key": "Battery Business - Physical Risks",
+              "value": "None"
+            },
+            {
+              "key": "Battery Business - Opportunities",
+              "value": "Growth in automotive batteries market; Increased demand for industrial batteries; Growth in storage battery systems; Demand for emergency storage solutions"
+            },
+            {
+              "key": "Battery Business - Response Areas",
+              "value": "SCiB™ Rechargeable battery; Yokohama Battery Operations"
+            },
+            {
+              "key": "Additional Analysis",
+              "value": "Scenario analysis under 1.5°C, well-below 2°C, and 4°C reveals varied technology, market, policy, legal, and human resource risks. These identified risks and opportunities will be integrated into future mid-term business plans as part of Toshiba Group’s strategy toward carbon neutrality and sustainable business management, aiming for FY2050 carbon neutrality."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 64,
+          "title": "Environmental Future Vision 2050 и управление климатическими рисками",
+          "data": [
+            {
+              "key": "Интеграция управления рисками",
+              "value": "В риск-менеджмент компании Toshiba включены климатические риски, такие как политико-правовые, технологические, рыночные, репутационные и физические риски. Эти риски оцениваются в рамках процесса управления бизнес-рисками и обсуждаются на заседаниях Комитета по обзору бизнес-рисков."
+            },
+            {
+              "key": "Стратегия и процесс оценки",
+              "value": "Определяются критерии принятия управленческих решений, разрешённые лимиты рисков и корпоративная политика в отношении ухода из бизнеса, а также проводится сценарный анализ основных бизнес-направлений в рамках Комитета по устойчивому развитию."
+            },
+            {
+              "key": "Цели по снижению выбросов",
+              "value": "Под стратегии «Environmental Future Vision 2050» включены цели достижения углеродной нейтральности по всей цепочке создания стоимости к FY2050, сокращение выбросов Scope 1 и 2 на 70% к FY2030, сокращение выбросов от продуктов, связанных с энергоснабжением (на 80%) и энергопотреблением (на 14%) по сравнению с уровнем FY2019."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 69,
+          "title": "Risk Management and Compliance Overview",
+          "data": [
+            {
+              "key": "SOC Guideline",
+              "value": "The Standards of Conduct for Toshiba Group (SOC) serve as a key guideline for sustainable and transparent business practices."
+            },
+            {
+              "key": "Zero Tolerance Policy",
+              "value": "Toshiba maintains a zero tolerance policy against fraud, investigating all occurrences, applying disciplinary actions, and preventing recurrence."
+            },
+            {
+              "key": "Risk Management Structure",
+              "value": "A Chief Risk Compliance Management Officer (CRO) oversees risk management and compliance for the whole Group, supported by the Legal & Compliance Division."
+            },
+            {
+              "key": "Risk Compliance Committee",
+              "value": "The CRO chairs the Risk Compliance Committee, which reviews whistleblower reports, analyzes risk impacts, and sets priority measures for the fiscal year."
+            },
+            {
+              "key": "Accounting Compliance",
+              "value": "Post-2015 accounting treatment issues led to strengthening of accounting compliance via a dedicated system that evolved in FY2021 to include all compliance types."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 69,
+          "title": "Corporate Governance and Risk Management Structure",
+          "data": [
+            {
+              "key": "Organizational Chart",
+              "value": "The table presents various committees and roles within Toshiba's risk management, including the Risk Committee, Risk Compliance Committee, CPL Examination Committee, and others, reflecting a robust framework for managing both compliance and business risks."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 70,
+          "title": "Risk Management and Whistleblower System Overview",
+          "data": [
+            {
+              "key": "Risk Management System",
+              "value": "Toshiba operates a comprehensive risk management system (RMS) incorporating a PDCA cycle led by administrative divisions. This system includes the Risk Assessment Program (RAP) to assess compliance risks in Toshiba Group companies."
+            },
+            {
+              "key": "Compliance and Fraud Risk",
+              "value": "Since FY2020, fraud risk scenarios related to financial reporting and accounting have been systematically organized, with inspections to understand and mitigate such risks."
+            },
+            {
+              "key": "Incident Reporting",
+              "value": "In the event of serious compliance incidents, a reporting system ensures immediate communication to top management including the President, CEO, CRO and Audit Committee. An additional reporting system was added in FY2021."
+            },
+            {
+              "key": "Whistleblower System",
+              "value": "Toshiba's whistleblower system, established in January 2000, allows employees to report SOC violations via email or phone. Improvements include transferring report reception to an external organization and multi-language support to facilitate anonymous and safe reporting."
+            },
+            {
+              "key": "Employee Protection",
+              "value": "Employees making reports in good faith are protected from unfavorable treatment, such as dismissal or demotion, ensuring confidentiality and anonymity."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "risk_factor",
+          "page": 71,
+          "title": "Toshiba Group Whistleblowing System & Business Risk Factors",
+          "data": [
+            {
+              "key": "Organizational Diagram Title",
+              "value": "Toshiba Group Whistleblowing System"
+            },
+            {
+              "key": "Organizational Diagram Description",
+              "value": "The image shows an organizational chart depicting Toshiba's global whistleblowing system structure. The diagram illustrates the reporting lines and hierarchical relationships between different entities within the Toshiba Group."
+            },
+            {
+              "key": "Top Level Oversight",
+              "value": "Audit Committee, CRO"
+            },
+            {
+              "key": "Central Unit",
+              "value": "Legal & Compliance Div. (Corporate Secretariat)"
+            },
+            {
+              "key": "Regional Contacts",
+              "value": "Contact for America (Toshiba America, Inc.); Contact for Europe, Middle East and Africa (Toshiba Europe Limited); Contact for Asia-Pacific (Toshiba Asia Pacific Pte. Ltd.); Contact for China (Toshiba (China) Co. Ltd.)"
+            },
+            {
+              "key": "Reporting Channels",
+              "value": "Audit Committee Hotline; Clean Partner Line; Toshiba Hotline; External organizations; External attorney's office"
+            },
+            {
+              "key": "Business Units",
+              "value": "Toshiba Group companies in Japan; Toshiba Group companies in America; Toshiba Group companies in Europe, Middle East and Africa; Toshiba Group companies in Asia-Pacific; Toshiba Group companies in China"
+            },
+            {
+              "key": "Additional Entities",
+              "value": "Suppliers"
+            },
+            {
+              "key": "Risk Factors",
+              "value": "The Group’s business areas of energy systems, infrastructure systems, building, retail & printing, devices & storage, and digital solutions require highly advanced technology for their operation. The Group faces fierce global competition. Major risk factors, as described on Toshiba’s Investor Relations website based on information as of June 27, 2022, may adversely affect the Group’s operating results and financial condition. These risks are subject to inherent uncertainties and actual outcomes may differ."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_guidance_updates": {
+      "value": false,
+      "elements": []
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": false,
+      "elements": []
+    },
+    "has_strategic_restructuring": {
+      "value": true,
+      "elements": [
+        {
+          "type": "strategic_restructuring",
+          "page": 7,
+          "title": "Breaking down two types of rigidity to transform our business model",
+          "data": [
+            {
+              "key": "Business Model Transformation",
+              "value": "Transition to an asset-light business model with value chain transformation including product and design modularization and enhanced IT systems."
+            },
+            {
+              "key": "Strategic Initiatives",
+              "value": "Implement Digital Evolution (DE) to enhance services and recurring businesses, Digital Transformation (DX) to build platforms, and Quantum Transformation (QX) to connect platforms across industries."
+            },
+            {
+              "key": "Key Challenges",
+              "value": "Addressing internal rigidity (siloed operations and integration issues) and external rigidity (lack of leveraging external R&D and converting technology into business value)."
+            },
+            {
+              "key": "Financial Targets",
+              "value": "Raise data services operating income margin to 26% by FY2030 and generate 20% (120.0 billion yen) of overall operating income from data services, from a projected 600.0 billion yen total."
+            },
+            {
+              "key": "Historical Context",
+              "value": "Based on the Toshiba Next Plan launched in FY2018, which led to steady earnings improvements."
+            }
+          ],
+          "currency": "JPY"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 9,
+          "title": "Toward a rich future with stakeholders",
+          "data": [
+            {
+              "key": "business_transformation",
+              "value": "Transforming our business structure so that the data services business becomes a pillar of earnings."
+            },
+            {
+              "key": "employee_initiative",
+              "value": "Encouraging employees to reduce overtime work and take paid vacation days to foster a work style that drives innovation."
+            },
+            {
+              "key": "sustainability_commitment",
+              "value": "Committing to a sustainable future by creating new value with all stakeholders under the motto 'Committed to People, Committed to the Future.'"
+            },
+            {
+              "key": "societal_impact",
+              "value": "Intent to change internal and societal awareness, starting with customers, through evolving working styles."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 17,
+          "title": "Continuous improvement of core profitability through two reforms in value chain transformation",
+          "data": [
+            {
+              "key": "Chart Title",
+              "value": "Continuous improvement of core profitability through two reforms in value chain transformation"
+            },
+            {
+              "key": "CFT and Restructuring Data (FY18-FY21)",
+              "value": "FY18: restructuring=20, cft_activities=30; FY19: restructuring=40, cft_activities=35; FY20: restructuring=45, cft_activities=40; FY21: restructuring=50, cft_activities=45"
+            },
+            {
+              "key": "Financial Improvement",
+              "value": "Achieved 180B yen improvement over four years from 2018; target cumulative total of 250B yen by FY25"
+            },
+            {
+              "key": "Reforms Overview",
+              "value": "Business process reforms including design & product modularization, smart factory initiatives, and IT system reforms (ERP reform, PLM/MES strengthening, centralized integrated DB management)"
+            },
+            {
+              "key": "Subsidiary Consolidation",
+              "value": "30% reduction achieved from 388 targeted subsidiaries as of Apr. 30, 2022; aiming for 40% reduction by FY25"
+            },
+            {
+              "key": "Cost Reduction Goal",
+              "value": "Further cost reduction of approximately 70B yen targeted by FY25"
+            },
+            {
+              "key": "Design & Product Modularization KPIs",
+              "value": "Products Modularized: FY20 = 16, FY22 Plan = 46, FY25 Target = 67"
+            },
+            {
+              "key": "Smart Factory KPIs",
+              "value": "Deployment to Major Sites (Level 3): FY20 = 12, FY22 Plan = 35, FY25 Target = 65"
+            }
+          ],
+          "currency": "JPY"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 18,
+          "title": "Toshiba Group Management Policy - Vision for Transformation",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "The document outlines Toshiba's vision for transformation by addressing longstanding corporate challenges and rigidities."
+            },
+            {
+              "key": "Internal Rigidity",
+              "value": "Issues with silo mentality where improvements achieved by one business unit (BU) or company are not shared across the organization."
+            },
+            {
+              "key": "External Rigidity",
+              "value": "Difficulty in leveraging diverse R&D achievements into tangible business value due to an overemphasis on proprietary development instead of utilizing broader ecosystems."
+            },
+            {
+              "key": "Transformation Focus",
+              "value": "Shift from isolated operations toward integrating business units via ecosystem and platform collaborations to enhance overall corporate value."
+            },
+            {
+              "key": "Visual Illustration",
+              "value": "A chart titled 'Strong dual silo mentality' illustrates the dual-layered silo structure, showing two group companies each with two business units, emphasizing the segmented nature of the organization."
+            },
+            {
+              "key": "Additional Challenges",
+              "value": "Issues related to market selection (domestic focus), not-invented-here syndrome, limited R&D network, and an obsession with full or majority ownership."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 19,
+          "title": "Software Defined Transformation Strategy",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "The document explains an approach to resolve internal rigidity by transforming a vertically divided organization into a digitally integrated platform ecosystem."
+            },
+            {
+              "key": "Transformation Stages",
+              "value": "It outlines the evolution from a traditional hardware-software integration (DE - Digital Evolution) to a software defined era, advancing to DX (data-centric service development) and eventually QX (quantum transformation)."
+            },
+            {
+              "key": "Key Steps",
+              "value": "Separate software from hardware, standardize software to allow integration with external applications and hardware, and create a platform to enable scalable, asset-light and exponential growth."
+            },
+            {
+              "key": "Diagram Details",
+              "value": "The accompanying image depicts three stages: 'Current Status', 'Software Defined', and 'Create a Platform', highlighting the movement from rigid structures towards an integrated, flexible and evolving digital ecosystem."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 20,
+          "title": "Toshiba Group Management Policy - Vision for Transformation: SHIBUYA Project",
+          "data": [
+            {
+              "key": "Project Name",
+              "value": "SHIBUYA Project"
+            },
+            {
+              "key": "Objective",
+              "value": "Reviving the company and revitalizing the city without stopping ongoing business operations"
+            },
+            {
+              "key": "Digital Transformation Strategy",
+              "value": "Integrating and optimizing software development; evolving from DE to DX; utilizing a digital transformation roadmap with parallel paths for DX (Digital Transformation) and CPS (Cyber-Physical Systems)"
+            },
+            {
+              "key": "Development Personnel Data",
+              "value": "Chart shows software development personnel: Digital segment - 1396; Company 2 - 787; Company 3 - 673; approx. total personnel of 7,400 (excluding internal IS); emphasis on consolidation among Toshiba Group companies"
+            },
+            {
+              "key": "Challenges",
+              "value": "Dispersed software development teams across 30 group companies, non-standardized development processes and management metrics, duplicated development efforts"
+            },
+            {
+              "key": "Process Standardization Initiatives",
+              "value": "Implementation of methodologies such as CommonStyle™ and PROSQUARED™; consolidation of divisions; framework utilizing the TIRA (Toshiba IoT Reference Architecture) to improve governance, reduce costs, and streamline resource allocation"
+            },
+            {
+              "key": "Inspiration and Message",
+              "value": "The transformation is compared to revitalizing the city of Shibuya while ensuring the continuous movement of millions, reflecting the broader ambition to reinvigorate the company without business interruption"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 21,
+          "title": "Double Diamond Model: Data Strategy & Toshiba's Data Diamond Strategy",
+          "data": [
+            {
+              "key": "Model Description",
+              "value": "A Double Diamond Model illustrating data generation from the DX stage, aligning supply chain components with data acquisition opportunities."
+            },
+            {
+              "key": "Diagram Title",
+              "value": "Toshiba's B-to-B and B-to-C Data Diamond Strategy"
+            },
+            {
+              "key": "B-to-B Components",
+              "value": "Materials Manufacturing, Small to Medium-sized Enterprises, Large Enterprises"
+            },
+            {
+              "key": "B-to-C Components",
+              "value": "Users, Disposal Vendors"
+            },
+            {
+              "key": "Technologies",
+              "value": "Liposome, Generalist Automating platform NFT, Meister SRM WMS/WES, VPP, POS System, Lighting, Elevator, Smart Receipt"
+            },
+            {
+              "key": "Flow Direction",
+              "value": "Upstream to Downstream"
+            },
+            {
+              "key": "Key Features",
+              "value": "Data sales to financial industry; Data sales to different industries; Security, image analysis and AI technology; CO2 visualization and energy management"
+            },
+            {
+              "key": "Data Characteristics",
+              "value": "Analyzed by AI; Willing to provide data; Tendency to monopolize data"
+            },
+            {
+              "key": "Strategic Focus",
+              "value": "Toshiba aims to become a platformer in both B2B and B2C areas, with a specific focus on capturing human data in areas that remain unacquired, particularly in the B2B diamond."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 23,
+          "title": "Strategic Transformation and Partnership Model",
+          "data": [
+            {
+              "key": "Transformation Goal",
+              "value": "Transform Toshiba into a company that makes data services a pillar of its earnings"
+            },
+            {
+              "key": "Digital Transformation Strategy",
+              "value": "Pursue DE, DX, and QX through initiatives such as the SHIBUYA Project to separate software from hardware and break internal/external rigidities"
+            },
+            {
+              "key": "Partnership Approach",
+              "value": "Consider collaborations with external parties including companies expanding in digitalized fields, partner strategies, joint ventures, and externalization options"
+            },
+            {
+              "key": "Value Capture",
+              "value": "Capture various values including data utilization and financial returns from equity and other financial benefits"
+            },
+            {
+              "key": "Sustainability Focus",
+              "value": "Harness digital and data capabilities to contribute to carbon neutrality and circular economy initiatives"
+            },
+            {
+              "key": "Chart Framework",
+              "value": "A 2x2 matrix framework for deciding between internalization or externalization strategies based on ease of utilization and alignment with management/business policies"
+            },
+            {
+              "key": "Chart Details",
+              "value": "Quadrants include: top-left (Internalization or Externalization via Partner-strategy/JV when easy to utilize but not aligned), top-right (Internalization when easy and aligned), bottom-left (Externalization/withdrawal when difficult to utilize and not aligned), bottom-right (Externalization via Partner-Strategy or JV when difficult but aligned)"
+            },
+            {
+              "key": "Additional Diagram",
+              "value": "Partnership model with Toshiba as the central entity and partners such as Partner A (companies aiming to expand in their areas of expertise), Partner B (industry affiliates/existing players), and Partner C (VC/Investors), emphasizing financial returns and data utilization"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 28,
+          "title": "Toshiba Group Intellectual Property Strategy",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Toshiba Group"
+            },
+            {
+              "key": "Focus",
+              "value": "Expanding opportunities to resolve social issues and maximizing corporate value through intellectual property strategies"
+            },
+            {
+              "key": "Strategy Overview",
+              "value": "Implementation of comprehensive IP strategies across service, cyber, and physical segments, emphasizing the management of IP items (patents, data, know-how) and optimizing IP portfolios with patent clearance."
+            },
+            {
+              "key": "Business Segments",
+              "value": "Service (Energy x Digital, Infrastructure x Digital), Cyber, Physical"
+            },
+            {
+              "key": "Key Initiatives",
+              "value": "Conceptualizing IP strategies, collaboration with business partners, utilization and protection of data, and enhancement of IP capabilities"
+            },
+            {
+              "key": "Diagram Included",
+              "value": "Yes"
+            },
+            {
+              "key": "Diagram Description",
+              "value": "A business strategy diagram from Toshiba Spinex outlining business segments (Service, Cyber, Physical) and IP strategy initiatives (strengthening conceptualization abilities, data utilization/protection, know-how management, and IP capability enhancement)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 29,
+          "title": "Organizational Structure Concerning Intellectual Property and Training",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "The page describes the organizational structure of Toshiba's Intellectual Property Division. It outlines the role of the Intellectual Property Office within the corporate staff division and the separate intellectual property divisions in individual laboratories and key Group companies."
+            },
+            {
+              "key": "Function of Intellectual Property Office",
+              "value": "Responsible for formulating and promoting strategy, handling contracts and disputes, managing patent information, and addressing issues related to intellectual property laws such as the Copyright Law across the Toshiba Group."
+            },
+            {
+              "key": "Decentralized IP Strategy",
+              "value": "Individual laboratories and group companies pursue IP strategies tailored to their specific business and development domains, aiming to strengthen their IP portfolio."
+            },
+            {
+              "key": "Global Presence",
+              "value": "IP personnel are stationed in key regions including the United States and China to promote global IP strategies."
+            },
+            {
+              "key": "Management Reporting",
+              "value": "Each Executive Officer reports the progress of initiatives including investment in intellectual properties to the Board of Directors, supplemented by oversight and advice."
+            },
+            {
+              "key": "Organizational Chart Table",
+              "value": "A detailed table titled 'Board of Directors and Corporate Structure' is provided, listing divisions (e.g., President & CEO, Corporate Staff Division, Strategy Planning Division, etc.) together with corresponding group companies. This table illustrates the broader corporate structure and integration of IP responsibilities."
+            },
+            {
+              "key": "IP Education and Training",
+              "value": "The text also highlights annual e-learning programs on standards of conduct related to IP rights, with high participation rates, and specialized IP training for new hires and existing employees across domestic and overseas subsidiaries."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 65,
+          "title": "Highlights of Corporate Governance - Board Composition & Committee Restructuring",
+          "data": [
+            {
+              "key": "Board Composition Analysis",
+              "value": "Chart shows composition of the Board: 17 Internal Directors vs 83 Outside Directors; Gender distribution: 92 Male vs 8 Female; Nationality: 58 Japanese vs 42 Non-Japanese. Additional metadata indicates use of three separate pie charts depicting percentage distributions."
+            },
+            {
+              "key": "Committee Composition",
+              "value": "The Nomination, Audit, Compensation, and Special Committees are composed exclusively of Outside Directors, with each committee chair being an Outside Director. These committees determine proposals for director election/dismissal, supervise executive duties, set individual compensation, and engage with potential investors and sponsors."
+            },
+            {
+              "key": "Restructuring of Governance Committees",
+              "value": "A Special Committee was established on April 7, 2022 to engage with investors and review strategic alternatives, leading to the dissolution of the Strategic Review Committee. Additionally, a Governance Enhancement Committee was set up following concerns about the fairness of the 181st Ordinary General Meeting of Shareholders, tasked with root cause analysis, clarifying responsibilities, and suggesting recurrence prevention measures."
+            },
+            {
+              "key": "Visualization Metadata",
+              "value": "Chart type: pie_charts, measurements in percentages, with absolute values provided for internal/external, gender, and nationality breakdowns."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 66,
+          "title": "Corporate Governance Policy and Board Activities",
+          "data": [
+            {
+              "key": "Corporate Governance Objectives",
+              "value": "Realize sustainable growth and raise enterprise value over the medium- to long-term while serving stakeholders including shareholders, investors, employees, customers, business partners, creditors, and local communities."
+            },
+            {
+              "key": "Governance Structure",
+              "value": "Board of Directors with oversight functions; organization includes President & CEO, Executive Officers, Divisions, and Committees (Nomination, Audit, Compensation, Special)."
+            },
+            {
+              "key": "Corporate Governance Guidelines Latest Version",
+              "value": "December 22, 2021"
+            },
+            {
+              "key": "Board of Directors Meetings (FY2021)",
+              "value": "27 times"
+            },
+            {
+              "key": "Nomination Committee Meetings (FY2021)",
+              "value": "20 times"
+            },
+            {
+              "key": "Audit Committee Meetings (FY2021)",
+              "value": "13 times"
+            },
+            {
+              "key": "Compensation Committee Meetings (FY2021)",
+              "value": "17 times"
+            },
+            {
+              "key": "Strategic Review Committee Meetings (FY2021)",
+              "value": "20 times"
+            },
+            {
+              "key": "Governance Enhancement Committee",
+              "value": "Set up to investigate fairness issues regarding the 181st General Meeting of Shareholders (held July 31, 2020) and the Pressure Problem; report received on November 12, 2021."
+            },
+            {
+              "key": "Rebuilding Corporate Governance",
+              "value": "Measures include improving organizational structure, reducing over-reliance on government agencies, and reinforcing the 'tone at the top.'"
+            },
+            {
+              "key": "Organizational Chart",
+              "value": "As depicted in the chart: General Meeting of Shareholders leads to the Board of Directors, which oversees the President & CEO, Executive Officers, and Divisions; Committees include Nomination, Audit, Compensation, and Special, with key relationships defined."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "strategic_restructuring",
+          "page": 67,
+          "title": "Extraordinary General Meeting and Strategic Restructuring Overview",
+          "data": [
+            {
+              "key": "Extraordinary General Meeting Date",
+              "value": "March 24, 2022"
+            },
+            {
+              "key": "Meeting Outcome",
+              "value": "Proposals by both the Company and shareholders were rejected; Company decided to rebuild trust with shareholders and continue to evaluate strategic options to enhance corporate value."
+            },
+            {
+              "key": "Nomination Committee",
+              "value": "Deliberated on candidates for key executive positions (Executive Officer, President, CEO), Board composition, and election of Outside Directors and Chairperson."
+            },
+            {
+              "key": "Audit Committee",
+              "value": "Reviewed business plans, budget and risk control; audited executive duty execution; managed whistleblowing reports and inquiries on accounting conduct."
+            },
+            {
+              "key": "Compensation Committee",
+              "value": "Deliberated on performance-linked compensation for Executive Officers and Directors including changes for FY2021, and reviewed individual executive compensation details."
+            },
+            {
+              "key": "Strategic Review Committee",
+              "value": "Engaged with shareholders and strategic/financial investors, reviewed the midterm business plan, explored spin-off and tax-qualified structuring options; later dissolved on April 7, 2022 with establishment of a Special Committee to explore potential investors and sponsors."
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": true,
+      "elements": [
+        {
+          "type": "esg_initiative",
+          "page": 2,
+          "title": "The Essence of Toshiba",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "The Essence of Toshiba is the basis for the sustainable growth of Toshiba Group and the foundation of all corporate activities."
+            },
+            {
+              "key": "Core Elements",
+              "value": "The Essence of Toshiba comprises three elements: Basic Commitment of Toshiba Group, Our Purpose, and Our Values."
+            },
+            {
+              "key": "Basic Commitment of Toshiba Group",
+              "value": "Committed to People, Committed to the Future. At Toshiba, we commit to raising the quality of life for people around the world, ensuring progress that is in harmony with our planet."
+            },
+            {
+              "key": "Our Purpose",
+              "value": "We are Toshiba. We have an unwavering drive to make and do things that lead to a better world—a planet that’s safer and cleaner, a society that’s both sustainable and dynamic, and a life as comfortable as it is exciting. We see its possibilities, and work every day to deliver answers that will bring on a brilliant new day. By combining the power of invention with our expertise and desire for a better world, we imagine things that have never been – and make them a reality. That is our potential. Working together, we inspire a belief in each other and our customers that no challenge is too great, and there’s no promise we can’t fulfill. We turn on the promise of a new day."
+            },
+            {
+              "key": "Our Values",
+              "value": "Do the right thing: act with integrity, honesty and openness; Look for a better way: continually strive for improvement and embrace change; Always consider the impact: think about how actions affect the world for today and future generations; Create together: collaborate with each other and our customers."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 3,
+          "title": "Basic Commitment of Toshiba Group",
+          "data": [
+            {
+              "key": "Corporate Commitment",
+              "value": "Committed to People, Committed to the Future"
+            },
+            {
+              "key": "Contents Overview",
+              "value": "The document includes a detailed table of contents listing key sections such as 'Message from CEO' (page 03), 'Message from the Chairperson of the Board of Directors' (page 09), and multiple business strategy and sustainability related sections."
+            },
+            {
+              "key": "Purpose",
+              "value": "We are Toshiba. With an unwavering drive we commit to sustainable growth, creating a safer, cleaner planet and enhancing quality of life."
+            },
+            {
+              "key": "Values",
+              "value": "Do the right thing, Look for a better way, Create together – principles that underpin Toshiba’s commitment to innovation and sustainability."
+            },
+            {
+              "key": "ESG Focus",
+              "value": "The report reflects an emphasis on sustainability, including sections on Environment, Social, and Governance, highlighting Toshiba's integrated approach to corporate responsibility."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 6,
+          "title": "Toshiba ESG and Infrastructure Strategy",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Toshiba"
+            },
+            {
+              "key": "Commitment",
+              "value": "Committed to People, Committed to the Future"
+            },
+            {
+              "key": "Objective",
+              "value": "Build sustainable, data-driven infrastructure to ensure safety, security, and social/environmental stability"
+            },
+            {
+              "key": "Sustainability Initiatives",
+              "value": "Carbon neutrality and circular economy"
+            },
+            {
+              "key": "Innovation Approach",
+              "value": "Leveraging extensive R&D capabilities and integrating data from diverse products/services"
+            },
+            {
+              "key": "Products/Services",
+              "value": "Automatic ticket gates, ETC systems, elevators, POS systems"
+            },
+            {
+              "key": "Digital Economy Focus",
+              "value": "Maximizing the power of data for further evolution of the digital economy"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 13,
+          "title": "Toshiba Sustainability and Innovation Initiatives",
+          "data": [
+            {
+              "key": "Sustainability Goals",
+              "value": "Commitment to a sustainable future through carbon neutrality and a circular economy, with an emphasis on social and environmental stability."
+            },
+            {
+              "key": "Infrastructure and Social Contribution",
+              "value": "Investments in accessible infrastructure that secures individual livelihoods and connects society through data, technology, and customer relationships."
+            },
+            {
+              "key": "Innovation Timeline",
+              "value": "Highlights include 2016: World’s first superconducting rotating gantry irradiation system for heavy-ion radiotherapy; 2017: Developed practical multi-parameters phased array weather radar; 2021: Achievements such as world-leading quantum cryptographic communications, film-based perovskite photovoltaic module with highest power conversion efficiency, and leadership in mega solar power plant installations; 2007: World's first 320-detector row CT scanner; 2020: Japan's first large-scale carbon capture and storage facility and world-leading scale H2 energy system."
+            },
+            {
+              "key": "Corporate Vision",
+              "value": "Focus on creating previously unseen value by leveraging data and advanced technologies to transform society."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 14,
+          "title": "Toshiba Group Management Policy - Vision for Transformation",
+          "data": [
+            {
+              "key": "Policy Vision",
+              "value": "Contribute to the achievement of carbon neutrality and a circular economy through digitization; committed to people and the future."
+            },
+            {
+              "key": "Key Themes",
+              "value": "Sustainability of People and the Planet, Social and Environmental Stability, Digital Transformation, Infrastructure for all."
+            },
+            {
+              "key": "Sustainability Framework Table",
+              "value": "Achieving sustainability of people and the planet; emphasizes safe, secure lifestyles, addressing poverty, human rights, climate change, resource depletion, and building a society connected by data."
+            },
+            {
+              "key": "Digital Transformation Diagram",
+              "value": "Digital and Quantum Transformation Framework with layers QX (Quantum Transformation), DX (Digital Transformation), DE (Digital Evolution) that interact with various industry sectors to create connected markets and new social values."
+            },
+            {
+              "key": "Strategic Commitment",
+              "value": "‘Committed to People, Committed to the Future’ - aiming to improve quality of life globally in harmony with the planet."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 33,
+          "title": "Non-Financial Highlights – Sustainability Data Section",
+          "data": [
+            {
+              "key": "female_exempt_employees_trend",
+              "value": "Trends in the number/percentage of female exempt employees for Toshiba and key Group companies (section manager level or higher)"
+            },
+            {
+              "key": "whistleblower_reports",
+              "value": "Number of reports received by the whistleblower system"
+            },
+            {
+              "key": "female_managers_number",
+              "value": "Number of female managers (Persons)"
+            },
+            {
+              "key": "female_managers_percentage",
+              "value": "Percentage of female managers (%)"
+            },
+            {
+              "key": "toshiba_hotline_cases",
+              "value": "Toshiba Hotline (Cases)"
+            },
+            {
+              "key": "audit_committee_hotline_cases",
+              "value": "Audit Committee Hotline (Cases)"
+            },
+            {
+              "key": "ltifr",
+              "value": "Lost-time injury frequency rate at Toshiba Group in Japan"
+            },
+            {
+              "key": "total_ghg_emissions",
+              "value": "Total greenhouse gas (GHG) emissions (Million t-CO2)"
+            },
+            {
+              "key": "industry_ltifr",
+              "value": "National average for electrical appliance industry LTIFR at Toshiba Group in Japan"
+            },
+            {
+              "key": "co2_emission_coefficients",
+              "value": "CO2 emission coefficients for electricity calculated using power companies' coefficients"
+            },
+            {
+              "key": "energy_derived_co2_emissions",
+              "value": "Energy-derived CO2 emissions and rate of improvement per unit activity"
+            },
+            {
+              "key": "water_received",
+              "value": "Amount of water received and rate of improvement of water received per unit activity"
+            },
+            {
+              "key": "table_summary",
+              "value": "The table spanning FY2019 to FY2021 contains mixed entries with values (e.g., 0.54, 0.52, 6) and inconsistent formatting, indicating possible data corruption or unclear metric definitions."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 36,
+          "title": "Energy Systems & Solutions – Business Overview and ESG Initiative",
+          "data": [
+            {
+              "key": "Main Businesses (as of March 31, 2022)",
+              "value": "Nuclear power generation systems, Thermal power generation systems, Hydroelectric power generation systems, Solar Photovoltaic systems, Transmission & Distribution systems"
+            },
+            {
+              "key": "Financial Metrics Snapshot",
+              "value": "Net Sales (Yen in billions): 1,000; Operating Income (Yen in billions): 100; Additional bar chart data for FY2019-2021 provided"
+            },
+            {
+              "key": "Business Overview",
+              "value": "Nuclear sales decreased due to safety process impacts; thermal and hydroelectric sales increased with growth in overseas projects; transmission & distribution system sales increased, resulting in overall profit improvement for the division."
+            },
+            {
+              "key": "ESG Initiative – Regional CO2 Resource Utilization Study",
+              "value": "A consortium including Toshiba Corporation, Toshiba Energy Systems & Solutions Corporation, Toyo Engineering Corporation, Idemitsu Kosan Co., Ltd., Japan CCS Co., Ltd., and All Nippon Airways Co., Ltd. proposed a project using electrolysis and artificial photosynthesis to convert CO2 to CO and synthesize sustainable aviation fuel. The initiative was adopted as a commissioned project by the Ministry of the Environment."
+            },
+            {
+              "key": "Project Objectives",
+              "value": "Demonstrate a full-scale CO2 electrolysis prototype, integrate technologies for CO2 collection, conversion, and fuel production, and support the development of a sustainable circular carbon society model."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 47,
+          "title": "Toshiba Group Sustainability Policy & Management",
+          "data": [
+            {
+              "key": "Company",
+              "value": "Toshiba Group"
+            },
+            {
+              "key": "Core Commitment",
+              "value": "Committed to People, Committed to the Future"
+            },
+            {
+              "key": "Sustainability Objectives",
+              "value": "Develop products and services to enrich lives, reduce environmental impacts, support human rights, promote sustainable procurement, and ensure long-term sustainable growth."
+            },
+            {
+              "key": "Governance & Standards",
+              "value": "Resolved by the Board of Directors; guided by international standards and the Standards of Conduct for Toshiba Group."
+            },
+            {
+              "key": "Report Date",
+              "value": "October 21, 2021"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 48,
+          "title": "Sustainability Management Structure",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "Toshiba has a long-standing commitment to CSR, establishing an in-house organization in 2003 and later a dedicated Sustainability Management Division in April 2021."
+            },
+            {
+              "key": "ESG & SDGs Integration",
+              "value": "Incorporates sustainability perspectives into management; promotes ESG and SDGs activities throughout the Group."
+            },
+            {
+              "key": "Governance Structure",
+              "value": "The governance structure includes the Board of Directors, Sustainability Strategy Committee (chaired by the President and CEO), and three sub-committees: Sustainability Promotion Committee, Corporate Environmental Management Committee, and Non-financial Information Disclosure Committee."
+            },
+            {
+              "key": "Meeting Frequency",
+              "value": "The Sustainability Strategy Committee and its subordinate committees generally meet twice a year."
+            },
+            {
+              "key": "FY2021 Initiatives",
+              "value": "Initiatives include formulation of sustainability policy, KPI determination based on material issues, formulation and revision of Human Rights and Procurement Policies, climate change measures, review of Environmental Future Vision 2050, and monitoring progress on the Environmental Action Plan."
+            },
+            {
+              "key": "Image Data (Organizational Chart)",
+              "value": "Provides a detailed chart outlining levels from the Board of Directors down to Toshiba Group Companies, with key responsibilities and reporting flows (top-down supervision and bottom-up reporting)."
+            },
+            {
+              "key": "Group Companies Mentioned",
+              "value": "Includes Toshiba Energy Systems & Solutions Corporation, Toshiba Infrastructure Systems & Solutions Corporation, Toshiba Electronic Devices & Storage Corporation, Toshiba Digital Solutions Corporation, Toshiba Tec Corporation, Toshiba Elevator and Building Systems Corporation, Toshiba Lighting & Technology Corporation, Toshiba Plant Systems & Services Corporation."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 49,
+          "title": "Sustainability and ESG Initiatives Overview",
+          "data": [
+            {
+              "key": "Information Disclosure",
+              "value": "Confirmation and approval of information presented in Sustainability Report and Integrated Report; examined by the Board of Directors."
+            },
+            {
+              "key": "Board Examination",
+              "value": "The content, context, and wording of the Sustainability Policy were reviewed and resolved by the Board of Directors."
+            },
+            {
+              "key": "Monitoring",
+              "value": "Sustainability Promotion Committee monitors progress of sustainability measures and KPIs based on material issues."
+            },
+            {
+              "key": "Material Issues and KPIs",
+              "value": "Identified issues include Environment, Social, and Governance with respective KPIs set for FY2022 and FY2023."
+            },
+            {
+              "key": "Employee Awareness",
+              "value": "Initiatives include regular communications from the President and CEO, sustainability management training, and annual e-learning."
+            },
+            {
+              "key": "Sustainability Month",
+              "value": "December designated as Sustainability Month with seminars, social contribution activities, and dedicated events."
+            },
+            {
+              "key": "ESG Seminar",
+              "value": "Online seminar by CEO of Neural Inc., Mr. Kenji Fuma, focusing on ESG and initiatives toward carbon neutrality."
+            },
+            {
+              "key": "Volunteer Activities",
+              "value": "Annual Toshiba Group Volunteer Days event provides volunteering opportunities, coinciding with International Volunteer Day."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 50,
+          "title": "Material Issues and KPIs Guided by the Essence of Toshiba",
+          "data": [
+            {
+              "key": "Focus",
+              "value": "Toshiba Group’s material issues impact medium- and long-term business activities in line with its Sustainability Policy."
+            },
+            {
+              "key": "Response to Change",
+              "value": "Review of material issues initially identified in 2013 with new issues re-identified in FY2021; addressing global climate change and evolving social issues per SDGs."
+            },
+            {
+              "key": "ESG Relevance",
+              "value": "Emphasis on corporate sustainability, social responsibility, and transparent governance to increase corporate value and support sustainable societal growth."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 50,
+          "title": "The Essence of Toshiba Flowchart",
+          "data": [
+            {
+              "key": "Standards",
+              "value": "Standards of Conduct for Toshiba Group"
+            },
+            {
+              "key": "Left Branch",
+              "value": "Sustainability Policy leading to Material Issues"
+            },
+            {
+              "key": "Right Branch",
+              "value": "Management Policies leading to Business Strategy"
+            },
+            {
+              "key": "Outcome",
+              "value": "Business activities & implementation of sustainability measures"
+            },
+            {
+              "key": "Objectives",
+              "value": "Solving social issues and increasing corporate value & sustainable growth"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 50,
+          "title": "Vision for 2030 and Materiality Matrix",
+          "data": [
+            {
+              "key": "Category 1",
+              "value": "For the irreplaceable global environment in which we live: Promote corporate activities with full consideration for the global environment throughout the value chain."
+            },
+            {
+              "key": "Materiality 1",
+              "value": "Respond to climate change, circular economy, and consideration of ecosystems."
+            },
+            {
+              "key": "Category 2",
+              "value": "For respect of human rights, nurturing people and technology, and giving back to society: Encourage employee pride, creativity, and collaboration for rich value."
+            },
+            {
+              "key": "Materiality 2",
+              "value": "Secure, retain and train human resources; ensure employee health and safety; promote human rights; support sustainable procurement; strengthen R&D for innovation."
+            },
+            {
+              "key": "Category 3",
+              "value": "For further strengthening thorough governance: Practice transparent corporate governance and optimal internal controls."
+            },
+            {
+              "key": "Materiality 3",
+              "value": "Strengthen governance and enhance cyber resilience."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 51,
+          "title": "Strategies Business Results Businesses Sustainability Data Section",
+          "data": [
+            {
+              "key": "Sustainability Goals",
+              "value": "Achieve carbon neutrality and promote a circular economy by leveraging data infrastructure."
+            },
+            {
+              "key": "Key Focus Areas",
+              "value": "Strengthening cyber resilience, boosting R&D for innovation, and securing, retaining, and training human resources."
+            },
+            {
+              "key": "Material Issues Identification Process",
+              "value": "Utilizes frameworks such as the SDGs, the WEF Global Risks Report, SASB Standards, and ESG rating evaluations; involves re-identification, expert review, committee deliberations, and board reporting."
+            },
+            {
+              "key": "Committees Involved",
+              "value": "Sustainability Strategy Committee and Sustainability Promotion Committee."
+            },
+            {
+              "key": "Flowchart Overview",
+              "value": "Steps include re-identification of material issues, review by external experts, deliberations by the Sustainability Strategy Committee, and reporting to the Executive Board session."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 52,
+          "title": "Toshiba Group's Environmental Future Vision 2050",
+          "data": [
+            {
+              "key": "Vision Title",
+              "value": "Environmental Future Vision 2050"
+            },
+            {
+              "key": "Context",
+              "value": "Addressing intensified environmental issues including climate change, depletion of energy and resources, and ensuring a safe future for coming generations."
+            },
+            {
+              "key": "Main Goal",
+              "value": "Contributing to the realization of a sustainable society through environmental management which aims to create enriched value and ensure harmony with the earth."
+            },
+            {
+              "key": "Initiative Areas",
+              "value": "Response to climate change; Response to the circular economy; Consideration of ecosystems"
+            },
+            {
+              "key": "Response to Climate Change Initiatives",
+              "value": "Achieving carbon neutrality throughout the entire value chain (70% reduction of GHG emissions by FY2030), creation of products and services that contribute to reducing GHG emissions, and promotion of adaptation measures."
+            },
+            {
+              "key": "Response to Circular Economy Initiatives",
+              "value": "Efficient use of resources and promotion of circular economy businesses."
+            },
+            {
+              "key": "Ecosystems Consideration Initiatives",
+              "value": "Promotion of measures regarding chemical substances, water, and biodiversity conservation."
+            },
+            {
+              "key": "Vision Components",
+              "value": "Resource circulating society, Decarbonized society, Society in harmony with nature"
+            },
+            {
+              "key": "Revision Date",
+              "value": "November, 2021"
+            },
+            {
+              "key": "Base Year",
+              "value": "FY2019"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 53,
+          "title": "Environmental Sustainability Initiatives & KPIs",
+          "data": [
+            {
+              "key": "Respond to Climate Change - Total GHG generated in business activities",
+              "value": "FY2021 Achievements: 1.03 million t-CO2; FY2022 Targets: 1.02 million t-CO2; FY2023 Targets: 0.98 million t-CO2"
+            },
+            {
+              "key": "Respond to Climate Change - Reduction rate of GHG emissions from products and services associated with power supply (compared to FY2019)",
+              "value": "FY2021 Achievements: 69.3% reduction; FY2022 Targets: 11.4% reduction; FY2023 Targets: 13.6% reduction"
+            },
+            {
+              "key": "Respond to Climate Change - Reductions in GHG emissions via renewable energy supply (cumulative total)",
+              "value": "FY2021 Achievements: 8.38 million t-CO2; FY2022 Targets: 28 million t-CO2; FY2023 Targets: 43 million t-CO2"
+            },
+            {
+              "key": "Respond to Climate Change - Reductions in GHG emissions via power consumption (cumulative total)",
+              "value": "FY2021 Achievements: 25.64 million t-CO2; FY2022 Targets: 41 million t-CO2; FY2023 Targets: 57 million t-CO2"
+            },
+            {
+              "key": "Respond to the Circular Economy - Waste volume in business activities",
+              "value": "FY2021 Achievements: 30,000 t; FY2022 Targets: 25,000 t; FY2023 Targets: 25,000 t"
+            },
+            {
+              "key": "Respond to the Circular Economy - Amount of plastic resources recycled in products and services (cumulative total)",
+              "value": "FY2021 Achievements: 808 t; FY2022 Targets: 1,200 t; FY2023 Targets: 1,800 t"
+            },
+            {
+              "key": "Respond to the Circular Economy - Amount of resources saved in products and services (cumulative total)",
+              "value": "FY2021 Achievements: 110,000 t; FY2022 Targets: 270,000 t; FY2023 Targets: 400,000 t"
+            },
+            {
+              "key": "Initiative Context",
+              "value": "Under Environmental Future Vision 2050, Toshiba Group promotes reduction of GHG emissions, resource conservation, and building circular economy business models to support climate change adaptation and sustainable society."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 54,
+          "title": "Consider Ecosystems / Environmental Performance Metrics and Targets",
+          "data": [
+            {
+              "key": "Environmental Narrative",
+              "value": "Our lives and well-being are supported by the blessings of nature. We must recognize that humans are part of the ecosystem and work together to preserve them. At the same time, natural resources must be used sustainably to avoid exhaustion and contamination."
+            },
+            {
+              "key": "Vision",
+              "value": "Under the Environmental Future Vision 2050, Toshiba Group aims to create a society where humans live in harmony with nature by promoting adherence to chemical substance management policies, proper water resource management, and biodiversity conservation both on and off its sites."
+            },
+            {
+              "key": "Initiative Details",
+              "value": "Compliance with global chemical substance regulations, proper management of water resources, and conservation of biodiversity."
+            },
+            {
+              "key": "Table Title",
+              "value": "Environmental Performance Metrics and Targets"
+            },
+            {
+              "key": "KPI: Amount of chemicals discharged per unit in business activities",
+              "value": "FY2021: 87% compared to FY2020; FY2022: 1% improvement compared to FY2021; FY2023: 1% improvement compared to FY2022"
+            },
+            {
+              "key": "KPI: Amount of water received per unit in business activities",
+              "value": "FY2021: 91% compared to FY2020; FY2022: 1% improvement compared to FY2021; FY2023: 1% improvement compared to FY2022"
+            },
+            {
+              "key": "Additional Note",
+              "value": "FY2021 achievements include figures for Toshiba Carrier Corporation."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 55,
+          "title": "Sustainability & Social Initiatives – Human Rights, Diversity and Inclusion",
+          "data": [
+            {
+              "key": "Commitment",
+              "value": "Toshiba Group is committed to respecting human rights, nurturing talent, and giving back to society. The Basic Commitment 'Committed to People, Committed to the Future' drives these initiatives."
+            },
+            {
+              "key": "Human Resources Focus",
+              "value": "Initiatives include securing, retaining, and training human resources; ensuring employee health and safety; promoting respect for human rights; ensuring sustainable procurement; and strengthening R&D to stimulate innovation."
+            },
+            {
+              "key": "Corporate Culture",
+              "value": "Efforts are directed towards fostering an open, diverse, respectful work environment that supports talent development and collaboration."
+            },
+            {
+              "key": "KPIs and Targets - Gender Diversity",
+              "value": "Percentage of female employees in executive and managerial positions: FY2021 achievement at 5.5%, FY2022 target at 6.0%, FY2023 target at 6.5% with an ambitious goal of 8% by FY2025."
+            },
+            {
+              "key": "KPIs and Targets - Employee Engagement",
+              "value": "Employee engagement score: 63% in FY2021 and FY2022 with a target of 64% in FY2023 and 66% by FY2025."
+            },
+            {
+              "key": "KPIs and Targets - AI Expertise",
+              "value": "Number of AI experts planned to increase from 1,800 in FY2021 to 2,100 in FY2023."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 56,
+          "title": "Ensure Employee Health and Safety and Respect for Human Rights",
+          "data": [
+            {
+              "key": "Overview",
+              "value": "It is vital for every employee to maintain and strengthen both their mental and physical health in order to flourish professionally. A safe and comfortable work environment is essential. The company places top priority on human life, safety, and legal compliance while supporting occupational health and safety (OHS)."
+            },
+            {
+              "key": "Safety KPIs Summary",
+              "value": "The provided safety table shows: one work-related fatality in FY2021 with a target of zero accidents for FY2023; a severity rate of 0.05 in FY2021 with a target to reduce it to 0.01 or less; and a metabolic syndrome ratio of 34.3% in FY2021 with a goal to reduce this figure by FY2025."
+            },
+            {
+              "key": "Human Rights KPIs Summary",
+              "value": "The human rights-related table indicates initiatives such as seminar and workshop participation targets of 100%, high participation in e-learning programs (99% in FY2021 with 100% targets for subsequent years), and gradual implementation of human rights due diligence measures through surveys and impact assessments."
+            },
+            {
+              "key": "Additional Commentary",
+              "value": "The document reinforces the commitment to respect human rights by supporting universal principles and labor practices, as guided by relevant declarations, and emphasizes responsible business practices."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 57,
+          "title": "Sustainable Procurement and R&D Initiatives",
+          "data": [
+            {
+              "key": "Sustainable Procurement Overview",
+              "value": "Toshiba Group promotes sustainable procurement initiatives with its suppliers, ensuring compliance with laws, regulations, social norms, and human rights, while evaluating CSR and sustainability efforts."
+            },
+            {
+              "key": "Procurement Policy Compliance FY2021",
+              "value": "91.4%"
+            },
+            {
+              "key": "Procurement Policy Compliance FY2022",
+              "value": "100%"
+            },
+            {
+              "key": "Procurement Policy Compliance FY2023",
+              "value": "100%"
+            },
+            {
+              "key": "Sustainability Survey Suppliers FY2021",
+              "value": "10,885"
+            },
+            {
+              "key": "Sustainability Survey Suppliers FY2022",
+              "value": "11,400"
+            },
+            {
+              "key": "Sustainability Survey Suppliers FY2023",
+              "value": "12,000"
+            },
+            {
+              "key": "Procurement Training Participation FY2021",
+              "value": "33%"
+            },
+            {
+              "key": "Procurement Training Participation FY2022",
+              "value": "38%"
+            },
+            {
+              "key": "Procurement Training Participation FY2023",
+              "value": "100%"
+            },
+            {
+              "key": "R&D Expense to Sales Ratio FY2021",
+              "value": "46%"
+            },
+            {
+              "key": "R&D Expense to Sales Ratio FY2022",
+              "value": "5.0% or higher"
+            },
+            {
+              "key": "R&D Expense to Sales Ratio FY2023",
+              "value": "5.0% or higher"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 58,
+          "title": "Governance and Corporate Governance Initiatives",
+          "data": [
+            {
+              "key": "Governance Policy",
+              "value": "Toshiba Group emphasizes thorough and transparent corporate governance with optimal internal controls, executing management with integrity and trust."
+            },
+            {
+              "key": "Sustainability Commitment",
+              "value": "Operates under the Basic Commitment 'Committed to People, Committed to the Future' aiming to leverage business activities towards societal development and a sustainable society."
+            },
+            {
+              "key": "Material Issues",
+              "value": "Key issues include 'strengthen governance' and 'strengthen cyber resilience', with specific KPIs set and actively pursued."
+            },
+            {
+              "key": "Corporate Governance Guidelines",
+              "value": "Guidelines stipulate that outside directors must comprise a majority (50% or greater) of the Board committees to ensure effective oversight and supervisory functions."
+            },
+            {
+              "key": "KPIs and Achievements",
+              "value": "The table shows that the percentage of outside directors on Toshiba's Nomination Committee, Audit Committee, and Compensation Committee was 100% in FY2021 with targets of 100% for FY2022 and FY2023."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 59,
+          "title": "Corporate Environmental Management Structure",
+          "data": [
+            {
+              "key": "Level 1",
+              "value": "Board of Directors"
+            },
+            {
+              "key": "Level 2",
+              "value": "Sustainability Strategy Committee; reports to Board of Directors; chaired by President and CEO"
+            },
+            {
+              "key": "Level 3",
+              "value": "Corporate Environmental Management Committee; reports to Sustainability Strategy Committee; chaired by Executive in charge of Environment"
+            },
+            {
+              "key": "Level 4",
+              "value": "Environmental Management Committee of Group Companies; reports to Corporate Environmental Management Committee"
+            },
+            {
+              "key": "Structure Type",
+              "value": "Hierarchical organizational chart"
+            },
+            {
+              "key": "Focus",
+              "value": "Environmental and sustainability governance"
+            },
+            {
+              "key": "Levels",
+              "value": "4"
+            },
+            {
+              "key": "Representation",
+              "value": "Top-down hierarchy showing reporting relationships"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 60,
+          "title": "Information Disclosure Based on the TCFD Recommendations",
+          "data": [
+            {
+              "key": "TCFD Endorsement",
+              "value": "Endorsed the TCFD recommendations and is a member of the TCFD Consortium"
+            },
+            {
+              "key": "TCFD Final Report Year",
+              "value": "2017"
+            },
+            {
+              "key": "Disclosure Focus Areas",
+              "value": "Governance, Strategy, Risk Management, and Metrics and Targets"
+            },
+            {
+              "key": "Governance Structure",
+              "value": "Board of Directors supervises sustainability efforts through the Sustainability Strategy Committee and Corporate Environmental Management Committee"
+            },
+            {
+              "key": "Sustainability Strategy Committee",
+              "value": "Meets twice a year; chaired by the President and CEO with participation of sustainability executives and key Group company presidents"
+            },
+            {
+              "key": "Corporate Environmental Management Committee",
+              "value": "Chaired by the Executive in charge of Environment; meets twice a year with environmental managers from key Group companies"
+            },
+            {
+              "key": "Policy Update",
+              "value": "New sustainability management policy adopted in FY2021, including response to climate change"
+            },
+            {
+              "key": "Long-Term Vision",
+              "value": "Toshiba Group’s Environmental Future Vision 2050"
+            },
+            {
+              "key": "Science Based Targets",
+              "value": "Progress on SBT reported in FY2020"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 61,
+          "title": "Climate Change Scenario Analysis and Sustainability Strategy",
+          "data": [
+            {
+              "key": "Section",
+              "value": "Sustainability Data and Strategy"
+            },
+            {
+              "key": "Committee",
+              "value": "Sustainability Strategy Committee chaired by the President and CEO"
+            },
+            {
+              "key": "Objective",
+              "value": "Conducting scenario analysis to identify climate change-related risks and opportunities"
+            },
+            {
+              "key": "Scenarios",
+              "value": "1.5°C and well-below 2°C scenario (transition risks/opportunities) and 4°C scenario (physical risks/opportunities)"
+            },
+            {
+              "key": "Methodology",
+              "value": "Based on TCFD recommendations with risk importance assessment, scenario grouping, business impact assessment, and countermeasures definition"
+            },
+            {
+              "key": "Scope",
+              "value": "Analysis across five business domains: Energy Systems & Solutions, Infrastructure Systems & Solutions, Electronic Devices & Storage Solutions, Digital Solutions, Battery Business; covering entire value chain (upstream and downstream)"
+            },
+            {
+              "key": "Time Frames",
+              "value": "Short-term (up to 3 years), Mid-term (4-10 years), Long-term (11-30 years)"
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 78,
+          "title": "Sustainability Metrics & Green Procurement Disclosures – Toshiba Integrated Report 2022",
+          "data": [
+            {
+              "key": "SASB Reference Table Title",
+              "value": "Sustainability Accounting Metrics for Electrical/Electronic Equipment Industry"
+            },
+            {
+              "key": "SASB Reference Table Summary",
+              "value": "Framework covering topics such as Energy Management, Hazardous Waste Management, Product Safety, Product Lifecycle Management, Materials Sourcing, and Business Ethics with both quantitative and qualitative metrics."
+            },
+            {
+              "key": "Activity Metrics Table Summary",
+              "value": "Includes quantitative measurements on production (units produced by product category, code RT-EE-000.A) and workforce (number of employees, code RT-EE-000.B)."
+            },
+            {
+              "key": "Key Sustainability Disclosures",
+              "value": "Details on total energy consumption, grid electricity usage, renewable energy percentages, hazardous waste figures and recycling/incineration percentages, product recalls and associated monetary losses, as well as green procurement guidelines."
+            },
+            {
+              "key": "Additional Notes",
+              "value": "The document includes specific notes on renewable energy, hazardous waste definitions per Japanese law, and mentions Toshiba Group’s initiatives in managing environmental risks and supply chain disruptions through BCP and compliance programs."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 79,
+          "title": "Business Results Sustainability Data and SASB Reference Tables",
+          "data": [
+            {
+              "key": "Summary Table 1",
+              "value": "The first table, titled 'Disclosure Reference Table', contains detailed disclosures on Toshiba Group's environmental impacts and sustainability efforts. It includes metrics such as total energy consumption (21,009,647 GJ with 82% grid electricity and 0.3% renewable), hazardous waste (3,500 t with 85% recycled and 11% incinerated), chemical substances release details, and product safety data (2 voluntary recalls affecting 4,151 units). References point to sections on environmental impacts, waste reduction, product safety, green procurement, business continuity planning, and anti-corruption/antitrust compliance."
+            },
+            {
+              "key": "Summary Table 2",
+              "value": "The second table appears to be an index or reference guide showing Toshiba Group’s business mission and operational data. It includes a descriptive disclosure about contributing to a sustainable future through products and services, and a numeric figure (116,224) referenced under 'Corporate Data'."
+            },
+            {
+              "key": "Additional Metrics & SASB Codes",
+              "value": "The document also provides SASB reference codes corresponding to various sustainability metrics including energy management, hazardous waste management, product safety, and business ethics. These references connect the disclosed data to standardized ESG metrics."
+            }
+          ],
+          "currency": "N/A"
+        },
+        {
+          "type": "esg_initiative",
+          "page": 86,
+          "title": "Toshiba Corporation Contact & IR Information",
+          "data": [
+            {
+              "key": "Corporate Slogan",
+              "value": "Committed to People, Committed to the Future"
+            },
+            {
+              "key": "Company",
+              "value": "Toshiba Corporation"
+            },
+            {
+              "key": "Address",
+              "value": "1-1, Shibaura 1-chome, Minato-ku, Tokyo, 105-8001, Japan"
+            },
+            {
+              "key": "Investor Relations Contact",
+              "value": "Investor Relations Group, Corporate Strategy Office, Strategic Planning Division"
+            },
+            {
+              "key": "Inquiry URL",
+              "value": "https://www.global.toshiba/ww/ir/corporate/helpful-info/contact.html"
+            },
+            {
+              "key": "Issue Date",
+              "value": "February 2023"
+            }
+          ],
+          "currency": "N/A"
+        }
+      ]
+    }
+  },
+  "currency": {
+    "EUR": 7,
+    "AUD": 34,
+    "CAD": 8,
+    "ZAR": 1,
+    "RUB": 1
+  },
+  "sha1": "e273ed0d9626b9feaf50c09405c2b70d461e41d7"
+}
