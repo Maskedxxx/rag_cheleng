@@ -20,7 +20,7 @@ logging.basicConfig(
 logger = logging.getLogger("rag_question_analysis_pipeline")
 
 # Инициализация клиента OpenAI (замените "****" на реальный API-ключ или используйте переменные окружения)
-client = OpenAI(api_key="****")
+client = OpenAI()
 
 class QuestionAnalysis(BaseModel):
     metadata_category: Literal[

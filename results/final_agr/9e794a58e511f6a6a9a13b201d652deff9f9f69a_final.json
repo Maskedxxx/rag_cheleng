@@ -1,0 +1,87 @@
+{
+  "letters": 1040610,
+  "pages": 268,
+  "meta": {
+    "end_of_period": {
+      "year": 2022,
+      "month": 12
+    },
+    "company_name": "Pintec Technology Holdings Limited",
+    "major_industry": "Financial Services",
+    "mentions_recent_mergers_and_acquisitions": {
+      "value": false,
+      "elements": []
+    },
+    "has_leadership_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_layoffs": {
+      "value": false,
+      "elements": []
+    },
+    "has_executive_compensation": {
+      "value": false,
+      "elements": []
+    },
+    "has_rnd_investment_numbers": {
+      "value": false,
+      "elements": []
+    },
+    "has_new_product_launches": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_expenditures": {
+      "value": false,
+      "elements": []
+    },
+    "has_financial_performance_indicators": {
+      "value": false,
+      "elements": []
+    },
+    "has_dividend_policy_changes": {
+      "value": false,
+      "elements": []
+    },
+    "has_share_buyback_plans": {
+      "value": false,
+      "elements": []
+    },
+    "has_capital_structure_changes": {
+      "value": false,
+      "elements": []
+    },
+    "mentions_new_risk_factors": {
+      "value": false,
+      "elements": []
+    },
+    "has_guidance_updates": {
+      "value": false,
+      "elements": []
+    },
+    "has_regulatory_or_litigation_issues": {
+      "value": false,
+      "elements": []
+    },
+    "has_strategic_restructuring": {
+      "value": false,
+      "elements": []
+    },
+    "has_supply_chain_disruptions": {
+      "value": false,
+      "elements": []
+    },
+    "has_esg_initiatives": {
+      "value": false,
+      "elements": []
+    }
+  },
+  "currency": {
+    "USD": 25,
+    "AUD": 53,
+    "CNY": 44,
+    "RUB": 1
+  },
+  "sha1": "9e794a58e511f6a6a9a13b201d652deff9f9f69a"
+}

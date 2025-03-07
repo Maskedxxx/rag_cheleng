@@ -137,7 +137,7 @@ if __name__ == "__main__":
     # Пути к файлам
     metadata_path = 'results/selected_metadata.json'
     questions_path = 'data/questions.json'
-    output_path = 'result/companies_with_questions.json'
+    output_path = 'results/companies_with_questions.json'
 
     pipeline = MetadataQuestionsPipeline(metadata_path, questions_path, output_path)
     pipeline.run()

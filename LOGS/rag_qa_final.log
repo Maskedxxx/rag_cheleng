@@ -890,3 +890,880 @@
 2025-03-06 17:43:09,174 - INFO - Обработано вопросов: 113
 2025-03-06 17:43:09,174 - INFO - Обработка завершена! Всего обработано вопросов: 113
 2025-03-06 17:43:09,413 - INFO - Результаты сохранены в results/final_results.json
+2025-03-07 12:51:56,987 - INFO - Обработка компании: Kelly Partners Group Holdings Limited
+2025-03-07 12:51:56,989 - INFO - Найдено 0 элементов для категории leadership_change
+2025-03-07 12:51:56,989 - INFO - Отсутствуют метаданные для вопроса: Which leadership positions changed at Kelly Partne. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 12:51:56,989 - INFO - Обработка компании: Armadale Capital Plc
+2025-03-07 12:51:56,991 - INFO - Найдено 18 элементов для категории financial_performance
+2025-03-07 12:52:03,816 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:52:03,849 - INFO - Обработано вопросов: 2
+2025-03-07 12:52:03,849 - INFO - Обработка компании: Trinity Place Holdings Inc.
+2025-03-07 12:52:03,852 - INFO - Найдено 19 элементов для категории merger_acquisition
+2025-03-07 12:52:08,676 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:52:08,683 - INFO - Обработано вопросов: 3
+2025-03-07 12:52:08,683 - INFO - Обработка компании: Empire Company Limited
+2025-03-07 12:52:08,689 - INFO - Найдено 2 элементов для категории dividend_policy
+2025-03-07 12:52:12,581 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:52:12,585 - INFO - Обработано вопросов: 4
+2025-03-07 12:52:12,585 - INFO - Обработка компании: Crombie REIT
+2025-03-07 12:52:12,588 - INFO - Найдено 10 элементов для категории leadership_change
+2025-03-07 12:52:17,796 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:52:17,890 - INFO - Обработано вопросов: 5
+2025-03-07 12:52:17,928 - INFO - Обработка компании: Ziff Davis, Inc.
+2025-03-07 12:52:17,967 - INFO - Найдено 55 элементов для категории financial_performance
+2025-03-07 12:52:27,377 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:52:27,383 - INFO - Обработано вопросов: 6
+2025-03-07 12:52:27,384 - INFO - Обработка компании: Bionano Genomics, Inc.
+2025-03-07 12:52:27,396 - INFO - Найдено 41 элементов для категории merger_acquisition
+2025-03-07 12:52:33,858 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:52:33,871 - INFO - Обработано вопросов: 7
+2025-03-07 12:52:33,871 - INFO - Обработка компании: Mosaic Brands Limited
+2025-03-07 12:52:33,881 - INFO - Найдено 35 элементов для категории financial_performance
+2025-03-07 12:52:37,640 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:52:37,660 - INFO - Обработано вопросов: 8
+2025-03-07 12:52:37,661 - INFO - Найдено 15 элементов для категории merger_acquisition
+2025-03-07 12:52:41,802 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:52:41,808 - INFO - Обработано вопросов: 9
+2025-03-07 12:52:41,808 - INFO - Обработка компании: Duni Group
+2025-03-07 12:52:41,815 - INFO - Найдено 61 элементов для категории financial_performance
+2025-03-07 12:52:48,320 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:52:48,326 - INFO - Обработано вопросов: 10
+2025-03-07 12:52:48,327 - INFO - Найдено 61 элементов для категории financial_performance
+2025-03-07 12:52:56,911 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:52:56,918 - INFO - Обработано вопросов: 11
+2025-03-07 12:52:56,918 - INFO - Найдено 61 элементов для категории financial_performance
+2025-03-07 12:53:02,646 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:53:02,651 - INFO - Обработано вопросов: 12
+2025-03-07 12:53:02,652 - INFO - Найдено 61 элементов для категории financial_performance
+2025-03-07 12:53:11,663 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:53:11,668 - INFO - Обработано вопросов: 13
+2025-03-07 12:53:11,668 - INFO - Найдено 17 элементов для категории leadership_change
+2025-03-07 12:53:18,318 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:53:18,325 - INFO - Обработано вопросов: 14
+2025-03-07 12:53:18,326 - INFO - Обработка компании: Rapid7
+2025-03-07 12:53:18,337 - INFO - Найдено 55 элементов для категории financial_performance
+2025-03-07 12:53:23,337 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:53:23,342 - INFO - Обработано вопросов: 15
+2025-03-07 12:53:23,343 - INFO - Обработка компании: Ritchie Bros. Auctioneers Incorporated
+2025-03-07 12:53:23,365 - INFO - Найдено 3 элементов для категории dividend_policy
+2025-03-07 12:53:27,946 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:53:27,951 - INFO - Обработано вопросов: 16
+2025-03-07 12:53:27,952 - INFO - Найдено 11 элементов для категории regulatory_litigation
+2025-03-07 12:53:34,646 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:53:34,651 - INFO - Обработано вопросов: 17
+2025-03-07 12:53:34,651 - INFO - Найдено 54 элементов для категории financial_performance
+2025-03-07 12:53:40,165 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:53:40,196 - INFO - Обработано вопросов: 18
+2025-03-07 12:53:40,197 - INFO - Обработка компании: KP Tissue Inc.
+2025-03-07 12:53:40,201 - INFO - Найдено 1 элементов для категории layoff
+2025-03-07 12:53:44,209 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:53:44,213 - INFO - Обработано вопросов: 19
+2025-03-07 12:53:44,213 - INFO - Обработка компании: Downer EDI Limited
+2025-03-07 12:53:44,220 - INFO - Найдено 1 элементов для категории share_buyback
+2025-03-07 12:53:51,397 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:53:51,404 - INFO - Обработано вопросов: 20
+2025-03-07 12:53:51,404 - INFO - Найдено 0 элементов для категории layoff
+2025-03-07 12:53:51,404 - INFO - Отсутствуют метаданные для вопроса: What is the total number of employees let go by Do. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 12:53:51,404 - INFO - Обработка компании: Sonic Automotive, Inc.
+2025-03-07 12:53:51,413 - INFO - Найдено 66 элементов для категории financial_performance
+2025-03-07 12:53:57,452 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:53:57,454 - INFO - Обработано вопросов: 22
+2025-03-07 12:53:57,454 - INFO - Найдено 0 элементов для категории product_launch
+2025-03-07 12:53:57,455 - INFO - Отсутствуют метаданные для вопроса: For Sonic Automotive, Inc., what was the value of . Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 12:53:57,455 - INFO - Найдено 1 элементов для категории esg_initiative
+2025-03-07 12:54:02,145 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:54:02,149 - INFO - Обработано вопросов: 24
+2025-03-07 12:54:02,149 - INFO - Обработка компании: 1-800-FLOWERS.COM, INC.
+2025-03-07 12:54:02,151 - INFO - Найдено 42 элементов для категории financial_performance
+2025-03-07 12:54:07,022 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:54:07,031 - INFO - Обработано вопросов: 25
+2025-03-07 12:54:07,032 - INFO - Найдено 2 элементов для категории product_launch
+2025-03-07 12:54:12,336 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:54:12,340 - INFO - Обработано вопросов: 26
+2025-03-07 12:54:12,341 - INFO - Обработка компании: Terns Pharmaceuticals, Inc.
+2025-03-07 12:54:12,348 - INFO - Найдено 29 элементов для категории financial_performance
+2025-03-07 12:54:17,451 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:54:17,456 - INFO - Обработано вопросов: 27
+2025-03-07 12:54:17,457 - INFO - Найдено 29 элементов для категории financial_performance
+2025-03-07 12:54:24,483 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:54:24,490 - INFO - Обработано вопросов: 28
+2025-03-07 12:54:24,490 - INFO - Обработка компании: Rectifier Technologies Ltd
+2025-03-07 12:54:24,498 - INFO - Найдено 0 элементов для категории rnd_investment
+2025-03-07 12:54:24,499 - INFO - Отсутствуют метаданные для вопроса: For Rectifier Technologies Ltd, what was the value. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 12:54:24,499 - INFO - Обработка компании: Incyte Corporation
+2025-03-07 12:54:24,503 - INFO - Найдено 25 элементов для категории financial_performance
+2025-03-07 12:54:28,668 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:54:28,670 - INFO - Обработано вопросов: 30
+2025-03-07 12:54:28,671 - INFO - Найдено 25 элементов для категории financial_performance
+2025-03-07 12:54:32,371 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:54:32,382 - INFO - Обработано вопросов: 31
+2025-03-07 12:54:32,382 - INFO - Найдено 25 элементов для категории financial_performance
+2025-03-07 12:54:37,419 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:54:37,429 - INFO - Обработано вопросов: 32
+2025-03-07 12:54:37,429 - INFO - Найдено 25 элементов для категории financial_performance
+2025-03-07 12:54:42,352 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:54:42,382 - INFO - Обработано вопросов: 33
+2025-03-07 12:54:42,383 - INFO - Найдено 25 элементов для категории financial_performance
+2025-03-07 12:54:46,452 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:54:46,460 - INFO - Обработано вопросов: 34
+2025-03-07 12:54:46,481 - INFO - Найдено 25 элементов для категории financial_performance
+2025-03-07 12:54:53,433 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:54:53,441 - INFO - Обработано вопросов: 35
+2025-03-07 12:54:53,441 - INFO - Обработка компании: CoreCard Corporation
+2025-03-07 12:54:53,480 - INFO - Найдено 23 элементов для категории financial_performance
+2025-03-07 12:54:58,290 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:54:58,321 - INFO - Обработано вопросов: 36
+2025-03-07 12:54:58,326 - INFO - Обработка компании: Brave Bison Group plc
+2025-03-07 12:54:58,337 - INFO - Найдено 9 элементов для категории merger_acquisition
+2025-03-07 12:55:03,870 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:55:03,910 - INFO - Обработано вопросов: 37
+2025-03-07 12:55:03,915 - INFO - Обработка компании: Franklin Covey Co.
+2025-03-07 12:55:03,935 - INFO - Найдено 58 элементов для категории financial_performance
+2025-03-07 12:55:08,887 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:55:08,901 - INFO - Обработано вопросов: 38
+2025-03-07 12:55:08,901 - INFO - Найдено 5 элементов для категории esg_initiative
+2025-03-07 12:55:14,242 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:55:14,247 - INFO - Обработано вопросов: 39
+2025-03-07 12:55:14,247 - INFO - Найдено 58 элементов для категории financial_performance
+2025-03-07 12:55:19,849 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:55:19,853 - INFO - Обработано вопросов: 40
+2025-03-07 12:55:19,853 - INFO - Обработка компании: HCA Healthcare, Inc.
+2025-03-07 12:55:19,868 - INFO - Найдено 45 элементов для категории financial_performance
+2025-03-07 12:55:26,690 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:55:26,723 - INFO - Обработано вопросов: 41
+2025-03-07 12:55:26,728 - INFO - Найдено 45 элементов для категории financial_performance
+2025-03-07 12:55:31,645 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:55:31,650 - INFO - Обработано вопросов: 42
+2025-03-07 12:55:31,650 - INFO - Найдено 45 элементов для категории financial_performance
+2025-03-07 12:55:37,049 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:55:37,057 - INFO - Обработано вопросов: 43
+2025-03-07 12:55:37,057 - INFO - Найдено 2 элементов для категории dividend_policy
+2025-03-07 12:55:42,638 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:55:42,646 - INFO - Обработано вопросов: 44
+2025-03-07 12:55:42,647 - INFO - Обработка компании: NZME Limited
+2025-03-07 12:55:42,656 - INFO - Найдено 0 элементов для категории layoff
+2025-03-07 12:55:42,656 - INFO - Отсутствуют метаданные для вопроса: What is the total number of employees let go by NZ. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 12:55:42,656 - INFO - Обработка компании: RWE AG
+2025-03-07 12:55:42,667 - INFO - Найдено 122 элементов для категории financial_performance
+2025-03-07 12:55:49,725 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:55:49,753 - INFO - Обработано вопросов: 46
+2025-03-07 12:55:49,761 - INFO - Найдено 122 элементов для категории financial_performance
+2025-03-07 12:55:59,756 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:55:59,797 - INFO - Обработано вопросов: 47
+2025-03-07 12:55:59,797 - INFO - Найдено 122 элементов для категории financial_performance
+2025-03-07 12:56:07,628 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:56:07,669 - INFO - Обработано вопросов: 48
+2025-03-07 12:56:07,670 - INFO - Найдено 122 элементов для категории financial_performance
+2025-03-07 12:56:14,752 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:56:14,760 - INFO - Обработано вопросов: 49
+2025-03-07 12:56:14,760 - INFO - Обработка компании: INMUNE BIO INC.
+2025-03-07 12:56:14,771 - INFO - Найдено 14 элементов для категории financial_performance
+2025-03-07 12:56:20,247 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:56:20,268 - INFO - Обработано вопросов: 50
+2025-03-07 12:56:20,269 - INFO - Найдено 14 элементов для категории financial_performance
+2025-03-07 12:56:25,634 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:56:25,640 - INFO - Обработано вопросов: 51
+2025-03-07 12:56:25,640 - INFO - Найдено 14 элементов для категории financial_performance
+2025-03-07 12:56:30,499 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:56:30,519 - INFO - Обработано вопросов: 52
+2025-03-07 12:56:30,520 - INFO - Найдено 14 элементов для категории financial_performance
+2025-03-07 12:56:36,559 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:56:36,589 - INFO - Обработано вопросов: 53
+2025-03-07 12:56:36,590 - INFO - Найдено 1 элементов для категории capital_expenditure
+2025-03-07 12:56:42,674 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:56:42,693 - INFO - Обработано вопросов: 54
+2025-03-07 12:56:42,695 - INFO - Найдено 14 элементов для категории financial_performance
+2025-03-07 12:56:48,342 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:56:48,417 - INFO - Обработано вопросов: 55
+2025-03-07 12:56:48,419 - INFO - Обработка компании: SThree plc
+2025-03-07 12:56:48,454 - INFO - Найдено 0 элементов для категории layoff
+2025-03-07 12:56:48,454 - INFO - Отсутствуют метаданные для вопроса: For SThree plc, what was the value of End-of-year . Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 12:56:48,455 - INFO - Обработка компании: Incitec Pivot Limited
+2025-03-07 12:56:48,458 - INFO - Найдено 13 элементов для категории merger_acquisition
+2025-03-07 12:56:54,110 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:56:54,117 - INFO - Обработано вопросов: 57
+2025-03-07 12:56:54,118 - INFO - Найдено 0 элементов для категории dividend_policy
+2025-03-07 12:56:54,119 - INFO - Отсутствуют метаданные для вопроса: Did Incitec Pivot Limited announce any changes to . Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 12:56:54,119 - INFO - Найдено 0 элементов для категории strategic_restructuring
+2025-03-07 12:56:54,119 - INFO - Отсутствуют метаданные для вопроса: Did Incitec Pivot Limited detail any restructuring. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 12:56:54,119 - INFO - Обработка компании: Westwater Resources, Inc.
+2025-03-07 12:56:54,128 - INFO - Найдено 11 элементов для категории leadership_change
+2025-03-07 12:57:01,241 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:57:01,249 - INFO - Обработано вопросов: 60
+2025-03-07 12:57:01,249 - INFO - Найдено 3 элементов для категории esg_initiative
+2025-03-07 12:57:06,702 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:57:06,722 - INFO - Обработано вопросов: 61
+2025-03-07 12:57:06,722 - INFO - Обработка компании: Toshiba Corporation
+2025-03-07 12:57:06,727 - INFO - Найдено 1 элементов для категории executive_compensation
+2025-03-07 12:57:10,863 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:57:10,890 - INFO - Обработано вопросов: 62
+2025-03-07 12:57:10,890 - INFO - Обработка компании: BetMakers Technology Group Ltd
+2025-03-07 12:57:10,895 - INFO - Найдено 14 элементов для категории merger_acquisition
+2025-03-07 12:57:16,717 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:57:16,731 - INFO - Обработано вопросов: 63
+2025-03-07 12:57:16,731 - INFO - Обработка компании: MGM Resorts International
+2025-03-07 12:57:16,734 - INFO - Найдено 6 элементов для категории executive_compensation
+2025-03-07 12:57:21,625 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:57:21,629 - INFO - Обработано вопросов: 64
+2025-03-07 12:57:21,629 - INFO - Найдено 51 элементов для категории financial_performance
+2025-03-07 12:57:25,865 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:57:25,872 - INFO - Обработано вопросов: 65
+2025-03-07 12:57:25,873 - INFO - Обработка компании: Peako Limited
+2025-03-07 12:57:25,879 - INFO - Найдено 22 элементов для категории financial_performance
+2025-03-07 12:57:31,118 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:57:31,123 - INFO - Обработано вопросов: 66
+2025-03-07 12:57:31,123 - INFO - Найдено 22 элементов для категории financial_performance
+2025-03-07 12:57:35,533 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:57:35,538 - INFO - Обработано вопросов: 67
+2025-03-07 12:57:35,539 - INFO - Найдено 3 элементов для категории rnd_investment
+2025-03-07 12:57:40,407 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:57:40,413 - INFO - Обработано вопросов: 68
+2025-03-07 12:57:40,413 - INFO - Обработка компании: Poste Italiane
+2025-03-07 12:57:40,440 - INFO - Найдено 5 элементов для категории dividend_policy
+2025-03-07 12:57:43,454 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:57:43,456 - INFO - Обработано вопросов: 69
+2025-03-07 12:57:43,457 - INFO - Найдено 405 элементов для категории financial_performance
+2025-03-07 12:57:59,632 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:57:59,639 - INFO - Обработано вопросов: 70
+2025-03-07 12:57:59,642 - INFO - Найдено 405 элементов для категории financial_performance
+2025-03-07 12:58:16,686 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:58:16,693 - INFO - Обработано вопросов: 71
+2025-03-07 12:58:16,694 - INFO - Найдено 405 элементов для категории financial_performance
+2025-03-07 12:58:34,258 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:58:34,270 - INFO - Обработано вопросов: 72
+2025-03-07 12:58:34,284 - INFO - Найдено 405 элементов для категории financial_performance
+2025-03-07 12:58:51,119 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:58:51,127 - INFO - Обработано вопросов: 73
+2025-03-07 12:58:51,127 - INFO - Обработка компании: AA Limited
+2025-03-07 12:58:51,170 - INFO - Найдено 0 элементов для категории product_launch
+2025-03-07 12:58:51,170 - INFO - Отсутствуют метаданные для вопроса: Did AA Limited announce any new product launches i. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 12:58:51,171 - INFO - Найдено 39 элементов для категории financial_performance
+2025-03-07 12:58:55,564 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:58:55,569 - INFO - Обработано вопросов: 75
+2025-03-07 12:58:55,569 - INFO - Найдено 11 элементов для категории capital_structure
+2025-03-07 12:59:01,659 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:59:01,665 - INFO - Обработано вопросов: 76
+2025-03-07 12:59:01,666 - INFO - Найдено 39 элементов для категории financial_performance
+2025-03-07 12:59:07,683 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:59:07,699 - INFO - Обработано вопросов: 77
+2025-03-07 12:59:07,699 - INFO - Обработка компании: Datalogic
+2025-03-07 12:59:07,712 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 12:59:13,850 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:59:13,855 - INFO - Обработано вопросов: 78
+2025-03-07 12:59:13,855 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 12:59:19,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:59:20,005 - INFO - Обработано вопросов: 79
+2025-03-07 12:59:20,005 - INFO - Найдено 17 элементов для категории leadership_change
+2025-03-07 12:59:27,169 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:59:27,179 - INFO - Обработано вопросов: 80
+2025-03-07 12:59:27,181 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 12:59:34,477 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:59:34,486 - INFO - Обработано вопросов: 81
+2025-03-07 12:59:34,486 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 12:59:41,681 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:59:41,686 - INFO - Обработано вопросов: 82
+2025-03-07 12:59:41,687 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 12:59:51,637 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:59:51,644 - INFO - Обработано вопросов: 83
+2025-03-07 12:59:51,645 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 12:59:58,490 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 12:59:58,497 - INFO - Обработано вопросов: 84
+2025-03-07 12:59:58,499 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 13:00:07,098 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:00:07,103 - INFO - Обработано вопросов: 85
+2025-03-07 13:00:07,105 - INFO - Обработка компании: Wheeler Real Estate Investment Trust, Inc.
+2025-03-07 13:00:07,134 - INFO - Найдено 28 элементов для категории financial_performance
+2025-03-07 13:00:16,867 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:00:16,875 - INFO - Обработано вопросов: 86
+2025-03-07 13:00:16,876 - INFO - Найдено 12 элементов для категории capital_structure
+2025-03-07 13:00:25,927 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:00:25,936 - INFO - Обработано вопросов: 87
+2025-03-07 13:00:25,936 - INFO - Найдено 7 элементов для категории leadership_change
+2025-03-07 13:00:32,198 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:00:32,203 - INFO - Обработано вопросов: 88
+2025-03-07 13:00:32,203 - INFO - Обработка компании: NuCana plc
+2025-03-07 13:00:32,219 - INFO - Найдено 27 элементов для категории financial_performance
+2025-03-07 13:00:36,803 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:00:36,809 - INFO - Обработано вопросов: 89
+2025-03-07 13:00:36,810 - INFO - Найдено 27 элементов для категории financial_performance
+2025-03-07 13:00:42,505 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:00:42,510 - INFO - Обработано вопросов: 90
+2025-03-07 13:00:42,510 - INFO - Найдено 27 элементов для категории financial_performance
+2025-03-07 13:00:49,083 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:00:49,089 - INFO - Обработано вопросов: 91
+2025-03-07 13:00:49,089 - INFO - Найдено 27 элементов для категории financial_performance
+2025-03-07 13:01:06,102 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:01:06,113 - INFO - Обработано вопросов: 92
+2025-03-07 13:01:06,114 - INFO - Обработка компании: Elixir Energy Limited
+2025-03-07 13:01:06,130 - INFO - Найдено 17 элементов для категории financial_performance
+2025-03-07 13:01:26,263 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:01:26,271 - INFO - Обработано вопросов: 93
+2025-03-07 13:01:26,271 - INFO - Найдено 2 элементов для категории esg_initiative
+2025-03-07 13:01:30,578 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:01:30,580 - INFO - Обработано вопросов: 94
+2025-03-07 13:01:30,581 - INFO - Обработка компании: Aurora Innovation, Inc.
+2025-03-07 13:01:30,588 - INFO - Найдено 0 элементов для категории rnd_investment
+2025-03-07 13:01:30,589 - INFO - Отсутствуют метаданные для вопроса: For Aurora Innovation, Inc., what was the value of. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:01:30,589 - INFO - Обработка компании: Origin Bancorp, Inc.
+2025-03-07 13:01:30,603 - INFO - Найдено 81 элементов для категории financial_performance
+2025-03-07 13:01:36,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:01:36,983 - INFO - Обработано вопросов: 96
+2025-03-07 13:01:36,983 - INFO - Найдено 29 элементов для категории leadership_change
+2025-03-07 13:01:43,281 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:01:43,286 - INFO - Обработано вопросов: 97
+2025-03-07 13:01:43,287 - INFO - Обработка компании: ACRES Commercial Realty Corp.
+2025-03-07 13:01:43,289 - WARNING - Файл метаданных для SHA1 0279901b645e568591ad95dac2c2bf939ef0c00d не найден
+2025-03-07 13:01:43,289 - INFO - Обработка компании: SIG plc
+2025-03-07 13:01:43,300 - INFO - Найдено 71 элементов для категории financial_performance
+2025-03-07 13:01:48,372 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:01:48,376 - INFO - Обработано вопросов: 98
+2025-03-07 13:01:48,376 - INFO - Найдено 40 элементов для категории merger_acquisition
+2025-03-07 13:02:01,995 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:02:01,998 - INFO - Обработано вопросов: 99
+2025-03-07 13:02:01,998 - INFO - Обработка компании: Medallion Financial Corp.
+2025-03-07 13:02:02,001 - INFO - Найдено 48 элементов для категории financial_performance
+2025-03-07 13:02:27,524 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:02:27,530 - INFO - Обработано вопросов: 100
+2025-03-07 13:02:27,531 - INFO - Обработка компании: archTIS Limited
+2025-03-07 13:02:27,548 - INFO - Найдено 16 элементов для категории executive_compensation
+2025-03-07 13:02:37,684 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:02:37,694 - INFO - Обработано вопросов: 101
+2025-03-07 13:02:37,695 - INFO - Найдено 39 элементов для категории financial_performance
+2025-03-07 13:02:49,045 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:02:49,051 - INFO - Обработано вопросов: 102
+2025-03-07 13:02:49,051 - INFO - Найдено 0 элементов для категории layoff
+2025-03-07 13:02:49,051 - INFO - Отсутствуют метаданные для вопроса: What was the value of End-of-year tech staff headc. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:02:49,051 - INFO - Обработка компании: Liberty Broadband Corporation
+2025-03-07 13:02:49,053 - WARNING - Файл метаданных для SHA1 446545ae548543d8744f8d885ff75face3424ba4 не найден
+2025-03-07 13:02:49,053 - INFO - Обработка компании: Playtech plc
+2025-03-07 13:02:49,068 - INFO - Найдено 75 элементов для категории financial_performance
+2025-03-07 13:02:55,436 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:02:55,441 - INFO - Обработано вопросов: 104
+2025-03-07 13:02:55,442 - INFO - Найдено 75 элементов для категории financial_performance
+2025-03-07 13:03:03,020 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:03:03,027 - INFO - Обработано вопросов: 105
+2025-03-07 13:03:03,028 - INFO - Обработка компании: Atreca, Inc.
+2025-03-07 13:03:03,055 - INFO - Найдено 31 элементов для категории financial_performance
+2025-03-07 13:03:08,051 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:03:08,072 - INFO - Обработано вопросов: 106
+2025-03-07 13:03:08,075 - INFO - Найдено 31 элементов для категории financial_performance
+2025-03-07 13:03:13,409 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:03:13,422 - INFO - Обработано вопросов: 107
+2025-03-07 13:03:13,423 - INFO - Найдено 31 элементов для категории financial_performance
+2025-03-07 13:03:22,571 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:03:22,601 - INFO - Обработано вопросов: 108
+2025-03-07 13:03:22,603 - INFO - Найдено 31 элементов для категории financial_performance
+2025-03-07 13:03:29,741 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:03:29,785 - INFO - Обработано вопросов: 109
+2025-03-07 13:03:29,789 - INFO - Найдено 31 элементов для категории financial_performance
+2025-03-07 13:03:35,423 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:03:35,442 - INFO - Обработано вопросов: 110
+2025-03-07 13:03:35,442 - INFO - Найдено 31 элементов для категории financial_performance
+2025-03-07 13:03:39,243 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:03:39,248 - INFO - Обработано вопросов: 111
+2025-03-07 13:03:39,248 - INFO - Обработка компании: Kiniksa Pharmaceuticals, Ltd.
+2025-03-07 13:03:39,261 - INFO - Найдено 42 элементов для категории financial_performance
+2025-03-07 13:03:45,921 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:03:45,949 - INFO - Обработано вопросов: 112
+2025-03-07 13:03:45,950 - INFO - Найдено 42 элементов для категории financial_performance
+2025-03-07 13:03:52,840 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:03:52,856 - INFO - Обработано вопросов: 113
+2025-03-07 13:03:52,857 - INFO - Найдено 18 элементов для категории executive_compensation
+2025-03-07 13:03:56,678 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:03:56,686 - INFO - Обработано вопросов: 114
+2025-03-07 13:03:56,687 - INFO - Обработка компании: James Halstead plc
+2025-03-07 13:03:56,711 - INFO - Найдено 43 элементов для категории financial_performance
+2025-03-07 13:04:03,729 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:04:03,734 - INFO - Обработано вопросов: 115
+2025-03-07 13:04:03,734 - INFO - Обработка компании: Blue Apron Holdings, Inc.
+2025-03-07 13:04:03,747 - INFO - Найдено 16 элементов для категории leadership_change
+2025-03-07 13:04:10,702 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:04:10,816 - INFO - Обработано вопросов: 116
+2025-03-07 13:04:10,816 - INFO - Обработка компании: Commerzbank
+2025-03-07 13:04:10,952 - INFO - Найдено 6 элементов для категории layoff
+2025-03-07 13:04:18,419 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:04:18,451 - INFO - Обработано вопросов: 117
+2025-03-07 13:04:18,452 - INFO - Обработка компании: Structural Monitoring Systems Plc
+2025-03-07 13:04:18,468 - INFO - Найдено 2 элементов для категории capital_expenditure
+2025-03-07 13:04:24,865 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:04:24,879 - INFO - Обработано вопросов: 118
+2025-03-07 13:04:24,879 - INFO - Обработка компании: Pintec Technology Holdings Limited
+2025-03-07 13:04:24,880 - WARNING - Файл метаданных для SHA1 9e794a58e511f6a6a9a13b201d652deff9f9f69a не найден
+2025-03-07 13:04:24,880 - INFO - Обработка компании: Ocugen, Inc.
+2025-03-07 13:04:24,889 - INFO - Найдено 39 элементов для категории executive_compensation
+2025-03-07 13:04:29,575 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:04:29,583 - INFO - Обработано вопросов: 119
+2025-03-07 13:04:29,583 - INFO - Обработка компании: Seiko Epson Corporation
+2025-03-07 13:04:29,593 - INFO - Найдено 8 элементов для категории dividend_policy
+2025-03-07 13:04:35,751 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:04:35,771 - INFO - Обработано вопросов: 120
+2025-03-07 13:04:35,772 - INFO - Обработка компании: Guaranty Bancshares, Inc.
+2025-03-07 13:04:35,776 - INFO - Найдено 0 элементов для категории product_launch
+2025-03-07 13:04:35,776 - INFO - Отсутствуют метаданные для вопроса: Did Guaranty Bancshares, Inc. announce any new pro. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:04:35,776 - INFO - Обработка компании: Albany International Corp.
+2025-03-07 13:04:35,779 - INFO - Найдено 0 элементов для категории product_launch
+2025-03-07 13:04:35,780 - INFO - Отсутствуют метаданные для вопроса: What are the names of new products launched by Alb. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:04:35,780 - INFO - Найдено 1 элементов для категории rnd_investment
+2025-03-07 13:04:43,921 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:04:43,928 - INFO - Обработано вопросов: 123
+2025-03-07 13:04:43,929 - INFO - Найдено 1 элементов для категории rnd_investment
+2025-03-07 13:04:47,248 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:04:47,252 - INFO - Обработано вопросов: 124
+2025-03-07 13:04:47,252 - INFO - Обработка компании: FNCB Bancorp, Inc.
+2025-03-07 13:04:47,260 - INFO - Найдено 67 элементов для категории financial_performance
+2025-03-07 13:04:55,241 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:04:55,244 - INFO - Обработано вопросов: 125
+2025-03-07 13:04:55,245 - INFO - Найдено 67 элементов для категории financial_performance
+2025-03-07 13:05:01,585 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:05:01,590 - INFO - Обработано вопросов: 126
+2025-03-07 13:05:01,591 - INFO - Обработка компании: Aptevo Therapeutics Inc.
+2025-03-07 13:05:01,597 - INFO - Найдено 23 элементов для категории merger_acquisition
+2025-03-07 13:05:07,646 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:05:07,655 - INFO - Обработано вопросов: 127
+2025-03-07 13:05:07,655 - INFO - Обработка компании: MainStreet Bancshares, Inc.
+2025-03-07 13:05:07,661 - INFO - Найдено 5 элементов для категории executive_compensation
+2025-03-07 13:05:11,928 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:05:11,931 - INFO - Обработано вопросов: 128
+2025-03-07 13:05:11,931 - INFO - Обработка завершена! Всего обработано вопросов: 128
+2025-03-07 13:05:12,155 - INFO - Результаты сохранены в results/final_results.json
+2025-03-07 13:12:21,079 - INFO - Обработка компании: Kelly Partners Group Holdings Limited
+2025-03-07 13:12:21,080 - INFO - Найдено 0 элементов для категории leadership_change
+2025-03-07 13:12:21,080 - INFO - Отсутствуют метаданные для вопроса: Which leadership positions changed at Kelly Partne. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:12:21,080 - INFO - Обработка компании: Armadale Capital Plc
+2025-03-07 13:12:21,081 - INFO - Найдено 18 элементов для категории financial_performance
+2025-03-07 13:12:28,119 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:12:28,182 - INFO - Обработано вопросов: 2
+2025-03-07 13:12:28,183 - INFO - Обработка компании: Trinity Place Holdings Inc.
+2025-03-07 13:12:28,187 - INFO - Найдено 19 элементов для категории merger_acquisition
+2025-03-07 13:12:31,852 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:12:31,892 - INFO - Обработано вопросов: 3
+2025-03-07 13:12:31,892 - INFO - Обработка компании: Empire Company Limited
+2025-03-07 13:12:31,896 - INFO - Найдено 2 элементов для категории dividend_policy
+2025-03-07 13:12:35,751 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:12:35,758 - INFO - Обработано вопросов: 4
+2025-03-07 13:12:35,758 - INFO - Обработка компании: Crombie REIT
+2025-03-07 13:12:35,767 - INFO - Найдено 10 элементов для категории leadership_change
+2025-03-07 13:12:39,780 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:12:39,808 - INFO - Обработано вопросов: 5
+2025-03-07 13:12:39,809 - INFO - Обработка компании: Ziff Davis, Inc.
+2025-03-07 13:12:39,818 - INFO - Найдено 55 элементов для категории financial_performance
+2025-03-07 13:12:44,674 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:12:44,681 - INFO - Обработано вопросов: 6
+2025-03-07 13:12:44,681 - INFO - Обработка компании: Bionano Genomics, Inc.
+2025-03-07 13:12:44,710 - INFO - Найдено 41 элементов для категории merger_acquisition
+2025-03-07 13:12:50,492 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:12:50,511 - INFO - Обработано вопросов: 7
+2025-03-07 13:12:50,513 - INFO - Обработка компании: Mosaic Brands Limited
+2025-03-07 13:12:50,534 - INFO - Найдено 35 элементов для категории financial_performance
+2025-03-07 13:12:54,058 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:12:54,063 - INFO - Обработано вопросов: 8
+2025-03-07 13:12:54,063 - INFO - Найдено 15 элементов для категории merger_acquisition
+2025-03-07 13:12:57,583 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:12:57,586 - INFO - Обработано вопросов: 9
+2025-03-07 13:12:57,586 - INFO - Обработка компании: Duni Group
+2025-03-07 13:12:57,596 - INFO - Найдено 61 элементов для категории financial_performance
+2025-03-07 13:13:03,766 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:13:03,773 - INFO - Обработано вопросов: 10
+2025-03-07 13:13:03,773 - INFO - Найдено 61 элементов для категории financial_performance
+2025-03-07 13:13:08,192 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:13:08,200 - INFO - Обработано вопросов: 11
+2025-03-07 13:13:08,200 - INFO - Найдено 61 элементов для категории financial_performance
+2025-03-07 13:13:11,987 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:13:11,994 - INFO - Обработано вопросов: 12
+2025-03-07 13:13:11,994 - INFO - Найдено 61 элементов для категории financial_performance
+2025-03-07 13:13:17,015 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:13:17,021 - INFO - Обработано вопросов: 13
+2025-03-07 13:13:17,022 - INFO - Найдено 17 элементов для категории leadership_change
+2025-03-07 13:13:25,813 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:13:25,821 - INFO - Обработано вопросов: 14
+2025-03-07 13:13:25,821 - INFO - Обработка компании: Rapid7
+2025-03-07 13:13:25,830 - INFO - Найдено 55 элементов для категории financial_performance
+2025-03-07 13:13:30,461 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:13:30,468 - INFO - Обработано вопросов: 15
+2025-03-07 13:13:30,468 - INFO - Обработка компании: Ritchie Bros. Auctioneers Incorporated
+2025-03-07 13:13:30,478 - INFO - Найдено 3 элементов для категории dividend_policy
+2025-03-07 13:13:35,334 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:13:35,339 - INFO - Обработано вопросов: 16
+2025-03-07 13:13:35,339 - INFO - Найдено 11 элементов для категории regulatory_litigation
+2025-03-07 13:13:39,115 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:13:39,119 - INFO - Обработано вопросов: 17
+2025-03-07 13:13:39,119 - INFO - Найдено 54 элементов для категории financial_performance
+2025-03-07 13:13:45,443 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:13:45,450 - INFO - Обработано вопросов: 18
+2025-03-07 13:13:45,450 - INFO - Обработка компании: KP Tissue Inc.
+2025-03-07 13:13:45,457 - INFO - Найдено 1 элементов для категории layoff
+2025-03-07 13:13:49,253 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:13:49,257 - INFO - Обработано вопросов: 19
+2025-03-07 13:13:49,257 - INFO - Обработка компании: Downer EDI Limited
+2025-03-07 13:13:49,265 - INFO - Найдено 1 элементов для категории share_buyback
+2025-03-07 13:13:53,516 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:13:53,519 - INFO - Обработано вопросов: 20
+2025-03-07 13:13:53,519 - INFO - Найдено 0 элементов для категории layoff
+2025-03-07 13:13:53,519 - INFO - Отсутствуют метаданные для вопроса: What is the total number of employees let go by Do. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:13:53,520 - INFO - Обработка компании: Sonic Automotive, Inc.
+2025-03-07 13:13:53,526 - INFO - Найдено 66 элементов для категории financial_performance
+2025-03-07 13:13:58,372 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:13:58,378 - INFO - Обработано вопросов: 22
+2025-03-07 13:13:58,379 - INFO - Найдено 0 элементов для категории product_launch
+2025-03-07 13:13:58,379 - INFO - Отсутствуют метаданные для вопроса: For Sonic Automotive, Inc., what was the value of . Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:13:58,380 - INFO - Найдено 1 элементов для категории esg_initiative
+2025-03-07 13:14:02,151 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:02,156 - INFO - Обработано вопросов: 24
+2025-03-07 13:14:02,156 - INFO - Обработка компании: 1-800-FLOWERS.COM, INC.
+2025-03-07 13:14:02,162 - INFO - Найдено 42 элементов для категории financial_performance
+2025-03-07 13:14:06,578 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:06,581 - INFO - Обработано вопросов: 25
+2025-03-07 13:14:06,581 - INFO - Найдено 2 элементов для категории product_launch
+2025-03-07 13:14:10,567 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:10,576 - INFO - Обработано вопросов: 26
+2025-03-07 13:14:10,577 - INFO - Обработка компании: Terns Pharmaceuticals, Inc.
+2025-03-07 13:14:10,585 - INFO - Найдено 29 элементов для категории financial_performance
+2025-03-07 13:14:16,357 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:16,372 - INFO - Обработано вопросов: 27
+2025-03-07 13:14:16,372 - INFO - Найдено 29 элементов для категории financial_performance
+2025-03-07 13:14:20,274 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:20,279 - INFO - Обработано вопросов: 28
+2025-03-07 13:14:20,279 - INFO - Обработка компании: Rectifier Technologies Ltd
+2025-03-07 13:14:20,283 - INFO - Найдено 0 элементов для категории rnd_investment
+2025-03-07 13:14:20,283 - INFO - Отсутствуют метаданные для вопроса: For Rectifier Technologies Ltd, what was the value. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:14:20,284 - INFO - Обработка компании: Incyte Corporation
+2025-03-07 13:14:20,286 - INFO - Найдено 25 элементов для категории financial_performance
+2025-03-07 13:14:25,279 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:25,286 - INFO - Обработано вопросов: 30
+2025-03-07 13:14:25,286 - INFO - Найдено 25 элементов для категории financial_performance
+2025-03-07 13:14:28,553 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:28,557 - INFO - Обработано вопросов: 31
+2025-03-07 13:14:28,558 - INFO - Найдено 25 элементов для категории financial_performance
+2025-03-07 13:14:33,226 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:33,229 - INFO - Обработано вопросов: 32
+2025-03-07 13:14:33,229 - INFO - Найдено 25 элементов для категории financial_performance
+2025-03-07 13:14:36,770 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:36,776 - INFO - Обработано вопросов: 33
+2025-03-07 13:14:36,777 - INFO - Найдено 25 элементов для категории financial_performance
+2025-03-07 13:14:41,175 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:41,187 - INFO - Обработано вопросов: 34
+2025-03-07 13:14:41,187 - INFO - Найдено 25 элементов для категории financial_performance
+2025-03-07 13:14:45,063 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:45,068 - INFO - Обработано вопросов: 35
+2025-03-07 13:14:45,068 - INFO - Обработка компании: CoreCard Corporation
+2025-03-07 13:14:45,075 - INFO - Найдено 23 элементов для категории financial_performance
+2025-03-07 13:14:49,205 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:49,209 - INFO - Обработано вопросов: 36
+2025-03-07 13:14:49,209 - INFO - Обработка компании: Brave Bison Group plc
+2025-03-07 13:14:49,213 - INFO - Найдено 9 элементов для категории merger_acquisition
+2025-03-07 13:14:53,036 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:53,043 - INFO - Обработано вопросов: 37
+2025-03-07 13:14:53,043 - INFO - Обработка компании: Franklin Covey Co.
+2025-03-07 13:14:53,052 - INFO - Найдено 58 элементов для категории financial_performance
+2025-03-07 13:14:58,858 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:14:58,865 - INFO - Обработано вопросов: 38
+2025-03-07 13:14:58,865 - INFO - Найдено 5 элементов для категории esg_initiative
+2025-03-07 13:15:04,008 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:15:04,015 - INFO - Обработано вопросов: 39
+2025-03-07 13:15:04,017 - INFO - Найдено 58 элементов для категории financial_performance
+2025-03-07 13:15:08,242 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:15:08,260 - INFO - Обработано вопросов: 40
+2025-03-07 13:15:08,261 - INFO - Обработка компании: HCA Healthcare, Inc.
+2025-03-07 13:15:08,281 - INFO - Найдено 45 элементов для категории financial_performance
+2025-03-07 13:15:12,992 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:15:12,996 - INFO - Обработано вопросов: 41
+2025-03-07 13:15:12,997 - INFO - Найдено 45 элементов для категории financial_performance
+2025-03-07 13:15:17,406 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:15:17,414 - INFO - Обработано вопросов: 42
+2025-03-07 13:15:17,415 - INFO - Найдено 45 элементов для категории financial_performance
+2025-03-07 13:15:22,262 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:15:22,266 - INFO - Обработано вопросов: 43
+2025-03-07 13:15:22,266 - INFO - Найдено 2 элементов для категории dividend_policy
+2025-03-07 13:15:25,182 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:15:25,186 - INFO - Обработано вопросов: 44
+2025-03-07 13:15:25,186 - INFO - Обработка компании: NZME Limited
+2025-03-07 13:15:25,194 - INFO - Найдено 0 элементов для категории layoff
+2025-03-07 13:15:25,194 - INFO - Отсутствуют метаданные для вопроса: What is the total number of employees let go by NZ. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:15:25,194 - INFO - Обработка компании: RWE AG
+2025-03-07 13:15:25,202 - INFO - Найдено 122 элементов для категории financial_performance
+2025-03-07 13:15:32,272 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:15:32,281 - INFO - Обработано вопросов: 46
+2025-03-07 13:15:32,281 - INFO - Найдено 122 элементов для категории financial_performance
+2025-03-07 13:15:40,545 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:15:40,562 - INFO - Обработано вопросов: 47
+2025-03-07 13:15:40,563 - INFO - Найдено 122 элементов для категории financial_performance
+2025-03-07 13:15:51,741 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:15:51,749 - INFO - Обработано вопросов: 48
+2025-03-07 13:15:51,750 - INFO - Найдено 122 элементов для категории financial_performance
+2025-03-07 13:16:00,289 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:16:00,298 - INFO - Обработано вопросов: 49
+2025-03-07 13:16:00,298 - INFO - Обработка компании: INMUNE BIO INC.
+2025-03-07 13:16:00,305 - INFO - Найдено 14 элементов для категории financial_performance
+2025-03-07 13:16:06,441 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:16:06,448 - INFO - Обработано вопросов: 50
+2025-03-07 13:16:06,448 - INFO - Найдено 14 элементов для категории financial_performance
+2025-03-07 13:16:10,972 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:16:10,986 - INFO - Обработано вопросов: 51
+2025-03-07 13:16:10,987 - INFO - Найдено 14 элементов для категории financial_performance
+2025-03-07 13:16:16,668 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:16:16,674 - INFO - Обработано вопросов: 52
+2025-03-07 13:16:16,675 - INFO - Найдено 14 элементов для категории financial_performance
+2025-03-07 13:16:22,508 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:16:22,524 - INFO - Обработано вопросов: 53
+2025-03-07 13:16:22,525 - INFO - Найдено 1 элементов для категории capital_expenditure
+2025-03-07 13:16:26,210 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:16:26,214 - INFO - Обработано вопросов: 54
+2025-03-07 13:16:26,215 - INFO - Найдено 14 элементов для категории financial_performance
+2025-03-07 13:16:30,920 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:16:30,925 - INFO - Обработано вопросов: 55
+2025-03-07 13:16:30,926 - INFO - Обработка компании: SThree plc
+2025-03-07 13:16:30,936 - INFO - Найдено 0 элементов для категории layoff
+2025-03-07 13:16:30,936 - INFO - Отсутствуют метаданные для вопроса: For SThree plc, what was the value of End-of-year . Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:16:30,936 - INFO - Обработка компании: Incitec Pivot Limited
+2025-03-07 13:16:30,942 - INFO - Найдено 13 элементов для категории merger_acquisition
+2025-03-07 13:16:37,171 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:16:37,178 - INFO - Обработано вопросов: 57
+2025-03-07 13:16:37,179 - INFO - Найдено 0 элементов для категории dividend_policy
+2025-03-07 13:16:37,179 - INFO - Отсутствуют метаданные для вопроса: Did Incitec Pivot Limited announce any changes to . Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:16:37,179 - INFO - Найдено 0 элементов для категории strategic_restructuring
+2025-03-07 13:16:37,179 - INFO - Отсутствуют метаданные для вопроса: Did Incitec Pivot Limited detail any restructuring. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:16:37,179 - INFO - Обработка компании: Westwater Resources, Inc.
+2025-03-07 13:16:37,187 - INFO - Найдено 11 элементов для категории leadership_change
+2025-03-07 13:16:41,926 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:16:41,933 - INFO - Обработано вопросов: 60
+2025-03-07 13:16:41,933 - INFO - Найдено 3 элементов для категории esg_initiative
+2025-03-07 13:16:46,098 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:16:46,100 - INFO - Обработано вопросов: 61
+2025-03-07 13:16:46,100 - INFO - Обработка компании: Toshiba Corporation
+2025-03-07 13:16:46,104 - INFO - Найдено 1 элементов для категории executive_compensation
+2025-03-07 13:16:50,423 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:16:50,427 - INFO - Обработано вопросов: 62
+2025-03-07 13:16:50,427 - INFO - Обработка компании: BetMakers Technology Group Ltd
+2025-03-07 13:16:50,431 - INFO - Найдено 14 элементов для категории merger_acquisition
+2025-03-07 13:16:54,758 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:16:54,766 - INFO - Обработано вопросов: 63
+2025-03-07 13:16:54,766 - INFO - Обработка компании: MGM Resorts International
+2025-03-07 13:16:54,776 - INFO - Найдено 6 элементов для категории executive_compensation
+2025-03-07 13:17:00,004 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:17:00,010 - INFO - Обработано вопросов: 64
+2025-03-07 13:17:00,011 - INFO - Найдено 51 элементов для категории financial_performance
+2025-03-07 13:17:03,933 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:17:03,940 - INFO - Обработано вопросов: 65
+2025-03-07 13:17:03,941 - INFO - Обработка компании: Peako Limited
+2025-03-07 13:17:03,948 - INFO - Найдено 22 элементов для категории financial_performance
+2025-03-07 13:17:08,797 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:17:08,803 - INFO - Обработано вопросов: 66
+2025-03-07 13:17:08,803 - INFO - Найдено 22 элементов для категории financial_performance
+2025-03-07 13:17:15,960 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:17:15,965 - INFO - Обработано вопросов: 67
+2025-03-07 13:17:15,965 - INFO - Найдено 3 элементов для категории rnd_investment
+2025-03-07 13:17:21,323 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:17:21,328 - INFO - Обработано вопросов: 68
+2025-03-07 13:17:21,328 - INFO - Обработка компании: Poste Italiane
+2025-03-07 13:17:21,351 - INFO - Найдено 5 элементов для категории dividend_policy
+2025-03-07 13:17:24,430 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:17:24,435 - INFO - Обработано вопросов: 69
+2025-03-07 13:17:24,437 - INFO - Найдено 405 элементов для категории financial_performance
+2025-03-07 13:17:41,837 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:17:41,852 - INFO - Обработано вопросов: 70
+2025-03-07 13:17:41,854 - INFO - Найдено 405 элементов для категории financial_performance
+2025-03-07 13:17:56,952 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:17:56,960 - INFO - Обработано вопросов: 71
+2025-03-07 13:17:56,963 - INFO - Найдено 405 элементов для категории financial_performance
+2025-03-07 13:18:13,395 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:18:13,406 - INFO - Обработано вопросов: 72
+2025-03-07 13:18:13,409 - INFO - Найдено 405 элементов для категории financial_performance
+2025-03-07 13:18:29,926 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:18:29,933 - INFO - Обработано вопросов: 73
+2025-03-07 13:18:29,933 - INFO - Обработка компании: AA Limited
+2025-03-07 13:18:29,964 - INFO - Найдено 0 элементов для категории product_launch
+2025-03-07 13:18:29,964 - INFO - Отсутствуют метаданные для вопроса: Did AA Limited announce any new product launches i. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:18:29,964 - INFO - Найдено 39 элементов для категории financial_performance
+2025-03-07 13:18:33,861 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:18:33,865 - INFO - Обработано вопросов: 75
+2025-03-07 13:18:33,865 - INFO - Найдено 11 элементов для категории capital_structure
+2025-03-07 13:18:39,188 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:18:39,219 - INFO - Обработано вопросов: 76
+2025-03-07 13:18:39,223 - INFO - Найдено 39 элементов для категории financial_performance
+2025-03-07 13:18:43,635 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:18:43,641 - INFO - Обработано вопросов: 77
+2025-03-07 13:18:43,641 - INFO - Обработка компании: Datalogic
+2025-03-07 13:18:43,665 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 13:18:51,083 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:18:51,091 - INFO - Обработано вопросов: 78
+2025-03-07 13:18:51,092 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 13:18:58,330 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:18:58,337 - INFO - Обработано вопросов: 79
+2025-03-07 13:18:58,338 - INFO - Найдено 17 элементов для категории leadership_change
+2025-03-07 13:19:02,070 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:19:02,078 - INFO - Обработано вопросов: 80
+2025-03-07 13:19:02,079 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 13:19:07,552 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:19:07,556 - INFO - Обработано вопросов: 81
+2025-03-07 13:19:07,557 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 13:19:14,903 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:19:14,910 - INFO - Обработано вопросов: 82
+2025-03-07 13:19:14,912 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 13:19:21,861 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:19:21,868 - INFO - Обработано вопросов: 83
+2025-03-07 13:19:21,869 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 13:19:30,138 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:19:30,144 - INFO - Обработано вопросов: 84
+2025-03-07 13:19:30,145 - INFO - Найдено 135 элементов для категории financial_performance
+2025-03-07 13:19:37,343 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:19:37,352 - INFO - Обработано вопросов: 85
+2025-03-07 13:19:37,353 - INFO - Обработка компании: Wheeler Real Estate Investment Trust, Inc.
+2025-03-07 13:19:37,361 - INFO - Найдено 28 элементов для категории financial_performance
+2025-03-07 13:19:42,239 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:19:42,264 - INFO - Обработано вопросов: 86
+2025-03-07 13:19:42,264 - INFO - Найдено 12 элементов для категории capital_structure
+2025-03-07 13:19:46,307 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:19:46,312 - INFO - Обработано вопросов: 87
+2025-03-07 13:19:46,313 - INFO - Найдено 7 элементов для категории leadership_change
+2025-03-07 13:19:50,760 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:19:50,764 - INFO - Обработано вопросов: 88
+2025-03-07 13:19:50,765 - INFO - Обработка компании: NuCana plc
+2025-03-07 13:19:50,773 - INFO - Найдено 27 элементов для категории financial_performance
+2025-03-07 13:19:56,240 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:19:56,245 - INFO - Обработано вопросов: 89
+2025-03-07 13:19:56,245 - INFO - Найдено 27 элементов для категории financial_performance
+2025-03-07 13:20:00,426 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:20:00,441 - INFO - Обработано вопросов: 90
+2025-03-07 13:20:00,442 - INFO - Найдено 27 элементов для категории financial_performance
+2025-03-07 13:20:06,845 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:20:06,852 - INFO - Обработано вопросов: 91
+2025-03-07 13:20:06,852 - INFO - Найдено 27 элементов для категории financial_performance
+2025-03-07 13:20:13,968 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:20:13,974 - INFO - Обработано вопросов: 92
+2025-03-07 13:20:13,974 - INFO - Обработка компании: Elixir Energy Limited
+2025-03-07 13:20:13,985 - INFO - Найдено 17 элементов для категории financial_performance
+2025-03-07 13:20:19,218 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:20:19,231 - INFO - Обработано вопросов: 93
+2025-03-07 13:20:19,232 - INFO - Найдено 2 элементов для категории esg_initiative
+2025-03-07 13:20:23,299 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:20:23,307 - INFO - Обработано вопросов: 94
+2025-03-07 13:20:23,307 - INFO - Обработка компании: Aurora Innovation, Inc.
+2025-03-07 13:20:23,315 - INFO - Найдено 0 элементов для категории rnd_investment
+2025-03-07 13:20:23,316 - INFO - Отсутствуют метаданные для вопроса: For Aurora Innovation, Inc., what was the value of. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:20:23,316 - INFO - Обработка компании: Origin Bancorp, Inc.
+2025-03-07 13:20:23,324 - INFO - Найдено 81 элементов для категории financial_performance
+2025-03-07 13:20:33,283 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:20:33,291 - INFO - Обработано вопросов: 96
+2025-03-07 13:20:33,291 - INFO - Найдено 29 элементов для категории leadership_change
+2025-03-07 13:20:44,942 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:20:44,949 - INFO - Обработано вопросов: 97
+2025-03-07 13:20:44,950 - INFO - Обработка компании: ACRES Commercial Realty Corp.
+2025-03-07 13:20:44,956 - INFO - Найдено 0 элементов для категории esg_initiative
+2025-03-07 13:20:44,956 - INFO - Отсутствуют метаданные для вопроса: Did ACRES Commercial Realty Corp. outline any new . Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:20:44,957 - INFO - Обработка компании: SIG plc
+2025-03-07 13:20:44,965 - INFO - Найдено 71 элементов для категории financial_performance
+2025-03-07 13:20:51,766 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:20:51,771 - INFO - Обработано вопросов: 99
+2025-03-07 13:20:51,771 - INFO - Найдено 40 элементов для категории merger_acquisition
+2025-03-07 13:20:56,575 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:20:56,579 - INFO - Обработано вопросов: 100
+2025-03-07 13:20:56,579 - INFO - Обработка компании: Medallion Financial Corp.
+2025-03-07 13:20:56,588 - INFO - Найдено 48 элементов для категории financial_performance
+2025-03-07 13:21:02,009 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:21:02,017 - INFO - Обработано вопросов: 101
+2025-03-07 13:21:02,017 - INFO - Обработка компании: archTIS Limited
+2025-03-07 13:21:02,029 - INFO - Найдено 16 элементов для категории executive_compensation
+2025-03-07 13:21:06,830 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:21:06,836 - INFO - Обработано вопросов: 102
+2025-03-07 13:21:06,837 - INFO - Найдено 39 элементов для категории financial_performance
+2025-03-07 13:21:13,216 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:21:13,239 - INFO - Обработано вопросов: 103
+2025-03-07 13:21:13,246 - INFO - Найдено 0 элементов для категории layoff
+2025-03-07 13:21:13,246 - INFO - Отсутствуют метаданные для вопроса: What was the value of End-of-year tech staff headc. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:21:13,247 - INFO - Обработка компании: Liberty Broadband Corporation
+2025-03-07 13:21:13,250 - INFO - Найдено 0 элементов для категории share_buyback
+2025-03-07 13:21:13,251 - INFO - Отсутствуют метаданные для вопроса: Did Liberty Broadband Corporation announce a share. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:21:13,251 - INFO - Обработка компании: Playtech plc
+2025-03-07 13:21:13,259 - INFO - Найдено 75 элементов для категории financial_performance
+2025-03-07 13:21:20,065 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:21:20,073 - INFO - Обработано вопросов: 106
+2025-03-07 13:21:20,074 - INFO - Найдено 75 элементов для категории financial_performance
+2025-03-07 13:21:27,599 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:21:27,607 - INFO - Обработано вопросов: 107
+2025-03-07 13:21:27,607 - INFO - Обработка компании: Atreca, Inc.
+2025-03-07 13:21:27,617 - INFO - Найдено 31 элементов для категории financial_performance
+2025-03-07 13:21:34,033 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:21:34,045 - INFO - Обработано вопросов: 108
+2025-03-07 13:21:34,045 - INFO - Найдено 31 элементов для категории financial_performance
+2025-03-07 13:21:39,496 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:21:39,507 - INFO - Обработано вопросов: 109
+2025-03-07 13:21:39,508 - INFO - Найдено 31 элементов для категории financial_performance
+2025-03-07 13:21:49,747 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:21:49,755 - INFO - Обработано вопросов: 110
+2025-03-07 13:21:49,755 - INFO - Найдено 31 элементов для категории financial_performance
+2025-03-07 13:21:56,370 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:21:56,375 - INFO - Обработано вопросов: 111
+2025-03-07 13:21:56,375 - INFO - Найдено 31 элементов для категории financial_performance
+2025-03-07 13:22:02,730 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:22:02,737 - INFO - Обработано вопросов: 112
+2025-03-07 13:22:02,737 - INFO - Найдено 31 элементов для категории financial_performance
+2025-03-07 13:22:07,279 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:22:07,287 - INFO - Обработано вопросов: 113
+2025-03-07 13:22:07,287 - INFO - Обработка компании: Kiniksa Pharmaceuticals, Ltd.
+2025-03-07 13:22:07,302 - INFO - Найдено 42 элементов для категории financial_performance
+2025-03-07 13:22:12,940 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:22:12,964 - INFO - Обработано вопросов: 114
+2025-03-07 13:22:12,964 - INFO - Найдено 42 элементов для категории financial_performance
+2025-03-07 13:22:17,074 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:22:17,077 - INFO - Обработано вопросов: 115
+2025-03-07 13:22:17,077 - INFO - Найдено 18 элементов для категории executive_compensation
+2025-03-07 13:22:22,601 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:22:22,608 - INFO - Обработано вопросов: 116
+2025-03-07 13:22:22,609 - INFO - Обработка компании: James Halstead plc
+2025-03-07 13:22:22,618 - INFO - Найдено 43 элементов для категории financial_performance
+2025-03-07 13:22:29,320 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:22:29,326 - INFO - Обработано вопросов: 117
+2025-03-07 13:22:29,327 - INFO - Обработка компании: Blue Apron Holdings, Inc.
+2025-03-07 13:22:29,345 - INFO - Найдено 16 элементов для категории leadership_change
+2025-03-07 13:22:34,438 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:22:34,453 - INFO - Обработано вопросов: 118
+2025-03-07 13:22:34,453 - INFO - Обработка компании: Commerzbank
+2025-03-07 13:22:34,463 - INFO - Найдено 6 элементов для категории layoff
+2025-03-07 13:22:40,058 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:22:40,062 - INFO - Обработано вопросов: 119
+2025-03-07 13:22:40,063 - INFO - Обработка компании: Structural Monitoring Systems Plc
+2025-03-07 13:22:40,071 - INFO - Найдено 2 элементов для категории capital_expenditure
+2025-03-07 13:22:45,913 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:22:45,920 - INFO - Обработано вопросов: 120
+2025-03-07 13:22:45,920 - INFO - Обработка компании: Pintec Technology Holdings Limited
+2025-03-07 13:22:45,926 - INFO - Найдено 0 элементов для категории layoff
+2025-03-07 13:22:45,927 - INFO - Отсутствуют метаданные для вопроса: What is the total number of employees let go by Pi. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:22:45,927 - INFO - Найдено 0 элементов для категории financial_performance
+2025-03-07 13:22:45,927 - INFO - Отсутствуют метаданные для вопроса: For Pintec Technology Holdings Limited, what was t. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:22:45,928 - INFO - Обработка компании: Ocugen, Inc.
+2025-03-07 13:22:45,946 - INFO - Найдено 39 элементов для категории executive_compensation
+2025-03-07 13:22:52,728 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:22:52,734 - INFO - Обработано вопросов: 123
+2025-03-07 13:22:52,734 - INFO - Обработка компании: Seiko Epson Corporation
+2025-03-07 13:22:52,745 - INFO - Найдено 8 элементов для категории dividend_policy
+2025-03-07 13:22:59,210 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:22:59,213 - INFO - Обработано вопросов: 124
+2025-03-07 13:22:59,213 - INFO - Обработка компании: Guaranty Bancshares, Inc.
+2025-03-07 13:22:59,215 - INFO - Найдено 0 элементов для категории product_launch
+2025-03-07 13:22:59,215 - INFO - Отсутствуют метаданные для вопроса: Did Guaranty Bancshares, Inc. announce any new pro. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:22:59,215 - INFO - Обработка компании: Albany International Corp.
+2025-03-07 13:22:59,220 - INFO - Найдено 0 элементов для категории product_launch
+2025-03-07 13:22:59,220 - INFO - Отсутствуют метаданные для вопроса: What are the names of new products launched by Alb. Устанавливаем значение по типу и pdf_sha1 в references.
+2025-03-07 13:22:59,220 - INFO - Найдено 1 элементов для категории rnd_investment
+2025-03-07 13:23:05,593 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:23:05,599 - INFO - Обработано вопросов: 127
+2025-03-07 13:23:05,599 - INFO - Найдено 1 элементов для категории rnd_investment
+2025-03-07 13:23:10,928 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:23:10,935 - INFO - Обработано вопросов: 128
+2025-03-07 13:23:10,935 - INFO - Обработка компании: FNCB Bancorp, Inc.
+2025-03-07 13:23:10,946 - INFO - Найдено 67 элементов для категории financial_performance
+2025-03-07 13:23:16,583 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:23:16,587 - INFO - Обработано вопросов: 129
+2025-03-07 13:23:16,587 - INFO - Найдено 67 элементов для категории financial_performance
+2025-03-07 13:23:23,565 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:23:23,571 - INFO - Обработано вопросов: 130
+2025-03-07 13:23:23,571 - INFO - Обработка компании: Aptevo Therapeutics Inc.
+2025-03-07 13:23:23,583 - INFO - Найдено 23 элементов для категории merger_acquisition
+2025-03-07 13:23:28,517 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:23:28,523 - INFO - Обработано вопросов: 131
+2025-03-07 13:23:28,524 - INFO - Обработка компании: MainStreet Bancshares, Inc.
+2025-03-07 13:23:28,532 - INFO - Найдено 5 элементов для категории executive_compensation
+2025-03-07 13:23:33,286 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-07 13:23:33,294 - INFO - Обработано вопросов: 132
+2025-03-07 13:23:33,294 - INFO - Обработка завершена! Всего обработано вопросов: 132
+2025-03-07 13:23:33,551 - INFO - Результаты сохранены в results/final_results.json

@@ -3,15 +3,16 @@
     "company_name": "Kelly Partners Group Holdings Limited",
     "questions": [
       {
-        "text": "What was the value of Assets under management (AUM) of Kelly Partners Group Holdings Limited at the end of the period listed in annual report? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
+        "text": "Which leadership positions changed at Kelly Partners Group Holdings Limited in the reporting period? If data is not available, return 'N/A'. Give me the title of the position.",
+        "kind": "names",
+        "metadata_category": "leadership_change",
         "currency": "N/A",
         "search_locations": [
-          "Financial Statements",
-          "Annual Report - Assets and Financials Section",
-          "Key Financial Data",
-          "Management Discussion and Analysis"
+          "Leadership Changes",
+          "Board of Directors",
+          "Executive Positions",
+          "Report Notes",
+          "Organizational Changes"
         ]
       }
     ],
@@ -21,28 +22,15 @@
     "company_name": "Armadale Capital Plc",
     "questions": [
       {
-        "text": "Did Armadale Capital Plc outline any new ESG initiatives in the annual report? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "esg_initiative",
+        "text": "What was the Gross margin (%) for Armadale Capital Plc according to the annual report (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
         "currency": "N/A",
         "search_locations": [
-          "Annual Report",
-          "ESG Section",
-          "Sustainability Initiatives",
-          "Corporate Social Responsibility (CSR)"
-        ]
-      },
-      {
-        "text": "What was the Capital expenditures (in GBP) for Armadale Capital Plc according to the annual report (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "capital_expenditure",
-        "currency": "GBP",
-        "search_locations": [
-          "Financial Statements",
-          "Capital Expenditure Sections",
-          "Annual Report Summary",
-          "Management Discussion and Analysis",
-          "Notes to Financial Statements"
+          "Financial summary",
+          "Annual report",
+          "Key financial metrics",
+          "Income statement"
         ]
       }
     ],
@@ -52,26 +40,15 @@
     "company_name": "Trinity Place Holdings Inc.",
     "questions": [
       {
-        "text": "Did Trinity Place Holdings Inc. detail any restructuring plans in the latest filing? If there is no mention, return False.",
+        "text": "Did Trinity Place Holdings Inc. mention any mergers or acquisitions in the annual report? If there is no mention, return False.",
         "kind": "boolean",
-        "metadata_category": "strategic_restructuring",
-        "currency": "N/A",
-        "search_locations": [
-          "Strategic Restructuring",
-          "Corporate Strategy",
-          "Business Operations",
-          "Management Discussion and Analysis"
-        ]
-      },
-      {
-        "text": "Did Trinity Place Holdings Inc. report any supply chain disruptions in the annual report? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "supply_chain_disruption",
+        "metadata_category": "merger_acquisition",
         "currency": "N/A",
         "search_locations": [
           "Annual Report",
-          "Supply Chain",
-          "Risk Factors",
+          "Business Overview",
+          "Notes to Financial Statements",
+          "Significant Transactions",
           "Management Discussion and Analysis"
         ]
       }
@@ -87,14 +64,16 @@
     "company_name": "Empire Company Limited",
     "questions": [
       {
-        "text": "What was the Dividend per share (in USD) for Empire Company Limited according to the annual report (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "USD",
+        "text": "Did Empire Company Limited announce any changes to its dividend policy in the annual report? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "dividend_policy",
+        "currency": "N/A",
         "search_locations": [
-          "Dividend per share",
-          "Investor returns",
-          "Shareholder's equity"
+          "Dividend Policy Section",
+          "Chairman's Message",
+          "Financial Highlights",
+          "Notes to Financial Statements",
+          "Board of Directors Report"
         ]
       }
     ],
@@ -115,11 +94,9 @@
         "currency": "N/A",
         "search_locations": [
           "Leadership Changes",
-          "Corporate Governance",
-          "Management Updates",
-          "Board Changes",
-          "Crombie REIT Annual/Quarterly Report",
-          "Executive/Appointments Sections"
+          "Management Discussion and Analysis",
+          "Board of Directors",
+          "Governance Reports"
         ]
       }
     ],
@@ -127,26 +104,26 @@
   },
   "f7324f3868005b3aae6aafd30441c9bb6c8823e8": {
     "company_name": "Jefferies Financial Group Inc.",
+    "questions": [],
+    "has_questions": false
+  },
+  "ecabab4934d4b80570c4bb3b8e35b7476694b3fb": {
+    "company_name": "Ziff Davis, Inc.",
     "questions": [
       {
-        "text": "Did Jefferies Financial Group Inc. announce a share buyback plan in the annual report? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "share_buyback",
+        "text": "For Ziff Davis, Inc., what was the value of Cloud storage capacity (TB) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
         "currency": "N/A",
         "search_locations": [
-          "Share Buyback Authorization",
-          "Board of Directors' Statements",
-          "Annual Report Summary",
-          "Capital Allocation Decisions"
+          "Annual Report",
+          "Financial Statements",
+          "Cloud Storage Metrics Section",
+          "Data Tables and Appendix"
         ]
       }
     ],
     "has_questions": true
-  },
-  "ecabab4934d4b80570c4bb3b8e35b7476694b3fb": {
-    "company_name": "Ziff Davis, Inc.",
-    "questions": [],
-    "has_questions": false
   },
   "5a24fa827d172a7669eca206b2a5f47c2b19b48d": {
     "company_name": "Bionano Genomics, Inc.",
@@ -157,23 +134,11 @@
         "metadata_category": "merger_acquisition",
         "currency": "N/A",
         "search_locations": [
-          "Mergers and Acquisitions",
-          "Corporate Structure Changes",
+          "Annual Report",
           "Management Discussion and Analysis",
-          "Annual Report, Section 10-K"
-        ]
-      },
-      {
-        "text": "According to the annual report, what is the Total revenue (in USD) for Bionano Genomics, Inc.  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "USD",
-        "search_locations": [
-          "Financial Highlights",
-          "Revenue Summary",
-          "Income Statement",
-          "Annual Report - Financial Data",
-          "Performance Metrics"
+          "Mergers and Acquisitions Section",
+          "Financial Notes Section",
+          "Corporate Activity Overview"
         ]
       }
     ],
@@ -183,27 +148,27 @@
     "company_name": "Mosaic Brands Limited",
     "questions": [
       {
+        "text": "What was the value of E-commerce active customer accounts of Mosaic Brands Limited at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report",
+          "E-Commerce Segment",
+          "Active Customer Accounts",
+          "End of Period Figures"
+        ]
+      },
+      {
         "text": "Did Mosaic Brands Limited mention any mergers or acquisitions in the annual report? If there is no mention, return False.",
         "kind": "boolean",
         "metadata_category": "merger_acquisition",
         "currency": "N/A",
         "search_locations": [
+          "Annual Report",
           "Mergers and Acquisitions",
-          "Corporate Transactions",
-          "Business Updates",
-          "Annual Report Section on Strategic Overview"
-        ]
-      },
-      {
-        "text": "What was the largest single spending of Mosaic Brands Limited on executive compensation in USD? If data is not available in this currency, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "executive_compensation",
-        "currency": "USD",
-        "search_locations": [
-          "Executive Compensation",
-          "Management Remuneration",
-          "Financial Summary",
-          "Director Pay"
+          "Corporate Strategy",
+          "Business Developments"
         ]
       }
     ],
@@ -211,59 +176,72 @@
   },
   "91caa5884d3fbc344a05ac2f1d113a5d8725e4cb": {
     "company_name": "Microsoft Corporation",
-    "questions": [
-      {
-        "text": "What was the largest single spending of Microsoft Corporation on executive compensation in USD? If data is not available in this currency, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "executive_compensation",
-        "currency": "USD",
-        "search_locations": [
-          "Executive Compensation Section",
-          "Financial Statements",
-          "Compensation Analysis Tables"
-        ]
-      }
-    ],
-    "has_questions": true
+    "questions": [],
+    "has_questions": false
   },
   "e7a45fed0d7ebfd13a524e7fcc443318bac654e2": {
     "company_name": "Duni Group",
     "questions": [
       {
-        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Poste Italiane\", \"Atreca, Inc.\", \"Incyte Corporation\", \"Duni Group\", \"Datalogic\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Datalogic\", \"Terns Pharmaceuticals, Inc.\", \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Duni Group\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
-          "Financial Statements",
-          "Income Statement",
-          "Annual Report: Financial Analysis",
-          "Net Income Section"
+          "Annual Report > Financial Statements > Balance Sheet",
+          "Annual Report > Financial Review Section",
+          "Annual Report > Notes to the Financial Statements > Assets"
         ]
       },
       {
-        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Duni Group\", \"Datalogic\", \"Incyte Corporation\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
-        "kind": "name",
-        "metadata_category": "financial_performance",
-        "currency": "EUR",
-        "search_locations": [
-          "Financial Overview",
-          "Income Statement",
-          "Annual Report Summary",
-          "Key Metrics",
-          "Total Revenue"
-        ]
-      },
-      {
-        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Playtech plc\", \"Duni Group\", \"Incyte Corporation\", \"Poste Italiane\", \"Datalogic\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Poste Italiane\", \"Datalogic\", \"Duni Group\", \"Incyte Corporation\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
           "Annual Report",
-          "Financial Highlights",
-          "Total Revenue",
-          "Summary of Operations"
+          "Financial Statements",
+          "Income Statements",
+          "Total Revenue Section",
+          "Currency Notes"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Datalogic\", \"NuCana plc\", \"Duni Group\", \"Playtech plc\", \"Atreca, Inc.\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Net Income",
+          "Financial Statements",
+          "Annual Reports",
+          "Income Statement",
+          "Profit and Loss Accounts"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Playtech plc\", \"Datalogic\", \"Duni Group\", \"Poste Italiane\", \"Incyte Corporation\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Balance Sheet",
+          "Financial Overview",
+          "Annual Report Tables",
+          "Total Assets"
+        ]
+      },
+      {
+        "text": "Which leadership positions changed at Duni Group in the reporting period? If data is not available, return 'N/A'. Give me the title of the position.",
+        "kind": "names",
+        "metadata_category": "leadership_change",
+        "currency": "N/A",
+        "search_locations": [
+          "Leadership Changes",
+          "Management Commentary",
+          "Corporate Governance",
+          "Board of Directors",
+          "Executive Changes Section"
         ]
       }
     ],
@@ -273,14 +251,16 @@
     "company_name": "Rapid7",
     "questions": [
       {
-        "text": "What was the largest single spending of Rapid7 on executive compensation in USD? If data is not available in this currency, return 'N/A'.",
+        "text": "What was the value of Number of active software licenses of Rapid7 at the end of the period listed in annual report? If data is not available, return 'N/A'.",
         "kind": "number",
-        "metadata_category": "executive_compensation",
-        "currency": "USD",
+        "metadata_category": "financial_performance",
+        "currency": "N/A",
         "search_locations": [
-          "Executive Compensation",
+          "Annual Report",
+          "Management Discussion and Analysis",
+          "Operating Metrics",
           "Financial Statements",
-          "Board Announcements"
+          "Notes to Financial Statements"
         ]
       }
     ],
@@ -298,28 +278,50 @@
   },
   "78c71282723c2d66216cbba13183d19349d302b8": {
     "company_name": "Ritchie Bros. Auctioneers Incorporated",
-    "questions": [],
-    "has_questions": false
-  },
-  "0c0faea14d108e1617f2d6d2a7c1aae04eb88fe0": {
-    "company_name": "Odyssey Gold Limited",
     "questions": [
       {
-        "text": "Which leadership positions changed at Odyssey Gold Limited in the reporting period? If data is not available, return 'N/A'. Give me the title of the position.",
-        "kind": "names",
-        "metadata_category": "leadership_change",
+        "text": "What was the Dividend per share (in USD) for Ritchie Bros. Auctioneers Incorporated according to the annual report (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "dividend_policy",
+        "currency": "USD",
+        "search_locations": [
+          "Financial Statements",
+          "Dividend Policy or Payout Sections",
+          "Summary of Key Metrics"
+        ]
+      },
+      {
+        "text": "Did Ritchie Bros. Auctioneers Incorporated mention any ongoing litigation or regulatory inquiries? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "regulatory_litigation",
         "currency": "N/A",
         "search_locations": [
-          "Leadership Changes",
-          "Corporate Governance",
-          "Board of Directors",
-          "Executive Committee",
-          "Annual Report",
-          "Management Discussion and Analysis"
+          "Legal Proceedings",
+          "Regulation & Compliance",
+          "Litigation & Claims",
+          "Government Investigations"
+        ]
+      },
+      {
+        "text": "What was the Gross margin (%) for Ritchie Bros. Auctioneers Incorporated according to the annual report (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "N/A",
+        "search_locations": [
+          "Financial Summary",
+          "Income Statement",
+          "Gross Margin",
+          "Key Financial Metrics",
+          "Annual Report Summary"
         ]
       }
     ],
     "has_questions": true
+  },
+  "0c0faea14d108e1617f2d6d2a7c1aae04eb88fe0": {
+    "company_name": "Odyssey Gold Limited",
+    "questions": [],
+    "has_questions": false
   },
   "e1edf72618e9d6ae2e72bb3ac7a9ddc15240e4ef": {
     "company_name": "Verrica Pharmaceuticals Inc.",
@@ -330,29 +332,16 @@
     "company_name": "KP Tissue Inc.",
     "questions": [
       {
-        "text": "Did KP Tissue Inc. detail any restructuring plans in the latest filing? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "strategic_restructuring",
-        "currency": "N/A",
-        "search_locations": [
-          "Strategic Restructuring",
-          "Business Operations",
-          "Recent Updates",
-          "Management Commentary",
-          "Plans and Strategies"
-        ]
-      },
-      {
         "text": "What is the total number of employees let go by KP Tissue Inc. according to the annual report? If data is not available, return 'N/A'.",
         "kind": "number",
         "metadata_category": "layoff",
         "currency": "N/A",
         "search_locations": [
-          "Workforce Reduction",
-          "Labor Changes",
-          "Human Resources",
-          "Annual Report",
-          "Operating Highlights"
+          "Workforce Changes",
+          "Management Discussion and Analysis",
+          "Personnel Updates",
+          "Financial Notes",
+          "Annual Report Overview"
         ]
       }
     ],
@@ -362,27 +351,26 @@
     "company_name": "Downer EDI Limited",
     "questions": [
       {
+        "text": "Did Downer EDI Limited announce a share buyback plan in the annual report? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "share_buyback",
+        "currency": "N/A",
+        "search_locations": [
+          "Share Buyback Plans",
+          "Financial Management",
+          "Equity Transactions",
+          "Annual Report Sections"
+        ]
+      },
+      {
         "text": "What is the total number of employees let go by Downer EDI Limited according to the annual report? If data is not available, return 'N/A'.",
         "kind": "number",
         "metadata_category": "layoff",
         "currency": "N/A",
         "search_locations": [
-          "Workforce Statistics",
-          "Employee Headcount Changes",
-          "Human Resources Section",
-          "Annual Report Main Body"
-        ]
-      },
-      {
-        "text": "What was the largest single spending of Downer EDI Limited on executive compensation in USD? If data is not available in this currency, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "executive_compensation",
-        "currency": "USD",
-        "search_locations": [
-          "Executive Compensation",
-          "Financial Statement Notes",
-          "Remuneration Report",
-          "Income Statement"
+          "Workforce analysis",
+          "Employee-related disclosures",
+          "Annual report - layoffs section"
         ]
       }
     ],
@@ -395,45 +383,8 @@
   },
   "6406e378c1f49a29c836633f187c271b30b50183": {
     "company_name": "Galileo Resources Plc",
-    "questions": [
-      {
-        "text": "For Galileo Resources Plc, what was the value of Number of compounds in Phase II at the end of the period listed in annual report? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "rnd_investment",
-        "currency": "N/A",
-        "search_locations": [
-          "Research and Development",
-          "Annual Report",
-          "Pipeline Progress",
-          "Phase II Compounds"
-        ]
-      },
-      {
-        "text": "For Galileo Resources Plc, what was the value of Size of sales force (year-end) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "N/A",
-        "search_locations": [
-          "Annual Reports",
-          "Key Metrics Section",
-          "Sales Metrics",
-          "Human Resources Report"
-        ]
-      },
-      {
-        "text": "According to the annual report, what is the Operating margin (%) for Galileo Resources Plc  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "N/A",
-        "search_locations": [
-          "Financial Statements",
-          "Income Statement",
-          "Operating Results",
-          "Performance Overview"
-        ]
-      }
-    ],
-    "has_questions": true
+    "questions": [],
+    "has_questions": false
   },
   "6159f86f38ec4f82453d99a01c22f1847de133c6": {
     "company_name": "Senti Biosciences, Inc.",
@@ -444,15 +395,38 @@
     "company_name": "Sonic Automotive, Inc.",
     "questions": [
       {
-        "text": "According to the annual report, what is the Total revenue (in USD) for Sonic Automotive, Inc.  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
+        "text": "According to the annual report, what is the Cash flow from operations (in USD) for Sonic Automotive, Inc.  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
         "kind": "number",
         "metadata_category": "financial_performance",
         "currency": "USD",
         "search_locations": [
-          "Income Statement",
+          "Consolidated Financial Statements",
+          "Cash Flow Statement",
           "Financial Highlights",
-          "Consolidated Revenues",
           "Management Discussion and Analysis"
+        ]
+      },
+      {
+        "text": "For Sonic Automotive, Inc., what was the value of Number of hybrid models available at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "product_launch",
+        "currency": "N/A",
+        "search_locations": [
+          "Products Overview",
+          "Annual Report",
+          "Hybrid Models Section",
+          "Environmental Initiatives"
+        ]
+      },
+      {
+        "text": "For Sonic Automotive, Inc., what was the value of Year-end fleet average CO₂ emissions at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "esg_initiative",
+        "currency": "N/A",
+        "search_locations": [
+          "Environmental Metrics",
+          "Sustainability Report",
+          "Annual Report - Environmental Impact Section"
         ]
       }
     ],
@@ -462,27 +436,29 @@
     "company_name": "1-800-FLOWERS.COM, INC.",
     "questions": [
       {
-        "text": "Did 1-800-FLOWERS.COM, INC. announce a share buyback plan in the annual report? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "share_buyback",
-        "currency": "N/A",
-        "search_locations": [
-          "share buyback section",
-          "financial highlights",
-          "statement of shareholder policies"
-        ]
-      },
-      {
-        "text": "What was the value of Total store floor area (sqm) of 1-800-FLOWERS.COM, INC. at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "text": "What was the value of Number of fulfillment centers at year-end of 1-800-FLOWERS.COM, INC. at the end of the period listed in annual report? If data is not available, return 'N/A'.",
         "kind": "number",
-        "metadata_category": "capital_expenditure",
+        "metadata_category": "financial_performance",
         "currency": "N/A",
         "search_locations": [
           "Annual Report",
-          "Management Discussion and Analysis",
-          "Physical Assets Section",
-          "Capital Expenditure Information",
-          "Real Estate and Property Details"
+          "Fulfillment Centers Section",
+          "Operational Metrics",
+          "Financial Disclosures",
+          "Notes to Financial Statements"
+        ]
+      },
+      {
+        "text": "What is the name of the last product launched by 1-800-FLOWERS.COM, INC. as mentioned in the annual report?",
+        "kind": "name",
+        "metadata_category": "product_launch",
+        "currency": "N/A",
+        "search_locations": [
+          "Recent Developments",
+          "Products and Services",
+          "Product Launches",
+          "Annual Report Summary",
+          "Corporate News and Updates"
         ]
       }
     ],
@@ -490,35 +466,8 @@
   },
   "d5ad1d288230072e3f6654bb6182d76f8af2ba0a": {
     "company_name": "abrdn Japan Investment Trust plc",
-    "questions": [
-      {
-        "text": "For abrdn Japan Investment Trust plc, what was the value of End-of-year net interest margin (NIM) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "N/A",
-        "search_locations": [
-          "Annual Report",
-          "Financial Statements",
-          "Net Interest Margin section",
-          "End-of-year summary data",
-          "Notes to Financial Statements"
-        ]
-      },
-      {
-        "text": "According to the annual report, what is the Operating margin (%) for abrdn Japan Investment Trust plc  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "N/A",
-        "search_locations": [
-          "Financial Performance",
-          "Financial Statements",
-          "Key Performance Metrics",
-          "Operating Metrics",
-          "Annual Report Table of Figures"
-        ]
-      }
-    ],
-    "has_questions": true
+    "questions": [],
+    "has_questions": false
   },
   "2e315764be39701457b88c23f70c5ddede4b2453": {
     "company_name": "Motability Operations Group plc",
@@ -534,39 +483,27 @@
     "company_name": "Terns Pharmaceuticals, Inc.",
     "questions": [
       {
-        "text": "According to the annual report, what is the Total revenue (in EUR) for Terns Pharmaceuticals, Inc.  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "EUR",
-        "search_locations": [
-          "Annual Report",
-          "Income Statement",
-          "Financial Overview",
-          "Revenue Details",
-          "Key Financial Metrics"
-        ]
-      },
-      {
-        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Incyte Corporation\", \"Terns Pharmaceuticals, Inc.\", \"Datalogic\", \"Playtech plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Datalogic\", \"Terns Pharmaceuticals, Inc.\", \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Duni Group\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
-          "Annual Financial Statements",
-          "Balance Sheet Data",
-          "Total Assets Summary",
-          "Key Financial Figures"
+          "Financial Statements",
+          "Balance Sheet",
+          "Assets",
+          "Annual Report"
         ]
       },
       {
-        "text": "According to the annual report, what is the Cash flow from operations (in EUR) for Terns Pharmaceuticals, Inc.  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Datalogic\", \"Terns Pharmaceuticals, Inc.\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
-          "Financial Statements",
-          "Cash Flow Statement",
-          "Management Discussion and Analysis"
+          "Annual Report - Financial Statements",
+          "Consolidated Balance Sheet",
+          "Total Assets",
+          "Notes to the Financial Statements"
         ]
       }
     ],
@@ -579,25 +516,65 @@
   },
   "3bb894b4201667baf60b0b2c8a47109fa2357acb": {
     "company_name": "Rectifier Technologies Ltd",
-    "questions": [],
-    "has_questions": false
+    "questions": [
+      {
+        "text": "For Rectifier Technologies Ltd, what was the value of Number of patents at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "rnd_investment",
+        "currency": "N/A",
+        "search_locations": [
+          "Intellectual Property",
+          "Patents",
+          "Research and Development",
+          "Annual Report",
+          "Appendix"
+        ]
+      }
+    ],
+    "has_questions": true
   },
   "4d3e52b69b4b5366e54ce87cf641b01b1419bdee": {
     "company_name": "Incyte Corporation",
     "questions": [
       {
-        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Poste Italiane\", \"Atreca, Inc.\", \"Incyte Corporation\", \"Duni Group\", \"Datalogic\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "For Incyte Corporation, what was the value of Clinical trial sites operating at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report",
+          "Clinical trials",
+          "Operational data",
+          "Year-end summary",
+          "Period-end statistics"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Datalogic\", \"Terns Pharmaceuticals, Inc.\", \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Duni Group\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
-          "Annual Report - Financial Statements",
-          "Income Statement",
-          "Net Income"
+          "Financial Statements",
+          "Balance Sheet",
+          "Annual Report Sections"
         ]
       },
       {
-        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Incyte Corporation\", \"Terns Pharmaceuticals, Inc.\", \"Datalogic\", \"Playtech plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Poste Italiane\", \"Datalogic\", \"Duni Group\", \"Incyte Corporation\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "annual report",
+          "financial statements",
+          "income statements",
+          "key financial metrics",
+          "total revenue"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Poste Italiane\", \"NuCana plc\", \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Atreca, Inc.\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
@@ -605,31 +582,31 @@
           "financial statements",
           "balance sheet",
           "total assets section",
-          "annual report"
+          "summary of financial data"
         ]
       },
       {
-        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Duni Group\", \"Datalogic\", \"Incyte Corporation\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Playtech plc\", \"Datalogic\", \"Duni Group\", \"Poste Italiane\", \"Incyte Corporation\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
-          "Financial Summary",
-          "Revenue Analysis",
           "Annual Report - Financial Statements",
-          "Company Overview in the Report"
+          "Summary of Financial Performance Section",
+          "Balance Sheet Data"
         ]
       },
       {
-        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Playtech plc\", \"Duni Group\", \"Incyte Corporation\", \"Poste Italiane\", \"Datalogic\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Datalogic\", \"Terns Pharmaceuticals, Inc.\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
-          "Annual Reports",
-          "Financial Summary Section",
-          "Revenue Analysis",
-          "Income Statement"
+          "financial summary",
+          "balance sheet",
+          "annual report sections on financial performance",
+          "total assets",
+          "EUR currency data"
         ]
       }
     ],
@@ -639,39 +616,14 @@
     "company_name": "CoreCard Corporation",
     "questions": [
       {
-        "text": "Which leadership positions changed at CoreCard Corporation in the reporting period? If data is not available, return 'N/A'. Give me the title of the position.",
-        "kind": "names",
-        "metadata_category": "leadership_change",
-        "currency": "N/A",
-        "search_locations": [
-          "Leadership Changes",
-          "Management Team Updates",
-          "Director Appointments",
-          "Board Resolutions",
-          "Corporate Governance Section"
-        ]
-      },
-      {
-        "text": "What was the largest single spending of CoreCard Corporation on executive compensation in USD? If data is not available in this currency, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "executive_compensation",
-        "currency": "USD",
-        "search_locations": [
-          "Executive Compensation",
-          "Financial Analysis",
-          "Annual Report - Compensation Details"
-        ]
-      },
-      {
-        "text": "What was the value of Tier 1 capital ratio at year-end of CoreCard Corporation at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "text": "What was the value of Total deposits at year-end of CoreCard Corporation at the end of the period listed in annual report? If data is not available, return 'N/A'.",
         "kind": "number",
         "metadata_category": "financial_performance",
         "currency": "N/A",
         "search_locations": [
-          "Financial Highlights",
-          "Balance Sheet",
-          "Capital Adequacy",
-          "Annual Report Financial Overview"
+          "Annual Report - Consolidated Financial Highlights",
+          "Annual Report - Financial Statements",
+          "Annual Report - Management Discussion and Analysis"
         ]
       }
     ],
@@ -686,11 +638,10 @@
         "metadata_category": "merger_acquisition",
         "currency": "N/A",
         "search_locations": [
+          "Recent Developments",
           "Mergers and Acquisitions",
-          "Business Overview",
-          "Strategic Report",
-          "Chairman's Statement",
-          "CEO Report"
+          "Strategic Initiatives",
+          "Corporate Summary"
         ]
       }
     ],
@@ -700,16 +651,39 @@
     "company_name": "Franklin Covey Co.",
     "questions": [
       {
-        "text": "Did Franklin Covey Co. announce a share buyback plan in the annual report? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "share_buyback",
+        "text": "For Franklin Covey Co., what was the value of Year-end box office market share (if applicable) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
         "currency": "N/A",
         "search_locations": [
-          "Share Buyback Programs",
-          "Shareholder Returns",
-          "Annual Report Announcements",
-          "Management Discussion and Analysis",
-          "Financial Highlights"
+          "Annual Report, Financial Summary",
+          "Year-end Performance Data",
+          "Box Office Market Share Summary",
+          "Key Market Metrics"
+        ]
+      },
+      {
+        "text": "Did Franklin Covey Co. outline any new ESG initiatives in the annual report? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "esg_initiative",
+        "currency": "N/A",
+        "search_locations": [
+          "ESG Initiatives",
+          "Corporate Social Responsibility",
+          "Sustainability",
+          "Environmental, Social, and Governance"
+        ]
+      },
+      {
+        "text": "For Franklin Covey Co., what was the value of Number of active licensing deals at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "N/A",
+        "search_locations": [
+          "annual report",
+          "financial statements",
+          "licensing deals section",
+          "notes to financial statements"
         ]
       }
     ],
@@ -724,39 +698,52 @@
     "company_name": "HCA Healthcare, Inc.",
     "questions": [
       {
+        "text": "For HCA Healthcare, Inc., what was the value of Outstanding insurance claims (if applicable) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "USD",
+        "search_locations": [
+          "Financial Statements",
+          "Consolidated Balance Sheet",
+          "Insurance Liabilities",
+          "Notes to Financial Statements"
+        ]
+      },
+      {
+        "text": "For HCA Healthcare, Inc., what was the value of Number of managed clinics at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report",
+          "Operational statistics",
+          "Company Overview",
+          "Management Discussion and Analysis"
+        ]
+      },
+      {
+        "text": "For HCA Healthcare, Inc., what was the value of Number of healthcare professionals on staff at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report",
+          "Company Overview Section",
+          "Operational Highlights",
+          "Management Discussion and Analysis"
+        ]
+      },
+      {
         "text": "Did HCA Healthcare, Inc. announce any changes to its dividend policy in the annual report? If there is no mention, return False.",
         "kind": "boolean",
         "metadata_category": "dividend_policy",
         "currency": "N/A",
         "search_locations": [
           "Dividend Policy",
-          "Shareholder Returns",
-          "Notes to the Financial Statements",
-          "Management Discussion and Analysis"
-        ]
-      },
-      {
-        "text": "Which leadership positions changed at HCA Healthcare, Inc. in the reporting period? If data is not available, return 'N/A'. Give me the title of the position.",
-        "kind": "names",
-        "metadata_category": "leadership_change",
-        "currency": "N/A",
-        "search_locations": [
-          "Leadership Changes",
-          "Corporate Governance",
-          "Management Discussion",
-          "Board of Directors"
-        ]
-      },
-      {
-        "text": "For HCA Healthcare, Inc., what was the value of Outstanding insurance claims (if applicable) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "N/A",
-        "search_locations": [
+          "Annual Report",
           "Financial Statements",
-          "Notes to Financial Statements",
-          "Insurance Claims Section",
-          "Liabilities Overview"
+          "Management Discussion & Analysis",
+          "Shareholder Information"
         ]
       }
     ],
@@ -766,38 +753,15 @@
     "company_name": "NZME Limited",
     "questions": [
       {
-        "text": "For NZME Limited, what was the value of Broadcast coverage area (population reach) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "N/A",
-        "search_locations": [
-          "Annual Report - Financial Statements",
-          "Broadcast Segment Analysis",
-          "Notes to Financial Reports"
-        ]
-      },
-      {
         "text": "What is the total number of employees let go by NZME Limited according to the annual report? If data is not available, return 'N/A'.",
         "kind": "number",
         "metadata_category": "layoff",
         "currency": "N/A",
         "search_locations": [
-          "Workforce Reduction",
-          "Human Resources",
-          "Employee Information",
+          "Layoffs and Workforce Reduction section",
           "Management Discussion and Analysis",
-          "Annual Report Employee Data"
-        ]
-      },
-      {
-        "text": "For NZME Limited, what was the value of In-house production capacity (titles/year) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "rnd_investment",
-        "currency": "N/A",
-        "search_locations": [
-          "Annual Report - Production Capacity Section",
-          "Key Performance Indicators",
-          "R&D and Production Reports"
+          "Annual Report summary",
+          "Press releases or announcements regarding layoffs"
         ]
       }
     ],
@@ -817,36 +781,51 @@
     "company_name": "RWE AG",
     "questions": [
       {
-        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Incyte Corporation\", \"Terns Pharmaceuticals, Inc.\", \"Datalogic\", \"Playtech plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Poste Italiane\", \"Datalogic\", \"NuCana plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
-          "Financial Statements",
-          "Annual Report - Balance Sheet Section",
-          "Assets Summary"
+          "financial statements",
+          "income statement",
+          "total revenue section"
         ]
       },
       {
-        "text": "What are the names of new products launched by RWE AG as mentioned in the annual report?",
-        "kind": "names",
-        "metadata_category": "product_launch",
+        "text": "For RWE AG, what was the value of Number of facilities at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
         "currency": "N/A",
         "search_locations": [
-          "Product Launch",
-          "New Products",
+          "Annual Report",
+          "Year-End Facilities Overview",
+          "Company Statistics Section",
+          "Operational Data Tables"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"INMUNE BIO INC.\", \"Datalogic\", \"NuCana plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Income Statement",
+          "Financial Highlights",
+          "Net Income section",
           "Annual Report"
         ]
       },
       {
-        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Duni Group\", \"Datalogic\", \"Incyte Corporation\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Datalogic\", \"Terns Pharmaceuticals, Inc.\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
-          "Annual Financial Statement",
-          "Income Statement Section",
-          "Revenue metrics"
+          "Annual Report - Financial Statements",
+          "Balance Sheet",
+          "Total Assets",
+          "Year-end Summary",
+          "Financial Overview"
         ]
       }
     ],
@@ -854,31 +833,105 @@
   },
   "553afbf09b6d83166b17acb02431c6cf38e4defc": {
     "company_name": "INMUNE BIO INC.",
-    "questions": [],
-    "has_questions": false
-  },
-  "67185fca2a09b3c46ee961b2c1ae160dab8b5231": {
-    "company_name": "SThree plc",
-    "questions": [],
-    "has_questions": false
-  },
-  "9af0a7f8db3954c3e74851c8c1807a09ece8ef00": {
-    "company_name": "Alcoa Corporation",
     "questions": [
       {
-        "text": "Which leadership positions changed at Alcoa Corporation in the reporting period? If data is not available, return 'N/A'. Give me the title of the position.",
-        "kind": "names",
-        "metadata_category": "leadership_change",
+        "text": "What was the Gross margin (%) for INMUNE BIO INC. according to the annual report (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
         "currency": "N/A",
         "search_locations": [
-          "Leadership Changes",
-          "Governance Updates",
-          "Executive Changes",
-          "Management Section"
+          "Financial Statements",
+          "Performance Metrics",
+          "Income Statement",
+          "Annual Report Summary"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Datalogic\", \"Terns Pharmaceuticals, Inc.\", \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Duni Group\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Financial Statements",
+          "Balance Sheet",
+          "Total Assets"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Poste Italiane\", \"NuCana plc\", \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Atreca, Inc.\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Annual Report - Balance Sheet",
+          "Total Assets Section",
+          "Key Financial Metrics",
+          "Financial Statements"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"INMUNE BIO INC.\", \"Datalogic\", \"NuCana plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "financial performance",
+          "income statement",
+          "annual report - financials",
+          "net income",
+          "summary of financial results"
+        ]
+      },
+      {
+        "text": "What was the Capital expenditures (in EUR) for INMUNE BIO INC. according to the annual report (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "capital_expenditure",
+        "currency": "EUR",
+        "search_locations": [
+          "Capital Expenditures",
+          "Financial Statements",
+          "Consolidated Balance Sheet",
+          "Annual Report",
+          "Financial Highlights"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Datalogic\", \"Terns Pharmaceuticals, Inc.\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Financial Statements",
+          "Balance Sheet",
+          "Annual Report Summary",
+          "Notes on Financial Statements"
         ]
       }
     ],
     "has_questions": true
+  },
+  "67185fca2a09b3c46ee961b2c1ae160dab8b5231": {
+    "company_name": "SThree plc",
+    "questions": [
+      {
+        "text": "For SThree plc, what was the value of End-of-year total headcount at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "layoff",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report",
+          "End-of-Year Overview",
+          "Human Resources",
+          "Workforce Statistics"
+        ]
+      }
+    ],
+    "has_questions": true
+  },
+  "9af0a7f8db3954c3e74851c8c1807a09ece8ef00": {
+    "company_name": "Alcoa Corporation",
+    "questions": [],
+    "has_questions": false
   },
   "2cdfd39bbf896b0f6651ebb0fe697cdf8c7ef0e8": {
     "company_name": "Celldex Therapeutics, Inc.",
@@ -887,58 +940,49 @@
   },
   "6e36d57320ec525da93b3ce2c7269580c746475b": {
     "company_name": "DiaMedica Therapeutics Inc.",
-    "questions": [
-      {
-        "text": "What was the Capital expenditures (in AUD) for DiaMedica Therapeutics Inc. according to the annual report (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "capital_expenditure",
-        "currency": "AUD",
-        "search_locations": [
-          "Annual report financial summary",
-          "Capital Expenditure section",
-          "Cash flow statement"
-        ]
-      }
-    ],
-    "has_questions": true
+    "questions": [],
+    "has_questions": false
   },
   "6529fba868216a923407fb0d4e15a811a8e89ebc": {
     "company_name": "Incitec Pivot Limited",
     "questions": [
+      {
+        "text": "Did Incitec Pivot Limited mention any mergers or acquisitions in the annual report? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "merger_acquisition",
+        "currency": "N/A",
+        "search_locations": [
+          "Mergers and Acquisitions",
+          "Corporate Activity",
+          "Annual Report Narrative",
+          "Footnotes or Appendices for Corporate Changes",
+          "CEO/Management Commentary"
+        ]
+      },
+      {
+        "text": "Did Incitec Pivot Limited announce any changes to its dividend policy in the annual report? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "dividend_policy",
+        "currency": "N/A",
+        "search_locations": [
+          "Dividend Policy",
+          "Annual Report",
+          "Investor Relations",
+          "Board Announcements"
+        ]
+      },
       {
         "text": "Did Incitec Pivot Limited detail any restructuring plans in the latest filing? If there is no mention, return False.",
         "kind": "boolean",
         "metadata_category": "strategic_restructuring",
         "currency": "N/A",
         "search_locations": [
-          "Strategic Restructuring",
-          "Management Discussion and Analysis",
-          "Business Updates",
-          "Plans and Strategies"
-        ]
-      },
-      {
-        "text": "What was the largest single spending of Incitec Pivot Limited on executive compensation in USD? If data is not available in this currency, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "executive_compensation",
-        "currency": "USD",
-        "search_locations": [
-          "Executive Compensation",
-          "Key Management Personnel",
-          "Management Remuneration",
-          "Financial Notes",
-          "Annual Report"
-        ]
-      },
-      {
-        "text": "Did Incitec Pivot Limited announce a share buyback plan in the annual report? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "share_buyback",
-        "currency": "N/A",
-        "search_locations": [
-          "directors' report",
-          "financial highlights",
-          "shareholders' information"
+          "restructuring plans",
+          "strategic updates",
+          "latest filing",
+          "current operations status",
+          "business updates",
+          "management discussions"
         ]
       }
     ],
@@ -946,56 +990,55 @@
   },
   "92d9de8e4db96e0b95a484afcd1c54c6beb62c03": {
     "company_name": "Westwater Resources, Inc.",
-    "questions": [],
-    "has_questions": false
+    "questions": [
+      {
+        "text": "Which leadership positions changed at Westwater Resources, Inc. in the reporting period? If data is not available, return 'N/A'. Give me the title of the position.",
+        "kind": "names",
+        "metadata_category": "leadership_change",
+        "currency": "N/A",
+        "search_locations": [
+          "Leadership Change",
+          "Management Team Updates",
+          "Corporate Announcements",
+          "Board of Directors Updates"
+        ]
+      },
+      {
+        "text": "For Westwater Resources, Inc., what was the value of Percentage of renewable energy capacity at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "esg_initiative",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report > ESG Initiatives",
+          "Annual Report > Sustainability Reporting",
+          "Annual Report > Renewable Energy Contributions"
+        ]
+      }
+    ],
+    "has_questions": true
   },
   "7792e23f8a40fb9461dbc26f417b0fb948f54f46": {
     "company_name": "MongoDB, Inc.",
-    "questions": [
-      {
-        "text": "What are the names of new products launched by MongoDB, Inc. as mentioned in the annual report?",
-        "kind": "names",
-        "metadata_category": "product_launch",
-        "currency": "N/A",
-        "search_locations": [
-          "Annual Report",
-          "New Products Section",
-          "Press Release Summaries"
-        ]
-      }
-    ],
-    "has_questions": true
+    "questions": [],
+    "has_questions": false
   },
   "ad1613dac24a1349ec293100e3ea19fe913bb930": {
     "company_name": "CSG Systems International, Inc.",
-    "questions": [
-      {
-        "text": "Did CSG Systems International, Inc. mention any ongoing litigation or regulatory inquiries? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "regulatory_litigation",
-        "currency": "N/A",
-        "search_locations": [
-          "Litigation and Legal Matters",
-          "Regulatory Inquiries",
-          "Compliance and Legal Issues"
-        ]
-      }
-    ],
-    "has_questions": true
+    "questions": [],
+    "has_questions": false
   },
   "e273ed0d9626b9feaf50c09405c2b70d461e41d7": {
     "company_name": "Toshiba Corporation",
     "questions": [
       {
-        "text": "What are the names of new products launched by Toshiba Corporation as mentioned in the annual report?",
-        "kind": "names",
-        "metadata_category": "product_launch",
-        "currency": "N/A",
+        "text": "What was the largest single spending of Toshiba Corporation on executive compensation in AUD? If data is not available in this currency, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "executive_compensation",
+        "currency": "AUD",
         "search_locations": [
-          "New Product Launches",
-          "Business Highlights",
-          "Product Information",
-          "Annual Report Sections on Product Development"
+          "Executive compensation section",
+          "Financial tables",
+          "Annual report breakdowns"
         ]
       }
     ],
@@ -1003,35 +1046,45 @@
   },
   "1af8f906e34af6e0acfe4f73e37093bbe34700f3": {
     "company_name": "BetMakers Technology Group Ltd",
-    "questions": [],
-    "has_questions": false
+    "questions": [
+      {
+        "text": "Did BetMakers Technology Group Ltd mention any mergers or acquisitions in the annual report? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "merger_acquisition",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report",
+          "Mergers and Acquisitions",
+          "Business Overview",
+          "Strategic Developments"
+        ]
+      }
+    ],
+    "has_questions": true
   },
   "e117005fc313bf0d49429d34bc8e1ef64de54898": {
     "company_name": "MGM Resorts International",
     "questions": [
       {
-        "text": "What was the value of Revenue per available room (RevPAR) at final period of MGM Resorts International at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "text": "What was the largest single spending of MGM Resorts International on executive compensation in USD? If data is not available in this currency, return 'N/A'.",
         "kind": "number",
-        "metadata_category": "financial_performance",
+        "metadata_category": "executive_compensation",
         "currency": "USD",
         "search_locations": [
-          "Financial Highlights",
-          "Annual Report",
-          "Revenue Analysis",
-          "RevPAR Metrics"
+          "Executive Compensation",
+          "Financial Summary",
+          "Management Discussion and Analysis"
         ]
       },
       {
-        "text": "Did MGM Resorts International outline any new ESG initiatives in the annual report? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "esg_initiative",
+        "text": "What was the value of Number of hotels at year-end of MGM Resorts International at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
         "currency": "N/A",
         "search_locations": [
-          "Annual Report",
-          "ESG Section",
-          "Environmental, Social, and Governance Initiatives",
-          "Sustainability Initiatives",
-          "Corporate Responsibility Section"
+          "Annual Report - Operational Highlights",
+          "Annual Report - Number of Properties",
+          "Annual Report - Consolidated Operations Overview"
         ]
       }
     ],
@@ -1046,15 +1099,43 @@
     "company_name": "Peako Limited",
     "questions": [
       {
-        "text": "Did Peako Limited report any changes to its capital structure? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "capital_structure",
+        "text": "For Peako Limited, what was the value of Cloud storage capacity (TB) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
         "currency": "N/A",
         "search_locations": [
-          "Capital Structure",
-          "Equity and Debt",
+          "Annual Report",
+          "Financial Performance Summary",
+          "Appendix and Footnotes",
+          "Balance Sheet",
+          "Technical Overview Section"
+        ]
+      },
+      {
+        "text": "For Peako Limited, what was the value of Year-end customer base at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report",
           "Financial Statements",
-          "Notes to Financial Statements"
+          "Customer Data Section",
+          "Year-end Summary",
+          "Management Discussion and Analysis"
+        ]
+      },
+      {
+        "text": "For Peako Limited, what was the value of Total expensed R&D expenditure at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "rnd_investment",
+        "currency": "N/A",
+        "search_locations": [
+          "Total expensed R&D expenditure",
+          "Research and Development",
+          "Financial Statements",
+          "Income Statement",
+          "Notes to the Financial Statements",
+          "Management Discussion and Analysis"
         ]
       }
     ],
@@ -1062,21 +1143,8 @@
   },
   "5bb5f71d1457f3272adab97d64a79c300da75cea": {
     "company_name": "AstraZeneca",
-    "questions": [
-      {
-        "text": "What was the largest single spending of AstraZeneca on executive compensation in USD? If data is not available in this currency, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "executive_compensation",
-        "currency": "USD",
-        "search_locations": [
-          "Executive Compensation",
-          "Expenses Overview",
-          "Annual Report Financial Data",
-          "Income Statement Sections"
-        ]
-      }
-    ],
-    "has_questions": true
+    "questions": [],
+    "has_questions": false
   },
   "1ab89c81bdb49d4bfba2202eeb8e1c93bed414c7": {
     "company_name": "Enact Holdings, Inc.",
@@ -1087,26 +1155,62 @@
     "company_name": "Poste Italiane",
     "questions": [
       {
-        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Poste Italiane\", \"Atreca, Inc.\", \"Incyte Corporation\", \"Duni Group\", \"Datalogic\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Did Poste Italiane announce any changes to its dividend policy in the annual report? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "dividend_policy",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report",
+          "Dividend Policy Section",
+          "Financial Highlights"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Poste Italiane\", \"Datalogic\", \"NuCana plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
           "Financial Statements",
-          "Net Income Summaries",
-          "Annual Report Tables",
-          "Income Statements for the Period"
+          "Annual Revenue Figures",
+          "Company Overview"
         ]
       },
       {
-        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Playtech plc\", \"Duni Group\", \"Incyte Corporation\", \"Poste Italiane\", \"Datalogic\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Poste Italiane\", \"Datalogic\", \"Duni Group\", \"Incyte Corporation\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
-          "Annual Financial Performance",
-          "Revenue Details Section",
-          "Income Statement"
+          "Financial Highlights",
+          "Income Statement",
+          "Revenue Analysis",
+          "Annual Summary",
+          "Key Performance Indicators"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Poste Italiane\", \"NuCana plc\", \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Atreca, Inc.\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Balance Sheet",
+          "Financial Highlights",
+          "Total Assets Section",
+          "Annual Report Comparison Tables"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Playtech plc\", \"Datalogic\", \"Duni Group\", \"Poste Italiane\", \"Incyte Corporation\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Balance Sheet",
+          "Financial Statements",
+          "Annual Report Appendix",
+          "Total Assets Summary"
         ]
       }
     ],
@@ -1116,39 +1220,49 @@
     "company_name": "AA Limited",
     "questions": [
       {
-        "text": "According to the annual report, what is the Operating margin (%) for AA Limited  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "N/A",
-        "search_locations": [
-          "Operating Margin Analysis",
-          "Financial Performance Overview",
-          "Income Statement",
-          "Key Financial Metrics"
-        ]
-      },
-      {
-        "text": "Did AA Limited mention any mergers or acquisitions in the annual report? If there is no mention, return False.",
+        "text": "Did AA Limited announce any new product launches in the annual report? If there is no mention, return False.",
         "kind": "boolean",
-        "metadata_category": "merger_acquisition",
+        "metadata_category": "product_launch",
         "currency": "N/A",
         "search_locations": [
-          "Mergers and Acquisitions",
-          "Corporate Developments",
-          "Business Overview",
-          "Chairman/CEO's Statement",
-          "Management Report"
+          "New Product Developments",
+          "Product Launches",
+          "Company Strategic Announcements"
         ]
       },
       {
-        "text": "According to the annual report, what is the Total revenue (in GBP) for AA Limited  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
+        "text": "According to the annual report, what is the Cash flow from operations (in GBP) for AA Limited  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
         "kind": "number",
         "metadata_category": "financial_performance",
         "currency": "GBP",
         "search_locations": [
           "Financial Statements",
-          "Income Statement",
-          "Annual Report Summary Sections"
+          "Cash Flow Statement",
+          "Management Discussion and Analysis"
+        ]
+      },
+      {
+        "text": "Did AA Limited report any changes to its capital structure? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "capital_structure",
+        "currency": "N/A",
+        "search_locations": [
+          "Capital Structure",
+          "Equity and Debt Changes",
+          "Financial Overview",
+          "Balance Sheet",
+          "Capital and Shares Updates"
+        ]
+      },
+      {
+        "text": "For AA Limited, what was the value of Fleet size (vehicles) at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report Sections on Operations or Metrics",
+          "Vehicle Fleet Size Disclosures",
+          "Company Overview"
         ]
       }
     ],
@@ -1163,53 +1277,100 @@
     "company_name": "Datalogic",
     "questions": [
       {
-        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Poste Italiane\", \"Atreca, Inc.\", \"Incyte Corporation\", \"Duni Group\", \"Datalogic\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Datalogic\", \"Terns Pharmaceuticals, Inc.\", \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Duni Group\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Financial Statements",
+          "Balance Sheet",
+          "Total Assets"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Poste Italiane\", \"Datalogic\", \"NuCana plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Annual Report",
+          "Income Statement",
+          "Revenue Section"
+        ]
+      },
+      {
+        "text": "Which leadership positions changed at Datalogic in the reporting period? If data is not available, return 'N/A'. Give me the title of the position.",
+        "kind": "names",
+        "metadata_category": "leadership_change",
+        "currency": "N/A",
+        "search_locations": [
+          "Leadership Changes",
+          "Management Updates",
+          "Corporate Governance",
+          "Board of Directors",
+          "Executive Summary"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Poste Italiane\", \"Datalogic\", \"Duni Group\", \"Incyte Corporation\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
           "Financial Performance",
-          "Income Statement",
+          "Total Revenue",
           "Annual Report",
-          "Net Income Details",
-          "Company Financial Summary"
+          "End of Period Financial Summary"
         ]
       },
       {
-        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Incyte Corporation\", \"Terns Pharmaceuticals, Inc.\", \"Datalogic\", \"Playtech plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"INMUNE BIO INC.\", \"Datalogic\", \"NuCana plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
-          "Balance Sheet",
-          "Financial Statements",
-          "Total Assets Summary",
-          "Financial Overview in Annual Report"
+          "Financial Highlights",
+          "Income Statement",
+          "Net Income Analysis",
+          "Annual Financial Summary",
+          "Specific Company Comparison"
         ]
       },
       {
-        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Duni Group\", \"Datalogic\", \"Incyte Corporation\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Datalogic\", \"NuCana plc\", \"Duni Group\", \"Playtech plc\", \"Atreca, Inc.\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
-          "Revenue",
           "Financial Summary",
           "Income Statement",
-          "Financial Performance Section"
+          "Annual Report",
+          "Period-End Financial Figures"
         ]
       },
       {
-        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Playtech plc\", \"Duni Group\", \"Incyte Corporation\", \"Poste Italiane\", \"Datalogic\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Playtech plc\", \"Datalogic\", \"Duni Group\", \"Poste Italiane\", \"Incyte Corporation\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
-          "Annual Report",
-          "Financial Statements Section",
-          "Total Revenue Subsection",
-          "End of Period Summary",
-          "Currency Used Section"
+          "Financial Statements",
+          "Balance Sheets",
+          "Annual Reports",
+          "Total Assets Section",
+          "End of Period Data"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Datalogic\", \"Terns Pharmaceuticals, Inc.\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Financial Statements",
+          "Balance Sheet",
+          "Total Assets",
+          "Annual Report"
         ]
       }
     ],
@@ -1224,53 +1385,39 @@
     "company_name": "Wheeler Real Estate Investment Trust, Inc.",
     "questions": [
       {
-        "text": "According to the annual report, what is the Operating margin (%) for Wheeler Real Estate Investment Trust, Inc.  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "N/A",
-        "search_locations": [
-          "Financial Summary",
-          "Key Metrics",
-          "Operating Performance",
-          "Income Statement",
-          "Performance Analysis"
-        ]
-      },
-      {
-        "text": "Did Wheeler Real Estate Investment Trust, Inc. mention any mergers or acquisitions in the annual report? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "merger_acquisition",
-        "currency": "N/A",
-        "search_locations": [
-          "Mergers & Acquisitions",
-          "Annual Report",
-          "Corporate Transactions",
-          "Strategic Developments"
-        ]
-      },
-      {
-        "text": "According to the annual report, what is the Total revenue (in USD) for Wheeler Real Estate Investment Trust, Inc.  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
+        "text": "According to the annual report, what is the Cash flow from operations (in USD) for Wheeler Real Estate Investment Trust, Inc.  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
         "kind": "number",
         "metadata_category": "financial_performance",
         "currency": "USD",
         "search_locations": [
+          "Statement of Cash Flows",
           "Financial Statements",
-          "Income Statement",
-          "Revenue Summary",
-          "Annual Overview"
+          "Annual Report",
+          "Section on Operating Cash Flow"
         ]
       },
       {
-        "text": "For Wheeler Real Estate Investment Trust, Inc., what was the value of Number of new store openings (cumulative in year) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "product_launch",
+        "text": "Did Wheeler Real Estate Investment Trust, Inc. report any changes to its capital structure? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "capital_structure",
         "currency": "N/A",
         "search_locations": [
-          "Annual Report",
-          "Business Overview section",
-          "Store Operations Summary",
-          "Key Performance Indicators",
-          "Operational Highlights"
+          "Capital Structure",
+          "Financial Statements",
+          "Risk Factors",
+          "Equity Issuances",
+          "Debt Issuances"
+        ]
+      },
+      {
+        "text": "Which leadership positions changed at Wheeler Real Estate Investment Trust, Inc. in the reporting period? If data is not available, return 'N/A'. Give me the title of the position.",
+        "kind": "names",
+        "metadata_category": "leadership_change",
+        "currency": "N/A",
+        "search_locations": [
+          "Leadership Changes",
+          "Management Discussion and Analysis",
+          "Directors and Executives Section"
         ]
       }
     ],
@@ -1280,15 +1427,50 @@
     "company_name": "NuCana plc",
     "questions": [
       {
-        "text": "What was the Gross margin (%) for NuCana plc according to the annual report (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
+        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Poste Italiane\", \"Datalogic\", \"NuCana plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
         "metadata_category": "financial_performance",
-        "currency": "N/A",
+        "currency": "EUR",
         "search_locations": [
-          "Financial Performance",
+          "Annual Report",
+          "Financial Statements",
           "Income Statement",
-          "Gross Margin Analysis",
-          "Annual Report Metrics"
+          "Summary of Financial Performance",
+          "Revenue Analysis Section"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Poste Italiane\", \"NuCana plc\", \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Atreca, Inc.\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "annual financial statements",
+          "balance sheet",
+          "total assets"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"INMUNE BIO INC.\", \"Datalogic\", \"NuCana plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Income Statement",
+          "Annual Report Financial Summary",
+          "Net Income Section"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Datalogic\", \"NuCana plc\", \"Duni Group\", \"Playtech plc\", \"Atreca, Inc.\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Income Statement",
+          "Annual Report's Key Financials",
+          "Net Income Section",
+          "Consolidated Financial Statements"
         ]
       }
     ],
@@ -1296,94 +1478,80 @@
   },
   "f879b3a802ccd6e8e6ca0a07ed8464318b7c0724": {
     "company_name": "Elixir Energy Limited",
-    "questions": [],
-    "has_questions": false
-  },
-  "91ba1d46cdde9c1c0cf34f6bcc107741244f8f3d": {
-    "company_name": "Nordic American Tankers Limited",
     "questions": [
       {
-        "text": "According to the annual report, what is the Operating margin (%) for Nordic American Tankers Limited  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "N/A",
-        "search_locations": [
-          "financial highlights",
-          "key performance indicators",
-          "operating margin",
-          "financial performance"
-        ]
-      },
-      {
-        "text": "According to the annual report, what is the Total revenue (in USD) for Nordic American Tankers Limited  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "USD",
-        "search_locations": [
-          "Financial Performance",
-          "Income Statement",
-          "Earnings and Revenue",
-          "Annual Report Summary"
-        ]
-      },
-      {
-        "text": "According to the annual report, what is the Cash flow from operations (in USD) for Nordic American Tankers Limited  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "USD",
-        "search_locations": [
-          "Cash Flow Statement",
-          "Financial performance section",
-          "Consolidated financial data",
-          "Management discussion and analysis"
-        ]
-      }
-    ],
-    "has_questions": true
-  },
-  "13999998018cc53440310d94a26d1e8957e2277f": {
-    "company_name": "Aurora Innovation, Inc.",
-    "questions": [],
-    "has_questions": false
-  },
-  "3f36d4f26ada778d89cf5a7344be0b9e9a5223a3": {
-    "company_name": "Origin Bancorp, Inc.",
-    "questions": [
-      {
-        "text": "According to the annual report, what is the Total revenue (in USD) for Origin Bancorp, Inc.  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "USD",
-        "search_locations": [
-          "financial performance summary",
-          "income statement",
-          "revenue analysis"
-        ]
-      },
-      {
-        "text": "For Origin Bancorp, Inc., what was the value of Number of customer accounts at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "text": "What was the value of Total power generation capacity (MW) of Elixir Energy Limited at the end of the period listed in annual report? If data is not available, return 'N/A'.",
         "kind": "number",
         "metadata_category": "financial_performance",
         "currency": "N/A",
         "search_locations": [
           "Annual Report",
-          "Financial Highlights",
-          "Management Discussion & Analysis",
-          "Customer Metrics Section",
-          "Year-End Review"
+          "Financial Performance Section",
+          "Operational Metrics",
+          "Appendix for Data Tables"
         ]
       },
       {
-        "text": "For Origin Bancorp, Inc., what was the value of End-of-year net interest margin (NIM) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
+        "text": "Did Elixir Energy Limited outline any new ESG initiatives in the annual report? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "esg_initiative",
         "currency": "N/A",
         "search_locations": [
-          "Financial Summary",
-          "Management Discussion and Analysis",
-          "Financial Performance Metrics",
-          "Annual Report Metrics",
-          "Income Statement Details"
+          "Annual Report",
+          "Sustainability Section",
+          "ESG Initiatives Section",
+          "Overview and Strategy"
+        ]
+      }
+    ],
+    "has_questions": true
+  },
+  "91ba1d46cdde9c1c0cf34f6bcc107741244f8f3d": {
+    "company_name": "Nordic American Tankers Limited",
+    "questions": [],
+    "has_questions": false
+  },
+  "13999998018cc53440310d94a26d1e8957e2277f": {
+    "company_name": "Aurora Innovation, Inc.",
+    "questions": [
+      {
+        "text": "For Aurora Innovation, Inc., what was the value of Number of patents at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "rnd_investment",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report",
+          "Research and Development",
+          "Intellectual Property",
+          "Patents"
+        ]
+      }
+    ],
+    "has_questions": true
+  },
+  "3f36d4f26ada778d89cf5a7344be0b9e9a5223a3": {
+    "company_name": "Origin Bancorp, Inc.",
+    "questions": [
+      {
+        "text": "For Origin Bancorp, Inc., what was the value of Total assets on balance sheet at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "USD",
+        "search_locations": [
+          "Balance Sheet",
+          "Financial Statements",
+          "Year-End Financial Data"
+        ]
+      },
+      {
+        "text": "Which leadership positions changed at Origin Bancorp, Inc. in the reporting period? If data is not available, return 'N/A'. Give me the title of the position.",
+        "kind": "names",
+        "metadata_category": "leadership_change",
+        "currency": "N/A",
+        "search_locations": [
+          "Leadership Changes",
+          "Executive Updates",
+          "Governance Section"
         ]
       }
     ],
@@ -1391,20 +1559,33 @@
   },
   "0279901b645e568591ad95dac2c2bf939ef0c00d": {
     "company_name": "ACRES Commercial Realty Corp.",
-    "questions": [],
-    "has_questions": false
+    "questions": [
+      {
+        "text": "Did ACRES Commercial Realty Corp. outline any new ESG initiatives in the annual report? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "esg_initiative",
+        "currency": "N/A",
+        "search_locations": [
+          "ESG Initiatives",
+          "Corporate Social Responsibility Section",
+          "Sustainability Goals Report"
+        ]
+      }
+    ],
+    "has_questions": true
   },
   "2db41ba86cc015db1f5f7de00b764a06e6de3dcc": {
     "company_name": "SIG plc",
     "questions": [
       {
-        "text": "What are the names of new products launched by SIG plc as mentioned in the annual report?",
-        "kind": "names",
-        "metadata_category": "product_launch",
+        "text": "For SIG plc, what was the value of Number of stores at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
         "currency": "N/A",
         "search_locations": [
-          "Annual report sections on new product launches",
-          "Product development announcements"
+          "Annual Report",
+          "Operational Review Section",
+          "Stores and Locations Information"
         ]
       },
       {
@@ -1413,11 +1594,12 @@
         "metadata_category": "merger_acquisition",
         "currency": "N/A",
         "search_locations": [
-          "Annual Report",
           "Mergers and Acquisitions",
-          "Corporate Strategy",
-          "Management Discussion and Analysis",
-          "Financial Statements"
+          "Corporate Activities",
+          "Annual Report 2023",
+          "Notes to Financial Statements",
+          "Chairman's Statement",
+          "CEO's Report"
         ]
       }
     ],
@@ -1432,48 +1614,10 @@
         "metadata_category": "financial_performance",
         "currency": "USD",
         "search_locations": [
-          "Financial Highlights",
-          "Consolidated Statements of Operations",
+          "Total Revenue",
+          "Income Statement",
           "Annual Report Summary",
-          "Revenue Section",
-          "Earnings Overview"
-        ]
-      },
-      {
-        "text": "For Medallion Financial Corp., what was the value of Non-performing loan ratio (NPL) at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "N/A",
-        "search_locations": [
-          "Financial Highlights",
-          "Key Financial Ratios",
-          "Annual Report - Year-end Financial Statement",
-          "Asset Quality Highlights"
-        ]
-      },
-      {
-        "text": "Did Medallion Financial Corp. mention any ongoing litigation or regulatory inquiries? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "regulatory_litigation",
-        "currency": "N/A",
-        "search_locations": [
-          "Regulatory Issues",
-          "Litigation",
-          "Legal Proceedings",
-          "Compliance Review"
-        ]
-      },
-      {
-        "text": "What are the names of new products launched by Medallion Financial Corp. as mentioned in the annual report?",
-        "kind": "names",
-        "metadata_category": "product_launch",
-        "currency": "N/A",
-        "search_locations": [
-          "Annual Report",
-          "Product Launch Announcements",
-          "New Products Section",
-          "Corporate Developments",
-          "Innovations and New Offerings"
+          "Financial Results"
         ]
       }
     ],
@@ -1488,10 +1632,36 @@
         "metadata_category": "executive_compensation",
         "currency": "USD",
         "search_locations": [
-          "Executive Summary",
-          "Compensations and Remunerations",
-          "Key Financial Figures",
-          "Notes to the Financial Statements"
+          "Executive Compensation",
+          "Compensation Committee Reports",
+          "Financial Statements",
+          "Notes to Consolidated Financial Statements",
+          "Management Discussion and Analysis"
+        ]
+      },
+      {
+        "text": "What was the value of Year-end user base of archTIS Limited at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "N/A",
+        "search_locations": [
+          "Year-end Key Metrics",
+          "User Base Information",
+          "Annual Report Summary",
+          "Financial Highlights",
+          "Year-end Statistics"
+        ]
+      },
+      {
+        "text": "What was the value of End-of-year tech staff headcount of archTIS Limited at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "layoff",
+        "currency": "N/A",
+        "search_locations": [
+          "Headcount Analysis",
+          "Annual Report - Workforce Statistics",
+          "End-of-year Summary",
+          "Human Resources"
         ]
       }
     ],
@@ -1501,15 +1671,14 @@
     "company_name": "Liberty Broadband Corporation",
     "questions": [
       {
-        "text": "What was the largest single spending of Liberty Broadband Corporation on executive compensation in USD? If data is not available in this currency, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "executive_compensation",
-        "currency": "USD",
+        "text": "Did Liberty Broadband Corporation announce a share buyback plan in the annual report? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "share_buyback",
+        "currency": "N/A",
         "search_locations": [
-          "Executive Compensation",
-          "Management Discussion",
-          "Board Remuneration",
-          "Financial Statements: Management Compensation"
+          "Annual Report",
+          "Management Discussion and Analysis",
+          "Shareholder Returns"
         ]
       }
     ],
@@ -1517,62 +1686,34 @@
   },
   "51bae8eeb78cf7d8d96c5cb66c36c41c6bd71491": {
     "company_name": "Infinera Corporation",
-    "questions": [
-      {
-        "text": "According to the annual report, what is the Total revenue (in USD) for Infinera Corporation  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "USD",
-        "search_locations": [
-          "Financial Performance",
-          "Income Statement",
-          "Revenue Analysis",
-          "Consolidated Statement of Operations",
-          "Annual Report Summary"
-        ]
-      }
-    ],
-    "has_questions": true
+    "questions": [],
+    "has_questions": false
   },
   "ded965ce7e3ea0ad9b83272b8c36f529793a2887": {
     "company_name": "Playtech plc",
     "questions": [
       {
-        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Incyte Corporation\", \"Terns Pharmaceuticals, Inc.\", \"Datalogic\", \"Playtech plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Datalogic\", \"NuCana plc\", \"Duni Group\", \"Playtech plc\", \"Atreca, Inc.\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
+          "Income statement",
+          "Net income section",
+          "Annual financial highlights",
+          "Consolidated financial results"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Playtech plc\", \"Datalogic\", \"Duni Group\", \"Poste Italiane\", \"Incyte Corporation\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Annual Financial Statements",
           "Balance Sheet",
-          "Financial Statements",
-          "Assets",
-          "End of Period Data"
-        ]
-      },
-      {
-        "text": "Which leadership positions changed at Playtech plc in the reporting period? If data is not available, return 'N/A'. Give me the title of the position.",
-        "kind": "names",
-        "metadata_category": "leadership_change",
-        "currency": "N/A",
-        "search_locations": [
-          "Leadership Changes",
-          "Corporate Governance",
-          "Directors Report",
-          "Management Changes",
-          "Company Announcements"
-        ]
-      },
-      {
-        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Playtech plc\", \"Duni Group\", \"Incyte Corporation\", \"Poste Italiane\", \"Datalogic\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
-        "kind": "name",
-        "metadata_category": "financial_performance",
-        "currency": "EUR",
-        "search_locations": [
-          "Annual Reports",
-          "Financial Statements",
-          "Income Statement",
-          "Revenue Section",
-          "Financial Performance Summary"
+          "Total Assets",
+          "Year-End Report"
         ]
       }
     ],
@@ -1582,39 +1723,76 @@
     "company_name": "Atreca, Inc.",
     "questions": [
       {
-        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Poste Italiane\", \"Atreca, Inc.\", \"Incyte Corporation\", \"Duni Group\", \"Datalogic\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Poste Italiane\", \"Datalogic\", \"NuCana plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Business Overview",
+          "Financial Summary",
+          "Income Statement",
+          "Annual Report"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Poste Italiane\", \"Datalogic\", \"Duni Group\", \"Incyte Corporation\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Financial Performance",
+          "Revenue Analysis",
+          "Annual Report",
+          "End of Period Results"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest total assets in EUR at the end of the period listed in annual report: \"Poste Italiane\", \"NuCana plc\", \"Incyte Corporation\", \"INMUNE BIO INC.\", \"Atreca, Inc.\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "kind": "name",
+        "metadata_category": "financial_performance",
+        "currency": "EUR",
+        "search_locations": [
+          "Financial Statements",
+          "Balance Sheet",
+          "Highlights of Financial Performance",
+          "Annual Report Assets Sections"
+        ]
+      },
+      {
+        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"INMUNE BIO INC.\", \"Datalogic\", \"NuCana plc\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
           "Income Statement",
-          "Summary Financial Performance",
-          "Annual Report Section on Net Income",
-          "Consolidated Financial Statements"
+          "Financial Performance Section",
+          "Annual Report Summary"
         ]
       },
       {
-        "text": "What is the name of the last product launched by Atreca, Inc. as mentioned in the annual report?",
-        "kind": "name",
-        "metadata_category": "product_launch",
-        "currency": "N/A",
-        "search_locations": [
-          "Product Launches",
-          "Annual Report",
-          "Product Portfolio",
-          "Recent Developments"
-        ]
-      },
-      {
-        "text": "Which of the companies had the lowest total revenue in EUR at the end of the period listed in annual report: \"Atreca, Inc.\", \"Duni Group\", \"Datalogic\", \"Incyte Corporation\", \"RWE AG\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
+        "text": "Which of the companies had the lowest net income in EUR at the end of the period listed in annual report: \"Datalogic\", \"NuCana plc\", \"Duni Group\", \"Playtech plc\", \"Atreca, Inc.\"? If data for the company is not available, exclude it from the comparison. If only one company is left, return this company.",
         "kind": "name",
         "metadata_category": "financial_performance",
         "currency": "EUR",
         "search_locations": [
-          "Annual Report Financial Statements",
-          "Income Statement Section",
-          "Revenue Information",
-          "Currency Notes"
+          "Annual Report",
+          "Financial Performance",
+          "Income Statement",
+          "Net Income"
+        ]
+      },
+      {
+        "text": "For Atreca, Inc., what was the value of Number of managed clinics at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report",
+          "Management Discussion and Analysis",
+          "Financial Highlights",
+          "Operational Highlights",
+          "Statements of Operations",
+          "Footnotes to Financial Statements"
         ]
       }
     ],
@@ -1629,15 +1807,39 @@
     "company_name": "Kiniksa Pharmaceuticals, Ltd.",
     "questions": [
       {
-        "text": "Did Kiniksa Pharmaceuticals, Ltd. mention any mergers or acquisitions in the annual report? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "merger_acquisition",
+        "text": "What was the value of Number of active pharmaceutical patents of Kiniksa Pharmaceuticals, Ltd. at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
         "currency": "N/A",
         "search_locations": [
-          "annual report",
-          "mergers and acquisitions",
-          "management discussion and analysis",
-          "notes to financial statements"
+          "Annual Report",
+          "Patents and Intellectual Property",
+          "End of Period Summary",
+          "Balance Sheets",
+          "Management's Discussion and Analysis"
+        ]
+      },
+      {
+        "text": "What was the value of Generic product count of Kiniksa Pharmaceuticals, Ltd. at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report Key Metrics",
+          "End-of-Period Statistics",
+          "Notes on Pharmaceutical Inventory",
+          "Segment Operational Highlights"
+        ]
+      },
+      {
+        "text": "What was the largest single spending of Kiniksa Pharmaceuticals, Ltd. on executive compensation in USD? If data is not available in this currency, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "executive_compensation",
+        "currency": "USD",
+        "search_locations": [
+          "Executive Compensation",
+          "Financial Statements",
+          "Compensation Overview"
         ]
       }
     ],
@@ -1647,15 +1849,15 @@
     "company_name": "James Halstead plc",
     "questions": [
       {
-        "text": "For James Halstead plc, what was the value of Value of inventory on hand at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "text": "According to the annual report, what is the Cash flow from operations (in GBP) for James Halstead plc  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
         "kind": "number",
         "metadata_category": "financial_performance",
-        "currency": "N/A",
+        "currency": "GBP",
         "search_locations": [
-          "Balance Sheet",
           "Financial Statements",
-          "Annual Report",
-          "Inventory Section"
+          "Consolidated Cash Flow Statement",
+          "Management Discussion and Analysis",
+          "Notes to the Financial Statements"
         ]
       }
     ],
@@ -1663,64 +1865,23 @@
   },
   "e2923f240db86d0096f462f6cb398339d3251b50": {
     "company_name": "Syndax Pharmaceuticals, Inc.",
-    "questions": [
-      {
-        "text": "What was the Dividend per share (in AUD) for Syndax Pharmaceuticals, Inc. according to the annual report (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "dividend_policy",
-        "currency": "AUD",
-        "search_locations": [
-          "Dividends",
-          "Shareholder Returns",
-          "Annual Financial Statements",
-          "Notes to Financial Statements",
-          "Management Discussion and Analysis"
-        ]
-      }
-    ],
-    "has_questions": true
+    "questions": [],
+    "has_questions": false
   },
   "35839effbc332f23d5f34263aab3dcb2c6976420": {
     "company_name": "Blue Apron Holdings, Inc.",
     "questions": [
       {
-        "text": "According to the annual report, what is the Cash flow from operations (in USD) for Blue Apron Holdings, Inc.  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "USD",
-        "search_locations": [
-          "Cash Flow Statements",
-          "Financial Performance Overview",
-          "Management Discussions and Analysis",
-          "Notes to Financial Statements"
-        ]
-      },
-      {
-        "text": "Did Blue Apron Holdings, Inc. outline any new ESG initiatives in the annual report? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "esg_initiative",
+        "text": "Which leadership positions changed at Blue Apron Holdings, Inc. in the reporting period? If data is not available, return 'N/A'. Give me the title of the position.",
+        "kind": "names",
+        "metadata_category": "leadership_change",
         "currency": "N/A",
         "search_locations": [
-          "ESG Initiatives",
-          "Sustainability",
-          "Corporate Responsibility",
-          "Environmental Impact",
-          "Social Impact",
-          "Governance",
-          "Annual Report Section on ESG",
-          "Annual Report Highlights"
-        ]
-      },
-      {
-        "text": "According to the annual report, what is the Operating margin (%) for Blue Apron Holdings, Inc.  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "N/A",
-        "search_locations": [
-          "Operating and Financial Overview",
-          "Income Statement",
-          "Key Performance Indicators",
-          "Notes to Financial Statements"
+          "Leadership Changes",
+          "Corporate Governance",
+          "Management Team",
+          "Executive Summary",
+          "Board of Directors"
         ]
       }
     ],
@@ -1730,26 +1891,16 @@
     "company_name": "Commerzbank",
     "questions": [
       {
-        "text": "What was the largest single spending of Commerzbank on executive compensation in AUD? If data is not available in this currency, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "executive_compensation",
-        "currency": "AUD",
-        "search_locations": [
-          "Executive Compensation",
-          "Financial Statements",
-          "Remuneration Reports"
-        ]
-      },
-      {
         "text": "What is the total number of employees let go by Commerzbank according to the annual report? If data is not available, return 'N/A'.",
         "kind": "number",
         "metadata_category": "layoff",
         "currency": "N/A",
         "search_locations": [
-          "Workforce Reduction",
-          "Layoffs",
           "Employee Information",
-          "Annual Report - Human Resources Section"
+          "Workforce & Human Resources",
+          "Layoffs Section",
+          "Restructuring Activities",
+          "Annual Report Highlights"
         ]
       }
     ],
@@ -1764,16 +1915,15 @@
     "company_name": "Structural Monitoring Systems Plc",
     "questions": [
       {
-        "text": "Did Structural Monitoring Systems Plc announce any new product launches in the annual report? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "product_launch",
-        "currency": "N/A",
+        "text": "What was the Capital expenditures (in USD) for Structural Monitoring Systems Plc according to the annual report (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "capital_expenditure",
+        "currency": "USD",
         "search_locations": [
-          "Annual Report",
-          "New Product Development",
-          "Product Launch Announcements",
-          "CEO Message",
-          "Business Update"
+          "Financial Statements",
+          "Capital Expenditures",
+          "Annual Report Highlights",
+          "Management Discussion and Analysis"
         ]
       }
     ],
@@ -1788,11 +1938,20 @@
         "metadata_category": "layoff",
         "currency": "N/A",
         "search_locations": [
-          "Employee reductions",
-          "Management discussion",
-          "Annual report highlights",
-          "Workforce changes",
-          "Human resources section"
+          "Workforce Reduction Section",
+          "Management Discussion and Analysis",
+          "Human Resources Report"
+        ]
+      },
+      {
+        "text": "For Pintec Technology Holdings Limited, what was the value of End-of-year net interest margin (NIM) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "financial_performance",
+        "currency": "N/A",
+        "search_locations": [
+          "End-of-year Financial Summary",
+          "Annual Financial Statements",
+          "Net Interest Margin Analysis"
         ]
       }
     ],
@@ -1805,60 +1964,108 @@
   },
   "36dd058d3237202cbb94139611c8b8a35ff8c158": {
     "company_name": "Ocugen, Inc.",
-    "questions": [],
-    "has_questions": false
-  },
-  "6d76ccb75bbf1b27ca60b8419c5343ac050cebb0": {
-    "company_name": "Seiko Epson Corporation",
-    "questions": [],
-    "has_questions": false
-  },
-  "e21ac6c083a56192fab027ebd2ab0fad71de5d7d": {
-    "company_name": "Emera Inc.",
     "questions": [
       {
-        "text": "Did Emera Inc. announce any changes to its dividend policy in the annual report? If there is no mention, return False.",
-        "kind": "boolean",
-        "metadata_category": "dividend_policy",
-        "currency": "N/A",
+        "text": "What was the largest single spending of Ocugen, Inc. on executive compensation in AUD? If data is not available in this currency, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "executive_compensation",
+        "currency": "AUD",
         "search_locations": [
-          "Dividend Policy",
-          "Management Discussion and Analysis",
-          "Financial Statements",
+          "Executive Compensation",
+          "Annual Financial Statements",
+          "Salary and Bonus Details",
+          "Key Management Personnel",
           "Notes to the Financial Statements"
         ]
       }
     ],
     "has_questions": true
   },
-  "4e3efdc544140b872a59e124443a64c34f356911": {
-    "company_name": "Guaranty Bancshares, Inc.",
-    "questions": [],
-    "has_questions": false
-  },
-  "da663e46fbf02ec8a90b3f3c1079ef4c9f7907e1": {
-    "company_name": "Albany International Corp.",
-    "questions": [],
-    "has_questions": false
-  },
-  "2fd79ae4ebe4943384c119eb1d1e9286ba3c5074": {
-    "company_name": "BCB Bancorp, Inc.",
+  "6d76ccb75bbf1b27ca60b8419c5343ac050cebb0": {
+    "company_name": "Seiko Epson Corporation",
     "questions": [
       {
-        "text": "For BCB Bancorp, Inc., what was the value of Number of customer accounts at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
+        "text": "Did Seiko Epson Corporation announce any changes to its dividend policy in the annual report? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "dividend_policy",
         "currency": "N/A",
         "search_locations": [
-          "Annual Report",
-          "Year-End Summary",
-          "Statistical Highlights",
-          "Financial Statements",
-          "Key Metrics"
+          "Dividend policy",
+          "Annual report section on shareholder returns",
+          "Notes on financial statements related to dividends"
         ]
       }
     ],
     "has_questions": true
+  },
+  "e21ac6c083a56192fab027ebd2ab0fad71de5d7d": {
+    "company_name": "Emera Inc.",
+    "questions": [],
+    "has_questions": false
+  },
+  "4e3efdc544140b872a59e124443a64c34f356911": {
+    "company_name": "Guaranty Bancshares, Inc.",
+    "questions": [
+      {
+        "text": "Did Guaranty Bancshares, Inc. announce any new product launches in the annual report? If there is no mention, return False.",
+        "kind": "boolean",
+        "metadata_category": "product_launch",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Reports",
+          "New Products and Services",
+          "Management Discussion and Analysis"
+        ]
+      }
+    ],
+    "has_questions": true
+  },
+  "da663e46fbf02ec8a90b3f3c1079ef4c9f7907e1": {
+    "company_name": "Albany International Corp.",
+    "questions": [
+      {
+        "text": "What are the names of new products launched by Albany International Corp. as mentioned in the annual report?",
+        "kind": "names",
+        "metadata_category": "product_launch",
+        "currency": "N/A",
+        "search_locations": [
+          "Product Launches",
+          "New Innovations",
+          "Annual Report Overview",
+          "Business Highlights"
+        ]
+      },
+      {
+        "text": "For Albany International Corp., what was the value of R&D spending on advanced programs at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "rnd_investment",
+        "currency": "N/A",
+        "search_locations": [
+          "Research and Development Expenditure",
+          "Financial Highlights",
+          "Advanced Programs Funding",
+          "Annual Report - Financial Statements"
+        ]
+      },
+      {
+        "text": "For Albany International Corp., what was the value of Year-end patent portfolio (aerospace tech) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "kind": "number",
+        "metadata_category": "rnd_investment",
+        "currency": "N/A",
+        "search_locations": [
+          "Annual Report",
+          "Research and Development Section",
+          "Intellectual Property/Holdings Section",
+          "Financial Statements"
+        ]
+      }
+    ],
+    "has_questions": true
+  },
+  "2fd79ae4ebe4943384c119eb1d1e9286ba3c5074": {
+    "company_name": "BCB Bancorp, Inc.",
+    "questions": [],
+    "has_questions": false
   },
   "0f111d244aee3d976684995a222fa177a64571c4": {
     "company_name": "NextNav Inc.",
@@ -1874,35 +2081,21 @@
         "metadata_category": "financial_performance",
         "currency": "N/A",
         "search_locations": [
-          "Financial Performance Section",
-          "Risk Analysis Section",
-          "Loan Performance Section",
-          "Annual Report Metrics",
-          "Appendices or Financial Notes"
+          "Financial Statements",
+          "Operating Highlights",
+          "Key Performance Indicators",
+          "Non-Performing Loans Section"
         ]
       },
       {
-        "text": "For FNCB Bancorp, Inc., what was the value of End-of-year net interest margin (NIM) at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "text": "According to the annual report, what is the Cash flow from operations (in USD) for FNCB Bancorp, Inc.  (within the last period or at the end of the last period)? If data is not available, return 'N/A'.",
         "kind": "number",
         "metadata_category": "financial_performance",
-        "currency": "N/A",
+        "currency": "USD",
         "search_locations": [
-          "Financial Highlights",
-          "Annual Financial Statements",
-          "Income Statement",
-          "Interest Margins and Yields",
-          "Management Discussion and Analysis"
-        ]
-      },
-      {
-        "text": "For FNCB Bancorp, Inc., what was the value of Loans outstanding at year-end at the end of the period listed in annual report? If data is not available, return 'N/A'.",
-        "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "N/A",
-        "search_locations": [
-          "Loans outstanding",
-          "Year-end financial summary",
-          "Balance Sheet"
+          "Cash flow statement",
+          "Financial statements",
+          "Management's discussion and analysis"
         ]
       }
     ],
@@ -1917,16 +2110,14 @@
     "company_name": "Aptevo Therapeutics Inc.",
     "questions": [
       {
-        "text": "Did Aptevo Therapeutics Inc. mention any ongoing litigation or regulatory inquiries? If there is no mention, return False.",
+        "text": "Did Aptevo Therapeutics Inc. mention any mergers or acquisitions in the annual report? If there is no mention, return False.",
         "kind": "boolean",
-        "metadata_category": "regulatory_litigation",
+        "metadata_category": "merger_acquisition",
         "currency": "N/A",
         "search_locations": [
-          "Regulatory Issues",
-          "Litigation",
-          "Legal Matters",
-          "Compliance",
-          "Annual Reports Legal Disclosures"
+          "Mergers and Acquisitions",
+          "Company Strategy",
+          "Management Discussion and Analysis"
         ]
       }
     ],
@@ -1941,14 +2132,15 @@
     "company_name": "MainStreet Bancshares, Inc.",
     "questions": [
       {
-        "text": "What was the value of Branch count at year-end of MainStreet Bancshares, Inc. at the end of the period listed in annual report? If data is not available, return 'N/A'.",
+        "text": "What was the largest single spending of MainStreet Bancshares, Inc. on executive compensation in USD? If data is not available in this currency, return 'N/A'.",
         "kind": "number",
-        "metadata_category": "financial_performance",
-        "currency": "N/A",
+        "metadata_category": "executive_compensation",
+        "currency": "USD",
         "search_locations": [
-          "Annual Report - Branch and Office Locations",
-          "Company Overview - Operational Metrics",
-          "Year-End Summary - Financial Data Tables"
+          "Executive Compensation",
+          "Management Discussion & Analysis",
+          "Financial Statements",
+          "Expenses & Salaries Details"
         ]
       }
     ],
@@ -1956,20 +2148,7 @@
   },
   "8467b7fce0d860b56e30c79d253d0bb5e9a32e95": {
     "company_name": "Bridgewater Bancshares, Inc.",
-    "questions": [
-      {
-        "text": "What is the name of the last product launched by Bridgewater Bancshares, Inc. as mentioned in the annual report?",
-        "kind": "name",
-        "metadata_category": "product_launch",
-        "currency": "N/A",
-        "search_locations": [
-          "Product Launches",
-          "Recent Innovations and Developments",
-          "Highlights of the Year",
-          "Annual Summary"
-        ]
-      }
-    ],
-    "has_questions": true
+    "questions": [],
+    "has_questions": false
   }
 }

@@ -21,7 +21,7 @@ logging.basicConfig(
 logger = logging.getLogger("rag_qa_final")
 
 # Инициализация клиента OpenAI (замените "****" на реальный API-ключ или используйте переменные окружения)
-client = OpenAI(api_key="*****")
+client = OpenAI()
 
 class QuestionAnswer(BaseModel):
     data_analysis: List[str] = Field(
