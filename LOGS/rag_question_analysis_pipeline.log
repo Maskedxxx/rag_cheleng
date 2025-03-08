@@ -704,3 +704,25 @@
 2025-03-07 12:51:39,994 - INFO - Анализ вопросов завершён.
 2025-03-07 12:51:39,994 - INFO - Сохранение результатов в файл: results/all_questions_analysis_results.json
 2025-03-07 12:51:40,004 - INFO - Результаты сохранены.
+2025-03-08 10:38:21,699 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-08 10:38:21,722 - INFO - Загрузка данных компаний из файла: dummy_companies.json
+2025-03-08 10:38:21,726 - INFO - Сохранение результатов в файл: results/test_output.json
+2025-03-08 10:38:21,726 - INFO - Результаты сохранены.
+2025-03-08 10:41:07,333 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-08 10:41:07,363 - INFO - Загрузка данных компаний из файла: dummy_companies.json
+2025-03-08 10:41:07,369 - INFO - Сохранение результатов в файл: results/test_output.json
+2025-03-08 10:41:07,370 - INFO - Результаты сохранены.
+2025-03-08 10:42:09,942 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-08 10:42:09,970 - INFO - Загрузка данных компаний из файла: dummy_companies.json
+2025-03-08 10:42:09,976 - INFO - Загрузка данных компаний из файла: dummy_companies.json
+2025-03-08 10:42:09,978 - INFO - Сохранение результатов в файл: results/test_output.json
+2025-03-08 10:42:09,978 - INFO - Результаты сохранены.
+2025-03-08 10:43:16,405 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-08 10:43:16,433 - INFO - Загрузка данных компаний из файла: dummy_companies.json
+2025-03-08 10:43:16,433 - INFO - Начало анализа вопросов для всех компаний.
+2025-03-08 10:43:16,433 - INFO - Обработка компании: Company A
+2025-03-08 10:43:16,434 - INFO - Вопрос 1 обработан: категория - financial_performance, валюта - USD
+2025-03-08 10:43:16,434 - INFO - Анализ вопросов завершён.
+2025-03-08 10:43:16,435 - INFO - Загрузка данных компаний из файла: dummy_companies.json
+2025-03-08 10:43:16,437 - INFO - Сохранение результатов в файл: results/test_output.json
+2025-03-08 10:43:16,437 - INFO - Результаты сохранены.
