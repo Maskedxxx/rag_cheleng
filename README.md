@@ -100,13 +100,14 @@ RAG_CHELENG_FINISH/
 │   ├── __init__.py            # Инициализация пакета
 │   ├── rag_metadata_questions_pipeline.py  # Пайплайн метаданных и вопросов
 │   ├── rag_question_analysis_pipeline.py   # Пайплайн анализа вопросов
-│   └── rag_submission.py      # Модуль подготовки результатов
 ├── results/                   # Результаты обработки
 ├── tests/                     # Тесты проекта
 ├── .gitignore                 # Настройки Git-игнорирования
 ├── README.md                  # Описание проекта
 ├── run_pdf_preprocessor.py    # Запуск предобработки PDF
 ├── run_rag_pipeline.py        # Единая точка входа для запуска полного пайплайна
+├── run_submission.py          # Модуль подготовки результатов
+
 ```
 
 ## Команда проекта
